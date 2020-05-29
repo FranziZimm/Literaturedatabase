@@ -1,0 +1,1440 @@
+International Journal of Semantic Computing Vol. 10, No. 1 (2016) 5–25 °c World Scienti¯c Publishing Company DOI: 10.1142/S1793351X16400018
+E±cient Query Processing in 3D Motion Capture Gesture Databases
+Christian Beecks*,§, Marwan Hassani*,¶, Bela Brenger†,||, Jennifer Hinnell‡,**, Daniel Schüller†,††, Irene Mittelberg†,‡‡ and
+Thomas Seidl*,§§ *Data Management and Exploration Group
+RWTH Aachen University, Germany †Natural Media Lab, RWTH Aachen University, Germany ‡Department of Linguistics, University of Alberta, Canada
+§beecks@cs.rwth-aachen.de ¶hassani@cs.rwth-aachen.de ||brenger@humtec.rwth-aachen.de
+**hinnell@ualberta.ca ††schueller@humtec.rwth-aachen.de ‡‡mittelberg@humtec.rwth-aachen.de
+§ §seidl@cs.rwth-aachen.de
+One of the most fundamental challenges when accessing gestural patterns in 3D motion capture databases is the de¯nition of spatiotemporal similarity. While distance-based similarity models such as the Gesture Matching Distance on gesture signatures are able to leverage the spatial and temporal characteristics of gestural patterns, their applicability to large 3D motion capture databases is limited due to their high computational complexity. To this end, we present a lower bound approximation of the Gesture Matching Distance that can be utilized in an optimal multi-step query processing architecture in order to support e±cient query processing. We investigate the performance in terms of accuracy and e±ciency based on 3D motion capture databases and show that our approach is able to achieve an increase in e±ciency of more than one order of magnitude with a negligible loss in accuracy. In addition, we discuss di®erent applications in the digital humanities in order to highlight the signi¯cance of similarity search approaches in the research ¯eld of gestural pattern analysis.
+Keywords: E±cient query processing; spatiotemporal data; 3D motion capture data; gestural patterns; gesture signature; gesture matching distance; dynamic time warping.
+1. Introduction
+3D motion capture data is a speci¯c type of multimedia data that is mainly used to record movements of humans, animals, or objects over time. This type of data has found widespread utilization in academia and industry, for instance, for entertaining purposes, medical applications, ¯lm-making, and video game development. One of the major advantages of 3D motion capture data is the capability of expressing spatiotemporal dynamics with the highest possible accuracy [1]. This property makes
+5
+
+6 C. Beecks et al.
+3D motion capture data particularly useful for research into the domain of gestural pattern analysis and for mining gestural patterns, which aims at ¯nding frequent spatiotemporal patterns, extracting spatiotemporal correlations within a single trajectory or among multiple trajectories, clustering similar gestural trajectories or classifying gestures [2–5].
+A gestural pattern can be understood as a kinetic action involving hand, arm, and body con¯gurations or movements over a certain period of time. A gestural pattern is represented either by extracting its characteristic features or utilizing the raw threedimensional movement traces, the so-called trajectories. In order to maintain the high degree of exactness provided by utilizing 3D motion capture data, we represent gestural patterns by means of gesture signatures [1]. Gesture signatures are multidimensional trajectory representations which facilitate gestural pattern analysis with arbitrarily high exactness. Gesture signatures are able to adapt to the individual spatial and temporal properties of gestural patterns by allowing these patterns to di®er in the number of included trajectories and their lengths as well as in the weighting scheme indicating the inherent relevance of the trajectories. In fact, gesture signatures provide an adaptable model-free approach which supports lazy query-dependent evaluation, i.e. no time-intensive training phase is needed prior to query processing.
+In order to leverage the spatial and temporal characteristics of gestural patterns, we utilize the Gesture Matching Distance [1] for the similarity comparison of two gesture signatures. The Gesture Matching Distance is a distance-based similarity measure which quanti¯es the degree of dissimilarity between two di®erently structured gesture signatures by matching similar trajectories within the gesture signatures according to their spatial and temporal characteristics. To this end, the Gesture Matching Distance is parameterized with a distance measure between individual trajectories, such as the Dynamic Time Warping [6, 7], the Levenshtein Distance [8], the Minimal Variance Matching [9], the Longest Common Subsequence [10, 11], the Edit Distance with Real Penalty [12], the Edit Distance on Real Sequences [13], or the Mutual Nearest Point Distance [14].
+Although the Gesture Matching Distance enables a user-customizable and adaptive similarity de¯nition, it is accompanied by a high computation time complexity. The computation time complexity for a single distance computation between two gesture signatures is quadratic in the number of the underlying trajectories. Thus the applicability of this spatiotemporal similarity measure is limited to smallto-moderate 3D motion capture databases.
+In this paper, we aim to counteract this e±ciency issue and present a lower bound approximation of the Gesture Matching Distance [15] that can be utilized in an optimal multi-step query processing architecture [16]. Besides the theoretical investigation of this approximation, we benchmark the performance in terms of accuracy and e±ciency and empirically show that the proposed lower bound approximation is able to achieve an increase in e±ciency of more than one order of magnitude with a negligible loss in accuracy. In addition, we discuss di®erent
+
+E±cient Query Processing in 3D Motion Capture Gesture Databases 7
+applications in digital humanities in order to highlight the signi¯cance of similarity search approaches in the research ¯eld of gestural pattern analysis.
+The paper is structured as follows: Section 2 outlines related work with a particular focus on gestural pattern similarity by means of gesture signatures and the Gesture Matching Distance. In Sec. 3, we investigate the lower bound approximation of the Gesture Matching Distance. The optimal multi-step query processing algorithm is presented in Sec. 4. Experimental results are reported in Sec. 5, and a discussion of di®erent applications in digital humanities with a particular focus on gesture research is included in Sec. 6. The conclusions are given in Sec. 7.
+
+2. Related Work
+
+2.1. Gesture signatures
+
+A gesture signature [1] is a lossless spatiotemporal representation of a gestural pattern which comprises di®erent movement traces, the so-called trajectories. A trajectory can be thought of as a ¯nite sequence of points in a multidimensional space. As we consider the three-dimensional Euclidean space R3, we de¯ne a trajectory t 2 T as:
+
+t : f1; . . . ; ng ! R3;
+
+ð1Þ
+
+where time i
+
+tðiÞ ¼ 2 ½1; .
+
+ðxi; yi; . . ; n.
+
+ziÞ 2 The
+
+R3 represents the trajectory space T
+
+cooSrdinates ¼ k2Nftjt
+
+of the : f1; . . .
+
+movement ; kg ! R3g
+
+trace at denotes
+
+the set of all ¯nite trajectories.
+
+Since a gestural pattern typically involves more than one trajectory within a
+
+certain period of time, we aggregate these trajectories by means of a gesture signature
+
+S 2 RT which is de¯ned as:
+
+S : T ! R!0 subject to jft 2 TjSðtÞ 6¼ 0gj < 1:
+
+ð2Þ
+
+A gesture signature is a function from the trajectory space T into the real numbers R. It assigns each trajectory a non-negative weight indicating its relevance with respect to the corresponding gestural pattern. Possible weighting schemes include uniform weighting, motion distance weighting, and motion variance weighting [1]. The latter re°ect the overall movement and vividness of a trajectory, respectively.
+
+2.2. Gesture signature distance functions
+Gestural patterns typically maintain a high degree of idiosyncrasy, meaning that the involved trajectories are almost unique. In order to quantify a similarity value between two di®erently structured gestural patterns, Beecks et al. [1] have investigated the idea of matching similar trajectories within the gestural patterns according to their spatial and temporal characteristics. To this end, the trajectories are compared by means of a trajectory distance function, such as the Dynamic Time Warping Distance, and the distances between matching trajectories are accumulated
+
+8 C. Beecks et al.
+
+accordingly. Thus, given two gesture signatures S1; S2 2 RT and a trajectory distance
+
+function  : T Â T ! R!0, the Gesture Matching Distance between S1 and S2 is
+
+de¯ned as:
+
+X
+
+X
+
+GMDðS1; S2Þ ¼
+
+S1ðt1Þ Á ðt1; t2Þ þ
+
+S2ðt2Þ Á ðt2; t1Þ; ð3Þ
+
+ðt1
+
+;t2
+
+Þ2m
+
+ÀNN S1 !S2
+
+ðt2
+
+;t1
+
+Þ2m
+
+ÀNN S2 !S1
+
+where the
+
+as
+
+m
+
+ÀNN S1 !S2
+
+nearest-neighbor
+
+matching
+
+m
+
+ÀNN S1 !S2
+
+
+
+¼ fðt1; t2Þ 2 T Â TjS1ðt1Þ > 0 ^ S2ðt2Þ
+
+TÂ >0
+
+T ^
+
+between t2 ¼ arg
+
+S1 and S2 is de¯ned mint2Tðt1; tÞg.
+
+The Gesture Matching Distance increases with decreasing similarity of the
+
+matching trajectories. The computation time complexity is quadratic in the number
+of trajectories, i.e. a single distance computation lies in OðjfS1ðtÞ > 0gt2Tj Á jfS2ðtÞ > 0gt2Tj Á Þ where  denotes the computation time complexity of the trajectory distance function .
+
+In addition to the Gesture Matching Distance, other applicable signature distance functions [17–21] are the transformation-based Earth Mover's Distance [21], the
+
+correlation-based Signature Quadratic Form Distance [22], the matching-based
+
+Hausdor® Distance [23] and its variants [24, 25] as well as the Signature Matching
+
+Distance [26].
+
+2.3. Trajectory distance functions
+
+Fundamental to the question of how to model spatiotemporal similarity between
+
+gestural patterns comprising one or more trajectories, is the question of how to
+
+determine similarity between two individual trajectories. A common approach to comparing two trajectories is based on Dynamic Time Warping [6, 7]. The idea of this approach is to ¯t the trajectories to each other by aligning their coincident
+
+similar points and accumulating the corresponding point-wise distances. Given
+
+two trajectories tn : f1; . . . ; ng ! R3 and tm : f1; . . . ; mg ! R3 and a point-wise distance function  : R3 Â R3 ! R, the Dynamic Time Warping Distance between
+
+tn and tm is de¯ned as:
+
+8<DTWðtnÀ1; tmÀ1Þ
+
+DTWðtn; tmÞ ¼ ðtnðnÞ; tmðmÞÞ þ min:DTWðtn; tmÀ1Þ
+
+ð4Þ
+
+DTWðtnÀ1; tmÞ
+
+with
+
+DTWðt0; t0Þ ¼ 0
+
+ð5Þ
+
+DTWðti; t0Þ ¼ 1 81 i n
+
+ð6Þ
+
+DTWðt0; tjÞ ¼ 1 81 j m:
+
+ð7Þ
+
+The Dynamic Time Warping Distance is de¯ned recursively by minimizing the distances  between replicated points of the trajectories. In this way, the distance  assesses the spatial proximity of two points while the Dynamic Time Warping Distance preserves their temporal order within the trajectories. By utilizing Dynamic
+
+E±cient Query Processing in 3D Motion Capture Gesture Databases 9
+
+Programming, the computation time complexity of the Dynamic Time Warping Distance lies in Oðn Á mÞ.
+In addition to Dynamic Time Warping described above, spatiotemporal similarity between trajectories can be assessed for instance by the Levenshtein Distance [8], the Minimal Variance Matching [9], the Longest Common Subsequence [10, 11], the Edit Distance with Real Penalty [12], the Edit Distance on Real Sequences [13], or the Mutual Nearest Point Distance [14].
+2.4. Other approaches to gestural pattern similarity
+Gestural patterns are mainly investigated in terms of gesture recognition, which aims at recognizing meaningful expressions of human motion including hand, arm, face, head, and body movements [27]. Many surveys [27–35] have been released in the past years, providing an extensive overview of the many facets of gesture recognition. Most approaches either rely on 2D video capture technology and, thus, computer vision techniques, cf. [36, 37], or on 3D motion capture technology, which provides higher accuracy and thus more potential for precise spatiotemporal similarity search. A recent survey of vision-based gesture recognition approaches can be found in [32]. Frequently encountered approaches for recognizing manual gestural patterns are based on Hidden Markov Models [38–41] or more generally Dynamic Bayesian Networks [42]. More recent approaches are based for instance on Feature Fusion [43], on Dynamic Time Warping [44, 45], on Longest Common Subsequences [46], or on Neural Networks [47].
+
+3. Lower Bound Approximation of the Gesture Matching Distance
+
+In this section, we present the lower bound approximation of the Gesture Matching
+
+Distance. In order to derive this approximation, we will ¯rst investigate the theo-
+
+retical properties of the underlying nearest-neighbor matching and then show how
+
+these ¯ndings lead to our proposal.
+
+Suppose we are given two gesture signatures S1; S2 2 RT and a trajectory distance
+
+function  : T Â T ! R!0 that determines the dissimilarity between two individual
+
+trajectories.
+
+In
+
+general,
+
+a
+
+nearest-neighbor
+
+matching
+
+m
+
+ÀNN S1 !S2
+
+
+
+T
+
+Â
+
+T
+
+assigns
+
+each
+
+trajectory t 2 T from gesture signature S1 to one or more trajectories u; v; . . . 2 T
+
+from gesture signature S2. If the trajectories u; v; . . . are equally distant to trajectory
+
+t, i.e. if it holds that ðt; uÞ ¼ ðt; vÞ ¼ . . . , trajectory t is matched to several nearest
+
+neighbors. In practice, however, the uniqueness of the distances between di®erent
+
+trajectories most likely leads to exactly one nearest neighbor. If this is not the case,
+
+we assume that one of the nearest neighbors is selected non-deterministically. Based
+
+on
+
+this
+
+assumption,
+
+each
+
+nearest-neighbor
+
+matching
+
+m
+
+ÀNN S1 !S2
+
+between
+
+two
+
+non-empty
+
+gesture signatures S1 and S2 satis¯es the following properties:
+
+. Left totality:
+
+8t
+
+2
+
+T;
+
+9u
+
+2
+
+T
+
+:
+
+S1ðtÞ
+
+>
+
+0
+
+)
+
+ðt;
+
+uÞ
+
+2
+
+m
+
+ÀNN S1 !S2
+
+ð8Þ
+
+10 C. Beecks et al.
+
+. Right uniqueness:
+
+8t; u; v
+
+2
+
+T
+
+:
+
+ðt; uÞ
+
+2
+
+m
+
+ÀNN S1 !S2
+
+^
+
+ðt; vÞ
+
+2
+
+m
+
+ÀNN S1 !S2
+
+)
+
+u
+
+¼
+
+v
+
+ð9Þ
+
+Intuitively, each trajectory t 2 T that contributes to gesture signature S1, i.e. which has a positive weight S1ðtÞ > 0, is matched to exactly one trajectory u 2 T with S2ðuÞ > 0 from gesture signature S2. These properties of a nearest-neighbor matching hold true irrespective of the underlying trajectory distance function . Thus, by replacing the trajectory distance function  with another one, pairs of matching
+trajectories are subject to change, as shown in the following lemma.
+
+Lemma 1. Let S1; S2 2 RT be two gesture signatures and ;  0 : T Â T ! R!0 be two
+
+trajectory distance functions. For the
+
+m
+
+ 0ÀNN S1 !S2
+
+between
+
+S1
+
+and
+
+S2
+
+it
+
+holds
+
+that:
+
+nearest-neighbor
+
+matchings
+
+m
+
+ÀNN S1 !S2
+
+and
+
+8t
+
+2
+
+T; 9u; v
+
+2
+
+T
+
+:
+
+ðt; uÞ
+
+2
+
+m
+
+ÀNN S1 !S2
+
+,
+
+ðt; vÞ
+
+2
+
+m
+
+ 0ÀNN S1 !S2
+
+ð10Þ
+
+Proof. Let S1ðtÞ 0. By de¯nition of the nearest-neighbor matching it holds that
+
+ðt; uÞ
+
+26
+
+m
+
+ÀNN S1 !S2
+
+and
+
+that
+
+ðt; vÞ
+
+26
+
+m
+
+ 0ÀNN S1 !S2
+
+.
+
+Let
+
+S1ðtÞ
+
+>
+
+0.
+
+Suppose
+
+that
+
+9u
+
+2
+
+T
+
+such
+
+that
+
+ðt; uÞ
+
+2
+
+m
+
+ÀNN S1 !S2
+
+.
+
+By
+
+de¯nition
+
+of
+
+m
+
+ÀNN S1 !S2
+
+it
+
+then
+
+holds
+
+that
+
+S2ðuÞ
+
+>
+
+0.
+
+Thus,
+
+jft
+
+2
+
+TjS2ðtÞ
+
+¼6
+
+0gj
+
+>
+
+0.
+
+Consequently,
+
+by
+
+replacing  with 0 there exists at least one trajectory v 2 T with S2ðvÞ > 0 that
+
+minimizes 0ðt;
+
+ðt;
+
+uÞ
+
+62
+
+m
+
+ÀNN S1 !S2
+
+.
+
+vÞ.
+
+Therefore,
+
+ðt;
+
+vÞ
+
+2
+
+m
+
+ 0ÀNN S1 !S2
+
+.
+
+Due to the fact that S1ðtÞ > 0
+
+Suppose it follows
+
+that that
+
+8u 2 T it holds ft 2 TjS2ðtÞ 6¼ 0g
+
+that ¼ ;.
+
+Consequently, by replacing  with 0 if follows that 8v 2 T it holds that
+
+ðt;
+
+vÞ
+
+26
+
+m
+
+ 0ÀNN S1 !S2
+
+.
+
+This
+
+gives
+
+us
+
+the
+
+statement.
+
+Lemma 1 states that each trajectory t from gesture signature S1 that matches a
+trajectory u from gesture signature S2 according to a distance function  also matches a trajectory v according to a distance function 0. Due to the right uniqueness of
+
+the nearest-neighbor matching, we conclude that each pair of matching trajectories
+
+ðt;
+
+uÞ
+
+2
+
+m
+
+ÀNN S1 !S2
+
+has
+
+exactly
+
+one
+
+counter
+
+pair
+
+ðt;
+
+vÞ
+
+2
+
+m
+
+ 0ÀNN S1 !S2
+
+.
+
+This
+
+fact
+
+is
+
+summarized
+
+in the following corollary.
+
+Corollary 1. Let S1; S2 2 RT be two gesture signatures and ;  0 : T Â T ! R!0 be
+
+two trajectory distance
+
+ðt;
+
+vÞ
+
+2
+
+m
+
+ 0ÀNN S1 !S2
+
+.
+
+functions.
+
+For
+
+each
+
+ðt; uÞ
+
+2
+
+m
+
+ÀNN S1 !S2
+
+there
+
+exists
+
+exactly
+
+one
+
+The corollary above implies that the cardinality of the nearest-neighbor matching
+
+between
+
+jm
+
+ 0ÀNN S1 !S2
+
+j
+
+two gesture signatures S1 for any trajectory distance
+
+and S2 is ¯xed, i.e. functions  and 0.
+
+it
+
+holds
+
+that
+
+jm
+
+ÀNN S1 !S2
+
+j
+
+¼
+
+What remains to be shown is that the substitution of a trajectory distance
+
+function  : T Â T ! R!0 with a lower bound LB : T Â T ! R!0, which is a function
+
+that satis¯es the following property for all trajectories u; v 2 T : LBðu; vÞ ðu; vÞ,
+
+will lead to a lower bound approximation of the Gesture Matching Distance. To this
+
+end, we provide the following lemma.
+
+E±cient Query Processing in 3D Motion Capture Gesture Databases 11
+
+Lemma 2. Let S1; S2 2 RT be two gesture signatures and  : T Â T ! R!0 be a trajectory distance function with lower bound LB : T Â T ! R!0, i.e. it holds that 8u; v 2 T : LBðu; vÞ ðu; vÞ. The nearest-neighbor matching satis¯es the following
+property:
+
+ðt; uÞ
+
+2
+
+m LBÀNN
+S1 !S2
+
+^ ðt; vÞ
+
+2
+
+m
+
+ÀNN S1 !S2
+
+)
+
+LBðt; uÞ
+
+ðt; vÞ
+
+ð11Þ
+
+Proof.
+
+Suppose
+
+it
+
+holds
+
+that
+
+ðt;
+
+uÞ
+
+2
+
+m LBÀNN
+S1 !S2
+
+and
+
+that
+
+ðt;
+
+vÞ
+
+2
+
+m
+
+ÀNN S1 !S2
+
+.
+
+By
+
+de¯nition
+
+of the nearest-neighbor matching it then holds that u ¼ arg mint 02T^S2ðt 0Þ>0
+
+Â LBðt; t0Þ and that v ¼ arg mint 02T^S2ðt 0Þ>0ðt; t 0Þ. Since it holds that mint 02T^S2ðt 0Þ>0
+
+Â LBðt; t 0Þ mint 02T^S2ðt 0Þ>0ðt; t 0Þ it follows that LBðt; uÞ ðt; vÞ.
+
+Combining Corollary 1 and Lemma 2 ¯nally leads to the proposal, as shown in the following theorem.
+
+Theorem 1. (Lower Bound Approximation)
+
+Let S1; S2 2 RT be two gesture signatures and  : T Â T ! R!0 be a trajectory distance function. For any lower bound LB : T Â T ! R!0 of  it holds that:
+
+GMDLB ðS1; S2Þ GMDðS1; S2Þ
+
+ð12Þ
+
+PProof. The Gesture MatcPhing Distance is de¯ned as: GMDðS1; S2Þ ¼
+
+ðt1 ;t2 Þ2m
+with LB
+
+ÀNN S1 !S2
+
+S1ðt1Þ
+
+Á
+
+ðt1;
+
+t2Þ
+
+þ
+
+ðt2
+
+;t1
+
+Þ2m
+
+ÀNN S2 !S1
+
+the number of summands stays
+
+S2ðt2 the
+
+Þ Á ðt2 same
+
+; t1Þ. since
+
+By lower-bounding 
+
+each
+
+ðt1;
+
+t2Þ
+
+2
+
+m
+
+ÀNN S1 !S2
+
+and
+
+ðt2;
+
+t1Þ
+
+2
+
+m
+
+ÀNN S2 !S1
+
+is
+
+replaced
+
+ðt2;
+
+t 10 Þ
+
+2
+
+m
+
+LB ÀNN S2 !S1
+
+,
+
+respectively
+
+(cf.
+
+by exactly Corollary 1).
+
+one
+
+ðt1;
+
+t 20 Þ
+
+2
+
+m LBÀNN
+S1 !S2
+
+According to Lemma
+
+and 2 it
+
+additionally
+
+hPolds
+
+that
+
+ðt1;
+
+t2Þ
+
+!
+
+LBðt1;
+
+t
+
+0 2
+
+ÞPand
+
+conclude that P
+
+ðt1
+
+;t2
+
+Þ2m
+
+ÀNN S1 !S2
+
+S1ðt1Þ Á P
+
+ðt1;
+
+t2Þ
+
+!
+
+ðt1
+
+;t
+
+0 2
+
+ðt2;t1
+
+Þ2m
+
+ÀNN S2 !S1
+
+S2ðt2Þ
+
+Á
+
+ðt2;
+
+t1Þ
+
+!
+
+S ðt Þ ðt2
+
+;t
+
+0 1
+
+Þ2m
+
+LBÀNN S2 !S1
+
+2
+
+2
+
+ðt2; t1Þ ! LBðt2; t 10 Þ. We
+
+Þ2m
+
+LBÀNN S1ðt1Þ
+S1 !S2
+
+Á
+
+ðt1;
+
+t
+
+0 2
+
+Þ
+
+and
+
+Á
+
+ðt2
+
+;
+
+t
+
+0 1
+
+Þ,
+
+which
+
+gives
+
+us
+
+thus that the
+
+statement.
+
+Theorem 1 shows that the lower bound approximation of the Gesture Matching Distance is attributed to the properties of its inherent trajectory distance function. How the resulting lower bound approximation is utilized in order to process queries in gestural pattern databases arising from 3D motion capture data e±ciently is shown in the following section.
+
+4. E±cient Query Processing with the Gesture Matching Distance
+A fundamental approach underlying many query processing approaches is the optimal multi-step algorithm [16]. The idea of this algorithm consists in processing distance-based k-nearest-neighbor queries in multiple interleaved steps, where each step incrementally generates a candidate object with respect to a lower bound approximation which is subsequently re¯ned by means of the exact distance function until the ¯nal results are obtained. The algorithm is optimal, i.e. the number of exact distance computations is minimized.
+
+12 C. Beecks et al.
+
+Algorithm 1 Optimal Multi-Step k -NN
+
+1: procedure NNk(Q, GMDδLB , GMDδ, D) 2: R ← ∅
+
+3: f ilterRanking ← ranking(Q, GMDδLB , D) 4: S ← f ilterRanking.next()
+
+5: while GMDδLB (Q, S) ≤ maxP ∈R GMDδ(Q, P ) do
+
+6:
+
+if |R| < k then
+
+7:
+
+R ← R ∪ {S}
+
+8:
+
+else if GMDδ(Q, S) ≤ maxP ∈R GMDδ(Q, P ) then
+
+9:
+
+R ← R ∪ {S}
+
+10:
+
+R ← R − {arg maxP ∈R GMDδ(Q, P )}
+
+11:
+
+S ← f ilterRanking.next()
+
+12: return R
+
+As shown in Algorithm 1, the ¯rst step consists in generating a ranking with respect to a query gesture signature Q 2 RT by means of the lower bound approximation GMDLB (cf. line 3). Afterwards, this ranking is processed until GMDLB exceeds the exact distance of the kth-nearest neighbor (cf. line 5), i.e. until it holds that GMDLB ðQ; SÞ £ maxP2RGMDðQ; PÞ. The algorithm updates the result set R as long as gesture signatures S 2 D with smaller distances GMDðQ; SÞ maxP2RGMDðQ; PÞ have been found (cf. line 8).
+We utilize the optimal multi-step algorithm as described above in order to e±ciently query gesture signatures in 3D motion capture databases. To this end, we additionally subject the Dynamic Time Warping Distance to a bandwidth constraint, which limits the maximum permissible time di®erence between two aligned points of the trajectories, and lower-bound this variant, denoted as DTWt, by LBKeogh [48]. The advantage of this lower bound is its low computation time complexity, which is linear in the length of the trajectories. In fact, we approximate GMDDTW by GMDDTWt , which is then lower-bounded by means of GMDLBKeogh . The performance of this approach with respect to the qualities of accuracy and e±ciency is empirically investigated in the following section.
+5. Performance Analysis
+In this section, we benchmark the accuracy and e±ciency of the Gesture Matching Distance and its lower bound approximation by using the two following di®erent spatiotemporal 3D motion capture databases.
+The natural media corpus of 3D motion capture data [1] comprises threedimensional motion capture data streams arising from eight participants during a guided conversation. The participants were equipped with a multitude of re°ective markers which were attached to the body and in particular to the hands. The motion of the markers was tracked optically via cameras at a frequency of 100 Hz by making
+
+E±cient Query Processing in 3D Motion Capture Gesture Databases 13
+
+(a)
+
+(b)
+
+(c)
+
+Fig. 1. (Color online) Three example gestural patterns of di®erent spatiotemporal movement types: (a) gesture of type spiral; (b) gesture of type circle; and (c) gesture of type straight. Blue trajectories indicate the main movements of the gestural patterns. Images are taken from [1].
+
+use of the Nexus Motion Capture Software from VICON. For evaluation purposes, we used the right wrist marker and two markers attached to the right thumb and right index ¯nger each. The gestures arising within the conversation were classi¯ed by domain experts according to the following types of movement: spiral, circle, and straight. Example gestures of these movement types are sketched in Fig. 1, which has been taken from [1]. A total of 20 gesture signatures containing ¯ve trajectories each was obtained from the 3D motion capture data streams. The trajectories of the gesture signatures were normalized to the interval ½0; 13 & R3.
+In addition to the 3D motion capture database described above, we utilized the 3D Iconic Gesture Dataseta [49]. This dataset comprises 1,739 iconic gestures from 29 participants depicting entities, objects, and actions. Based on the provided 3D skeleton motion capture data, which was recorded via Microsoft Kinect, we randomly extracted up to 10,000 gesture signatures including between 2 and 10 trajectories in the three-dimensional Euclidean space R3 with a duration between 0.5 and 2.0 seconds. We additionally normalized the trajectories to the interval ½0; 13 & R3.
+In the ¯rst series of experiments, we evaluated the accuracy of the proposed lower bound approximation of the Gesture Matching Distance in order to investigate the question of whether our proposal is able to ¯nd similar spatiotemporal patterns within 3D motion capture data streams accurately. To this end, we selected di®erent movement types and computed dissimilarity plots with respect to di®erent gestural query patterns arising from the corresponding movement types in the natural media corpus. Based on the provided ground truth, we included one dissimilarity plot for the movement type spiral, which is shown in Fig. 2, and two dissimilarity plots for the movement types straight and circle, which are shown in Figs. 3 and 4, respectively. The corresponding gestural patterns included in the 3D motion capture data streams are highlighted by means of reddish time intervals. The average dissimilarity values of
+
+a http://projects.ict.usc.edu/3dig/
+
+dissimilarity
+
+14 C. Beecks et al.
+
+spirals GMD(DTW) GMD(DTW(t=10)) 1
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0
+
+0
+
+2000
+
+4000
+
+6000
+
+8000
+
+10000
+
+12000
+
+14000
+
+16000
+
+18000
+
+Ɵme
+
+Fig. 2. (Color online) Average dissimilarity values shown as a function of time with respect to gestural patterns of movement type spiral. Reddish time intervals depict gestural patterns included in the 3D motion capture data streams. The average dissimilarity of the exact Gesture Matching Distance GMDDTW is shown by the blue line, while the average dissimilarity of the approximate Gesture Matching Distance GMDDTWt¼10 is shown by the green dotted line.
+
+straights
+
+GMD(DTW)
+
+GMD(DTW(t=10))
+
+1
+
+0.8
+
+dissimilarity
+
+0.6
+
+0.4
+
+0.2
+
+0
+
+0
+
+2000
+
+4000
+
+6000
+
+8000
+
+10000
+
+12000
+
+14000
+
+16000
+
+Ɵme
+
+straights
+
+GMD(DTW)
+
+GMD(DTW(t=10))
+
+1
+
+0.8
+
+dissimilarity
+
+0.6
+
+0.4
+
+0.2
+
+0
+
+0
+
+2000
+
+4000
+
+6000
+
+8000
+
+10000
+
+12000
+
+14000
+
+16000
+
+18000
+
+Ɵme
+
+Fig. 3. (Color online) Average dissimilarity values shown as a function of time with respect to gestural patterns of movement type straight. Reddish time intervals depict gestural patterns included in the 3D motion capture data streams. The average dissimilarity of the exact Gesture Matching Distance GMDDTW is shown by the blue line, while the average dissimilarity of the approximate Gesture Matching Distance GMDDTWt¼10 is shown by the green dotted line.
+
+E±cient Query Processing in 3D Motion Capture Gesture Databases 15
+
+circles
+
+GMD(DTW)
+
+GMD(DTW(t=10))
+
+1
+
+0.8
+
+dissimilarity
+
+0.6
+
+0.4
+
+0.2
+
+0
+
+0
+
+2000
+
+4000
+
+6000
+
+8000
+
+10000
+
+12000
+
+14000
+
+16000
+
+18000
+
+20000
+
+22000
+
+Ɵme
+
+circles
+
+GMD(DTW)
+
+GMD(DTW(t=10))
+
+1
+
+0.8
+
+dissimilarity
+
+0.6
+
+0.4
+
+0.2
+
+0
+
+0
+
+2000
+
+4000
+
+6000
+
+8000
+
+10000
+
+12000
+
+14000
+
+16000
+
+18000
+
+20000
+
+22000
+
+Ɵme
+
+Fig. 4. (Color online) Average dissimilarity values shown as a function of time with respect to gestural patterns of movement type circle. Reddish time intervals depict gestural patterns included in the 3D motion capture data streams. The average dissimilarity of the exact Gesture Matching Distance GMDDTW is shown by the blue line, while the average dissimilarity of the approximate Gesture Matching Distance GMDDTWt¼10 is shown by the green dotted line.
+
+the exact Gesture Matching Distance based on Dynamic Time Warping Distance
+GMDDTW are shown by blue lines, while the average dissimilarity values of the approximate Gesture Matching Distance GMDDTWt¼10 , where we ¯xed the maximum permissible time di®erence t 2 N to a value of 10, are shown by green dotted lines.
+As can be seen in the ¯gures, the approximate Gesture Matching Distance
+GMDDTWt¼10 shows a behavior similar to the exact Gesture Matching Distance GMDDTW. Both are able to respond to the corresponding queries with low dissimilarity values. In fact, the maximum absolute di®erence of dissimilarity values
+between GMDDTW and GMDDTWt¼10 is below a value of 0.242, while the average deviation is below a value of 0.11. We thus conclude that the approximate Gesture
+Matching Distance GMDDTWt¼10 is able to compete with the non-approximate Gesture Matching Distance GMDDTW in terms of accuracy.
+In the second series of experiments, we evaluated the e®ect of the bandwidth
+constraint applied to the Dynamic Time Warping Distance, where we ¯xed the maximum permissible time di®erence t 2 N to a value of 10. The precision in percentage of the approximate Gesture Matching Distance GMDDTWt¼10 with respect to
+
+16 C. Beecks et al.
+
+100%
+
+2000 5000 10000
+
+98%
+
+96%
+
+PRECISION
+
+94%
+
+92%
+
+90%
+
+88% 2
+
+4 6 8 10 2 4 6 8 10 2 4 6 8 10 2
+
+0.5s
+
+1.0s
+
+1.5s
+
+TRAJECTORIES [2,4,6,8,10] SIGNATURE LENGTH [0.5S,1.0S,1.5S,2.0S]
+
+4 6 8 10 2.0s
+
+Fig. 5. Precision values in percentage of GMDDTWt¼10 in comparison to GMDDTW as a function of gesture signature length and the number of trajectories. The database size is varied among 2 k, 5 k, and 10 k
+gesture signatures.
+
+the exact GMDDTW is summarized in Fig. 5. The precision values are depicted as a function of the gesture signature length and the number of trajectories for di®erent databases extracted from the 3D Iconic Gesture Dataset comprising 2 k, 5 k, and 10 k gesture signatures. As can be seen in the ¯gure, the precision values decrease with an increase in the length of the gesture signatures. At a gesture signature length of 0.5 seconds, the average precision stays at approximately 100%, which is reduced to approximately 93% when utilizing gesture signatures with a length of 2.0 seconds. An increase in the number of trajectories of the gesture signatures does not necessarily degenerate the performance of our approach. As observed empirically, gesture signatures comprising 6 trajectories always yield the highest precision values. This e®ect might be caused by the underlying movement traces of the corresponding trajectories. To sum up, the performance in terms of average precision of our proposal stays above 97%. Thus, the loss in accuracy is less than 3%, which is negligible in view of the increase in e±ciency.
+In the third series of experiments, we evaluated the query processing e±ciency when utilizing the optimal multi-step algorithm as presented in Sec. 4 with the proposed lower bound approximation derived in Sec. 3. To this end, we investigated the average query response times needed for processing 100-nearest-neighbor queries in a database of 10 k gesture signatures. As before, the length of the gesture signatures and the number of trajectories included in the gesture signatures are varied. The average query processing times in seconds are reported in Table 1. In general, the query response time increases by extending the length or the number of trajectories of the gesture signatures. As can be seen in the table, the sequential scan by means of
+
+E±cient Query Processing in 3D Motion Capture Gesture Databases 17
+
+Table 1. Average query response time in seconds for processing 100-nearestneighbor queries in a database of 10 k gesture signatures.
+
+Signature length 2.0s
+1.5s
+1.0s
+0.5s
+
+Trajectories
+10 8 6 4 2 10 8 6 4 2 10 8 6 4 2 10 8 6 4 2
+
+Opt. multi-step
+GMDLBKeogh
+14.0 8.4 3.6 1.6 0.5 8.3 5.0 2.2 1.3 0.3 4.6 5.0 1.3 0.8 0.2 2.8 1.6 0.8 0.3 0.1
+
+Seq. scan
+GMDDTWt¼10
+67.5 42.4 24.1 12.1 3.1 44.3 29.3 16.2 9.6 2.3 21.4 22.7 10.0 5.9 1.5 14.8 7.9 5.4 1.6 0.6
+
+Seq. scan
+GMDDTW
+176.4 110.7 64.1 33.0
+8.3 97.0 62.3 34.2 20.3 5.0 34.0 36.0 15.8 9.2 2.4 16.1 8.2 6.0 1.8 0.7
+
+the Gesture Matching Distance based on Dynamic Time Warping Distance GMDDTW shows the highest query response time. By utilizing gesture signatures comprising 10 trajectories with a length of 2 seconds, GMDDTW needs more than 176 seconds on average for query processing. This query processing time is reduced by more than one order of magnitude when processing the queries with the optimal multi-step algorithm based on the proposed lower bound approximation GMDLBKeogh . For the aforementioned parameters, our approach is able to complete query processing in 14 seconds on average. By increasing the size of the database to 100 k gesture signatures comprising 10 trajectories with a length of 2 seconds each, the average query response times for the sequential scan with GMDDTW and that with GMDDTWt¼10 are approximately 1170 seconds and 445 seconds, respectively, whereas the optimal multi-step algorithm with the proposed lower bound approximation GMDLBKeogh takes approximately 36 seconds. Thus, our approach is more than 12 times faster than the sequential scan with GMDDTWt¼10 and more than 30 times faster than the sequential scan with GMDDTW.
+To conclude, the proposed lower bound approximation is able to achieve an increase in e±ciency of more than one order of magnitude with a negligible loss in accuracy and thus enables e±cient similarity search for gestural patterns in 3D motion capture databases. How the proposed approaches are utilized in the digital humanities, and in particular within the domain of gestural pattern analysis, is discussed by means of two research use cases in the following section.
+
+18 C. Beecks et al.
+6. Applications in Digital Humanities: Two Gesture Research Use Cases
+Recent studies in linguistics and cognitive science have shown that the workings of the human mind are intricately bound to the workings of the human body [50–53]. Concomitantly, research has shown that co-speech behavior is highly conventionalized and intricately tied to structures in the speech stream [54–59]. Together, these conventionalized multimodal constructions [60–62] of speech and body movement convey the semantics and pragmatics of the message. Moving away from a long-time focus on text or speech in isolation, linguists – especially cognitive linguists – have increasingly targeted full-bodied, multimodal interaction as their object of study. However, due to the challenges inherent in studying multimodal data, which requires recording and tediously annotating full conversations, gesture studies to date have largely been based on case studies of one or two individuals in conversation. With recent advances in digital data, such as the availability of a few large video-based language corpora that provide audio-video streams with timealigned closed-captioning textb, linguists now have hundreds of spontaneous conversations available to them for study. However, the annotation of body movement remains complex and highly reliant on qualitative measures based on an annotator's visual examination of a video played at reduced speed.
+3D motion capture, however, provides a radically di®erent lens through which to both capture and examine multimodal data. Here we describe two research programs that use 3D motion capture data to investigate certain structures in embodied representations (i.e. gesture, head movement, and other modalities) and how these are co-articulated with structures in the speech stream. The aim of each study is the understanding of the interaction between conceptual structure, linguistic structure – i.e. the speech, and embodied/physical structure.
+6.1. Aspectual contours: Matching verb types with gestural movement types
+In the study presented in [63, 64], 3D motion capture data was used to investigate the gestural pro¯les corresponding to linguistic utterances conveying the grammatical phenomenon known as aspect – or how speakers modulate the ``temporal contour" of an event [65]. Contour implies a shape in space, making aspect a natural grammatical category through which to explore the trajectories of co-speech gestures. Aspect encodes the ways in which an event can be construed dynamically by performing additional computations without losing the character of the original event [66]. For example, inherent in the meaning of verbs in English such as sneeze is the interpretation of the event as a bounded, punctual, single episode. However, aspect is dynamic and can be altered in interaction with grammatical elements that have aspectual force. Using a normally bounded verb such as sneeze in a progressive
+b For example, UCLA's Little Red Hen lab is an international research team using a proprietary online corpus of more than 200,000 hours of broadcast television: https://sites.google.com/site/ distributedlittleredhen/home
+
+E±cient Query Processing in 3D Motion Capture Gesture Databases 19
+construction (-ing) renders the event unbounded and yields an iterative interpretation, as in He is sneezing or He keeps sneezing [67, 68].
+In a study of the co-speech gestures associated with aspect-marking auxiliary verbs in English, Hinnell [57] examined constructions in English headed by the auxiliary co-verbs continue, keep, start, stop and quit (e.g. keep sneezing, stop talking, quit smoking, etc.). The goal of the study was to determine if gestures correlated with these auxiliary constructions were conventionalized across speakers, and if so, what the conventionalized features of the gestures are for each of these constructions. Results showed a statistically signi¯cant correlation between both the timing and the form of the gesture and the aspect marked in the auxiliary verb in the speech stream. The gesture pro¯le of the auxiliary keep, for example, was characterized by longer onset times (i.e. a greater latency between onset of gesture and onset of the auxiliary verb in the speech) and repeated gesture strokes, many of which were cyclic or spiral in trajectory. This study and others [64, 69] have noted that prototypical movement pro¯les are readily recognizable in co-speech gesture given certain linguistic cues.
+In a follow-up study [63, 64], 3D motion capture data was used to explore the forms that emerged as aspect-marking pro¯les in [57]. As described in Sec. 6 the dataset comprised 8 speakers of North American English who were recorded using the VICON system. Participants recounted and interpreted a short movie and conversed about topics such as habits and hobbies, resulting in approximately six hours of recorded interaction. To analyze the data, we identi¯ed those discourse sequences in which the trajectory, direction, and form of the gesture trace (circle, spiral, arc, etc.) re°ected one of the conventionalized, aspectually-charged forms established in the previous research [57]. The motion capture data increased the sophistication of the analysis by allowing us to investigate the degree of similarity between the gesture pro¯les corresponding to spoken utterances, as well as providing more nuanced visualizations of the movement traces and temporal dynamics of these gestures.
+The computational analyses of gesture similarity by means of a distance-based similarity model [1] enables us to recognize in a quantitative manner (rather than relying on visual assessment) which trajectory type a gesture has. This proves most useful in di®erentiating forms, for example, a spiral and circle, which di®er only in displacement in space for the former, or lack thereof for the latter. Such a distinction is di±cult to make unequivocally using manual annotation which relies on a researcher's observation of a video (possibly involving poor camera angles of the gesture) played at reduced speed.
+6.2. Establishing multimodal clusters in dialogic travel-planning data
+Brenger et al. [70] investigated multimodal constructions that may be observed when interlocutors utilize their gesture spaces for spatial-geographical orientation during collaborative travel planning (e.g. planning an Interrail trip through Europe). The basis for the study was the Multimodal Speech & Kinetic Action Corpus (MuSKA),
+
+20 C. Beecks et al.
+compiled in the Natural Media Lab of RWTH Aachen University [71, 72]. As in the previous use case, several data streams were recorded and aligned in the Natural Media Lab (audio, video and 3D motion capture data), though in this study the recorded conversations were informal dialogues between friends. In speech, indicating potential travel destinations and routes typically involves the use of highly context-dependent indexical expressions such as certain functional closed-class items [67] or shifters [73]. Examples include prepositions, pronouns, demonstratives, and connectors. The assumption underlying this study was that, in spoken German discourse, the use of place names and indexical expressions – such as prepositions (e.g. nach (to), von (from), bei (at)) and locative or directional adverbials (e.g. da (there), hier (here), u€ber (over)) ÀÀÀ would correlate with distinct kinds of gestures, namely locating and routing gestures.
+More speci¯cally, the study's target structures were prepositional phrases such as constructions combining prepositions and adverbials (e.g. PREP+ADV such as nach hier, nach da (to here/there)) or prepositions and nouns (e.g. PREP+N such as von Norden (from the north), nach Paris (to Paris)). We also included adverbial phrases comprising locative and directional adverbial such as ADVlocative+ADVdirectional (e.g. da u€ber (over there), hier hin (to here)).
+The ``travel planning"-sub-corpus contains 60 minutes of annotated discourse data with speech transcripts coded for shifters and the adverbial and prepositional phrases in which they occur. The video data were coded for gestural shifts exhibiting locating or routing functions. In three dialogues (42 minutes in total), 300 gesture-accompanied occurrences of locative prepositions and adverbials were identi¯ed (130 place names; 170 combinations of prepositions with either locative or directional adverbials. PREP+ADVlocative or ADVdirectional). Regarding spatial orientation and gestural charting, we observed two main strategies: a) indicating places (cities, countries) through locating gestures; and b) tracing trajectories through routing gestures. We hypothesized that whereas prepositional phrases entailing place names or locative adverbs correlate with indexical locating gestures, deictic adverbial phrases may cooccur with both locating gestures and routing gestures containing speci¯c directional movement information that is not necessarily speci¯ed in the concurrent speech [74–76, 56]. In addition to analyzing gestural patterns and multimodal clusters with the help of the computational methods presented in this paper, we are currently working on appropriate ways to visualize the data in the form of heat maps.
+6.3. Insights and future directions
+In both case studies outlined here ÀÀÀ and indeed throughout gesture studies, whether working with motion capture data or video data ÀÀÀ the methodology continues to require manually searching of corpus data and annotated ELAN ¯les for linguistic phrases and then comparing the corresponding gestures to each other in terms of their spatiotemporal similarity. Thus, in the travel-planning study, the main e®ort lay in manually identifying spatiotemporal aspects and properties of corresponding gestures that allowed them to be regarded as routing or placing gestures ÀÀÀ a very
+
+E±cient Query Processing in 3D Motion Capture Gesture Databases 21
+time consuming venture. However, the strength of the approach presented in this paper is in its goal of integrating the various audio and video data streams and annotated transcripts into a motion-capture driven multimodal database that can be e±ciently searched with the types of query processing algorithms proposed. This would enable the semi-automatic search for gestures' spatial and temporal characteristics with their co-occurring linguistic structures. The computational identi¯cation of inter-gestural similarity would dramatically speed up the search process and thus enable future gesture researchers to explore larger corpora than is currently possible with manual searching. With regards to computational gesture signatures, these investigations could additionally be extended to the identi¯cation of any gestural pattern ÀÀÀ locating and routing gestures, aspect-marking forms, and others, rather than relying on the linguistic target phrases that currently drive the searches.
+Part of the value of interdisciplinary approaches to complex, dynamic multimodal data such as the collaborations presented here lies in the reciprocity of the collaborations: not only are speech and gesture data in multiple streams a welcome, and increasingly necessary, challenge for computer scientists, the computational approach is also increasingly crucial for linguists and gesture researchers. For instance, one prerequisite to identifying relatively stable patterns of correlated linguistic and gestural structures is that the multimodal cluster is used with a relatively high frequency. The computational methods applied to multimodal speech and gesture data suggested here would thus also enable linguists and gesture researchers to contribute to the advancement of the still young area of multimodal cluster analysis and to predict communicative behavior in certain utterance contexts. The inclusion of an aligned similarity search for syntactic structures and phrases, coupled with the presented similarity search for kinetic movement patterns, could take this promising venture one step further when it comes to identifying time-elastic multimodal clusters in larger multimodal corpora.
+7. Conclusions
+In this paper, we have addressed the issue of e±ciently accessing gestural patterns in 3D motion capture data based on spatiotemporal similarity. To this end, we modeled gestural patterns by means of gesture signatures and investigated a lower bound approximation of the Gesture Matching Distance. Our approach is able to achieve an increase in e±ciency of more than one order of magnitude with a negligible loss in accuracy. We thus claim that the proposed distance-based approach to gestural pattern analysis enables the semi-automatic investigation of large heterogeneous motion capture data archives.
+Acknowledgments
+This work is partially funded by the Excellence Initiative of the German federal and state governments and by DFG grant SE 1039/7-1.
+
+22 C. Beecks et al.
+References
+[1] C. Beecks, M. Hassani, J. Hinnell, D. Schüller, B. Brenger, I. Mittelberg and T. Seidl, Spatiotemporal similarity search in 3d motion capture gesture streams, in Proceedings of the 14th International Symposium on Spatial and Temporal Databases, 2015, pp. 355–372.
+[2] M. Hassani, E±cient clustering of big data streams, PhD dissertation, RWTH Aachen University, 2015.
+[3] M. Hassani, C. Beecks, D. T€ows, T. Serbina, M. Haberstroh, P. Niemietz, S. Jeschke, S. Neumann and T. Seidl, Sequential pattern mining of multimodal streams in the humanities, in BTW, 2015, pp. 683–686.
+[4] M. Hassani, C. Beecks, D. To€ws and T. Seidl, Proactive human translation by adaptively predicting eye gazes and keystrokes, in Proceedings of the ProactIR Workshop @ECIR (38th European Conference on Information Retrieval), 2016.
+[5] M. Hassani and T. Seidl, Towards a mobile health context prediction: Sequential pattern mining in multiple streams, in Proceedings of the IEEE International Conference on Mobile Data Management, Vol. 2. IEEE Computer Society, 2011, pp. 55–57.
+[6] J. Blackburn and E. Ribeiro, Human motion recognition using isomap and dynamic time warping, in Human Motion–Understanding, Modeling, Capture and Animation (Springer, 2007), pp. 285–298.
+[7] J. Yang, Y. Li and K. Wang, A new descriptor for 3d trajectory recognition via modi¯ed CDTW, in IEEE International Conference on Automation and Logistics, 2010, pp. 37–42.
+[8] M. Hahn, L. Krüger and C. W€ohler, 3D action recognition and long-term prediction of human motion, in Computer Vision Systems (Springer, 2008), pp. 23–32.
+[9] L. J. Latecki, V. Megalooikonomou, Q. Wang, R. Lakaemper, C. A. Ratanamahatana and E. Keogh, Elastic partial matching of time series, in Knowledge Discovery in Databases, 2005, pp. 577–584.
+[10] M. Vlachos, M. Hadjieleftheriou, D. Gunopulos and E. Keogh, Indexing multi-dimensional time-series with support for multiple distance measures, in Proceedings of the Ninth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2003, pp. 216–225.
+[11] M. Vlachos, G. Kollios and D. Gunopulos, Elastic translation invariant matching of trajectories, Machine Learning 58(2–3) (2005) 301–334.
+[12] L. Chen and R. Ng, On the marriage of lp-norms and edit distance, in Proceedings of the Thirtieth International Conference on Very Large Data Bases, 2004, pp. 792–803.
+[13] L. Chen, M. T. Özsu and V. Oria, Robust and fast similarity search for moving object trajectories, in Proceedings of the ACM SIGMOD International Conference on Management of Data, 2005, pp. 491–502.
+[14] S. Fang and H. Chan, Human identi¯cation by quantifying similarity and dissimilarity in electrocardiogram phase space, Pattern Recognition 42(9) (2009) 1824–1831.
+[15] C. Beecks, M. Hassani, F. Obeloer and T. Seidl, E±cient distance-based gestural pattern mining in spatiotemporal 3d motion capture databases, in Proceedings of the 15th International Conference on Data Mining Workshops, 2015, pp. 1425–1432.
+[16] T. Seidl and H.-P. Kriegel, Optimal multi-step k-nearest neighbor search, in Proceedings of the ACM SIGMOD International Conference on Management of Data, 1998, pp. 154–165.
+[17] C. Beecks, Distance-based similarity models for content-based multimedia retrieval, PhD dissertation, RWTH Aachen University, 2013.
+[18] C. Beecks, S. Kirchho® and T. Seidl, On stability of signature-based similarity measures for content-based image retrieval, Multimedia Tools and Applications 71(1) (2014) 349–362.
+
+E±cient Query Processing in 3D Motion Capture Gesture Databases 23
+[19] C. Beecks and T. Seidl, On stability of adaptive similarity measures for content-based image retrieval, in Proceedings of the International Conference on Multimedia Modeling, 2012, pp. 346–357.
+[20] C. Beecks, M. S. Uysal and T. Seidl, A comparative study of similarity measures for content-based multimedia retrieval, in Proceedings of the IEEE International Conference on Multimedia and Expo, 2010, pp. 1552–1557.
+[21] Y. Rubner, C. Tomasi and L. J. Guibas, The earth mover's distance as a metric for image retrieval, International Journal of Computer Vision 40(2) (2000) 99–121.
+[22] C. Beecks, M. S. Uysal and T. Seidl, Signature quadratic form distance, in Proceedings of the ACM International Conference on Image and Video Retrieval, 2010, pp. 438–445.
+[23] F. Hausdor®, Grundzu€ge der Mengenlehre (Von Veit, 1914). [24] D. P. Huttenlocher, G. A. Klanderman and W. Rucklidge, Comparing images using
+the hausdor® distance, IEEE Transactions on Pattern Analysis and Machine Intelligence 15(9) (1993) 850–863. [25] B. G. Park, K. M. Lee, and S. U. Lee, Color-based image retrieval using perceptually modi¯ed hausdor® distance, EURASIP Journal of Image and Video Processing, 2008, pp. 4.1–4.10. [26] C. Beecks, S. Kirchho® and T. Seidl, Signature matching distance for content-based image retrieval, in Proceedings of the ACM International Conference on Multimedia Retrieval, 2013, pp. 41–48. [27] S. Mitra and T. Acharya, Gesture recognition: A survey, Trans. Sys. Man Cyber. Part C 37(3) (2007) 311–324. [28] N. A. Ibraheem and R. Z. Khan, Article: Survey on various gesture recognition technologies and techniques, International Journal of Computer Applications 50(7) (2012) 38–44. [29] R. Z. Khan and N. A. Ibraheem, Survey on gesture recognition for hand image postures, 2012, pp. 110–121. [30] J. LaViola, A Survey of Hand Posture and Gesture Recognition Techniques and Technology, Brown University, Providence, RI, 1999. [31] J. Liu and M. Kavakli, A survey of speech-hand gesture recognition for the development of multimodal interfaces in computer games, in Proceedings of the IEEE International Conference on Multimedia and Expo, 2010, pp. 1564–1569. [32] S. S. Rautaray and A. Agrawal, Vision based hand gesture recognition for human computer interaction: A survey, Arti¯cial Intelligence Review 43(1) (2015) 1–54. [33] S. Ru±eux, D. Lalanne, E. Mugellini and O. A. Khaled, A survey of datasets for human gesture recognition, in 16th International Conference Human-Computer Interaction. Advanced Interaction Modalities and Techniques, LNCS Vol. 8511 (2014), pp. 337–348. [34] R. Watson, A survey of gesture recognition techniques, Department of Computer Science, Trinity College Dublin, Technical report, 1993. [35] Y. Wu and T. S. Huang, Vision-based gesture recognition: A review, in Gesture-based Communication in Human-Computer Interaction (Springer, 1999), pp. 103–115. [36] T. B. Moeslund and E. Granum, A survey of computer vision-based human motion capture, Computer Vision and Image Understanding 81(3) (2001) 231–268. [37] T. B. Moeslund, A. Hilton and V. Krüger, A survey of advances in vision-based human motion capture and analysis, Computer Vision and Image Understanding 104(2) (2006) 90–126. [38] C. Keskin, A. Erkan and L. Akarun, Real time hand tracking and 3d gesture recognition for interactive interfaces using HMM, in ICANN/ICONIPP, 2003, pp. 26–29. [39] Y. Nam and K. Wohn, Recognition of hand gestures with 3D, nonlinear arm movement, Pattern Recognition Letters 18(1) (1997) 105–113.
+
+24 C. Beecks et al.
+[40] A. Psarrou, S. Gong and M. Walter, Recognition of human gestures and behaviour based on motion trajectories, Image and Vision Computing 20(5) (2002) 349–358.
+[41] H.-I. Suk, B.-K. Sin and S.-W. Lee, Hand gesture recognition based on dynamic bayesian network framework, Pattern Recognition 43(9) (2010) 3059–3072.
+[42] H.-I. Suk, B.-K. Sin and S.-W. Lee, Recognizing hand gestures using dynamic bayesian network, in 8th IEEE International Conference on Automatic Face & Gesture Recognition, IEEE, 2008, pp. 1–6.
+[43] J. Cheng, C. Xie, W. Bian and D. Tao, Feature fusion for 3D hand gesture recognition by learning a shared hidden space, Pattern Recognition Letters 33(4) (2012) 476–484.
+[44] T. Arici, S. Celebi, A. S. Aydin and T. T. Temiz, Robust gesture recognition using feature pre-processing and weighted dynamic time warping, Multimedia Tools Appl. 72(3) (2014) 3045–3062.
+[45] S. Bodiroža, G. Doisy and V. V. Hafner, Position-invariant, real-time gesture recognition based on dynamic time warping, in Proceedings of the 8th ACM/IEEE International Conference on Human-Robot Interaction (IEEE Press, 2013), pp. 87–88.
+[46] H. Stern, M. Shmueli and S. Berman, Most discriminating segment–longest common subsequence (mdslcs) algorithm for dynamic hand gesture classi¯cation, Pattern Recognition Letters 34(15) (2013) 1980–1989.
+[47] H. Hasan and S. Abdul-Kareem, Static hand gesture recognition using neural networks, Arti¯cial Intelligence Review 41(2) (2014) 147–181.
+[48] E. J. Keogh, Exact indexing of dynamic time warping, in Proceedings of 28th International Conference on Very Large Data Bases, 2002, pp. 406–417.
+[49] A. Sadeghipour, L.-P. Morency and S. Kopp, Gesture-based object recognition using histograms of guiding strokes, in Proceedings of the British Machine Vision Conference, 2012.
+[50] B. Bergen and K. Wheeler, Grammatical aspect and mental simulation, Brain and Language 112(3) (2010) 150–158.
+[51] R. W. Gibbs Jr., Embodiment and Cognitive Science (Cambridge University Press, 2005). [52] C. Müller, A. Cienki, E. Fricke, S. H. Ladewig, D. McNeill and J. Bressem, (Eds.), Body –
+Language – Communication: An International Handbook on Multimodality in Human Interaction: Vol. 2, ser. Handbücher zur Sprach- und Kommunikationswissenschaft (De Gruyter Mouton, 2014), Vol. 38.2. [53] C. Müller, A. Cienki, E. Fricke, S. H. Ladewig, D. McNeill and S. Teßendorf, Body Language ÀÀÀ Communication: An International Handbook on Multimodality in Human Interaction. (Handbooks of Linguistics and Communication Science 38) (De Gruyter Mouton, 2013). [54] J. Bressem, A linguistic perspective on the notation of form features in gestures, in Body ÀÀÀ Language ÀÀÀ Communication: Vol. 1, ser. Handbücher zur Sprach- und Kommunikationswissenschaft, C. Müller, A. Cienki, E. Fricke, S. H. Ladewig, D. McNeill, and S. Teßendorf (Eds.) (De Gruyter Mouton, 2013), Vol. 38.1, pp. 1079–1098. [55] C. Debras, L?expression multimodale du positionnment interactionnel (multimodal stance-taking), PhD dissertation, 2013. [56] E. Fricke, Origo, Geste und Raum (De Gruyter Mouton, 2007). [57] J. Hinnell, Multimodal aspectual constructions in north American English: A corpus analysis of aspect in co-speech gesture using little red hen, in 6th Conference of the International Society for Gesture Studies, 2014. [58] I. Mittelberg, The exbodied mind, cognitive-semiotic principles as motivating forces in gesture, in Body ÀÀÀ Language ÀÀÀ Communication: Vol. 1, ser. Handbücher zur Sprachund Kommunikationswissenschaft, C. Müller, A. Cienki, E. Fricke, S. H. Ladewig, D. McNeill and S. Teßendorf (Eds.) (De Gruyter Mouton, 2013), Vol. 38.1, pp. 750–779.
+
+E±cient Query Processing in 3D Motion Capture Gesture Databases 25
+[59] S. Schoonjans, Modalpartikeln als multimodale konstruktionen. eine korpusbasierte kookkurrenzanalyse von modalpartikeln und gestik im deutschen, PhD dissertation, 2014.
+[60] A. E. Goldberg, Constructions at Work: The Nature of Generalization in Language (Oxford University Press, 2006).
+[61] F. Steen and M. Turner, Multimodal Construction Grammar. Language and the Creative Mind, in CSLI, 2013, pp. 255–274.
+[62] E. Zima, Gibt es multimodale Konstruktionen? Eine Studie zu [V (motion) in circles] und [all the way from X PREP Y], 2014.
+[63] J. Hinnell, C. Beecks, M. Hassani, T. Seidl and I. Mittelberg, Multimodal auxiliary constructions in english: A quantitative image-schema analysis of aspectual contours in gesture, in 12th Conference on Conceptual Structure, Discourse and Language, 2014.
+[64] I. Mittelberg, J. Hinnell, C. Beecks, M. Hassani and T. Seidl, Emerging grammar in gesture: A motion-capture data analysis of image-schematic aspectual contours in north American English speaker-gesturers, in International Cognitive Linguistics Conference, 2015.
+[65] B. Comrie, Aspect: An Introduction to the Study of Verbal Aspect and Related Problems (Cambridge University Press, 1976).
+[66] W. Frawley, Linguistic Semantics, Lawrence Erlbaum Associates, 1992. [67] L. Talmy, Towards a Cognitive Semantics (MIT Press, 2000). [68] B. Heine and T. Kuteva, World Lexicon of Grammaticalization (Cambridge University
+Press, 2002). [69] A. Cienki, Image Schemas and Mimetic Schemas in Cognitive Linguistics and Gesture
+Studies, ser. Benjamins Current Topics (John Benjamins Publishing, 2015). [70] B. Brenger, D. Schüller, M. Priesters and I. Mittelberg, 3d heat maps of multimodal
+travel planning: Correlating prepositional and adverbial phrases with locating and routing gestures, accepted abstract for International Society for Gesture Studies (ISGS) Conference, 2016. [71] B. Brenger, Head gestures in dialogue-identi¯cation and computational analysis of motion-capture data pro¯les of speakers' and listeners' communicative action, 2015. [72] B. Brenger and I. Mittelberg, Shakes, nods and tilts. motion-capture data pro¯les of speakers? and listeners? head gestures, in Proceedings of the 3rd Gesture and Speech in Interaction Conference, 2015. [73] R. Jakobson, Shifters, verbal categories and the russian verb, in Word and Language, ser. Selected Writings (De Gruyter, 1971), Vol. II. [74] H. H. Clark, Pointing and placing, in Pointing. Where Language, Culture, and Cognition Meet, S. Kita (Ed.) (Lawrence Erlbaum Assoc., 2003), pp. 243–268. [75] K. Cooperrider and R. Núñez, Across time, across the body: Transversal temporal gestures, Gesture 9(2) (2009) 181–206. [76] K. R. Coventry, T. Tenbrink and J. E. Bateman, Spatial Language and Dialogue, Vol. 3 (Oxford University Press, 2009).
+
