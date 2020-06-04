@@ -1,0 +1,671 @@
+Domains and image schemas*
+TIMOTHY C. CLAUSNER and WILLIAM CROFT
+
+Abstract
+Despite diering theoretical views within cognitive semantics there appears to be a consensus on certain fundamental theoretical constructs: (i) the basic semantic unit is a mental concept; (ii) concepts cannot be understood independent of the domain in which they are embedded; (iii) conceptual structures represent a construal of experience, that is, an active mental operation; and (iv) concept categories involve prototypes and are organized by (at least) taxonomic relations. Although the basic constructs of ``concept'', ``domain'', ``construal'', and ``category structure'' go by dierent names, they are essentially the same among researchers in cognitive linguistics. We examine a ®fth theoretical construct, that of ``image schemas'' (recurring basic conceptual structures), and argue that image schemas are a subtype of domain. We begin with the theory of domains proposed by Langacker, which is similar to Fillmore's theory of frame semantics. Langacker distinguishes two types of domains, locational and con®gurational; we argue that it is concepts in domains that are locational or con®gurational, not the domains themselves. We then analyze image schemas and show how they function like domains, in which are found both locational and con®gurational concepts.
+Keywords: domains; image schemas; theory of cognition; conceptual structure.
+
+1. Introduction
+Cognitive linguists and cognitive scientists working in related research traditions have proposed a number of basic theoretical constructs for cognitive linguistic theories of semantics. Although dierent cognitive linguists use dierent terms, there are a number of basic theoretical
+
+Cognitive Linguistics 10 ±1 (1999), 1±31
+
+0936±5907/99/0010±0001 # Walter de Gruyter
+
+2 T. C. Clausner and W. Croft
+constructs, in particular ``concepts'', ``domains'', ``construal'', and ``category structure'', which are basic to all cognitive linguistic theories. After brie¯y presenting these four concepts, we investigate a ®fth theoretical construct, ``image schema'', and argue that image schemas are best analyzed as a special type of domain. Moreover, we demonstrate that many properties of domains are also true of image schemas. Finally, we discuss some implications of our analysis of image schemas for cognitive semantic theory.
+The most basic theoretical construct of cognitive semantics is the concept, that is, a basic unit of mental representation. The centrality of concepts is one of the distinguishing features of cognitive semantics, in contrast to formal semantics for instance. This is because the meaning of a linguistic expression is equated with the concept it expresses. Concepts may correspond to categories such as bird or justice as well as individuals such as George Lako (in formal semantic terms, linguistic expressions may denote intensional objects).
+A central principle of cognitive semantics is that concepts do not occur as isolated, atomic units in the mind, but can only be comprehended (by the speaker as well as by the analyst) in a context of presupposed, background knowledge structures. The most generic term for this background knowledge structure is domain; this will be the term adopted here. The term domain has been used by Langacker (1987) and Lako (1987) for basically the same theoretical construct. Both were in¯uenced by Fillmore's work on semantic frames (Fillmore 1975, 1977, 1982, 1985, 1992). The term frame highlights the semantic supporting function of domains for concepts, and also the hypothesis that domains have a structure that is more than a list of experientially associated concepts.
+Lako (1987) develops the notion of an idealized cognitive model or ICM to describe how the background knowledge for some concepts, such as bachelor and mother, involves an idealized model of experience, and that some categorization problems (e.g., Is the Pope a bachelor?, or Who is the ``real'' mother if birth, genetics, nurturance, marriage, or genealogical conditions of maternity diverge?) arise from a mismatch between the ICM and a more complex reality. Hence, an ICM plays the same role as domain, while highlighting the not-so-simple relationship between a semantic domain and the external experience it is used by the mind to grasp.1
+The third major theoretical principle that underlies cognitive semantics concerns the relationship between semantic representations in the mind and the world which speakers experience. The principle here is that the mind is an active participant in the creation of semantic
+
+Domains and image schemas 3
+structure, and conceptualizes or construes the experiences of the speaker in the world in certain ways. The same experience may be conceptualized by speakers in dierent ways. The hypothesis of cognitive semantics is that much of languageÐin particular grammatical in¯ections and constructions but also lexical itemsÐcan be described as encoding dierent conceptualizations of experience.
+Much research in cognitive semantics has been devoted to the analysis and classi®cation of various kinds of conceptualization processes or construal operations (we will use construal here as a cover term). Talmy (1978a, 1988) describes construals as belonging to one or the other of several imaging systems. Lako uses no superordinate term other than conceptualization, but describes metaphor, metonymy, and image schema transformations as types of conceptualization processes. Langacker (1987) enumerates a large class of construal operations as focal adjustments. Nevertheless, it is generally agreed that all of these processes discussed by Talmy, Lako, and Langacker are examples of construal.2
+A fourth major principle of cognitive semantics is embodied in its approach to the structure or organization of categories. In this aspect of cognitive semantic theory it is more dicult to identify a broad consensus. There is agreement about what distinguishes cognitive semantics from prior semantic theories, namely that categories are held to have an internal structure, usually called a prototype structure but also termed a radial category structure (Lako 1987). That is, an important aspect of the semantics of a category involves the relationships that hold among its members. The relationship of category extension is the best known; this is the relationship between prototypical members of a category and peripheral members. The status of category boundaries, and the more general or schematic concepts that delimit category membership, are more in dispute (see, for example, Cruse 1992).
+These four constructsÐconcepts, domains, construals, and categoriesÐappear to us to represent the most widely accepted fundamentals of cognitive semantics. A concept is a mental unit, a domain is the background knowledge for representing concepts, construal is the process by which a person's experience in the world is conceived in a variety of ways, and a category is structured internally by prototype± extension relations among its members and externally (at least) by taxonomic relations between categories. Of course, there are signi®cant dierences between the views of cognitive linguists once we move beyond these generalities, as will be seen in the discussion of domains in section 2. But these constructs serve to link together cognitive
+
+4 T. C. Clausner and W. Croft
+
+Table 1. Variation in terms for theoretical constructs in cognitive semantics
+
+Terms used here Terms used by
+
+Langacker
+
+Lako
+
+Fillmore
+
+Talmy
+
+concept domain
+construal
+
+pro®le
+
+concept
+
+concept
+
+base, domain
+
+ICM, domain
+
+frame
+
+focal adjustment, construal, conceptualization
+
+(metaphor,
+metonymy,
+image schema transformation)a
+
+imaging system
+
+aLako does not use a superordinate term for this category, but discusses a wide range of construal operations.
+
+linguistic approaches to semantics, and to dierentiate them from most other semantic approaches.3 Table 1 summarizes some of the terms used by dierent theoreticians for what we believe are instantiations of essentially the same constructs.
+This article is about the theoretical status of a ®fth theoretical construct of cognitive linguistics, the image schema. Image schemas, roughly, are basic ``abstract'' structures that recur in our construals of the world, and appear to play a fundamental role in various cognitive semantic processes (they are described in more detail in section 3). The main proposal of this article is that image schemas are a subtype of domain, which we call image schematic domains. In order to present this argument, we must outline the theory of domains in some detail. We do this in section 2Ðwe take as a starting point the theory of domains proposed by Langacker 1987 (section 2.1), following the work of FillmoreÐbut make certain important quali®cations about the types of concepts that are pro®led in domains (section 2.2). In section 3 we introduce image schemas, outlining the theory of image schemas presented by Johnson and by Lako (section 3.1), and then present our argument that image schemas are best conceived of as a type of domain (section 3.2). In section 4, we conclude with a discussion of why we believe some domains are image schematic while others are not.
+
+2. Domains and the locational/con®gurational distinction
+Langacker (1987) provides a detailed treatment of domains summarized in section 2.1, from which we argue in section 2.2 for our analysis
+
+Domains and image schemas 5
+of two kinds of concepts, which we apply to our analysis of image schemas.
+2.1. Concepts, domains and domain matrices In cognitive grammar, Langacker (1987) treats every concept as being characterized relative to a semantic domain. That is, the semantic value of a word is speci®ed with respect to a domain.
+Langacker uses the terms pro®le and base to emphasize the relationship between a concept and the domain in which it is found, respectively. A pro®le is some portion of conceptual knowledge which stands in relation to a base of presupposed knowledge. The term base highlights the way in which background knowledge ``supports'' the concept, such that the concept cannot be understood without this presupposed knowledge. The term pro®le implies the necessary presence of the domain (base) against which the concept is ``pro®led''.
+Langacker provides the example of the concept circle which presupposes a knowledge of (two-dimensional) space. Figure 1(a) illustrates this concept±domain relation with the concept, circle, as a bold pattern (the pro®le) within the background of SPACE (the cognitive domain). (In this article we use small capitals to denote domains, and lowercase italics to denote pro®les.)
+Langacker's notion of a domain appears to dier in some respects from the term domain used by most psychologists dealing with concepts and by many linguistic semanticists, who often use it in a broader sense, to encompass space, artifacts, or living things. Any structured experience is potentially a domain for Langacker, if it supports a concept pro®le. In particular, his notion of something like CIRCLE being a domain con¯icts with the broader intuitive notion of
+Figure 1. Pro®le±base in cognitive grammar
+
+6 T. C. Clausner and W. Croft
+a domain. Figure 1(b) illustrates that CIRCLE can itself be a domain which supports the concept pro®le arc.4 Speci®cally, ``a domain is a semantic structure that functions as the base for at least one concept pro®le'' (Croft 1993: ???).
+The concept±domain semantic relationship is essentially a part±whole (i.e., meronomic) relationship. The example of arc±CIRCLE in Figure 1(b) is a classic meronomic relationship between a part of an object (the arc) and the whole object (the circle). The concept±domain relationship is, therefore, distinct from the subordinate±superordinate semantic relation (i.e., taxonomy, also called schematicity by Langacker [1987]).5 For example, an arc, a chord, and a radius cannot be subsumed under the taxonomically general category of a circle. Taxonomic relations between categories distinguish levels of generality. For example, the concepts chair, table, dresser, and bed may be subsumed under a more general category of furniture. The concept±domain relation does not hold between levels of categorial generality; it holds between the base of knowledge in which a category exists (domain) and category members (concepts).
+Nonetheless, domains can also enter into taxonomic relations (Clausner 1993; Croft 1993) and this organization has nothing to do with the organization of a domain's component parts (regardless of whether they are objects, actions, or properties). For example, eating and drinking can be subsumed under a more general category of consumption. The EAT domain and DRINK domain are hence subtypes of the CONSUME domain. Eating and drinking are activities that are conceptualized in terms of a number of shared semantic structures, but neither is a subtype of the other. Nor can one say that consuming necessarily presupposes any additional properties possessed by eating or drinking. Instead, consuming may be instantiated as either drinking or eating. The taxonomic relationship of a (superordinate) schema and its (subordinate) instantiation is not a concept±domain relationship.6
+The nature of the concept±domain relation is such that any concept can in turn function as the domain for other concepts (e.g., arc±CIRCLE and circle±SPACE of Figures 1(b) and 1(a), respectively). The embedding of domains as concepts in other domains eventually ``bottoms out'', according to Langacker, in basic domains: domains which are footed in fundamental human bodily experiences, such as SPACE, TIME, various sensations, emotions and perceptions, and certain basic social-interpersonal phenomena (Langacker 1987: 148).
+This observation has two important consequences.7 First, it reveals that there can be part±whole relations among domains. Second, a domain itself may be a complex of domains. In Langacker's view,
+
+Domains and image schemas 7
+knowledge is encyclopedic, organized into conceptual domains which are grounded in our experience of the world. Our commonsense knowledge about birds for example includes their shape, the fact that they are made of physical material, their activities such as ¯ying and eating, the avian lifecycle from egg to death, etc. These aspects of the concept bird are speci®ed in a variety of dierent domains such as SPACE, PHYSICAL OBJECTS, LIFE, TIME, etc. The collection of domains which are presupposed by the concept pro®le bird is called its domain matrix. The domains in a domain matrix may be more or less separable in experience. For example, it is extremely dicult to divide the COLOR domain ``matrix'' into the separate domains of HUE, BRIGHTNESS, and SATURATION. Langacker describes such seemingly inseparable domains as being dimensions of a single domain (Langacker 1987: 150). But then he points out that there is a continuum between dimensions of a single domain and multiple domains combined into a matrix: ``the distinction between dimensions and domains is to some degree arbitrary and a matter of convenience'' (1987: 152). The analysis of domains into dimensions or domain matrices is of fundamental importance to the characterization of image schemas as types of domains, and the abstract nature of image schemas (see section 3.1).
+2.2. Locational and con®gurational concepts in a domain
+Langacker proposes that there are dierent kinds of domains, locational and con®gurational (1987: 153). We will explain the distinction by illustrating con®gurationality and locationality, but within the single domain SPACE. From this we then argue that the distinction is one of dierent kinds of concepts (i.e., pro®les), not domains.
+Langacker classi®es SPACE as a prototypical con®gurational domain. The concept triangle pro®led in the domain SPACE illustrates that a con®guration is independent of its speci®c location in space. Given an arrangement of vertices and edges which as a whole may be called a triangle, the conceptual identity does not depend on position (i.e., location or rotational orientation). That is, a triangle repositioned from i to j in the domain SPACE remains a triangle (Figure 2).8 Moreover, a triangle is distinct from a square regardless of either shape's location in SPACE or their locations relative to one another.
+On the other hand, a location in SPACE is a point or region, speci®ed relative to another point or region of reference. For example, the deictic concept here is a location whose conceptual identity is dependent on its position relative to a reference point, such that other spatial location concepts suciently distant from the reference point are not
+
+8 T. C. Clausner and W. Croft
+Figure 2. Con®gurations
+Figure 3. Locations
+here, but there (Figure 3). These locations are calibrated relative to the reference point (which in the case of spatial deixis is typically the location of the speaker/hearer). Another locational concept is the spatial meaning of home (e.g., I'll be at home tonight) which speci®es either a physical dwelling or a larger region such as a city or country, and tends to have a ®xed location. These locational examples are not Langacker's, but they satisfy his characterization of the propertyÐ a discrete region pro®led relative to an intrinsically calibrated reference frame ``so that dierent locations correspond to dierent sensations instead of being functionally equivalent and interchangeable'' (1987: 153).
+Langacker discusses whether locations are simply degenerate con®gurations. He distinguishes between discrete and continuous con®g-
+
+Domains and image schemas 9
+urations. We illustrate this with (spatial) shapes, which are experienced as Gestalts, but are analyzable into parts. Continuous shapes are con®gurations which include the cube, triangle, sphere, a facial pro®le, the shape of a dove, a cookie-cutter outline, etc. Discrete shapes are constellations of points such as the Big Dipper or letters formed in a dot-matrix fashion. Langacker concludes that locations are point-like degenerate con®gurations, which unlike con®gurations are pro®led in an intrinsically calibrated domain. However, as we have illustrated with the domain SPACE, a single domain can pro®le both locational and con®gurational concepts.
+One reason that locational spatial concepts could be overlooked is that they are often proper names rather than common nouns. The concept expressed by the term Los Angeles speci®es a location in SPACE, and is dierent from any other locational concept, such as the one expressed by the term San Francisco. However, there are other ways to specify locational concepts (as discussed above), such as deictic demonstratives (this/that) and adverbs (here/there). These concepts are locational as well, even though the location is de®ned relative to a potentially shifting reference point.
+The ability of a domain to support both locational and con®gurational concepts is not restricted to SPACE. The same is true of the domain of PITCH. We use the term PITCH to refer to the domain of sounds de®ned by their acoustic frequency; we restrict ourselves here to the discrete domain of MUSICAL NOTES based on the continuous domain of pitch height (Figure 4). This is the domain of sounds named by their musical values, such as C, E, F-sharp, etc., assuming a ®xed assignment of musical notes to frequencies.9 A succession of musical notes, A, A-sharp, B, etc. (clockwise in Figure 4), correspond to successively higher frequencies. Concepts such as middle C are a note in a speci®c cycle (i.e., octave) of musical tones.
+Figure 4. The domain of PITCH: FREQUENCY and MUSICAL NOTES
+
+10 T. C. Clausner and W. Croft
+The domain PITCH supports locational auditory concepts. An auditory concept such as the second E above middle C (which is a particular pitch), is de®ned by its location on the sound frequency scale. As such, it diers from any other note (e.g., the third C above middle C). In addition to speci®c note values, however, the PITCH domain also supports concepts such as those of musical intervals: for example, octave, ®fth, minor third, etc. This is a particular auditory sensation associated with the simultaneous sounding of two dierent musical notes. Intervals are con®gurational concepts. The interval of a ®fth is the same interval (®ve notes apart) whether it is created by producing C and G, D and A, or the second C above middle C and the third G above middle C. Thus, it satis®es Langacker's de®nition of a con®gurational concept: one that maintains its conceptual identity no matter where it is located in the domain.
+The same is true of a chord, which is a combination of three or more notes. For example, the chord formed by C-sharp, E, and G-sharp, called a minor triad, can be relocated in the pitch domain as D, F, and A, where it is still a minor triad. The locations of these chords dier, but the con®guration remains unchanged; thus chords are con®gurational in PITCH, just as shapes are con®gurational in SPACE.
+Langacker analyzes PITCH as a locational domain, but observes that chords pose problems for his distinction between locational and con®gurational domains:
+The pitch domain provides a counterexample, however: it is certainly inherently calibrated (one pitch is qualitatively dierent from another), and to that extent it is a locational domain, but we are nonetheless capable of perceiving chords, which seem best analyzable as con®gurations of distinct tones F F F . This would further appear to blur the distinction between the two kinds of domains. (Langacker 1987: 153)
+Indeed, the domain PITCH allows both locational and con®gurational concepts to be pro®led, as does the domain SPACE. The domain TIME also allows locational and con®gurational concepts. The concept June 17, 1993 pro®les a location in time and is similar to spatial locations expressed by proper nouns. And just as spatial deixis is locational, temporal deictic terms such as the day before yesterday and later also pro®le locations (again relative to a shifting reference point, namely now). The concept daytime is con®gurational because it pro®les a duration of points in TIME (i.e., a temporal shape), and does not depend on a calibrated reference. Any period of daylight may be called daytime, and does not require calibration with respect to the concept now.
+Other domains can be illustrated in support of our argument. The domain LOUDNESS pro®les the amplitude of acoustic experience. These
+
+Domains and image schemas 11
+can be locations such as loud and quiet, which are calibrated relative to the reference point concept silence. Con®gurations in this domain are multiple distinct points of loundness simultaneously experienced as noise. This typically also involves dierent pitches (e.g., the notes of a chord may dier in loudness), but here we are considering only amplitudes. Another domain, SIMILARITY, pro®les locational concepts ranging from same to dierent, calibrated relative to the reference point identical. A con®guration in this domain is a correlation, which in this analysis is a constellation of similarities, dependent only on their location relative to one another, not to a ®xed reference point.
+The domains SPACE, TIME, PITCH (or MUSICAL NOTES), LOUDNESS, and SIMILARITY all support both locational and con®gurational concepts. This supports our claim that the locational±con®gurational distinction is applicable to concepts, not domains. However, this does not preclude the existence of domains which have only one type of concept. We will discuss such domains next, and argue that there are domains which support only locational concepts, and that this constraint is attributable to factors extraneous to the domain.
+The domain TEMPERATURE pro®les concepts such as hot, warm, lukewarm, cool, and cold. These are locational since they are points or regions in the domain which depend on a reference point, namely lukewarm, which functions as a relative norm.
+The organization of the domain TEMPERATURE most likely has its basis in the physiology of thermoreception. We will brie¯y describe some of the established facts summarized in Darian-Smith (1984), which we argue are crucial to the structure of the cognitive domain TEMPERATURE. Warming or cooling of the skin is usually quali®ed in terms of intensity, duration, and location (i.e., the domains TEMPERATURE, TIME, and SPACE, respectively, the ®rst of which is our present concern). There are two kinds of sensory receptors in the epidermis which speci®cally respond to thermal variation. ``Cold ®bers'' respond to decreases of temperature between 20 and 35C and ``warm ®bers'' respond to increases in temperature between 30³ and 45³C. The function of these two neurological channels is relatively independent. There is a neutral zone (31±36³C), the typical range of body skin temperature, which is neither cool nor warm. This is the typical neutral reference for registering thermal change. Sustained temperatures beyond this zone (spanning 28±40³C) result in adaptation of the neutral reference point to a new temperature. Once adapted to a new reference temperature, sensations of warming or cooling are experienced relative to this reference point.
+We treat these neurophysiological facts as support for our analysis that concepts in the domain TEMPERATURE are locational.10 The domain
+
+12 T. C. Clausner and W. Croft
+is a one-dimensional scale which pro®les points ranging from hot to cold. The reference point lukewarm on the scale is de®ned by one's body-surface temperature, or whatever temperature to which the skin has been adapted. Deviations from this reference point are dierent temperature conceptsÐwarm is closer to the reference point than hot.
+We know that these concepts are not degenerate point-like con®gurations, otherwise their position in the domain would be independent of a reference point. Moving a pro®le like warm to another location in the domain changes the concept to a dierent temperature such as cool or hot. Although the reference point can shift position to represent adaptation to a new norm, the relative locations of other temperature concepts shift respectively with the reference point. We argue further that a constellation of points cannot be pro®led in the domain TEMPERATURE. Unlike con®gurations in PITCH which are multiple frequencies experienced at the same time (and place), multiple temperatures require their experience to be distributed over time or space. Any one temperature receptor cannot respond to more than one temperature experience at one time (i.e., no two temperatures can be experienced together at the same point in space). This suggests that con®gurations of temperatures are precluded by the psychophysics of thermal experience.11 The constraint is extrinsic to the cognitive structure of the domain TEMPERATURE, which might otherwise permit con®gurations.
+A more complex example is that of the domain COLOR. Langacker (1987) analyzes a color pro®le as a restricted region (location) within the three dimensions of hue, brightness, and saturation. Concepts such as blue and red are principally pro®les of hue, whereas black, white, and gray are largely restricted to the brightness dimension (1987: 190). Color concepts are calibrated relative to local reference points. Socalled ``focal colors'' are likely candidates. Color concepts function like proper names for dierent locations in the COLOR domain (the focal colors).12
+It is unclear whether the COLOR domain also permits con®gurational concepts. For example, the entire spectrum of visible hues may be represented by one dimension, requiring only one (calibrated) point pro®le for any one color experience. In this case, pro®ling more than one point is unnecessary, perhaps disallowed (see Clausner 1993). Even if COLOR is a domain comprised of several dimensions, each representing a primary hue or oppositions between complementary hues, then still only one (multidimensional) locational concept is necessary per color experience. This suggests that hues are not con®gurational, but we do not believe de®nitive evidence or current theory in cognitive science provides a means for conclusively arguing the case.
+
+Domains and image schemas 13
+
+Table 2. Summary of con®gurational and locational pro®les
+
+Domain
+
+Con®guration
+
+Reference point
+
+SPACE TIME PITCH LOUDNESS SIMILARITY TEMPERATURE COLOR
+
+cube, triangle daytime chord noise correlation (*) (?)
+
+here now (calibrated) silence identity lukewarm (focal colors)
+
+Location
+there, home tomorrow, then note, A# loud, quiet same, dierent hot, cool red, dark, light
+
+The domains we have just discussed appear constrained to support only locational concepts, not con®gurational ones. We leave open the possibility of a converse constraint, such that a domain would support con®gurational concepts, but not calibrated locations.
+Table 2 summarizes our evidence regarding concepts in the domains discussed above. We expect our hypothesis to hold for all domainsÐ that any domain may support both con®gurational and locational pro®les, unless otherwise constrained. We make two conclusions:
+i. basic domains may function as a base for locational or con®gurational concepts
+ii. basic domains each have at least one normative reference location
+Domains represent highly organized background knowledge against which concepts may be pro®led. Domains can support both locational and con®gurational concepts, although some domains can support only locational concepts due to external constraints. Recognizing that locationality vs. con®gurationality is a property of concepts, not domains, contributes to a novel analysis of image schemas in the next section.
+3. Image schemas and image schematic domains
+3.1. Images and image schemas
+Image schemas are presented and discussed by Lako (1987), Lako and Turner (1989) and Johnson (1987). As with other cognitive linguistic theoretical constructs, it is argued that image schemas are more than elements of linguistic theory: they have psychological reality for which there is supporting evidence from experimental research in psycholinguistics, cognitive psychology, and developmental psychology (Gibbs and Colston 1995). In order to understand the theory of image schemas held by the aforementioned researchers, we must ®rst describe and contrast their theories of the image.
+
+14 T. C. Clausner and W. Croft
+Images are representations of speci®c, embodied experiences. Many domains lack images; Lako and Turner give the examples of thought (Lako and Turner 1989: 94), death and time (1989: 95), and wakefulness, alertness, and living (1989: 97). Domains that lack images are sometimes called ``abstract'' domains (e.g., Lako and Turner 1989: 94). The term abstract is ambiguous, so we use the label nonimagistic domains in this article.
+Domains that give rise to images are embodied (Lako 1987: 267; Johnson 1987: 19±23) or grounded (Lako and Turner 1989: 113). Johnson provides the most precise speci®cation of which domains are embodied: those that refer to physical experience (1987: xxxvi), speci®cally ``our bodily movements through space, our manipulation of objects, and our perceptual interactions'' (1987: 29; see also Lako 1987: 267).
+Image schemas are not speci®c images but are ``abstract'' in another sense of that word: they are schematic. They represent schematic patterns arising from imagistic domains, such as containers, paths, links, forces, and balance that recur in a variety of embodied domains and structure our bodily experience (Lako 1987: 453; Johnson 1987: 29). Image schemas are also not speci®c to a particular sensory modality (Lako 1987: 267; Johnson 1987: 24±25). Image schemas structure our bodily experience (Talmy 1972, 1977, 1983), and they structure our nonbodily experience as well, via metaphor (Lako 1987: 453; Johnson 1987: 29). This de®nition clari®es the seemingly contradictory description of image schemas sometimes found: image schemas are ``abstract'' in one sense of that wordÐthey are schematicÐ but not ``abstract'' in another sense of that wordÐthey are embodied.
+We discuss image schemas by examining Johnson's characterization of the SCALE image schema, which will serve to illustrate our argument in section 4. Like all image schemas, SCALE is claimed to emerge from our concrete physical experience, thus serving as a basis for extension to nonimagistic domains. According to Johnson (1987: 23), these include numbers, properties, relations, geometric structures, entities in economic models, etc., such that ``SCALARITY does seem to permeate the whole of human experience, even where no precise quantitative measurement is possible''. For example, the concepts more, less, and same are scalar values which apply to a variety of experiences, including (i) number, such that we can have more, less, or the same number of objects, (ii) an amount of substance, (iii) a degree of force, (iv) the intensity of a sensation.
+The correspondence between more and up is an instance of the SCALE image schema. The experiential basis for this is that when we add more of a substance to a pile or container, the level rises. The
+
+Domains and image schemas 15
+metaphor is not based on similarity between the domain UP and the domain MORE, but is based instead on a correlation in our experience. This is what makes possible an important structuring of our concept of amount.
+The quantitative aspect of amount results from the world being populated with discrete objects and substances. We can add or remove objects from a group, or we can add or remove substance from a pile or container. Johnson describes a variety of qualitative properties of the concept amount, illustrating that objects and events have degrees of intensity (e.g., brighter light, hotter potato, deeper blue, more intense pain).
+In addition to image schemas being pervasive in experience, many image schemas are experienced together. Johnson (1987) describes this as a superposition of schemas, using the example of things which we co-experience as both near us and central to our vantage point vs. things far away and peripheral:
+The CENTER±PERIPHERY schema is almost never experienced in an isolated or selfcontained fashion F F F . Given a center and a periphery, we will also experience the NEAR±FAR schema as stretching along our perceptual or conceptual perspective. (1989: 125)
+An inventory of image schemas collected from Johnson (1987) and Lako and Turner (1989) is given in the next paragraph.13 We have grouped these and added some items (marked by italics), either to serve as a heading or to complete some groups, which we will discuss shortly. Most of the headings (the left-hand column) are provided by us, although SCALE, CONTAINER, and FORCE are image schemas from the literature.
+
+SPACE
+SCALE CONTAINER
+FORCE
+UNITY/MULTIPLICITY
+IDENTITY EXISTENCE
+
+UP±DOWN, FRONT±BACK, LEFT±RIGHT, NEAR±FAR, CENTER±PERIPHERY, CONTACT PATH CONTAINMENT, IN±OUT, SURFACE, FULL±EMPTY, CONTENT BALANCE, COUNTERFORCE, COMPULSION, RESTRAINT, ENABLEMENT, BLOCKAGE, DIVERSION, ATTRACTION MERGING, COLLECTION, SPLITTING, ITERATION, PART± WHOLE, MASS±COUNT, LINK MATCHING, SUPERIMPOSITION REMOVAL, BOUNDED SPACE, CYCLE, OBJECT, PROCESS
+
+What we believe to be important about this list is that the image schemas are related, not just in that they can be co-experienced; we will
+
+16 T. C. Clausner and W. Croft
+argue that these relationships are just the kind found between cognitive domains.
+3.2. Image schemas as image schematic domains
+Many of the names of image schemas in the inventory in section 3.1 have also been identi®ed by lexicographers as important categories. For example, Class I of Roget's Thesaurus (Roget 1852) is ``Abstract Relations'', which includes the subcategories ``Existence'', ``Relation'', ``Quantity'', ``Order'', ``Number'', ``Time'', ``Change'', and ``Causation''. These and categories in Class II (``Space''), and Class III (``Matter'') parallel many of the image schemas listed. This parallelism is also evident in the categories used in more contemporary versions of Roget's Thesaurus (Kipfer 1992). For example, the categories ``Containment'' and ``Limits'' (found under the heading ``Spatial States'') parallel the boundedness of a CONTAINER image schema. And the category ``Capacity'' (found both under the heading ``Physical States'' and under ``Qualities of Matter'') parallels the content of a CONTAINER image schema.
+The important point is that collected under these categories are a large number of words which express concepts. These concepts must be pro®led in some semantic domain. Yet the semantic structures which provide the domains for these concepts are what have been called image schemas. We take this fact as central evidence that image schemas are a special kind of domain, which we call image schematic domains. We illustrate how image schematic domains pro®le concepts using two examples, SCALE and CONTAINER.
+One of the most important image schematic domains is that of SCALE, discussed brie¯y in section 3.1. We must posit a domain for scales because there are words that are pro®led solely in the SCALE domain, such as more, less, increase, decrease, very, etc. Moreover, the semantics of these and other SCALE words in English can easily be captured as distinct types of concept pro®les, as described in section 2 above.
+Johnson contrasts SCALE with PATH, but we argue that the two image schemas are variants of the same schema. Johnson argues that scales are inherently directional (1987: 122) but paths are not (1987: 114). He posits three properties of the PATH image schema: a starting point, an ending point, and contiguous points in between (1987: 113). Yet the asymmetry of the starting point and the ending point give paths directionality, and this directionality is inherent in all PATH metaphors. For example, Johnson cites metaphors based on the PATH schema which express abstract PURPOSES in terms of PHYSICAL GOALS. As Johnson himself points out, the physical starting location of a path is
+
+Domains and image schemas 17
+mapped onto the initial state of some purpose, and the ®nal location onto the ®nal state, yielding expressions such as She's just starting out to make her fortune and I've got quite a way to go before I get my Ph.D. (1987: 114±115).
+Johnson also argues that scales are cumulative: if you have n+1 on a scale you also have n. Scales contrast with paths, since if you are at point B on a path you are not also at A. However, we believe this depends on how one conceptualizes amount and position: after all, if you have amount n+1, that also means that you have gone beyond the amount n in your accumulation. Lastly, Johnson argues that scales have an associated normative value. In fact, this is not a necessary property of scales; instead, values are typically conceptualized using the SCALE image schema. Hence, it appears that the PATH and SCALE image schemas are variants of a single image schema, which we here call SCALE.
+All of the SCALE words mentioned above (more, less, increase, decrease, very) symbolize locational concepts in the SCALE domain. More and less pro®le regions relative to a potentially shifting reference point, which is a norm for whatever concept is being described by more or less. This is not unlike the deictic terms for spatial and temporal locations in the domains of SPACE and TIME described in section 2.2.
+This analysis of locational concepts in the SCALE domain can be carried over to paired gradable adjectives such as tall/short, sharp/dull, and good/bad. In order to do so, we use the theoretical construct of a domain matrix, recognizing the inherent complexity of the domains underlying the semantics of gradable adjectives. The domain matrix for each of these concepts includes a qualitative dimensionÐspatial property, sensation, and judgment, respectivelyÐand the domain of SCALE. The SCALE domain contributes the linear ordering of the property, sensation, or judgment that is part of the meaning of the adjective (and that is what makes the adjective gradable). A word such as sharp pro®les a location beyond the norm in the SCALE domain in its matrix; the word SHARP also pro®les a qualitative dimension of SHARPNESS.
+This analysis may strike the reader as somewhat odd, since SHARPNESS and other domains in which paired gradable adjective concepts are found seem to inherently possess a scale. This is due to the fact that the qualitative sensation and the scale along which it is measured are so closely bound together in experience that they are dicult to conceive of as independent domains in a matrix. However, as we noted in section 2.1, domains in a matrix vary in their separability, and seemingly inseparable ``dimensions of a domain'' (Langacker 1987: 150) dier only in degree, not in kind, from ``domains in a matrix'' (cf. Langacker 1987: 152).
+
+18 T. C. Clausner and W. Croft
+The domain for gradable adjective concepts is an example of a semantic structure on the boundary between dimensions and domains. It is dicult to conceive of the qualitative sensation dimension independently of an adjectival concept's scalar dimension. However, the scale can be conceived of independently of any qualitative dimension, as we noted above. For example, a word such as very is pro®led only in the domain of SCALE; it does not presuppose any qualitative domain. The gradable adjective modi®ed by very provides the qualitative domain, the relevant scale, and a normal value (reference location) for the adjectival concept on that scale. The concept very then is a location pro®led on the scale further along than the reference value.
+More interestingly, the domain of SCALE can also support con®gurational concepts. A scale is a one-dimensional entity, so con®gurations are not going to be like shapes in a two- or three-dimensional space. This does not imply that gradable adjectives such as big apply to only one spatial dimension (which may involve an area or volumetric judgment), it simply means that the scale of comparison is one dimensionalÐas is the ranking of big±bigger±biggest, or the increment between big and very big. If we ask what sort of concept stays the same no matter where it is located on a scale, we can see that an interval whose size remains the same no matter where it is on the scale is a con®gurational concept.
+The best analog to this sort of con®gurational concept is the musical interval, described in section 2.2. For example, a musical interval of a ®fth is the same no matter what the pitch of the notes of its endpoints are, and it is dierent from a fourth regardless of where either the fourth or the ®fth lies on the musical scale. Likewise, the measurement of ®ve feet is ®ve feet regardless of where in space the measurement is made, and it is dierent from four feet regardless of where that measurement is made. More speci®cally, a unit of measure such as meter or gram is pro®led in a domain matrixÐthe concept is in the SCALE domain together with a pro®le in the relevant qualitative domain (of SPACE in the case of meter, and MASS in case of gram).
+Hence, scalar adjectives are a location in a domain having SCALE in its matrix (or alternatively, in the two-dimensional domain consisting of the SCALE dimension and the relevant qualitative dimension). Measures are con®gurational concepts in a domain matrix consisting of SCALE and the relevant qualitative domain (or alternatively, in a twodimensional domain consisting of the SCALE dimension and the relevant qualitative dimension).14 To ®nd concepts that are con®gurational pro®les solely in the domain of SCALE, we must turn to (cardinal) numbers. Cardinal numbers such as three or eighty pro®le an amount (i.e.,
+
+Domains and image schemas 19
+Figure 5. Con®gurations and locations in the domain SCALE
+a magnitude, a number of units) that remains constant no matter where in the SCALE domain the units are counted. Figure 5(a) depicts the cardinal number three as a pro®le of three units (shown bold) in the domain of SCALE.15
+Cardinal numbers pro®led in a SCALE are con®gurational, but ordinal numerals are locational pro®les in the SCALE domain. Ordinal numerals indicate a speci®c position on the scale relative to a reference point, the point that is speci®ed as ®rst on the scale. Figure 5(b) depicts the ordinal number third as a locational pro®le, the third unit (bold) from the reference point. This distinction can be generalized as follows. An amount of n units is a scalar shape, which includes 1, 2, F F F , nÀ1, n units on a scale. However, the nth position on a scale is a location n units from a reference, and is exclusive of all other locations on the scale.
+Our hypothesis that the SCALE image schema is actually an image schematic domain provides us with an account for the semantics of a variety of words, and of image schemas as they occur in other domains. The SCALE image schematic domain supports both locational and con®gurational concepts. Locational concepts such as more/less can be analyzed in terms of a shifting deictic reference point. Thus, two very fundamental image schematic conceptsÐgradability and quantityÐcan be analyzed as locational and con®gurational concepts respectively, pro®led in a single image schematic domain of SCALE. All of the properties that Johnson describes for scalesÐthat they are directional, can be cumulative, normative, open or closed, and can possess
+
+20 T. C. Clausner and W. Croft
+a metricÐare simply aspects of the structure of the image schematic domain. What Johnson writes about image schemas further con®rms that they are like domains in their structure:
+F F F image schematic gestalts have considerable internal structureÐthey are not undierentiated. On the contrary, it is the organization of their structure that makes them experientially basic meaningful patterns in our experience and understanding. The schema for these gestalts have parts and dimensions that stand in various relationships that allow us to make sense of our experience. (Johnson 1987: 61)
+Finally, the schematicity of the SCALE image schematic domain follows from the fact that it is part of the domain matrix of many domains of experience, both embodied and nonimagistic domains. Nevertheless, our understanding of SCALE and other image schematic domains are grounded in our bodily experience; they are basic domains (in Langacker's sense; see section 2.1).
+Our second and ®nal illustration is the image schematic domain CONTAINER. Container image schemas fundamentally involve IN±OUT orientation, taken to account for various senses of in, out, into, and out of (Johnson 1987; Lako 1987; Lindner 1981). Clausner (1994) provides an analysis of container metaphors, as evidence for a richly structured CONTAINER domain. From this we propose that CONTAINER not only is schematic and pervasive, but also possesses properties of a domain, making it an image schematic domain.
+Our inventory of image schemas (in section 3.1) groups together IN±OUT, SURFACE, CONTENT, FULL±EMPTY, and CONTAINMENT under the heading of CONTAINER. Each of these image schemas support concept pro®les. The container boundary pro®les SURFACE concepts, such as on the periphery. The interior of a container pro®les CONTENT concepts such as full and empty. Containment can be viewed as a relation between the container (boundary) and its content (interior) which supports the concepts in/out and into/out of. All of these concept pro®les are of dierent dimensions or parts of the domain CONTAINER.
+SCALE and CONTAINER are image schematic domains which, like domains, have internal structure and support pro®les of dierent concepts, including locational and con®gurational pro®les, and, like image schemas, they are highly schematic and pervasive in experience.
+4. Some consequences of the image schematic domain analysis
+We have argued that basic domains and image schemas share characteristics which motivate the analysis of image schemas as image schematic domains. Of course, reanalyzing image schemas as image
+
+Domains and image schemas 21
+schematic domains has consequences for various cognitive semantic phenomena that have been analyzed using image schemas. In this section, we explore the consequences for four cognitive semantic phenomena: the identi®cation and pervasiveness of image schematic domains; image schematic domains and embodiment; image schema transformations; and metaphor.
+4.1. Identi®cation and pervasiveness of image schematic domains
+Why are certain domains image schematic, and others not? Certain domains, such as QUANTITY, TIME, SPACE, CAUSATION, SCALE, UNIT, and IDENTITY are highly populated with concepts whose pro®les are themselves an image schema (e.g., the concept pro®le of very is the image schema SCALE). Other domains, such as BASEBALL, FUTURES TRADING, and MEDIEVAL MUSICOLOGY have no concepts pro®led in them at all that most cognitive linguists would consider to be pro®les of an image schema alone. This is not to say that concepts in these domains are not structured by image schemas; they are, because these domains are in fact quite complex domain matrices which include image schematic domains. It is dicult if not impossible to de®ne image schematic domains in terms of some necessary and sucient condition.16 Instead, it appears that one can de®ne image schematic domains only by enumeration. We observe that some domains exhibit properties attributed to image schemas (they are schematic and pervasive), indeed these structures are identi®ed in the theory as image schemas, yet exhibit properties of domains (they support dierent types of concept pro®les). From this we conclude that image schemas and domains dier in degree but not in kind.
+In order to begin to explain why some domains are image schematic and others are not, we must look at the distribution of these domains across experience. We note that the image schematic domains are themselves components of a very large number of concrete domain matricesÐthat is, a large number of domain matrices that are necessary for describing our understanding of concepts in our experience include some, or even many, image schematic domains. For example, the domain APPLE is concrete, that is, it is relatively nonschematic. In the scope of human experience it is presupposed by relatively few other domains (e.g., CIDER). On the other hand, almost all domains make some reference to SCALES; for example, any domain involving gradable properties. Also, IDENTITY or SIMILARITY can be found in nearly every concept pro®le. The domains of TIME and CHANGE (that is, the PROCESS image schema) can be found in the matrix of any event or process
+
+22 T. C. Clausner and W. Croft
+concept. An enormous number of domains involving physical objects or motion include SPACE in their domain matrix.
+These facts suggest a natural de®nition of image schematicity: domains which are image schematic are those found in the largest number of domain matrices (for the concepts used in human experience). This de®nition has two positive features. First, it suggests that there is no sharp distinction between image schematic domains and concrete domains. Second, this characterization of image schematic domains does not require that there be a set of necessary and sucient conditions for de®ning image schematicity. In fact the failure so far to ®nd this set of conditions suggests that this is the wrong way to characterize image schematicity.
+Consequently, there should exist domains intermediate between the image schematic and the concrete. CONTAINER is such a domain. It is image schematic in that boundedness is an abstract property found in a large number of domain matrices in experience. Nonetheless, the domain CONTAINER has concrete aspects. It can support concrete spatial pro®les of material substance such as full, empty, content, and the material of surfaces de®ning an interior (e.g., of a cave). In this regard CONTAINER is not as pervasive in experience as the ubiquitous SCALE. Moreover, CONTAINER is intermediate between being a schema without spatial extent (boundedness, or idealized containment) and having a boundary of concrete extent, albeit limited to the spatial extent of the container itself.
+4.2. Image schematic domains and embodiment
+As noted in section 3.1, all image schemas are embodied. In our analysis, then, it would appear that all image schematic domains are basic domains. This is not precisely the case, since for example the CONTAINER domain is based on the SPACE and MATERIAL OBJECT domains. However, the converse is not the case: not all basic, embodied domains are image schematic domains. For example, the TEMPERATURE domain is a basic, embodied domain, grounded in our physiological bodily experience (see section 2.2). However, the temperature domain is not image schematic. This is because not all basic, embodied domains form part of the domain matrices of many other domains, which we have just argued is a further condition on image schematic domains (section 4.1).
+Treating image schemas as image schematic domains requires a re-examination of the way in which image schemas are both embodied and schematic. Embodiment refers to the grounding of image schemas in concrete bodily experiences (see section 3.1). Those concrete bodily experiences, such as eating or putting on clothes or moving about in
+
+Domains and image schemas 23
+a roomÐall experiences manifesting the CONTAINER image schematic domainÐare themselves describable as domain matrices. That is, the concrete bodily experiences are themselves complex.
+Complex does not entail derived, however. The concrete bodily experiences are basic or primitive in that they are Gestalts from which is derived the analysis of experience as being made up of multidimensional domain matrices. The complex Gestalt of a bodily experience such as eating is basic and the component domains, including the image schematic domains, are derived, a result of the process of recognizing the recurrent patterns across bodily experiences that Johnson argues forms the basis of image schemas (see section 3.1). The recognition of the similarities between dierent bodily experiences involves a correspondence relation between the dierent experiences embodying containment.17 It is only our analyst's perspective upon the experience of eating, putting on clothes, etc., that on re¯ection breaks them down to consist of domain matrices with the CONTAINER image schematic domain as a component part of each of them. We believe that this is the best way to describe how image schematic domains are embodied, and yet recurrent across bodily experiences.
+4.3. Image schematic transformations
+One of the more common semantic phenomena involving image schemas are image schema transformations. Image schema transformations are the mapping of one image schema onto another. Lako gives many examples of an image schema transformation in which the path image schema is transformed to the location corresponding to the end of the path, for example Sam walked over the hill (path) vs. Sam lives over the hill (end of path) (Lako 1987: 440; cf. Brugman 1988). Other image schema transformations described by Lako (1987: 441±442) are provided as examples (1) to (4) in pairs of contrasting construals:18
+(1) Multiplex vs. mass a. The fans poured through the gates [multiplex fans]. b. He poured the juice through the sieve [mass juice].
+(2) Sequence of points vs. one-dimensional trajector a. He coughed throughout the concert [sequence of coughing point events]. b. He slept throughout the concert [extended one-dimensional temporal state].
+(3) One-dimensional trajector vs. trajector moving along a onedimensional path
+
+24 T. C. Clausner and W. Croft
+a. There is a road through the forest [trajector of through]. b. Sam ran through the forest. (4) Re¯exive trajector-cum-landmark vs. nonre¯exive trajector distinct from landmark a. The book fell apart. b. He stood apart from the crowd [trajector of apart distinct from
+landmark].
+The structure of domains and of concepts pro®led on domains allow us to reinterpret image schema transformations in the context of image schematic domains. The path vs. end-of-path transformation corresponds to a shift in pro®le in the image schematic domain SPACE (which is a component domain of the domain matrix for motion). The transformation is natural for the reason that Lako gives, namely to follow a trajector in motion until it comes to rest, then to focus on its rest position. The one-dimensional trajector vs. trajector moving along a path is also a pro®le shift in the domain matrix of motion, from the moving trajector to a path de®ned by the trajector, or de®nable by a possible moving trajector (as with the road).
+The other examples of image schema transformations that Lako provides involve what we believe are construal operations, falling under the class of construals that constitute the Gestalt of an entity (see Croft and Wood, to appear). The multiplex vs. mass transformation involves a construal of a multiple aggregate of bounded entities as an unbounded mass, following the principle of proximity in the Gestalt psychology of visual perception (Koka 1935; Wertheimer 1950 [1923]). Likewise, the sequence of points vs. one-dimensional trajector involves a construal of the sequence of points as a single ®gure, again following the principle of proximity. The principle of common fate (Wertheimer 1950 [1923], or rather the lack of common fate, allows the two halves of a book falling apart to be construed as distinct entities.
+In general, image schema transformations are construal operations on concepts. A shift of pro®le is also a construal operation, falling under the class of construals involving attention (Croft and Wood, to appear). There are two reasons that image schema transformationsÐ a subtype of construalÐare so closely related to image schemasÐa subtype of domain. First, the image schema transformations refer to concepts pro®led in image schematic domains, such as paths in the SPACE image schematic domain. This may appear to be a confusion between pro®led concept and base domain: a path ``image schema'' is a concept pro®le, not an image schematic domain. HoweverÐand this is the second pointÐrecall from section 2.1 that concept pro®les
+
+Domains and image schemas 25
+themselves can serve as the base domain for other concept pro®les. So path can be, and is, an (image schematic) domain in its own right, and so can be legitimately described as corresponding to an image schema in Lako 's work.
+4.4. Metaphor
+Image schemas also play an important role in metaphor. Lako and Johnson (1980) analyze metaphors as mappings of conceptual structure from one domainÐthe source domainÐto anotherÐthe target domain. For example, in the ARGUMENT IS WAR metaphor, conceptual structures from the domain of war are mapped onto the structure of arguments: He shot down her analysis, etc. Lako (1990, 1993) argues that image schematic structure is preserved in the metaphorical mapping from a source domain to a target domain, provided it is consistent with already existing image schematic structure in the target domain (i.e., the Invariance Hypothesis, see also Lako and Turner 1989; Turner 1987, 1991, 1996).
+In the image schematic domain analysis, the source domain and target domain of a metaphor are domain matrices, each containing one or more image schematic domains. At ®rst glance, it appears that the reformulation of the Invariance Hypothesis would have to be that a metaphorical mapping implies that the same image schematic domains are found in the matrices of both the source and target domains. If so, this would reduce the cognitive theory of metaphor to the Similarity Position of the Literal Meaning Theory of metaphor, which Lako and Turner argue againstÐ correctly, we believe (Lako and Turner 1989: 110±128, especially p. 123). However, Lako and Turner point out that they do not deny a similarity between source and target domains. What they dispute is the assumption that the similar structure in the target domain always exists before the metaphor is coined. Instead, the metaphor can create the similar structure in the target domain. Our analysis of image schematic domains is consistent with this view: the creation of a metaphor actually involves restructuring the target domain matrix to include (compatible) image schematic domains from the source domain matrix.
+5. Conclusion
+We have argued that some domains are image schematic and that image schemas are a type of domain. This analysis of image schemas has allowed us to account for many properties of image schemas using the theory of domains developed in cognitive linguistics. We have also
+
+26 T. C. Clausner and W. Croft
+
+been able to reinterpret other properties of image schemas, including their involvement in image schema transformations and metaphorical mappings, in the context of the theory of image schematic domains.
+Domains and domain matrices are required for representing the meaning of words, i.e., concepts. We believe that the class of concepts that are encoded by words in human languages is not an accidental collection of concepts, but represents a cognitively signi®cant subset thereof whose structure is signi®cant to human beings. On this hypothesis, we can conclude that the image schematic domain found in the vast majority of domain matrices of concepts encoded by human languages do represent the fundamental, pervasive organizing structures of cognition that Lako, Talmy and others have argued that image schemas are.
+
+Received 1 May 1997 Revision received 24 August 1998
+
+HRL Laboratories, Malibu University of Manchester
+
+Notes
+* This research was completed while the ®rst author was at the University of Southern California (NIA grant number 5T32AG00037). Earlier versions of this research were presented at the Third Conference of the International Cognitive Linguistics Association, Leuven, Belgium, 1993, and the Symposium on Verbalization Processes: The Integration of Non-linguistic and Linguistic Cognition, University of Hamburg, Hamburg, Germany, 1996. We thank George Lako, Ronald Langacker, Leonard Talmy, and Mark Turner for helpful discussions. We also thank Arie Verhagen, Claudia Brugman, and an anonymous reviewer for their comments and suggestions on this article. Direct correspondence to HRL Laboratories, Information Sciences Lab, 3011 Malibu Canyon Road, Malibu, CA 90265, USA. Email: timc@hrl.com
+1. This relationship again distinguishes cognitive semantics from most formal semantic approaches. However, many researchers in arti®cial intelligence recognize the importance of representing background knowledge for concepts, and various researchers have used not only the term frame (Minsky 1974, 1979), but also schema (Rumelhart 1975) and script (Schank and Abelson 1977). Fillmore (1975, 1977) adopts the term frame from Minsky (1974), elaborating it into the notion that linguistic meanings presuppose background knowledge. Lako (1982, 1987) and Langacker (1984, 1987) also speci®cally develop the notion of domain for linguistic semantics. See Fillmore (1985: 223, n. 4), Lako (1987: 116), and Langacker (1987: 150, n. 4) for cross-referencing of these terms, and similar discussion in Barsalou (1992: 28). The term script highlights the fact that a domain includes not only static structures but also dynamic processes that contribute to an understanding of concepts in that domain, in particular verbal concepts (see section 2.1 for further discussion). Also, some psychologists (Murphy and Medin 1985; Keil 1989) have argued that knowledge of conceptual categories must be founded on a background theory of the domain (artifacts, biological kinds, natural kinds). The term theory, like the term frame, highlights the structured nature of this background knowledge.
+
+Domains and image schemas 27
+The cognitive linguistic construct of a frame or domain can also be compared to Pustejovksy's qualia roles; he describes qualia roles as dierent types of information associated with word meanings (Pustejovksy 1995: 76). Three of the four qualia roles can be subsumed under domains in that they describe information which in cognitive semantic theory is speci®ed in a domain as knowledge presupposed by a concept. 2. See Croft and Wood (to appear) for an analysis of these construal operations corresponding to processes in cognitive psychology and phenomenological philosophy. 3. In fact, the theory of conceptual semantics developed by Jackendo shares many of these traits; see the special issue of Cognitive Linguistics Volume 7±1 (1996) on the relationship between Jackendo 's theory and cognitive linguistics. 4. See also Langacker (1987: 184, ®gure 5.1). 5. See Bybee (1985) and Langacker (1987), for schematic (i.e., taxonomic) generality employed for morphological (grammatical) representation and Clausner and Croft (1997) for semantic representation in metaphor. 6. Most cognitive semanticists appear to agree that concepts are organized into taxonomies. Taxonomic relations group concepts into superordinate categories according to some semantic resemblance; distinct from categories, domains group concepts together in a structure that represents a commonsense theory of relationships between things in experience, for example, part±whole relations, standardly used to illustrate the concept±domain relation in cognitive semantics. This distinction can also be found in Pustejovksy's qualia roles (Pustejovksy 1995: 85). His ``formal qualia role'' describes taxonomic relations among word meanings, whereas his ``constitutive qualia role'' describes part±whole relations.
+Some relationships between concepts can be construed in dierent ways, as either a concept±domain ( part±whole) relationship or a taxonomic relationship. Langacker's example of arc±CIRCLE as a concept±domain relation can be alternatively construed as a taxonomic relation: a CIRCLE is a special kind of arc, a 360-degree arc of constant curvature. We thank Eric Pederson for pointing out this alternative construal to us.
+Not all concept relationships allow these alternative construals, however. The chord± CIRCLE relation cannot be construed as a taxonomic relation (Figure 1c); nor can diameter±CIRCLE or radius±CIRCLE. The sorts of concept±domain relations which lend themselves to an alternative construal as taxonomic relations appear to be restricted to wholes that are made up of uniform, identical parts. 7. These are two important ways in which Langacker's theory of domains extends Fillmore's frame semantics. 8. See also Langacker (1987: 140, ®gure 3.10). 9. Deutsch (1987) and Deutsch, Moore, and Dolson (1984) provide evidence that the perceived pitch of a tone involves two dimensions: ``pitch height'' and the ``pitch class circle''. On one hand, a pitch class (e.g., C ) in dierent octaves (e.g., middle C and the second C above middle C) can be perceptually equated. On the other hand, the relative height of two notes can be judged with respect to their proximity within the pitch class circle, regardless of octave. See Clausner (1993) for further discussion. 10. Although we believe this line of reasoning to be generally correct, there is admittedly no principled theory which relates cognitive structure and extrinsic constraints. 11. Clausner (1993) argues further that this constraint has its basis in thermal physics which fundamentally precludes any one point in time-space from occupying more than one quantum energy state. 12. However, some analyses of color terms eschew focal colors (see Wierzbicka 1990). 13. We include Johnson's (1987: 126) list of what he considers to be important image schemas. Some of these are what Lako (1987) calls ``image schema transformations''
+
+28 T. C. Clausner and W. Croft
+(e.g., superposition). We are not sure whether Johnson is purposefully blurring the distinction. 14. This is not to be confused with our analysis of domains such as TEMPERATURE, which only pro®le locations. The experience of hot is a location, not including other points in the domain. However, SCALE applied to TEMPERATURE can allow pro®les such as 45³C which can be construed in two ways: a single locational experience in TEMPERATURE, or the con®gurational accumulation of Celsius units up to 45. 15. See also Johnson (1987: 123, ®gure 24). Our ®gure, like Johnson's, consists of discrete ordered units, and this is notably directional, like a path. 16. The same problem is found in grammaticalization studies, in attempts to describe what ``grammatical'' meanings and the unidirectional shifts from ``lexical'' to ``grammatical'' meanings all have in common (see Croft 1999). 17. This is not unlike the correspondences linking related forms of a word paradigm in Bybee's cognitive network model of morphology (Bybee 1985). 18. The trajector±landmark contrast is Langacker's generalization of the notion of ®gure vs. ground introduced into linguistic analysis by Talmy to describe the relationship between a reference point object (the ground) and the object whose motion or location is being speci®ed in the sentence (the ®gure) (Talmy 1974; Langacker 1987). Examples (3) and (4) illustrate the basic, spatial phenomenon. See also Talmy's analysis of image schemas related to examples (1): Talmy (1978b), (2): Talmy (1977: 621±622), and (3): Talmy (1983: 236).
+
+References
+
+Barsalou, Lawence W.
+
+1992
+
+Frames, concepts, and conceptual ®elds. In Lehrer, Adrienne and Eva Feder
+
+Kittay (eds.), Frames, Fields and Contrasts: New Essays in Semantic and
+
+Lexical Organization. Hillsdale, NJ: Lawrence Erlbaum Associates, 21±74.
+
+Bybee, Joan L.
+
+1985
+
+Morphology: An Inquiry into the Relation between Meaning and Form.
+
+Amsterdam: John Benjamins.
+
+Brugman, Claudia
+
+1988
+
+The Story of Over: Polysemy, Semantics, and the Structure of the Lexicon. New
+
+York: Garland Publishing.
+
+Clausner, Timothy C.
+
+1993
+
+Cognitive structures in metaphor comprehension. Unpublished doctoral
+
+dissertation, University of Michigan, Ann Arbor.
+
+1994
+
+Commonsense knowledge and conceptual structure in container metaphors.
+
+In XXX (ed.), Proceedings of Sixteenth Annual Conference of the Cognitive
+
+Science Society. Hillsdale, NJ: Lawrence Erlbaum, 189±194.
+
+Clausner, Timothy C. and William Croft
+
+1997
+
+Productivity and schematicity in metaphors. Cognitive Science 21,
+
+247±282.
+
+Croft, William
+
+1993
+
+The role of domains in the interpretation of metaphors and metonymies.
+
+Cognitive Linguistics 4, 335±370.
+
+1999
+
+Grammatical and lexical semantics. In Booij, Geert, Christian Lehmann, and
+
+Joachim Mugdan (eds.), Morphology: A Handbook on In¯ection and Word
+
+Formation. Berlin: Walter de Gruyter.
+
+Domains and image schemas 29
+
+Croft, William and Esther J. Wood
+
+to appear Construal operations in cognitive linguistics and arti®cial intelligence. In
+
+Albertazzi, Liliana and Roberto Poli (eds.), Cognitive Semantics. Amsterdam:
+
+John Benjamins.
+
+Cruse, D. Alan
+
+1992
+
+Cognitive linguistics and word meaning: Taylor on linguistic categorization.
+
+Journal of Linguistics 28, 165±183.
+
+Darian-Smith, Ian
+
+1984
+
+Thermal sensibility. In Geiger, Stephen R., Ian Darian-Smith, John M.
+
+Brookhart, and Vernon B. Mountcastle (eds.), Handbook of Physiology:
+
+A Critical, Comprehensive Presentation of Physiological Knowledge
+
+and Concepts, Section 1: The Nervous System, Volume 3: Sensory
+
+Processes, Part 2, 879±913. American Physiological Society: Bethesda,
+
+Maryland.
+
+Deutsch, Diana
+
+1987
+
+The tritone paradox: Eects of spectral variables. Perception and
+
+Psychophysics 41, 563±575.
+
+Deutsch, Diana, Richard Moore, and Mark Dolson
+
+1984
+
+Pitch classes dier with respect to height. Music Perception 2, 265±271.
+
+Fillmore, Charles J.
+
+1975
+
+An alternative to checklist theories of meaning. In XXX (eds.), Proceedings of
+
+the First Annual Meeting of the Berkeley Linguistics Society, 123±131.
+
+1977
+
+Scenes-and-frames semantics. In Zampolli, Antonio (ed.), Linguistic
+
+Structures Processing (Fundamental Studies in Computer Science, Volume
+
+5). Amsterdam: North-Holland, 55±81.
+
+1982
+
+Frame semantics. In Linguistic Society of Korea (ed.), Linguistics in the
+
+Morning Calm. Seoul: Hanshin, 111±138.
+
+1985
+
+Frames and the semantics of understanding. Quaderni di Semantica 6,
+
+222±254.
+
+Fillmore, Charles J. and Beryl T. Atkins
+
+1992
+
+Toward a frame-based lexicon: The semantics of RISK and its neighbors. In
+
+Lehrer, Adrienne and Eva Feder Kittay (eds.), Frames, Fields and Contrasts:
+
+New Essays in Semantic and Lexical Organization. Hillsdale, NJ: Lawrence
+
+Erlbaum Associates, 75±102.
+
+Gibbs, Raymond and Herbert Colston
+
+1995
+
+The cognitive psychological reality of image-schemas and their transforma-
+
+tions. Cognitive Linguistics 6, 347±378.
+
+Johnson, Mark
+
+1987
+
+The Body in the Mind: The Bodily Basis of Meaning, Imagination, and Reason.
+
+Chicago: University of Chicago Press.
+
+Koka, Kurt
+
+1935
+
+Principles of Gestalt Psychology. New York: Harcourt.
+
+Keil, Frank C.
+
+1989
+
+Concepts, Kinds and Cognitive Development. Cambridge, MA: MIT Press.
+
+Kipfer, Barbara A. (ed.)
+
+1992
+
+Roget's 21st Century Thesaurus in Dictionary Form. New York: The Philip Lief
+
+Group.
+
+Lako, George
+
+1982
+
+Categories: An essay in cognitive linguistics. In Linguistic Society of Korea
+
+(ed.), Linguistics in the Morning Calm. Seoul: Hanshin, 139±194.
+
+30 T. C. Clausner and W. Croft
+
+1987
+
+Women, Fire and Dangerous Things: What Categories Reveal about the Mind.
+
+Chicago: University of Chicago Press.
+
+1990
+
+The invariance hypothesis: Is abstract reasoning based on image-schemas?
+
+Cognitive Linguistics 1, 39±74.
+
+1993
+
+The contemporary theory of metaphor. In Ortony, Andrew (ed.),
+
+Metaphor and Thought (2nd edition). New York: Cambridge University
+
+Press, 202±251.
+
+Lako, George and Mark Johnson
+
+1980
+
+Metaphors We Live By. Chicago: University of Chicago Press.
+
+Lako, George and Mark Turner
+
+1989
+
+More Than Cool Reason: A Field Guide to Poetic Metaphor. Chicago:
+
+University of Chicago Press.
+
+Langacker, Ronald
+
+1984
+
+Active zones. Proceedings of the Tenth Annual Meeting of the Berkeley
+
+Linguistics Society, XXX, 172±188.
+
+1987
+
+Foundations of Cognitive Grammar. Volume 1: Theoretical Prerequisites.
+
+Stanford: Stanford University Press.
+
+Lindner, Susan
+
+1981
+
+A Lexico-Semantic Analysis of English Verb-Particle Constructions with UP
+
+and OUT. (Doctoral dissertation, University of California, San Diego.)
+
+Bloomington, IN: Indiana University Linguistics Club.
+
+Minsky, Marvin
+
+1974
+
+A framework for representing knowledge. Arti®cial Intelligence Memo,
+
+No. 306, MIT Arti®cial Intelligence Laboratory.
+
+1979
+
+A framework for representing knowledge. In Winston, P. H. (ed.), The
+
+Psychology of Computer Vision. New York: McGraw-Hill, 211±277.
+
+Murphy, Gregory L. and Douglas L. Medin
+
+1985
+
+The role of theories in conceptual coherence. Psychological Review 92,
+
+289±316.
+
+Pustejovksy, James
+
+1995
+
+The Generative Lexicon. Cambridge, MA: MIT Press.
+
+Roget, Peter M. (ed.)
+
+1852
+
+Thesaurus of English Words and Phrases: Classi®ed and Arranged so as to
+
+Facilitate the Expression of Ideas and to Assist in Literary Composition.
+
+London: Longman, Brown, Green and Longmans.
+
+Rumelhart, David E.
+
+1975
+
+Notes on a schema for stories. In Bobrow, Daniel and Allen Collins (eds.),
+
+Representations and Understanding: Studies in Cognitive Science. New York,
+
+Longmans, 211±236.
+
+Schank, Roger and Robert Abelson
+
+1977
+
+Scripts, Plans, Goals, and Understanding. Hillsdale, NJ: Lawrence Erlbaum.
+
+Talmy, Leonard
+
+1972
+
+Semantic Structures in English and Atsugewi. Unpublished doctoral
+
+dissertation, University of California, Berkeley.
+
+1977
+
+Rubber-sheet cognition in language. In XXX (eds.), Papers from the
+
+Thirteenth Regional Meeting, Chicago Linguistic Society. Chicago: University
+
+of Chicago Press, 612±628.
+
+1978a
+
+Figure and ground in complex sentences. In Greenberg, J. H. (ed.), Universals
+
+of Human Language. Volume 4: Syntax. Stanford: Stanford University Press,
+
+625±649.
+
+Domains and image schemas 31
+
+1978b
+
+The relation of grammar to cognition. In Waltz, David (ed.), Proceedings of
+
+TINLAP-2: Theoretical Issues in Natural Language Processing, Urbana:
+
+University of Illinois Coordinated Science Laboratory, XXX±XXX.
+
+1983
+
+How language structures space. In Pick Jr., Herbert L. and Linda P. Acredolo
+
+(eds.), Spatial Orientation: Theory, Research, and Application. New York:
+
+Plenum Press, 225±282.
+
+1988
+
+Force dynamics in language and cognition. Cognitive Science 12, 49±100.
+
+Turner, Mark
+
+1987
+
+Death is the Mother of Beauty: Mind, Metaphor, Criticism. Chicago:
+
+University of Chicago Press.
+
+1991
+
+Reading Minds: The Study of English in the Age of Cognitive Science.
+
+Princeton, NJ: Princeton University Press.
+
+1996
+
+The Literary Mind. New York: Oxford University Press.
+
+Wertheimer, Max
+
+1950[1923] Laws of organization in perceptual forms. In A Source Book of Gestalt
+
+Psychology, prepared by Willis D. Ellis. New York: Humanities, 71±88.
+
+[Originally published as Untersuchungen zur Lehre von der Gestalt,
+
+Psychologische Forschung 4, 301±350.]
+
+Wierzbicka, Anna
+
+1990
+
+The meaning of color terms: Semantics, culture and cognition. Cognitive
+
+Linguistics 1, 99±150.
+
