@@ -1,18 +1,17 @@
 {
 	"translatorID": "e7243cef-a709-4a46-ba46-1b1318051bec",
+	"translatorType": 1,
 	"label": "Citavi 5 XML",
 	"creator": "Philipp Zumstein",
 	"target": "xml",
 	"minVersion": "3.0",
-	"maxVersion": "",
+	"maxVersion": null,
 	"priority": 100,
+	"inRepository": true,
 	"configOptions": {
 		"dataMode": "xml/dom"
 	},
-	"inRepository": true,
-	"translatorType": 1,
-	"browserSupport": "gcsi",
-	"lastUpdated": "2018-08-26 10:46:17"
+	"lastUpdated": "2020-06-11 22:15:00"
 }
 
 /*
@@ -131,7 +130,6 @@ function doImport() {
 			item = new Zotero.Item("journalArticle");
 		}
 		item.itemID = ZU.xpathText(references[i], './@id');
-		item.type = type;
 		//Z.debug(item.itemID);
 		
 		item.title = ZU.xpathText(references[i], './Title');
