@@ -1,0 +1,396 @@
+Review
+Arbitrariness, Iconicity, and
+Systematicity in Language
+Mark Dingemanse,1,* Damián E. Blasi,2,3 Gary Lupyan,4 Morten H. Christiansen,5,6 and Padraic Monaghan7
+
+The notion that the form of a word bears an arbitrary relation to its meaning accounts only partly for the attested relations between form and meaning in the languages of the world. Recent research suggests a more textured view of vocabulary structure, in which arbitrariness is complemented by iconicity (aspects of form resemble aspects of meaning) and systematicity (statistical regularities in forms predict function). Experimental evidence suggests these form-to-meaning correspondences serve different functions in language processing, development, and communication: systematicity facilitates category learning by means of phonological cues, iconicity facilitates word learning and communication by means of perceptuomotor analogies, and arbitrariness facilitates meaning individuation through distinctive forms. Processes of cultural evolution help to explain how these competing motivations shape vocabulary structure.
+The Return of Non-Arbitrariness An upheaval is underway in current thinking about the arbitrary nature of linguistic signs. The longstanding view that the form of a word has an essentially arbitrary relation to the meaning of the word [1,2] is giving way to a perspective that recognizes roles for both arbitrariness and nonarbitrariness in language. Recent research from across the cognitive sciences is revealing substantial patterns of non-arbitrariness in the vocabulary, and is investigating mechanisms for how this comes about. This review traces two recent developments that are key in enabling a paradigm change: (i) our access to linguistic facts has changed, revealing that forms of nonarbitrariness are more widespread than previously assumed; and (ii) our understanding of the processes underlying the distribution of arbitrary and non-arbitrary aspects of language structure is rapidly advancing, spurred on by innovations in methods and theory. These developments are already making an impact on the study of language and mind. We aim here to capture the momentum in the ﬁeld, clarify conceptual distinctions, and review methods and mechanisms that are important for future work in this domain.
+Linguistic inquiry often begins with idealized conceptions in an effort to understand theoretically interesting properties of language. For instance, to explain the seemingly unlimited expressive power of language, a reasonable starting assumption might be that the relation between form and meaning in words is arbitrary and therefore unconstrained: any combination of sounds can signify any meaning [2,3]. As understanding advances, idealized conceptions give way to more reﬁned models of language form and language function, and recent theoretical insights have led to distinctions in the ways in which words are non-arbitrary. Studies on non-arbitrariness in terms of morphological, syntactic, and discourse structure have highlighted numerous correspondences between meaning and linguistic form [4–6]. Similarly, research on sign languages and gestural communication accompanying spoken language offers ﬂourishing ﬁelds for exploring non-arbitrariness in language processing and communication [7–10]. Our focus here,
+
+Trends
+The principle of arbitrariness accounts only partly for attested form-to-meaning correspondences in the vocabularies of the languages of the world. Recent research has uncovered substantial patterns of non-arbitrariness in language.
+Two common forms of non-arbitrariness are iconicity and systematicity, each with complementary advantages in learning and communication.
+A fully arbitrary vocabulary is unlikely to be a stable feature of natural languages, because form-to-meaning correspondences are shaped by cultural evolutionary processes which favour not just discriminability but also learnability and communicative utility.
+1Max Planck Institute for Psycholinguistics, Nijmegen, The Netherlands 2Max Planck Institute for Mathematics in the Sciences, Leipzig, Germany 3Max Planck Institute for Evolutionary Anthropology, Leipzig, Germany 4University of Wisconsin-Madison, Madison, WI, USA 5Cornell University, Ithaca, NY, USA 6University of Southern Denmark, Odense, Denmark 7Lancaster University, Lancaster, UK
+*Correspondence: mark.dingemanse@mpi.nl (M. Dingemanse)
+
+Trends in Cognitive Sciences, October 2015, Vol. 19, No. 10 http://dx.doi.org/10.1016/j.tics.2015.07.013 603
+© 2015 Elsevier Ltd. All rights reserved.
+
+however, is on spoken language vocabulary because this is where arbitrariness in language structure has most frequently been described. Furthermore, this is where, at the current state of knowledge, distinct forms of non-arbitrariness can be linked most clearly to the differential roles of arbitrary and non-arbitrary relations in language learning and language processing.
+Types of Non-Arbitrariness and Their Distribution The vocabularies of spoken languages furnish many examples of arbitrariness. That tree is arbre in French and Baum in German illustrates how many form–meaning mappings arise more by communal convention than as a result of some intrinsic connection between form and meaning. However, counter-examples are never far away. Particularly oft-cited (and as frequently dismissed because they seem marginal) are onomatopoeic terms such as bang or woof. There are, however, risks of cherry-picking and case-based reasoning from such examples, which can be avoided through a comprehensive view and quantitative analyses of the structure and diversity of vocabularies and natural languages.
+The languages of the world are highly diverse, from modality (spoken and signed) to the number and magnitude of basic lexical categories [11–13]. For an adequate account of non-arbitrariness, it is not sufﬁcient to look at one language, or one part of the vocabulary: a broad, crosslinguistic perspective is called for. Furthermore, to appraise the occurrence of non-arbitrary relations found across natural languages, at least two types of non-arbitrariness – iconicity and systematicity (Box 1 and Figure 1, Key Figure) – must be distinguished. We start by tracing cross-linguistic evidence for the distribution of these non-arbitrary structures in the vocabularies of natural languages.
+Iconicity A prominent form of non-arbitrariness is iconicity, in which aspects of the form and meaning of words are related by means of perceptuomotor analogies. Onomatopoetic words such as
+Box 1. Forms of Non-Arbitrariness Arbitrariness: the unpredictable mapping of form and meaning such that, apart from a social convention to use word A for meaning B, there is no connection between the sound of a word and aspects of its meaning.
+Non-Arbitrariness: the converse of arbitrariness, a relation between form and meaning such that aspects of a word's meaning or grammatical function can be predicted from aspects of its form. Non-arbitrariness may have different causes and is shaped and constrained by a range of perceptual, cognitive, and communicative factors. Two important nonexclusive forms of motivation in natural language are iconicity and systematicity (Figure 1A–C).
+Iconicity: the resemblance-based mapping between aspects of form and meaning. For instance, across spoken and signed languages, repetition in word forms is often connected to repetition in their meanings, and, in ideophones in spoken languages, contrasts in vowel quality can depict analogical contrasts in magnitude [20] (Table 2). Iconicity can facilitate language learning and comprehension by providing perceptuomotor analogies between domains of experience [9]. Because iconicity relies on perceptuomotor analogies, its patterns transcend languages and may be universal (Figure 1E).
+
+Glossary
+Cultural evolution: the evolution of cultural items (such as words and tools) according to Darwinian processes of variation, selection, and social transmission. Duality of patterning: the ability of languages to form meaningful units (morphemes, words) from nonmeaningful parts (individual sounds and signs). Ideophones: a class of words that vividly evoke sensory impressions, for example sounds, movements, textures, visual patterns, and actions. Iterated learning: a type of learning in which the input to the learner was generated by previous learners, and is thereby constrained by what they learned. Magnitude symbolism: iconic pairing between linguistic form and size, for example the use of vowel height, pitch, word length, or gesture space to denote differences in the size of the referent. Morphology: pertaining to word structure; for example, the use of afﬁxes to mark tense, plurality, etc. Onomatopoeia: words that imitate natural sounds, often in a highly language-speciﬁc way. Phonology: pertaining to the systems of sounds, particularly those used contrastively, in languages. Prosody: pertaining to the patterns of stress and intonation in a language. Referent: the entity that a word or phrase stands for or denotes. Regular sound changes: broad changes of sounds in the vocabulary, where one sound is replaced by another in all words that contain the relevant sound. Semiotics: the study of signs, symbols, and how they are used. Spatial demonstratives: closedclass words pertaining to spatial deixis, for example ‘this’, ‘that’.
+
+Systematicity: a statistical relationship between the patterns of sound for a group of words and their usage. For instance, in many languages, major word classes can be distinguished by means of subtle differences in stress, duration, voicing, and phonotactics [33], which may be language-speciﬁc (Table 3). Given exposure to a number of words, such differences can come to serve as cues that facilitate the grouping of words into abstract categories [35]. Because the cues involved in systematicity are based on phonological regularities within a given language, they are arbitrary and may be languagespeciﬁc (Figure 1D).
+
+Although these form–meaning mappings are conceptually distinct, they are not mutually exclusive in lexical items. Thus, ideophones are built from language-speciﬁc phonological inventories (introducing a degree of arbitrariness), they show various cross-linguistically recurring correspondences between form and meaning (iconicity) and they can be recognized as a word class by language-speciﬁc phonological cues (systematicity).
+
+604 Trends in Cognitive Sciences, October 2015, Vol. 19, No. 10
+
+Key Figure
+Arbitrariness, Iconicity, and Systematicity
+
+(A)
+
+(B)
+
+(C)
+
+Arbitrariness Iconicity
+
+SystemaƟcity
+
+Word meanings
+
+Word forms
+
+(D) Language 1
+
+SystemaƟcity
+
+(E)
+
+Language 2
+
+Forms
+
+Language 3
+
+f1 f2
+
+Word classes
+
+Iconicity
+
+Meanings
+
+Absolute iconicity
+
+m1
+
+RelaƟve
+
+m2
+
+iconicity
+
+Cues for systemaƟcity diﬀer across languages
+
+Iconic associaƟons transcend languages
+
+Figure 1. (A,B) Words show arbitrariness when there are conventional associations between word forms and meanings. Words show iconicity when there are perceptuomotor analogies between forms and meanings, here indicated by shape, size, and proximity (inset). (B,C) Words show systematicity when statistical regularities in phonological form, here indicated by color, serve as cues to abstract categories such as word classes. For example, blue and orange might correspond to cues indicative of English nouns and verbs. (D) The cues involved in systematicity differ across languages and may be arbitrary. (E) The perceptual analogies involved in iconicity transcend languages and may be universal. Two non-exclusive types of iconicity are absolute iconicity, when a form directly resembles aspects of meaning, and relative iconicity, when a contrast between forms {f1, f2} is related to an analogical contrast between meanings {m1, m2}.
+
+English woof and bow wow, or Japanese wan wan (imitative of the sound of a dog barking) offer familiar examples. The diversity of forms even in onomatopoeia for similar sounds shows that different perceptual aspects of a referent may be imitated. In addition, language-speciﬁc phonological constraints can introduce further cross-linguistic differences. These iconic words are thus shaped by competing motivations of obeying phonological constraints while maximizing perceptual similarity between form and meaning [14,15].
+Iconicity in spoken language can go beyond the imitation of sound by recruiting other aspects of the speech signal (e.g., temporal unfolding, intensity, and articulatory dynamics) to depict aspects of meaning [16–18]. This is seen most clearly in ideophones (also known as ‘expressives’ or ‘mimetics’), vivid sensory words that are widespread and numerous in the languages of Africa, Asia, and the Americas [19,20]. Ideophones are words such as kibikibi ‘energetic’ and
+Trends in Cognitive Sciences, October 2015, Vol. 19, No. 10 605
+
+Table 1. Some Iconic Associations Found in Ideophones across Languages [20,22]
+
+Form
+
+Meaning
+
+Examples
+
+Reduplication
+
+Repetition, distribution
+
+goro : gorogoro, ‘one : multiple heavy objects rolling’ (Japanese) wùrùfùù : wùrùfù-wùrùfù, ‘ﬂuffy : ﬂuffy here and there’ (Siwu) curuk-nu : curukcuruk-nu, ‘a sharp prick : many sharp pricks’ (Tamil) kpata : kpata kpata, ‘drop : scattered drops’ (Ewe)
+
+Vowel quality
+
+Size, intensity
+
+katakata : kotokoto, ‘clattering : clattering (less noisy)’ (Japanese) pimbilii : pumbuluu, ‘small belly : enormous round belly’ (Siwu) giṇigiṇi : giṇugiṇu, ‘tinkling : bell ringing’ (Tamil) legee : logoo, ‘slim : fat’ (Ewe)
+
+Vowel lengthening Length, duration
+
+haQ : haaQ, ‘short : long breath’ (Japanese) piQ : piiQ, ‘tear short : long strip of cloth’ (Japanese) dzoro : dzoroo ‘long : very long’ (Siwu)
+
+Consonant voicing Mass, weight
+
+koro : goro, ‘a light : heavy object rolling’ (Japanese) tsratsra : dzradzra, ‘a light : heavy person walking fast’ (Siwu) kputukpluu : gbudugbluu, ‘chunky : obese’ (Ewe)
+
+bukubuku ‘ﬂabby, obese’ in Japanese, or fwefwefwe ‘springy, elastic’ and saaa ‘cool sensation’ in Siwu, a language spoken in Ghana. Some of the cross-linguistically recurrent iconic patterns found in ideophones include repeated forms depicting repeated or iterative events, contrasts between vowels such as [i:a] depicting analogous contrasts in magnitude, and voicing contrasts such as [k:g] depicting contrasts in intensity [21–23] (Table 1). Claims concerning the iconicity of such words [24,25] have found increasing empirical support, for instance in behavioral experiments showing that people who have no prior knowledge of Japanese (a language rich in ideophones) can match Japanese ideophones with their correct meanings at an above chance level of accuracy [26]. Moreover, corpus studies of Tamil and Japanese have shown that, within comparable semantic domains, ideophones are more similar in form to one another than nouns [8], suggesting that ideophones are less arbitrary and more iconic than nouns.
+Evidence from spoken and signed languages shows that iconicity is not a binary property, but comes in different types and degrees [8,9]. One broad distinction is between ‘absolute iconicity’, which involves a fairly straightforward one-to-one resemblance between aspects of form and meaning (as in onomatopoeia), and ‘relative iconicity’, in which relations between multiple forms resemble analogical relations between meanings, as in many ideophones (Figure 1E). Relative iconicity is also sometimes called diagrammatic iconicity, highlighting the fact that iconic words – in spoken as well as signed languages – can be seen as ‘diagrams’ that provide schematic structural correspondences between forms and meanings [27,28]. Finer-grained distinctions can also be made (e.g., based on whether a sign depicts a referent directly or by means of an action done with that referent [29], or based on whether iconic correspondences are within one modality or across modalities). All types of iconicity involve perceptuomotor analogies between aspects of form and meaning.
+Systematicity A different form of non-arbitrariness is systematicity, a statistical relationship between the patterns of sound for a group of words and their usage. Although individual items in core lexical classes may appear arbitrary, corpus studies reveal subtle phonological and prosodic cues – such as vowel quality, syllable duration, and stress – that help to distinguish nouns from verbs [30] and open from closed word classes [31], and that may even correlate with semantic factors such as concreteness [32]. These are examples of systematicity, a pervasive form of nonarbitrariness that has ﬂown under the radar so far because it is not about the relation of single
+606 Trends in Cognitive Sciences, October 2015, Vol. 19, No. 10
+
+Table 2. Phonological Cues Predictive of Major Word Classes in Different Languages [33]
+
+Category
+
+Phonological cues
+
+English nouns
+
+Length of syllables, proportion of sounds in the word that are vowels
+
+English verbs
+
+Approximants (e.g., l, r, w) in the ﬁrst syllable
+
+Japanese nouns
+
+Fricatives (e.g., s, z), rounded vowels (e.g., o)
+
+Japanese verbs
+
+Coronals (e.g., t, d, n)
+
+French nouns
+
+Bilabials (e.g., p, b) in the ﬁrst syllable
+
+French verbs
+
+Proportion of sounds in the word that are vowels
+
+words to simple referential meanings but concerns the relations of large numbers of words to a limited number of abstract categories (Figure 1C,D).
+Corpus analyses have shown that such category-level cues are found in a range of languages including English, French, Dutch, and Japanese [33], and there is tentative typological evidence for similar patterns in a broader range of languages and word classes [34]. In systematicity, the exact nature of the cues is typically language-speciﬁc: the cues distinguishing nouns from verbs in English are different from those distinguishing nouns from verbs in Japanese (Table 2 and Figure 1D). These cross-linguistic differences can exist because, unlike iconicity, systematicity does not require perceptuomotor analogies between form and meaning; large-scale distributional regularities sufﬁce. Given exposure to enough words, subtle statistical differences in word forms help listeners and learners to identify grammatical categories [35].
+The pervasive patterns of systematicity discussed so far pertain to simple, monomorphemic words. Of course, many lexical items are composed of several morphemes, providing another pervasive source of systematicity [36]. Morphologically-complex lexical items combine arbitrary aspects with systematic relations to other items in the system. For instance, a verb (teach) and a morpheme -er combine to form a semantically related noun (teacher); and a compound noun such as oak tree indicates a relation to tree, oak wood, etc. Vocabulary structure owes much to the myriad webs of relationships established by this form of systematicity, which is widespread even in relatively morphologically impoverished languages such as English, and which is known to impact on learning and categorization [37,38]. As with category-level systematicity, while the patterns are regular and non-arbitrary, the cues themselves are language-speciﬁc (e.g., there is nothing about the form of -er that is suggestive of its meaning), a fact reﬂected in de Saussure's term, ‘relative arbitrariness’ [1].
+Differential Distribution of Iconicity and Systematicity There are important differences in the distribution of iconicity and systematicity over the vocabulary and across languages [39]. Category-level systematicity is pervasive and supported by multiple subtle cues whose ultimate form is language-speciﬁc (Figure 1D). Iconicity is generally less pervasive because it can only achieve prominence in those parts of vocabulary that permit iconic correspondences between form and meaning; but, where this is possible, iconic patterns are likely to recur across languages because they are grounded in structural similarity (Figure 1E). This means that language-speciﬁc distributional regularities are likely instances of systematicity, whereas form–meaning mappings that recur across languages and rely on perceptual analogies are likely instances of iconicity.
+The distribution of iconicity is further shaped and constrained by the affordances of meaning and modality [40,41]. This explains why, in spoken languages, we ﬁnd ideophones especially in the domain of perceptuomotor meanings (where aspects of sound, motion, visual patterns,
+Trends in Cognitive Sciences, October 2015, Vol. 19, No. 10 607
+
+Table 3. Possibilities for Iconicity Differ by Semantic Domain and by Modalitya
+
+Meaning
+
+Modality
+
+Abstract concepts, logical operators, . . . Spatial relations, visual shape, . . . Sound, loudness, . . . Size, repetition, temporal unfolding, intensity, . . .
+
+Spoken Hard Hard Easy Easy
+
+Signed Hard Easy Hard Easy
+
+aHow easy is the iconic expression of meaning x in modality y? This depends on the possibilities for construing structural correspondences across the two, and therefore differs by semantic domain and by modality.
+
+temporal unfolding, and other percepts can be mimicked by properties of the speech signal [20]); and why in signed languages, we ﬁnd many iconic signs in the domains of motion, shape, and spatial relations [7] (Table 3). The modality-dependence of different types of non-arbitrariness is a major topic of current and future research [42] (see Outstanding Questions).
+Linguistic descriptions are increasingly being complemented by large-scale comparisons of lexical databases to detect more subtle convergences in the use of speciﬁc phonological resources for comparable items in the vocabulary. Such analyses have revealed magnitude symbolism in the languages of Australia [43], non-arbitrary patterns in spatial demonstratives in 101 languages of 30 language families [44], and subtle sound–meaning associations in basic vocabulary in about half of the languages of the world [45], many of which remain robust even when controlling for phylogeny and geography (D.E. Blasi, unpublished). Those conducting such work face the important challenges of deﬁning what counts as a nonarbitrary sound–meaning association, distinguishing systematic and iconic associations, and teasing apart independent innovations from inherited patterns (i.e., Galton's problem [46]). Future work meeting these challenges can shed light on the historical dynamics of patterns of non-arbitrariness in vocabulary, for instance by testing proposals that iconic or sound-symbolic words grow in clusters and that they may evade regular sound changes [47,48].
+Causes and Mechanisms Why do different types of form to meaning correspondences pattern the way they do in vocabulary, and what are the consequences of this patterning for understanding the structure of language and the human mind? We review converging evidence that arbitrariness, systematicity, and iconicity coexist in vocabularies because they serve distinct, complementary functions [8,9], and we consider some of the processes of cultural evolution by which they may come to spread and persist.
+Systematicity Assists Category Learning and Categorization Individuating particular referents and linking words to them is only one of the many challenges for language learners. Another important task is to use those words in the context of larger utterances and to learn whether they should be used as nouns, verbs, or something else. As seen above, grammatical distinctions may be reﬂected in subtle prosodic and phonological cues, or in overt morphological structure, two important forms of systematicity. Children learn nouns and verbs better if there is a systematic correspondence between the sounds of the words and their respective grammatical categories [35,49]. This advantage extends to novel words constructed to show systematic relations between form and meaning [50]. Thus, systematicity provides important beneﬁts for learning soundcategory distinctions.
+608 Trends in Cognitive Sciences, October 2015, Vol. 19, No. 10
+
+How does systematicity relate to and coexist with other form-to-meaning correspondences? Different divisions have emerged in the vocabulary to meet the competing requirements of individuating particular referents of words and of categorizing sets of words according to their grammatical classes [51,52]. First, the vocabulary is divided within the word, such that different sublexical regions of the word may address the different tasks. For example, inﬁnitive verb forms in Spanish have characteristic -ar/-er/-ir endings that help to mark them as verbs, while the initial part is more arbitrary. It has been suggested that there might be a processing-related pressure towards arbitrariness at the beginning of words because memory load will be minimized when the referent of a word can be identiﬁed as quickly as possible [53]. This may partly explain the sufﬁxing preference across the world's languages ([54], but see [55] for an alternative view) – the fact that individuating and arbitrary information tends to occur earlier than shared, systematic information such as broad semantic distinctions and grammatical roles [56]. A second way in which vocabulary is divided is chronologically over the lifespan of the learner. In English, the degree to which individual words show non-arbitrariness can be predicted by the age of acquisition of the word [39]. Words acquired earlier in development tended to show less arbitrariness within the language, whereas words acquired later were more arbitrary (the methods used in this study do not allow inferences about the systematic or iconic nature of these patterns). Thus, the extent to which the words that children ﬁrst acquire are different or similar in their phonological properties reﬂects the extent to which they are similar or different in their meaning.
+This division addresses two competing requirements for spoken words in supporting language learning. Early in language development, systematicity may be beneﬁcial because the regularities in the mapping between representational spaces in different modalities can be exploited. However, with vocabulary growth, representational spaces comprising forms and meanings become more densely populated, thereby increasing the possibilities of confusion and ambiguity in the spoken forms of words, providing a selective pressure towards more arbitrary and more discriminable forms. Intriguingly, further links between age of acquisition and non-arbitrariness have been observed in other studies. For instance, there is a signiﬁcant correlation between subjective ratings of iconicity and age-of-acquisition in English and Spanish [57], as well as in British Sign Language [58]: signs acquired earlier are more iconic. Production experiments reveal how systematic differences in the patterning of iconic strategies in sign languages and in the gestures of non-signers may come to indicate a noun–verb distinction, perhaps similar to the phonological cues supporting systematicity in spoken languages [59]. Further work is necessary to tease apart the different but potentially overlapping contributions of systematicity and iconicity in this domain, and to see how these observations extend to typologically-diverse spoken and signed languages.
+Iconicity Assists Word Learning and Communication As linguist and psychologist Karl Bühler observed long ago, a language consisting only of iconic words could never meet all our communicative needs [60] because the possible form–meaning correspondences are more constrained for iconic words than for arbitrary ones. However, ﬂanked by arbitrariness and systematicity, iconicity offers some important advantages.
+To understand how iconicity may be beneﬁcial in learning and communication, it is useful to consider the mechanisms that make iconic form–meaning correspondences possible. Some may rely on structural correspondences between aspects of meaning and the spectral or articulatory patterns of words [18,28,61]. Some may reﬂect common neural coding across distinct sensory modalities [62,63], as in the association of pitch and luminance [64,65]. Another mechanism that may contribute to cross-modal iconicity is general perceptual learning [66,67]. Objects made of particular materials make distinctive sounds when dropped, larger dogs produce a bark of lower pitch, movements have predictable temporal unfolding, and such
+Trends in Cognitive Sciences, October 2015, Vol. 19, No. 10 609
+
+regularities may be tapped into by iconic words. What unites these mechanisms is the fact that they highlight and construe perceptuomotor analogies.
+The power of perceptuomotor analogies in learning and communication is well known. Iconic gestures and other visual representations crucially support generalization and explanation in many areas of life, from explaining everyday actions to complex mathematics and pain sensations [68–70]. Iconic gestures accompanying speech are found to enhance comprehension [71,72] by highlighting perceptuomotor information and by supplying information not present in arbitrary words [73,74]. Such advantages probably extend to iconic words in the vocabulary. Some of the clearest evidence from this comes from sign language. Thus, signs in British Sign Language that are judged to be more iconic are recognized more quickly and reproduced with higher accuracy than are signs that are less iconic [75,76], and these advantages extend to second-language learners [77,78].
+In spoken language, iconicity has similarly been suggested to provide an advantage in conveying sensory information. For instance, English-speaking children learned words in the domain of motor actions better when the words matched existing Japanese ideophones [79,80]. Studies of ideophone use emphasize their communicative utility in contexts ranging from participatory learning to patient–doctor interaction [81,82]. Neuroimaging studies suggest that ideophones activate sensorimotor representations more strongly than do arbitrary words [83] and nonwords [84], supporting the thesis that ideophones, like iconic gestures, may assist communication by creating perceptual analogies and conveying perceptuomotor information.
+A proliﬁc area of research investigates the possibilities and limits of such iconic form–meaning mappings through behavioral experiments involved controlled non-words [85]. The best known examples come from studies showing that people consistently match rounded and angled shapes to novel words such as ‘baluma’ and ‘tukeetee’, or ‘bouba’ and ‘kiki’ respectively [86–88]. Infant studies suggest that these effects are not due to orthography or prior linguistic experience [89,90], and studies of special populations reveal possible disruptions, contributing to our understanding of the neurological roots of cross-modal iconicity [91,92]. Many of these studies have relied on forced-choice methods with non-word pairs constructed for maximal contrasts, which provides a reason for caution in interpreting the results [50]. Recent work, however, has shown similar effects using different types of tasks (including implicit interference, attribute listing and categorization, and iterated learning [93–95]) and a broader range of stimuli (e.g., randomly generated or systematically selected visual and auditory materials [96–98]). Not only can iconic words be easier to learn [99], but they can facilitate the ability to learn to home in on perceptual differences that distinguish novel categories [94]. This work shows that the communicative advantages of iconicity may extend to learning, communication, and categorization, especially in domains where perceptual relations between words and meanings can be made salient by iconic mappings.
+Advantages of Arbitrariness Given the apparent advantages of iconicity and systematicity, one might wonder why language is as arbitrary as it is. Indeed, philosophers from Plato's Cratylus onward have tended to view arbitrary relations between words and meanings as a shortcoming, striving to create artiﬁcial languages in which each word was ‘naturally’ related to its referent [100,101]. Arbitrariness, however, has some key advantages to communication.
+First, some degree of arbitrariness appears necessary to attain ﬂexibility in signaling. Many animal communication systems have a small and rigid set of holistic signals for a few relevant situations [102,103]. In the transition from such a system to the complexity and ﬂexibility of language, a crucial step is to allow decoupling of the direct, one-to-one linkage between form
+610 Trends in Cognitive Sciences, October 2015, Vol. 19, No. 10
+
+and meanings, and to start to use signals and parts of signals as discrete building blocks, allowing duality of patterning [2,104,105] (the evolutionary origins of language remain a topic of intense debate, and recent work points to the involvement of gesture as well as speech, with complementary roles for iconicity and arbitrariness [9,106]). Second, moving to more immediate communicative advantages, arbitrariness allows us to communicate about concepts for which direct perceptual grounding is unlikely to be available [107]. Third, in a fully iconic and systematic language, similar meanings would be expressed using similar forms – a situation that, on its own, would lead to high confusability of the very items most in need of differentiation. Experimental studies show that systematicity can be an impediment to telling apart distinct referents, which is facilitated by arbitrariness [52]. A recent survey comparing arbitrariness and iconicity proposes that arbitrariness is adaptive because it renders linguistic signals ‘efﬁcient and discriminable’ [9]. Fourth, studies of the cognitive functions of language have shown that arbitrary labels facilitate learning of type/token distinctions (e.g., the general concept ‘dog’ versus a speciﬁc instance of a dog such as Fido) [108], and, in comparison to iconic expressions, are more effective at activating such conceptual states [109,110], possibly because iconic forms necessarily activate more speciﬁc instances while arbitrary forms activate a more general and abstract representation [111].
+A major challenge for current work on form-to-meaning correspondences in vocabulary is to link the results of behavioral studies using non-words to patterns of systematicity, iconicity, and arbitrariness in natural languages. How do different form to meaning correspondences emerge, persist, or disappear in vocabularies? Advances in our understanding of cultural evolution can contribute crucial insights, and it is useful to brieﬂy consider the causal processes more closely.
+Cultural Evolution and Vocabulary Structure Words are cultural items that exist by virtue of social transmission [112,113], and they will continue to be replicated only insofar as they are learnable and meet communicative needs [114,115]. Pressures for learnability and communicative utility are bound to have an impact on the structure of language, including its patterns of arbitrariness and non-arbitrariness. Important new insights into the processes shaping vocabulary structure come from the ﬁeld of cultural evolution, which studies the emergence and diffusion of cultural items and systems [116,117].
+From a cultural evolutionary point of view, additions and adjustments of words in the vocabulary are shaped by transmission biases [118] as new words are added and old ones dropped in a system that continuously passes through the bottleneck of cultural transmission [119,120]. As language learners face the task of acquiring the meanings and rules of use for thousands of vocabulary items over the years, arbitrariness, systematicity and iconicity each bring their own selective advantages and disadvantages. Over time, such advantages and disadvantages, even if they are small or limited to some sections of vocabulary, will come to shape and constrain vocabulary structure, inﬂuencing the patterning of arbitrariness, systematicity, and iconicity, and also explaining their distribution within and across languages. One conclusion that follows from this is that a fully arbitrary vocabulary is unlikely to be a stable feature of natural languages.
+Recent work in cultural evolution provides ways of empirically studying these processes. For instance, experiments in iterated learning suggest that repeated cultural transmission can turn arbitrary signals into systematic ones [121,122], showing one way in which the cues involved in systematicity may emerge. Other iterated-learning experiments have shown that people can create iconic vocalizations which can be understood by naïve listeners in the same manner as people can create iconic manual gestures [123]; that the emergence of iconic signals depends on properties of meaning and modality [124,125]; and that iconic signals can be re-used as discrete building as discrete building blocks to form compositional (systematic) signals [126]. While interpretations of such experiments have so far focused on some measure of communicative success, they also show that the distribution of strategies for form–meaning mappings
+Trends in Cognitive Sciences, October 2015, Vol. 19, No. 10 611
+
+can differ across evolutionary lineages, providing a way to study the types of historical contingencies that have led to the differential distribution of phenomena such as ideophones in the languages of today.
+Concluding Remarks We have reviewed evidence of the different relations between form and meaning found in vocabularies of the languages of the world. A perfectly arbitrary language would be difﬁcult to learn. A perfectly systematic language would not offer enough expressive freedom. A perfectly iconic language could only serve a subset of our communicative goals, and may limit the power of language to abstract. As it turns out, natural languages contain a mix of all three types of form to meaning correspondences, reﬂecting their distinctive selective advantages in learning and communication. Processes of cultural evolution can help to account for the distribution of types of non-arbitrariness across the vocabulary and across languages.
+We have argued that a proper understanding of the nature of form–meaning mappings in language depends on a comprehensive view of the vocabulary, of the cross-linguistic facts, and of the underlying cognitive and cultural mechanisms. Assuming arbitrariness across the board will not do; the attested form–meaning mappings in natural languages are richer than that, and our models and theories should be adjusted accordingly, with important implications for work on vocabulary structure, language processing, learning, communication, and cultural evolution (see Outstanding Questions). Assuming that oft-studied Indo-European languages exemplify the most typical forms of non-arbitrariness is likewise problematic; doing so would make us miss out on the large ideophone systems of spoken languages and the iconic patterns of signed languages. The growing body of research reviewed here is a powerful demonstration of the importance of linguistic diversity for the cognitive sciences [13,127]. As language scientists continue to uncover the cross-linguistic dimensions of non-arbitrariness in the vocabulary, their ﬁndings will inform and constrain the types of mechanisms to be investigated experimentally. For instance, the iconic patterns found in ideophone systems around the world provide existence proofs of many sound–symbol oppositions beyond bouba–kiki: a natural laboratory inviting further experimentation in psycholinguistics and in studies of learning and communication.
+The notion that the form of a word bears an essentially arbitrary relation to its meaning is changing in status from a proposed design feature into an empirical observation that accounts only partly for the attested form–meaning mappings in the languages of the world. As the language sciences leave behind oversimplifying dichotomies to develop more reﬁned models of the manifold relations between form and meaning, our understanding of language and mind will be much the richer for it.
+
+Outstanding Questions
+How are types of form to meaning correspondences distributed across the languages of the world? Are particular form-to-meaning correspondences more likely than others to be realized in the languages of the world?
+How are types of form to meaning correspondences distributed over the different components of multi-modal signals (e.g., speech and co-speech gestures, or signs and facial expressions)?
+How are forms of non-arbitrariness shaped and constrained by perceptual, cognitive, and communicative factors? For instance, how is systematicity implemented in sign languages?
+What are the cognitive and communicative consequences of using arbitrary versus non-arbitrary signs in a given semantic domain?
+Is the difference between systematicity and iconicity one of kind or one of degree?
+If non-arbitrariness is pervasive in natural languages, what are the implications for psycholinguistic models that have the assumption of arbitrariness built-in?
+What can patterns of non-arbitrariness tell us about the evolutionary history of language and languages?
+
+Acknowledgments We thank the editor, three anonymous reviewers, and Steve Levinson for their helpful comments. M.D. acknowledges support from a Netherlands Organisation for Scientiﬁc Research (NWO) Veni grant and from the Max Planck Society for the Advancement of Science. G.L. acknowledges support from a National Science Foundation (NSF) INSPIRE award 1344279. M.H.C. and P.M. were supported by the Economic and Social Research Council (UK) (grant ES/L008955/1, LuCiD).
+
+References
+
+1. De Saussure, F. (1983) Course in General Linguistics, Open 6. Levinson, S.C. and Holler, J. (2014) The origin of human multi-
+
+Court
+
+modal communication. Philos. Trans. R. Soc. Lond. B: Biol. Sci.
+
+2. Hockett, C.F. (1960) The origin of speech. Sci. Am. 203,
+
+369, 20130302
+
+89–96
+
+7. Perniss, P. et al. (2010) Iconicity as a general property of lan-
+
+3. Chomsky, N. (1995) The Minimalist Program, MIT Press
+
+guage: evidence from spoken and signed languages. Front.
+
+4. Haiman, J. (2008) In defence of iconicity. Cogn. Linguist. 19,
+
+Psychol. 1, 1–15
+
+35–48
+
+8. Gasser, M. et al. (2010) Iconicity in expressives: an empirical
+
+5. Goldin-Meadow, S. et al. (2008) The natural order of events: how speakers of different languages represent events nonverbally. Proc. Natl. Acad. Sci. U.S.A. 105, 9163–9168
+
+investigation. In Experimental and Empirical Methods in the Study of Conceptual Structure, Discourse, and Language (Rice, S. and Newman, J., eds), pp. 163–180, CSLI Publications
+
+612 Trends in Cognitive Sciences, October 2015, Vol. 19, No. 10
+
+9. Perniss, P. and Vigliocco, G. (2014) The bridge of iconicity: from a world of experience to the experience of language. Philos. Trans. R. Soc. B: Biol. Sci. 369, 20130300
+10. O€ zyürek, A. (2014) Hearing and seeing meaning in speech and gesture: insights from brain and behaviour. Philos. Trans. R. Soc. B: Biol. Sci. 369, 20130296
+11. Croft, W. (2001) Radical Construction Grammar, Oxford University Press
+12. Haspelmath, M. (2010) Comparative concepts and descriptive categories in crosslinguistic studies. Language 86, 663–687
+13. Evans, N. and Levinson, S.C. (2009) The myth of language universals: language diversity and its importance for cognitive science. Behav. Brain Sci. 32, 429–492
+14. Assaneo, M.F. et al. (2011) The anatomy of onomatopoeia. PLoS ONE 6, e28317
+15. Childs, G.T. (2014) Constraints on violating constraints: how languages reconcile the twin dicta of ‘be different’ and ‘be recognizably language’. Pragmatics Society 5, 341–354
+16. Sapir, E. (1929) A study in phonetic symbolism. J. Exp. Psychol. 12, 225–239
+17. Marks, L.E. (1978) The Unity of the Senses: Interrelations Among the Modalities, Academic Press
+18. Masuda, K. (2007) The physical basis for phonological iconicity. In Insistent Images (Tabakowska, E. et al., eds), pp. 57–71, John Benjamins
+19. Voeltz, F.K.E. and Kilian-Hatz, C., eds (2001) Ideophones, John Benjamins
+20. Dingemanse, M. (2012) Advances in the cross-linguistic study of ideophones. Lang. Linguist. Compass 6, 654–672
+21. Vigliocco, G. and Kita, S. (2006) Language-speciﬁc properties of the lexicon: implications for learning and processing. Lang. Cogn. Process. 21, 790–816
+22. Westermann, D.H. (1927) Laut, Ton und Sinn in westafrikanischen Sudansprachen. In Festschrift Meinhof (Boas, F., ed.), pp. 315–328, L. Friederichsen
+23. Dingemanse, M. (2011) Ezra Pound among the Mawu: ideophones and iconicity in Siwu. In Semblance and Signiﬁcation (Michelucci, P. et al., eds), pp. 39–54, John Benjamins
+24. Hamano, S.S. (1998) The Sound-Symbolic System of Japanese, CSLI Publications
+25. Akita, K. (2011) Toward a phonosemantic deﬁnition of iconic words. In Semblance and Signiﬁcation (Michelucci, P. et al., eds), pp. 3–18, John Benjamins
+26. Iwasaki, N. et al. (2007) How does it hurt, kiri-kiri or siku-siku?: Japanese mimetic words of pain perceived by Japanese speakers and English speakers. In Applying Theory and Research to Learning Japanese as a Foreign Language (Minami, M., ed.), pp. 2–19, Cambridge Scholars Publishing
+27. Tufvesson, S. (2011) Analogy-making in the Semai sensory world. Senses Soc. 6, 86–95
+28. Emmorey, K. (2014) Iconicity as structure mapping. Philos. Trans. R. Soc. Lond. B: Biol. Sci. 369, 20130301
+29. Tolar, T.D. et al. (2008) The development of the ability to recognize the meaning of iconic signs. J. Deaf Stud. Deaf Educ. 13, 225–240
+30. Kelly, M.H. (1992) Using sound to solve syntactic problems. Psychol. Rev. 99, 349–364
+31. Monaghan, P. et al. (2005) The differential role of phonological and distributional cues in grammatical categorisation. Cognition 96, 143–182
+32. Reilly, J. et al. (2012) Arbitrary symbolism in natural language revisited: when word forms carry meaning. PLoS ONE 7, e42286
+33. Monaghan, P. et al. (2007) The phonological–distributional coherence hypothesis: cross-linguistic evidence in language acquisition. Cogn. Psychol. 55, 259–305
+34. Smith, J.L. (2011) Category-speciﬁc Effects. In The Blackwell Companion to Phonology (van Oostendorp, M., Ewen, C.J., Hume, E. and Rice, K., eds), pp. 2439–2463, Wiley-Blackwell
+35. Cassidy, K.W. and Kelly, M.H. (1991) Phonological information for grammatical category assignments. J. Mem. Lang. 30, 348–369
+
+36. Booij, G. (2012) The Grammar of Words: An Introduction to Linguistic Morphology, Oxford University Press
+37. Gonnerman, L.M. et al. (2007) Graded semantic and phonological similarity effects in priming: Evidence for a distributed connectionist approach to morphology. J. Exp. Psychol. Gen. 136, 323–345
+38. Mirković, J. et al. (2011) Rules versus statistics: insights from a highly inﬂected language. Cogn. Sci. 35, 638–681
+39. Monaghan, P. et al. (2014) How arbitrary is language? Philos. Trans. R. Soc. Lond. B: Biol. Sci. 369, 20130299
+40. Dingemanse, M. (2013) Ideophones and gesture in everyday speech. Gesture 13, 143–165
+41. Meir, I. et al. (2013) Competing iconicities in the structure of languages. Cogn. Linguist. 24, 309–343
+42. Perniss, P. et al. (2015) The inﬂuence of the visual modality on language structure and conventionalization: insights from sign language and gesture. Top. Cogn. Sci. 7, 2–11
+43. Haynie, H. et al. (2014) Sound symbolism in the languages of Australia. PLoS ONE 9, e92852
+44. Johansson, N. and Zlatev, J. (2013) Motivations for sound symbolism in spatial deixis: a typological study of 101 languages. Public J. Semiotics 5, 3–20
+45. Wichmann, S. et al. (2010) Sound symbolism in basic vocabulary. Entropy 12, 844–858
+46. Mace, R. and Pagel, M. (1994) The comparative method in anthropology. Curr. Anthropol. 35, 549–564
+47. Carling, G. and Johansson, N. (2014) Motivated language change: processes involved in the growth and conventionalization of onomatopoeia and sound symbolism. Acta Linguist. Hafniensia 46, 199–217
+48. Malkiel, Y. (1994) Regular sound development, phonosymbolic orchestration, disambiguation of homonyms. In Sound Symbolism (Hinton, L. et al., eds), pp. 207–221, Cambridge University Press
+49. Fitneva, S.A. et al. (2009) From sound to syntax: phonological constraints on children's lexical categorization of new words. J. Child Lang. 36, 967–997
+50. Monaghan, P. et al. (2012) The role of sound symbolism in language learning. J. Exp. Psychol. Learn. Mem. Cogn. 38, 1152–1164
+51. Christiansen, M.H. and Monaghan, P. (in press) Division of labor in vocabulary structure: Insights from corpus analyses. Topics Cogn. Sci. http://dx.doi.org/10.1111/tops.12164
+52. Monaghan, P. et al. (2011) The arbitrariness of the sign: learning advantages from the structure of the vocabulary. J. Exp. Psychol. Gen. 140, 325
+53. Christiansen, M.H. and Chater, N. (2016) Creating Language: Integrating Evolution, Acquisition, and Processing, MIT Press
+54. Haspelmath, M. et al., eds (2008) The World Atlas of Language Structures, Max Planck Digital Library
+55. Himmelmann, N.P. (2014) Asymmetries in the prosodic phrasing of function words: Another look at the sufﬁxing preference. Language 90, 927–960
+56. Cutler, A. et al. (1985) The sufﬁxing preference: a processing explanation. Linguistics 23, 723–758
+57. Perry, L.K. et al. (2015) Iconicity in English vocabulary and its relation to toddlers’ word learning. In Proceedings of the 37th Annual Meeting of the Cognitive Science Society (Maglio, P. et al., eds), Cognitive Science Society
+58. Vinson, D.P. et al. (2008) The British Sign Language (BSL) norms for age of acquisition, familiarity, and iconicity. Behav. Res. Methods 40, 1079–1087
+59. Padden, C. et al. (2015) Tools for language: patterned iconicity in sign language nouns and verbs. Top. Cogn. Sci. 7, 81–94
+60. Bühler, K. (1990) Theory of Language: The Representational Function of Language, John Benjamins
+61. Ramachandran, V.S. and Hubbard, E.M. (2001) Synaesthesia: a window into perception, thought and language. J. Conscious. Stud. 8, 3–34
+62. Spence, C. (2011) Crossmodal correspondences: a tutorial review. Atten. Percept. Psychophys. 73, 971–995
+
+Trends in Cognitive Sciences, October 2015, Vol. 19, No. 10 613
+
+63. Revill, K.P. et al. (2014) Cross-linguistic sound symbolism and crossmodal correspondence: evidence from fMRI and DTI. Brain Lang. 128, 18–24
+64. Ludwig, V.U. et al. (2011) Visuoauditory mappings between high luminance and high pitch are shared by chimpanzees (Pan troglodytes) and humans. Proc. Natl. Acad. Sci. U.S.A. 108, 20661–20665
+65. James, T.W. et al. (2011) Shape from sound: evidence for a shape operator in the lateral occipital cortex. Neuropsychologia 49, 1807–1815
+66. Spence, C. and Deroy, O. (2012) Crossmodal correspondences: innate or learned? Iperception 3, 316–318
+67. Changizi, M.A. (2011) Harnessed: How Language and Music Mimicked Nature and Transformed Ape to Man, BenBella Books
+68. Campisi, E. and O€ zyürek, A. (2013) Iconicity as a communicative strategy: Recipient design in multimodal demonstrations for adults and children. J. Pragmatics 47, 14–27
+69. Zhang, J. (1997) The nature of external representations in problem solving. Cogn. Sci. 21, 179–217
+70. Rowbotham, S. et al. (2014) Handling pain: the semantic interplay of speech and co-speech hand gestures in the description of pain sensations. Speech Commun. 57, 244–256
+71. Chu, M. and Kita, S. (2008) Spontaneous gestures during mental rotation tasks: Insights into the microdevelopment of the motor strategy. J. Exp. Psychol. Gen. 137, 706–723
+72. Kelly, S.D. et al. (2010) Two sides of the same coin: speech and gesture mutually interact to enhance comprehension. Psychol. Sci. 21, 260–267
+73. Alibali, M.W. et al. (2000) Gesture and the process of speech production: we think, therefore we gesture. Lang. Cogn. Process. 15, 593–613
+74. Holler, J. et al. (2009) Do iconic hand gestures really contribute to the communication of semantic information in a face-to-face context? J. Nonverbal Behav. 33, 73–88
+75. Thompson, R.L. et al. (2012) The road to language learning is iconic evidence from british sign language. Psychol. Sci. 23, 1443–1448
+76. Vinson, D. et al. (2015) A faster path between meaning and form? Iconicity facilitates sign recognition and production in British Sign Language. J. Mem. Lang. 82, 56–85
+77. Ortega, G. and Morgan, G. (2015) Input processing at ﬁrst exposure to a sign language. Second Lang. Res. Published online March 26, 2015. http://dx.doi.org/10.1177/0267658315576822
+78. Ortega, G. (2014) Acquisition of a signed phonological system by hearing adults: the role of sign structure and iconicity. Sign Lang. Linguist. 17, 267–275
+79. Imai, M. et al. (2008) Sound symbolism facilitates early verb learning. Cognition 109, 54–65
+80. Kantartzis, K. et al. (2011) Japanese sound-symbolism facilitates word learning in English-speaking children. Cogn. Sci. 35, 575–586
+81. Mihas, E. (2013) Composite ideophone–gesture utterances in the Ashéninka Perené ‘community of practice’, an Amazonian Arawak society from Central-Eastern Peru. Gesture 13, 28–62
+82. Sakamoto, M. et al. (2014) Communication support system between Japanese patients and foreign doctors using onomatopoeia to express pain symptoms. J. Adv. Comput. Intell. Intell. Inform. 18, 1020–1026
+83. Kanero, J. et al. (2014) How sound symbolism is processed in the brain: a study on Japanese mimetic words. PLoS ONE 9, e97905
+84. Osaka, N. (2009) Walk-related mimic word activates the extrastriate visual cortex in the human brain: an fMRI study. Behav. Brain Res. 198, 186–189
+85. Lockwood, G. and Dingemanse, M. (2015) Iconicity in the lab: a review of behavioural, developmental, and neuroimaging research into sound-symbolism. Front. Psychol. http://dx.doi. org/10.3389/fpsyg.2015.01246
+86. Köhler, W. (1947) Gestalt Psychology. (2nd edn), Liveright Publishing
+87. Davis, R. (1961) The ﬁtness of names to drawings. A crosscultural study in Tanganyika. Br. J. Psychol. 52, 259–268
+
+88. Bremner, A.J. et al. (2013) ‘Bouba’ and ‘Kiki’ in Namibia?. A remote culture make similar shape–sound matches, but different shape–taste matches to Westerners. Cognition 126, 165–172
+89. Maurer, D. et al. (2006) The shape of boubas: sound–shape correspondences in toddlers and adults. Dev. Sci. 9, 316–322
+90. Ozturk, O. et al. (2013) Sound symbolism in infancy: evidence for sound–shape cross-modal correspondences in 4-month-olds. J. Exp. Child Psychol. 114, 173–186
+91. Drijvers, L. et al. (2015) Sound-symbolism is disrupted in dyslexia: Implications for the role of cross-modal abstraction processes. In Proceedings of the 37th Annual Meeting of the Cognitive Science Society (Maglio, P. et al., eds), pp. 602–607, Cognitive Science Society
+92. Occelli, V. et al. (2013) The takete–maluma phenomenon in autism spectrum disorders. Perception 42, 233–241
+93. Westbury, C. (2005) Implicit sound symbolism in lexical access: evidence from an interference task. Brain Lang. 93, 10–19
+94. Lupyan, G. and Casasanto, D. (2014) Meaningless words promote meaningful categorization. Lang. Cogn. 7, 167–193
+95. Jones, M. et al. (2014) The Bouba effect: sound–shape oconicity in iterated and implicit learning. In Proceedings of the 36th Annual Meeting of the Cognitive Science Society (Bello, P. et al., eds), pp. 1114–1119, Cognitive Science Society
+96. Nielsen, A.K.S. and Rendall, D. (2013) Parsing the role of consonants versus vowels in the classic Takete–Maluma phenomenon. Can. J. Exp. Psychol. 67, 153–163
+97. Nygaard, L.C. et al. (2009) Sound to meaning correspondences facilitate word learning. Cognition 112, 181–186
+98. Asano, M. et al. (2015) Sound symbolism scaffolds language development in preverbal infants. Cortex 63, 196–205
+99. Imai, M. and Kita, S. (2014) The sound symbolism bootstrapping hypothesis for language acquisition and language evolution. Philos. Trans. R. Soc. Lond. B: Biol. Sci. 369, 20130298
+100. Eco, U. (1995) The Search for the Perfect Language, Blackwell
+101. Okrent, A. (2009) In The Land of Invented Languages: Esperanto Rock Stars, Klingon Poets, Loglan Lovers, and the Mad Dreamers Who Tried To Build a Perfect Language, Spiegel & Grau
+102. Marler, P. (1955) Characteristics of some animal calls. Nature 176, 6–8
+103. Liebal, K. (2013) Primate Communication: A Multimodal Approach, Cambridge University Press
+104. Nowak, M.A. et al. (1999) An error limit for the evolution of language. Proc. R. Soc. Lond. B: Biol. Sci. 266, 2131–2136
+105. Gasser, M. (2004) The origins of arbitrariness in language. In Proceedings of the 26th Annual Conference of the Cognitive Science Society (Forbus, K. et al., eds), pp. 434–439, Cognitive Science Society
+106. Arbib, M.A. et al. (2008) Primate vocalization, gesture, and the evolution of human language. Curr. Anthropol. 49, 1053–1076
+107. Clark, A. (1998) Magic words: how language augments human computation. In Language and Thought: Interdisciplinary Themes (Carruthers, P. and Boucher, J., eds), pp. 162–183, Cambridge University Press
+108. Lupyan, G. (2012) What do words do? Toward a theory of language-augmented thought. In Psychology of Learning and Motivation (57) (Ross, B.H., ed.), In pp. 255–297, Elsevier
+109. Lupyan, G. and Thompson-Schill, S.L. (2012) The evocative power of words: Activation of concepts by verbal and nonverbal means. J. Exp. Psychol. Gen. 141, 170–186
+110. Boutonnet, B. and Lupyan, G. (2015) Words jump-start vision: a label advantage in object recognition. J. Neurosci. 35, 9329– 9335
+111. Edmiston, P. and Lupyan, G. (2015) What makes words special? Words as unmotivated cues. Cognition 143, 93–100
+112. Kirby, S. et al. (2008) Cumulative cultural evolution in the laboratory: an experimental approach to the origins of structure in human language. Proc. Natl. Acad. Sci. U.S.A. 105, 10681–10686
+113. Chater, N. and Christiansen, M.H. (2010) Language acquisition meets language evolution. Cogn. Sci. 34, 1131–1157
+
+614 Trends in Cognitive Sciences, October 2015, Vol. 19, No. 10
+
+114. Zipf, G.K. (1935) The Psycho-Biology of Language, Houghton Mifﬂin
+
+115. Enﬁeld, N.J. (2015) The Utility of Meaning: What Words Mean and Why, Oxford University Press
+
+116. Hruschka, D.J. et al. (2009) Building social cognitive models of language change. Trends Cogn. Sci. 13, 464–469
+
+117. Mesoudi, A. (2011) Cultural Evolution: How Darwinian Theory Can Explain Human Culture and Synthesize the Social Sciences, University of Chicago Press
+
+118. Enﬁeld, N.J. (2014) Natural Causes of Language: Frames, Biases
+
+and Cultural Transmission, Language Science
+
+Press
+
+119. Beckner, C. et al. (2009) Language is a complex adaptive system: position paper. Lang. Learn. 59, 1–26
+
+120. Tamariz, M. and Kirby, S. (2015) Culture: copying, compression, and conventionality. Cogn. Sci. 39, 171–183
+
+121. Winters, J. et al. (2014) Languages adapt to their contextual niche. Lang. Cogn. 7, 415–449
+
+122. Silvey, C. et al. (2015) Word meanings evolve to selectively preserve distinctions on salient dimensions. Cogn. Sci. 39, 212–226
+123. Perlman, M. et al. (2015) Iconicity can ground the creation of vocal symbols. Open Sci. 2, 150152
+124. Roberts, G. et al. (2015) How communication changes when we cannot mime the world: Experimental evidence for the effect of iconicity on combinatoriality. Cognition 141, 52–66
+125. Dingemanse, M. et al. (2014) The role of iconicity in the cultural evolution of communicative signals. In Proceedings of Evolang Workshop on Signals, Speech and Signs (De Boer, B. and Verhoef, T. eds), pp. 11–15
+126. Verhoef, T. et al. (2015) Emergence of systematic iconicity: transmission, interaction and analogy. In Proceedings of the 37th Annual Meeting of the Cognitive Science Society (Maglio, P. et al., eds), pp. 2481–2486, Cognitive Science Society
+127. Henrich, J. et al. (2010) The weirdest people in the world? Behav. Brain Sci. 33, 61–83
+
+Trends in Cognitive Sciences, October 2015, Vol. 19, No. 10 615
+

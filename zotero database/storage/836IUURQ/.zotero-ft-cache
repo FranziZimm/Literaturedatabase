@@ -1,0 +1,1014 @@
+METONYMY, GRAMMAR,
+AND COMMUNICATION
+Francisco José Ruiz de Mendoza Ibáñez
+(University of La Rioja)
+José Luis Otal Campo
+(University Jaume I)
+1
+
+Financial support for this research has been provided by the DGI, Ministry of Science and Technology, Spain, grant no. BFF2000-0934. Correspondence to Francisco José Ruiz de Mendoza Ibáñez (University of La Rioja, Departamento de Filologías Modernas, Edificio Filología, C/ San José de Calasanz s/n, 26004, Logroño, La Rioja, Spain; tel. 941299430; fax 941299419; e-mail: francisco.ruiz@dfm.unirioja.es) and José Luis Otal Campo (University Jaume I, Departament de Filologia Anglesa i Romànica, 12080, Castellón, Spain; tel. 964 729 275; fax 964 729 348; e-mail: otal@fil.uji.es)
+2
+
+CONTENTS
+Introduction:
+0.1. Metonymy: from 'trope' to 'cognitive tool'. 0.2. Lacunae in contemporary accounts of metonymy and need for further
+research. 0.3. Research objectives. 0.4. A note on methodology.
+Chapter 1: Defining Metonymy
+1.1. Distinguishing metaphor from metonymy. 1.2. Metonymy and the notion of 'domain'. 1.3. The metaphor-metonymy continuum 1.4. Classifying metaphor from different perspectives. 1.5. Criteria for a definition of metonymy
+1.5.1. Distinguishing metonymy from metaphor 1.5.2. The boundary between metonymy and literal uses of language 1.5.3. Nature and scope ofthe notion of ‘matrix domain’ 1.5.4. Domains and subdomains: the relevance of ‘domain
+highlighting’ 1.6. Conceptual interaction between metaphor and metonymy
+Chapter 2: Metonymy and Linguistic Structure
+2.1. Classifying metonymy. 2.2. Predicates. 2.3. Recategorization of nominal and verbal predicates. 2.4. Valency extension and valency reduction. 2.5. Argument structure.
+3
+
+2.6. The predication. 2.7. Modality. 2.8. Anaphoric reference. Chapter 3: The communicative import of metonymy 3.1. The role of metonymy in explicature derivation. 3.2. Metonymy and indirect speech acts. 3.3. Illocution-oriented presuppositional constructions. Conclusion References
+4
+
+INTRODUCTION
+For a long time the study of metonymy has rated second best in comparison to the amount of effort devoted to the understanding of the closely related phenomenon of metaphor. This was the case in the work of ancient rhetoricians who thought of metonymy as a ‘trope’ or figure of speech. And it is also the general feeling that arises from a quick look at the literature produced by cognitive linguists about this topic. Within the cognitivist tradition, metonymy has been promoted from being regarded as a mere rhetorical figure to the status of a mental mechanism underlying many aspects of human conceptualization. In this, the relevance of metonymy as a cognitive strategy of knowledge organization is comparable to that of metaphor. Nevertheless, while metaphor has been discussed at length by cognitive linguists,1 metonymy has attracted a considerably smaller amount of attention. This phenomenon is treated rather briefly in Lakoff and Johnson (1980), Lakoff and Turner (1989), Lakoff (1987), and Taylor (1995), where metonymy is set apart from metaphor, only to devote the largest part of the discussion to the latter. It is only in the 1990s, and particularly in the late 1990s, that metonymy has gradually started to awaken the interest of cognitive linguists, as is evidenced by the growing number of publications on the topic in those years. Among others, we may refer to the studies by Goossens (1990), Croft (1993), and Dirven
+1 Seminal studies on metaphor include Lakoff and Johnson (1980, 1999), Lakoff and Turner (1989), Kövecses (1990), and Lakoff (1987, 1993, 1996).
+5
+
+(1993), and the collections of articles in Panther and Radden (1999), and in Barcelona (2000a). Little by little, metonymy has ceased to be the marginal topic that it once was. The pervasiveness of metonymic phenomena has even led some authors to postulate that it is often at the basis of metaphoric thinking (see Goossens, 1990; Taylor 1995; Barcelona, 2000b; and Niemeier, 2000). This is in agreement with the claims of some scholars who argue that metonymy occupies a more central role in our conceptual apparatus than granted so far. In this connection, Koch's (1999: 139) words are representative of the general interest raised by this topic in recent years:
+[...] I am convinced that metonymy occurs much more frequently than metaphor and tells us a great deal about our cognitive equipment. So it is worthwhile studying its cognitive bases in some detail.
+Nevertheless, as will become apparent below, many aspects of metonymy remain unexplained or have been only partially and/or unsatisfactorily accounted for. This book is an attempt to provide answers to some of the questions about the nature and functions of metonymy which still remain. A description of our precise research goals, some notes on methodological decisions and an outline of chapter content are presented in detail in the last three sections of this introduction. Before that, we shall offer a brief historical overview of the character and orientation of the different approaches to the study of metonymy, from its original conception as a trope to the present-day interpretation of this phenomenon as a cognitive operation. This is followed by a succinct description of the main weaknesses of present-day theories of metonymy and a summary of those aspects of the study of metonymy which are in need of further research.
+0.1. Metonymy: From ‘trope’ to ‘cognitive tool’
+Etymologically, the word ‘metonymy’ comes from classical Greek and means ‘change of meaning’. One of the first occurrences of this term is found in Plato's debate about the arbitrariness or naturalness of signs. Thus, Democritus (as quoted in Proclus' comentary on the Cratylus 16) offers four arguments in favour of arbitrariness: ‘homonymy’ or ‘polysemy’, ‘polyonymy’, ‘nonymy’, and ‘metonymy’ (see
+6
+
+Householder, 1995 for details). The most widespread view of metonymy in classical times, however, originated in Aristotle, who subsumed this phenomenon under metaphor. In chapter 21 of his Poetics, Aristotle put forward a classification of metaphor into four different kinds, one of which was metonymy.2
+The first recorded definition of ‘metonymy’, however, is anonymous and was included in a treatise on rhetorics entitled Rhetorica ad Herenium:
+Denominatio est, quae ab rebus propinquis et finitimis trahit orationem, qua possit intellegi res, quae non suo vocabulo sit appellata.3 (Her. IV: 32, 43= Anonymous 1894: 337).
+As is evident from this definition, the classical rhetorical interpretation of metonymy is based on the notions of ‘closeness’ or ‘contiguity’: a thing which holds a relation of proximity with another may take its name from it. This way of understanding metonymy is found in the works of the most well-known rhetoricians of that time, including Cicero. The motivation underlying the use of metonymy during this period is simply the principle of decorum: ‘ornandi causa propium commutatum’4 (Cicero, De Oratore, III, XLII, in LeGuern, 1973). In other words, metonymy is just a type of trope, a figure of speech which is used to make discourse more attractive and/or persuasive.
+A similar conception of metonymy as a trope or the use of a word to name a different, but connected, entity is still accepted today by contemporary rhetoricians, as the following quotes illustrate:
+[...] désignation d'un objet par le nom d'un autre objet qui fait comme lui un tout absolument à part, mais qui lui doit ou à qui il doit lui-même plus ou
+2 The debate as to whether metonymy is a subclass of metaphor was brought back to the fore during the seventies and early eighties. Some scholars hold the view that metonymy is in fact a subtype of metaphor (Levin, 1977; Lodge, 1977; Genette, 1980; Searle, 1979), while others take it to be a different kind of phenomenon deriving from different principles (Jakobson, 1971; Bredin, 1984). 3 ‘Denomination [i.e. ‘metonymy’] is a trope that takes its linguistic form from near and close things and by which we can understand something that is not named by its own word’ [our translation] 4 ‘In order to improve the style, the proper word is changed’ [our translation]
+7
+
+moins, ou pour son existence, ou pour sa manière d'être5. (Fontanier 1968: 79; our italics).
+Die Metonymie verwendet [...] ein Wort in der Bedeutung eines anderen Wortes, das semantisch mit dem verwendeten Wort in einer realen Beziehung steht6 (Lausberg 1960: §565; our italics).
+[...] entità qualsiasi mediante il nome di un'altra entità che stia alla prima come la causa sta all'effetto e viceversa, oppure che le corrisponda per legami di reciproca dipendenza7. (Mortara Garavelli, 1988: 149; our italics).
+The Aristotelian view of metonymy as a subsidiary phenomenon is maintained in modern rhetorics. The Groupe de Liège or Groupe µ contends that synecdoche is the primary trope and that both metonymy and metaphor are by-products resulting from the combination of two synecdoches (see Schofer and Rice, 1977; Dubois et al. 1970). Within this school, metonymy is seen as the substitution of a word form for another in cases where there exists a close association between them. Such an association may be of two types:
+(1) The referents of the two expressions involved in the metonymic mapping are part of the same ‘spatio-temporal totality’.
+(2) The two entities involved in the metonymic mapping are connected not through their referents, but through their meaning. In other words, they belong to the same ‘semantic whole’.
+Just as was the case in the classical tradition, the import and ubiquity of metonymy as a conceptualizing mechanism is ignored in this account in favour of a view of metonymy as a mere linguistic tool. However, metaphor and metonymy have
+5 ‘Designation of an object by the name of another object which, like the first, makes a separate whole, but which is more or less dependent on, or is depended on by, that object, either for its existence or for its nature’ [our translation] 6’Metonymy makes use of one word with the meaning of another word which from a semantic perspective holds a real relationship with the used word’ [our translation] 7.- ‘[...]any entity by means of the name of another entity which holds the same relationship to the former as the cause holds to the effect, or viceversa, or which corresponds to it because of reciprocal dependence’ [our translation].
+8
+
+long been recognized as basic phenomena (cf. Jakobson, 1971a). Also, the notion of ‘semantic closeness’ as licensing metonymic assotiations is not without its problems. ‘Semantic closeness’ has been treated in terms of operations on sets of semantic features. As has been pointed out by Koch (1999: 145), this means that, in order to understand the use of the word bar (‘counter’) as standing metonymically for ‘public house’, "we need to posit a semantic feature [counter] as figuring in the set of features that form the sememe ‘public house’ of the word Eng. bar". Nevertheless, as Koch (1999: 145) rightly adds, this account of metonymy is neither realistic nor conclusive. On the one hand, the understanding of Eng. bar as 'public house' is made possible by our knowledge of public houses and not by our knowledge of the word bar. On the other hand, this type of explanation would lead to the inclusion in our description of a given lexical item of all the information necessary to account for whatever metonymy may occur in this lexical item in the course of -even future- language history. And this task is, of course, far from practicable.8
+This brief discussion of the bar-counter metonymy seems to point to a different type of contiguity relation between the two elements connected by means of a metonymy, namely, a relationship of ‘conceptual’ contiguity or closeness. This idea is not new. As we will show presently, some of its proponents date back to the first decades of the 20th century. Let us stress first, however, the relevance of this shift in the conception of the nature of the contiguity relation underlying metonymy. It is thanks to the understanding of this contiguity relation as ‘conceptual’, rather than ‘linguistic’ or ‘semantic’, that the door opens to a broader and richer view of metonymy, not only as a linguistic tool, but also as a mental strategy for conceptualisation.
+As noted in Koch (1999: 142), the first time a definition of metonymy includes the notion of conceptual contiguity is in the following quotation by Roudet (1921: 690):
+8 This intralinguistic explanation of metonymy based on the contiguity of ‘linguistic meanings’ or ‘semantic features’ is also held by Ullmann (1962), who defines metonymy in terms of ‘contiguity of senses’, and Jakobson (1956, 1971), whose conception of metonymy is based on his two-axes theory of signs. In Jakobson's account, metonymy is associated with combinations of signs on the syntagmatic axis. The relation of contiguity is, therefore, between linguistic signs, rather than between concepts, contrary to what is held by modern cognitive linguists.
+9
+
+Changements résultant d'une association par contiguïte entre les idées. Tous les changements que l'on a appelés changements par connexité ou par métonymie (devenue inconsciente) appartiennent à cette catégorie9. [our italics]
+Nevertheless, for a long time, Roudet's contribution was not paid too much attention, most discussions in his time evolving around Jakobson's popular two-axes theory and his treatment of metonymy as a phenomenon based on a relation of contiguity between ‘semantic features’ on the syntagmatic axis.10 Some decades later, however, in the 1970s and 1980s, new findings regarding the nature of human conceptualization made by cognitive scientists and experimental psychologists provided the necessary atmosphere for a shift of thought regarding the nature of metonymy. Within this trend, Roudet's definition in terms of associations between ideas started to appear as more plausible than the previous conception of metonymy as based on ‘contiguity of senses’.
+Against both the classical and the more recent views (Group Liège, Jakobson, Ullmann, and modern rhetoricians), a new conception of metonymy arose from the seminal work of George Lakoff and his associates within the framework provided by Cognitive Linguistics. Although research by cognitive linguists was initially centred on the study of metaphor, neither the latter nor metonymy is relegated to rhetorical purposes anymore. A new vision of these phenomena is sketched out in which both are given a higher status as two of the mental strategies involved in human reasoning and the use of language. Metonymy was first described in cognitive terms by Lakoff and
+9‘Changes which result from an association based on contiguity of ideas. Every change which has been labelled change by connection or by metonymy (which takes place unconsciously) belongs to this category’ [our translation]. 10 Jakobson's (1956, 1971) considerations regarding metonymy have recently been taken up and elaborated by Dirven (1993) in an attempt to put forward a typology of metonymies which should substantiate the existence of a continuum from metaphor to metonymy. Thus, Dirven distinguishes three main types of metonymic mapping: linear (whenever a metonymic mapping does not carry a systematic change in the meaning of a term), conjuctive (which involves a semantic widening towards the inclusion of sociocultural facts), and inclusive (which always has a figurative interpretation). These three metonymic types form a continuum from less to more paradigmatic in such a way that inclusive metonymies are closer to the metaphoric pole than conjuctive metonymies which, in turn, are nearer to metaphor than linear metonymies. Dirven's typology is especially useful in order to account for the different degrees of conventionalization of metonymy; see our discussion on Dirven's account in section 1.3.
+10
+
+Johnson (1980: 39) as a process which ‘allows us to conceptualize one thing by means of its relation to something else’. Another still largely programmatic definition of this phenomenon may be found in Lakoff and Turner (1989), where metonymy is regarded as a type of conceptual mapping. A mapping is a set of correspondences between two conceptual domains; in metaphor the domains involved are separate; in metonymy the mapping is domain-internal. These authors also set metonymy apart from metaphor in relation to two other aspects:
+(1) While metaphor is mainly predicative, metonymy is primarily referential.
+(2) While metaphor involves an ‘is like’ relationship between two conceptual domains, metonymy is based on a 'stands for' relationship.
+These purported characteristics of metonymy will be discussed in depth in the following chapter (section 1.5). For the time being, let us focus our attention on what may be considered the fundamental achievement of the cognitivist contribution to the study of metonymy: the emphasis placed on its nature as a cognitive mechanism of conceptualisation or, in other words, on its ability to shape much of thinking and speaking in every day life.
+Evidence supporting the understanding of metonymy as a mental strategy and as a cognitive structuring principle of knowledge organization has been drawn from the most diverse sources, including, among others, work in experimental psychology, and studies on cognitive models, systematic polysemy, discourse processing techniques, and the mechanisms involved in the human capacity to draw inferences.11 Let us consider these arguments in turn.
+As mentioned earlier, research carried out within experimental psychology (Rosch, 1977, 1978) has led to a widely accepted empirical model of categorisation known as Prototype Theory. According to this theory, members of a given category, far
+11 An accessible and thorough overview of most arguments and experiments in support of the cognitive nature of metonymy may be found in Gibbs (1999: 66-73), to which the ensuing presentation is very much indebted.
+11
+
+from having equal status, show different degrees of membership: some category members have a special cognitive salience that makes them ‘stand out’ as better examples of their category than others. Such asymmetries are known as ‘prototype effects’. The best example of a given category is called its ‘prototype’ and it usually represents the whole category in everyday reasoning. Rosch herself (1978: 40-41) was careful to stress the fact that prototype effects in themselves do not constitute a theory of mental representation. On the contrary, prototypicality should be understood as a mere by-product of the actual structures that are involved in the organization of our knowledge about the world.
+A classical attempt to provide the foundations for such a theory of mental representation is that of Lakoff (1987: chapters four to six), who identifies four possible sources of prototype effects according to the kind of structuring principle involved in the representation. Lakoff argues that there are four such principles:
+-Propositional structure, as in Fillmore's (1985) 'frames'. Frames are sets of semantic conditions described propositionally, i.e. in terms of predicates and their associated arguments.
+-Image-schematic structure, as origianlly discussed by Johnson (1987). Imageschemas are abstract, topological, and pre-conceptual patterns of experience, such as spatial orientations ('up', 'down', 'front', 'back'), and the 'container', 'path', and 'partwhole' conceptual configurations.
+-Metaphoric mappings. These are sets of correspondences across different conceptual domains.
+-Metonymic mappings. A metonymy is seen as a domain-internal conceptual mapping.
+Each of these principles gives rise to one form of idealized cognitive model (or ICM). Although Lakoff does not provide us with a definition of this construct, we may describe an ICM as a conventionalized mental representation of reality as perceived and interpreted by our senses or as determined by culture.
+12
+
+In Lakoff's account, metonymy has a conceptual status and is regarded as one possible source of prototype effects. The classical Lakoffian example of the conceptual nature of metonymy is related to the prototype effects of the ‘mother’ category. For many people in our western culture, ‘housewife-mothers’ are generally seen as the more central and clear members of the ‘mother’ category. Thus, ‘housewife-mothers’, which are just one of all possible classes of mother, generally function as the default representatives of the whole category. As a result, other types of mother, like ‘workingmothers’, are not perceived as good examples of the category. These prototype effects within the ‘mother’ category originate in the metonymic operation that makes a culturally salient member, like ‘housewife-mothers’, stand for or represent the whole category.
+In this connection, Lakoff (1993: 110-111) has also provided additional evidence in favour of the cognitive nature of metaphor in relation to the phenomenon of systematic polysemy. Thus, metaphor is shown to be a mental, rather than a mere linguistic strategy allowing words that have different senses in the source domain of a mapping to have corresponding senses in the target domain. Lakoff gives the example of words referring to the vertical spatial dimension (e.g. ‘up’, ‘down’, ‘rise’, ‘fall’, etc.) which are used to express quantity, according to the mapping MORE-IS-UP, LESS-ISDOWN (e.g. Prices are rising, Prices are going down, etc.). Such systematicity cannot be just the result of a figurative use of language (trope) for creative or artistic purposes. On the contrary, it is more plausible to think of it as the by-product of an underlying cognitive operation that licenses the understanding of an abstract concept (quantity) in terms of an experiential one (verticality). The same arguments can be put forward in order to support the cognitive nature of metonymy. Thus, words that have related senses in the source domain can stand for corresponding senses in the target. For example, different but related body parts (e.g. ‘head’, ‘hand’, ‘eye’, etc.) may be used to refer to their functions on the basis of the metonymy BODY PART FOR ACTION PERFORMED BY MEANS OF IT, as in Use your brain/head ‘think’, Give me a hand ‘do something for me’, Run your eye over these documents ‘look at these documents’. Furthermore, the fact that this metonymy is part of our conceptual makeup explains why speakers are capable of producing and interpreting new and imaginative instances of it.
+13
+
+Thus, in I footed it to school yesterday, a plausible default interpretation would map ‘foot’ onto the action of walking.
+Additional evidence supporting the conceptual nature of metonymy comes from work in discourse. Gibbs (1999: 66-67) refers, for instance, to the analysis of everyday dialogues. He gives the following example:
+A: How did you get to the airport? B: I waved down a taxi.
+Upon hearing B's utterance, A easily infers that for B to get to the airport he first had to hail a taxi and make it stop, then have it pick him up and take him to the airport. The question is how is it possible for A to infer all this information from B's brief statement. Gibbs notes that travelling involves a sequence of actions, which may be organized in a systematic way to facilitate their storage in long term memory. In terms of Lakoff's (1987) idealized cognitive models, our knowledge about travelling includes at least the following sequence of events:
+Travelling Scenario Preconditions: You have access to the vehicle. Embarkation: You get into the vehicle and start it up. Centre: You drive (row, fly, etc.) to your destination. Finish: You park and get out. End point: You are at your destination.
+This cognitive model is shared by every speaker of a linguistic community, including A and B. Thus, the expression of an element of this idealized cognitive model of travelling through overt linguistic means is enough to activate the whole cognitive model in the addressee's mind. In the dialogue between A and B above, B's utterance instantiates a precondition (i.e. getting access to a taxi by hailing one) and, in so doing, he succeeds in evoking the whole scenario12. This type of production and interpretation
+12 In this connection, Panther and Thornburg (1998, 1999) have explained indirect speech acts by means of metonymic mappings within illocutionary scenarios.
+14
+
+mechanisms and our ability to draw conversational implicatures are clearly based on metonymic reasoning.13
+Finally, metonymy, as a conceptual mechanism, has also been shown to play a role in deriving explicatures, which in turn are the basis on which to construct possible implicatures (Ruiz de Mendoza, 1999a).14 Consider the following pair of utterances:
+(1) Freud is tough to read.
+(2) Hamlet has given a remarkable performance.
+The propositional form of these examples can be developed in order to produce the two following explicatures:
+(1') Freud's writings are tough to read.
+(2') The actor playing Hamlet has given a remarkable performance.
+As can be observed, (1’) and (2’) are explicatures obtained by means of metonymic mappings from which various implicatures can be derived. For instance, (1) may be used as a warning to the hearer who is eager to read all of Freud's writings; and (2) may be used by the speaker to show his admiration for the actor playing Hamlet.
+All the arguments put forward so far support the understanding of metonymy as a mechanism of thought and reasoning as is claimed by cognitive linguists nowadays. This cognitive conception of metonymy, as pointed out at the beginning of this introduction, is relatively new and, although some interesting research has already been carried out, there are still many questions that remain unanswered. The following
+13 The notion of idealized cognitive model is fairly comprehensive. It deals not only with scenarios but with all the other types of knowledge construct postulated in the context of work in artificial intelligence (Minsky's 1975 frames; Rumelhart's 1975 schemas; Schank and Abelson's 1977 scripts). These constructs also enable metonymic processes. The linguistic expression of one salient element of any of these knowledge organizing models may metonymically lead to the activation of the whole model. 14 Sperber and Wilson (1986) have made an interesting distinction between two levels of inferencing: ‘explicatures’ (which involve the production of explicated meaning by fully developing the propositional form of a linguistic expression) and ‘implicatures’ (which involve the production of implicated meaning by the additional consideration of contextual information). According to Sperber and Wilson (1986), the identification of explicatures involves three subtasks: reference assignment, disambiguation, and enrichment (see Blakemore, 1987, 1988, 1992; Carston, 1988, 1993; Recanati, 1989; and Wilson and
+15
+
+section is an attempt to determine those aspects which are still in need of further study within the contemporary theory of metonymy.
+0.2. Lacunae in contemporary accounts of metonymy and the need for further research
+In Cognitive Linguistics most of the emphasis has been on the study of metonymy as a conceptual phenomenon. Other relevant aspects of metonymy, such as its ability to motivate some grammatical phenomena and the question of its communicative import, have been largely neglected. In fact, the literature on metonymy -if compared with the large amount of studies devoted to metaphor- is scarce. The first detailed studies have focused on defining the phenomenon, either in contrast to metaphor (Dirven, 1993) or to different polysemy phenomena (Croft, 1993) (cf. Ruiz de Mendoza, 1999b). Current debate focuses upon the interaction between metaphor and metonymy (Goossens, 1990; Turner and Fauconnier, 2000), upon finding the metonymic motivation of metaphoric mappings (Barcelona, 2000b; Radden, 2000), and upon the role of metonymy in inferential activity and understanding (Gibbs, 1994; Thornburg and Panther, 1997; Panther and Thornburg, 1998, 1999; Ruiz de Mendoza, 1999a).
+Unfortunately, perhaps with the exception of Ruiz de Mendoza (1999a), no study attempts to offer a sufficiently comprehensive explanation of metonymy. In addition to this, many aspects of metonymy remain unexplained or have been only partially and/or unsatisfactorily dealt with. Here is a brief sketch of some relevant issues which are still in need of further - even new- research.
+First of all, it is essential to draw attention to the fact that no agreement has yet been reached about something as basic as a definition of metonymy. For example, the contributions to Panther and Radden's (1999) volume include at least five different definitions. All of them share the central assumption that metonymy is a domaininternal mapping. At the same time, however, they show subtle differences as to the nature of the notion of ‘domain’ (which is variously intepreted as an idealized cognitive
+Sperber, 1993). We shall offer a detailed analysis of all these concepts and of their role in metonymy in section 3.1.
+16
+
+model, a frame, a scenario, or a domain matrix), the type of ‘contiguity’ which licenses a metonymic mapping (spatio-temporal closeness, conceptual contiguity), or the kind of mapping involved (referential transfer, conceptual transfer).
+In view of the considerable definitional variation that exists within the literature on metonymy, there is a pressing need to deal with this issue in a more systematic and comprehensive way. In our view, a solid definition of metonymy needs to meet at least two requirements: (1) it has to be capable of distinguishing metonymy clearly from related notions such as metaphor as well as from so-called literal uses of language; and (2) it needs to take into consideration not only the cognitive aspects of this phenomenon but also its grammatical and communicative import.
+Most contemporary studies on metonymy have neglected to deal with the two aspects of the second of these two requirements. Consider first the communicative issue. It is not very reasonable to study the nature of a knowledge system without making reference to its use potential (cf. Ruiz de Mendoza, 1997: 162). A similar reflection was also made by Widdowson (1984), at a time when the implications of the theories of knowledge organization for linguistic production and understanding were beginning to be explored within Discourse Analysis and Applied Linguistics. Nevertheless, the attention paid to this aspect of metonymy has not gone beyond pointing to its role in some aspects of text processing (see Gibbs, 1999: 66-69). Furthermore, this type of finding is generally valued more as evidence in support of the conceptual nature of metonymy than as a sign of its communicative potential. With respect to the second aspect, it is true that cognitive linguists recognize the existence of so-called ‘grammaticalized’ metonymies, that is, metonymic expressions which are no longer felt as such. For example, in expressions like play football/basketball, marbles, etc., the playing piece has become the name of the game itself; in others like at work the name of an activity is used to refer to the location where the activity takes place. But this is only a trivial aspect of the issue, which metonymy shares with other figures of speech, especially with metaphor. More recently, Waltereit (1999: 233-255) has considered the relationship between metonymy and grammar from the point of view of the limitations that the latter imposes on metonymic mappings. He poses the question of whether there are arguments which are particularly suited to metonymic phenomena and
+17
+
+concludes that the ‘direct object’ is privileged in this respect.15 Nevertheless, the relationship between metonymy and grammar remains to be considered in the opposite direction. To the best of our knowledge, little attention has been paid so far to whether metonymy imposes constraints on grammatical phenomena, whether it determines grammatical choices, and whether it may be found to underlie the conventional value of some grammatical constructions.16
+Finally, some attempts to apply metonymy to the explanation of inference and illocutionary phenomena have been carried out lately. It has been suggested that problematic aspects of traditional speech act theory, such as indirect speech acts, can be economically and elegantly dealt with in terms of metonymic operations on illocutionary scenarios, where one element of a particular speech act scenario may stand for the whole associated speech act category (Thornburg and Panther, 1997; Panther and Thornbug, 1998, 1999). This proposal, revealing and thought-provoking though it certainly is, remains at a highly programmatic stage. As will be shown in detail in section 3.2., the characterisation of speech act categories in terms of scenarios runs short of being capable of accounting for all the nuances and subtle shades of meaning in illocutionary performance. This problem is just a direct consequence of the lack of a proper solid definition of metonymy and of the concept of ‘domain’ in relation to which it is understood. A broader definition of ‘domain’ based on the notion of ‘idealized cognitive model’, such as the one we shall argue for in chapter 1 of this book, may provide a more precise and detailed characterization of illocutionary categories and, in turn, a more adequate account of indirect speech acts as metonymic processes operating on illocutionary cognitive models.
+0.3. Research Objectives
+15 According to Waltereit (1999: 233-255), this privileged status is due to three characteristics of the ‘direct object’ argument: (1) it is opaque and may take several different thematic roles; (2) its referential potential is reduced by its proximity to the verb; and (3) in comparison to other arguments, it is still somewhat close to the subject position. 16 Dirven (1999: 275-289) analyzes the phenomenon of noun to verb conversion which, he argues, consists in a metonymic process in which one element of an event schema is hightlighted. Goossens (1999: 193-211) regards the shift of the English modal ‘must’ from a deontic to an epistemic use as a gradual metonymic process.
+18
+
+In view of the needs of contemporary metonymy theory, as spelled out in the previous section, we have set ourselves the following goals: 1. First, we need to characterise metonymy. We need to find a set of reliable criteria which allows us to distinguish metonymy from other related semantic phenomena. More specifically, it is necessary to determine the boundaries between metaphor and metonymy, and between metonymy and non-figurative uses of language. This initial characterization of metonymy is based on the clearest examples of the category, but since, as could be expected, there are borderline cases, we shall provide a characterization which enables us to find the motivation behind them. 2. A well-founded definition of metonymy paves the way for more ambitious incursions into the relationship between metonymy and language. In this respect, we shall consider the connections between metonymy and some grammatical phenomena, on the one hand, and between metonymy and so-called pragmatic inference (including illocutionary activity), on the other hand.
+Connections between metonymy and grammar. In this book it is our intention to show that metonymy imposes constraints on grammatical phenomena on at least two non-trivial levels: (i) First, we shall give evidence that metonymy has worked its way into the use of grammatical resources at various levels of description, thereby determining the nature of some grammatical choices. (ii) Second, we shall argue for the existence of evidence that metonymy lies at the base of the conventional value of some grammatical constructions (i.e. form-meaning pairings, such as those discussed in Lakoff, 1987; and Goldberg, 1995).
+19
+
+Conversely, we shall also observe that the grammar is capable of placing constraints on the nature of some metonymic operations, thus showing that there exists full interaction between metonymy as a conceptual device and the grammar.
+Once we have a carefully worked out a characterization of metonymy, our next step will be to find out (i) on what levels of linguistic structure and language use metonymy plays a significant role and (ii) what kinds of metonymy are able to impose constraints on linguistic structure. Regarding the former, the idea here is to see to what extent metonymy places constraints on and/or interacts with other linguistic phenomena. In order to achieve this goal, it is necessary to have at least some expectations as to where metonymy may be particularly active in grammar. First, since metonymy usually involves shifts of reference in connection to noun phrases in the complementation patterns of verbs, some grammatical constructions asssociated with such patterns may have a metonymic basis. Second, we may expect metonymy to underlie some recategorization processes including subcategorial conversion. This is due to the fact that not all the subdomains of a given concept attain linguistic expression by means of the same category. There are still other expectations pertaining to the nature of the domains which take part in metonymic mappings. Thus, a typology of mappings will be given in section 2.1. This will allow us to ascertain the metonymic basis of some grammatical constructions.
+Connections between metonymy, inferences, and illocution.
+As mentioned in the previous section, cognitive linguists have been largely concerned with the conceptual nature of metonymy, but, in contrast, they have not placed much emphasis on the communicative effect of this type of conceptual mapping. In this connection, we have examined two significant areas of language use in which metonymy is observed to be closely linked to the achievement of successful communication:
+(1) The role of metonymy in the derivation of inferences.
+20
+
+(2) The essential function of metonymic mappings in the production and interpretation of indirect illocutions.
+With respect to the first area, it is our intention to explore the Cognitive Linguistics approach to metonymy as a way of understanding and reasoning about the world in relation to the relevance-theoretic treatment of inference and, more specifically, to the distinction between implicatures and explicatures (cf. Sperber and Wilson, 1995). It will be shown that metonymy lies at the base of the production of explicatures, which, in turn, enable the speaker to draw further weak and strong implicatures. More specifically, it is argued that explicatures can sometimes be obtained through the modification of an assumption schema by means of a conceptual mapping, either metaphoric or metonymic.
+As regards the relation between metonymy and illocutionary activity, the second area mentioned above, it is commonly accepted by cognitive linguists that metonymy is crucial to the derivation of illocutionary meaning. In this theoretical context, our intention is to elaborate and develop the existing scenario-based theories of indirect illocutions in order to increase their explanatory power. We shall systematically describe the propositional idealized cognitive models of a group of directive and commissive illocutions in relation to a number of relevant variables, such as costbenefit, optionality, directivity, social power, mitigation, and social distance. On the basis of this type of illocutionary cognitive model, it will be shown how the activation of a variable number of attributes accounts for the production of illocutionary acts with different degrees of conventionalization and for subtle differences in meaning.
+Finally, together with the main goals specified in 2, this book also addresses several other matters of importance within the current debate on metonymy such as its boundaries with literal uses of language, the problem of distinguishing metonymy from synecdoche, the interaction between metonymy and metaphor, and the complex issue of building a systematic taxonomy of metonymy types.
+0.4. A note on methodology
+21
+
+Lakoff and Johnson (1980) have sometimes been criticised for founding all their analyses on their own intuition and not testing their findings against a wide sample of data (see Partington, 1998). Maybe as a reaction against the lack of real data in the initial studies, the last few years have witnessed an increase in the amount of corpusbased research within the cognitive paradigm (cf. Goossens, 1990; Partington, 1998; Deignan, 1999; Díez, 2000a). Nevertheless, the use of large computerized corpora as a source of data for studying metonymy is still rather scarce. The reason for this is easy to determine. Unlike other aspects of semantic structure, such as collocations (also termed lexical solidarities; cf. Lipka, 1992), it is difficult to explore metonymic expressions with the help of a computerized corpus. This is so because concordance programs only give the researcher access to word indexes and collocation patterns, and in many cases words may be used metonymically -whatever the word class they belong to- depending on the context of use.
+So, a systematic study of the phenomenon needs to proceed in a different way, where the use of computer software may simply provide us with incidental corroborative evidence about native speaker judgements. This is what has been referred to as a ‘corpus-based analysis’ (cf. Ooi, 1998), which is to be contrasted to ‘corpusdriven analysis’, where only evidence from real language corpora is taken as valid and no previous assumptions are made. Corpus-based studies, on the other hand, allow the researcher to use the data in the corpus to refine and strengthen his theoretical postulates. With this aim in mind, we have made use of a collection of examples from various sources. Special use has been made of the Master Metonymy List, a compilation of over 100 metonymies, carried out by Naomi Leite on the basis of references found in the cognitive linguistics literature or obtained from homework assignments in Lakoff's classes. Also, we have considered in our study numerous instances of metonymy classified or explained in Lakoff and Johnson (1980), Fauconnier (1985), Lakoff (1987), Croft (1993), Dirven (1993), Thornburg and Panther (1997), Kövecses and Radden (1998), and Panther and Thornburg (1998), among others. Finally, we have made occasional use of examples from the British National Corpus where appropriate to further illustrate and/or substantiate some of our views.
+22
+
+In sum, our corpus tends to fall into a weak version of Sinclair's (1991) notion of ‘monitor corpus’, at least in the sense that we have not worked with a fixed collection of examples, but that we have continued to enrich it according to the needs of our research. It should be noted that a corpus of variable size is not compatible with quantitative analyses. However, it is very useful for a qualitative analysis like the one presented in this book.
+23
+
+CHAPTER ONE
+DEFINING METONYMY
+In Cognitive Linguistics there have so far been few formal attempts to characterize metonymy in a rigorous way. The definitions given by many authors are more working definitions than exhaustive ones based on well-argued criteria. This is the problem, as will be shown presently, with the initial characterizations provided by Lakoff (1987), Lakoff and Johnson (1980), and Lakoff and Turner (1989). More recent definitions of metonymy, such as those which appear in some of the papers included in Panther and Radden (1999), draw on the original attempts to a great extent. They are valuable contributions in that they recognize the importance of determining the nature and scope of the notion of ‘domain’, upon which the definition of metonymy hinges. They are all the more valuable in that they have posed the right questions in relation to the phenomenon under consideration and have, therefore, opened the present-day ongoing debate on the nature and scope of metonymy. Nevertheless, we intend to demonstrate that all of them have important limitations. Sections 1.1 to 1.4 offer a detailed summary of the main issues that have been treated so far in relation to metonymy. They present a critical review of the main accounts on those issues and they bring to the fore those aspects of metonymy which are still in need of further research. In section 1.5 we present our own view of metonymy. We shall attempt to demonstrate that a definition of metonymy which takes into account formal criteria, i.e. which is based not only on the nature of the domains involved but also of the mapping process itself, such as the one we pursue here, is capable of overcoming most of the shortcomings of previous accounts in this area.
+1.1. Distinguishing metaphor from metonymy
+Lakoff and Turner (1989: 103) consider metonymy in contrast with metaphor. For them, both phenomena are explained as conceptual mappings, since there is a
+24
+
+connection or correspondence between two things, and both can be conventionalized. However, as we mentioned earlier, they also point to some important differences:
+(a) In metaphor there are two conceptual domains, while metonymy involves only one.
+(b)In metaphor a whole schematic structure (with its logic), called the source domain, is mapped onto another whole schematic structure (with its logic), called the target domain; the function of the mapping is to allow us to understand and reason about the target in terms of the source. One classical example of this is the metaphor ARGUMENT IS WAR (Lakoff and Johnson, 1980: 4-9), where we see arguing as engaging in battle with an enemy. In an argument, as in a battle, we attack the enemy’s positions and defend our own, we plan strategies, we gain or lose ground, and we either defeat or are defeated by our opponents. Metonymy, on the other hand, is primarily used for reference: we refer to an entity in a schema (or cognitive model) by referring to another entity in the same schema.
+(c) Finally, metonymies, but not metaphors, involve a ‘stands for’ relationship between the source and target domains. For example, if I say I have bought a Ford the name of the car-making company stands for one of its characteristic products (this is labelled the PRODUCER FOR PRODUCT metonymy). An oftquoted example of metonymy is The ham sandwich is waiting for his check (Lakoff and Johnson, 1980: 35), in which a waitress conveniently uses ‘ham sandwich’ to refer to the ‘customer who has ordered a ham sandwich’ in the context of a restaurant.
+In Ruiz de Mendoza (1997: 164) it is noted that this characterization of metonymy is not very accurate and is faced with some fundamental problems. First, it seems pointless to describe metonymy as ‘primarily’ referential -as Lakoff and Turner dounless it is explained why this is so. In this respect, note that it is possible to use metaphor referentially. Consider the following example:
+(1) The pig is waiting for his check.
+25
+
+Imagine (1) as uttered by a waitress who is sick of a male customer who is too fond of her. Here “the pig” refers to and suggests that he behaves in an immoral or somehow abusive fashion; the same meaning would be conveyed by the metaphorical expression That customer is a pig, where the metaphor is not used referentially but predicatively. Second, it is possible to use a metonymy non-referentially, as in (2) and (3) below:
+(2) She is a real brain.
+(3) She’s (just) a pretty face.
+In these two examples, different parts of a person tell us something about her characteristics. Interestingly enough, in these metonymies neither the brain nor the face refers to the whole person. Additionally, these observations suggest that there is a connection between the referential use of metonymy (and of metaphor) and the ‘stands for’ relationship. In (1) the metaphoric term “the pig” stands for the abusive customer because it refers to him. On the other hand, in (2) and (3) where the metonymy is not referential, the body parts do not stand for the person who has them. However, it is true that the predicative use of metonymies is not very productive and that the strongest impact of metaphor is precisely based on its non-referential use while referential uses of metaphor are very context-specific and hard to come by. This is a fact that has to be explained and we shall come back to it in section 1.5.
+Another working definition of metonymy is the one provided by Kövecses and Radden (1998: 39):
+Metonymy is a cognitive process in which one conceptual entity, the vehicle, provides mental access to another conceptual entity, the target, within the same domain or ICM.
+What is interesting about this definition is the fact that it makes no mention of either the referential use of metonymy or the ‘stands for’ relationship between entities within a domain. Instead, the authors incorporate into their definition Langacker’s suggestion that “the entity that is normally designated by a metonymic expression serves as a reference point affording mental access to the desired target (i.e. the entity
+26
+
+actually being referred to)” (Langacker, 1993: 30). The resulting definition is more subtle, but it does not avoid one of the problems of Lakoff and Turner’s characterization. It cannot account for non-referential metonymies, such as Mary’s just a pretty face, where the lexical item face does not provide conceptual access to another entity within the same ICM but to a feature of the item itself.
+This is precisely what happens with some metaphors, like PEOPLE ARE ANIMALS (see Ruiz de Mendoza, 1998: 262-263):
+(4) John is a pig.
+(5) John is a lion.
+In (4) John is presented as being dirty, nasty or immoral; in (5) the relevant feature is John’s courage. The difference between non-referential metonymies like Mary’s just a pretty face and metaphors like John is a lion is that in the latter the mapping involves different conceptual domains (people and animals), while in the former there is only one domain. When we say that Mary has a pretty face we think of Mary as having beautiful, attractive facial features so we are still dealing with the face ICM. Of course, in the final interpretation there is a strong implication, reinforced by the use of the adverb just, that there is nothing else in Mary which deserves attention apart from her beauty (i.e. she may not be very intelligent or she may lack other qualities which one would want to find in a woman). However, this goes beyond the meaning potential of the metonymic mapping itself. In any case, there is strong agreement that metonymies differ from metaphors in that the former involve just domain internal mappings. The notion of ‘domain’, therefore, appears as crucial in the tasks of defining metonymy and of distinguishing it from metaphor. The following subsection considers the different ways in which the concept of ‘domain’ has been understood in several contemporary accounts of metonymy.
+1.2. Metonymy and the notion of domain
+The importance of defining the notion of ‘domain’ in relation to metonymy is recognized in several studies. However, the conclusions reached by different authors on
+27
+
+this topic vary greatly. Furthermore, the overall impression, after close consideration of the different proposals, is that the notion of ‘domain’, in spite of being central to the understanding of metonymy, has not yet been delineated in detail. Let us consider the most influential views on this issue.
+Domains as cognitive models. An advantage of Kövecses and Radden’s account of metonymy is that it represents an attempt to determine the nature of the notion of ‘domain’, on which the concept of metonymy is based. The idea that metonymy is possible whenever there is a relation of ‘contiguity’ within a ‘conceptual domain’ is at the core of most cognitive definitions of this phenomenon. Following Lakoff (1987: 288), Kövecses and Radden understand those domains within which metonymic mappings may take place as idealized cognitive models or ICMs, which are meant to include not only people’s encyclopedic knowledge of a particular domain but also the cultural models they are part of:
+A first question we need to ask is where do we find metonymy? According to the above definition, metonymy may occur wherever we have idealized cognitive models. We have ICMs of everything that is conceptualised, which includes the conceptualization of things and events, word forms and their meanings, and things and events in the real world (Radden and Kövecses, 1999: 21).
+According to them, the fact that metonymy is based on ICMs is what makes this phenomenon so pervasive in language, since it cuts across different ontological realms. Besides, they claim that, as we develop ICMs in different areas of experience, including language, we can find metonymy at all these levels. With this idea in mind, they have set up a taxonomy where metonymic mappings are classified according to the ICM they belong to (for a more detailed description of the categories they distinguish see section 2.3.). These authors, however, do not make explicit the parameters chosen for the selection of the ICMs, which makes their taxonomy somewhat unreliable. In addition, Kövecses and Radden (1998) lack accuracy in delimiting the scope of the notion of ICM and do not make clear the way we obtain domains from ICMs (we shall deal with
+28
+
+the relationship that exists between them in section 1.4). By way of illustration, consider the following sentence:
+(1) Nixon bombed Hanoi.
+This example contains a metonymy in which by saying “Nixon” we refer to ‘the US army’. However, we do not employ all our knowledge about Nixon (i.e. the whole ICM) to perform the metonymic operation, but only our knowledge concerning the control relationship that holds between him and the US air force. This activation requires a specific reference domain different from the one that is needed for undestanding I can’t understand Nixon, where ‘Nixon’ stands for his way of acting in politics. All this suggests that no adequate definiton of metonymy can be made if we do not first distinguish the notion of domain from that of ICM (cf. 1.4).
+Domains as frames or schemata. The proposal in Koch (1999) hinges on a frametheoretical approach to metonymy. The conceptual knowledge structure within which metonymic mappings are said to take place is conceived in the form of a frame. The notion of frame is understood as a “specific unified framework of knowledge” (Fillmore, 1985: 223) or, in Koch’s (1999: 146) words as a “non-linguistic conceptual whole” made up of a variable number of elements.17
+In turn, Koch (1999: 154) defines metonymy as a “contiguity-based figure/ground effect between elements of a conceptual frame or between the frame as a whole and one of its elements (or vice versa)”. The choice of frames rather than other kinds of knowledge structure as the basis of Koch’s account of metonymy appears to be largely an ad hoc decision. No specific reason is given why frames should be preferred over other types of construct such as idealized cognitive models, scenarios, domain matrices, or encyclopedic networks. It would be unfair to object to this account on these grounds,
+17 The frame model of knowledge organization has its origin in studies carried out within artificial intelligence (Minsky, 1975) and developmental psychology (Piaget, 1952; Barlett, 1932). Minsky (1975: 212) defined a ‘frame’ as "a data structure for representing a stereotyped situation, like being in a certain kind of living room, or going to a child's birthday party". The notion of ‘schema’ as developed by Rumelhart and Ortony (1977), Rumelhart and Norman (1981), and Rumelhart (1975), is consistent with Minsky’s work. The notion of ‘frame’ was introduced into linguistics in two ways. In Europe, it was used within text linguistics in the study of discourse comprehension phenomena (Van Dijk, 1977). In the USA, it was applied to the study of word meaning in order to overcome some of the weaknesses of feature semantics (Fillmore, 1982, 1985).
+29
+
+however, since the same criticism would hold for those other theories of metonymy based on different types of conceptual structure (see discussions on Croft, 1993; Langacker, 1993; Thornburg and Panther, 1997; and Radden and Kövecses, 1999 in this section). Nevertheless, Koch’s proposal is in need of a thorough, solidly-argued description of the nature and scope of the notion of ‘knowledge domain’ upon which his definition of metonymy rests.
+Frequently, the use of well-known concepts like ‘frame’, ‘cognitive model’, ‘scenario’, etc. provides us with a false sense of security in dealing with knowledge organization. In most cases the meaning of these constructs has not been clearly delineated. Using familiar terminology (frames, schemas, ICMs and the like) when referring to the knowledge domain underlying metonymies is just a convenient and widely accepted way of dodging the issue. Thus, most linguists would agree that metonymy consists in a domain-internal mapping. However, this definition is useless unless the limits of the domain involved are neatly drawn. It is true that within an encyclopedic view of meaning, delimiting the boundaries of a knowledge domain becomes a difficult, if not impossible, task. We shall return to this issue n section 1.5. We shall argue that, like most concepts, a ‘knowledge domain’ need not be neatly bounded. It may be structured around a core of crucial knowledge attributes and, at the same time, it may include also peripheral information ad infinitum (cf. Ruiz de Mendoza and Otal, 1992, 1994a; Otal et al. 1993). This characterization of the notion of ‘domain’ will be useful in explaining the existence of more or less prototypical instances of metonymy.
+Going back to Koch’s account of metonymy, there is still another problematic aspect, namely, his claim that only prototypical frames or frame elements may be involved in metonymic processes. Let us consider Koch’s argument in detail. He analyzes the literal and figurative (metonymic) senses of a polysemous word like bar:
+(2)
+(a) literal sense: “bar1” = ‘counter’
+(b) figurative sense (through metonymic shift): “bar2” = ‘public house’
+30
+
+According to Koch (1999: 146), ‘public houses’ constitute a frame, one of whose elements is the ‘counter’. By virtue of the contiguity of these two concepts, which arises from the fact that one of them (i.e. ‘counter’) belongs to the frame represented by the other (i.e. ‘public house’), ‘bar’ may metonymically stand for the whole frame. Koch (1999: 149-150) further observes that it is necessary to admit that there may be public houses without a counter, which we would nevertheless call ‘bars’. Therefore, he concludes that metonymic shifts based on contiguity relationships only hold for ‘prototypical’ members of the conceptual categories involved. A prototypical public house has a counter, which licenses the metonymy BAR FOR PUBLIC HOUSE. In sum, according to Koch, it is on the basis of prototypical frames and contiguity that metonymy works.
+Now, consider the following examples:
+(3) The fur coat is waiting for her bill.
+(4) ?The sweater is waiting for her bill.
+(5) The striped sweater is waiting for her bill.
+In these sentences, ‘fur coat’, ‘sweater’, and ‘striped sweater’ are used metonymically to stand for the customer who is waiting for her bill. Let us first consider again sentence (3) in relation to Koch’s claim about metonymic mappings holding only between elements of ‘prototypical’ frames. It is clear that prototypical restaurants are not characterised in relation to their customers’ dressing habits. The prototypicality of the restaurant frame is established in relation to other variables like ‘place where food is served on tables’, ‘place for cooks, waiters, and customers’, etc. Moreover, if the customer’s outfit, following the dictates of encyclopedic semantics, is to be considered an element of the restaurant frame at all, it is indeed an extremely peripheral one. Its inclusion, despite its nature, would explain the metonymic interpretation of (3) and (5). However, it cannot account for the anomalous character of (4), in spite of the fact that a piece of the customer’s outfit is the vehicle of the mapping. From these examples, we conclude that it is not contiguity within the restaurant frame that licenses the metonymic shift. As illustrated by (3) and (5), metonymy is possible without postulating the
+31
+
+existence of a prototypical restaurant frame since we can use vehicles which are highly peripheral members of a given frame provided that they are members of it. And finally, (4) shows that the same type of peripheral element (i.e. ‘sweater’) may not always be suitable to carry out a metonymic operation. This suggests that we need to seek other criteria for defining metonymy. What (3) and (5) have in common, in contrast to (4), is that they are highly specific descriptions of a customer’s outfit and, by virtue of this, they provide a quick economic identification of a particular customer. This is why they are better examples of metonymy than (4), which is an infelicitous example of metonymy in unmarked contexts (it could be possible in a marked context in which only one person in the restaurant is wearing a sweater).
+It could be argued that in these examples the relevant underlying domain of reference is based not on the restaurant frame, but on the ‘people’ frame, the customer’s clothes being one of the elements included in it. So, the metonymy would not be OUTFIT FOR CUSTOMER, but OUTFIT FOR PERSON. This, however, would only provide a stronger argument against Koch’s suggestion that metonymy works in relation to prototypical frames. Thus, the less prototypical the outfit that a person is wearing, the better it will serve the identification function underlying the use of a metonymy like OUTFIT FOR PERSON and the better it will function as the source domain of a metonymic expression. Compare the following sentences:
+(6) ?The sweater is waiting for his bill.
+(7) The red sweater is waiting for his bill.
+(8) ??The pair of pyjamas is waiting for his bill.
+(9) ???The towel is waiting for his bill.
+(10) ?*The oak barrel is waiting for his bill.
+The source domain in (6), ‘sweater’, is a prototypical type of outfit. When used metonymically to refer to the person wearing it, its prototypicality renders the resulting metonymy useless or, at least, less powerful in the task of identifying a referent. This is why the metonymic expression in this example sounds strange. This oddity is overcome
+32
+
+in (7) through the use of the modifier ‘red’, which reduces the number of possible referents, and therefore, yields a more useful instance of metonymy.
+Consider now the oddity of examples, (8), (9), and (10) in the context of a resturant. Their strange character is related to the fact that we do not expect a restaurant customer to wear a pair of pyjamas, to be wrapped into a towel, or to be covered with an oak barrel. However, it is possible to find other contexts where it would not be so strange to find a person dressed in any of the ways mentioned, but where each of the outfits would still preserve its exceptionally low degree of prototypicality. In these contexts, the metonymies in sentences (8), (9), and (10) would be effective ways of identifying the individuals referred to. This suggests that there are two ways in which prototypicality is to be considered in order to determine the degree of felicity of a metonymic expression used to refer. One is internal and the other external to the linguistic expression. Thus, in (8), (9), and (10), there is low internal prototypicality. External prototypicality, on the other hand, varies with the context. It is low in the context of a restaurant, but it may be high in other contexts (for example think of a peculiar party where participants, who have been invited to dress in whimsical fashions, are expected to pay for their drinks). It is when internal prototypicality is low and external prototypicality is high that metonymic noun phrases seem to be more felicitous.
+Domains as encyclopedic networks. A similar problem seems to haunt the proposal made by Langacker (1987, 1993), who relates metonymy to “our capacity to invoke the conception of one entity as a cognitive reference point for purposes of establishing mental contact with another” (Langacker 1993: 1). The notion of metonymy as a ‘conceptual mapping’ loses importance in this definition in favour of the conception of metonymy as a ‘reference-point’ phenomenon.18 Even though Langacker’s view of metonymy as a point providing mental access to other entities is extremely original, it is still necessary to explain what makes an entity salient enough to function as a metonymic reference point to another entity. That is to say, it would be
+18 Langacker (1993: 1-2) regards ‘reference point’ as a wider cognitive phenomenon which underlies both linguistic and cognitive organization. Metonymy is regarded as just one manifestation of this phenomenon together with possessive constructions, topic and topic-like constructions, pronounantecedent relationships, etc.
+33
+
+necessary to determine what principles regulate the use of some entities rather than others in this capacity. Langacker (1993: 30) acknowledges that there is a need to carry out this task and puts forward a number of such principles:
+Other things being equal, various principles of relative salience generally hold: human > non-human; whole > part; concrete > abstract; visible > non-visible, etc.
+Unfortunately, he does not provide a consistent description of how these principles work or under what circumstances they may or may not apply. Some of the principles are easily overridden by others. By way of illustration, human > non-human is overridden by visible > non-visible in an expression like The buses are on strike. As a matter of fact, Langacker (1993: 30) himself states that every one of these principles may be overridden if the necessary motivation exists. This amounts to saying that there are hardly any constraints on metonymic phenomena, which is not a plausible position since not all metonymic mappings are possible. In our view, the constraints that underlie metonymic mappings stem from the nature of the ‘domain’ within which the metonymic shift takes place. As will be argued in section 1.5., an entity cannot function as a reference point to other entities which do not belong to the same domain matrix. It is crucial, therefore, to determine the scope and the limits of the domains involved in metonymic mappings.
+Domain highlighting. Another major contribution to the delimitation of the notion of ‘domain’ in relation to metonymic mappings is that of Croft (1993). In his wellknown paper entitled “The role of domains in the interpretation of metaphors and metonymies”, this author offers a lengthy discussion of the role of ‘domains’ in the definition of both metaphoric and metonymic mappings. Drawing on Langacker (1987), Croft (1993: 339) defines ‘domain’ as “a semantic structure that functions as the base for at least one concept profile (typically, many profiles)”. Moreover, since a concept may presuppose several different domains, Croft (1993: 340) uses the term “domain matrix” to refer to “the combination of domains simultaneously presupposed by a concept”. By way of illustration, in Croft’s account, the concept of ‘human being’ would be profiled in relation to a domain matrix which includes the domains of physical objects, living things, and volitional agents, among others. In turn, metonymy is defined
+34
+
+as a “mapping [which] occurs within a single domain matrix” (Croft, 1993: 348). Thus, it is possible for metonymy to occur across domains as long as these domains belong to the same matrix. On the other hand, metaphoric mappings take place between two domains that are not part of the same domain matrix.
+In a further and deeper attempt to distinguish metonymies from metaphors, Croft claims that only the former involve a process of ‘domain highlighting’. Croft’s (1993: 348) examples illustrating this notion are the following:
+(11) Proust spent most of his time in bed.
+(12) Proust is tough to read.
+Sentence (11) is interpreted literally, while sentence (12) is understood as involving a conceptual metonymy. Croft explains that in (11), it is the idea of Proust as a human being that is highlighted. In contrast, (12) highlights another aspect of the domain matrix for Proust, namely, that of creative activity. That is to say, the metonymy that shifts reference from ‘Proust’ to ‘Proust’s works’, also shifts domains from Proust [human being] to Proust [creator/author]. Additionally, in the understanding of example (11), the metonymy makes primary a domain which is secondary in the literal interpretation of (12). Croft further notices that ‘domain highlighting’ (1) is not a sufficient condition for metonymy, which also involves a shift of reference, and (2) is not a unique characteristic of metonymy, since it is shared by other types of lexical ambiguity. To borrow two of Croft’s examples in this respect, contrast:
+(13) This book is heavy.
+(14) This book is a history of Iraq.
+In these examples, the concept ‘book’ is profiled in two different primary domains: physical objects in (13) and semantic content in (14). The highlighting of each of these domains is activated by the requirements of the predicates ‘heavy’ and ‘a history of Iraq’ respectively. Although (13) and (14) highlight different domains of the concept ‘book’, these expressions are not to be treated as metonymic since, according to Croft, the elements profiled in each of those domains are highly intrinsic, in
+35
+
+Langacker’s (1987: 160) sense of the word intrinsic. That is to say, they do not involve a shift of domains within the domain matrix. We shall return to these examples in section 1.5 where we shall argue for centrality rather than intrinsicness as the fundamental criterion.
+In sum, Croft (1993) characterises metonymy as a shift of reference across two domains included in a larger domain matrix, which involves at the same time the highlighting of a domain that would otherwise be secondary. While we may agree to some extent with Croft’s views and especially with the significance of the highlighting process for the understanding of metonymy, his account is faced with two essential difficulties. First, it does not fully distinguish metonymy from metaphor. Second, it only accounts for referential uses of metonymy, thereby excluding instances of predicative metonymy. Let us discuss each of these problems in turn.
+According to Croft, ‘domain highlighting’ is an essential ingredient of metonymy. Nevertheless, Croft himself acknowledges that this is not a defining feature of metonymy, since it is shared by other types of lexical ambiguity. In addition to this, it should be pointed out that ‘domain highlighting’ is also relevant in some cases of metaphor. Thus, in metaphorical expressions like John is a pig, John is a lion, and the like, one feature of the source domain is highlighted and mapped onto the target (e.g. the filthiness of pigs, the braveness of lions, etc.). Other aspects of the domain matrices for ‘pigs’ and ‘lions’ respectively, such as the fact that pigs eat a lot and that lions have long hair, are not equally brought to the fore by the metaphoric mapping. Since metaphors of this kind also involve a process of ‘domain highlighting’ this is not a unique feature of metonymy. Once more, the necessity of looking for a different set of definitional criteria for metonymy becomes apparent. Moreover, Croft makes passing reference to the fact that ‘domain highlighting’ may not always be involved in the description of metonymy (see Croft, 1993: 350). However, he fails to explain under what circumstances this would be the case. Our interpretation of metonymy, which will later be spelled out in detail, will make it possible to determine in which cases ‘domain hightlighting’ is relevant in the production of metonymic mappings.
+36
+
+It has already been mentioned that Croft’s characterisation of metonymy is somehow incomplete in the sense that it only accounts for cases of referential metonymy. This is a direct consequence of the second part of his definition of metonymy as a ‘shift of referent’. In contrast to Croft’s claim, in predicative metonymies, like Mary’s just a pretty face, the lexical item face does not shift referent with another entity within the same ICM. The function of the metonymy is rather that of providing access to a specific feature (i.e. beauty) of the item face. So, a solid definition of metonymy should be broad enough to encompass both referential and predicative uses.19
+Domains as scenarios. Another proposal regards the ‘domains’ involved in some metonymic processes as scenarios (see Thornburg and Panther, 1997, and Panther and Thornburg, 1998, 1999, 2000).20 In an attempt to explain indirect speech acts as instances of illocutionary metonymies, these authors have described illocutionary categories in terms of scenarios. In their account, indirect illocutions are produced by making one element of the corresponding speech act scenario stand for the whole of it or for its central element (i.e. the ‘core’ in Panther and Thornburg’s terminology). By way of illustration, their description of the scenario for requests is the following (Thornburg and Panther, 1997):
+(i) The BEFORE: H can do A, S wants H to do A
+(ii) The CORE: S puts H under a (more or less strong) obligation to do A.
+The RESULT: H is under an obligation to do A (H must/should/ought to do A).
+(iii) The AFTER: H will do A
+19 A requirement which will be taken into account in the formulation of our own definition of this cognitive phenomenon in section 1.5. 20 ‘Scenarios’, like ‘frames’ are a kind of knowledge organization structure. The notion of ‘scenario’ stems from Schank and Abelson's (1977) concept of ‘script’, which differs from ‘frames’ and ‘schemas’ in its dynamic nature. A script or scenario can be thought of as a schema for a recurring sequence of events. Like frames and schemas, scripts have a number of variables which, according to Schank and Abelson (1977), can be divided roughly into two categories: thoselfilled by persons (‘roles’) and those filled by objects (‘props’). Furthermore, each script contains a series of ‘entry conditions’, a sequence of ‘scenes’, and a set of ‘results’. Schank and Abelson suggest that there exist scripts for many social events such as a visit to a restaurant, a trip, a visit to the doctor, etc.
+37
+
+According to Panther and Thornburg, different parts of this scenario for requests may stand for the whole illocutionary category that it describes. This explains why the following sentences can be used as requests:
+(15) Can you hold this?
+(16) Will you hold this?
+(17) You will hold this
+(18) Would you mind holding this?
+(15) activates one of the BEFORE components of the scenario, namely, the addressee’s capacity to perform the requested action. In (16) and (17) the AFTER component is the one that stands for the whole illocutionary category of requesting. And finally, in (18) it is the willingness element of the BEFORE component that is activated by means of a different expression.
+More recently, Panther and Thornburg (2000) have extended this notion of scenario to account for metonymies related to non-actional states of affairs as well. They claim that the State of Affairs Scenario can be metonymically exploited in ways similar to the Speech Act Scenario.
+While we agree with Panther and Thornburg on the necessity of formalising the information that makes up the domain upon which a metonymic shift may take place, there is one crucial aspect of their account which is in need of refinement: the fact that scenarios are not capable of accommodating all the relevant knowledge that may be involved in the production of a metonymy. Considering again their description of requests in terms of metonymic mappings within the corresponding illocutionary scenario, let us discuss these other examples of the act of requesting:
+(19)
+(a) Could you hold this?
+(b) Can you hold this?
+38
+
+(20)
+(a) Can you hold this for a second?
+(b) Can you hold this?
+(21)
+(a) Hold this, please.
+(b) Hold this!
+Panther and Thornburg’s proposal explains why all these pairs of sentences may function as requests. Each of them activates at least one variable of the request scenario. (19) and (20) refer to the ability condition of the BEFORE component. The sentences in (21) place the addressee under some obligation, therefore, instantiating the CORE component of the request scenario. Nevertheless, this is as far as Panther and Thornburg’s account goes in the explanation of requests by means of metonymies. They cannot explain why the sentences (a) of each pair are better examples of requests than their counterparts. The reason for this lies in the fact that the former activate some other features relevant to the characterisation of requests, such as the notions of cost-benefit, optionality, and politeness, which have not been included in Panther and Thornburg’s scenario21. Thus, the use of the oblique modals (“could”, “would”) or the adverb “please” increase the optionality of the addressee to decide whether he wants to perform the action or not. This increase in the optionality of the addressee results in a higher degree of politeness of the speech act, which is an essential element of requests, as will be explained in section 3.2. The prepositional phrase “for a second” in (20a) counts as an attempt to minimise or disguise the cost of the requested action. Minimization of cost also results in a greater degree of politeness, thus favouring the interpretation of the sentence as a request. Notions like these combine with some of the conditions of Panther and Thornburg’s scenario to activate further defining variables of requests; this results in the higher degree of prototypicality of sentences containing these elements as members of the category of requests. The main problem with Panther and Thornburg’s
+21 These notion have alsready been discussed in the literature. See, Leech (1983).
+39
+
+account, however, is not that these significant variables are not included in their scenario, but rather that it is difficult to imagine how a scenario, with its focus on dynamism and temporal sequencing, may be able to accommodate such information. In the light of the present discussion, understanding a ‘scenario’ as structuring a domain does not appear to be a fully reliable solution.
+1.3. The metaphor-metonymy continuum
+The difficulty in drawing a neat boundary between the phenomena of metaphor and metonymy (see discussion in section 1.1) has led some authors to posit the existence of a continuum between them. Evidence for this continuum has been provided by Dirven (1993) who claims that the metaphor-metonymy continuum hinges on the notion of ‘conceptual distance’; in this view the greater the conceptual distance between the source and the target domain of a mapping, the closer it will be to the metaphoric pole and vice versa. In this section, we revise Dirven’s account and we further argue that it is also possible to show the existence of a continuum between metaphor and metonymy from the point of view of the formal aspects of the mappings involved.
+Dirven (1993), following Jakobson (1971a), believes that the distinction between the syntagmatic and the paradigmatic potential of language lies at the basis of the metonymic and the metaphoric poles. In Jakobson’s account, metaphor is defined as a paradigmatic operation based on selection, substitution, the exploitation of similarity, and contrast, whereas metonymy is linked to the syntagmatic axis and is, therefore, based on combination and the exploitation of contiguity.
+Taking this definition of metonymy as a starting point, Dirven puts forward a taxonomy of metonymies in terms of three different types of syntagm:
+1. Linear metonymies are based on the traditional linguistic syntagm. For example, in the sentence Different parts of the country don’t necessarily mean the same thing when they use the same word, ‘different parts of the country’ stands for the inhabitants of those territories. This type of metonymy does not involve a significant shift of meaning. In other words, the conceptual distance
+40
+
+between the two domains involved in the mapping (i.e. ‘parts of the country’ and ‘inhabitants’) is small.
+2. Conjunctive metonymies entail a necessary and systematic change in meaning. In Tea was a large meal for the Wicksteeds, ‘tea’ stands for the meal that is associated with the drink ‘tea’. The conceptual distance between the two domains is larger than in the case of linear metonymies. The form “tea” has gradually extended its meaning from denoting a ‘plant’ to its ‘leaves’, and from the ‘leaves’ to the ‘drink’ which is elaborated with them, and finally to the ‘meal’ that is traditionally associated with the consumption of tea (i.e. main evening meal). The syntagm involved in the extension of the meaning of ‘tea’ is not of a linguistic, but of a sociocultural nature. What is important about conjunctive metonymies is that different extensions of a word are still connected via a natural link. No figurative process has yet taken place.
+3. Inclusive metonymies differ from the two previous categories in invariably exhibiting a figurative interpretation. In other words, the conceptual distance between source and target domains is larger than in the case of linear and conjunctive metonymies. In I don’t doubt but he’s got a good head on him, Dirven argues that “to have a good head” is to be figuratively interpreted with the meaning of ‘to be intelligent’. He further notes that “the distance between the sense (physical image) and the reference (mental reality) is so great that we can no longer speak of juxtaposition, but that there is a conceptual ‘leap’ from one world to another world” (Dirven, 1993: 9).
+These three types of metonymy form a continuum from more to less syntagmatic. Linear metonymies are the most clearly syntagmatic of the three and they are central members of their category. At the opposite end of the continuum, inclusive metonymies are the less syntagmatic and, therefore, closer to the metaphoric pole. Conjunctive metonymies lie somewhere in the middle.
+We find two main difficulties with Dirven’s account, both in relation to his typology of metonymies, and also regarding his criteria for the description of the
+41
+
+metaphor-metonymy continuum. Let us consider his three examples of metonymic types again:
+(1) Different parts of the country don’t necessarily mean the same thing when they use the same word.
+(2) Tea was a large meal for the Wicksteeds.
+(3) I don’t doubt but he’s got a good head on him.
+While Dirven argues that what differentiates these metonymic mappings is the ‘conceptual distance’ between domains, a closer look at the examples reveals that this may not be the case. If we compare examples (1) and (2), we observe that while both of them stem from a conventional metonymic mapping (i.e. LOCALITY FOR INHABITANTS and PART FOR WHOLE respectively), only the second one involves a lexicalization of the metonymy in a particular expression. The word tea has lexicalized the meaning ‘evening meal’ as one of its senses. The same degree of lexical conventionality has been achieved by "have a good head", meaning, ‘to be intelligent’. On the contrary, different parts of the country has not undergone this process of lexicalisation. In this case, only the underlying metonymic mapping, but not the expression itself, may be regarded as conventional.
+Now, if we compare examples (1) and (2) in detail, we may argue that Dirven’s criterion of ‘conceptual distance’ fails to distinguish them in a definite way. Consider the conceptual chain involved in the understanding of each of these examples:
+(1) Conceptual chain of metonymic links underlying the understanding of ‘tea’ as ‘evening meal’: ‘tea’-plant stands for ‘tea’-leaves; ‘tea’-leaves for ‘tea’-drink; ‘tea’-drink for ‘tea’-meal during which ‘tea’-drink is consumed; ‘tea’-meal for ‘tea’-meal even in those cases in which ‘tea’-drink is not consumed. The motivation for this chain has been already given above.
+(2) Conceptual chain of metonymic links underlying the understanding of ‘head’ as ‘intelligence’: ‘head’ stands for ‘brain’; ‘brain’ for ‘mind’; ‘mind’ for ‘intelligence’. This chain is motivated by the fact that the ‘head’ is the part of
+42
+
+the body where the brain is found; and the brain is conceived of as the site of the mind, which, in turn, is the location for ‘intelligence’.
+The two chains involve the same number of steps, and therefore a similar conceptual distance.
+In the light of the above discussion, it can be concluded that Dirven’s typology is useful in accounting for the different degrees of conventionalization and lexicalization of metonymy. In order to describe the continuum between metaphor and metonymy, however, it is necessary to look for other criteria. In our opinion, these criteria should be of a formal nature. Consider the following examples:
+(4) Our relationship has hit a dead end.
+(5) Achilles is a lion.
+(6) The pig is waiting for his check.
+(7) John is a brain.
+(8) The ham sandwich is waiting for his check.
+Sentence (4) is an example of the well-known conceptual metaphor LOVE IS A JOURNEY (Lakoff, 1987, 1993). In it we have a set of correspondences between the domain of ‘journeys’ and the domain of ‘love’, where the former helps us to structure, understand and reason about the latter.
+(5) is also a conceptual metaphor (i.e. PEOPLE ARE ANIMALS). According to Lakoff and Turner (1989: 170-171), this metaphorical expression involves at least three conceptual mappings: the lion is mapped onto Achilles, the structural relation between the lion and its ‘courage’ is mapped onto the structural relation between Achilles and his courage, and finally, the lion’s ‘courage’ is mapped onto Achilles’ courage. Ruiz de Mendoza (2000: 111-112) has argued that rather than these three correspondences what we have is just one correspondence where a central attributed feature of lions, i.e. courage, is mapped onto the corresponding feature in humans. The lion’s courage is understood in terms of its relation to its appearance and instinctual behaviour. This
+43
+
+conceptual structure, which serves as a base domain, is preserved in the mapping in such a way that we understand Achilles’ courage as being somehow instinctual and associated to his impressive appearance. In order to contrast metaphors of this kind with others, like (4) above, where there is a fully-fledged system of correspondences, Ruiz de Mendoza (1997, 2000) has referred to the former as one-correspondence metaphors and to the latter as many-correspondence metaphors.22
+Example (6) would qualify as another instance of one-correspondence metaphor where the notion of 'pig' allows us to interpret a person's behaviour as abusive. It differs from other one-correspondence metaphors, like (5), in that it has a referential function. In contrast, the metaphor in (5) is predicative in nature.
+The last two examples illustrate two instances of metonymic mapping. In (8), ‘ham sandwich’ stands for the customer and in (7), ‘brain’ stands for ‘intelligence’. In both cases we have just one-correspondence mappings, which differ from onecorrespondence metaphors in being domain internal mappings. While in LOVE IS A JOURNEY or PEOPLE ARE ANIMALS the correspondences hold between two discrete domains, in the case of CUSTOMER FOR ORDER or BODY PART FOR ONE OF ITS ATTRIBUTES, there is only one domain involved. (7) and (8) differ in that the former is predicative, whereas the latter represents a referential use of metonymy.
+From the examples given, it is apparent that metonymies are cases of onecorrespondence mapping within a domain. Metaphors can be of two types: either manycorrespondence or one-correspondence. But they always involve two distinct domains. Although both metaphors and metonymies can be used either predicatively or referentially, it is true that the predicative use of metonymy is not very productive and that the strongest impact of metaphor is precisely based on its non-referential use. It is possible, then, to argue for the existence of a continuum from many-correspondence mappings, with mainly a predicative function (i.e. central members of the ‘metaphor’ category), to one-correspondence mappings, which take place within a single domain and have a basic referential function (i.e. they are central members of the ‘metonymy’
+22 The distinction between 'many-correspondence' and 'one-correspondence' metaphors is dealt with in
+44
+
+category). In between these two extremes, we find a fuzzy area of less prototypical instances of both metaphor and metonymy, where there are cases of onecorrespondence mappings, either between two domains or within a single domain, and with either a predicative or a referential function.23
+Before concluding one final remark should be made regarding the typology of metaphors proposed above. The distinction between one-correspondence and manycorrespondence metaphors, although useful in laying bare the grounds on which the continuum between metaphor and metonymy is established, is not the only classification of metaphor types which exists in the literature. Apart from the criterion concerning the number of correspondences, taxonomies can be built according to other criteria such as the nature of the source domain or the level of specificity. Each of them profiles a different aspect of metaphor. In the following section we shall review the most interesting proposals which have been offered in Cognitive Linguistics and try to determine the degree of compatibility that holds among them.
+1.4. Classifying metaphor from different perspectives
+As was mentioned in the previous section, Ruiz de Mendoza (1997) has put forward a distinction between metaphor types based on the number of correspondences that hold between the source and target domains of the mapping. Metaphors can also be classified according to the nature of the source domain. This criterion was chosen by Lakoff and Johson (1980) to develop their taxonomy of conceptual metaphor; they distinguished three main types: structural, orientational, and ontological. In structural metaphors, one concept is structured and understood in terms of another concept (e.g. LOVE IS A JOURNEY; ARGUMENT IS WAR). Regarding orientational metaphors, these are related to spatial orientations (e.g. GOOD IS UP; MORE IS UP). Within this type not only a concept but a whole system of concepts is structured with respect to another (Lakoff and Johnson, 1980: 14). Finally, ontological metaphors allow us to deal
+more detail in section 1.4. 23 Section 1.5. provides arguments for the preferred predicative and referential character of metaphor and metonymy respectively, from the point of view of the type of mapping involved in each of them.
+45
+
+with abstract entities as if they were physical objects or substances (e.g. INFLATION IS AN ENTITY; THE MIND IS A MACHINE).
+Later on, this typology was refined in Lakoff and Turner (1989) so as to make it include cases of metaphor which were not considered in Lakoff and Johnson’s (1980) proposal. In this new light, the orientational group is broadened in order to encompass any kind of image-schema. This new group which subsumes both spatial orientations and topological constructs is labelled image-schema metaphors. In this fashion, the concept of ‘container’ -originally conceived as a source for ontological metaphors in examples such as He is in love, where ‘states’ are viewed as ‘containers’- is now regarded as a source for an image-schema metaphor. Another innovation of Lakoff and Turner’s (1989) classification is the treatment of ontological metaphors as an exploitation of a folk model which they label the Great Chain of Being. In this model, different kinds of entities are arranged in a hierarchy where human beings represent the higher order and natural physical things are located in the lower position. The items in the hierarchy are arranged in the following way:
+humans > animals > plants > complex objects > natural physical things
+The Great Chain of Being determines the relationships that exist between the different orders of the hierarchy. Thus, each level bears the properties attributed to the lower ones but also incorporates an additional distinctive feature. By means of this metaphor, we are able to understand human attributes in terms of corresponding animal attributes as in He is a rat, John is a lion, or Mary is a cow. All these expressions are instantiations of the PEOPLE ARE ANIMALS metaphor. In them, a culturally attributed behavioural feature of rats (i.e. meanness), lions (i.e. courage), and cows (i.e. stupidity) is used to describe people. In this respect Ruiz de Mendoza (1997) has noted that metaphors based on the Great Chain of Being are invariably cases of onecorrespondence metaphor. According to him, in this kind of metaphor a singular aspect of the source domain is singled out and mapped onto the target domain. For example, in John is a lion, the courage typically ascribed to lions serves to describe John’s behaviour.
+46
+
+Finally, Lakoff and Turner (1989) posit the existence of a fourth type of conceptual metaphor, which they call image metaphor. In these metaphors, a mental image and its structure is mapped onto another mental image with its structure; that is why metaphors of this kind are regarded by these authors as one-shot metaphors. These metaphors are very rich in visual imagery, which makes them less usual in ordinary language but more typical of poetic or literary language than the other metaphor types. An example of this metaphor type, drawn from Lakoff and Turner (1989: 92), is found in the sentence My horse with a mane made of short rainbows, where the image of a rainbow (with its curved lines) is mapped onto the image of the mane of a horse (with its arcs of curved hair). The classification which arises from the combination of Lakoff and Johnson (1980) and Lakoff and Turner’s (1989) proposal is diagrammed below:
+Structural metaphors
+Image-schema metaphors
+Ontological metaphors
+Image metaphors
+Figure 1: Metaphor types according to the nature of the source domain
+This metaphor classification has been refined by Ruiz de Mendoza (1999a) and Santibáñez (1999). First, Ruiz de Mendoza has argued for the existence of one type of metaphor, not included in Lakoff and Johnson (1980) or in Lakoff and Turner (1989), which he labels situational metaphor. Situational metaphors work on the basis of deriving generalizations from a conventional situation. This metaphor type usually appears in combination with a metonymic mapping, which has the function of mapping a concrete picture onto a wider situation. An example of this type is found in the expression To get up on one’s hind legs (cf. section 1.3). In this case the actual action of an animal rearing up on its hind legs stands for the whole situation in which an animal shows this kind of behaviour, usually out of fear, as if to attack. The complete scene is
+47
+
+the source domain of the metaphor which is mapped onto the target domain. Second, Santibáñez (1999) has offered an alternative classification of metaphors which incorporates Ruiz de Mendoza’s findings into Lakoff and Turner’s (1989) version. According to this author, metaphors can be divided into three main groups regarding the nature of the domain involved: structural metaphors, which encompass Lakoff and Turner’s (1989) structural, image, and image-schematic metaphors; ontological metaphors, which fully correspond to Lakoff and Turner’s (1989) Great Chain of Being metaphors; and finally, situational metaphors, which occupy a middle position between the two previous ones and shares some features with both of them.
+More recently, Peña (2001) has offered a very interesting classification which combines the two criteria described so far, namely the number of corrrespondences of the mapping and the nature of the domains involved. In her classification we can find two main types of metaphor: situational metaphors and metaphors based on the Great Chain of Being. The former correspond to structural and image-schematic metaphors and are many-correspondence mappings, whereas the latter coincide with ontological metaphors and are one-correspondence metaphors. Peña (2001) has further subdivided situational metaphors into experiential and scenic metaphors. Experiential metaphors are used to reason and talk about an event which is hard to describe because it belongs to the realm of inner, subjective experience. This metaphor type is instantiated by sentences such as He fell in love again after his wife’s death or She is in a good mood; both sentences portray situations which affect the person involved in them. Scenic metaphors, on the other hand, are used to deal with situations which pertain to the outer world of observable experience. This metaphoric type makes invariable use of metonymic development of its source domain (i.e. the situation to be represented metaphorically is only partially invoked by the linguistic expression). In addition, Peña (2001: 7) has noted that “in scenic metaphors an external observer of the state of affairs can become aware of some external sign”, which is not the case with experiential metaphors. An example of a scenic metaphor is found in You make my blood boil. In this sentence the metaphor correlates the visible physiological effects of anger (sweat, redness, etc.) with the visible effects of a liquid boiling inside a container. These physiological effects are also the source domain of a metonymic mapping whose target domain is anger or wrath. Finally, experiential metaphors may also incorporate a
+48
+
+metonymic component depending on whether or not they need a metonymy for their full understanding. Peña (2001) further distinguishes between prototypical experiential metaphors, which involve a metonymic mapping, as in Her heart sank, and imageschematic metaphors (e.g. He is in love). Peña’s (2001) taxonomy is diagrammed in figure 2 below:
+
+Metaphors based on the Great Chain of Being Scenic metaphors
+
+Situational metaphors
+Experiential metaphors
+
+Prototypical experiential metaphors
+
+metaphors
+
+Image-schematic
+
+Figure 2: Peña’s (2001) taxonomy of metaphor types.
+Peña's classification introduces considerable refinement into former proposals. However, we believe that it misses two points. First, it proposes a basic division between situational and ontological (or Great Chain) metaphors, but not all nonontological metaphors are situational. Second, it considers image-schemas as experiential. While it is true that image-schemas are pre-conceptual structures that arise directly from our sensory-motor experience, it is also true that these constructs have a fundamentally topological nature. Thus, we believe that metaphors based on imageschemas pattern more naturally with image metaphors. We further claim that the basic parameter in setting up a classification of metaphor types is the presence or absence of a well-developed system of correspondences in the source domain. In terms of this
+49
+
+criterion, we distinguish two broad groups: structural and non-structural metaphors. Structural metaphors are always many-correspondence mappings while non-structural metaphors involve only one correspondence from the perspective of the formal features of the mapping process. Within the non-structural group we find two subgroups: orientational (e.g. HAPPY IS UP) and ontological (e.g. PEOPLE ARE ANIMALS), both of which coincide with Lakoff and Johnson’s (1980) groups.
+The structural group, on the other hand, can be divided into two subgroups: situational and non-situational metaphors, which are in turn further subdivided into three metaphor types: image-schematic, image, and propositional metaphors. As its name suggests, in image-schematic metaphors one or various image-schemas are crucial for the construction of the source domain of the metaphor. For example, in To be in trouble, the structure and logic of the CONTAINER image-schema provides all the information necessary for the creation of the source domain of the metaphor. Image metaphors are the result of mapping two images which in a certain way share a common topology. As has been pointed out above, one of the main features of this metaphor is that the target domain is not necessarily more abstract in nature than the source domain. For example, consider the following extract from The Tempest:
+(1) The fringed curtains of thine eyes advance and say what thou see’st yond (William Shakespeare, The Tempest, I, ii)
+This expression compares the curtains of a theatre to the eyelids of a person. The metaphor is based on a singular experience; in them, the two images which form the source and target domains of the metaphor have an overall common shape. Thus, the pupil corresponds to the stage, the people reflected in the pupil are mapped onto the actors on stage, the eyelid is the curtain and the eyelashes correspond to the fringes of the curtain. Besides, as the previous set of correspondences show, the source and target domains also share the same level of abstraction.
+Propositional metaphors include mappings such as ARGUMENT IS WAR or LOVE IS A DISEASE, where the source is a non-situational, non-topological construct and the target domain is a concept which, because of its abstractness, is sometimes
+50
+
+difficult to comprehend and deal with. By means of this metaphor type, the conceptual structure of the source domain is used to reason and talk about the target domain. Consider in this respect the classical example LOVE IS A JOURNEY:
+Travellers map onto lovers.
+The vehicle maps onto the love relationship.
+Travellers’ common destinations map onto lovers’ common goals.
+Impediments to travel map onto difficulties in the relationship.
+Subsequently, this system of correspondences underlies several expressions about love which we can only understand with reference to this metaphor (e.g. Our marriage is on the rocks; Our relationship is going nowhere; We are spinning our wheels).
+Finally, situational metaphors present a fragment of a scene which needs to be metonymically developed so as to invoke the complete situation, which is then metaphorically mapped onto the target domain. Consider the expression To beat one’s breast, as used to indicate that a person openly shows his anger or sorrow. This expression is based on a real-life situation in which the actual beating of one’s breast involves the idea of remorse or wrath. However, in the target domain of the metaphor no real beating takes place. Situational metaphors are further subdivided into non-scenic and scenic metaphors. Scenic metaphors are those which invoke an observable situation. By way of illustration, consider the expression He left with his tail between his legs, which allows us to picture a situation in which a person is humiliated in terms of the corresponding situation in which a dog is beaten and runs away with its tail between its legs. By contrast, non-scenic metaphors involve situations which cannot be observed. For example, Her heart was in her mouth, where there is not any external feature of the situation referred to by the metaphor. The classification offered above is summarized in the following diagram.
+51
+
+Orientational metaphors
+
+Non- structural metaphors
+
+metaphors
+
+Ontological metaphors
+
+Imageschematic metaphors
+
+Non-situational
+
+Topological metaphors
+Image
+
+metaphors
+
+Structural metaphors
+Situational metaphors
+
+Non-topological (propositional) metaphors Non-scenic metaphors
+Scenic metaphors
+
+Figure 3: Metaphor types according to the nature of the source domain.
+Another classificatory criterion for metaphor is based on the kind of correspondence which holds between the source and target domains. This possibility has been studied by Grady (1999), who has distinguished between correlation and resemblance metaphors. The former “involve a correlation between distinct dimensions
+52
+
+of experience” (Grady, 1999:86) such as MORE IS UP. Resemblance metaphors, in turn, take place when the source and target domains share some features, which prompt the metaphoric mapping. For example, in John is a lion, the shared feature is ‘courage’. Grady’s (1999) taxonomy is very interesting in that it makes evident the different groundings for metaphor and in that it bridges the gap between the classical -now discredited- similarity theory and Lakoff & Turner’s (1989) more recent resemblance hypothesis. While the former is based on full literal similarity, the latter focuses on the non-literal perception of some shared features.
+Metaphors can also be classified according to the degree of complexity of the metaphoric operation. Thus, Grady (1997, 1998) has distinguished primary metaphors from compound metaphors24. The former, which are the direct product of correlations which arise from our experience, frequently combine among them to create compound metaphors. For example, Grady (1998) shows how the CONDUIT metaphor is the result of the combination of the following primary metaphors:
+CONSTITUENTS ARE CONTENTS (e.g. The main idea in what he said)
+BECOMING ACCESSIBLE IS EMERGING (e.g. His innermost musings finally surfaced)
+TRANSMISSION OF ENERGY IS TRANSFER (e.g. Give a speech)
+ACHIEVING A PURPOSE IS ACQUIRING A DESIRED OBJECT (e.g. I can’t grasp that argument).
+The source domain of primary metaphors comes directly from our sensory-motor experience. In consequence, the source domain of these metaphors shows a lower degree of abstraction than their target domain. Nonetheless, the source domain of primary metaphors is still more abstract in nature than the source domain of ontological and situational metaphors. It is worth remembering that the source and target domains can only share the same level of genericity when we are dealing with reference point phenomena (i.e. metonymy) or when there is only one correspondence in the mapping.
+53
+
+On the other hand, the source domain of a primary metaphor must be more abstract than the source domain of an ontological or situational metaphor because they are metaphors with different ontological status and different communicative purposes. In primary metaphors we correlate experience whereas in non-primary metaphors we are linking different aspects of the domains involved by resemblance. Finally, it follows from the previous discussion that primary metaphors always work on the basis of correlation.
+A final parameter which can be chosen to classify metaphors is the nature of the mapping system. Thus, we have seen that metaphors may be either one-correspondence or many-correspondence mappings. Since the main features of this distinction have already been expounded in the previous section, we shall not repeat them again. In the next section we shall study its special importance for a correct definition of metonymy.
+In this section we have discussed four different criteria which may be followed in developing taxonomies of metaphor types. Each of them has been shown to profile a different aspect of the phenomenon in such a way that all of them prove to be compatible among themselves. By way of illustration, the expression John is a lion, which is an instantiation of the metaphoric mapping PEOPLE ARE ANIMALS, can be classified simultaneously as ontological, based on resemblance, and onecorrespondence; or MORE IS UP can be classified as non-situational, orientational, correlational, and one-correspondence.
+1.5. Criteria for a definition of metonymy
+The review of some contemporary accounts of metonymy in the previous four sections has raised several important questions:
+(1)If both metonymy and metaphor can be found in ‘stands for’ relationships and both can be used predicatively and referentially (see section 1.1), what are the truly definitional criteria for these two phenomena?
+24 Primary metaphors are sometimes referred to in the literature as primitive metaphors. Similarly, compound metaphors may be called complex metaphors.
+54
+
+(2)Why is the predicative function primary in metaphor and the referential function primary in metonymy? (see section 1.3)
+(3)If metonymy is defined as a contiguity relation within a conceptual domain, what are the limits of the domain involved? How much information does it contain? Should ‘fur coats’, for instance, be included within the restaurant domain? (see section 1.2)
+(4)When is the notion of domain highlighting NOT relevant in the production of metonymic mappings? (see section 1.2)
+In this section we attempt to offer some plausible answers to these questions and, at the same time, to put forward an alternative definition of metonymy in terms of its formal constituents.
+1.5.1. Distinguishing metonymy from metaphor
+In section 1.1, it was pointed out that neither the ‘stands for’ nor the ‘referential’ criteria are definitional of metonymy, since they may also be found in some cases of metaphor. These similarities between metaphor and metonymy seem to require a different definitional treatment for both phenomena. In Ruiz de Mendoza (1997) this problem has been solved by distinguishing between two types of metaphor from the point of view of the formal nature of the mapping process. On the one hand, we have one-correspondence metaphors and, on the other hand, we have many-correspondence metaphors. The difference is very simple. As a conceptual mapping a metaphor consists of a number of correspondences between its source and target domains. In some metaphors, there may be just one correspondence between source and target while others may have a fully-fledged system. One case of many-correspondence metaphor would be ARGUMENT IS WAR, which is characterized by several correspondences, as we have seen above. This mapping system lies at the base of metaphoric expressions like I was attacked on all sides, I won the debate, and He shot down all my arguments, among many others. Consider now this example:
+55
+
+(1) We’ve got to keep exploring this problem but I don’t really know if we’re close to the solution, even though the evidence all seems to point in the same direction.
+In this example, a problem is seen as a region (e.g. a landscape) which has to be explored. The solution to the problem is thought to be concealed somewhere in the region and there are clues (i.e. the evidence) as to where the solution may be found. We have several types of relevant correspondences:
+- A solution to a problem is an object hidden somewhere.
+- Investigating the problem is exploring the region where we expect the object to be hidden.
+- Finding the solution to the problem is discovering the place where the object is hidden.
+- Evidence is a guide in the search.
+The examples given are clear indications that the function of manycorrespondence metaphors is to structure and reason about as many aspects as possible of abstract notions like war or a problem.
+A good example of one-correspondence metaphor is the PEOPLE ARE ANIMALS system, which we have discussed above. In this system, as we have seen, human behaviour is interpreted in terms of (culturally attributed or observable) animal behaviour. For example, lions are thought to be courageous, which explains the meaning of John is a lion. The function of one-correspondence metaphors is to bring into focus one aspect of the target domain which is then applied to the source. In the case of PEOPLE ARE ANIMALS, this aspect is the attributed animal behaviour. The metaphor may also have to do with physical attributes as in He has an eagle eye for details and even, through less frequently, with physical appearance. Thus, when we think of John as a lion his braveness may be partially associated with his appearance. In the one-correspondence metaphor PEOPLE ARE PLANTS, appearance seems to play a more important role. Consider She was blooming with health and She is a tender rose.
+56
+
+In these examples behaviour is not relevant possibly because it is difficult to attribute behaviour to plants. Finally, consider the metaphor PEOPLE ARE MACHINES and its converse MACHINES ARE PEOPLE. Machines are functional objects which do a certain type of work. This makes it easy to interpret certain forms of human behaviour in terms of the way a machine works: for example, we may think of a person working untiringly as a machine (e.g. That judge is a deciding machine) or of a person who ceases to behave in a normal way (or who simply stops doing things because of some difficulty) as having a functional problem (e.g. He has had a breakdown). In the case of MACHINES ARE PEOPLE we attribute intentionality to the actions of a machine, as in My phone is playing up again or My computer is spewing garbage at me.
+Metonymies are, like the metaphors PEOPLE ARE ANIMALS, PEOPLE ARE PLANTS, and PEOPLE ARE MACHINES, cases of one-correspondence mappings. Consider the following examples:
+(2) I have bought a Ford.
+(3) The ham sandwich is waiting for his check.
+(4) She’s just a pretty face (cf. example (3) in section 1.1 above).
+In (2) the mapping is from the company to the type of car produced by the company. In (3) there is only one correspondence between the customer and his order. In (4) the correspondence is between one attribute of Mary’s face and Mary. On the other hand, the following examples illustrate that one-correspondence metaphors may also be used referientially, whereas many-correspondence metaphors may not:
+(5) The pig is waiting for his check.
+(6) Look boys, here is the chicken.
+(7) There goes the damned rat who betrayed me.
+(8) My tender rose abandoned me.
+57
+
+This suggests that the preferred referential use of metonymies is closely connected to the fact that they cannot be anything but one-correspondence mappings. Let us consider why.
+In a one-correspondence mapping one attribute of the source is highlighted and made to correspond with one attribute of the target. Highlighting an attribute serves the same function as providing a relevant description of the entity we are talking about. In this sense, the target is enriched conceptually and as a result gains referential potential, which makes it readily available for referential use. This is very similar to what happens with definite descriptions; the greater the number of adjectives and modifying noun phrases we add to them, the greater their capability to refer (cf. The tall man vs. The tall, strong man wearing a brown hat and carrying an umbrella).
+Since there are one-correspondence metaphors, and both metaphor and metonymy may be used referentially and predicatively, the sole (and crucial) distinguishing feature between metaphor and metonymy is to be found in the domain-internal nature of metonymic mappings which contrasts with the domain-external nature of metaphoric mappings. In this connection, we argue that there are two types of metonymy.
+(1) Source-in-target metonymies: those in which the source domain is a subdomain of the target domain, as in We are always in need of some new hands in the farm, where by ‘hands’ the speaker refers to the labourers who are going to do hard physical (usually manual) work. Figure 4 illustrates this type of metonymic mapping:
+58
+
+Figure 4: Source-in-target metonymy
+(2) Target-in-source metonymies: those in which the target domain is a subdomain of the source, as in She’s learning to tie her shoes where ‘shoes’ means ‘shoelaces’:
+SOURCE
+TARGET
+Figure 5: Target-in-source metonymy
+It has been traditionally assumed that metonymy involves an additional part-forpart relationship (i.e. one subdomain within a domain stands for another subdomain within the same domain). Examples of this metonymy would be Nixon bombed Hanoi and Napoleon lost at Waterloo (Lakoff and Johnson, 1980: 38), where the ruler stands for the army under his command within the frame of war. Other examples would be based on other frames: the product frame, as in The company hired a new editor, I have been reading a lot of Plato lately; the location frame, as in The White House isn’t saying anything; and others. However, we argue that all these are simply instances of target-in-source metonymy. There are several linguistic phenomena which are better accounted for if we adopt this view and which help us understand why this is a more elegant solution (see Ruiz de Mendoza, 2000: 115-120). However, we will not deal with them at this point. For the time being, we shall simply point out that it is possible to think of the armies under Nixon and Napoleon’s command as part of our knowledge of
+59
+
+them. We know that both rulers were in control of their armies. In a similar way, we know that it is not the whole company but someone already working for it that is in charge of employing new people. In this view, Plato’s work is part of the conceptual domain for Plato, and the White House refers to some officials who work in the White House, which makes it reasonable to think of them as a subdomain of the White House. One further example will make this evident. Compare:
+(9) The ham sandwich has left without paying.
+(10) The fur coat has left without paying.
+Proponents of the existence of part-for-part metonymies, such Taylor (1995: 123), consider (9) as an example of this kind of mapping within the restaurant frame or ICM. And of course both the ham sandwich and the customer belong to this frame. The question is whether, for the purpose of the metonymic operation to be carried out, we can or cannot consider the ham sandwich to belong to the customer domain. Sentence (10) provides us with an interesting clue. Imagine that the customer is a lady who wears an expensive fur coat and leaves without paying. The fur coat is not part of the restaurant ICM any more than a pair of sandals or any other article of clothing (cf. the analysis of the ‘striped sweater’ and related examples in section 1.2). It is rather part of the customer ICM, but it serves the same referential function as the ham sandwich. It is only a contextual reason that makes it more relevant to identify the customer by her clothing than by what she has ordered. Thus, (10) is more appropriate as an expression of surprise that an apparently wealthy person did not pay the bill than a sentence like The chicken salad has left without paying.
+In the light of our discussion, we find it reasonable to reduce metonymic types to cases where the target is a subdomain of the source (target-in-source metonymies) and to those where the source is a subdomain of the target (source-in-target metonymies). We shall further refer to the main domain by the label matrix domain.
+Now it is possible for us to answer our question as to why metaphors lend themselves more readily to predicative uses than metonymies, and viceversa, metonymies are primarily used referentially:
+60
+
+(i) Many-correspondence mappings have no referential potential since they are used to structure a conceptual domain. They can only be used predicatively.
+(ii) Metaphoric one-correspondence mappings (i.e. those carried out across different domains) have weak referential potential, as the scarcity of examples and their strong dependence on the context (i.e. their low degree of conventionalization) shows. Their preferred use is to highlight one specific quintessential characteristic of the source which will then be applied to the target. On occasions, this characteristic, given the right context, will serve the purpose of providing the language user with a densely packed description which can be safely used to uniquely identify a referent.
+(iii) In contrast, metonymic mappings, which are, by definition, onecorrespondence mappings, have a strong referential potential, but at the same time their predicative potential is weak. This is related to the fact that the metonymies are constructed on the basis of just one conceptual domain, which makes it difficult to map the structural relation between source and target onto the target since one of its domains is already part of the other. It is only in grammatical constructions which force the language user to bring out a quintessential characteristic of the source to map onto the target that we can have a predicative use of a metonymy.
+It is interesting to note that the only predicative uses of metonymy which we find need to fulfil two conditions: (i) the source has to be a clear subdomain of the target; (ii) if no quintessential feature has been determined by convention in the source, it has to be possible to use some linguistic mechanism which brings out such a feature. For example, compare:
+(11) ??That customer is a ham sandwich.
+(12) That customer is a brain. (13) (a) ?She is a face.
+61
+
+(b) ?She is her face.
+(c) She is a pretty face.
+Condition (i) rules out the ham sandwich example but licenses sentence (12), where there is a quintessential feature (‘intelligence’) established by convention. The use of the attributive adjective “pretty” in (13c), which singles out the relevant feature which the speaker finds relavant, makes it possible to perform the mapping. This is in fulfilment of condition (ii). Condition (i) is also observed since the face (the source) is a clear subdomain of the concept of person.
+It might be argued that sentences like John is a brain or Mary is a pretty face are not metonymic but metaphorical, or that they are borderline cases. However, if this were so, there would be a strange asymmetry in postulating the possibility of using onecorrespondence metaphoric mappings both predicatively and referentially, while onecorrespondence metonymic mappings would only be referential. Also, when a speaker says that Mary is a pretty face he is thinking of the beauty of her face. The same holds for John is a brain. We think of the excellent intellectual faculties of John’s brain.
+If our observations are correct, this provides further evidence (see section 1.3) in favour of the existence of a continuum from metaphor to metonymy, with cases of many-correspondence mappings at the metaphoric end, and clear cases of referential metonymy at the other end. Referential uses of metaphor and predicative uses of metonymy would be in the middle. Second, we may separate metaphor from metonymy simply by looking into the nature of the relationship between the domains involved in the mapping. A metaphor is a mapping across different domains, while a metonymic mapping is domain-internal.
+1.5.2. The boundary between metonymy and literal uses of language
+The analysis carried out above has allowed us to distinguish metonymy from metaphor. However, we still need to draw the boundaries between metonymic and literal uses of language. Consider the sentences:
+(14)
+62
+
+(a) Neanderthal man’s brain was larger than that of modern man, if less well developed.
+(b) His damaged brain does not allow him to move half of his body any longer.
+(c) Your brain allows you to think and talk.
+(d) Her brain was full of ideas.
+(e) He has an excellent brain, sir.
+As a bodily organ a brain has a number of physical characteristics in terms of shape, size, weight, and function. Examples (14a-c) are based on this understanding of the concept of ‘brain’. If we use Langacker’s (1987) terminology we would say that in these sentences the concept of ‘brain’ is profiled in the domains of size and function. However, in (14d) and (14e) the word “brain” is used in a different way. In (14d), the concept of ‘brain’ is used metaphorically as a container for ideas which are also seen metaphorically as physical entities. Ideas are the stereotypical result of brain activity: culturally, the quintessential feature of a brain, the characteristic which we are better aware of, is that it allows us to think. This stereotypical feature plays an essential role in the preferred interpretation of (14e). Here the brain is seen, like in (14b) and (14c), in terms of one of its functions, but there is a crucial difference. In (14e) the function is not mentioned explicitly but is left for the speaker to infer. The adjective “excellent” applies by default to the stereotypical quality of the brain as the organ that allows us to think. The expression “an excellent brain”, however, could be taken to apply, in the right context, to one of the physical qualities of brains. For example, imagine that a butcher is selling brains to eat; in this context, the adjective “excellent” would apply to the quality of a brain as an edible part of an animal. Or in a (still) fictional situation in which a physician is capable of carrying out a brain transplant the adjective “excellent” would apply to the organ as a whole. So, only in the stereotypical interpretation can (14e) be said to have a metonymic reading where we go from the concept of ‘brain’ (the matrix domain) to the subdomain of its ability to think. If this is so, we need to find what allows the metonymic shift to take place in this situation. It may be suggested that the
+63
+
+crucial parameter is the degree of centrality of the different subdomains of ‘brain’25. As a physical organ, it is impossible to conceive of a brain without shape, size, and weight; it is also difficult to think of a brain which cannot be eaten (however disgusting this may be for some people). But it is possible to think of a non-functional brain (e.g. one which is dead). The ability to think and understand (i.e., intelligence) is not a central characterization of the concept of ‘brain’. This is the reason why, in the default interpretation, there is a metonymy in (14e). Consider now the following sentences (see also our discussion of the related examples in section 1.5.4 below):
+(15)
+(a) The burglar broke the ground-floor window.
+(b) The burglar came in through the ground-floor window.
+In (15a) we typically understand that what the burglar broke was the window pane, not the frame or the handle. When we think of a window we picture in our minds an opening in a wall which has glass in it so that light can come in and we can see out, and which protects us from the wind, the rain, or bad weather in general. Windows usually have frames inside which the glass pane is fitted and often a handle to help us open and close them. However, we can think of a window without a pane, or without a frame or a handle, so these are not central characterizations of the concept. But we cannot think of a window if there is no opening. This is the central characterization which allows us to understand (15b) non-metonymically, while (15a) requires a metonymic shift.
+Let us add one final example to reinforce our view:
+(16)
+(a) She threw a bottle at me.
+25 As discussed in section 1.2, Croft (1993) has attempted an explanation of metonymy in terms of ‘intrinsicness’, one of the four criteria which -together with conventionality, genericity, and uniquenesshave been put forward by Langacker (1987: 160) in order to determine the centrality of a semantic specification. Ruiz de Mendoza (1997, 2000) discusses some of the weaknesses in Croft’s account and proposes centrality, not just one of its properties, as the relevant criterion to determine whether there is a case of figurative or literal use of language.
+64
+
+(b) He opened ('uncorked') a bottle of good wine.
+(c) John drank a whole bottle.
+(d) John smashed the bottle.
+A bottle is a container, shaped like a cylinder with a narrow top, and is used for keeping liquids in. It is usually made of glass or plastic and is closed with a cap, top or cork. The central characterization of a bottle is provided by the fact that it is a container which can be opened or closed. The rest of the features which we have mentioned are secondary. This makes us understand (16a) and (16b) as non-metonymic, while the other two sentences require a metonymic shift: in (16c) the shift is from ‘bottle’ to the liquid in it, and from ‘bottle’ to the (typically) glass material which it is made of in (16d).
+Taking into consideration all of our previous observations, we are now in a position to refine our initial definition of metonymy. Thus, we may define metonymy as a domain-internal one-correspondence conceptual mapping where the matrix domain can be either the source or the target of the mapping and where the target domain is a non-central characterization of the source. This latter requirement is immaterial in the case of source-in-target metonymies, since in them the target will always be the matrix domain.
+Finally, we must note that there is an essential difference between the two metonymy types which we have postulated. Source-in-target metonymies (like the ham sandwich example) involve domain expansion (i.e., by mentioning part of a domain we invoke it fully), while target-in-source metonymies (like the bottle example) involve conceptual reduction and the consequent highlighting of part of a domain. It is very often the case that a speaker makes use of a target-in-source metonymy when he wants to refer to an entity whose description he is unable to pin down accurately. This is typical of the INSTITUTION/COMPANY FOR PEOPLE RESPONSIBLE metonymy. Institutions are usually complex, which makes it difficult for people little acquainted with them to know well all the details about their organizational structure. But the institution is ultimately responsible for what the people who work in it do. This
+65
+
+facilitates the metonymic shift which may vary depending on the knowledge the person has. For example, the sentence Sears approved our credit card application would be meaningful both for someone who knows the internal procedures of the company and for the person who does not know them, but in a different way. For the former it may invoke the specific department or committee inside Sears, while for the latter it may be enough to bring up a rather vague specification like ‘the people in charge of credit card applications’.
+1.5.3. Nature and scope ofthe notion of ‘matrix domain’
+In section 1.2, it was amply shown that the notion of ‘domain’ is understood in different accounts of metonymy in terms of a variety of specific models of knowledge organization, including cognitive models, frames, scenarios, or domains. It was further argued that some of these principles of knowledge organization (particularly scenarios) are not broad enough to include all the necessary information to explain certain types of metonymic mappings (e.g. illocutionary metonymies). It was also pointed out that there is an urgent need to provide a solid definition of ‘domain’ (something which to the best of our knowledge has not yet been attempted) as a preliminary step on the way to reach a better understanding of metonymic mappings. We have defined metonymy as a onecorrespondence conceptual mapping within one matrix domain. Since this definition relies heavily upon the notion of ‘matrix domain’, it is necessary to devote some space to an explanation of the nature and scope of this concept in terms of our account. Otherwise, the definition would be void.
+Within the encyclopedic view of meaning, Langacker (1997: 235) regards ‘domains’ as quite open conceptual structures which may include information from the context of situation and/or from the previous discourse. This description may lead us to believe that the notion of cognitive domain is very close to that of ‘idealized cognitive model’ (Lakoff, 1987). The similarities between the two concepts have been spelled out in Taylor (1995: 86 ff). Langacker (1987: 147) further defines a ‘domain’ as a conceptual structure which functions as the background (i.e. a ‘base’) against which other concepts can be understood or “profiled”. By way of illustration, the notion of ‘arch’ is profiled against the concept of ‘circle’, which functions as its base. One
+66
+
+concept can be profiled in relation to more than one base domain. ‘Finger’, for instance, can take the domains of ‘hand’, ‘shape’, or ‘physical object’ as its base. The sum of all the domains underlying a concept has been labelled ‘domain matrix’ (Langacker, 1987: 147). As Taylor (1995: 86) remarks, the notions of ‘profile’ and ‘base’ are implicit in Lakoff’s (1987: 74 ff) account of meaning. In his analysis of the concept ‘mother’, this author claims that five propositional cognitive models are required in its understanding: the ‘birth’ model (the woman who gives birth to the child is the ‘mother’), the ‘nurturance’ model (the woman who nurtures and brings up the child is the ‘mother’), the ‘marital’ model (the woman who is married to the child’s father is the ‘mother’), the ‘genetic’ model (the woman who contributes the genetic material is the ‘mother’), and the ‘genealogical’ model (the closest female ancestor is the ‘mother’). These models converge into what Lakoff (1987: 74) calls a “cluster model”, which, in principle, appears to correspond closely to Langacker’s notion of ‘domain matrix’. Thus, each of the converging models would correspond to a base domain against which the concept of mother can be profiled.
+Nevertheless, in spite of this apparent similarity, a crucial difference can be observed between Langacker’s ‘domains’ and Lakoff’s ‘cognitive models’. If we follow Langacker, we would have to understand each of the converging cognitive models as having its own inner structure, an assumption which is not present in Lakoff’s account. The ‘birth’ model, for example, would be profiled against a number of base domains, including (i) the ‘procreation’ domain characterized by the existence of sexual interaction, partners, etc.; (ii) the ‘pregnancy’ domain which includes nine months pregnancy, cravings, a foetus, etc.; and (iii) the ‘birth’ domain with a hospital, birth wards, the midwife, going into labour, etc. Each of these domains functions as a frame of reference for the activation of part of the information (i.e. only relevant information) contained in a cognitive model (cf. Santibañez, 1999).
+In view of the above comparison between cognitive models and domains, it becomes apparent that both notions, in spite of their apparent similarity, are quite distinct. Moreover, they need to be kept distinct, since they are both useful in explaining the way in which we organize and access our knowledge. Our own notion of ‘matrix domain’ makes use of both. We understand a cognitive model as a conventionally
+67
+
+structured semantic configuration and a domain as a frame of reference for the activation of part of the information of a cognitive model. Thus, going back to the concept ‘mother’, the different converging models are to be regarded as the base against which this concept is understood and, in this sense, each of them constitutes a matrix domain. But, at the same time, the conceptual structure of each of the converging models needs to be profiled against other base domains, whose activation is determined by the notion of ‘mother’. This description refines the notion of cognitive model, in such a way that it is understood, not just as a base domain, but also as internally structured by a number of subdomains, which are profiled in relation to other domains external to the cognitive model.
+1.5.4. Domains and subdomains: the relevance of ‘domain highlighting’
+Metonymy involves a domain-subdomain relationship in which a given subdomain may have either primary or secondary status (i.e. it may be more or less central). As pointed out by Croft (1993), metonymy makes primary a domain which is secondary in the literal interpretation of an expression. Nevetheless, ‘domain highlighting’ has also been shown to be involved in some cases of lexical ambiguity and in one-correspondence metaphors (see section 1.2). In addition, Croft (1993: 350) also points to the possibility of ‘domain highlighting’ not being relevant in all cases of metonymy. He does not, however, pursue this matter any further. In this section we attempt to provide an answer to this question. The following two examples are taken from Croft (1993):
+(1) I broke the window.
+(2) She came in through the bathroom window.
+Borrowing Langacker’s terminology, Croft argues that in order to have a metonymy, the element which is profiled cannot be an intrinsic attribute of the domain involved. The examples above highlight the ‘shape’ and the ‘physical object’ domains for ‘window’ respectively. According to Croft, while the interpretation of a window as an opening in the shape domain makes reference to what is around it, which makes it extrinsic, being a physical object is intrinsic to the concept. Therefore, for Croft (1993),
+68
+
+while (2) is metonymic, (1) is not. Ruiz de Mendoza (1997, 2000) has reanalyzed these examples in terms of ‘centrality’ instead of ‘intrinsicness’ and, in this way, he has succeeded in pinpointing some of the shortcomings in Croft’s proposal.
+Langacker (1987: 160) defines a property as ‘intrinsic’ if it does not make reference to external entities. Thus, Langacker regards the shape of objects as an intrinsic property, as opposed to their size, which is understood by comparison with other objects, and is, therefore, extrinsic. Interestingly enough, in his application of Langacker’s definition to the window examples in (1) and (2), Croft has reached the opposite conclusion. This may be due to the fact that shape may also be considered an extrinsic property in those cases in which it is used to single one entity out from others. This seems to be the case in Croft’s example, where he uses ‘window’ to describe a physical object in contrast to other objects in a hardware store showroom. However, if we think of a window in a wall, a roof, or the side of a vehicle –the places where one would normally expect to find it- its shape is an intrinsic property.
+Another problem with Croft’s analysis, as pointed out by Ruiz de Mendoza (1997: 168), is that it can be argued that it is not (2) but (1), that may be a case of metonymy, since breaking a window is normally understood not as breaking all of its constituting elements, but just one of them, the window-pane. In this view, (1) focuses on a noncentral aspect of a window, but (2) focuses on one central aspect; that is to say, it is possible to have a window without a pane, but not a window without an opening. Hence, the possibility of understanding (1), but not (2), as metonymic. We may thus refine our definition of metonymy by adding that when the target of the metonymy is a subdomain of the source (target-in-source metonymies), such a target needs to be a noncentral subdomain. Centrality is understood here as defined by Langacker (1987) in terms of a combination of criteria: it correlates with the extent to which a specification is conventional (shared by a community), generic (not idiosyncratic with a particular item), intrinsic (making no reference to external entitites), and characteristic (unique to the class of items concerned).
+In Croft’s account, metonymy is characterised by the fact that a secondary domain is highlighted and made primary. Nevertheless, it should be noted that only target-in-
+69
+
+source metonymies are affected by the phenomenon of domain highlighting. In contrast, source-in-target metonymies, like the HAM SANDWICH FOR CUSTOMER example, do not require the highlighting of a secondary domain but only its conceptual development into its corresponding matrix. As a matter of fact, in the use of source-intarget metonymies, since there is no domain highlighting, it is irrelevant whether the primary or the secondary status of the source is used as a defining criterion. In addition to this, Ruiz de Mendoza further argues that domain highlighting is also irrelevant in the case of predicative metonymy. In John is a brain, for instance, ‘brain’ stands for ‘a person with good intellectual abilities’. Part of the domain of ‘person’ stands for the whole domain and at the same time highlights a feature which is conventionally associated with brains: intelligence. Therefore, in this case, interpretation does not proceed by making a secondary domain primary, but rather by singling out a very central feature of brains which is then attributed to John.
+Finally, we would like to add that the fact that there are cases of metonymy where highlighting plays no role does not invalidate the relevance of the notion of ‘domain highlighting’ for the description of metonymy, but rather places it in a different perspective: domain highlighting may also occur in the metaphor; and its operativeness is limited to target-in-source metonymies.
+1.6. Conceptual interaction between metaphor and metonymy
+The role of metonymy in its interaction with metaphor has received some attention in cognitive linguistics (cf. Goossens, 1990; Ruiz de Mendoza, 1999a, 2000; Radden, 2000; Barcelona, 2000b), whereas the study of the interactional possibilities that emerge from the interplay of two or more metonymies has often been neglected. In this section we aim to offer a detailed analysis of these two issues. First, we shall deal with the different patterns that arise when two metonymies work in combination, a phenomenon which we shall call “double metonymy”. Second, we shall focus our attention on the patterns of interaction between metaphor and metonymy, and the theoretical implications this brings about. Regarding double metonymy we have found evidence of the existence of three basic patterns. Let us take the following examples:
+70
+
+(1)
+(a) Copies of the final report must be provided for the head and the committee.
+(b) Aoun had been appointed to head an interim military government.
+In (1a) ‘head’ metonymically stands for the person who is in charge, that is, the leader or boss. This metonymy, which may be labelled HEAD FOR LEADER belongs to the source-in-target type and, like all source-in-target metonymies, it involves domain expansion. Note that the choice of ‘head’ as the source domain is motivated by the ease with which this concept activates the models of intelligence and control. Both of them are prototypical features of a leader, the target domain. In (1b) there is another ‘head’ metonymy where this body part metonymically refers to the action of governing or ruling. It is evident that this metonymic mapping is a further development of the HEAD FOR LEADER metonymy. Let us explain this is some detail. First, we have noted that (1a) refers to a person that is in charge. The prototypical activity that such a person carries out is ruling or governing. This means that the relationship between ‘head’ as a body part and the action of ruling is not a direct one. On the contrary, it is mediated. To put it another way, we need two metonymic mappings to fully develop it, as is illustrated in figure 1. It should be noted that the first metonymic mapping is a prerequisite for the existence of the second one.
+
+HEAD
+
+LEADER
+
+ACTION OF LEADING
+
+Figure 6: HEAD FOR LEADER FOR ACTION OF LEADING metonymy. 71
+
+In this pattern, there are two source-in-target metonymies which are linked in such a way that the target domain of the first source-in-target metonymy works as the source of the second source-in-target metonymy. Hence, there is a double process of domain expansion in which the role of ‘head’ in the first metonymy and of the agent of the action in the second one are highlighted (see figure 1).
+The second type of double metonymy we have found is illustrated in (2):
+(2)
+(a) Wall Street reached their second highest level today.
+(b) Wall Street is in panic.
+Non-figuratively, Wall Street is the name of a street located in the southern section of the borough of Manhattan in New York city (cf. I’ve bought an apartment in Wall Street). Nevertheles, it usually refers metonymically to the most important financial institution of the United States as exemplified in (2a). It is a case of the PLACE FOR INSTITUTION metonymy, which is of the target-in-source type since the financial institution located in Wall Street is an especially relevant subdomain of this street. Sentence (2b) goes a step further; in it there is a second domain reduction as a consequence of another metonymic mapping. Thus, the institution, which is the target domain of the first mapping, metonymically refers to the people that work there or that are somehow related to it (cf. figure 7). If we compare figures 6 and 7 we observe that the latter is the converse of the former and vice versa. In this second pattern of double metonymy there are two subsequent reductions of the source domain, i.e. the target domain of the first target-in-source metonymy becomes the source of the second targetin-source metonymy. As a result of this mapping we are dealing with a subdomain which is rather unspecific in nature and thereby hard to determine with accuracy. Note that the institution, the target of the first mapping, is much more clearly delineated than the second target, where the exact relation of the people to this financial institution is not specified at all. They could be stock brokers, private investors or any other kind of professional associated with the financial aspects of the stock market (certainly, it would not refer to the janitors, the security guards, or the cleaners).
+72
+
+PLACE INSTITUTION PEOPLE
+Figure 7: PLACE FOR INSTITUTION FOR PEOPLE (RELATED TO THE INSTITUTION) metonymy
+The last metonymic type we have distinguished combines a source-in-target and a target-in-source metonymy. Take the following short exchange:
+(3) A: What’s that picture? B: It’s Rome.
+Imagine (3) is uttered while looking at a picture of the coliseum. The first metonymic mapping, which is of the target-in-source type, has ‘picture’ as its source domain and the image of the Coliseum that appears in the picture as its target. In the second metonymic mapping, the target of the first mapping becomes the source of a source-in-target metonymy, whose target domain is Rome. This double metonymy is represented in figure 8:
+73
+
+WHOLE 'picture'
+PART'image of the Coliseum'
+
+'Rome'
+
+WHOLE
+
+Figure 8: WHOLE FOR PART FOR WHOLE metonymy
+In this type of double metonymy we have two matrix domains (i.e. ‘picture’ and ‘Rome’) whose presence is necessary to account for some phenomena of anaphoric reference, as will be discussed in the next chapter.
+With respect to the interactional possibilities between metaphor and metonymy, there are two major views: (1) metaphor is subsidiary to metonymy; that is to say, metaphors have a metonymic basis (see Taylor, 1995; Barcelona, 2000b; Niemeier, 2000; Radden, 2000); (2) metaphor and metonymy interact with each other in a variety of ways, being cognitive strategies of equal importance (see Goossens, 1990). In contrast to these views and following the insights in Ruiz de Mendoza (1999a), we would like to argue that, first, whenever metaphor and metonymy interact, it is the latter which is dependent on the former and not vice versa; and second, while there is ample evidence that a great number of metaphors have a strong metonymic grounding, it is also possible to find instances of metonymy which require a previous underlying metaphor.
+Goossens (1990) distinguishes four patterns of interaction between metaphor and metonymy:
+1. Metaphor from metonymy. In this pattern a metonymic expression loses its metonymic import and develops into a metaphor, as “to close one’s eyes to the
+74
+
+facts”. This qualifies as an instance of the PART OF THE BODY FOR ITS FUNCTION metonymy whenever the physical action of seeing actually takes place. On the contrary, when no action of seeing is involved it turns into a metaphor with the meaning ‘to ignore the fact’.
+2. Metonymy within metaphor. Here, we find a metaphor with a built-in metonymy, either as part of the source or of the target domain. An example of this type of interaction is the idiom “to bite one’s tongue off”, where tongue stands for the person’s speaking capacity.
+3. Demetonymization inside a metaphor. This pattern of interaction is illustrated by the expression “to pay lip service”, where ‘lip service’, which metonymically stands for ‘speaking’, has to be dissociated from its metonymic meaning in order for the expression to make sense.
+4. Metaphor within metonymy. This pattern occurs whenever a metaphor is used to add expressiveness to a metonymy, as in “to be on one’s hind legs”.
+Goossens’s typology of interaction patterns between metaphor and metonymy has been reanalyzed by Ruiz de Mendoza (1999a), who provides ample evidence that, at least from a structural perspective, metonymy is always subsidiary to metaphor in conceptual interaction. That is to say, whenever a metaphor and a metonymy interact, it is necessary for the metonymy to be accommodated within either the source or the target domain of the metaphor. This is a logical consequence of the nature of these two types of mapping. While in metaphor we find two discrete domains, metonymy only involves one conceptual domain. Therefore, we cannot expect to find the two distinct domains of a metaphor within the single domain of a metonymy. The opposite, however, is perfectly feasible. Accordingly, all the possibilities of metaphoric and metonymic interaction can be explained in terms of two parameters: first, the place where the metonymic mapping develops, which can be either the source or the target domain of the metaphor with which it interacts; second, the scope of the metonymy, that is to say, whether it works on one domain of the metaphor or on one of its correspondences. These two parameters yield four possible patterns of interaction of possibilities between metonymy and metaphor: metonymic expansion of a metaphoric
+75
+
+source, metonymic expansion of a metaphoric target, metonymic reduction of a correspondence of a metaphoric target and, metonymic reduction of a correspondence of a metaphoric source. Let us show in detail how these four patterns provide a systematic and economical explanation of the interactional possibilities between metaphor and metonymy. Each of them is considered in relation to the corresponding alternative explanation provided by Goossens.
+The first of the interaction patterns (i.e. metaphor from metonymy) described by Goossens includes instances of metaphor which are built on a previous metonymic mapping, as in “to close one’s eyes to the facts”. This metaphor portrays a situation in which a person does not want to accept or understand something and therefore ignores it. Goossens would argue that this metaphor is based on a previous metonymic mapping in which the action of closing one’s eyes stands for the effect of this action, namely, the avoidance of an undesired sight. This metonymy is then metaphorically developed to refer to those states of affairs in which someone refuses to consider a fact. Goossens’s account puts all the emphasis on the metonymic origin of the metaphor. In contrast to this, we would like to shift the focus of attention from the notion of ‘origin’ to that of ‘functionality’. What is of crucial importance here is not the fact that this metaphor has its origin in a previous metonymy, but rather that such a metonymy serves to structure the source domain of the metaphor in such a way that it provides all the necessary conceptual elements needed for its interpretation. The following figure illustrates this observation:
+76
+
+SOURCE
+
+METAPHOR TARGET
+
+A person closes his eyes
+
+SOURCE
+
+METONYMY
+
+A person avoids a non-desired
+
+TARGET
+
+sight by closing
+
+his eyes
+
+A peson ignores a problem or
+a situation
+
+Figure 9: Metaphor-metonymy interaction in the understanding of “close one’s eyes to the facts”.
+As figure 9 shows, this is a case of metonymic expansion of a metaphoric source. It should be noted that in the example under consideration, the metonymic mapping comprehends the whole source domain of the metaphor. Thus, the output of the metonymic mapping is the input to the metaphor. There are other cases of conceptual interaction between metaphor and metonymy in which more than one metonymic mapping may be found to structure the source domain of the metaphor. In these cases, it is not accurate to state that the metaphor is based on one previous metonymy, since the outputs of the different metonymies involved may function as the source domains of different metaphors. The analysis of the expression “to finger someone” as a case of metonymic expansion of a metaphoric source illustrates this:
+
+77
+
+SOURCE
+
+METAPHOR TARGET
+
+Finger SOURCE 1 METONYMY 1
+Action of pointing TARGET1/ with the SOURCE2 finger
+
+METONYMY 2
+
+whSiictuhaotinoenpienrson TARGET 2
+
+accuses another person by pointing
+
+at
+
+at him with the finger
+
+A situation in which
+one person accuses
+another person of something
+illegal
+
+Figure 10: Metaphor-metonymy interaction in the interpretation of the expression “to finger someone”
+As shown in figure 10, two metonymic mappings are found to structure the source domain of the metaphorical interpretation of “to finger someone” with the meaning of ‘to accuse someone of organizing or doing something illegal’. However, it is only the target of the second metonymy that functions as the source domain of the metaphor. This metonymic target contains one essential ingredient for the interpretation of the expression: we point fingers at people as a form of accusing them of doing something wrong. We may point with our fingers for a wide variety of reasons other than accusing someone (e.g. in order to ask for something, to express surprise, etc.). In principle, in all these cases, ‘to finger’ could stand metonymically for those actions. But this is not the case. Consider, for instance, the rather implausible sentence Stop fingering that poor old man, uttered by a mother to his young son who keeps pointing at an ugly old man with his finger in order to draw his mother’s attention to the man’s ugliness. This metonymic interpretation is hardly likely simply because it violates the conventional semantic development of the expression as represented in figure 10. Hence the importance of developing the full metonymic mapping or mappings which structure the source domain of the metaphor.
+
+78
+
+The metonymic expansion of a metaphoric source accounts for those cases of interaction which can be depicted according to the following schematic figure. It should be taken into account that the number of metonymic mappings involved in the expansion of the source domain of the metaphor is immaterial:
+
+SOURCE METAPHOR
+
+METONYMY
+
+SOURCE
+
+TARGET
+
+TARGET X
+
+Figure 11: Interaction pattern - type 1: metonymic expansion of a metaphoric source.
+A related type of interactional possibility includes those expressions where the metonymic expansion affects the target, rather than the source, of the metaphor. Consider the following example:
+(4) Cross cleared his throat and spoke in low, polite tones
+By means of this utterance, the speaker suggests that Cross coughed. In the context of giving a speech in front of an audience, the action of coughing is also traditionally understood as an intentional act directed to catch people’s attention. We contend that in order to obtain this full interpretation of (4), it is necessary to expand the target domain of the metaphoric mapping by means of a metonymy. This piece of interaction could be illustrated in the following fashion:
+
+79
+
+SOURCE METAPHOR
+
+TARGET
+
+A person coughes SOURCE
+
+A person clears this
+throat
+
+METONYMY A person coughes in order TARGET to attract someone's attention
+
+Figure 12: Metaphor-metonymy interaction in the interpretation of “clear one’s throat”
+The act of clearing one’s throat is only a figurative indication that one is trying to remove everything that may obstruct the flowing of the air out of the lungs. Obviously, we do this by coughing. Nevertheless, in a situation previous to the delivery of a speech, coughing is also conventionally understood as a sign directed to attract the audience’s attention. This metonymic mapping needs to be performed in order to expand the output of the metaphoric operation and to yield a fully-fledged interpretation of “to clear one’s throat”. This second interaction type is captured in the following figure:
+
+SOURCE X
+
+METAPHOR TARGET
+
+METONYMY
+
+SOURCE
+
+TARGET
+
+Figure 13: Interaction pattern - type 2: Metonymic expansion of a metaphoric target
+Let us now consider the third type of interaction proposed by Goossens (1990). It is labelled demetonymization inside a metaphor and it involves a metonymy, built into one of the domains of a metaphor, which has to be dissociated from its metonymic
+80
+
+meaning in order for the expression to make sense. Goossens illustrates this type of interaction with the idiom “to pay lip service”. In his account, “lip service” is ‘service with the lip(s)’, where ‘lip(s)’ metonymically stands for ‘speaking’. However, Goossens argues that in order to make sense of this figurative expression, it is necessary to expand our paraphrase for ‘lip service’ into ‘service as if with the lips only’. Thus the part is dissociated from the whole for which it was made to stand in the earlier processing stage, that is to say, it is ‘demetonymized’. In contrast to this explanation, we would like to contend that no ‘demetonymization’ needs to be postulated and that this is just a case of a metonymy within the target domain of a metaphor. Unlike the type of interaction illustrated in figure 13, which also involved a metonymy inside a metaphoric target, in the case under consideration the metonymic mapping does not exclude the whole target domain, but just one of its correspondences. This is, therefore, an instance of metonymic reduction of one of the correspondences of a metaphoric target. The representation in figure 14 captures the interaction underlying the expression “to pay lip service”:
+
+SOURCE METAPHOR TARGET
+
+payer paying payment
+
+person saying
+
+service with the lips
+
+SOURCE
+
+METONYMY
+
+service with TARGET words
+
+Figure 14: Metaphor-metonymy interaction in the interpretation of “to pay lip service”.
+As Goossens rightly states, ‘to pay’ suggests a scene of financial transaction; that scene is the ‘embedding metaphor’. In contrast to Goossens’ claim, however, no
+81
+
+‘demetonymization’ is required if the target domain in the last correspondence of the metaphoric mapping is reduced by means of a metonymy. The expression “lip service” invokes the idea of ‘providing help or support’. Literally, that support is said to be provided with the ‘lips’, which, metonymically, stand for the speaking capacity. The implication is that, if help is provided only with the lips (i.e. verbally, just by making promises), then it is not provided with real acts, which would be the proper way to do it. This is the reason why this expression can be used to refer to those situations in which someone makes a promise which he does not intend to fulfil. This third pattern of interaction between metaphor and metonymy is schematized below:
+
+SOURCE METAPHOR
+
+TARGET
+
+X
+
+X'
+
+Y
+
+Y'
+
+Source METONYMY
+Z Target
+
+Figure 15: Interaction pattern - type 3: Metonymic reduction of one of the correspondences of the metaphoric target.
+Finally, we arrive at the last of the interactional possibilities described by Goossens, namely, metaphor within metonymy or the use of a metaphor with the purpose of adding expressiveness to a metonymic expression. Goossens illustrates this type of interaction by means of the idiom “to stand/get on one’s hind legs” which is understood as ‘to stand up in order to say or argue something, esp. in public’. He points out that it is possible to imagine this expression with the omission of the word “hind” (e.g. he got up on his legs), and this would result in a purely metonymic expression (i.e. the action of getting up on one’s legs stands for the whole scene of getting up on one’s
+82
+
+legs to say something). Goossens goes on to say that the addition of the modifier ‘hind’ has the effect of forcing a metaphorical reinterpretation in terms of an animal standing up. The addition of the metaphor is optional, but if added, it enriches the initial expression by allowing implicatures such as the manner in which the person stands up (i.e. forcefully, with strength and determination).
+Even if we agree with Goossens on the optional character of ‘hind’, the addition of this element does not seem to have the effect of including a metaphor within a metonymy. On the contrary, the use of ‘hind’ results in the activation of an embedding metaphor of which the metonymy is only one part. The expression “to stand up on one’s hind legs” stands metonymically for the whole scene in which an animal (usually a horse) stands on its hind legs, normally out of fear, as if to attack. This metonymy, however, affects only one of the elements of the source domain which is then projected upon a target domain in which a person stands up briskly to argue something in public. This process is represented by figure 16:
+
+SOURCE METAPHOR TARGET
+
+horse
+
+legs
+
+horse rears up
+
+SOURCE
+
+METONYMY
+
+horse energetically
+rears up (out of fear) TARGET
+as if to attack
+
+person legs
+person energetically stands up in order to
+argue in public
+
+Figure 16: Metaphor-metonymy interaction in the interpretation of "to stand/get up on one’s hind legs”.
+83
+
+This fourth type of interplay between metaphor and metonymy may be schematized as follows:
+
+SOURCE METAPHOR TARGET
+
+X
+
+X'
+
+Y
+
+Y'
+
+Source Z'
+METONYMY
+Target
+
+Figure 17: Interaction pattern- type 4: metonymic reduction of a correspondence of a metaphoric source
+So far, the reanalysis of Goossens’s examples reveals that it is invariably the metaphor which accommodates metonymy within one of its domains, and not vice versa. We may safely conclude, therefore, that from a structural perspective metonymy is subsidiary to metaphor. Finally, we have distinguished four possible interaction patterns between metaphor and metonymy, which we summarize below:
+1. Metonymic expansion of the metaphoric source
+2. Metonymic expansion of the metaphoric target
+3. Metonymic reduction of one of the correspondences of the metaphoric target
+4. Metonymic reduction of one of the correspondences of the metaphoric source
+In addition to these patterns, Díez (2000b) has posited the existence of two other intractional possibilities. The first one is illustrated in (5):
+
+84
+
+(5) Why don’t you have a sleep for a couple of hours while I keep an eye on Chris?
+In (5) ‘eye’ metonymically stands for ‘vigilance’. This is grounded in the fact that the prototypical way to watch someone is to look at him. Thus, example (5) presents a speaker offering to watch a child. The metonymic mapping EYE FOR VIGILANCE occurs because the body part most directly involved in any visual activity is the eye. Regarding the metaphor, ‘keep’ is used figuratively. In its literal sense, keep means ‘to store something in a place’. The metaphor is grounded in the fact that ‘keep’ involves a controlled action that affects another entity: ‘to keep something in a place’ entails that you control this entity; likewise, if you keep an eye on someone, you control this activity (i.e. watching). This feature of control is mapped onto the target domain. Thus, the addressee in (5) is conceived as the controller entity that watches over an entity or event. The rest of the correspondences can be observed in figure 18 below. Note that the target domain of one of these correspondences is expanded by means of the source-intarget metonymy EYE FOR VIGILANCE which serves to highlight the instrument of the action:
+
+SOURCE METAPHOR TARGET
+
+keeper place
+
+addresser Chris
+
+thing kept keeping
+
+eye SOURCE METONYMY
+vigilance TARGET
+carrying out a controlled
+activity
+
+Figure 18: Keep an eye on someone
+
+85
+
+In interactions of this kind, one of the correspondences of the target domain of the metaphor contains a metonymy of the source-in-target type as can be seen in the following figure which is an abstraction of figure 18:
+
+SOURCE METAPHOR TARGET
+
+X
+
+X'
+
+Y
+
+Y'
+
+Source
+
+Z
+
+METONYMY
+
+Target
+
+Figure 19: Metonymic expansion of one of the correspondences of the metaphoric target
+Through this process, the correspondence where the metonymic mapping takes place is given more prominence than the others so that it becomes the most central correspondence in the metaphor. Besides, the metonymic expansion has a function inside the metonymic mapping, which is to focus on a specific subdomain of the matrix domain (i.e. in these cases, the instrument used for carrying out the action). Therefore, in this case of interaction there exists a double highlighting process: one that is related to the role of the correspondence in the metaphoric mapping and another that has to do with highlighting a relevant feature of the matrix domain of the metonymy.
+The last interactional type found in Díez (2000b) can be observed in the following example:
+(6) Pagan Platonists could not stomach the Christian notion of incarnation.
+(6) is a linguistic realization of the metaphor IDEAS ARE FOOD. As such, this expression forms part of our general understanding about how we experience ideas reflected in other expressions belonging to the same system (cf. I just can’t swallow that claim; What he said left a bad taste in my mouth). Moreover, this expression also includes a metonymic mapping in one of the correspondences of the source domain,
+
+86
+
+namely STOMACH FOR ACTION OF DIGESTING. In this metonymy, the body part more directly connected with the action metonymically stands for the whole action (e.g. She can’t stomach pork). As has been mentioned above, IDEAS ARE FOOD exploits part of our knowledge system about food. This includes not only propositional but also metonymic knowledge. Since the metonymy STOMACH FOR ACTION OF DIGESTING forms part of our metonymic ICM for food, it is also included in the metaphor. The way the interaction takes place is shown in figure 20:
+
+SOURCE
+
+METAPHOR
+
+TARGET
+
+person that eats food
+
+person that thinks ideas
+
+stomach SOURCE METONYMY
+digesting TARGET
+
+agreeing
+
+Figure 20: Stomach an idea.
+The only difference between the pattern found in (6) and the one depicted in figure 20 is that in the latter the metonymy works on the target domain so that the metonymy expands the output of one of the correspondences of the mapping. In contrast, in (6) the metonymy serves to structure the source domain of the metaphor which will later be mapped onto the target domain of the metaphor. This latter pattern is diagrammed in the following figure:
+
+87
+
+SOURCE METAPHOR TARGET
+
+X
+
+X'
+
+Y
+
+Y'
+
+Source
+METONYMY Z'
+Target
+
+Figure 21: Metonymic expansion of a correspondence of a metaphoric source.
+This diagram shows that the source of the metonymic mapping (i.e. ‘stomach’) is given special prominence over both the rest of correspondences and the other body parts that may have a role in the activity. Furthermore, the metonymy has an intensifying function in the activation of the source domain of the metaphor (that is, the use of stomach stresses the idea that there is strong disagreement and that this belief cannot be accepted).
+This taxonomy of interaction possibilities hinges on two criteria. The first is structural and takes into account whether the metonymy is accommodated within the source or target of the metaphor. The second is a functional criterion and considers the role of the metonymy in its interaction with either the source or target domain of the metaphor. Again, we may distinguish two possibilities: (1) the metonymy expands and elaborates the source or target domain in order to facilitate all the necessary mappings; (2) the metonymy   reduces or specifies one of the elements of the source or target domain in order to guide the correct interpretation of one of the correspondences.
+So far, we have argued that in interaction metonymy is dependent on metaphor at least from a structural point of view; thus, metonymy fits naturally within the source or target of many metaphors, but not the other way around. To end this section, we would also like to discuss some examples in which the dependency of metonymy on metaphor seems to go beyond this structural fact. In doing so, we would like to stress the fact that
+
+88
+
+our observations do not in any way counter the claims in favour of a metonymic basis of metaphor (cf. Taylor, 1995; Niemeier, 2000; Barcelona, 2000b; Radden, 2000). To give just one example, it is usually accepted that a metaphoric expression like “to stomach ideas” has a metonymic base. The metonymic mapping STOMACH FOR ACTION OF DIGESTING structures the source domain of the metaphor prior to the activation of the latter. Nevertheless, it is necessary to balance the relative import of these two types of conceptual mapping. In this connection, Díez (2000b) has argued that it is not accurate to assert that metaphors are always conceptually dependent on metonymies and that, in some cases, the opposite seems to be the case. She gives the following examples:
+(7) The children clapped the acrobats at the end of their performance. (8) The children gave the acrobats a (big) clap at the end of their performance. (9) The children gave the acrobats a big hand at the end of their performance. These three sentences describe basically the same state of affairs, but they differ in their meaning in several respects. The first of them is to be interpreted literally, since the action of applauding is encoded in the verb “clap”. The second example differs from the previous one in that the action of clapping is metaphorically conceived as the transfer of a physical object with its associated properties (i.e. size, weight, etc.). In this way, a ‘clap’ can be ‘given’ to a person who acts as the recipient and potential beneficiary of the transfer. The metaphor underlying example (8) is schematized in figure 22:
+89
+
+SOURCE METAPHOR TARGET
+
+giver
+
+person applauding
+
+giving object given recipient
+
+applauding applause person being applauded
+
+Figure 22: Metaphoric mapping underlying "to give a clap"
+Finally, (9) goes one step further and includes an instance of interaction between metaphor and metonymy of the type in which the metonymy expands one of the correspondences of the metaphoric target. A hand is used in the action of clapping, which licenses the use of the word “hand” instead of “clap” in this example. This metonymic mapping is experientially grounded in the fact that, in the activity of clapping, hands are more salient than the other body parts involved (e.g. the arms and the different groups of muscles). Note also that in the example under consideration, collocating “hand” with “big” is compulsory, whereas in (8) the use of the modifier “big” is optional. This is due to the fact that in the metaphor in (8), “big” functions simply as an intensifier. On the contrary, in the metonymy in (9), “big” is needed in order to avoid potential ambiguities. The expression “to give someone a hand”, on its own, may also be used with the meaning of ‘to help someone’. Figure 23 illustrates the interplay between metaphor and metonymy in relation to example (9):
+
+90
+
+SOURCE METAPHOR TARGET
+
+giver giving
+object given recipient
+
+person applauding applauding
+hand (big) SOURCE METONYMY
+applause TARGET
+person being applauded
+
+Figure 23: Metaphor-metonymy interaction underlying the expression "to give a big hand”.
+According to Díez (2000b), there is evidence to believe that in expressions like (9), metaphor is a conceptual prerequisite for metonymy and not the other way around. The metaphor developed first and the metonymic extension followed. First of all, it should be noted that the metaphor in (8) occupies an intermediate position between the literal expression in (7) and the metonymy-based idiom in (9). It seems logical that ‘clap’ developed metaphorically into ‘give a (big) clap’, and this in turn evolved into ‘give a big hand’. The opposite process (clap > big hand > (big) clap) would be strange and uneconomical. Further evidence supporting the subsidiary role played by metonymy in example (9) comes from cross-linguistic data. Thus, if we look for the Spanish counterparts of the three examples under consideration, we find that only (7) and (8) may be directly translated into Spanish:
+(10) Los niños aplaudieron a los acróbatas al final de la actuación. The children applaudPAST.3SG the acrobatPL at end of the performance
+(11) Los niños dieron un fuerte aplauso a los acróbatas al final de la actuación. The children givePAST a strong applause to the acrobatPL at-the end of the performance
+
+91
+
+(12) *Los niños dieron una fuerte/gran mano a los acróbatas al final de la actuación.
+The children givePAST a strong/big hand to the acrobatPL at-the end of the performance The literal translation of (9) into Spanish is not possible, because the Spanish conceptual system does not include the metonymy HAND FOR CLAP. It can be observed that both Spanish and English follow a similar process of derivation from the literal expression in (7) to the metaphorical extension in (8). Nevertheless, in English the derivation process has gone one step further, yielding the metonymic expression in (9), whereas in Spanish this last step has not taken place. The fact that both languages have undergone the same initial process of metaphorical extension reinforces the assumption that in this specific case the metonymic mapping is secondary and chronologically follows the metaphoric operation.
+92
+
+CHAPTER 2
+METONYMY AND LINGUISTIC STRUCTURE
+As we have mentioned, metonymy has been studied almost exclusively from a conceptual point of view, with the tacit assumption that it places constraints on linguistic production, but such constraints are merely dealt with at the level of conceptual structure. For example, it would seem a matter of semantic choice or simply of production economy for the speaker to decide whether to say He broke the window or He broke the window pane, Napoleon lost at Waterloo or Napoleon’s army lost at Waterloo, and so on. Thus, it would seem unnecessary to specify that someone broke the window pane unless we have a context in which the hearer believes that the person broke another part of the window (e.g. the frame). Explicitly saying that it was Napoleon instead of his army that lost at Waterloo places the responsibility for failure on Napoleon. But the problem is not so simple. The pervasive use of metonymy as a conceptual tool has consequences in terms of the semantic and/or experiential grounding of some grammatical phenomena at several levels. In the following sections we shall study the nature of metonymic activity and we shall also analyze some constructions within the grammar which are motivated by metonymic mappings.
+93
+
+2.1. Classifying metonymy
+In positing the existence of a set of ‘metonymy-producing relationships’ or generic principles, Kövecses and Radden (1998) have discovered one of the most basic problems typologies of metonymies pose: the need to describe metonymy on different levels of abstraction. On the basis of Kövecses and Radden’s (1998) discussion, Ruiz de Mendoza and Díez (2001) have suggested that a sound typology of metonymic mappings should take into account the inherent nature of the domains involved. In this connection they make a distinction between low-level metonymies and high-level metonymies. In the former the source and target domains are non-generic idealized cognitive models. Non-generic ICMs can be described as conventional representations based on experience which specify elements and their properties and relations. This group can be further subdivided into: propositional and situational metonymies. The former include typical cases of metonymy where a concept stands for another in a domain-internal relationship. By way of illustration, consider (1):
+(1)
+(a) Two had died in infancy, otherwise there could have been nine little mouths to feed.
+(b) The addition of subsequent mouths to feed merely compounds the problem.
+In sentences (1a) and (1b) we find instantiations of the MOUTH FOR PERSON mapping where ‘mouth’, which is the source of the metonymy, stands for the person who the mouth belongs to. Since ‘mouth’ is a subdomain of the matrix domain ‘person’, we are dealing with a source-in-target metonymy.
+In both sentences, the people referred to in the metonymic target are presented as taken care of by another entity (either a parent in sentence (1a) or perhaps the government as in sentence (1b)). This occurs because the mouth is considered the body part which is more closely connected to the notions of ‘bringing up’ and ‘welfare’. The most basic things a person needs to survive are mainly air, water and food, other items (e.g. clothes) being usually seen as commodities. Since air and water are easy to obtain in Western society, food remains the only need that a person may have difficulties in
+94
+
+obtaining. Therefore, a person or organization that looks after people will have to provide nourishment for them. This idea is reinforced by the addition of the infinitive “to feed” in both sentences which helps us make clear the way the metonymy has to be interpreted. This way the mouth, which plays a very prominent role in the domain of feeding26, becomes the source of the metonymic mapping.
+In a situational metonymy, an especially relevant episode of a specific situation stands for the larger event in which it is included. An example of this metonymy is found in (2):
+(2) The poor dog left with its tail between its legs.
+Imagine that sentence (2) is uttered in a situation in which a man is talking to a friend about the punishment his dog has received. Here, we find a metonymic mapping in which the actual event of a dog leaving with its tail between its legs stands for the whole situation in which a dog after being punished runs away in that manner.
+On the other hand, high level metonymies are based on generic ICMs. Generic ICMs are abstractions over a number of non-generic ICMs. Because of their generic character they can work at non-lexical levels and underlie several grammatical phenomena (Ruiz de Mendoza and Pérez, 2001).
+High-level metonymies have a strong image-schematic component. This means that the generic models which are used to create their source and target domains can be decomposed into image-schemas. For example, the generic model ‘action’ is the result of grouping ‘force’ and ‘control’. Consider the sentence, He hammered the nail into the wall, which contains the metonymy INSTRUMENT FOR ACTION. In this metonymy, the source domain is an exploitation of the OBJECT image-schema, whereas the target consists of the combination of two basic elements: the FORCE image schema and the propositional model of control. It is worth noting that even though there may be nonimage-schematic models involved in the configuration of a generic model, these are in need of image-schemas for their full understanding. By way of illustration, let us take
+26 On an experiential basis, this is obviously due to the fact that the mouth is the most visible part of the digestive system, where mastication and swallowing take place.
+95
+
+the model of control, which is part of the action ICM. The cognitive model of control has been partially described by Ruiz de Mendoza (1998, 1999). It contains, at least, the following information:
+* A person controls an entity or group of entities to the extent that he/she can determine the behaviour of the entity or group of entities.
+* A person controls a state of affairs to the extent that he/she can determine the existence of that state of affairs.
+* The control a person has over an entity or group of entities increases or decreases depending on the absence or presence of physical barriers between the controller and the controlled entity or entities; in this connection, distance can be understood as a physical barrier.
+The first two characteristics mentioned above refer to the internal logic of the model of control and are propositional in nature; the third one, however, relates to the interplay of this model with image-schematic structure. Thus, the existence of barriers is directly connected to the CONTAINER image-schema and entails that control may occur more readily inside a bounded region. Similarly, physical distance has to be understood by means of the FAR-NEAR image schema. Thus, the control model is in need of at least two image-schemas in order to determine its structure appropriately. Moreover, these features are not the only ones that define this model, which can be completed by incorporating the logic of the VERTICALITY and UP-DOWN imageschemas. Note that a person that is in control of an entity or group of entities is normally on a higher position than the controlled entity or group of entities; and that a person who controls an entity or situation is normally in an upright position27. It follows that even our understanding of propositional models is in many ways dependent on a wide range of image-schemas.
+High-level metonymies can also be classified into propositional and situational metonymies. The former are found in most cases of what Ruiz de Mendoza and Pérez
+27 The clearest experiential basis for this is that sleeping involves lack of control and a non-vertical position.
+96
+
+(2001) have called grammatical metonymy, i.e., a metonymy which has consequences in terms of linguistic structure. For example, in (3) we find the metonymy INSTRUMENT FOR ACTION. As a consequence of the metonymy, a change of category takes place from noun to verb, which, in turn, brings about the reorganization of the clause:
+(3) I elbowed Karen unceremoniously aside.
+Situational high-level metonymies are typically employed in indirect speech acts, that is to say, whenever a part of a speech act scenario is employed metonymically to stand for the whole of it. We have already mentioned speech acts scenarios in section 1.2 and they will be discussed in greater detail in section 3.2. For the time being, we shall say that Panther and Thornburg (1998) have described speech acts as organized scenarios consisting of three components: before, core/result, and after; each of these components can metonymically stand for the whole scenario. Consider (4):
+(4) Can you drive me home?
+This question about the ability of the hearer is interpreted as a request because it is one of the elements of the before component of the request scenario. This way, a part of the request scenario (i.e. the ability of the hearer) is in a metonymic stands for relation to the whole scenario (i.e. the request).
+In addition to their impact on grammar, high-level metonymies are also a basic tool for conceptualization. For example, the GENERIC FOR SPECIFIC/SPECIFIC FOR GENERIC metonymies have a key role in the functioning of some high-order cognitive processes. The existence of some connections between ‘generic’ and ‘specific’ in the organization and processing of information was first pointed out by Lakoff and Turner (1989). These authors regard the relationships between ‘generic’ and ‘specific’ as metaphorical in nature. On the other hand, Kövecses and Radden (1998) and Panther and Thornburg (1999) have convincingly contended that the generic/specific distinction is better explained on metonymic grounds because these two concepts stand in a domain-internal relationship where ‘specific’ is a subdomain of ‘generic’. The domain-subdomain relation that exists between ‘generic’ and ‘specific’ can be easily observed if we look at the nature of taxonomies. Consider the relationship
+97
+
+between ‘bird’ and ‘robin’. Everybody agrees that ‘robin’ is a specific member of the category ‘bird’ and that it would be absurd to claim that these two concepts constitute absolutely discrete domains. Kövecses and Radden (1998) have also noted the relevance of these metonymies for the interpretation of proverbs. Consider the famous saying Blind blames the ditch, where a SPECIFIC FOR GENERIC metonymy helps to abstract away from this particular situation a generic conceptual structure, which is then employed to interpret another particular situation on the basis of the GENERIC FOR SPECIFIC metonymy28.
+Some initial studies of the grammatical consequences of metonymy have already been carried out by cognitive linguists (cf. Panther and Thornburg, 1999, 2000; Goossens, 1999; Waltereit, 1999). We shall devote the rest of the present chapter to the study of some grammatical phenomena whose semantic motivation can be explained on the basis of non-situational high-level metonymies. In the next chapter, we shall discuss the way in which situational high-level metonymies motivate some conventionalized illocutionary constructions. Other implications of high-level structure for the study of conceptual organization have been studied in some detail by Ruiz de Mendoza and Otal (1999), and Otal (2002).
+2.2. Predicates
+Consider these sentences:
+(1)
+(a) John is handsome.
+28 Peña (2001) has noted the importance of these metonymies in the creation of what Fauconnier & Turner (1995, 1998) have called generic spaces in their many-space model of conceptual interaction (cf. Also Turner & Fauconnier, 1995). These authors argue that in order to interpret metaphors we need to activate a minimum of four different mental spaces. A mental space is a small conceptual packet of information build for the purpose of undertanding and communication. Two input spaces are projected to another space (the blended space). A fourth space (the generic space), which contains basic skeletal structure derived from the source and target inputs, licenses the projection. Peña (2001) posits that a SPECIFIC FOR GENERIC metonymy is employed to abstract information from the source input to the generic space, while the converse metonymy GENERIC FOR SPECIFIC allows the projection of information from the generic space to the target input.
+98
+
+(b) John is a handsome boy.
+(c) *Be handsome, John.
+As example (1c) shows, the adjective “handsome” cannot be used in imperative constructions with the verb “be”. This lies in the fact that this grammatical construction is prototypically associated with a stative meaning and the imperative form of the verb invokes an action scenario. For example, Come back home before midnight is an instruction to the hearer to act in such a way that as a result the state of affairs described by the predication will come about. However, compare:
+(2)
+(a) Mary is patient.
+(b) Mary is a patient girl.
+(c) Be patient, Mary.
+This is a case where the imperative form of the ‘be’ construction is not only possible but of very frequent use. The difference between (1c) and (2c) is that in the latter it is within the person’s control to bring about the required state of affairs; that is to say, a person can choose whether to be quiet or not, but not whether to be tall or not. Thus, it may prove interesting to consider Dik's typology of states of affairs within his theory of Functional Grammar. In his theory, Dik considers ‘control’ as a basic semantic property of some predicates and arguments. Besides, Dik (1989: 90) has posited that a definition of the state of affairs type should take into account some properties of predicates and terms (or arguments); consequently, he has offered a classification of states of affairs in which there is a generic twofold distinction between situations (which are stative) and events (which are dynamic). He further subdivides situations into states (which are not controlled) and positions (which are controlled); events are, in turn, subdivided into processes (not controlled) and actions (controlled). Here are some of his examples:
+States: The substance was red, The tree fell down.
+99
+
+Positions: John was sitting, John kept his money in an old sock.
+Processes: The clock was ticking, The apple fell from the tree.
+Actions: John was reading a book, John ran the marathon.
+This classification allows Dik to determine the different semantic functions of predicates: for example an agent is the entity controlling an action; a positioner is the entity controlling a position; force is the non-controlling entity instigating a process; processed is the entity that undergoes a process; and zero is the entity primarily involved in a state. Dik further notes (cf. Dik, 1989: 96) that ‘control’ is a key feature from the point of view of grammatical structure since it must compulsorily be in imperative predications, as we have already pointed out ourselves, and in general in all directive and commissive speech acts. Take the following sentences:
+(3)
+(a) Bill ordered John to be polite.
+(b) *Bill ordered John to be intelligent.
+(4)
+(a) John promised Bill to be polite.
+(b) *The clock promised to keep ticking.
+However, Dik has failed to observe that the notion of control cannot stand independently of the existence of an action frame or ICM, thus being subsidiary to it. In fact, control is one possible result of an agent’s activity. For example, in John kept his money in an old sock we assume that John or someone else has put the money in the sock before and that John acts in such a way that the money remains in the state described. Lack of control occurs whenever there is a state which is not the result of intentional action, what Dik has termed a process. For example, a person is not old or tall because the person has done something intently in order to become old or tall. However, there are states which may result from a person’s previous action like being
+100
+
