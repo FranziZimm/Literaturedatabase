@@ -1,0 +1,2880 @@
+Cognitive Linguistics
+An Introduction
+Vyvyan Evans and Melanie Green
+
+Cognitive Linguistics
+
+This book is dedicated to the memory of Larry Trask, 1944–2004, linguist, scholar, teacher, colleague, mentor and friend.
+
+COGNITIVE LINGUISTICS
+AN INTRODUCTION Vyvyan Evans and Melanie Green
+EDINBURGH UNIVERSITY PRESS
+
+© Vyvyan Evans and Melanie Green, 2006
+Edinburgh University Press Ltd 22 George Square, Edinburgh
+Typeset in Sabon and Gill Sans by Servis Filmsetting Ltd, Manchester, and printed and bound in Great Britain by Antony Rowe Ltd, Chippenham, Wilts
+A CIP record for this book is available from the British Library
+ISBN 0 7486 1831 7 (hardback) ISBN 0 7486 1832 5 (paperback)
+The right of Vyvyan Evans and Melanie Green to be identiﬁed as authors of this work has been asserted in accordance with the Copyright, Designs and Patents Act 1988.
+
+Contents
+
+Preface
+
+xix
+
+Acknowledgements
+
+xxiii
+
+Abbreviations, symbols and transcription
+
+xxv
+
+Part I Overview of the Cognitive Linguistics Enterprise
+
+Introduction
+
+3
+
+1 What does it mean to know a language?
+
+5
+
+1.1 What is language for?
+
+6
+
+1.1.1 The symbolic function of language
+
+6
+
+1.1.2 The interactive function of language
+
+9
+
+1.2 The systematic structure of language
+
+11
+
+1.2.1 Evidence for a system
+
+12
+
+1.2.2 The systematic structure of thought
+
+14
+
+1.3 What do linguists do?
+
+15
+
+1.3.1 What?
+
+15
+
+1.3.2 Why?
+
+16
+
+1.3.3 How?
+
+16
+
+1.3.4 Speaker intuitions
+
+16
+
+1.3.5 Converging evidence
+
+17
+
+1.4 What it means to know a language
+
+18
+
+1.5 Summary
+
+20
+
+Further reading
+
+22
+
+Exercises
+
+23
+
+v
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+
+2 The nature of cognitive linguistics: assumptions and
+
+commitments
+
+27
+
+2.1 Two key commitments
+
+27
+
+2.1.1 The ‘Generalisation Commitment’
+
+28
+
+2.1.2 The ‘Cognitive Commitment’
+
+40
+
+2.2 The embodied mind
+
+44
+
+2.2.1 Embodied experience
+
+45
+
+2.2.2 Embodied cognition
+
+46
+
+2.2.3 Experiential realism
+
+47
+
+2.3 Cognitive semantics and cognitive approaches to grammar 48
+
+2.4 Summary
+
+50
+
+Further reading
+
+50
+
+Exercises
+
+52
+
+3 Universals and variation in language, thought and
+
+experience
+
+54
+
+3.1 Universals in thought and language
+
+55
+
+3.1.1 Typological universals
+
+57
+
+3.1.2 Universals in formal linguistics
+
+60
+
+3.1.3 Universals in cognitive linguistics
+
+63
+
+3.2 Cross-linguistic patterns in semantic systems
+
+68
+
+3.2.1 Patterns in the conceptualisation of space
+
+68
+
+3.2.2 Patterns in the conceptualisation of time
+
+75
+
+3.3 Cross-linguistic variation in semantic systems
+
+87
+
+3.3.1 Variation in the conceptualisation of space
+
+87
+
+3.3.2 Variation in the conceptualisation of time
+
+92
+
+3.4 Linguistic relativity and cognitive linguistics
+
+95
+
+3.4.1 Whorf and the Linguistic Relativity Principle
+
+96
+
+3.4.2 Language as a shaper of thought
+
+98
+
+3.4.3 The cognitive linguistics position
+
+101
+
+3.5 Summary
+
+101
+
+Further reading
+
+102
+
+Exercises
+
+105
+
+4 Language in use: knowledge of language, language change
+
+and language acquisition
+
+108
+
+4.1 Language in use
+
+109
+
+4.1.1 A usage event
+
+109
+
+4.1.2 The relationship between usage and linguistic
+
+structure
+
+111
+
+4.1.3 Comprehension and production
+
+112
+
+4.1.4 Context
+
+112
+
+vi
+
+CONTENTS
+
+4.1.5 Frequency
+
+114
+
+4.2 Cognitive Grammar
+
+114
+
+4.2.1 Abstraction, schematisation and language use
+
+115
+
+4.2.2 Schemas and their instantiations
+
+115
+
+4.2.3 Partial sanction
+
+116
+
+4.2.4 The non-reductive nature of schemas
+
+117
+
+4.2.5 Frequency in schema formation
+
+118
+
+4.3 A usage-based approach to language change
+
+120
+
+4.3.1 Historical linguistics and language change
+
+121
+
+4.3.2 The Utterance Selection Theory of language
+
+change
+
+123
+
+4.3.3 The Generalised Theory of Selection and the
+
+Theory of Utterance Selection
+
+125
+
+4.3.4 Causal mechanisms for language change
+
+127
+
+4.4 The usage-based approach to language acquisition
+
+133
+
+4.4.1 Empirical ﬁndings in language acquisition
+
+134
+
+4.4.2 The cognitive view: socio-cognitive mechanisms
+
+in language acquisition
+
+136
+
+4.4.3 Comparing the generative view of language
+
+acquisition
+
+140
+
+4.5 Summary
+
+146
+
+Further reading
+
+147
+
+Exercises
+
+148
+
+Part II Cognitive Semantics
+
+Introduction
+
+153
+
+5 What is cognitive semantics?
+
+156
+
+5.1 Guiding principles
+
+157
+
+5.1.1 Conceptual structure is embodied
+
+157
+
+5.1.2 Semantic structure is conceptual structure
+
+158
+
+5.1.3 Meaning representation is encyclopaedic
+
+160
+
+5.1.4 Meaning construction is conceptualisation
+
+162
+
+5.2 Phenomena investigated within cognitive semantics
+
+163
+
+5.2.1 The bodily basis of meaning
+
+163
+
+5.2.2 Conceptual structure
+
+165
+
+5.2.3 Encyclopaedic semantics
+
+166
+
+5.2.4 Mappings
+
+167
+
+5.2.5 Categorisation
+
+168
+
+5.2.6 Word meaning and polysemy
+
+169
+
+5.3 Methodology
+
+170
+
+5.4 Some comparisons with formal approaches to semantics
+
+171
+
+vii
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+
+5.5 Summary
+
+172
+
+Further reading
+
+173
+
+Exercises
+
+174
+
+6 Embodiment and conceptual structure
+
+176
+
+6.1 Image schemas
+
+177
+
+6.1.1 What is an image schema?
+
+178
+
+6.1.2 Properties of image schemas
+
+179
+
+6.1.3 Image schemas and linguistic meaning
+
+189
+
+6.1.4 A provisional list of image schemas
+
+190
+
+6.1.5 Image schemas and abstract thought
+
+190
+
+6.2 Conceptual structure
+
+191
+
+6.2.1 Semantic structure
+
+192
+
+6.2.2 Schematic systems
+
+194
+
+6.3 Summary
+
+201
+
+Further reading
+
+201
+
+Exercises
+
+202
+
+7 The encyclopaedic view of meaning
+
+206
+
+7.1 Dictionaries versus encylopaedias
+
+207
+
+7.1.1 The dictionary view
+
+207
+
+7.1.2 Problems with the dictionary view
+
+210
+
+7.1.3 Word meaning versus sentence meaning
+
+213
+
+7.1.4 The encyclopaedic view
+
+215
+
+7.2 Frame semantics
+
+222
+
+7.2.1 What is a semantic frame?
+
+222
+
+7.2.2 Frames in cognitive psychology
+
+222
+
+7.2.3 The   frame
+
+225
+
+7.2.4 Speech event frames
+
+228
+
+7.2.5 Consequences of adopting a frame-based model 229
+
+7.3 The theory of domains
+
+230
+
+7.3.1 What is a domain?
+
+230
+
+7.3.2 Basic, image-schematic and abstract domains
+
+232
+
+7.3.3 Other characteristics of domains
+
+235
+
+7.3.4 Proﬁle/base organisation
+
+236
+
+7.3.5 Active zones
+
+238
+
+7.4 The perceptual basis of knowledge representation
+
+240
+
+7.5 Summary
+
+243
+
+Further reading
+
+244
+
+Exercises
+
+245
+
+viii
+
+CONTENTS
+
+8 Categorisation and idealised cognitive models
+
+248
+
+8.1 Categorisation and cognitive semantics
+
+249
+
+8.1.1 The classical theory
+
+251
+
+8.1.2 The deﬁnitional problem
+
+252
+
+8.1.3 The problem of conceptual fuzziness
+
+253
+
+8.1.4 The problem of prototypicality
+
+254
+
+8.1.5 Further problems
+
+254
+
+8.2 Prototype theory
+
+255
+
+8.2.1 Principles of categorisation
+
+255
+
+8.2.2 The categorisation system
+
+256
+
+8.2.3 The vertical dimension
+
+256
+
+8.2.4 The horizontal dimension
+
+264
+
+8.2.5 Problems with prototype theory
+
+268
+
+8.3 The theory of idealised cognitive models
+
+269
+
+8.3.1 Sources of typicality eﬀects
+
+270
+
+8.3.2 Radial categories as a further source of typicality
+
+eﬀects
+
+275
+
+8.3.3 Addressing the problems with prototype theory
+
+278
+
+8.4 The structure of ICMs
+
+279
+
+8.5 Summary
+
+281
+
+Further reading
+
+282
+
+Exercises
+
+283
+
+9 Metaphor and metonymy
+
+286
+
+9.1 Literal versus ﬁgurative language
+
+287
+
+9.1.1 Literal and ﬁgurative language as complex concepts 287
+
+9.1.2 Can the distinction be maintained?
+
+289
+
+9.2 What is metaphor?
+
+293
+
+9.3 Conceptual Metaphor Theory
+
+296
+
+9.3.1 The unidirectionality of metaphor
+
+296
+
+9.3.2 Motivation for target and source
+
+297
+
+9.3.3 Metaphorical entailments
+
+298
+
+9.3.4 Metaphor systems
+
+299
+
+9.3.5 Metaphors and image schemas
+
+300
+
+9.3.6 Invariance
+
+301
+
+9.3.7 The conceptual nature of metaphor
+
+303
+
+9.3.8 Hiding and highlighting
+
+303
+
+9.4 Primary Metaphor Theory
+
+304
+
+9.4.1 Primary and compound metaphors
+
+304
+
+9.4.2 Experiential correlation
+
+305
+
+9.4.3 Motivating primary metaphors
+
+306
+
+9.4.4 Distinguishing primary and compound metaphors 307
+
+ix
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+
+9.5 What is metonymy?
+
+310
+
+9.6 Conceptual metonymy
+
+314
+
+9.6.1 Metonymy as an access mechanism
+
+315
+
+9.6.2 Metonymy-producing relationships
+
+316
+
+9.6.3 Vehicles for metonymy
+
+317
+
+9.7 Metaphor-metonymy interaction
+
+318
+
+9.8 Summary
+
+321
+
+Further reading
+
+322
+
+Exercises
+
+325
+
+10 Word meaning and radial categories
+
+328
+
+10.1 Polysemy as a conceptual phenomenon
+
+329
+
+10.2 Words as radial categories
+
+331
+
+10.3 The full-speciﬁcation approach
+
+333
+
+10.3.1 Image schema transformations
+
+337
+
+10.3.2 Metaphorical extensions
+
+339
+
+10.4 Problems with the full-speciﬁcation approach
+
+339
+
+10.5 The Principled Polysemy approach
+
+342
+
+10.5.1 Distinguishing between senses
+
+342
+
+10.5.2 Establishing the prototypical sense
+
+344
+
+10.5.3 Illustration of a radial category based on Principled
+
+Polysemy
+
+347
+
+10.5.4 Beyond prepositions
+
+348
+
+10.6 The importance of context for polysemy
+
+352
+
+10.6.1 Usage context: subsenses
+
+353
+
+10.6.2 Sentential context: facets
+
+354
+
+10.6.3 Knowledge context: ways of seeing
+
+355
+
+10.7 Summary
+
+355
+
+Further reading
+
+356
+
+Exercises
+
+359
+
+11 Meaning construction and mental spaces
+
+363
+
+11.1 Sentence meaning in formal semantics
+
+364
+
+11.2 Meaning construction in cognitive semantics
+
+365
+
+11.3 Towards a cognitive theory of meaning construction
+
+368
+
+11.4 The architecture of mental space construction
+
+371
+
+11.4.1 Space builders
+
+371
+
+11.4.2 Elements
+
+371
+
+11.4.3 Properties and relations
+
+372
+
+11.4.4 Mental space lattices
+
+374
+
+11.4.5 Counterparts and connectors
+
+375
+
+11.4.6 The Access Principle
+
+376
+
+x
+
+CONTENTS
+
+11.4.7 Roles and values
+
+381
+
+11.5 An illustration of mental space construction
+
+382
+
+11.6 The dynamic nature of meaning construction
+
+386
+
+11.6.1 Tense and aspect in English
+
+387
+
+11.6.2 The tense-aspect system in Mental Spaces Theory 389
+
+11.6.3 Epistemic distance
+
+394
+
+11.7 Summary
+
+396
+
+Further reading
+
+397
+
+Exercises
+
+397
+
+12 Conceptual blending
+
+400
+
+12.1 The origins of Blending Theory
+
+401
+
+12.2 Towards a theory of conceptual integration
+
+403
+
+12.3 The nature of blending
+
+407
+
+12.3.1 The elements of conceptual blending
+
+408
+
+12.3.2 Further linguistic examples
+
+410
+
+12.3.3 Non-linguistic examples
+
+415
+
+12.4 Vital relations and compressions
+
+418
+
+12.4.1 Vital relations
+
+419
+
+12.4.2 A taxonomy of vital relations and their
+
+compressions
+
+420
+
+12.4.3 Disintegration and decompression
+
+425
+
+12.5 A taxonomy of integration networks
+
+426
+
+12.5.1 Simplex networks
+
+426
+
+12.5.2 Mirror networks
+
+426
+
+12.5.3 Single-scope networks
+
+427
+
+12.5.4 Double-scope networks
+
+429
+
+12.6 Multiple blending
+
+431
+
+12.7 Constraining Blending Theory
+
+433
+
+12.8 Comparing Blending Theory with Conceptual Metaphor
+
+Theory
+
+435
+
+12.8.1 Contrasts
+
+435
+
+12.8.2 When is a metaphor not a blend?
+
+437
+
+12.8.3 What Blending Theory adds to Conceptual
+
+Metaphor Theory
+
+437
+
+12.9 Summary
+
+439
+
+Further reading
+
+440
+
+Exercises
+
+441
+
+13 Cognitive semantics in context
+
+445
+
+13.1 Truth-conditional semantics
+
+446
+
+13.1.1 Meaning, truth and reality
+
+446
+
+xi
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+
+13.1.2 Object language versus metalanguage
+
+446
+
+13.1.3 The inconsistency of natural language
+
+447
+
+13.1.4 Sentences and propositions
+
+448
+
+13.1.5 Truth-conditional semantics and the generative
+
+enterprise
+
+449
+
+13.1.6 Compositionality of meaning
+
+450
+
+13.1.7 Translating natural language into a
+
+metalanguage
+
+451
+
+13.1.8 Semantic interpretation and matching
+
+452
+
+13.1.9 Comparison with cognitive semantics
+
+455
+
+13.2 Relevance Theory
+
+459
+
+13.2.1 Ostensive communication
+
+459
+
+13.2.2 Mutual cognitive environment
+
+459
+
+13.2.3 Relevance
+
+460
+
+13.2.4 Explicature and implicature
+
+461
+
+13.2.5 Metaphor
+
+463
+
+13.2.6 Comparison with cognitive semantics
+
+463
+
+13.3 Summary
+
+465
+
+Further reading
+
+466
+
+Exercises
+
+466
+
+Part III Cognitive Approaches to Grammar
+
+Introduction
+
+471
+
+14 What is a cognitive approach to grammar?
+
+475
+
+14.1 Guiding assumptions
+
+476
+
+14.1.1 The symbolic thesis
+
+476
+
+14.1.2 The usage-based thesis
+
+478
+
+14.1.3 The architecture of the model
+
+479
+
+14.2 Distinct cognitive approaches to grammar
+
+480
+
+14.2.1 The ‘Conceptual Structuring System Model’
+
+480
+
+14.2.2 Cognitive Grammar
+
+480
+
+14.2.3 Constructional approaches to grammar
+
+481
+
+14.2.4 Cognitive approaches to grammaticalisation
+
+482
+
+14.3 Grammatical terminology
+
+483
+
+14.3.1 Grammar
+
+484
+
+14.3.2 Units of grammar
+
+484
+
+14.3.3 Word classes
+
+486
+
+14.3.4 Syntax
+
+492
+
+14.3.5 Grammatical functions
+
+494
+
+14.3.6 Agreement and case
+
+498
+
+14.4 Characteristics of the cognitive approach to grammar
+
+500
+
+xii
+
+CONTENTS
+
+14.4.1 Grammatical knowledge: a structured inventory of
+
+symbolic units
+
+501
+
+14.4.2 Features of the closed-class subsystem
+
+502
+
+14.4.3 Schemas and instances
+
+504
+
+14.4.4 Sanctioning and grammaticality
+
+505
+
+14.5 Summary
+
+506
+
+Further reading
+
+507
+
+Exercises
+
+509
+
+15 The conceptual basis of grammar
+
+512
+
+15.1 The grammatical subsystem: encoding semantic structure 513
+
+15.2 Talmy’s ‘Conceptual Structuring System Model’
+
+514
+
+15.2.1 The conﬁguration of  and 
+
+515
+
+15.2.2 Conceptual alternativity
+
+516
+
+15.2.3 Schematic systems
+
+517
+
+15.2.4 The ‘Conﬁgurational Structure System’
+
+518
+
+15.2.5 The ‘Attentional System’
+
+526
+
+15.2.6 The ‘Perspectival System’
+
+528
+
+15.2.7 The ‘Force-Dynamics System’
+
+531
+
+15.3 Langacker’s theory of Cognitive Grammar
+
+533
+
+15.3.1 The conceptual basis of word classes
+
+533
+
+15.3.2 Attention
+
+535
+
+15.3.3 Force-dynamics
+
+544
+
+15.4 Categorisation and polysemy in grammar: the network
+
+conception
+
+545
+
+15.5 Summary
+
+548
+
+Further reading
+
+549
+
+Exercises
+
+550
+
+16 Cognitive Grammar: word classes
+
+553
+
+16.1 Word classes: linguistic categorisation
+
+554
+
+16.2 Nominal predications: nouns
+
+556
+
+16.2.1 Bounding
+
+557
+
+16.2.2 Homogeneity versus heterogeneity
+
+559
+
+16.2.3 Expansibility and contractibility versus replicability 559
+
+16.2.4 Abstractions
+
+560
+
+16.3 Nominal versus relational predications
+
+561
+
+16.4 Temporal versus atemporal relations
+
+563
+
+16.4.1 Temporal relations: verbs
+
+564
+
+16.4.2 Atemporal relations
+
+565
+
+16.4.3 Class schemas
+
+570
+
+16.5 Nominal grounding predications
+
+572
+
+xiii
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+
+16.5.1 Determiners and quantiﬁers
+
+572
+
+16.5.2 Grounding
+
+575
+
+16.6 Summary
+
+577
+
+Further reading
+
+577
+
+Exercises
+
+578
+
+17 Cognitive Grammar: constructions
+
+581
+
+17.1 Phrase structure
+
+582
+
+17.1.1 Valence
+
+583
+
+17.1.2 Correspondence
+
+584
+
+17.1.3 Proﬁle determinacy
+
+585
+
+17.1.4 Conceptual autonomy versus conceptual
+
+dependence
+
+585
+
+17.1.5 Constituency
+
+588
+
+17.1.6 The prototypical grammatical construction
+
+588
+
+17.2 Word structure
+
+589
+
+17.2.1 Phonological autonomy and dependence
+
+590
+
+17.2.2 Semantic autonomy and dependence
+
+590
+
+17.2.3 Prototypical stems and aﬃxes
+
+591
+
+17.2.4 Composite structure
+
+591
+
+17.2.5 Constructional schemas
+
+592
+
+17.2.6 Grammatical morphemes and agreement
+
+593
+
+17.3 Clauses
+
+594
+
+17.3.1 Valence at the clause level
+
+595
+
+17.3.2 Grammatical functions and transitivity
+
+601
+
+17.3.3 Case
+
+606
+
+17.3.4 Marked coding: the passive construction
+
+609
+
+17.4 Summary
+
+610
+
+Further reading
+
+611
+
+Exercises
+
+612
+
+18 Cognitive Grammar: tense, aspect, mood and voice
+
+615
+
+18.1 English verbs: form and function
+
+616
+
+18.2 The clausal head
+
+617
+
+18.2.1 The passive construction: [be2 [3 [V]]]
+
+620
+
+18.2.2 The progressive construction: [be1 [-ing [V]]]
+
+621
+
+18.2.3 The perfect construction: [have [4 [V]]]
+
+621
+
+18.3 The grounding predication: mood and tense
+
+624
+
+18.3.1 Mood
+
+625
+
+18.3.2 Tense
+
+626
+
+18.3.3 The epistemic model
+
+627
+
+18.4 Situation aspect
+
+631
+
+xiv
+
+18.4.1 Situation types 18.4.2 Perfective and imperfective  18.4.3 Aspect and the count/mass distinction 18.5 Summary Further reading Exercises
+
+CONTENTS
+631 632 634 637 638 638
+
+19 Motivating a construction grammar
+
+641
+
+19.1 Constructions versus ‘words and rules’
+
+642
+
+19.2 Exploring idiomatic expressions
+
+643
+
+19.2.1 Typology of idiomatic expressions
+
+643
+
+19.2.2 Case study I: the let alone construction
+
+648
+
+19.2.3 Case study II: the what’s X doing Y construction 651
+
+19.3 Construction Grammar
+
+653
+
+19.3.1 The Construction Grammar model
+
+653
+
+19.3.2 Construction Grammar: a ‘broadly generative’
+
+model
+
+659
+
+19.3.3 Comparing Construction Grammar with
+
+Cognitive Grammar
+
+660
+
+19.4 The ‘Generalisation Commitment’
+
+661
+
+19.5 Summary
+
+662
+
+Further reading
+
+662
+
+Exercises
+
+663
+
+20 The architecture of construction grammars
+
+666
+
+20.1 Goldberg’s construction grammar
+
+667
+
+20.1.1 Assumptions
+
+667
+
+20.1.2 Advantages of a constructional approach to verb
+
+argument structure
+
+669
+
+20.1.3 The relationship between verbs and
+
+constructions
+
+671
+
+20.1.4 Relationships between constructions
+
+680
+
+20.1.5 Case studies
+
+684
+
+20.2 Radical Construction Grammar
+
+692
+
+20.2.1 Taxonomy of constructions
+
+693
+
+20.2.2 Emphasis on diversity
+
+693
+
+20.2.3 Five key features of RCG
+
+693
+
+20.3 Embodied Construction Grammar
+
+697
+
+20.3.1 Emphasis on language processing
+
+697
+
+20.3.2 Analysis and simulation
+
+698
+
+20.4 Comparing constructional approaches to grammar
+
+699
+
+20.5 Summary
+
+701
+
+xv
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+
+Further reading
+
+702
+
+Exercises
+
+703
+
+21 Grammaticalisation
+
+707
+
+21.1 The nature of grammaticalisation
+
+708
+
+21.1.1 Form change
+
+710
+
+21.1.2 Meaning change
+
+712
+
+21.2 Metaphorical extension approaches
+
+714
+
+21.2.1 Case study: --
+
+718
+
+21.2.2 Case study: --
+
+719
+
+21.3 Invited Inferencing Theory
+
+721
+
+21.3.1 Case study: the evolution of must
+
+725
+
+21.4 The subjectiﬁcation approach
+
+728
+
+21.4.1 Case study: be going to
+
+730
+
+21.4.2 Case study: the evolution of auxiliaries from verbs
+
+of motion or posture
+
+730
+
+21.5 Comparison of the three approaches: be going to
+
+732
+
+21.6 Summary
+
+733
+
+Further reading
+
+734
+
+Exercises
+
+736
+
+22 Cognitive approaches to grammar in context
+
+741
+
+22.1 Theories of grammar: assumptions, objectives,
+
+methodology
+
+741
+
+22.1.1 Cognitive approaches to grammar
+
+743
+
+22.1.2 Generative approaches to grammar
+
+743
+
+22.1.3 Cognitive versus generative models
+
+752
+
+22.1.4 Functional-typological approaches to grammar
+
+758
+
+22.2 Core issues in grammar: comparing cognitive and
+
+generative accounts
+
+761
+
+22.2.1 Word classes
+
+761
+
+22.2.2 Constituency: heads and dependents
+
+763
+
+22.2.3 The status of tree diagrams
+
+763
+
+22.2.4 Grammatical functions and case
+
+765
+
+22.2.5 The verb string: tense, aspect and mood
+
+767
+
+22.2.6 The passive construction
+
+769
+
+22.3 Summary
+
+771
+
+Further reading
+
+771
+
+Exercises
+
+773
+
+xvi
+
+Part IV Conclusion
+23 Assessing the cognitive linguistics enterprise 23.1 Achievements 23.2 Remaining challenges 23.3 Summary
+Appendix: Tables and Figures References Index
+
+CONTENTS
+777 777 779 782
+783 792 812
+
+xvii
+
+Preface
+The nature of this book This book represents a general introduction to the area of theoretical linguistics known as cognitive linguistics. It consists of three main parts. Part I provides an overview of some of the main aims, assumptions and commitments of the cognitive linguistics enterprise, and provides an indicative sketch of some of the descriptive analyses and theoretical positions that are representative of cognitive linguistics. The next two parts focus on the two best-developed research frameworks in cognitive linguistics: cognitive semantics (Part II), and cognitive approaches to grammar (Part III). Although some cognitive linguists (notably Langacker) have extended their theories to account for phonology as well as meaning and grammar, we will be mainly concerned with meaning and grammar in this book, and will have little to say about phonology. In part, this reﬂects the fact that phonology has received relatively little attention within cognitive linguistics (although this situation is changing), and in part this reﬂects our own interests.
+Who is this book for? Our aim has been to provide a reasonably comprehensive general introduction to cognitive linguistics that is accessible enough for undergraduate students at the university level, while also serving as a work of reference both for linguists and for scholars from neighbouring disciplines. While striving for accessibility, we have also retained considerable detail (including relevant citations in the running text), so that readers (including research students and professional linguists unfamiliar with cognitive linguistics, as well as interested readers from
+xix
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+neighbouring disciplines), are provided with a route into the primary literature. In selecting the material presented, and in the presentation itself, we have attempted to provide as balanced a perspective as possible. However, cognitive linguistics represents a collection of approaches rather than a uniﬁed theoretical framework, and diﬀerent authors often take quite distinct positions on similar phenomena, sometimes relying on distinct terminology. It follows that what we present here under the name of ‘cognitive linguistics’ should be understood as a presentation of the cognitive approach ‘as we see it’.
+Using the book We have designed the book so that, in general terms, each chapter builds on preceding chapters. In particular, our decision to present the material on cognitive semantics (Part II) before the material on cognitive approaches to grammar (Part III) reﬂects the fact that cognitive grammarians assume much of what has been established by cognitive semanticists in developing their approaches. However, because diﬀerent readers and course tutors will need to use the book in ways tailored to their speciﬁc objectives, we have attempted to make Part II and Part III of the book relatively independent so that they can be used for separate courses. The book has suﬃcient coverage to provide the basis for a number of diﬀerent courses. We outline below suggestions for ‘routes’ through the book for three diﬀerent types of course, assuming 12 teaching weeks at the rate of one chapter per week. Of course, these suggestions can be adjusted depending on teaching time available, level of course and so on. The suggestions made here reﬂect undergraduate courses taught at the University of Sussex, where this textbook was piloted prior to publication.
+Vyvyan Evans and Melanie Green Linguistics and English Language Department University of Sussex
+March 2005
+xx
+
+Part I: Overview of the cognitive linguistics enterprise
+
+Introduction
+Cognitive linguistics is a modern school of linguistic thought that originally emerged in the early 1970s out of dissatisfaction with formal approaches to language. Cognitive linguistics is also ﬁrmly rooted in the emergence of modern cognitive science in the 1960s and 1970s, particularly in work relating to human categorisation, and in earlier traditions such as Gestalt psychology. Early research was dominated in the 1970s and 1980s by a relatively small number of scholars. By the early 1990s, there was a growing proliferation of research in this area, and of researchers who identiﬁed themselves as ‘cognitive linguists’. In 1989/90, the International Cognitive Linguistics Society was established, together with the journal Cognitive Linguistics. In the words of the eminent cognitive linguist Ronald Langacker ([1991] 2002: xv), this ‘marked the birth of cognitive linguistics as a broadly grounded, self conscious intellectual movement’.
+Cognitive linguistics is described as a ‘movement’ or an ‘enterprise’ because it is not a speciﬁc theory. Instead, it is an approach that has adopted a common set of guiding principles, assumptions and perspectives which have led to a diverse range of complementary, overlapping (and sometimes competing) theories. For this reason, Part I of this book is concerned with providing a ‘character sketch’ of the most fundamental assumptions and commitments that characterise the enterprise as we see it.
+In order to accomplish this, we map out the cognitive linguistics enterprise from a number of perspectives, beginning with the most general perspective and gradually focusing in on more speciﬁc issues and areas. The aim of Part I is to provide a number of distinct but complementary angles from which the nature and character of cognitive linguistics can be understood. We also draw comparisons with Generative Grammar along the way, in order to set the
+3
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+cognitive approach within a broader context and to identify how it departs from this other well known model of language.
+In Chapter 1, we begin by looking at language in general and at linguistics, the scientiﬁc study of language. By answering the question ‘What does it mean to know a language?’ from the perspective of cognitive linguistics, we provide an introductory insight into the enterprise. The second chapter is more speciﬁc and explicitly examines the two commitments that guide research in cognitive linguistics: the ‘Generalisation Commitment’ and the ‘Cognitive Commitment’. We also consider the notion of embodied cognition, and the philosophical doctrine of experiential realism, both of which are central to the enterprise. We also introduce the two main approaches to the study of language and the mind adopted by cognitive linguists: cognitive semantics and cognitive (approaches to) grammar, which serve as the focus for Part II and Part III of the book, respectively.
+Chapter 3 addresses the issue of linguistic universals and cross-linguistic variation. By examining how cognitive linguists approach such issues, we begin to get a feel for how cognitive linguistics works in practice. We explore the idea of linguistic universals from typological, formal and cognitive perspectives, and look in detail at patterns of similarity and variation in human language, illustrating with an investigation of how language and language-users encode and conceptualise the domains of SPACE and TIME. Finally, we address the Sapir-Whorf hypothesis: the idea that language can inﬂuence non-linguistic thought, and examine the status of this idea from the perspective of cognitive linguistics.
+In Chapter 4 we focus on the usage-based approach adopted by cognitive linguistic theories. In particular, we examine how representative usage-based theories attempt to explain knowledge of language, language change and child language acquisition. Finally, we explore how the emphasis on situated language use and context gives rise to new theories of human language that, for the ﬁrst time, provide a signiﬁcant challenge to formal theories of language.
+4
+
+1
+What does it mean to know a language?
+Cognitive linguists, like other linguists, study language for its own sake; they attempt to describe and account for its systematicity, its structure, the functions it serves and how these functions are realised by the language system. However, an important reason behind why cognitive linguists study language stems from the assumption that language reﬂects patterns of thought. Therefore, to study language from this perspective is to study patterns of conceptualisation. Language oﬀers a window into cognitive function, providing insights into the nature, structure and organisation of thoughts and ideas. The most important way in which cognitive linguistics diﬀers from other approaches to the study of language, then, is that language is assumed to reﬂect certain fundamental properties and design features of the human mind. As we will see throughout this book, this assumption has far-reaching implications for the scope, methodology and models developed within the cognitive linguistic enterprise. Not least, an important criterion for judging a model of language is whether the model is psychologically plausible.
+Cognitive linguistics is a relatively new school of linguistics, and one of the most innovative and exciting approaches to the study of language and thought that has emerged within the modern ﬁeld of interdisciplinary study known as cognitive science. In this chapter we will begin to get a feel for the issues and concerns of practising cognitive linguists. We will do so by attempting to answer the following question: what does it mean to know a language? The way we approach the question and the answer we come up with will reveal a lot about the approach, perspective and assumptions of cognitive linguists. Moreover, the view of language that we will ﬁnish with is quite diﬀerent from the view suggested by other linguistic frameworks. As we will see throughout this book, particularly in the comparative chapters at the ends of Part II and Part III, the
+5
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+answer to the title of this chapter will provide a signiﬁcant challenge to some of these approaches. The cognitive approach also oﬀers exciting glimpses into hitherto hidden aspects of the human mind, human experience and, consequently, what it is to be human.
+1.1 What is language for?
+We take language for granted, yet we rely upon it throughout our lives in order to perform a range of functions. Imagine how you would accomplish all the things you might do, even in a single day, without language: buying an item in a shop, providing or requesting information, passing the time of day, expressing an opinion, declaring undying love, agreeing or disagreeing, signalling displeasure or happiness, arguing, insulting someone, and so on. Imagine how other forms of behaviour would be accomplished in the absence of language: rituals like marriage, business meetings, using the Internet, the telephone, and so forth. While we could conceivably accomplish some of these things without language (a marriage ceremony, perhaps?), it is less clear how, in the absence of telepathy, making a telephone call or sending an e-mail could be achieved.
+In almost all the situations in which we ﬁnd ourselves, language allows quick and eﬀective expression, and provides a well developed means of encoding and transmitting complex and subtle ideas. In fact, these notions of encoding and transmitting turn out to be important, as they relate to two key functions associated with language, the symbolic function and the interactive function.
+1.1.1 The symbolic function of language
+One crucial function of language is to express thoughts and ideas. That is, language encodes and externalises our thoughts. The way language does this is by using symbols. Symbols are ‘bits of language’. These might be meaningful subparts of words (for example, dis- as in distaste), whole words (for example, cat, run, tomorrow), or ‘strings’ of words (for example, He couldn’t write a pop jingle let alone a whole musical). These symbols consist of forms, which may be spoken, written or signed, and meanings with which the forms are conventionally paired. In fact, a symbol is better referred to as a symbolic assembly, as it consists of two parts that are conventionally associated (Langacker 1987). In other words, this symbolic assembly is a form-meaning pairing.
+A form can be a sound, as in [k t]. (Here, the speech sounds are represented by symbols from the International Phonetic Alphabet.) A form might be the orthographic representation that we see on the written page: cat, or a signed gesture in a sign language. A meaning is the conventional ideational or semantic content associated with the symbol. A symbolic assembly of form and meaning is represented in Figure 1.1.
+6
+
+WHAT DOES IT MEAN TO KNOW A LANGUAGE?
+[Kæt]
+
+Figure 1.1 A symbolic assembly of form and meaning
+
+Percept(ion)
+
+Concept(ion)
+
+Linguistic meaning
+
+The world ‘out there’
+
+Form
+
+Figure 1.2 Levels of representation
+It is important to make it clear that the image of the cat in Figure 1.1 is intended to represent not a particular referent in the world, but the idea of a cat. That is, the image represents the meaning conventionally paired with the form pronounced in English as [k t]. The meaning associated with a linguistic symbol is linked to a particular mental representation termed a concept. Concepts, in turn, derive from percepts. For instance, consider a piece of fruit like a pear. Diﬀerent parts of the brain perceive its shape, colour, texture, taste, smell and so on. This diverse range of perceptual information deriving from the world ‘out there’ is integrated into a single mental image (a representation available to consciousness), which gives rise to the concept of PEAR. When we use language and utter the form pear, this symbol corresponds to a conventional meaning, and therefore ‘connects’ to a concept rather than directly to a physical object in the external world (see Figure 1.2).
+Our cognitive abilities integrate raw perceptual information into a coherent and well deﬁned mental image. The meanings encoded by linguistic symbols then, refer to our projected reality (Jackendoﬀ 1983): a mental representation of reality, as construed by the human mind, mediated by our unique perceptual and conceptual systems.
+We stated above that the symbolic function of language serves to encode and externalise our thoughts. We are now in a position to qualify this view. While our conceptualisations are seemingly unlimited in scope, language represents a limited and indeed limiting system for the expression of thought; we’ve all
+
+7
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+experienced the frustration of being unable to ‘put an idea into words’. There is, after all, a ﬁnite number of words, with a delimited set of conventional meanings. From this perspective then, language merely provides prompts for the construction of a conceptualisation which is far richer and more elaborate than the minimal meanings provided by language (Fauconnier 1997; Turner 1991). Accordingly, what language encodes is not thought in its complex entirety, but instead rudimentary instructions to the conceptual system to access or create rich and elaborate ideas. To illustrate this point, consider the following illustration adapted from Tyler and Evans (2003):
+(1) The cat jumped over the wall.
+This sentence describes a jump undertaken by a cat. Before reading on, select the diagram in Figure 1.3 that best captures, in your view, the trajectory of the jump.
+We anticipate that you selected the fourth diagram, Figure 1.3(d). After all, the conventional interpretation of the sentence is that the cat begins the jump on one side of the wall, moves through an arc-like trajectory, and lands on the other side of the wall. Figure 1.3(d) best captures this interpretation. On ﬁrst inspection, this exercise seems straightforward. However, even a simple sentence like (1) raises a number of puzzling issues. After all, how do we know that the trajectory of the cat’s jump is of the kind represented in Figure 1.3(d)? What information is there in the sentence that provides this interpretation and excludes the trajectories represented in Figures 1.3(a–c)?
+Even though the sentence in (1) would typically be judged as unambiguous, it contains a number of words that have a range of interpretations. The behaviour described by jump has the potential to involve a variety of trajectory shapes. For instance, jumping from the ground to the table involves the trajectory represented in Figure 1.3(a). Jumping on a trampoline relates to the trajectory represented in 1.3(b). Bungee jumping involves the trajectory represented in 1.3(c), in which the bungee jumper stops just prior to contact with the surface. Finally, jumping over a puddle, hurdle, wall and so on involves an arc-like trajectory as in 1.3(d).
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+Figure 1.3 Possible trajectories for The cat jumped over the wall
+
+8
+
+WHAT DOES IT MEAN TO KNOW A LANGUAGE?
+If the lexical item jump does not in itself specify an arc-like trajectory, but is vague with respect to the shape of the trajectory, then perhaps the preposition over is responsible. However, over can also have a range of possible interpretations. For instance, it might mean ‘across’, when we walk over a bridge (a horizontal trajectory). It might mean ‘above’, when an entity like a hummingbird is over a ﬂower (higher than but in close proximity to). Equally, over could mean ‘above’ when a plane ﬂies over a city (much higher and lacking close proximity). These are just a few of the possibilities. The point to emerge from this brief discussion is that over can be used when diﬀerent kinds or amounts of space are involved, and with a number of diﬀerent trajectories or paths of motion.
+Consider a further complication. Figure 1.3(d) crucially represents the cat’s motion ending at a point on the opposite side of the wall relative to the starting position of the jump. Yet no linguistic element in the sentence explicitly provides us with this information.
+Example (1) therefore illustrates the following point: even in a mundane sentence, the words themselves, while providing meanings, are only partially responsible for the conceptualisation that these meanings give rise to. Thought relies on a rich array of encyclopaedic knowledge (Langacker 1987). For example, when constructing an interpretation based on the sentence in (1), this involves at the very least the following knowledge: (1) that the kind of jumping cats perform involves traversing obstacles rather than bungee jumping; (2) that if a cat begins a jump at a point on one side of an obstacle, and passes through a point above that obstacle, then gravity will ensure that the cat comes to rest on the other side of the obstacle; (3) that walls are impenetrable barriers to forward motion; (4) that cats know this, and therefore attempt to circumnavigate the obstacle by going over it. We use all this information (and much more), in constructing the rich conceptualisation associated with the sentence in (1). The words themselves are merely prompts for the construction process.
+So far, then, we have established that one of the functions of language is to represent or symbolise concepts. Linguistic symbols, or more precisely symbolic assemblies, enable this by serving as prompts for the construction of much richer conceptualisations. Now let’s turn to the second function of language.
+1.1.2 The interactive function of language
+In our everyday social encounters, language serves an interactive function. It is not suﬃcient that language merely pairs forms and meanings. These formmeaning pairings must be recognised by, and be accessible to, others in our community. After all, we use language in order to ‘get our ideas across’, in other words to communicate. This involves a process of transmission by the speaker, and decoding and interpretation by the hearer, processes that involve the construction of rich conceptualisations (see Figure 1.4).
+9
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+[kæt]
+Speaker
+Hearer Figure 1.4 The interactive function
+The messages we choose to communicate can perform various interactive and social functions. For example, we can use language to change the way the world is, or to make things happen:
+(2) a. I now pronounce you man and wife. b. Shut the door on your way out!
+The utterance in (2a), spoken by a suitably qualiﬁed person (such as a member of the clergy licensed to perform marriages), in an appropriate setting (like a church), in the presence of two unmarried adults who consent to be joined in matrimony, has the eﬀect of irrevocably altering the social, legal and even spiritual relationship between the two people. That is, language itself can serve as a speech act that forever alters an aspect of our reality.
+Similarly, in the example in (2b), the utterance represents a command, which is also a type of speech act. Language provides a means of communication, allowing us to share our wishes and desires. Moreover, the way in which these wishes and desires are expressed signals who we are, and what kind of relationship we have with our addressee. We would be unlikely to issue a command like (2b) to the Queen of England, for example.
+Another way in which language fulﬁls the interactive function relates to the notion of expressivity. Language is ‘loaded’, allowing us to express our thoughts and feelings about the world; consider the diﬀerent mental images evoked by the following expressions, which might be used by diﬀerent speakers to refer to the same individual:
+(3) a. the eminent linguist b. the blonde bombshell
+10
+
+WHAT DOES IT MEAN TO KNOW A LANGUAGE?
+While the example in (3a) focuses on the profession of the individual and her relative standing in that profession, the example in (3b) focuses on her physical appearance. Moreover, although both these sentences relate to a female linguist, the person’s gender cannot be inferred from the sentence in (3a) while it can from the second sentence due to normative patterns of linguistic behaviour and social stereoptypes. That is, we typically use the expression blonde bombshell to describe the physical attributes of women rather than men.
+Language also plays a role in how we aﬀect other people in the world, and how we make others feel by our choice of words. That is, language can provide information about aﬀect (emotional response):
+(4) a. Shut up! b. I’m terribly sorry to interrupt you, but . . .
+These examples also illustrate the way in which we present our public selves through language. The language we choose to use conveys information about our attitudes concerning others, ourselves and the situations in which we ﬁnd ourselves.
+Language can be used to create scenes or frames of experience, indexing and even constructing a particular context (Fillmore 1982). In other words, language use can invoke frames that summon rich knowledge structures, which serve to call up and ﬁll in background knowledge.
+(5) a. How do you do? b. Once upon a time . . .
+The example in (5a) creates a greeting frame, signalling an acknowledgement of another person and a recognition that this is the ﬁrst time they have met. It also signals a degree of formality, which expressions like hey, what’s up? or hi would not. Analogously, the utterance in (5b) signals the beginning of a fairytale. In other words, just by hearing or reading the expression in (5b) an entire frame is invoked, which guides how we should respond to what follows, what our expectations should be and so forth.
+In summary, we’ve seen that not only does language encode particular meanings, but also that, by virtue of these meanings and the forms employed to symbolise these meanings which constitute part of shared knowledge in a particular speech community, language can serve an interactive function, facilitating and enriching communication in a number of ways.
+1.2 The systematic structure of language
+Having seen some examples of what language is used for, let’s now consider how language is structured. Language is a system for the expression of meaning and
+11
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+for carrying out its symbolic and interactive functions. So, what evidence is there for the systematicity of language?
+1.2.1 Evidence for a system
+Language consists of symbolic assemblies that are combined in various ways to perform the functions we described in section 1.1. A symbolic assembly is a conventional linguistic unit, which means that it is a piece of language that speakers recognise and ‘agree’ about in terms of what it means and how it is used. As we will see later in the book, particularly in Part III, one of the prominent concerns in cognitive approaches to grammar is how to model the inventory of linguistic units that make up a language. For example, speakers of Modern English ‘agree’ that the form cat is used to refer to a certain kind of meaning which we illustrated in Figure 1.2. A conventional unit can be a meaningful subpart of a word, which linguists call a morpheme (anti-dis-establish . . .), a whole word, a string of words that ‘belong’ together (a phrase) or a whole sentence. Now let’s consider another example:
+(6) He kicked the bucket
+This utterance consists of a sentence that has an idiomatic meaning in English. That is, its meaning is not predictable from the integrated meanings of the individual words. A non-native speaker of English who has not learnt the ‘special’ idiomatic meaning will only be able to interpret example (6) literally. Native speakers of English, on the other hand, while also being able to interpret the sentence literally, often cannot avoid the idiomatic meaning ‘he died’. Of course, whether a literal versus an idiomatic interpretation is accessed depends on the situation or context in which the utterance occurs.
+Focusing for now on the idiomatic interpretation, we can view this utterance as a unit that has a particular meaning associated with it. Therefore, it counts as a symbolic assembly. Another term for symbolic assembly that is employed by some cognitive linguists is construction (e.g. Goldberg 1995). We will look in detail at the notion of symbolic assemblies and constructions in Part III of the book.
+When we change certain aspects of the sentence in (6), the meaning is aﬀected. For example, if we change the object (the thing being kicked), as in (7), we lose the idiomatic meaning and are left with a literal utterance:
+(7) He kicked the mop.
+For many cognitive linguists, what makes example (7) ‘literal’ is that this sentence ‘as a whole’ does not represent a construction. Instead, the meaning of (7)
+12
+
+WHAT DOES IT MEAN TO KNOW A LANGUAGE?
+is interpreted by unifying the smaller units, the words. In contrast, example (6) is interpreted as a whole single unit: a construction. One way of expressing this idea in more intuitive terms is to use the metaphor of ‘storage’: suppose we store our knowledge of words, phrases and complex constructions in a mental ‘box’. The behaviour of larger constructions, like kick the bucket, suggests that these are stored as ‘chunks’ or single units, just like words. The meanings of sentences like (7) on the other hand are ‘built’ by unifying the individual words that make them up.
+Now consider another example. If we change the structure of example (6) in the following way, we also lose the idiomatic meaning:
+(8) The bucket was kicked by him.
+This example shows that, in addition to meaning, constructions (formmeaning pairings) have particular formal grammatical patterns associated with them. In other words, the properties of the construction relate not only to the individual words that make it up, as in (6), but also to the grammatical form, or word order. The passive construction in (8), in which the bucket is placed in subject position, fails to provide the idiomatic meaning associated with the sentence in (6). We can conclude from this that the linear arrangement of the words in the sentence constitutes part of an individual’s knowledge of idiomatic constructions like (6).
+This point is also illustrated by an ungrammatical sentence, a sentence that does not correspond to any of the formal patterns associated with the constructions of English, as in (9), and consequently does not have a conventional meaning associated with it. Ungrammaticality is indicated by an asterisk:
+(9) *Bucket kicked he the
+As we noted above, the sentence in (6) qualiﬁes as a construction because it consists of particular words arranged in a particular order, and these words are conventionally associated with a particular (idiomatic) meaning. However, we have suggested that constructions can also give rise to ‘literal’ meanings. To illustrate this, we will examine another sentence that has both idiomatic and literal meanings. For instance, consider the following linguistic joke:
+(10) A: Waiter, what is this ﬂy doing in my soup? B: I think that’s the breaststroke, sir!
+This joke turns on the ambiguity between the regular interrogative construction, in which a speaker is enquiring after the intention or purpose of something or someone (What’s that seagull doing on the roof ? What’s that woman
+13
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+doing over there?), and the ‘What’s X doing Y construction’, studied in detail by cognitive linguists Paul Kay and Charles Fillmore (1999), in which the speaker is indicating that a particular situation is incongruous or unacceptable (What are you doing wearing those bunny ears? What are those clothes doing on the ﬂoor?). Notice that each of these interpretations requires a diﬀerent kind of response. For the regular interrogative construction, the response should consist minimally of a piece of information corresponding to the question word (building a nest; waiting for a bus). For the ‘what’s X doing Y’ construction, on the other hand, the expected response is typically an explanation, excuse or apology (I’m going to a fancy-dress party; I’ve been busy).
+Crucially, for example (10), these two very diﬀerent meanings are conventionally associated with exactly the same words arranged in the same sequence. The humorous eﬀect of the waiter’s reply rests on the fact that he has chosen to respond to the ‘wrong’ interpretation. While the diner is employing the ‘what’s X doing Y’ construction, the waiter prefers to respond to the interrogative construction.
+The examples in this section illustrate the fact that there is a systematic relationship between words, their meanings and how they are arranged in conventional patterns. In other words, language has a systematic structure.
+1.2.2 The systematic structure of thought
+Does the systematic structure found in language reﬂect a systematic structure within our conceptual system? Cognitive linguists certainly think so. Cognitive linguists explore the hypothesis that certain kinds of linguistic expressions provide evidence that the structure of our conceptual systems is reﬂected in the patterns of language. Moreover, as we will see throughout this book, the way the mind is structured can be seen as a reﬂection, in part, of the way the world (including our sociocultural experience) is structured and organised. Consider the examples in (11).
+(11) a. Christmas is fast approaching. b. The number of shares we own has gone up. c. Those two have a very close friendship.
+These examples relate to the abstract conceptual domains of TIME (11a), QUANTITY (11b) and AFFECTION (11c). A conceptual domain is a body of knowledge within our conceptual system that contains and organises related ideas and experiences. For example, the conceptual domain of TIME might relate a range of temporal concepts including Christmas, which is a temporal event. Notice that in each sentence in (11) the more abstract concepts Christmas, number (of shares) and friendship are understood in terms of conceptual domains relating to concrete
+14
+
+WHAT DOES IT MEAN TO KNOW A LANGUAGE?
+physical experience. For instance, Christmas is conceptualised in terms of the domain of physical MOTION, which is evident in the use of the word approaching in (11a). Clearly Christmas (and other temporal concepts) cannot literally be said to undergo motion. Similarly, the notion of number of shares is conceptualised in terms of VERTICAL ELEVATION, which is clear from the use of the phrase gone up in (11b). Finally, friendship is conceptualised in terms of PHYSICAL PROXIMITY in (11c), which is shown by the use of the word close.
+One of the major ﬁndings to have emerged from studies into the human conceptual system is that abstract concepts are systematically structured in terms of conceptual domains deriving from our experience of the behaviour of physical objects, involving properties like motion, vertical elevation and physical proximity (Lakoﬀ and Johnson 1980, 1999). It seems that the language we use to talk about temporal ideas such as Christmas provides powerful evidence that our conceptual system ‘organises’ abstract concepts in terms of more concrete kinds of experiences, which helps to make the abstract concepts more readily accessible.
+1.3 What do linguists do?
+As we have begun to see, cognitive linguists form hypotheses about the nature of language, and about the conceptual system that it is thought to reﬂect. These hypotheses are based on observing patterns in the way language is structured and organised. It follows that a theory of language and mind based on linguistic observation must ﬁrst describe the linguistic facts in a systematic and rigorous manner, and in such a way that the description provides a plausible basis for a speaker’s tacit knowledge of language. This foundation for theorising is termed descriptive adequacy (Chomsky 1965; Langacker 1987, 1999a). This concern is one that cognitive linguists share with linguists working in other traditions. Below, we provide an outline of what it is that linguists do and how they go about it.
+1.3.1 What?
+Linguists try to uncover the systems behind language, to describe these systems and to model them. Linguistic models consist of theories about language. Linguists can approach the study of language from various perspectives. Linguists may choose to concentrate on exploring the systems within and between sound, meaning and grammar, or to focus on more applied areas, such as the evolution of language, the acquisition of language by children, language disorders, the questions of how and why language changes over time, or the relationship between language, culture and society. For cognitive linguists, the emphasis is upon relating the systematicity exhibited by language directly to
+15
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+the way the mind is patterned and structured, and in particular to conceptual structure and organisation. It follows that there is a close relationship between cognitive linguistics and aspects of cognitive psychology. In addition to this, applied linguistics also informs and is informed by the cognitive linguistics research agenda in various ways (see Chapters 3 and 4 for further discussion of this point).
+1.3.2 Why?
+Linguists are motivated to explore the issues we outlined above by the drive to understand human cognition, or how the human mind works. Language is a uniquely human capacity. Linguistics is therefore one of the cognitive sciences, alongside philosophy, psychology, neuroscience and artiﬁcial intelligence. Each of these disciplines seeks to explain diﬀerent (and frequently overlapping) aspects of human cognition. In particular, as we have begun to see, cognitive linguists view language as a system that directly reﬂects conceptual organisation.
+1.3.3 How?
+As linguists, we rely upon what language tells us about itself. In other words, it is ordinary language, spoken every day by ordinary people, that makes up the ‘raw data’ that linguists use to build their theories. Linguists describe language, and on the basis of its properties, formulate hypotheses about how language is represented in the mind. These hypotheses can be tested in a number of ways.
+1.3.4 Speaker intuitions
+Native speakers of any given human language will have strong intuitions about what combinations of sounds or words are possible in their language, and which interpretations can be paired with which combinations. For example, native speakers of English will agree that example (6), repeated here, is a wellformed sentence, and that it may have two possible meanings:
+(6) He kicked the bucket.
+They will also agree that (7) and (8), repeated here, are both well-formed sentences, but that each has only one possible meaning:
+(7) He kicked the mop. (8) The bucket was kicked by him.
+16
+
+WHAT DOES IT MEAN TO KNOW A LANGUAGE?
+Finally, and perhaps most strikingly, speakers will agree that all of the following examples are impossible in English:
+
+(12) a. b. c. d.
+
+*bucket kicked he the *kicked bucket the he *bucket the kicked he *kicked he bucket the
+
+Facts like these show that language, and speakers’ intuitions about language, can be seen as a ‘window’ to the underlying system. On the basis of the patterns that emerge from the description of language, linguists can begin to build theoretical ‘models’ of language. A model of language is a set of statements that is designed to capture everything we know about this hidden cognitive system in a way that is principled, based on empirical evidence and psychologically plausible.
+
+1.3.5 Converging evidence
+How do cognitive linguists evaluate the adequacy of their models? One way is to consider converging evidence (Langacker 1999a). This means that a model must not only explain linguistic knowledge, but must also be consistent with what cognitive scientists know about other areas of cognition, reﬂecting the view that linguistic structure and organisation are a relatively imprecise but nevertheless indicative reﬂection of cognitive structure and organisation. By way of illustration, consider the scene in Figure 1.5.
+How might we use language to describe a scene like this? Most English speakers will agree that (13a) is an appropriate description but that (13b) is ‘odd’:
+(13) a. The cat is on the chair. b. ?The chair is under the cat.
+
+Figure 1.5 The cat is on the chair
+17
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+Why should (13b) be ‘odd’? It’s a perfectly grammatical English sentence. From what psychology has revealed about how the human mind works, we know that we have a tendency to focus our attention on certain aspects of a visual scene. The aspect we focus on is something about which we can make certain predictions. For example, in Figure 1.5 we focus on the cat rather than the chair, because our knowledge of the world tells us that the cat is more likely than the chair to move, to make a noise or to perform some other act. We call this prominent entity the ﬁgure and the remainder of the scene the ground, which is another way of saying ‘background’ (see Chapter 3). Notice that this fact about human psychology provides us with an explanation for why language ‘packages’ information in certain ways. In (13a) the cat has a prominent position in the sentence; any theory of language will tell you that sentence initial position is a ‘special’ position in many of the world’s languages. This accords with the prominence of the corresponding entity in the visual scene. This explanation, based on the ﬁgure-ground distinction, also provides us with an explanation for why (13b) is ‘odd’. This is an example of how converging evidence works to strengthen or conﬁrm theories of language. Can you think of a situation in which (13b) would not be odd?
+1.4 What it means to know a language
+Let’s look more closely now at some of the claims made by cognitive linguists about how language is represented in the mind. We have established that the linguist’s task is to uncover the systematicity behind and within language. What kinds of systems might there be within language? We’ll begin to answer this question by introducing one fundamental distinction based on the foundational work of pioneering cognitive linguist Leonard Talmy. Talmy suggests that the cognitive representation provided by language can be divided into lexical and grammatical subsystems. Consider the following example:
+(14) The hunter tracked the tigers.
+Notice that certain parts of the sentence in (14) – either whole words (free morphemes), or meaningful subparts of words (bound morphemes) – have been marked in boldtype. What happens when we alter those parts of the sentence?
+(15) a. Which hunter tracked the tigers? b. The hunter tracks the tigers. c. Those hunters track a tiger.
+All the sentences in (15) are still about some kind of tracking event involving one or more hunter(s) and one or more tiger(s). What happens when we change
+18
+
+WHAT DOES IT MEAN TO KNOW A LANGUAGE?
+the ‘little’ words like a, the and those and the bound morphemes like -ed or -s is that we then interpret the event in diﬀerent ways, relating to information about number (how many hunters or tigers are/were there?), tense (did this event happen before now or is it happening now?), old/new information (does the hearer know which hunters or tigers we’re talking about?) and whether the sentence should be interpreted as a statement or a question.
+These linguistic elements and morphemes are known as closed-class elements and relate to the grammatical subsystem. The term closed-class refers to the fact that it is typically more diﬃcult for a language to add new members to this set of elements. This contrasts with the non-boldtype ‘lexical’ words which are referred to as open-class. These relate to the lexical subsystem. The term open-class refers to the fact that languages typically ﬁnd it much easier to add new elements to this subsystem and do so on a regular basis.
+In terms of the meaning contributed by each of these two subsystems, while ‘lexical’ words provide ‘rich’ meaning and thus have a content function, ‘grammatical’ elements perform a structuring function in the sentence. They contribute to the interpretation in important but rather more subtle ways, providing a kind of ‘scaﬀolding’ which supports and structures the rich content provided by open-class elements. In other words, the elements associated with the grammatical subsystem are constructions that contribute schematic meaning rather than rich contentful meaning. This becomes clearer when we alter the other parts of the sentence. Compare (14) with (16):
+(16) a. The movie star kissed the directors. b. The sunbeam illuminated the rooftops. c. The textbook delighted the students.
+What all the sentences in (16) have in common with (14) is the ‘grammatical’ elements. In other words, the grammatical structure of all the sentences in (16) is identical to that of (15). We know that both participants in the event can easily be identiﬁed by the hearer. We know that the event took place before now. We know that there’s only one movie star/sunbeam/textbook, but more than one director/rooftop/student. Notice that the sentences diﬀer in rather a dramatic way, though. They no longer describe the same kind of event at all. This is because the ‘lexical’ elements prompt for certain kinds of concepts that are richer and less schematic in nature than those prompted for by ‘grammatical’ elements. The lexical subsystem relates to things, people, places, events, properties of things and so on. The grammatical subsystem on the other hand relates to concepts having to do with number, time reference, whether a piece of information is old or new, whether the speaker is providing information or requesting information, and so on.
+19
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+
+Table 1.1 Properties of the lexical and grammatical subsystems
+
+Lexical subsystem
+
+Grammatical subsystem
+
+Open-class words/morphemes Content function Larger set; constantly changing Prompts for ‘rich’ concepts, e.g. people,
+things, places, properties, etc.
+
+Closed-class words/morphemes Structuring function Smaller set; more resistant to change Prompts for schematic concepts, e.g. number,
+time reference, old vs. new, statement vs. question, etc.
+
+A further important distinction between these two subsystems concerns the way that language changes over time. The elements that comprise the lexical (open-class) subsystem make up a large and constantly changing set in any given human language; over a period of time, words that are no longer ‘needed’ disappear and new ones appear. The ‘grammatical’ (closed-class) elements that make up the grammatical subsystem, on the other hand, constitute a smaller set, relatively speaking, and are much more stable. Consequently, they tend to be more resistant to change. However, even ‘grammatical’ elements do change over time. This is a subject we’ll come back to in more detail later in the book when we discuss the process known as grammaticalisation (see Chapter 21).
+Table 1.1 provides a summary of these important diﬀerences between the lexical and grammatical subsystems. Together, these two subsystems allow language to present a cognitive representation, encoding and externalising thoughts and ideas.
+Having provided a sketch of what it means to know a language from the perspective of cognitive linguistics, we will now begin to examine the cognitive linguistics enterprise in more detail. In particular, we must consider the assumptions and commitments that underlie the cognitive linguistics enterprise, and begin to examine this approach to language in terms of its perspective, assumptions, the cognitive and linguistic phenomena it considers, its methodologies and its approach to theory construction. We turn to these issues in the next chapter.
+1.5 Summary
+We began this chapter by stating that cognitive linguists, like other linguists, attempt to describe and account for linguistic systematicity, structure and function. However, for cognitive linguists, language reﬂects patterns of thought; therefore, to study language is to study patterns of conceptualisation. In order to explore these ideas in more detail we looked ﬁrst at the functions of language. Language provides a means of encoding and transmitting
+20
+
+WHAT DOES IT MEAN TO KNOW A LANGUAGE?
+ideas: it has a symbolic function and an interactive function. Language encodes and externalises our thoughts by using symbols. Linguistic symbols consist of form-meaning pairings termed symbolic assemblies. The meaning associated with a linguistic symbol relates to a mental representation termed a concept. Concepts derive from percepts; the range of perceptual information deriving from the world is integrated into a mental image. The meanings encoded by linguistic symbols refer to our projected reality: a mental representation of reality as construed by the human mind. While our conceptualisations are unlimited in scope, language merely provides prompts for the construction of conceptualisations. Language also serves an interactive function; we use it to communicate. Language allows us to perform speech acts, or to exhibit expressivity and aﬀect. Language can also be used to create scenes or contexts; hence, language has the ability to invoke experiential frames.
+Secondly, we examined the evidence for a linguistic system, introducing the notion of a conventional linguistic unit, which may be a morpheme, a word, a string of words or a sentence. We introduced the notion of idiomatic meaning which is available in certain contexts and which can be associated with constructions. This contrasts with literal meaning, which may be derived by unifying smaller constructions like individual words. Word order constitutes part of an individual’s knowledge of particular constructions, a point illustrated by ungrammatical sentences. We also related linguistic structure to the systematic structure of thought. Conceptual domains reﬂected in language contain and organise related ideas and experiences.
+Next, we outlined the task of the cognitive linguist: to form hypotheses about the nature of language and about the conceptual system that it reﬂects. These hypotheses must achieve descriptive adequacy by describing linguistic facts in a systematic and rigorous manner. Linguists try to uncover, describe and model linguistic systems, motivated by the drive to understand human cognition. Linguistics is therefore one of the cognitive sciences. Cognitive linguists carry out this task by examining linguistic data and by relying on native speaker intuitions and converging evidence. As an example of converging evidence, we explored the linguistic reﬂex of the distinction made in psychology between ﬁgure and ground.
+Finally, we looked at what it means to know a language, and introduced an important distinction between kinds of linguistic knowledge: the cognitive representation provided by language can be divided into lexical and grammatical subsystems. The lexical subsystem contains open-class elements which perform a content function. The grammatical subsystem contains closed-class elements, which perform a structuring function providing schematic meaning.
+21
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+Further reading
+A selection of introductory texts that deal broadly with all aspects of linguistics for those relatively new to the subject
+• Dirven and Verspoor (2004). This introductory textbook of general linguistics takes a cognitive approach and includes chapters on language and thought, and words, meanings and concepts.
+• Fromkin, Rodman and Hyams (2002). A very popular introductory textbook of linguistics.
+• Trask (1999). An accessible introduction to linguistics for the layperson; an entertaining read.
+A selection of introductory texts on cognitive science in general
+• Bechtel and Graham (eds) (1999) • Cummins and Cummins (eds) (1999) • Green (ed.) (1996)
+Each of these volumes is an introductory-level collection of papers on various aspects of cognitive science. The Green volume places a particular emphasis on linguistics.
+A list of texts that provide an overview of the issues of concern to cognitive linguists
+• Allwood and Gärdenfors (eds) (1999). A collection of papers on various aspects of cognitive semantics; the paper by Gärdenfors provides a particularly useful overview.
+• Geeraerts (1995). This article compares cognitive linguistic approaches with cognitive science and generative grammar and provides a very broad survey of work on cognitive linguistics; not as accessible as Radden’s chapter.
+• Geeraerts and Cuyckens (2005). An important reference work featuring articles on a wide range of areas in cognitive linguistics by leading scholars in the ﬁeld.
+• Goldberg (ed.) (1996). A collection of conference papers. Provides a representative sample of the range of concerns and issues addressed by cognitive linguists.
+• Janssen and Redeker (1999). A collection of papers by some of the leading proponents in the ﬁeld; a good background to cognitive linguistics in general.
+22
+
+WHAT DOES IT MEAN TO KNOW A LANGUAGE?
+• Lakoﬀ (1987). Seminal text for cognitive linguistics; lively and accessible.
+• Radden (1992). Provides a clear and accessible overview of iconicity in language, categorisation, metaphor, cultural models and grammar as a conceptual organising system.
+• Rudzka-Ostyn (1988). An early collection. Includes seminal papers by, among others, two highly inﬂuential scholars, Langacker and Talmy.
+A list of texts that relate to the issues dealt with in this chapter
+• Evans (2004a). Explores the relationship between language and conceptual organisation by focusing on how we think and talk about time and temporal experience.
+• Fillmore, Kay and O’Connor (1988). Seminal article on the relation between idiomaticity and constructions.
+• Lakoﬀ and Johnson (1980). An early but hugely inﬂuential study which ﬁrst proposed that language reﬂects systematic ‘mappings’ (conceptual metaphors) between abstract and concrete conceptual domains.
+• Langacker (1999a). A survey article which deals with the notions of the symbolic (in Langacker’s terms ‘semiotic’) and interactive functions associated with language, the notion of converging evidence, and how cognitive linguistics diﬀers from formal and functional approaches to language.
+• Nuyts and Pederson (eds) (1997). The ﬁrst chapter provides a good general discussion of the nature of the relationship between language and thought.
+• Talmy (2000). Chapter 1 deals with the notion of the cognitive representation and the distinction between the lexical (open-class) and grammatical (closed-class) subsystems.
+• Tyler and Evans (2003). The ﬁrst chapter addresses the idea that words are merely impoverished ‘prompts’ for rich conceptualisation. Includes a detailed discussion and illustration of the The cat jumped over the wall example.
+Exercises
+1.1 Linguistic encoding
+Consider the following examples in the light of our discussion of example (1). Using the diagrams in Figure 1.3 as a starting point, try to draw similar diagrams that capture the path of motion involved in each example. In each case, how
+23
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+much of this information is explicitly encoded within the meanings of the words themselves? How much seems to depend on what you know about the world?
+(a) The baby threw the rattle out of the buggy. (b) I threw the cat out of the back door. (c) I tore up the letter and threw it out of the window. (d) I threw the tennis ball out of the house. (e) I threw the ﬂowers out of the vase.
+1.2 Constructions
+The examples below contain idiomatic constructions. If you are a non-native speaker of English, you may need to consult a native speaker or a dictionary of idioms to ﬁnd out the idiomatic meaning. In the light of our discussion of example (6), try changing certain aspects of each sentence to see whether these examples pattern in the same way. For instance, what happens if you change the subject of the sentence (for example, the presidential candidate in the ﬁrst sentence)? What happens if you change the object (for example, the towel)? It’s not always possible to make a sentence passive, but what happens to the meaning here if you can?
+(a) The presidential candidate threw in the towel. (b) Before the exam, Mary got cold feet. (c) She’s been giving me the cold shoulder lately. (d) You are the apple of my eye. (e) She’s banging her head against a brick wall.
+What do your ﬁndings suggest about an individual’s knowledge of such constructions as opposed to sentences containing literal meaning? Do any of these examples also have a literal meaning?
+1.3 Word order
+Take example (b) from exercise 1.2 above. Believe it or not, a sentence like this with seven words has 5,040 mathematically possible word order permutations! Try to work out how many of these permutations result in a grammatical sentence. What do your ﬁndings suggest?
+1.4 Concepts and conceptual domains
+The examples below contain linguistic expressions that express abstract concepts. In the light of our discussion of the examples in (11), identify the relevant
+24
+
+WHAT DOES IT MEAN TO KNOW A LANGUAGE?
+conceptual domain that the concept might relate to. Do these abstract concepts appear to be understood in terms of concrete physical experiences? What is the evidence for your conclusions?
+(a) You’ve just given me a really good idea. (b) How much time did you spend on this essay? (c) He fell into a deep depression. (d) The Stock Market crashed on Black Wednesday. (e) Unfortunately, your argument lacks a solid foundation.
+Now come up with other sentences which illustrate similar patterns for the following conceptual domains:
+(f) THEORIES (g) LOVE (h) ARGUMENT (i) ANGER (j) KNOWING/UNDERSTANDING
+1.5 Figure and ground Consider the scenes in Figure 1.6. For each one, state the sentence that springs ﬁrst to mind as the most natural way of describing the scene. For example, for the scene in (a), you might come up with The goldﬁsh is in the bowl. What happens if you change the sentence around as we did for example (15)? What do your ﬁndings suggest about the ﬁgure/ground distinction?
+1.6 Open-class or closed-class? Consider the example below in the light of our discussion of examples (15)–(16). First, try to identify the open-class words/morphemes and the closed-class words/morphemes by referring to the properties described in Table 1.1. Next, come up with a set of examples in which only the closed-class words/morphemes have been altered. What kinds of diﬀerences do these changes make to the sentence? Finally, try changing the open-class words/morphemes. What kinds of diﬀerences do these changes make to the sentence?
+The supermodel was putting on her lipstick.
+25
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+Figure 1.6 Figure and ground
+26
+
+2
+The nature of cognitive linguistics: Assumptions and commitments
+In this chapter we address the assumptions and commitments that make cognitive linguistics a distinctive enterprise. We begin by outlining two key commitments widely shared by cognitive linguists. These are the ‘Generalisation Commitment’ and the ‘Cognitive Commitment’. These two commitments underlie the orientation and approach adopted by practising cognitive linguists, and the assumptions and methodologies employed in the two main branches of the cognitive linguistics enterprise: cognitive semantics and cognitive approaches to grammar. Once we have outlined the two commitments of cognitive linguistics, we then proceed to address the relationship between language, the mind and experience. The embodied cognition thesis is also addressed in some detail as it is at the heart of much research within cognitive linguistics. This thesis holds that the human mind and conceptual organisation are functions of the ways in which our species-speciﬁc bodies interact with the environment we inhabit. Finally, we provide a brief overview and introduction to cognitive semantics and cognitive (approaches to) grammar, which are addressed in detail in Parts II and Part III of the book, respectively.
+2.1 Two key commitments In an important 1990 paper, George Lakoﬀ, one of the pioneering ﬁgures in cognitive linguistics, argued that the cognitive linguistics enterprise is characterised by two key commitments. These are (1) the ‘Generalisation Commitment’: a commitment to the characterisation of general principles that are responsible for all aspects of human language, and (2) the Cognitive Commitment: a commitment to providing a characterisation of general principles for language that
+27
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+accords with what is known about the mind and brain from other disciplines. In this section we discuss these two commitments and their implications.
+2.1.1 The ‘Generalisation Commitment’
+One of the assumptions that cognitive linguists make is that there are common structuring principles that hold across diﬀerent aspects of language, and that an important function of linguistics is to identify these common principles. In modern linguistics, the study of language is often separated into distinct areas such as phonology (sound), semantics (word and sentence meaning), pragmatics (meaning in discourse context), morphology (word structure) syntax (sentence structure) and so on. This is particularly true of formal approaches: approaches to modelling language that posit explicit mechanical devices or procedures operating on theoretical primitives in order to produce the complete set of linguistic possibilities in a given language. Within formal approaches (such as the Generative Grammar approach developed by Noam Chomsky), it is usually argued that areas such as phonology, semantics and syntax concern signiﬁcantly diﬀerent kinds of structuring principles operating over diﬀerent kinds of primitives. For instance, a syntax ‘module’ is an area in the mind concerned with structuring words into sentences, whereas a phonology ‘module’ is concerned with structuring sounds into patterns permitted by the rules of any given language, and by human language in general. This modular view of mind reinforces the idea that modern linguistics is justiﬁed in separating the study of language into distinct subdisciplines, not only on grounds of practicality but because the components of language are wholly distinct and, in terms of organisation, incommensurable.
+Cognitive linguistics acknowledges that it may often be useful, for practical purposes, to treat areas such as syntax, semantics and phonology as being notionally distinct. The study of syntactic organisation involves, at least in part, the study of slightly diﬀerent kinds of cognitive and linguistic phenomena than the study of phonological organisation. However, given the ‘Generalisation Commitment’, cognitive linguists disagree that the ‘modules’ or ‘subsystems’ of language are organised in signiﬁcantly divergent ways, or indeed that distinct modules or subsystems even exist. Below we brieﬂy consider the properties of three areas of language in order to give an idea of how apparently distinct language components can be seen to share fundamental organisational features. The three areas we will look at are (1) categorisation, (2) polysemy and (3) metaphor.
+Categorisation
+An important recent ﬁnding in cognitive psychology is that categorisation is not criterial. This means that it is not an ‘all-or-nothing’ aﬀair. Instead, human
+28
+
+THE NATURE OF COGNITIVE LINGUISTICS
+
+(a)
+
+(b)
+
+(c)
+
+Figure 2.1 Some members of the category CUP
+
+(d)
+
+(e)
+
+categories often appear to be fuzzy in nature, with some members of a category appearing to be more central and others more peripheral. Moreover, degree of centrality is often a function of the way we interact with a particular category at any given time. By way of illustration, consider the images in Figure 2.1. It is likely that speakers of English would select the ﬁrst image 2.1(a) as being more representative of the category CUP than image 2.1(e). However, when drinking from the container in 2.1(e), a speaker might refer to it as a cup. On another occasion, perhaps when using a spoon to eat soup from the same container, the same speaker might describe it as a bowl. This illustrates that not only is categorisation fuzzy (for example, when does a cup become a bowl?), but also our interaction with a particular entity can inﬂuence how we categorise it.
+Although the category members in Figure 2.1 may be rated as being more or less representative of the category CUP, each of the members appears to resemble others in a variety of ways, despite the fact that there may not be a single way in which all the members resemble each other. For instance, while the cup in 2.1(a) has a handle and a saucer and is used for drinking beverages like tea or coﬀee, the ‘cup’ in 2.1(d) does not have a handle, nor is it likely to be used for hot beverages like tea or coﬀee; instead, this cup is more likely to contain drinks like wine. Similarly, while the ‘cup’ in 2.1(e) might be categorised as a ‘bowl’ when we use a spoon to ‘eat’ from it, when we hold the ‘bowl’ to our lips and drink soup from it, we might be more inclined to think of it as a ‘cup’. Hence, although the ‘cups’ in Figure 2.1 vary in terms of how representative they are, they are clearly related to one another. Categories that exhibit degrees of centrality, with some members being more or less like other members of a category rather than sharing a single deﬁning trait, are said to exhibit family resemblance.
+However, fuzziness and family resemblance are not just features that apply to physical objects like cups; these features apply to linguistic categories like morphemes and words too. Moreover, category-structuring principles of this kind are not restricted to speciﬁc kinds of linguistic knowledge but apply across the board. In other words, linguistic categories – whether they relate to phonology, syntax or morphology – all appear to exhibit these phenomena. Formal approaches to linguistics have tended towards the view that a particular category exhibits uniform behaviour which characterises the category. As we will see,
+
+29
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+however, linguistic categories, despite being related, often do not behave in a uniform way. Instead, they reveal themselves to contain members that exhibit quite divergent behaviour. In this sense, linguistic categories exhibit fuzziness and family resemblance. We illustrate this below – based on discussion in Taylor (2003) – with one example from each of the following areas: morphology, syntax and phonology.
+
+Categorisation in morphology: the diminutive in Italian In linguistics, the term ‘diminutive’ refers to an aﬃx added to a word to convey the meaning ‘small’, and is also used to refer to a word formed by the addition of this aﬃx. In Italian the diminutive suﬃx has a number of forms such as -ino, -etto, and -ello:
+
+(1) paese → paesino
+
+‘village’
+
+‘small village’
+
+While a common meaning associated with this form is ‘physically small’, as in (1), this is not the only meaning. In the following example the diminutive signals aﬀection rather than small size:
+
+(2) mamma → mammina
+
+‘mum’
+
+‘mummy’
+
+When applied to abstract nouns, the diminutive acquires a meaning of short temporal duration, reduced strength or reduced scale:
+
+(3) sinfonia → sinfonietta
+
+‘symphony’
+
+‘sinfonietta’ (a shorter symphony, often with fewer
+
+instruments)
+
+(4) cena ‘supper’
+
+→ cenetta ‘light supper’
+
+(5) pioggia ‘rain’
+
+→ ‘pioggerella ‘drizzle’
+
+When the diminutive is suﬃxed to adjective or adverbs, it serves to reduce intensity or extent:
+
+(6) bello
+
+→ bellino
+
+‘beautiful’ ‘pretty/cute’
+
+30
+
+(7) bene → benino
+
+‘well’
+
+‘quite well’
+
+THE NATURE OF COGNITIVE LINGUISTICS
+
+When the diminutive is added to verbs (the verbal diminutive suﬃxes are -icchiare and -ucchiare) a process of intermittent or poor quality is signalled:
+
+(8) dormire → dormicchiare
+
+‘sleep’
+
+‘snooze’
+
+(9) lavorare → lavoricciare
+
+‘work’
+
+‘work half-heartedly’
+
+(10) parlare → parlucchiare
+
+‘speak’
+
+‘speak badly’ [e.g. a foreign language]
+
+What these examples illustrate is that the diminutive in Italian doesn’t have a single meaning associated with it, but instead constitutes a category of meanings which behave in a variety of distinct ways but nonetheless do appear to be related to one another. The category shares a related form and a related set of meanings: a reduction in size, quantity or quality. Hence, the category exhibits family resemblance.
+
+Categorisation in syntax: ‘parts of speech’ The received view in linguistics is that words can be classiﬁed into classes such as ‘noun’ and ‘verb’, traditionally referred to as parts of speech. According to this view, words can be classiﬁed according to their morphological and distributional behaviour. For example, a word formed by the addition of a suﬃx like -ness (for example, happi-ness) is a noun; a word that can take the plural suﬃx -s (for example, cat-s) is a noun; and a word that can ﬁll the gap following a sequence of determiner the plus adjective funny (for example, the funny ____ ) is a noun. In modern linguistics, the existence of word classes is posited not only for practical purposes (that is, to provide us with a tool of description), but also in an attempt to explain how it is that speakers ‘know’ how to build new words and how to combine words into grammatical sentences. In other words, many linguists think that these word classes have psychological reality.
+However, when we examine the grammatical behaviour of nouns and verbs, there is often signiﬁcant variation in the nature of the grammatical ‘rules’ they observe. This suggests that the categories ‘noun’ and ‘verb’ are not homogenous, but instead that certain nouns and verbs are ‘nounier’ or ‘verbier’ – and hence more representative – than others. In this sense, parts of speech constitute fuzzy categories.
+By way of illustration, consider ﬁrst the agentive nominalisation of transitive verbs. A transitive verb is a verb that can take an object, such as import
+
+31
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+(e.g. rugs) and know (e.g. a fact). However, while transitive verbs can often be nominalised – that is, made into ‘agentive’ nouns like driver, singer and helper – some verbs, such as know, cannot be:
+(11) a. John imports rugs → John is an importer of rugs
+b. John knew that fact → *John was the knower of that fact
+Now consider a second example. While verbs can often be substituted by the ‘be V-able’ construction, this does not always give rise to a well-formed sentence:
+(12) a. His handwriting can be read → His handwriting is readable
+b. The lighthouse can be spotted → *The lighthouse is spottable
+Finally, while most transitive verbs undergo passivisation, not all do:
+(13) a. John kicked the ball → The ball was kicked by John
+b. John owes two pounds → *?Two pounds are owed by John
+Despite these diﬀerences, these verbs do share some common ‘verbish’ behaviour. For example, they can all take the third person present tense suﬃx -s (s/he import-s/know-s/read-s/spot-s/kick-s/owe-s . . .). Therefore, while certain verbs fail to display some aspects of ‘typical’ verb behaviour, this does not mean that these are not part of the category VERB. In contrast, this variation shows us that there is not a ﬁxed set of criteria that serves to deﬁne what it means to be a verb. In other words, the linguistic category VERB contains members that are broadly similar yet exhibit variable behaviour, rather like the physical artefact category CUP.
+Now let’s consider the linguistic category NOUN. While nouns can be broadly classiﬁed according to the morphological and distributional criteria we outlined above, they also show considerable variation. For example, only some nouns can undergo what formal linguists call double raising. This term applies to a process whereby a noun phrase ‘moves’ from an embedded clause to the subject position of the main clause via the subject position of another embedded clause. If you are not familiar with the grammatical terms ‘noun phrase’, ‘subject’ or ‘(embedded) clause’, the schematic representation in (14) should help. Noun
+32
+
+THE NATURE OF COGNITIVE LINGUISTICS
+phrases, which are units built around nouns (but sometimes consist only of nouns (for example in the case of pronouns like me or proper names like George), are shown in boldtype. Square brackets represent the embedded clauses (sentences inside sentences) and the arrows show the ‘movement’. Subject positions are underlined:
+(14) a. It is likely [ ___ to be shown [that John has cheated]] → b. John is likely [ ___ to be shown [ ___ to have cheated]]
+As these examples show, the noun phrase (NP) John can only occupy the subject position of a ﬁnite or tensed clause: when the verb appears in its ‘to inﬁnitive’ form (for example, to be/to have), the NP John (which we interpret as the ‘doer’ of the cheating regardless of its position within the sentence) has to ‘move up’ the sentence until it ﬁnds a ﬁnite verb like is. However, some nouns, like headway, do not show the same grammatical behaviour:
+(15) a. It is likely [ ___ to be shown [that no headway has been made]] →
+b. *No headway is likely [ ___ to be shown [ ___ to have been made]]
+Our next example of variation in the behaviour of nouns concerns question tag formation, a process whereby a tag question such as isn’t it?, don’t you? or mustn’t he? can be tagged onto a sentence, where it picks up the reference of some previously mentioned unit. For example, in the sentence Bond loves blondes, doesn’t he? The pronoun he refers back to the subject noun phrase Bond. Despite the fact that this grammatical process can apply more or less freely to any subject noun phrase, Taylor (2003: 214) argues that there are nevertheless ‘some dubious cases’. For example, the use of a question tag with the noun heed is at best marginal:
+(16) a. Some headway has been made. → Some headway has been made, hasn’t it?
+b. Little heed was paid to her. → ?*Little heed was paid to her, was it?
+As we saw with verbs, examples can always be found that illustrate behaviour that is at odds with the ‘typical’ behaviour of this category. Although most
+33
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+linguists would not consider this variation suﬃcient grounds for abandoning the notion of word classes altogether, this variation nevertheless illustrates that categories like NOUN and VERB are not uniform in nature, but are ‘graded’ in the sense that members of these categories exhibit variable behaviour.
+
+Categorisation in phonology: distinctive features One of the fundamental concepts in phonology is the distinctive feature: an articulatory feature that serves to distinguish speech sounds. For example, the sounds /b/ and /p/ are identical in terms of place and manner of articulation: both are bilabial sounds (produced by bringing the two lips together) and both are plosives (produced by momentary interruption of the airﬂow followed by sudden release). However, the two sounds are distinguished by the single feature voice: the phenomenon whereby the vocal folds in the larynx are drawn tightly together and vibrate as air passes through them, which aﬀects the quality of the sound. The speech sound /b/ is voiced, whereas /p/ is produced with the vocal folds drawn apart, and is therefore unvoiced. This articulatory feature distinguishes many pairs of consonant sounds that otherwise have a similar manner and place of articulation, for example: /t/ and /d/, as in tug versus dug; /k/ and / /, as in curl versus girl; and /s/ and /z/, as in Sue versus zoo.
+In phonology, these distinctive features are traditionally viewed as binary features. In other words, a speech sound can be described in terms of whether it has a positive or a negative value for a certain feature. Binary features are popular in formal linguistics, because they enable linguists to describe units of language by means of a set of properties known as a feature matrix. This approach has proven particularly successful in phonology. For example, the sounds /p/ and /b/ can be characterised as follows:
+
+(17)
+
+/p/
+
+ ϩ bilabial 
+
+ ϩ plosive 
+ Ϫ voice 
+
+/b/  ϩ bilabial 
+ ϩ plosive 
+ ϩ voice 
+
+However, Jaeger and Ohala (1984) presented research that questions the assumption that distinctive features are binary in nature. In fact, Jaeger and Ohala found that features like voice are judged by actual users of language as graded or fuzzy categories. Jaeger and Ohala trained naive speakers of English (that is, non-linguists), so that they could identify sounds according to whether they were [ϩ voice] or [Ϫ voice]. They then asked subjects to rate the English plosives, fricatives, nasals and semi-vowels in terms of the voice feature. While plosives involve a sudden release of air from the mouth, fricatives are produced by the gradual release of airﬂow in the mouth: these are sounds like /f/, /v/, /s/, /z/, and so on. Nasals like /m/ and /n/ involve continuous (uninterrupted) airﬂow
+
+34
+
+THE NATURE OF COGNITIVE LINGUISTICS
+through the nose, and semi-vowels like /w/ and /j/ (which is the IPA symbol for the sound at the start of yellow) involve continuous airﬂow through the mouth.
+The researchers found that these sounds were not consistently judged as either voiced or unvoiced. Instead, some sounds were judged as ‘more’ or ‘less’ voiced than others. The ‘voice continuum’ that resulted from Jaeger and Ohala’s study is shown in (18a):
+
+(18) a. b.
+
+← most voiced /r,m,n/ /v,ð,z/ /w,j/ /b,d, / /r,m,n/ /v,ð,z/ /w,j/ /b,d, / ← voiced →
+
+least voiced → /f,θ,s,h,ʃ/ /p,t,k/ /f,θ,s,h,ʃ/ /p,t,k/ ← voiceless →
+
+The sounds were rated accurately by Jaeger and Ohala’s subjects in the sense that voiced and voiceless sounds do not overlap but can be partitioned at a single point on this continuum, as shown in (18b). However, what is striking is that the subjects judged some voiced sounds (like /m/) as ‘more voiced’ than others (like /z/). These ﬁndings suggest that the phonological category VOICED SOUNDS also behaves like a fuzzy category.
+
+Taken together, the examples we have considered from the three ‘core’ structural areas of human language – morphology, syntax and phonology – suggest that the nature of the linguistic categories we ﬁnd in each of these areas can be described in rather similar terms. In other words, at least in terms of categorisation, we can generalise across what are often thought of as wholly distinct kinds of linguistic phenomena.
+It is worth pointing out at this stage that cognitive linguistics is not unique in seeking to generalise across these ‘distinct’ areas of human language. Indeed, the quest for binary features in formal linguistics is one example of such an attempt. Encouraged by the relative usefulness of this approach in the area of phonology, formal linguists have, with varying degrees of success, also attempted to characterise word meaning and word classes in terms of binary features. This approach reﬂects an attempt to capture what are, according to many linguists, the fundamental properties of human language: the ‘design features’ discreteness and duality of patterning. Broadly, these features refer to the fact that human language is made of smaller discrete units (like speech sounds, morphemes and words) that can be combined into larger units (like morphemes, words and sentences), and that the capacity for varying the patterns of combination is part of what gives human language its inﬁnite creativity (compare bin with nib, or Bond loves blondes with blondes love Bond, for example). Thus diﬀerent theories of human language are often united in pursuing the same ultimate objectives – here, generalisation – but diﬀer in terms of where and how they seek to reach these objectives.
+
+35
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+
+Polysemy
+Polysemy is the phenomenon where a single linguistic unit exhibits multiple distinct yet related meanings. Traditionally, this term is restricted to the area of word meaning (lexical semantics), where it is used to describe words like body which has a range of distinct meanings that are nevertheless related (for example, the human body; a corpse; the trunk of the human body; the main or central part of something). Polysemy is contrasted with homonymy, where two words are pronounced and/or spelt the same way, but have distinct meanings (compare sole with soul, for example, which are pronounced the same way but which no speaker of English would be likely to judge as having related meanings).
+Cognitive linguists argue that polysemy is not restricted to word meaning but is a fundamental feature of human language. According to this view, the ‘distinct’ areas of language all exhibit polysemy. Cognitive linguists therefore view polysemy as a key to generalisation across a range of ‘distinct’ phenomena, and argue that polysemy reveals important fundamental commonalities between lexical, morphological and syntactic organisation. Let’s look at a few examples.
+
+Polysemy in the lexicon: over We begin by considering evidence for polysemy at the level of lexical organisation. The word we will consider is the much studied English preposition over. Consider the following examples:
+
+(19) a. b. c. d. e.
+
+The picture is over the sofa. The picture is over the hole. The ball is over the wall. The government handed over power. She has a strange power over me.
+
+ABOVE COVERING
+ON-THE-OTHER-SIDE-OF
+TRANSFER CONTROL
+
+These sentences illustrate various senses of over, which are listed in the righthand column. While each is distinct, they can all be related to one another; they all derive from a central ‘above’ meaning. We will explore this point in more detail later in the book (see Chapter 10).
+
+Polysemy in morphology: agentive -er suﬃx Just as words like over exhibit polysemy, so do morphological categories. Consider the bound morpheme -er, the agentive suﬃx that was brieﬂy discussed earlier in the chapter:
+
+(20) a. b. c. d.
+
+teacher villager toaster best-seller
+
+36
+
+THE NATURE OF COGNITIVE LINGUISTICS
+In each of the examples in (20), the -er suﬃx adds a slightly diﬀerent meaning. In (20a) it conveys a human AGENT who regularly or by profession carries out the action designated by the verb, in this instance teach. In (20b), -er relates to a person who lives in a particular place, here a village. In (20c) -er relates to an artefact that has the capacity designated by the verb, here toast. In (20d) -er relates to a particular quality associated with a type of artefact, here the property of selling successfully. Each of these usages is distinct: a teacher is a person who teaches; a toaster is a machine that performs a toasting function; a best-seller is an artefact like a book that has the property of selling well; and a villager is a person who dwells in a village. Despite these diﬀerences, these senses are intuitively related in terms of sharing, to a greater or lesser degree, a deﬁning functional ability or attribute: the ability to teach; the ‘ability’ to toast; the attribute of selling well; and the attribute of dwelling in a speciﬁc location. This demonstrates the capacity of morphological categories to exhibit polysemy.
+
+Polysemy in syntax: ditransitive construction Just as lexical and morphological categories exhibit polysemy, so do syntactic categories. For instance, consider the ditransitive construction, discussed by Goldberg (1995). This construction has the following syntax:
+
+(21) SUBJECT VERB OBJECT 1 OBJECT 2
+
+The ditransitive construction also has a range of conventional abstract meanings associated with it, which Goldberg characterises in the terms shown in (22). Note for the time being that terms like AGENT PATIENT and RECIPIENT are labels for ‘semantic roles’, a topic to which we return in Part III of the book.
+
+(22) a. b.
+
+SENSE 1: AGENT successfully causes recipient to receive PATIENT
+
+INSTANTIATED BY: verbs that inherently signify acts of giving (e.g.
+
+give, pass, hand, serve, feed)
+
+e.g.
+
+[ Mary] SUBJ
+
+[verbgave]
+
+[ OBJ
+
+1
+
+John]
+
+[ OBJ
+
+2
+
+the
+
+cake]
+
+SENSE 2: conditions of satisfaction imply that AGENT causes recipient to receive PATIENT INSTANTIATED BY: verbs of giving with associated satisfaction conditions (e.g. guarantee, promise, owe) e.g. Mary promised John the cake
+
+c. SENSE 3: AGENT causes recipient not to receive PATIENT INSTANTIATED BY: verbs of refusal (e.g. refuse, deny) e.g. Mary refused John the cake
+
+37
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+d. SENSE 4: AGENT acts to cause recipient to receive PATIENT at some future point in time INSTANTIATED BY: verbs of future transfer (e.g. leave, bequeath, allocate, reserve, grant) e.g. Mary left John the cake
+e. SENSE 5: AGENT enables recipient to receive PATIENT INSTANTIATED BY: verbs of permission (e.g. permit, allow) e.g. Mary permitted John the cake
+f. SENSE 6: AGENT intends to cause recipient to receive PATIENT INSTANTIATED BY: verbs involved in scenes of creation (e.g. bake, make, build, cook, sew, knit) e.g. Mary baked John the cake
+While each of the abstract senses associated with ‘ditransitive’ syntax are distinct, they are clearly related: they all concern volitional transfer, although the nature of the transfer, or the conditions associated with the transfer, vary from sense to sense. We will return to discuss constructions like these in more detail in Part III of the book.
+In sum, as we saw for categorisation, cognitive linguists argue that polysemy is a phenomenon common to ‘distinct’ areas of language. Both ‘fuzzy’ categories and polysemy, then, are characteristics that unite all areas of human language and thus enable generalisation within the cognitive linguistics framework.
+Metaphor
+Cognitive linguists also argue that metaphor is a central feature of human language. As we saw in the previous chapter, metaphor is the phenomenon where one conceptual domain is systematically structured in terms of another. One important feature of metaphor is meaning extension. That is, metaphor can give rise to new meaning. Cognitive linguists argue that metaphor-based meaning extension can also be identiﬁed across a range of ‘distinct’ linguistic phenomena, and that metaphor therefore provides further evidence in favour of generalising across the ‘distinct’ areas of language. In this section we’ll consider lexicon and syntax.
+Metaphor in the lexicon: over (again) In the previous section we observed that the preposition over exhibits polysemy. One question that has intrigued cognitive linguists concerns how polysemy is motivated. That is, how does a single lexical item come to have a
+38
+
+THE NATURE OF COGNITIVE LINGUISTICS
+multiplicity of distinct yet related meanings associated with it? Lakoﬀ (1987) has argued that an important factor in motivating meaning extension, and hence the existence of polysemy, is metaphor. For instance, he argues that the CONTROL meaning of over that we saw in (19e) derives from the ABOVE meaning by virtue of metaphor. This is achieved via application of the metaphor CONTROL IS UP. This metaphor is illustrated by (23):
+(23) a. I’m on top of the situation. b. She’s at the height of her powers. c. His power rose.
+These examples illustrate that POWER or CONTROL is being understood in terms of greater elevation (UP). In contrast, lack of power or lack of control is conceptualised in terms of occupying a reduced elevation on the vertical axis (DOWN), as shown by (24):
+(24) a. Her power is on the decline. b. He is under my control. c. He’s low in the company hierarchy.
+By virtue of the independent metaphor CONTROL IS UP, the lexical item over, which has an ABOVE meaning conventionally associated with it, can be understood metaphorically as indicating greater control. Through frequency of use the meaning of CONTROL becomes conventionally associated with over in such a way that over can be used in non-spatial contexts like (19e), where it acquires the CONTROL meaning.
+Metaphor in the syntax: the ditransitive (again) One of the observations that Goldberg makes in her analysis of the ditransitive construction is that it typically requires a volitional AGENT in subject position. This is because the meaning associated with the construction is one of intentional transfer. Unless there is a sentient AGENT who has the capacity for intention, then one entity cannot be transferred to another. However, we do ﬁnd examples of this construction where the subject (in square brackets) is not a volitional AGENT:
+(25) a. [The rain] gave us some time. b. [The missed ball] handed him the victory.
+Goldberg argues that examples like these are extensions of the ditransitive construction, and are motivated by the existence of the metaphor CAUSAL EVENTS ARE PHYSICAL TRANSFERS. Evidence for this metaphor comes from examples
+39
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+like the ones in (26), which illustrate that we typically understand abstract causes in terms of physical transfer:
+(26) a. David Beckham put a lot of swerve on the ball. b. She gave me a headache.
+In these examples causal events like causing a soccer ball to swerve, or causing someone to have a headache, are conceptualised as the transfer of a physical entity. Clearly the English soccer star David Beckham, well known for his ability to ‘bend’ a football around defensive walls, cannot literally put ‘swerve’ on a football; ‘swerve’ is not a physical entity that can be ‘put’ anywhere. However, we have no problem understanding what this sentence means. This is because we ‘recognise’ the convention within our language system of understanding causal events metaphorically in terms of physical transfer.
+Goldberg argues that it is due to this metaphor that the ditransitive construction, which normally requires a volitional AGENT, can sometimes have a non-volitional subject like a missed ball or the rain. The metaphor licenses the extension of the ditransitive so that it can be used with non-volitional AGENTs.
+To conclude the discussion so far, this section has illustrated the view held by cognitive linguists that various areas of human language share certain fundamental organising principles. This illustrates the ‘Generalisation Commitment’ adopted by cognitive linguists. One area in which this approach has achieved considerable success is in uniting the lexical system with the grammatical system, providing a uniﬁed theory of grammatical and lexical structure. As we will see in Part III, cognitive approaches to grammar treat lexicon and syntax not as distinct components of language, but instead as a continuum. However, the relationship between phonology and other areas of human language has only recently begun to be explored from a cognitive perspective. For this reason, while aspects of the foregoing discussion serve to illustrate some similarities between the phonological subsystem and the other areas of the language system, we will have relatively little to say about phonology in the remainder of this book.
+2.1.2 The ‘Cognitive Commitment’
+We turn next to the ‘Cognitive Commitment’. We saw above that the ‘Generalisation Commitment’ leads to the search for principles of language structure that hold across all aspects of language. In a related manner, the ‘Cognitive Commitment’ represents the view that principles of linguistic structure should reﬂect what is known about human cognition from other disciplines, particularly the other cognitive sciences (philosophy, psychology,
+40
+
+THE NATURE OF COGNITIVE LINGUISTICS
+artiﬁcial intelligence and neuroscience). In other words, it follows from the ‘Cognitive Commitment’ that language and linguistic organisation should reﬂect general cognitive principles rather than cognitive principles that are speciﬁc to language. Accordingly, cognitive linguistics rejects the modular theory of mind that we mentioned above (section 2.1.1). The modular theory of mind is associated particularly with formal linguistics, but is also explored in other areas of cognitive science such as philosophy and cognitive psychology, and holds that the human mind is organised into distinct ‘encapsulated’ modules of knowledge, one of which is language, and that these modules serve to ‘digest’ raw sensory input in such a way that it can then be processed by the central cognitive system (involving deduction, reasoning, memory and so on). Cognitive linguists speciﬁcally reject the claim that there is a distinct language module, which asserts that linguistic structure and organisation are markedly distinct from other aspects of cognition (see Chapter 4). Below we consider three lines of evidence that, according to cognitive linguists, substantiate the view that linguistic organisation reﬂects more general cognitive function.
+
+Attention: proﬁling in language
+A very general cognitive ability that human beings have is attention, together with the ability to shift attention from one aspect of a scene to another. For instance, when watching a tennis match we can variously attend to the umpire, the ﬂight of the ball back and forth, one or both of the players or parts of the crowd, zooming ‘in and out’ so to speak. Similarly, language provides ways of directing attention to certain aspects of the scene being linguistically encoded. This general ability, manifest in language, is called proﬁling (Langacker 1987, among others; see also Talmy’s (2000) related notion of attentional windowing).
+One important way in which language exhibits proﬁling is in the range of grammatical constructions it has at its disposal, each of which serves to proﬁle diﬀerent aspects of a given scene. For instance, given a scene in which a boy kicks over a vase causing it to smash, diﬀerent aspects of the scene can be linguistically proﬁled:
+
+(27) a. b. c. d.
+
+The boy kicks over the vase. The vase is kicked over. The vase smashes into bits. The vase is in bits.
+
+In order to discuss the diﬀerences between the examples in (27), we’ll be relying on some grammatical terminology that may be new to the reader. We will explain these terms brieﬂy as we go along, but grammatical terms are explained in more detail in the grammar tutorial in Chapter 14.
+
+41
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+The aspects of the scene proﬁled by each of these sentences are represented in Figure 2.2. Figure 2.2(a) corresponds to sentence (27a). This is an active sentence in which a relationship holds between the initiator of the action (the boy) and the object that undergoes the action (the vase). In other words, the boy is the AGENT and the vase is the PATIENT. In Figure 2.2(a) both AGENT and PATIENT are represented by circles. The arrow from the AGENT to the PATIENT represents the transfer of energy, reﬂecting the fact that the AGENT is acting upon the PATIENT. Moreover, both AGENT and PATIENT, as well as the energy transfer, are represented in bold. This captures the fact that the entire action chain is being proﬁled, which is the purpose of the active construction.
+Now let’s compare sentence (27b). This is a passive sentence, and is represented by Figure 2.2(b). Here, the energy transfer and the PATIENT are being proﬁled. However, while the AGENT is not mentioned in the sentence, and hence is not in proﬁle, it must be understood as part of the background. After all, an action chain requires an AGENT to instigate the transfer of energy. To represent this fact, the AGENT is included in Figure 2.2(a), but is not featured in bold, reﬂecting the position that the AGENT is contextually understood but not in proﬁle.
+The third sentence, example (27c), proﬁles the change in the state of the vase: the fact that it smashes into bits. This is achieved via a subject-verbcomplement construction. A complement is an obligatory element that is required by another element in a sentence to complete its meaning. In (27c), the complement is the expression into bits, which completes the meaning of the expression smashes. This is captured by Figure 2.2(c). In ﬁgure 2.2(c) it is the internal change of state of the vase that is proﬁled. The arrow within the circle (the circle depicts the vase) shows that the vase is undergoing an internal change of state. The state the vase is ‘moving to’ is represented by the box with the letter ‘b’ inside it. This stands for the state IN BITS. In this diagram the entity, the change of state and the resulting state are all in bold, reﬂecting the fact that all these aspects of the action chain are being proﬁled by the corresponding sentence.
+
+AGENT PATIENT
+
+PATIENT
+
+(a)
+
+(b)
+
+b
+
+b
+
+(c)
+
+(d)
+
+Figure 2.2 Proﬁling
+
+42
+
+THE NATURE OF COGNITIVE LINGUISTICS
+Finally, consider sentence (27d). The grammatical form of this sentence is the subject-copula-complement construction. The copula is the verb be, which is specialised for encoding a particular state. In this case the state is IN BITS, which is captured in Figure 2.2(d).
+In sum, each of the constructions ACTIVE, PASSIVE, SUBJECT-VERBCOMPLEMENT and SUBJECT-COPULA-COMPLEMENT is specialised for proﬁling a particular aspect of an action chain. In this way, linguistic structure reﬂects our ability to attend to distinct aspects of a scene. These examples demonstrate how linguistic organisation reﬂects a more general cognitive ability: attention.
+It is worth observing at this point that constructions of the kind we have just discussed are not restricted to encoding a canonical action chain (one involving the transfer of energy). For example, the active construction can often be applied in cases where an action is not involved. Consider stative verbs, like own. A stative verb encodes a relatively stable state that persists over time. This verb can appear in active or passive constructions, even though it describes a state rather than an action:
+
+(28) a. John not Steve owns the shop on Trafalgar Street. b. The shop on Trafalgar Street is owned by John not Steve.
+
+[active] [passive]
+
+In Part III of the book, we will return in more detail to the issue of grammatical constructions and the range of meanings associated with them.
+
+Categorisation: fuzzy categories
+We saw above that enitites like cups constitute fuzzy categories, which are characterised by the fact that they contain members that are more or less representative of the category. This results in a set of members related by family resemblance rather than a single criterial feature, or a limited set of criterial features possessed by every member of the category. In other words, categories formed by the human mind are rarely ‘neat and tidy’. We also saw that fuzzy categories are a feature of language in that members of linguistic categories, despite important similarities, often show quite distinct behaviour. In other words, according to the cognitive framework, the same principles that hold for categorisation in general also hold for linguistic categorisation.
+
+Metaphor As we began to see in the previous chapter, and as we will see in further detail in Chapter 9, the view adopted in cognitive linguistics is that metaphor is
+43
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+a conceptual rather than a purely linguistic phenomenon. Moreover, the key proponents of the conceptual metaphor approach, George Lakoﬀ and Mark Johnson (1980, 1999), argue that many of the ways in which we think and act are fundamentally metaphorical in nature.
+For instance, we conceptualise institutions like governments, universities, and businesses in terms of a hierarchy. Diagrams of such institutions place the person with the highest rank at the top or ‘head’, while the person with the lowest rank is placed at the lowest point or ‘bottom’. In other words, hierarchies are conceptualised and represented non-linguistically in terms of the conceptual metaphor CONTROL/POWER IS UP.
+Just as metaphors like CONTROL IS UP show up in a range of modalities, that is diﬀerent ‘dimensions’ of expression such as social organisation, pictorial representation or gesture, among others, we have begun to see that they are also manifest in language. The English preposition over has a conventional CONTROL meaning associated with it, precisely because of meaning extension due to the conceptual metaphor CONTROL IS UP.
+In the foregoing discussion, we have explored three ways in which aspects of general cognition show up in language. Evidence of this kind forms the basis of the cognitive argument that language reﬂects general cognition.
+2.2 The embodied mind
+In this section, we turn to embodiment, a central idea in cognitive linguistics. Since the seventeenth-century French philosopher René Descartes developed the view that mind and body are distinct entities – the principle of mind/body dualism – there has been a common assumption within philosophy and the other more recent cognitive sciences that the mind can be studied without recourse to the body, and hence without recourse to embodiment. In modern linguistics this rationalist approach has been most evident in formal approaches such as the Generative Grammar approach developed by Noam Chomsky (see Chapter 22) and formal approaches to semantics, such as the framework developed by Richard Montague (see Chapter 13). Proponents of these approaches argue that it is possible to study language as a formal or computational system, without taking into account the nature of human bodies or human experience.
+In contrast, cognitive linguistics is not rationalist in this sense, but instead takes its inspiration from traditions in psychology and philosophy that emphasise the importance of human experience, the centrality of the human body, and human-speciﬁc cognitive structure and organisation, all of which aﬀect the nature of our experience. According to this empiricist view, the human mind – and therefore language – cannot be investigated in isolation from human embodiment.
+44
+
+THE NATURE OF COGNITIVE LINGUISTICS
+2.2.1 Embodied experience
+The idea that experience is embodied entails that we have a species-speciﬁc view of the world due to the unique nature of our physical bodies. In other words, our construal of reality is likely to be mediated in large measure by the nature of our bodies.
+One obvious way in which our embodiment aﬀects the nature of experience is in the realm of colour. While the human visual system has three kinds of photoreceptors or colour channels, other organisms often have a diﬀerent number. For instance, the visual system of squirrels, rabbits and possibly cats, makes use of two colour channels, while other organisms, like goldﬁsh and pigeons, have four colour channels. Having a diﬀerent range of colour channels aﬀects our experience of colour in terms of the range of colours accessible to us along the colour spectrum. Some organisms can see in the infrared range, like rattlesnakes, which hunt prey at night and can visually detect the heat given oﬀ by other organisms. Humans are unable to see in this range. As this simple example demonstrates, the nature of our visual apparatus – one aspect of our physical embodiment – determines the nature and range of our visual experience.
+Similarly, the nature of our biological morphology (the kinds of body parts we have), together with the nature of the physical environment with which we interact, determines other aspects of our experience. For instance, while gravity is an objective feature of the world, our experience of gravity is determined by our bodies and by the ecological niche we inhabit. For instance, hummingbirds – which can ﬂap their wings up to a remarkable ﬁfty times per second – respond to gravity in a very diﬀerent way from humans. In order to overcome gravity, hummingbirds are able to rise directly into the air without pushing oﬀ from the ground, due to the rapid movement of their wings. Moreover, due to their small size, their experience of motion is rather diﬀerent from ours: hummingbirds can stop almost instantaneously, experiencing little momentum. Compare this with the experience of a sprinter at the end of a 100m race: a human cannot stop instantaneously but must take a few paces to come to a standstill.
+Now consider organisms that experience gravity in an even more diﬀerent way. Fish, for example, experience very little gravity, because water reduces its eﬀect. This explains their morphology, which is adapted to the ecological niche they inhabit and enables motion through a reduced-gravity environment. The neuroscientist Ernst Pöppel (1994) has even suggested that diﬀerent organisms might have diﬀerent kinds of neural ‘timing mechanisms’ which underpin abilities such as event perception (see Chapter 3). This is likely to aﬀect their experience of time. The idea that diﬀerent organisms have diﬀerent kinds of experiences due to the nature of their embodiment is known as variable embodiment.
+45
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+2.2.2 Embodied cognition
+The fact that our experience is embodied – that is, structured in part by the nature of the bodies we have and by our neurological organisation – has consequences for cognition. In other words, the concepts we have access to and the nature of the ‘reality’ we think and talk about are a function of our embodiment: we can only talk about what we can perceive and conceive, and the things that we can perceive and conceive derive from embodied experience. From this point of view, the human mind must bear the imprint of embodied experience.
+In his now classic 1987 book, The Body in the Mind, Mark Johnson proposes that one way in which embodied experience manifests itself at the cognitive level is in terms of image schemas (see Chapter 6). These are rudimentary concepts like CONTACT, CONTAINER and BALANCE, which are meaningful because they derive from and are linked to human pre-conceptual experience: experience of the world directly mediated and structured by the human body. These image-schematic concepts are not disembodied abstractions, but derive their substance, in large measure, from the sensory-perceptual experiences that give rise to them in the ﬁrst place. Lakoﬀ (1987, 1990, 1993) and Johnson (1987) have argued that embodied concepts of this kind can be systematically extended to provide more abstract concepts and conceptual domains with structure. This process is called conceptual projection. For example, they argue that conceptual metaphor (which we discussed brieﬂy above and to which we return in detail in Chapter 9) is a form of conceptual projection. According to this view, the reason we can talk about being in states like love or trouble (29) is because abstract concepts like LOVE are structured and therefore understood by virtue of the fundamental concept CONTAINER. In this way, embodied experience serves to structure more complex concepts and ideas.
+(29) a. George is in love. b. Lily is in trouble. c. The government is in a deep crisis.
+The developmental psychologist Jean Mandler (e.g. 1992, 1996, 2004) has made a number of proposals concerning how image schemas might arise from embodied experience. Starting at an early age, and certainly by two months, infants attend to objects and spatial displays in their environment. Mandler suggests that by attending closely to such spatial experiences, children are able to abstract across similar kinds of experiences, ﬁnding meaningful patterns in the process. For instance, the CONTAINER image schema is more than simply a spatiogeometric representation. It is a ‘theory’ about a particular kind of conﬁguration in which one entity is supported by another entity that contains it. In other
+46
+
+THE NATURE OF COGNITIVE LINGUISTICS
+words, the CONTAINER schema is meaningful because containers are meaningful in our everyday experience. Consider the spatial scene described in (30).
+(30) The coﬀee is in the cup.
+Tyler and Evans make the following observations about this spatial scene:
+. . . the spatial scene relating to in involves a containment function, which encompasses several consequences such as locating and limiting the activities of the contained entity. Being contained in the cup prevents the coﬀee from spreading out over the table; if we move the cup, the coﬀee moves with it. (Tyler and Evans 2003: ix)
+It is for this reason that the English preposition in can be used in scenes that are non-spatial in nature, like the examples in (29). It is precisely because containers constrain activity that it makes sense to conceptualise POWER and all-encompassing states like LOVE or CRISIS in terms of CONTAINMENT. Mandler (2004) describes this process of forming image schemas in terms of a redescription of spatial experience via a process she labels perceptual meaning analysis. As she puts it, ‘[O]ne of the foundations of the conceptualizing capacity is the image schema, in which spatial structure is mapped into conceptual structure’ (Mandler 1992: 591). She further suggests that ‘Basic, recurrent experiences with the world form the bedrock of the child’s semantic architecture, which is already established well before the child begins producing language’ (Mandler 1992: 597). In other words, it is experience, meaningful to us by virtue of our embodiment, that forms the basis of many of our most fundamental concepts.
+2.2.3 Experiential realism
+An important consequence of viewing experience and conceptualisation as embodied is that this aﬀects our view of what reality is. A widely held view in formal semantics is that the role of language is to describe states of aﬀairs in the world. This rests on the assumption that there is an objective world ‘out there’, which language simply reﬂects. However, cognitive linguists argue that this objectivist approach misses the point that there cannot be an objective reality that language reﬂects directly, because reality is not objectively given. Instead, reality is in large part constructed by the nature of our unique human embodiment. This is not to say that cognitive linguists deny the existence of an objective physical world independent of human beings. After all, gravity exists, and there is a colour spectrum (resulting from light striking surfaces of diﬀerent kinds and densities), and some entities give oﬀ heat, including body
+47
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+heat, which can only be visually detected in the infrared range. However, the parts of this external reality to which we have access are largely constrained by the ecological niche we have adapted to and the nature of our embodiment. In other words, language does not directly reﬂect the world. Rather, it reﬂects our unique human construal of the world: our ‘world view’ as it appears to us through the lens of our embodiment. In Chapter 1 we referred to human reality as ‘projected reality’, a term coined by the linguist Ray Jackendoﬀ (1983).
+This view of reality has been termed experientialism or experiential realism by cognitive linguists George Lakoﬀ and Mark Johnson. Experiential realism assumes that there is a reality ‘out there’. Indeed, the very purpose of our perceptual and cognitive mechanisms is to provide a representation of this reality, and thus to facilitate our survival as a species. After all, if we were unable to navigate our way around the environment we inhabit and avoid dangerous locations like cliﬀtops and dangerous animals like wild tigers, our cognitive mechanisms would be of little use to us. However, by virtue of being adapted to a particular ecological niche and having a particular form and conﬁguration, our bodies and brains necessarily provide one particular perspective among many possible and equally viable perspectives. Hence, experiential realism acknowledges that there is an external reality that is reﬂected by concepts and by language. However, this reality is mediated by our uniquely human experience which constrains the nature of this reality ‘for us’.
+2.3 Cognitive semantics and cognitive approaches to grammar
+Having set out some of the fundamental assumptions behind the cognitive approach to language, in this section we brieﬂy map out the ﬁeld of cognitive linguistics. Cognitive linguistics can be broadly divided into two main areas: cognitive semantics and cognitive (approaches to) grammar. However, unlike formal approaches to linguistics, which often emphasise the role of grammar, cognitive linguistics emphasises the role of meaning. According to the cognitive view, a model of meaning (a cognitive semantics) has to be delineated before an adequate cognitive model of grammar can be developed. Hence a cognitive grammar assumes a cognitive semantics and is dependent upon it. This is because grammar is viewed within the cognitive framework as a meaningful system in and of itself, which therefore shares important properties with the system of linguistic meaning and cannot be meaningfully separated from it.
+The area of study known as cognitive semantics, which is explored in detail in Part II of the book, is concerned with investigating the relationship between experience, the conceptual system and the semantic structure encoded by language. In speciﬁc terms, scholars working in cognitive semantics investigate knowledge representation (conceptual structure) and meaning construction (conceptualisation). Cognitive semanticists have employed language as the
+48
+
+THE NATURE OF COGNITIVE LINGUISTICS
+lens through which these cognitive phenomena can be investigated. It follows that cognitive semantics is as much a model of mind as it is a model of linguistic meaning.
+Cognitive grammarians have also typically adopted one of two foci. Scholars like Ronald Langacker have emphasised the study of the cognitive principles that give rise to linguistic organisation. In his theoretical framework Cognitive Grammar, Langacker has attempted to delineate the principles that serve to structure a grammar, and to relate these to aspects of general cognition. Because the term ‘Cognitive Grammar’ is the name of a speciﬁc theory, we use the (rather cumbersome) expression ‘cognitive (approaches to) grammar’ as the general term for cognitively oriented models of the language system.
+The second avenue of investigation, pursued by researchers including Fillmore and Kay (Fillmore et al. 1988; Kay and Fillmore 1999), Lakoﬀ (1987), Goldberg (1995) and more recently Bergen and Chang (2005) and Croft (2002), aims to provide a more descriptively detailed account of the units that comprise a particular language. These researchers have attempted to provide an inventory of the units of language. Cognitive grammarians who have pursued this line of investigation are developing a collection of theories that can collectively be called construction grammars. This approach takes its name from the view in cognitive linguistics that the basic unit of language is a form-meaning symbolic assembly which, as we saw in Chapter 1, is called a construction.
+It follows that cognitive approaches to grammar are not restricted to investigating aspects of grammatical structure largely independently of meaning, as is often the case in formal traditions. Instead, cognitive approaches to grammar encompass the entire inventory of linguistic units deﬁned as form-meaning pairings. These run the gamut from skeletal syntactic conﬁgurations like the ditransitive construction we considered earlier, to idioms, to bound morphemes like the -er suﬃx, to words. This entails that the received view of clearly distinct ‘sub-modules’ of language cannot be meaningfully upheld within cognitive linguistics, where the boundary between cognitive semantics and cognitive (approaches to) grammar is less clearly deﬁned. Instead, meaning and grammar are seen as two sides of the same coin: to take a cognitive approach to grammar is to study the units of language and hence the language system itself. To take a cognitive approach to semantics is to attempt to understand how this linguistic system relates to the conceptual system, which in turn relates to embodied experience. The concerns of cognitive semantics and cognitive (approaches to) grammar are thus complementary. This idea is represented in Figure 2.3. The organisation of this book reﬂects the fact that it is practical to divide up the study of cognitive linguistics into these two areas for purposes of teaching and learning. However, this should not be taken as an indication that these two areas of cognitive linguistics are independent areas of study or research.
+49
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+Cognitive linguistics The study of language in a way that is compatible with what is known about the human mind, treating language as reflecting and
+revealing the mind
+
+Cognitive semantics The study of the relationship between experience, embodied cognition and
+language
+
+Cognitive approaches to grammar The study of the symbolic linguistic
+units that comprise language
+
+Figure 2.3 The study of meaning and grammar in cognitive linguistics
+
+2.4 Summary
+In this chapter, we have provided an overview of the assumptions and commitments that make cognitive linguistics a distinctive enterprise. We have outlined two key commitments widely shared by cognitive linguists. These are the ‘Generalisation Commitment’ and the ‘Cognitive Commitment’. These two commitments underlie the orientation and approach adopted by cognitive linguists, and the assumptions and methodologies employed in the two main branches of the cognitive linguistics enterprise, cognitive semantics and cognitive (approaches to) grammar. We also introduced the embodied cognition thesis which is central to much research in cognitive linguistics and addresses the nature of the relationship between language, mind and experience. The view taken in cognitive linguistics is that conceptual organisation within the human mind is a function of the way our species-speciﬁc bodies interact with the environment we inhabit. Finally, we provided a brief overview of cognitive semantics and cognitive approaches to grammar which are addressed in detail in Part II and Part III of the book, respectively.
+Further reading
+Assumptions in cognitive linguistics
+The following are all articles by leading cognitive linguists that set out the assumptions and the nature of the cognitive linguistics enterprise:
+• Fauconnier (1999). A discussion of methodological issues and the nature of the approach adopted in cognitive linguistics, particularly with respect to meaning. Fauconnier, one of the early pioneers in
+50
+
+THE NATURE OF COGNITIVE LINGUISTICS
+cognitive linguistics, illustrates with examples from the theory of conceptual blending, which he developed in joint work with Mark Turner. • Lakoﬀ (1990). In the ﬁrst part of this important article, published in the very ﬁrst volume of the journal Cognitive Linguistics, Lakoﬀ discusses issues relating to the ‘Generalisation Commitment’ and the ‘Cognitive Commitment’. He also explains how cognitive linguistics diﬀers from Generative Grammar. • Langacker (1999a). An important article by another pioneering ﬁgure in cognitive linguistics. In this article, Langacker evaluates the approach and methodologies employed in cognitive linguistics and relates this to the formalist and functionalist traditions in linguistics. He illustrates with a discussion from some of the key constructs in his Cognitive Grammar framework. • Talmy (2000: Vol. I, 1–18). In the introduction to his two-volume ediﬁce, Toward a Cognitive Semantics, Talmy outlines his view of the cognitive linguistics enterprise and describes how his own work ﬁts in with and has contributed to this endeavour.
+Embodied cognition
+• Clark (1997). Drawing on recent work in robotics, neuroscience, psychology and artiﬁcial intelligence, Clark, a leading cognitive scientist, presents a compelling and highly accessible overview of the new science of the embodied mind.
+• Evans (2004a). This book addresses how time, a fundamental aspect of human experience, is conceptualised. The discussion relates neurological, phenomenological and sensory-perceptual aspects of embodied experience to the experience of temporal cognition as revealed by language. Chapter 4 provides a presentation of some key arguments for the cognitive linguistics perspective on embodied cognition.
+• Lakoﬀ (1987). This is a classic work by one of the pioneers in cognitive linguistics. Part II of the book is particularly important for the development of experiential realism.
+• Lakoﬀ and Johnson (1980). This short volume laid the foundations for the approach to embodied cognition in cognitive linguistics.
+• Lakoﬀ and Johnson (1999). This represents an updated account of experiential realism as developed by Lakoﬀ and Johnson (1980).
+• Mandler (2004). Inﬂuential developmental psychologist Jean Mandler argues for the role of image schemas in the development of conceptual structure and organisation.
+51
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+• Varela, Thompson and Rosch (1991). A highly inﬂuential book on embodiment, cognition and human experience by leading cognitive scientists.
+Exercises
+2.1 Categorisation and family resemblance
+The philosopher Wittgenstein famously argued that the category GAME exhibits family resemblance. To test this, ﬁrst make a list of as many diﬀerent kinds of games as you can think of. Now see if there is a limited set of conditions that is common to this entire list (‘necessary’ conditions) and suﬃcient to distinguish this category from other related categories (‘suﬃcient’ conditions) like competitions, amusement activities and so on. Do your conclusions support or refute Wittgenstein’s claim?
+Now see if you can identify the ways in which the diﬀerent games you list share family resemblance ‘traits’. Try to construct a ‘radial’ network showing the degrees of family resemblance holding between games of diﬀerent kinds. A radial network is a diagram in which the most/more prototypical game(s) is/are placed at the centre and less prototypical games are less central, radiating out from the centre.
+2.2 Polysemy
+Consider the word head. Try and come up with as many diﬀerent meanings for this word as possible. You may ﬁnd it helpful to collect or create sentences involving the word.
+Now consider the closed-class word you. Cognitive linguists assume that even closed-class words exhibit polysemy. Collect as many sentences as you can involving you and try and identify diﬀerences in how this word is used. Do your ﬁndings support the view that this word exhibits polysemy?
+2.3 Metaphor
+Reconsider the diﬀerent meanings for head that you uncovered in the previous exercise. Would you class any of these distinct meanings as metaphorical? Explain your reasoning. Now try and give an account of what motivated the extension from the ‘core’ meaning of head to the metaphoric usage(s).
+2.4 Image schemas
+The spatial meanings associated with prepositions present a clear case of the way in which image schemas underpin language. In view of this, what sets of
+52
+
+THE NATURE OF COGNITIVE LINGUISTICS
+image schemas might underpin the semantic distinction between the prepositions up/down and above/under?
+Now consider the metaphoric use of the prepositions on and in in the following sentences:
+(a) The guard is on duty. (a´) The shoes are on sale. (b) Munch’s painting The Scream portrays a ﬁgure in despair. (b´) Sven is in trouble with Nancy. What might be the experiential basis for the fact that states like SALES and DUTY are described in terms of ON, while states like DESPAIR and TROUBLE are described in terms of IN? We saw in this chapter that the CONTAINER image schema plausibly underpins IN. What might be the image schema underpinning ON?
+53
+
+3
+Universals and variation in language, thought and experience
+As we saw in Chapter 2, the cognitive linguistics enterprise is characterised by two commitments: (1) the ‘Generalisation Commitment’ – a commitment to the characterisation of general principles that are responsible for all aspects of human language; and (2) the ‘Cognitive Commitment’ – a commitment to providing a characterisation of general principles for language that accords with what is known about the mind and brain from other disciplines (Lakoﬀ 1990). An important consequence of this approach is the position that language does not result from an encapsulated ‘module’ of specialised knowledge, separable from general cognition (in contrast with the view developed in formal approaches to linguistics), but instead that language reﬂects and is informed by non-linguistic aspects of cognition. In particular, given the premise that the principles that inform language reﬂect general cognitive principles, the language system itself can be seen as a window that enables the direct investigation of conceptual structure (knowledge representation, including the structure and organisation of concepts) and conceptualisation (the process of meaning construction).
+Although cognitive linguists have often been concerned with investigating the general cognitive principles (common to all humans) that govern language, it does not follow from this that all languages are the same, either in terms of grammatical structure or semantic structure. In this chapter, we review some inﬂuential cognitively oriented studies that demonstrate that languages can exhibit radically diﬀerent conceptual organisation and structure. It seems that common cognitive principles do not give rise to uniform linguistic organisation and structure. On the contrary, cross-linguistic variation is widespread. At the same time, the existence of certain common patterns across languages is a matter of empirical fact. These common patterns are known as linguistic
+54
+
+UNIVERSALS AND VARIATION
+universals. For cognitive linguists, these commonalities are explained by the existence of general cognitive principles shared by all humans, in addition to the fundamentally similar experiences of the world also shared by all humans due to embodiment. Nevertheless, given the premise that language reﬂects cognitive organisation, the existence of cross-linguistic variation entails that speakers of diﬀerent languages have diﬀerent underlying conceptual systems. This view has implications for the thesis of linguistic relativity or linguistic determinism – the view that the language you speak aﬀects or determines how you see the world, most famously expounded in the writings of Benjamin Lee Whorf in the 1930s and 1940s. Hence, once we have developed the cognitive linguistics approach to linguistic universals and cross-linguistic variation as we see it, we will re-examine the Whorﬁan linguistic relativity principle.
+3.1 Universals in thought and language
+We begin by considering the issue of linguistic universals. It is important to observe here that the term ‘linguistic universal’ can be understood in two quite distinct ways. On the one hand, the term can refer to patterns of similarity that are attested in typological studies: these are usually large-scale comparative studies that set out to discover linguistic patterns in relation to a given phenomenon. The existence of the typological universals uncovered by these studies is a matter of empirical fact and is uncontroversial. On the other hand, the term ‘universal’ can also be used to refer to underlying principles of linguistic organisation and structure that are represented in the human mind. This view is most prominently associated with the generative grammar framework developed by Noam Chomsky, which assumes the existence of a Universal Grammar: a set of innate universal principles that equips all humans to acquire their native language and is also held to account for patterns of cross-linguistic similarity. This view is controversial for many linguists, including cognitive linguists. We will brieﬂy set out the assumptions of the Generative Grammar model below (section 3.1.2), and return to these issues in more detail towards the end of the book (Chapter 22), but consider for the time being the following extract from Levinson (1996):
+It may be claimed, the Kantian categories of space, time, cause and so on, form the fundamental ground of our reasoning; they cannot be inferred from experience, but are what we bring to the interpretation of experience from our biological endowment. Thus the conceptual architecture, the essential conceptual parameters, are, as Leibniz would have it, ‘innate ideas’. This line of thought dominates current speculations in the cognitive sciences. It is a view reinforced from many quarters: evolutionary biology and neurophysiology stress the
+55
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+closeness of our neurological equipment to that of our mammalian cousins, studies of human development (following Piaget) assume an unfolding of inborn potential, psychological models of processing are often presumed to be models of ‘hardware’ properties rather than models of learned or acquired tendencies or ‘software’, and so on. In linguistics, the adoption of natural science ideals has led to the search for universals without parallel concern for language diﬀerences. (Levinson 1996: 133)
+As Levinson’s comment suggests, the search for linguistic universals (in the sense of universal cognitive principles of language) has preoccupied much of modern linguistics, particularly since the advent of Chomsky’s work on generative grammar in the 1950s. However, as Levinson observes, the search for Universal Grammar has prompted some linguists to argue that quite radical cross-linguistic variation has been ignored by formal linguists. To provide just a few examples, languages can range from having between eleven and 141 distinctive speech sounds; some languages lack morphological marking for properties like number (singular or plural) or tense; and some languages appear to lack syntactic constraints on word order, or fail to exhibit familiar word classes such as adjective.
+Despite the widespread view within formal linguistics that linguistic structure across languages is broadly similar (and can eventually be stated in terms of a small set of universal principles known as Universal Grammar), studies set within this tradition tend not to be concerned with large-scale cross-linguistic comparison. The branch of linguistics that is concerned with large-scale crosslinguistic comparison, linguistic typology, reveals the relative rarity of absolute universals in the sense of patterns of similarity that hold across all languages. Instead, the universals that do emerge are conditional generalisations that can be established to have some statistical validity, as we will see below (section 3.1.1).
+As we have already noted, cognitive linguists assume that language reﬂects conceptual structure and organisation. It follows from this assumption that cross-linguistic diﬀerences should point to underlying conceptual diﬀerences. Cognitive linguists therefore argue that evidence of variation across languages suggests that languages encode very diﬀerent kinds of conceptual systems. However, these distinct conceptual systems are thought to emerge from a common conceptualising capacity, which derives from fundamental shared aspects of human cognition. Rather than positing universal linguistic principles, then, cognitive linguists posit a common set of cognitive abilities, which serve to both facilitate and constrain the development of our conceptual systems (our repository of concepts). Although cross-linguistic analysis reveals that the range of possible conceptual systems found in language is
+56
+
+UNIVERSALS AND VARIATION
+delimited in certain fundamental ways, the languages of the world can and do exhibit a wide range of variation. Cognitive linguists argue that this fact, revealed by typologists, seriously undermines the position that there can be universal principles of language of the kind posited by formal linguists.
+3.1.1 Typological universals
+According to Croft (2003: 1–2), the term ‘linguistic typology’ is used in three distinct ways to refer to three diﬀerent types of approach that fall within the broader discipline of linguistic typology. The ﬁrst approach, which he calls typological classiﬁcation, involves the assignment of a given language to a single type, based on its properties in a certain area (morphology, word order and so on). The nineteenth- and early twentieth-century typological approach is a representative example, where the emphasis was on developing descriptive taxonomies. For example, in traditional morphological classiﬁcation, a language is classiﬁed as belonging to the ‘isolating’ type if it lacks grammatical aﬃxes, while a language is classiﬁed as belonging to the ‘agglutinating’ type if it has grammatical aﬃxes that each encode a single grammatical feature.
+The second approach within linguistic typology is what Croft calls typological generalisation. This involves the search for systematic patterns across languages (linguistic universals), and identiﬁes what patterns of variation can be predicted to exist on the basis of those observed patterns. This approach has its roots in the work begun by Joseph Greenberg in the 1960s, and in emphasising the predictions that emerge from attested patterns about what is a possible human language goes a step further than the essentially taxonomic approach of typological classiﬁcation.
+The third approach within linguistic typology is what Croft calls functional typology. This modern approach rests upon typological generalisation, but goes a step further in developing a theoretical framework that seeks to set out explanations for the observed patterns. This approach is called ‘functional’ typology because it explains these patterns in terms of how language is used for purposes of communication. Functional typology has been developed by typologists such as Bernard Comrie, Talmy Givón, John Haiman, Paul Hopper and William Croft, among others.
+Modern linguistic typology adopts large-scale cross-linguistic sampling as its methodology. The size of the sample varies according to the extent to which the phenomenon under investigation is widespread, as well as being constrained by practical considerations; the typical sample size is in the region of 100–200 languages (out of the estimated six thousand living languages in the world). It is important that the generalisations stated by typologists have statistical validity, otherwise they cannot be upheld. The languages that make up these samples are carefully selected, taking into consideration factors that
+57
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+might aﬀect the reliability of the resulting generalisations, such as genetic relationships between languages and contact between neighbouring but genetically unrelated languages.
+Linguistic typologists have discovered that, although it is possible to state certain properties that hold for all languages (unrestricted universals), crosslinguistic variation is ubiquitous. However, typologists have also discovered that, while languages can and do vary, cross-linguistic variation is constrained, and these constraints can be stated in terms of implicational universals. Indeed, from the perspective of linguistic typology, it is the constraints on variation that make up the universals of language, rather than a set of universal principles that capture the properties that languages have in common (Universal Grammar). Let’s look more closely at the distinction between unrestricted universals and implicational universals, which makes this point clearer.
+An unrestricted universal states that all languages show a particular pattern with respect to some structural feature, while the other logically possible pattern(s) are unattested. Croft (2003: 52) provides the example in (1).
+
+(1) All languages have oral vowels.
+
+This means that the other logical possibility, that there are languages without oral vowels, is not attested. This type of unrestricted universal pinpoints cross-linguistic similarity and is relatively uninteresting to typologists because it does not reveal a pattern in the same way that cross-linguistic diﬀerences do.
+It is much more common for typologists to state implicational universals, which do not state that all languages show the same pattern with respect to a given phenomenon, but instead state the restrictions on the logically possible patterns, usually in the following format: ‘If language X has property Y, then it will also have property Z’. As Croft (2003: 54) points out, this type of universal pinpoints patterns in variation rather than similarity, since each implicational universal sets out a set of distinct attested possibilities. Croft provides the example in (2), which was proposed by Hawkins (1983: 84, cited in Croft 2003: 53). This implicational universal rests upon the four logically possible patterns listed in (3).
+
+(2) If a language has noun before demonstrative, then it has noun before relative clause.
+
+(3) a. b.
+
+languages where both demonstratives and relative clauses follow the noun languages where both demonstratives and relative clauses precede the noun
+
+58
+
+UNIVERSALS AND VARIATION
+c. languages where demonstrative precedes and relative clause follows the noun
+d. languages where demonstrative follows and relative clause precedes the noun
+Observe that the implicational universal in (2) excludes the possibility described in (3d). In this way, the implicational universal states the limits on crosslinguistic variation by restricting the possibilities to those described in (3a)–(3c), and entails an absolute universal by stating that the pattern in (3d) is unattested. In reality, most of the universals posited by typologists are of this kind, or indeed of a more complex kind. Croft describes the diﬀerences between typological and generative approaches as follows:
+One of the major diﬀerences between the generative and typological approaches is what direction to generalize ﬁrst. Given a grammatical phenomenon such as a relative clause structure in English, one could generalize in several directions. One could compare the relative clause structure with other complex sentence structures in English . . . and then generalize over these diﬀerent structures in English. This is the classic structuralist-generative approach. Alternatively, one could compare relative clause structure in English with relative clause structure in other languages, and then generalize over relative clauses in human languages. This is the classic typological approach . . . the typologist begins with cross-linguistic comparisons, and then compares typological classiﬁcations of diﬀerent structural phenomena, searching for relationships. In contrast, the generative linguist begins with language-internal structural generalizations and searches for correlations of internal structural facts, and only then proceeds to crosslinguistic comparison. (Croft 2003: 285)
+A further important diﬀerence between functional typology and the generative approach is that functional typologists reject the idea of specialised innate linguistic knowledge (Universal Grammar). Instead, functional typology comes much closer to cognitive linguistics in orientation, in two important ways. Firstly, functional typology emphasises language function and use in developing explanations for linguistic phenomena. Secondly, functional typology appeals to non-linguistic aspects of cognition to explain the properties of language. For example, many typologists adopt some version of a semantic map model in accounting for typological patterns (Croft 2003: 133). A semantic map is a language-speciﬁc typological pattern, which rests upon a universal conceptual space or system of knowledge. We return to look at this idea in more detail at the end of Part III (Chapter 20).
+59
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+3.1.2 Universals in formal linguistics
+We can now look in more detail at the issue of universals from a formal perspective. There are two prominent formal approaches that address this issue: (1) the Universal Grammar hypothesis, which relates to grammatical structure; and (2) the semantic decomposition approach(es), which relates to semantic structure. What is common to both approaches is the hypothesis that linguistic knowledge has innate pre-speciﬁcation. From this perspective, while languages may diﬀer ‘on the surface’ (for example, in terms of the speech sounds they use or in terms of word order), beneath the surface they are broadly similar, and this similarity is explained by the existence of a universal set of primitives together with a universal set of principles that operate over these primitives.
+Universal Grammar
+The Universal Grammar hypothesis was proposed by Chomsky, and represents an attempt to explain not only why linguistic universals exist, but also how children come to acquire the language(s) they are exposed to so rapidly. The Universal Grammar hypothesis goes hand in hand with the nativist hypothesis, which holds that the principles of Universal Grammar are innate rather than learned (see Chapter 4). However, Chomsky does not claim that children are born with a fully speciﬁed grammar. Children still have to go through the process of acquiring the grammar of the language(s) they are exposed to. Instead, what is claimed to be universal and innate is the pre-speciﬁcation, which we can think of as a kind of ‘blueprint’ that guides what is possible. Chomsky (1965) presented this pre-speciﬁcation in terms of what he called formal and substantive universals. Substantive universals are grammatical categories like noun and verb, and grammatical functions like subject and object: what we might think of as the basic ‘building blocks’ of grammar. Chomsky (1965: 66) suggests that languages select from a universal set of these substantive categories. Formal universals are rules like phrase structure rules, which determine how phrases and sentences can be built up from words, and derivational rules, which guide the reorganisation of syntactic structures, allowing certain kinds of sentences to be transformed into or derived from other kinds of sentences (for example, the transformation of a declarative sentence into an interrogative sentence). In the 1980s, Chomsky developed a more ﬂexible approach to Universal Grammar, called the Principles and Parameters approach. According to this model, the innate pre-speciﬁcation for language is captured in terms of a limited set of principles that can vary according to a small set of parameters of variation. These parameters are ‘set’ on the basis of the properties of language an individual is exposed to during childhood. For example, given suﬃcient exposure to spoken language, a child’s grammatical system will set the ‘head initial/ﬁnal parameter’
+60
+
+UNIVERSALS AND VARIATION
+at ‘initial’ for languages like English where verbs precede their objects, but will set this parameter at ‘ﬁnal’ for languages like Korean, where verbs follow their objects. The most recent version of Chomsky’s theory, the Minimalist Program, also adopts a version of this approach.
+Cognitive linguists (and typologists) argue that the fundamental problem with Chomsky’s hypothesis is that cross-linguistic comparison reveals there to be little evidence for substantive universals of the kind he assumes. In other words, some typologists argue that categories like adjective or grammatical functions like subject and object are not found in all languages (see Croft 2003: 183–8, for example). Cognitive linguists, among linguists of other theoretical persuasions, also argue that the formal theories of phrase structure proposed by Chomsky in order to account for formal universals are unnecessarily abstract, to the extent that parallels across languages are diﬃcult to ascertain. According to Levinson (1996a: 134) ‘it is probably fair to say that the proposals [of Chomsky] need to be taken with a pinch of salt – they are working hypotheses under constant, often drastic, revision.’ Indeed, Chomsky himself deﬁnes the Minimalist Program as a research programme rather than a fully developed theory, and acknowledges that generative grammar is undergoing constant change
+It is important to point out at this point that Universal Grammar is adopted as a working hypothesis by a number of generatively oriented theories of language that depart from Chomsky’s transformational approach and adopt a strictly ‘monostratal’ or non-derivational approach. These theories include Head-driven Phrase Structure Grammar (see Borsley 1996, 1999) and Lexical Functional Grammar (see Bresnan 2001). Formal syntacticians view the quest for Universal Grammar as a worthwhile pursuit, not only because it is a hypothesis worth exploring in its own right, whether it turns out to be correct or not, but also because it provides tools that enable precise and careful descriptions of the world’s languages as well as close comparisons of languages, both related and unrelated.
+For cognitive linguists, the picture of language that emerges from such an approach is artiﬁcially narrow, focusing as it does upon morphosyntax (word and sentence structure) and having relatively little to say about linguistic meaning or the communicative functions of language.
+Semantic universals
+The predominant formal approach to semantic universals assumes semantic primes or primitives and is known as the semantic decomposition or componential analysis approach. Unlike the Universal Grammar hypothesis, which is associated with generative theories, this approach, or collection of approaches, is not associated with a particular type of theoretical framework. Indeed, semantic decomposition has been advocated, in various guises, by both
+61
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+formal and non-formal theorists, including Jackendoﬀ (1983), Pinker (1994), Li and Gleitman (2002) and Wierzbicka (1996). The intuition behind the semantic decomposition approach is that there is a universal set of primitive semantic concepts, innately given, for which any particular language provides a language-speciﬁc label. This idea is expressed by Li and Gleitman in the following way:
+
+Language has means for making reference to the objects, relations, properties and events that populate our everyday world. It is possible to suppose that these linguistic categories and structures are more or less straightforward mappings from a preexisting conceptual space, programmed into our biological nature. Humans invent words that label their concepts. (Li and Gleitman 2002: 266)
+
+Some linguists who adopt this type of approach argue that words rarely label individual semantic primitives, but combinations or ‘bundles’ of primitives that combine to create the rather complex concepts that words denote. For instance, Ray Jackendoﬀ, in his pioneering 1983 book Semantics and Cognition, argues that conceptual structure consists of a range of ontological categories, some of which are primitives. A primitive, in this sense, is an entity that cannot be reduced further, and can be combined with other primitives in order to produce more complex categories. Some of the primitives Jackendoﬀ proposes are [THING], [PLACE], [DIRECTION], [ACTION], [EVENT], [MANNER] and [AMOUNT]. Indeed, these ontological categories can be encoded in language. For instance, each of these corresponds to a wh-question word, such as what, who, when and so on. This is illustrated by the question and answer sequences below (drawn or adapted from Jackendoﬀ 1983: 53):
+
+(4) What did you buy? A ﬁsh
+
+[THING]
+
+(5) Where is my coat? On the coat hook
+
+[PLACE]
+
+(6) Where did they go? Into the garden
+
+[DIRECTION]
+
+(7) What did you do? Went to the cinema
+
+[ACTION]
+
+(8) What happened next? The toy fell out of the window [EVENT]
+
+(9) How did you cook the eggs? Slowly
+
+[MANNER]
+
+62
+
+UNIVERSALS AND VARIATION
+
+(10) How long was the ﬁsh? Over a metre (long)
+
+[AMOUNT]
+
+In addition to primitive ontological categories, the relations that hold between them are also primitives. Consider example (11).
+
+(11) The statue is in the park.
+
+The THEME of the sentence (what the sentence is about) is a particular [THING], lexicalised by the expression the statue. Moreover, the statue is located with respect to a particular [LOCATION], lexicalised by the expression in the park, which consists of the preposition, in, and a reference object, the park. Given that a [LOCATION] is typically occupied by a [THING], there is a relationship holding between [PLACE] and [THING] in which [THING] is a function of [PLACE]. Jackendoﬀ calls this thematic relation [PLACE-FUNCTION].
+Jackendoﬀ argues that semantic primitives of this kind derive from the domain of spatial experience and are ‘hard wired’ or innate. In addition, he posits rules that enable the creation of new combinations as new concepts are acquired. The ontological categories and relations can also be deployed by more abstract concepts. For instance, abstract states can also be structured in terms of the [PLACE-FUNCTION] relation, even though abstract states such as TROUBLE or LOVE cannot be construed as locations:
+
+(12) a. John is in trouble. b. John is in love.
+
+According to Jackendoﬀ’s theory, the reason that the [PLACE-FUNCTION] relation can be applied to abstract states such as TROUBLE and LOVE is because these more abstract concepts are being structured in terms of more primitive ontological categories.
+The semantic decomposition approach faces a number of challenges, as has often been observed by linguists of various theoretical persuasions. In particular, it is diﬃcult to establish empirically what the ‘right’ semantic primitives might be, or how many there are. Furthermore, ‘classical’ componential theories, which assume a set of necessary and suﬃcient conditions, face the problem of accounting for how an entity can still count as an instance of a category in the absence of one or more of these components (for example, a three-legged cat is still described as cat). We return to this point in some detail in Chapter 8.
+
+3.1.3 Universals in cognitive linguistics Cognitive linguists argue against the view that language is pre-speciﬁed in the sense that grammatical organisation is mapped out by an innate ‘blueprint’ for
+63
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+grammar, and semantic organisation by a set of semantic primitives. Instead linguistic organisation is held to reﬂect embodied cognition, as we discussed in the previous chapter, which is common to all human beings. Instead of seeing language as the output of a set of innate cognitive universals that are specialised for language, cognitive linguists see language as a reﬂection of embodied cognition, which serves to constrain what it is possible to experience, and thus what it is possible to express in language.
+In this section, we discuss some of the ways in which embodied cognition constrains what is possible in language. In subsequent sections we examine how these aspects of human cognition are linguistically manifest in two conceptual domains: SPACE and TIME. The ‘Cognitive Commitment’ and the ‘Generalisation Commitment’, together with the embodied cognition thesis, imply a set of constraints that guide the conceptualising capacity as reﬂected in language. These constraints nevertheless permit a wide range of cross-linguistic variation, as we will see.
+Embodiment
+Given the fact of human embodiment discussed in Chapter 2, namely that we share similar cognitive and neuro-anatomical architectures (minds, brains and bodies), it follows that the nature of human experience, and the nature of possible conceptual systems that relate to this experience, will be constrained. For instance, as we saw in Chapter 2, the fact that the human visual system lacks access to colour in the infrared range means that humans cannot experience this part of the colour spectrum. This constrains the nature of experience available to us, and the range of concepts we can form based on that experience.
+Environment
+The nature of the environment humans inhabit has a number of basic commonalities, irrespective of whether one lives in the Arctic or the Kalahari Desert or on a tropical island. Gravity and the other ‘physical laws’ are experienced by humans in essentially the same way the world over. These ‘invariant’ features of the environment place important constraints upon what it is possible to experience at the cognitive level.
+Experience
+There appear to be two broad categories of human experience. The ﬁrst relates to sensory experience. This is experience derived from sensory perception (the ‘senses’) and concerns perceptual data derived from the external world. Concepts that derive from sensory experience include, among others, those
+64
+
+UNIVERSALS AND VARIATION
+relating to the domains of SPACE, MOTION, TEMPERATURE and so on. The other category of experience is introspective or subjective experience. Experience of this kind is subjective or internal in nature, and includes emotion, consciousness and experiences of time such as awareness of duration, simultaneity and so on. One of the most fundamental properties of the human conceptualising capacity is its tendency to structure concepts or domains relating to introspective experience in terms of concepts that derive from sensory experience. This is evident in the phenomenon of conceptual metaphor ﬁrst introduced in Chapter 1 and to which we return in more detail in Chapter 9.
+Perception
+Sensory experience, discussed above, is received via perceptual mechanisms. These mechanisms are rather sophisticated, however, and provide structure that is not necessarily apparent in the raw perceptual input. In other words, what we perceive is not necessarily the same as what we experience directly. The perceptual mechanisms that facilitate our experience were formalised by the movement known as Gestalt psychology, which ﬁrst emerged at the end of the nineteenth century. Gestalt psychologists such as Max Wertheimer (1880–1943), Wolfgang Köhler (1887–1967) and Kurt Koﬀka (1886–1941) were interested in the principles that allow unconscious perceptual mechanisms to construct wholes or ‘gestalts’ out of incomplete perceptual input. For instance, when a smaller object is located in front of a larger one, we perceive the protruding parts of the larger object as part of a larger whole, even though we cannot see the whole because the parts are discontinuous. The Gestalt principles therefore provide structure to, and indeed constrain, experience. We brieﬂy survey some of the most important Gestalt principles below, focusing on examples from the domain of visual perception.
+Perception: ﬁgure-ground segregation Human perception appears to automatically segregate any given scene into ﬁgure-ground organisation. A ﬁgure is an entity that, among other things, possesses a dominant shape, perhaps due to a deﬁnite contour or prominent colouring. The ﬁgure stands out against the ground, the part of a scene that is relegated to ‘background’. In the scene depicted in Figure 3.1, the ﬁgure is the lighthouse and the ground is made up of the grey horizontal lines against which the ﬁgure stands out.
+Perception: principle of proximity This principle holds that elements in a scene that are closer together will be seen as belonging together in a group. This is illustrated in Figure 3.2. The consequence of the greater proximity of the dots on the vertical axis than on
+65
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+Figure 3.1 Figure-ground segregation
+Figure 3.2 Columns of dots
+Figure 3.3 Rows of dots
+the horizontal axis means that we perceive the dots in this image as being organised into columns rather than rows.
+If the scene is altered so that the dots are closer together on the horizontal axis, then we perceive a series of rows, as illustrated in Figure 3.3. Perception: principle of similarity This principle holds that entities in a scene that share visual characteristics such as size, shape or colour will be perceived as belonging together in a group. For instance, in Figure 3.4, we perceive columns of shapes (rather than rows). In fact, the shapes are equidistant on both the horizontal and vertical axes. It is due to the principle of similarity that similar shapes (squares or circles) are grouped together and perceived as columns. Perception: principle of closure This principle holds that incomplete ﬁgures are often completed by the perceptual system, even when part of the perceptual information is missing. For instance, in Figure 3.5, we perceive a white triangle overlaid on three black circles, even though the image could simply represent three incomplete circles. 66
+
+Figure 3.4 Columns of shapes
+
+UNIVERSALS AND VARIATION
+
+Figure 3.5 A triangle and three black circles
+
+Figure 3.6 Two rectangles
+Perception: principle of continuity This principle holds that human perception has a preference for continuous ﬁgures. This is illustrated in Figure 3.6. Here, we perceive two unbroken rectangles, one passing behind another, even though this is not what we actually see. In fact, the shaded rectangle is obscured by the ﬁrst, so we have no direct evidence that the shaded area represents one continuous rectangle rather than two separate ones.
+Perception: principle of smallness Finally, we consider the principle of smallness. This states that smaller entities tend to be more readily perceived as ﬁgures than larger entities. This is illustrated in Figure 3.7. We are more likely to perceive a black cross than a white cross because the black shading occupies a smaller proportion of the image.
+Taken together, the Gestalt principles entail that the world is not objectively given. Instead, what we perceive is in part constructed by our cognitive apparatus, and mental representations are thereby constrained by processes
+67
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+Figure 3.7 A black cross
+fundamental to perceptual processing. As we will see below, these facts emerging from the domain of visual perception pattern together with universal constraints in the language of space.
+Categorisation The ﬁnal constraint we will consider relates to human categorisation. Since the groundbreaking work of the cognitive psychologist Eleanor Rosch in the 1970s, it has been clear that the principles that govern categorisation in the human mind are due in part to the structure of the external world and due in part to innate human abilities. In particular, Rosch found that many human categories are not organised by necessary and suﬃcient conditions, but by prototypes. We return to these ideas in more detail in Chapter 8, observing for the time being that, as we saw in Chapter 2, categories are often fuzzy, and that categorisation judgements are made with respect to a prototypical or most representative member of a category.
+3.2 Cross-linguistic patterns in semantic systems In this section we consider cross-linguistic patterns in what cognitive linguists have suggested are arguably the two most fundamental domains of human experience: TIME and SPACE. In section 3.3, we will explore the nature of crosslinguistic variation with respect to the same two domains.
+3.2.1 Patterns in the conceptualisation of space We begin by investigating patterns in the human conceptualisation of space. As we have emphasised, the conceptions we present here are not thought of by cognitive linguists as predetermined semantic universals, but instead represent a set of common patterns in human conceptualisation of space, from which languages appear to elaborate diﬀerent aspects thereby achieving considerable variation. The discussion presented here on the domain of space is largely based on the work of Leonard Talmy (2000), who proposes that spatial representation in
+68
+
+UNIVERSALS AND VARIATION
+language encodes spatial scenes. Spatial scenes are conﬁgured according to three parameters:
+1. ﬁgure-ground segregation; 2. the relative proximity of the ﬁgure with respect to the ground; and 3. the location of the ﬁgure with respect to the ground. This is achieved
+by the employment of a particular reference frame.
+Figure-ground segregation
+As we have seen, linguistic representations of spatial scenes reﬂect a ﬁgureground asymmetry. While one entity is typically privileged and represents the ﬁgure, the second entity is given less prominence and is referred to as the ground or reference object. It is a striking fact that language reﬂects perceptual organisation in the way that spatial scenes are segregated. In English, this is mirrored by the syntax. For instance, in simple sentences like those in (13), the ﬁgure (underlined) normally precedes the preposition (near), while the reference object (bracketed) follows the preposition. Sentences in which the reference object precedes the preposition, although grammatically well-formed, are semantically odd (indicated by the question mark preceding the sentence):
+(13) a. The bike is near [the house]. b. ?[The house] is near the bike
+The semantic ‘oddness’ of this example can be explained by the fact that the reference object is typically the immovable entity that only serves to locate the ﬁgure. Recall that the Gestalt principle of smallness predicts that the smaller entity (the bike) will be perceived as the ﬁgure. The criteria for determining ﬁgure and reference object, based on linguistic encoding, are listed in Table 3.1.
+Primary and secondary reference object In addition to ﬁgure-ground segregation, languages often allow more complex partitioning of spatial scenes. This involves segregating the ground into two reference objects in order to better locate the ﬁgure. These are termed primary reference object and secondary reference object. While the primary reference object is usually explicitly encoded by a lexical item, the secondary reference object need not be, but can instead merely be implied. Consider example (14):
+(14) Big Ben is north of the River Thames.
+While the River Thames is the primary reference object, the secondary reference object, the Earth, is implied by the spatial expression north of. In other
+69
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+
+Table 3.1 Figure-ground segregation, as encoded in language (adapted from Talmy 2000: 183)
+
+Figure
+Has unknown spatial properties, to be determined
+More moveable Smaller Geometrically simpler More recently on the scene/in awareness Of greater concern/relevance Less immediately perceivable More salient, once perceived
+More dependent
+
+Reference object (or ground)
+Acts as reference entity, having known properties that can characterise the primary object’s unknowns
+More permanently located Larger Geometrically more complex Earlier on the scene/in awareness Of lesser concern/relevance More immediately perceivable More backgrounded, once ﬁgure is
+perceived More independent
+
+words, it is only with respect to the concept THE EARTH that we can process the information that one entity can be ‘north of ’ another. Talmy (2000) identiﬁes two kinds of secondary reference object: encompassing and external. These are outlined below.
+The encompassing secondary reference object is typically asymmetric in orientation and encompasses the primary reference object. This type of reference object provides a frame for locating the primary reference object, which in turn serves to locate the ﬁgure. The example in (14) provides an example of this type, where the Earth provides an encompassing secondary reference object containing the primary reference object, the River Thames. In addition, it is because the Earth has an asymmetric orientation (the north–south opposition), that it is possible to identify the location of the ﬁgure relative to the primary reference object. A similar example is the concept QUEUE, which has asymmetric, front–back orientation:
+(15) Jane is ahead of Mary in the queue/line for ice cream.
+In example (15), the queue provides an orientational frame that encompasses the primary reference object Mary, which in turn locates the ﬁgure Jane. Observe that it is because of the front–back orientation imposed by the secondary reference object that Jane’s location with respect to the primary reference object, Mary, is established. After all, Mary could be facing away from the front of the queue to talk to somebody behind her. Even in this situation, it would still be possible to describe Jane as ahead of Mary (in the queue). We return to the external type of secondary reference object in the next section.
+70
+
+UNIVERSALS AND VARIATION
+
+Relative proximity of ﬁgure and reference object
+The second way in which linguistic variation is constrained with respect to spatial scenes is that languages must encode the relative proximity of the ﬁgure with respect to the (typically immoveable) ground. At the most schematic level, there are three possibilities relating to proximity: ‘contact’, ‘adjacency’ or ‘at some distance’. Examples from English that illustrate the linguistic encoding of these distinctions are given below.
+Relative proximity: contact The ﬁgure can be in physical contact with the reference object:
+
+(16) a. The mosaic is on the front of the church. b. The mosaic is on the back of the church. c. The mosaic is on the (right/left-hand) side of the church.
+Relative proximity: adjacency The ﬁgure can be adjacent to, but not in contact with, the reference object:
+
+(17) a. b. c. d.
+
+The bike is in front of the church. The bike is behind the church. The bike is on one side of/beside the church. The bike is on the right/left of the church.
+
+Relative proximity: at some distance The ﬁgure can be at some remove from the reference object:
+
+(18) a. The bike is to the left/right of the church. b. The bike is a way oﬀ from the front/rear of the church.
+
+Reference frames
+The third parameter for delineating a spatial scene, as evident in the languages of the world, is the reference frame. Reference frames represent the means language has at its disposal for using reference objects in order to locate ﬁgures. According to Talmy (2000), there is a limited set of reference frames employed by the world’s languages. Talmy identiﬁes four kinds, which are illustrated in Figure 3.8. These can be divided into (1) reference frames that involve the primary reference object alone: a ground-based reference frame; and (2) reference frames that also involve a secondary reference object. There are three reference frames of this kind: ﬁeld-based, guidepost-based and projector-based. In Figure 3.8, primary reference object is abbreviated to PRO, and secondary reference object to SRO.
+71
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+Reference frames localise the figure on the basis of:
+
+PRO only Ground-based
+
+PRO plus SRO
+
+Encompassive SRO Field-based
+
+External SRO
+
+Non-projective Guidepost-based
+
+Projective projector-based
+
+Figure 3.8 Taxonomy of reference frames in the languages of the world (adapted from Talmy 2000: 213)
+
+In order to illustrate each of these reference frames, consider the simple cityscape scene, illustrated in Figure 3.9. Now imagine a situation in which a speaker is directing a hearer to the grocery store. There are a number of ways in which the exact location of the grocery store can be found, in keeping with the four reference frames identiﬁed.
+
+Reference frames: ground-based (19) The grocery store is next to the oﬃce building.
+
+This is the simplest kind of reference frame. It involves just a primary reference object, the oﬃce building, and employs the intrinsic geometry of this reference object in order to locate the ﬁgure: the oﬃce building has an intrinsic front, back and sides, to which the speaker appeals in describing the location of the grocery store. Therefore, this type of reference frame is ground-based. The example of ground-based reference given in (19) is illustrated in Figure 3.10. The large cross in Figure 3.10, which overlays the oﬃce building, indicates that it is the oﬃce building that is providing the frame of reference for locating the ﬁgure.
+
+Reference frames: ﬁeld-based (20) The grocery store is to the west of the oﬃce building.
+
+Like the remaining reference frames, the ﬁeld-based type involves a secondary reference object. Field-based reference is characterised by an encompassing secondary reference object, like the Earth example we discussed earlier. A similar example of ﬁeld-based reference is given in (20) and illustrated in Figure 3.11.
+
+72
+
+UNIVERSALS AND VARIATION
+
+Offices to let Grocery store
+
+Figure 3.9 Simple cityscape scene
+
+Speaker Hearer
+
+The crossed-lines indicate the cardinal points (north, south, east and west) that take their reference from the Earth. It is relative to the cardinal points that the primary reference object (the oﬃce building) locates the ﬁgure (the grocery store).
+Reference frames: guidepost-based (21) The grocery store is on the tower side of the oﬃce building.
+Like the ﬁeld-based type, guidepost-based reference framing involves a secondary reference object. However, this type involves an external rather than encompassing secondary reference object. In the guidepost-based reference frame, the external secondary reference object is a non-animate entity – the tower in example (21) – which is external to the primary reference object. The example in (21) is represented in Figure 3.12, where it is the tower that identiﬁes that portion of the primary reference object (the oﬃce building) with respect to which the grocery store is localised. This explains why this type of reference frame is described as ‘guidepost-based’.
+73
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+Offices to let
+Grocery store
+Speaker Hearer Figure 3.10 Ground-based reference
+Reference frames: projector-based (22) The grocery store is to the left of the oﬃce building.
+The ﬁnal kind of reference frame also involves an external secondary reference object. In this type of reference frame, the secondary reference object is an animate entity (here, the speaker), whose location serves as a frame of reference in locating the relevant part of the primary reference object that enables the ﬁgure to be located. In example (19), ‘left’ refers to that side of the oﬃce building from the perspective of the speaker. This type of reference frame is called ‘projector-based’ because the speaker is projecting his or her own location as a frame of reference. Example (22) is illustrated in Figure 3.13. As the discussion in this section demonstrates, a number of core patterns are evident in the conceptualisation of space as encoded in language. These are (1) ﬁgure-ground segregation; (2) the interaction of ﬁgure with primary and secondary reference object; and (3) distinct types of reference frame. Moreover, these patterns are independently motivated by psychological principles of perception, which illustrates how the cognitive commitment underlies the statement of linguistic patterns based on evidence from other areas of cognitive science. 74
+
+UNIVERSALS AND VARIATION
+N Offices to let
+Grocery store
+Speaker Hearer
+Figure 3.11 Field-based reference
+3.2.2 Patterns in the conceptualisation of time In this section, we address cross-linguistic patterns in the conceptualisation of time. In particular, we focus on how time is encoded in semantic structure. We will not address the grammatical encoding of time by tense systems, to which we will return in Part III of the book (see Chapter 18). Our discussion in this section is based on the 2004 book by Vyvyan Evans, The Structure of Time.
+Unlike space, time is not a concrete or physical sensory experience. Moreover, unlike the human sensory-perceptual apparatus that is specialised for assessing spatial experience (among others, the visual system), we have no analogous apparatus speciﬁcally dedicated to the processing of temporal experience. Despite this, we are aware of the ‘passing’ of time. This awareness of time appears to be a wholly introspective or subjective experience. According to Evans (2004a), temporal experience can ultimately be related to the same perceptual mechanisms that process sensory experience. That is, perceptual processes are underpinned by temporal intervals, termed perceptual moments, which facilitate the integration of sensory experience into perceptual ‘windows’ or ‘time slots’. In other words, perception is a kind of ‘windowing’ operation, which presents and updates
+75
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+Offices to let
+Grocery store
+Speaker Hearer
+Figure 3.12 Guidepost-based reference
+our external environment. The updating occurs as a result of timing mechanisms which hold at all levels of neurological processing and range from fractions of a second in duration to an outer limit of around three seconds.
+Evidence for timing mechanisms comes from two sorts of sources. Brain activity can be measured by techniques such as the electroencephalogram (EEG), for instance. The brain produces electrical signals, which are measured by attaching electrodes to the scalp. These read signals and send them to a galvanometer, an instrument that measures small electrical currents. Such techniques allow researchers to observe changes in brain activity over split seconds of time. The brain rhythm assessed by an EEG is measured by the frequency of electrical pulses per second, and is produced on a galvanometer as a series of ‘waves’ with peaks and troughs (see Figure 3.14)
+A second method for assessing timing mechanisms comes from exposing subjects to stimuli of certain kinds at particular points of brain activity. A well known experiment of this kind involves exposing subjects to two ﬂashing lights, and relies on the phenomena known as apparent simultaneity and apparent motion. If the lights are set to ﬂash with less than 0.1–0.2 seconds between their respective ﬂashes, the lights will be perceived as ﬂashing simultaneously. 76
+
+UNIVERSALS AND VARIATION
+
+Offices to let Grocery store
+
+Figure 3.13 Projector-based reference
+
+Speaker Hearer
+
+Figure 3.14 Approximately three seconds of data from eight EEG electrodes
+This is the phenomenon of apparent simultaneity. If the interval between the two ﬂashing lights is increased slightly, the ﬂashing appears to take place in rapid motion. This is the phenomenon of apparent motion. If the interval between ﬂashes is increased slightly more, the ﬂashing appears to be distinctly sequential. However, when lights are set to ﬂash at an interval close to the transition between apparent simultaneity and apparent motion, and when the ﬂashing is correlated with the brain’s own activity, experimenters found that what
+77
+
+COGNITIVE LINGUISTICS: AN INTRODUCTION
+is perceived depends on when in the subject’s own brain rhythm the exposure to the ﬂashing lights takes place.
+In the visual cortex, the dominant rhythm, the alpha rhythm (named by Hans Berger, who pioneered the EEG technique between 1929 and 1935), has a frequency of around ten pulses per second. It was found that if the lights begin ﬂashing when the alpha rhythm is at a peak, then the subject sees apparent motion. However, when the ﬂashing begins when the alpha rhythm is in a trough, the subject perceives apparent simultaneity. Findings like this provide compelling evidence that it is neurological activity in the brain, innate ‘timing mechanisms’, which give rise to perceptual moments, and these are in large part responsible for what we perceive.
+Evidence that such perceptual moments have an outer limit of around three seconds comes from diverse sources, including language. Language, like other human symbolic behaviours (notably music), appears to manifest rhythmic organisation. For instance, the literary scholar Fred Turner and the neuroscientist Ernst Pöppel, in a (1983) paper entitled The Neural Lyre, have shown that the fundamental unit of metered poetry, which they call the Line, can contain between four and twenty syllables, depending on the language. This is based on a survey of languages including Latin, Greek, English, Chinese, Japanese, French, German, Ndembu (Zambia), Eipo (New Guinea), Spanish, Italian and Hungarian. Remarkably, however, despite the diﬀerent numbers of syllables involved, Turner and Pöppel found that the time taken for recitation of the Line among these languages typically ranges from 2.5 to 3.5 seconds. This similarity in the duration of units of meter across such a diverse set of languages suggests that there is a common timing mechanism, or set of mechanisms, that is coordinating rhythmic behaviour.
+The discussion so far indicates that, while time is not a physical entity that is objectively given, it is nevertheless a real experience. Our awareness of time emerges from the process of perceiving and from the properties of our perceptual apparatus. It is a consequence, ultimately, of the various ‘timing mechanisms’ in the brain that give rise to a range of perceptual moments, which in turn underpin perceptual processing. It follows that time enters into all human experience, since it is fundamental to the way in which perceptual processes operate.
+One important consequence of this fact is that our subjective experience of time is not a single unitary phenomenon. Instead, it is comprised of a number of experiences that relate to our ability to assess duration, simultaneity and ‘points’ in time; our sense that sometimes time seems to proceed more slowly or more quickly than usual; our experience of ‘now’, and so on.
+Temporal experience, as it is represented and encoded in language, exhibits two levels of organisation. The ﬁrst level relates to lexical concepts. A lexical concept is the meaning that is represented by a lexical form or word (its sense, in traditional terms). Examples of temporal expressions from English include
+78
+
+UNIVERSALS AND VARIATION
+the words time, past, present and future, among others. The lexical concepts that underlie words of this kind can be organised in a number of ways at the conceptual level. For instance, the languages of the world appear to structure TIME in terms of MOTION, as we will see below. The second level of organisation relates to cognitive models for time. This is a level of organisation in which various lexical concepts are integrated, together with their patterns of conventional imagery. Evans (2004a) calls this process concept elaboration. For example, in the expression a long time, the lexical concept expressed by the word time relates to DURATION, while the imagery that elaborates the lexical concept relates to LENGTH, lexicalised or ‘put into words’ by long.
+Lexical concepts for TIME
+In his discussion of lexical concepts for TIME, Evans (2004a) distinguishes between primary lexical concepts and secondary lexical concepts. Primary lexical concepts are those that relate to common aspects of human cognitive processing. In other words, they relate to the experiences of time that we mentioned above: duration, simultaneity, temporal ‘point’ or moment, ‘now’ and so on. Because experiences of this kind can be traced to underlying perceptual mechanisms and processes, it follows that concepts of this kind are likely to be more common in the languages of the world, and where they occur, to be more similar across languages. In contrast, secondary lexical concepts are cultural constructs and thus may often be culture speciﬁc. A good example of this is the concept of TIME as a valuable commodity, which can be bought and sold, just like concrete physical merchandise. This concept, while present in the languages of the industrialised world, is entirely absent in the languages of many non-industrialised cultures. Since our focus here is on cross-linguistically robust patterns of lexical concepts for TIME, we limit the discussion in this section to primary lexical concepts.
+In order to give an illustration of some of the primary lexical concepts for TIME, we will consider the English lexical item time. This form encodes four primary lexical concepts which show up in diﬀerent contexts. The lexical concepts we will address are DURATION, MOMENT, EVENT and INSTANCE.
+Lexical concept: DURATION The concept of DURATION has two variants that relate to two distinct subjective experiences. The ﬁrst is called protracted duration and relates to the experience that time is proceeding more slowly than usual:
+(23) Time drags when you have nothing to do.
+(24) My ﬁrst thought was, ‘Where did that car come from?’ Then I said to myself, ‘Hit the brakes.’. . .I saw her look at me through the open
+79
+
