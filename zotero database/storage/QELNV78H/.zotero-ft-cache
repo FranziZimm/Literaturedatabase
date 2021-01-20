@@ -1,0 +1,666 @@
+Metaphor
+Embodied Cognition and Discourse
+Edited by
+Beate Hampe
+Universität Erfurt, Germany
+!
+CAMBRIDGE
+UNr^ERSITY PRESS
+
+CAMBRIDGE
+UNTVERSiry PRESS
+University Printing House, Cambridge CB2 8BS, United Kingdom
+One Liberty Plaza, 20th Floor, New York, NY 10006, USA
+477 WiUiamstown Road, Port Melbourne, VIC 3207, Australia
+4843/24, 2nd Floor, Ansad Road, Daryaganj, Delhi - 110002, India
+79 Anson Road, #06-04/06, Singapore 079906
+Cambridge University Press is part of the University of Cambndge.
+It furthers the university's mission by disseminatmg knowledge in the pursuit of education, learning, and research at the highest intemauonal levels of excellence.
+www.cambridge.org Information on this ude: www.cambridge.org/9781107198333 DOI: 10.1017/9781108182324
+© Cambridge University Press 2017
+This publication is m copyright. Subject to statutory exception and to the provisions of relevant collective licensing agreements, no reproducüon of any part may take place without the written permission of Cambridge University Press.
+First pubüshed 2017
+Printed in the United Kingdom by Clays, St Ives pic
+A catalogue record for this publication is available from the British Library.
+Library of Congress Cataloging-in-Publication Data Names: Hampe, Beate, editor. Tide: Metaphor : embodied cognition and discourse / edited by Beate Hampe, Universität Erfurt, Germany. Descripüon: Cambridge : Cambridge University Press, 2017.1 Includes bibliographical
+references and index.
+Identifiers: LCCN 2016059378 I ISBN 9781107198333 (hardback : alk. paper) Subjects: LCSH: Cognitive neuroscience. I Metaphor. I Psycholinguistics. Classification: LCC QP360.5 .M477 2017 I DDC 612.8/233-dc23 LC record avauable at https://lccn.loc.gov/2016059378
+ISBN 978-1-107-19833-3 Hardback
+Cambridge University Press has no responsibuity for the persistence or accuracy of tlRLs for external or third-party mtemet websites refen-ed to m this publication and does not guarantee that any content on such websites is, or wul remain, accurate or appropriate.
+
+r
+
+I»
+
+Contents
+
+List of Figures page vii
+List of Tables x Notes on Contributors xi Editor 's Preface and Acknowledgments xvii
+Introduction 1
+1 Embodiment and Discourse: Dimensions and Dynamics of Contemporary Metaphor Theory 3
+BEATE HAMPE
+Part I: Metaphor in Cognition 25 2 Sources and Targets in Primary Metaphor Theory: Looking Back
+and Thinking Ahead 27
+JOSEPH E. GRADY & GIORGIO A. ASCOLI
+3 The Hierarchical Structure of Mental Metaphors 46
+DANIEL CASASANTO
+4 Metaphorical Directionality: The Role of Language 62
+YESHAYAHU SHEN & ROY PORAT
+5 Body Schema and Body Image in Metaphohcal Cognition 82
+VALENTINA CUCCIO
+6 Pnmary Metaphors Are Both Cultural and Embodied 99 BODO WINTER & TEENIE MATLOCK
+Part II: More than Metaphor 117 7 Source Actions Ground Metaphor via Metonymy: Toward
+a Frame-Based Account of Gestural Acaon in Multimodal Discourse 1 19 IRENE MITTELBERG & GINA JOUE
+v
+
+vi
+
+Contents
+
+8 Metaphor and Other Cogniave Operations in Interaction: From Basicity to Complexity 138
+FRANCISCO J. RUIZ DE MENDOZA IBÄNEZ
+9 On the Role of Embodied Cognition in the Understanding and Use of Metonymy 160
+JEANNETTE LITTLEMORE
+
+Part III: Metaphor in Discourse 179
+10 The Cancer Card: Metaphor, Intimacy, and Humor in Online Interactions about the Experience of Cancer 181 ELENA SEMINO & ZSÖFIA DEMJEN
+11 Mappings and Narraüve in Figurative Communication 200
+ALICE DEIGNAN
+12 Contextual Acdvauon of Story Sünulaüon m Metaphor Comprehension 220
+L. DAVID RITCHIE
+13 From Image Schema to Metaphor in Discourse: The FORCE Schemas in Animaüon Fiüns 239
+CHARLES J. FORCEVILLE
+14 Doing Metaphor: An Ecological Perspecuve on Metaphoridty in Discourse 257
+THOMAS W. JENSEN
+
+Part IV: SaUent Metaphor 277
+15 Attenüon to Metaphor: Where Embodied Cognition and Social Interaction Can Meet, but May Not Often Do So 279
+GERARD J.STEEN
+16 Waking Metaphors: Embodied Cogniuon in Multimodal Discourse 297
+CORNELIA MÜLLER
+
+Epilogue (A Personal View) 317
+17 The Embodied and Discourse Views of Metaphor: Why These Are Not So Different and How They Can Be Brought Closer
+Together 319
+RAYMOND W. GIBBS, JR.
+References 335 Person Index 366 Subject Index 369
+
+Figures
+A visual hybrid (half man, half tree) page 76 Example of associated entities 78 Example of associated entities 79 MORE is UP expressed in co-speech gesture on die phrase "high number." The hand starts low and moves up to a higher position (a), with the end point shown in (b). 102 6.2 Co-speech gesture expressing SOCIAL DISTANCE is PHYSICAL DISTANCE. First the hands are close together (a), then farther apart (b). 103 6.3 Spatial positions of characters expressing SOCIAL DISTANCE is PHYSICAL DISTANCE in Before Midnight. (a) Jesse criticizes Celine for arguing when they should be making love instead; (b) Celiae retaliates by blamiag Jesse for having started it. 105 6.4 Spatial positions of characters expressing SOCIAL DISTANCE is PHYSICAL DISTANCE in Before Midnight. Jesse (a) and Celine (b) m a friendly interaction about a gift from their fi-iends. 106 6.5Co-speech gesture expressing SOCIAL DISTANCE is PHYSICAL
+DISTANCE. Both hands move toward a location in the center of the
+body for expressing SIMILARITY (a). For expressing DIFFERENCE, the hands move apart (b). 107 7.1 Mulämodal instmction about the grammatical category infiniuve 123 7.2 PeeUng pulled into a fihn 132 7.3 Explaining constituent structure 133 8.1 Survey of cognitive operations working on frames and image Schemas 141 8.2Single-soiu-ce amalgam for "My boss is a pig" 153 8.3 Double-source amalgam for "Slap some coiumon sense into someone" 154 8.4 Creation of irony in "Mary is an angel" 158 11.1 Life as a journey through time 203 11.2 The Ph.D. journey 204
+vü
+
+'r
+
+238 L. David Ritchie
+"Bulldozer" and "bull in a china shop" make very little sense without activating a story about the actions or behavior of the vehicle and mapping it onto a story about the topic. Metaphors range in a continuum between these extremes: The potential of some ordmary metaphors to activate metaphorical stories, the stories they activate, and the factors that influence the degree to which particular iadividuals experience these stories should be an integral part of any theory of metaphor use and comprehension.
+It has also been emphasized that story metaphors - both in text and in visual images - are often embedded in speciauzed cultural knowledge. As a result, different members of an audience may process these metaphors in very different ways. Detailed research on the interaction of cultural knowledge with metaphorical stories can thus contribute both to our understanding of language and to our understanding of the discourse in which the metaphorical stories appear. This finding greatly expands the importance and enriches the meaning of "context" in Context-Lmüted Sünulaäon Theory.
+Finally, most of Uie experimental research on metaphor comprehension has been earned out wiui simple, usually idiomauc and decontextualized metaphors. The kind of novel and complex metaphorical expressions Steen calls "deliberate" metaphors, including metaphorical stories and story metaphors, may provide a much more fruitful (if also methodologically more challenging) area for fature research. In this respect, the possible role of metaphorical stories and transportation into the story world in the comprehension of ordinary metaphors also bears examinauon.
+It is doubtlessly the case that the role of context in limiting (or facilitating) stmulaüons is more complex than it previously seemed and that it may work differenüy with different types of metaphors. Fufaire research should thus examine the effects of different aspects of context on the comprehension of different types of metaphor.
+NOTES AND ACKNOWLEDGMENTS
+* The author is deeply indebted to Beate Hampe for many useful suggestions, edits, and words of advice that have contributed greatly to the final form of this chapter. Mistakes and omissions are entirely the responsibility of the author.
+l Barack Obama, "A more perfect union." Speech given at the Constitution Center, Philadelphia, PA, March 18, 2008, passages from paragraphs 3 and 16. A recording of the speech is available from www.youtube.com/watch?v=pWe7wTVbLUU (uploaded March 18, 2008).
+2 J. M. Nash, "The new science of Alzheimer's," TIME, July 17, 2000. 3 Tony Blair, "A fight we have to win." Address given to the annual conference of the
+Labour Party, Gateshead, UK, 2005. 4 The artist's cartoons are pubushed onUne at: www.jamiolsworld.com/.
+
+13 From Image Schema to Metaphor in Discourse:
+The FORCE Schemas in Animation Films
+Charles J. Forceville*
+
+Chapter Preview
+Moving toward a place and manipulating objects are probably the most important manifestations of goal-oriented actions. Both SELFPROPELLED MOTION TOWARD A DESTINATION and MAKING AN OBJECT are thus profoundly embodied source domains for the metaphorical conceptualization of PURPOSIVE ACTIVITY. Of these metaphors, only the former - popularly known as LIFE is A JOURNEY - has received a large amount of attention. Focusing especially on the role of the various FORCE Schemas (Johnson 1987), this chapter investigates metaphors from both source domains in three short animation films. Animation provides a perfect medium to express these metaphors in a condensed, aestheäcally appealing, and emotion-generating manner. In Ime with Conceptual Metaphor Theory, it is argued that viewers' understanding and appreciation of these metaphors critically depends on image Schemas. Stressing that the body is the begimring but not the end of meaning-making, the chapter also shows that this understanding cannot be reduced to them and that cultural and contextual factors qualify and fine-tune embodied Schemas.
+
+l
+
+Introduction
+
+A key claim of Conceptual Metaphor Theory (CMT) is "the centrality of embodiment as the mechanism of meaningfuhiess" (Lakoff 2014: 12, emphasis in original). Conceptual metaphors draw on source domains consisting of Schemas that fundamentally depend on the body's ways of negoäaüng the world. This crucially implies that such image Schemas are not primarily propositional stmctures. Rather, they are patterns of bodily engagement, feeling, experience, and acuon. It is precisely because they are not reducible to propositions that ünage Schemas help theorize how we understand a broad range of multimodal and non-linguistic discourses, such as cartoons, comics, advertisements, and films. In turn, studying non-verbal and multimodal
+
+239
+
+r
+
+240 Charles J. Forceville
+instantiations of ünage Schemas will alert us to dimensions of such Schemas that may not be so prominently present - or even absent - in language.
+To demonstrate how image Schemas play a role in non-verbal and multimodal discourse, I will in this chapter examine FORCE Schemas in three 1j short animauon films. This is an excellent way to study these Schemas in action, and thus take seriously Mark Johnson's (2005: 28) warning that an exclusive focus on the structural dimensions of image Schemas may prevent scholars from "captur[ingj fully the qualiues that are Uie flesh and blood of our experience."
+Forces play a central role in physical events and acuons, and thus in movement. Movmg toward a place and manipulating objects are among the essenüal bodily actions undertaken to achieve goals. Unsurprisingly, therefore, SELF-PROPELLED MOTION TOWARD A DESTINATION, and MAKING AN OBJECT, both of which involve the appücaüon of various forces, are often used as source domains that are metaphorically coupled wiui the target domain of achieving goals. Both LONG-TERM PURPOSEFUL ACTIVITY is SELF-PROPELLED MOTION TOWARD A DESTINATION (popularly known as the JOURNEY metaphor) and LONG-TERM PURPOSEFUL ACTIVITY is MAKING AN OBJECT are thus profoundly embodied and widespread metaphors.
+While the MAKING AN OBJECT metaphor has to my knowledge hitherto not been systematically investigated within CMT, the JOURNEY metaphor has been studied not only in its verbal manifestations (e.g. Katz & Taylor 2008; lütchie 2008b; see also Deignan, this volume) but also in live-action film (e.g. Forcevüle 2006b, 2011; Yu 2009). More recently, I have investigated this metaphor m aaimation fiün (e.g. Forceville 2013, 2016; Forceville & Jeulink
+2011).1 Short animauon films are a perfect medium to express the JOURNEY
+metaphor in a condensed, aestheucally appealing, and affect-eliciting manner. That many such films make no or minimal use of language supports the claim that viewers' understanding and appreciation of them is first of all triggered by deep-rooted, embodied image Schemas and metaphors. The goals of this chapter are to demonstrate
+(i) how nairauve animation films crucially depend on the various literal uses of FORCE Schemas;
+(ü) how the medium of animaaon can draw on FORCE scheinas to present primary as well as complex metaphors;
+(üi) that meaning-making requires complementing embodied cognition with many aspects of cultural knowledge;
+(iv) that a better understandmg of image Schemas, and of "embodied cogniüon" more generally, can much benefit from researching the multimodal discourse medium of animation films.
+
+From Image Schema to Metaphor in Discourse
+
+241
+
+2 Conventional Metaphors, Primary Metaphors, and Image
+Schemas
+Grady (1997a,b) has argued that many of the structural, conventional metaphors analyzed by Lakoff and Johnson (1980) are m fact not as basic as they have been presented to be but constitute combinations of more fundamental metaphors, which he calls "primary metaphors." In Grady's model, the complex metaphor THEORIES ARE BUILDINGS can be further decomposed into the primary metaphors ORGANIZATION is PHYSICAL STRUCTURE and PERSISTING IS REMAINING ERECT Ü1 order to account for the pertinent mappings. In primary metaphors, the distinction between target and source is not, as in "classic" CMT, one between abstraction or complexity versus concreteness; target and source in a primary metaphor are equally rooted in everyday basic experience. Evans and Green (2006: 305, emphasis in original) sum up the key distinction between target and source in Grady's theory as follows: "primary source concepts relate to sensory perceptual experience, while primary target concepts relate to subjecuve responses to sensory-perceptual experience." They go on to explain that since human beings have more immediate conscious access to sensory-perceptual expenences than to subjective (judgmental, evaluauve) experiences, primary metaphors help human beings come to grips with the latter in tenns of the fonner. In the specific situation in which they occur, the target and source in primary metaphors thus cannot be reversed. Although frequent co-occurrence of target and source may cause acuvity in the part of the brain associated with the source even upon being confronted with the target alone (Lakoff 2014: 8), the mapping of pertinent features and structures among features goes unidirectionally from source to target, in non-verbal metaphors no less than in verbal ones (e.g. Carroll 1996, for more discussion, see also Forceville 2002; for further discussion of this, see this volume: Grady & AscoU; Shen & Porat).
+Lakoff and Johnson (1999: 50-54) provide a non-exhaustive list of primary metaphors, including AFFECTION is WARMTH, IMPORTANT is BIG, HAPPY is
+UP, DIFFtCULTIES ARE BURDENS, CATEGORIES ARE CONTAINERS, SIMI-
+LARITY IS CLOSENESS, and STATES ARE LOCATIONS.2 "Since Uiey arise
+directly from experience - and in many cases, from the bodily experience of the world shared by all humans - [primary metaphors] are more Ukely to be universal than the more complex metaphors which are combinations of them" (Grady 1997b: 288). Grady's formulation is rightly cautious, though, since even primary metaphors are not necessarily culture-J&ee. While the human body's natural tendency to move forward (essential in the JOURNEY metaphor) may seem universal and thus completely "natural," once we take manner of movement into account, we may become aware of cultural differences. For instance, a
+
+T
+
+242 Charles J. Forceville
+Chinese woman whose feet have been bound to create "lotus feet" will definitely walk in a very different way from a barefoot Indian, or an Inmt in heavy boots slugging through snow (see also Ibarretxe-A-ntunano 2013; this volume: Casa-
+santo; Cuccio; Winter & Maüock). Image Schemas, such as PATH, BOUNDED REGION, UP/DOWN, NEAR/
+FAR, CONTACT, and the FORCE Schemas, are directly meaningful, preconceptual structures rooted in the body's movement through space, perceptual interaction with the environment, and the handling of objects (Hampe 2005b; Evans & Green 2006). Image Schemas occur as embodied source domains in primary metaphors, which in turn combine and thus help stmcture complex metaphors. It is at the level of these complex metaphors that the embodied part is complemented by accultured features, and it is particularly these latter that are "mapped" (Kovecses 2010b: ,7) or "projected" (Black 1993: 28) from source onto target domain. This mapping/projecting process constitutes the interpretation of the metaphor. A metaphor, however, is an incredibly complex phenomenon. As Gibbs (2012: 353) points out, "no single linguistic, conceptual, or cultural fact shapes metaphor performance, and each of these factors should be studied collectively in terms of the interactive effects on the structure and use of metaphoric language and thought." Moreover, metaphors in turn interact with numerous other dimensions of cultural meaning to
+achieve their effects.
+3 The FORCE Schemas according to Johnson (1987)
+The FORCE Schemas are central to the way human beings conceive of events that is, to the "event structure metaphor" (Lakoff 1993). Basically, the event l structure metaphor draws on die closely related primary metaphors CHANGE is
+MOTION and CAUSES ARE FORCES. Since ACHIEVING GOALS and MAKING
+OBJECTS necessarily involve change from one state to another, the FORCE
+Schemas unsurprisingly play a central role in the complex metaphors LONG-
+TERM PURPOSEFUL ACTIVITY IS SELF-PROPELLED MOTION TOWARD A
+DESTINATION and LONG-TERM PURPOSEFUL ACTIVITY IS MAKING AN
+OBJECT.
+Johnson (1987: 42-48) draws attention to the rich potential of the FORCE Schemas as source domains that help shape and stmcture abstract target domains. Johnson emphasizes the need to explore more concretely how forceful bodily experiences give rise to image-schematic structures that can be transfonned, extended, and elaborated into domains of meaning that are not stricüy tied to the body, such as social interactions, rational argument, and moral deliberation. Without claiming to be exhaustive, he points out the following "pre-conceptual gestalts" for FORCE: (i) we experience forces through mteraction, süice they affect us or something in our perceptual field;
+
+From Image Schema to Metaphor in Discourse
+
+243
+
+(ü) they involve movement through space in a certain direction; (iu) a thing subject to a force tends to follow a specific paui of motion; (iv) forces have origins and, when under the influence of agents, can be directed to certain targets; (v) forces have degrees of intensity; (vi) they make themselves felt according to a certain structure, or "sequence of causality." Johnson further outlines seven types of common FORCE Schemas. While retaining their origmal labels, I provide a slighuy broadened descripdon here:
+
+a. COMPULSION. An agent or entity is pushed into a certain direction by
+external forces that can be human as well as non-human.
+b. BLOCKAGE. An agent or entity is prevented from moving along the envisaged path by an obstacle, which must be negotiated m one way or another, e.g. by passing round it, climbing over it, or destroying it.
+c. COUNTERFORCE. An agent or entity meets with a force that exerts pressure on him/it, hindering movement into the planned direction.
+d. DIVERSION. An agent or entity coludes with a force that causes him/it to
+deviate from the intended course.
+e. REMOVAL OF RESTRAINT. A (potendal) barrier or blockage is eliminated, allowing for unhindered movement to an agent or enuty.
+f. ENABLEMENT. Some SOrt of internal or external force provides the means for the agent or entity to move into the desired direction.
+g. ATTRACTION. An agent or entity is physically drawn toward an object
+or place.
+
+Johnson (1987: 48) acknowledges that forces have yet other dimensions. "A more complete list, for example, would have to distinguish among schemata
+for IMPACT versus CONTINUOUS STEADY FORCE versus INTERMITTENT FORCE versus DIMINISHING FORCE and so on."
+
+4 Literal FORCE in a Bugs Bunny Animation
+In this secdon, I will discuss the various FORCE Schemas as they occur literally - although in exaggerated form - in a mainstream US animauon film
+(usually called a "cartoon").3 Summary of the story: Bugs Bunny is hunted by Elmer Fudd. When Bugs is
+trapped and about to be shot, Elmer suddenly gets a telegram telling him his Uncle Louie leaves him 3 million dollars - but only on the condition that he does not hurt any animals, "especially rabbits." Bugs subsequently takes advantage of the situauon by taxing Ehner's hospitality.
+Here are some examples of the forces identified by Johnson. At the start of the film. Bugs has to negotiate the obstacle of a bush and, barging through it in order to escape the hunting dogs that are pursuing him, is momentarily deflected from his track, losing his balance (Figure 13.1: DIVERSION).
+
+244 Charles J. Forceville
+
+^
+
+Fate. <
+
+•If"
+
+^<i
+y
+
+1?-^
+
+<^
+
+••.••'.
+
+?>,
+
+A
+
+Figure 13.1 DIVERSION. Figure 13.2 BLOCKAGE.
+
+Bugs tumbles from screen Bugs is trapped in a
+
+left through a bush.
+
+"dead end."
+
+Figure 13.3 ATTRACTION. Bugs jumps up and down, falling back to earth.
+
+3-
+
+^
+
+/
+
+^
+
+t
+M
+
+fc
+^
+^
+Ia
+t<E!.
+ü»?
+
+Figure 13.4 COMPULSION. Bugs is pinned Figure 13.5 REMOVAL OF RESTRAINT. against a tree by Elmer's gun. Elmer opens a door.
+
+Shortly afterwards he mns into a natural "dead end" (Figure 13.2: BLOCKAGE). Jumping up and down as if he himself were one of them to
+deceive Elmer's dogs, Bugs lands on the ground each time, being subject to the
+law of gravity (Figure 13.3: ATTRACTION).
+Elmer, having caught up with Uie dogs, pms Bugs against a tree with his gun (Figure 13.4: COMPULSION). When Ebner enters his house, he opens the door
+(Figure 13.5: REMOVAL OF RESTRAINT).
+Irritated by Bug's shameless behavior, Elmer forgets himself and sticks his
+gun through the bath curtains where Bugs is having a shower, against the latter's body. Bugs responds by plonking the bath plug in the barrel, causing Ehner to jump backwards (Figure 13.6: COUNTERFORCE). When Bugs simulates he is going to die after being chucked out of the house, Ehner gets nervous he may lose Uncle Louie's inheritance, and Bugs finds himself luxiiriously canied back into the house by Euner (Figure 13.7: ENABLEMENT).
+Several more examples of the various forces identified by Johnson could have been given from this eight-ininute cartoon. In fact, these forces are
+completely routine in numerous cartoons of uie golden age of Hollywood short animaüon films with heroes such as Bugs Buimy, Daphne Duck, the Roadrunner, Woody Woodpecker, Tom and Jerry, Popeye, and many others.
+
+From Image Schema to Metaphor in Discourse
+
+»!->
+
+i
+\T
+
+^1
+
+^ a.&J
+~\•--;
+
+^
+
+»
+
+245
+
+Figure 13.6 COUNTBRFORCE. After Bugs Figure 13.7 ENABLEMENT. Ebner carries (behind die curtains) has plonked a balh Bugs back mto the house.
+plug in Elmer's gun, Elmer falls
+backwards.
+Chasing, trying to get hold of a desired person or object, and trying to avoid an unpleasant person or object are standard ingredients in the visual gags, reinforced by sound effects, that dominate these shorts. My point is Uiat the forces are here primarily literal, and viewing their various manifestations is
+intrinsically pleasurable and spectacular. Of course, forces play a role in the characters' attempts to achieve goals, but
+inasmuch as they are to be understood metaphorically, they partake in primary metaphors rather than in complex ones: For one thing, the piupose is to be formulated as SHORT-TERM rather than as LONG-TERM. This claim is supported by the fact that the cartoon consists of a series of more or less independent scenes, whose order is, moreover, to some extent arbitrary. For another, the PURPOSEFUL ACTIVITY in each case exemplifies the "co-occurrence" (Gibbs 2014b: 170) or even "confladon" (Lakoff & Johnson 1999: 48) of target and source. That is, the FORCE Schemas permit no, or only minimal, metaphorical mappings on the PURPOSEFUL ACTIVITY domain. It is presumably for this reason that this type of cartoon is so attractive for children: What you see is
+what you get.
+5 Metaphorical FORCES in Art Animation: Death and the Mother
+Let me now consider manifestations of the FORCE Schemas m a much more
+complex animauon film, Ruth Lingford's Death and the Mother, in black and white, with some red highlights, based on a fairy tale by Hans Christian Andersen.
+Summary of the story: Death approaches a house where a mother tends to her sickly daughter. He transfomis himself into an old man and asks her for food. When the mother turns to her furnace, he steals the baby from its cradle. The mother is desperate and frantically tries to find Death to retrieve her
+
+246 Charles J. Forceville
+
+ai^ v
+
+v^
+
+^
+
+&*v
+
+\
+
+s
+
+h\
+
+'/
+
+?s;
+x
+
+^
+
+.•>.
+Jf !
+(
+
+From Image Schema to Metaphor in Discourse ^
+
+247
+
+Figure 13.8 ENABLEMENT. Death waUks Figure 13.9 REMOVAL OF (i.e. "self-propels") toward the house of RESTRAINT. Death opens the door the mother and child, himself.
+daughter froni his clutches. She contmually loses her way but is helped by various agents guiding her. Once she has found Death, she attempts to wrench her child from his arms. Then Death shows the mother, in a magic mirror, the unhappiness Üiat lies m store for her daughter. The mother cries and, now
+definitively, surrenders her child to Death. Here is an analysis of the way in which physical forces help propel the
+narrative both literally and metaphorically. Black-cloaked Death walks toward
+the house (Figure 13.8) where the mother nurses her chud. His is "selfpropelled motion" (ENABLEMENT by his own muscle power), but we know from myths and fairy tales that Death has a desire to take people with him, so we could also say that Death is here drawn to the sickly child, a candidate to be seized away from life by him (ATTRACTION). If we recruit this folk knowledge, we interpret FORCE not just literally but also as a source domain m a metaphor that would run somethmg like DESIRE is PHYSICAL ATTRACTION (or COMPULSION IS A COMPELLING FORCE, Grady 1997a: 287). Transformed into an old man, Death subsequently opens the door of the house (Figure 13.9: REMOVAL OF RESTRAINT). Tellingly, he obtains access to the house without knocking: Death is an uninvited guest. This could be construed metaphorically as DEATH INTENT ON FETCHING SOMEONE is AN
+UNBLOCKABLE FORCE.
+When the moAer has gone out into the cold darkness outside, inasmuch as she uses her own muscle power to move forward, this is another instance of ENABLEMENT. However, she also meets several "agents" whose help she invokes. In most cases she needs to make a sacrifice to that agent before she is guided into the right direcuon. These sacrifices take the fomi of a forceful violaüon of her body. When the mother meets a thorny rose bush, she needs to allow die hand-like thorns to scratch her breasts (Figure 13.10), drawing
+blood to make the roses flower. When she amves at a frozen lake, the ice
+is too thin to hold her (BLOCKAGE), exemplifying both literal obstmction
+and Uie primary metaphor DIFFICULTIES ARE IMPEDIMENTS TO MOTION.
+
+Figure 13.10 The mother lets hand-like thorns of a rose bush scratch her breasts, drawing blood (the latter depicted in red in the original).
+
+Figure 13.11 ENABLEMENT. The lake magically sweeps the mother across to the other side.
+
+The lake demands her to tear out her eyes and surrender Aem m return for melting its ice and sweeping her across the waves to the other side
+(Figure 13.11: ENABLEMENT). There another sacrifice is required of her: The price for being told the way by an old hag is donating her long hair (Figure 13.12).
+Of course, we can consider the three bodily violations to which the mother voluntarily submits as purely literal ones: blood-drawing scratches on her breast, tearing out of her eyes, removmg of her hair. However, the context m which these forceful actions occur are non-realistic: The blood allows the bush
+to flourish into roses that outline the path the mother is to take; the waves of the water take her up and in a swift, magic, and sweeping movement transport her to the other side; and the hau-, finally, is not cut with scissors but is drawn off the woman's head in one smooth moment, as if it were a wig. I propose that, based on a primary metaphor that can be fonnulated as PSYCHOLOGICAL PAIN IS PHYSICAL PAIN (Lakoff 2014: 7), these repeated instances of physical suffering - all forceful acts of violaüon - in this specific story give rise to a more complex metaphor Uiat could be rendered as SELF-SACRIEICIAL LOVE is
+FORCEFUL SELF-MUTILATION.
+The hag takes the now bUnd mother by the hand and leads her toward Death (ENABLEMENT/ATTRACTION). When they amve at a rocky porch, she pushes the mouier through it (Figure 13.13: ENABLEMENT/COMPULSION). Again, this act of pushing triggers non-literal interpretations: The hag is willing to help the mother only so far; actually meeting Death is a dangerous enterprise that the mother wiU have to undertake alone. The blind mother feels her way through the
+\\ dark and finds Death, who holds her child. They wrestle over the child (Figure 13.14: COUNTERFORCE). After Death has given the mother's eyes back to her and shown her the child's tragic future, the mother gives her child back to Death and pushes him away (Figure 13.15: COMPULSION), thereby metaphorically showing that she now, finally, accepts her daughter's life will end.
+
+248 Charles J. Forceville
+
+\^
+
+Ilfc, ». •fi
+/
+
+\\ <
+
+•'.
+
+^ r » /^ /.•<"
+
+{
+
+Figure 13.12 An old hag takes the mother's hair in return for giving her
+directions.
+
+Figure 13.13 COMPULSION/
+ENABLEMENT. The hag pushes the mother through the rocky porch into the
+reaün of death.
+
+(
+
+€ >%
+
+^ 'C»fcS
+
+<-
+
+Figure 13.14 COUNTERFORCE. Death
+and the (bUnd) mother wrestle over the child.
+
+Figure 13.15 COMPULSION. The mother has surrendered her daughter to Death and pushes him away.
+
+6 Metaphorical FORCE in Art Animation: The Hand/Ruka
+While Death and the Mother portrays a journey. The Hand takes place in one
+locaüon.5 This has consequences for the kinds of forces that propel its plot. In
+this section, I wul consider both the physical and the metaphorical forces that
+can be identified m the story.
+Summary of the story: A potter wants to make simple clay pots for his plants. However, an enigmatic giant Hand, whose owner is not visible onscreen, continually invades his room and chaiiges the clay into an image of itself, a hand, indicating that it wants the potter to make a sculpture of the Hand instead of making pots. The potter refuses, but the Hand keeps raiding his
+room as well as haunting his thoughts. When the potter remains stubborn, the
+Hand locks him up in a cage and forces him to sculpt a hand. The potter gets depressed and dies. The Hand provides him with some sort of state burial, as if
+the potter had always voluntarily celebrated the Hand. The transformatioD of clay into a pot, or a hand, requires the exercise of literal
+pressure on the clay (Figures 13.16,13.19). We could categorize this exertion of
+
+Prom Image Schema to Metaphor in Discourse
+
+"^
+
+•5 v*
+
+^
+
+^'
+
+i
+
+T
+
+fc
+
+249
+I •<te.
+
+Figure 13.16 COMPULSION. The potter exerts pressure to make a clay pot.
+
+Figure 13.17 COUNTERFORCE. The Hand is prevented from entermg by the door (BLOCKAGE); the potter pushes against it to keep the Hand out (COUNTBRFORCE).
+
+M
+{?
+JJ
+
+*»,
+I'ps m
+'; •t
+
+m
+
+r:
+
+I
+
+Figure 13.18 REMOVAL OF RESTRAINT/ Figure 13.19 COMPULSION. The Hand COMPULSION. The Hand pushes open one shows the potter that he should create of the shutters, causing a potted plant to a hand. fall from the window ledge.
+physical force to transfonn the clay into a pot and a hand, respectively, as compulsion. When the Hand attempts to come in through the front door, the potter tnes to push it closed (Figure 13.17: BLOCKAGE, COUNTERFORCE), but the Hand biu-sts open one of the shutters to gain entrance (Figure 13.18: REMOVAL OF RESTRAINT/COMPULSION). When its vanous seduction strategies have no effect on the potter, the Hand (now tellingly in a dark glove) sets him before his wheel and draws his hand toward the clay that is to be transformed into a hand (Figure 13.20: ATTRACTION). When even that does not help, the Hand fits the potter's hands into strings, effectively turning him into a marionette, puts him into a cage, and manipulates the craftsman's hands
+into sculpting a hand (Figure 13.21). As in Death and the Mother, there are strong suggestions that we should
+interpret the various forces not just literally, but also metaphorically. It is vital
+
+250 Charles J. Forceville
+
+Sä.
+<
+.* A
+
+IIS."
+iä&
+
+&\rüs
+
+'s ^
+& «y,
+{
+
+Figure 13.20 COMPULSION. The Hand Figure 13.21 The Hand has put strings on draws the potter's hand toward the clay the potter's hands to manipulate him into that he wants made into a hand. making a hand sculpture (DIVERSION,
+COMPULSION) in a cage.
+
+to emphasize that the ume and place of production ofuiis animation fiun favor
+a reading of the various FORCES m terms of the primary metaphors SOCIAL
+CONTROL IS PHYSICAL CONTROL, BEING IN CONTROL IS BEING ABOVE
+(Grady 1997a: 290), and especially Lakoff's (2014: 3) CONTROL is CONTROL
+BY THE HANDS (for discussion of the distincdon and interaction between
+metaphor and metonymy, see this volume: Littlemore; Mittelberg; Ruiz de
+Mendoza).
+In terms of genre. The Hand is a high-culture art animation, aimed at adults,
+and Uie production context is Czechoslovakia in the 1960s. While to an
+uninfonned contemporary viewer the Hand could be a metonym for any
+repressive agency, awareness of the historical context makes it difficult to
+see the Hand as anything else than the personification of the Communist regime of the period. Consequently, the vanous forces the Hand exercises on the potter are to be understood as metaphorically mapping onto the nonphysical pressure that a totalitarian power inflicts on its people. Thus, the brute ways in which the Hand literally assaults the potter's house signify the manners in which it - and by extension the Communist authoriües - violates
+the potter's privacy and freedom. Similarly, the literal pushing and dragging and marionetting of the potter by the Hand metaphorically cue the dogmauc rules that the potter is to obey in his creative work. If we take the potter to symbolize the artist, as we are undoubtedly invited to do, the metaphohcal
+projections from the FORCE domain become even more focused.
+
+7 Combining the FORCE Schemas with Other Concepts to Create
+Metaphorical Meaning
+It is essential that, as theorists, we do not burden the various FORCE Schemas or any other image Schemas, for that matter - too heavily with intrinsic
+
+r
+
+From Image Schema to Metaphor in Discourse
+
+251
+
+meaning. Image Schemas are profoundly embodied building blocks for meaning-making. They have minimal stmcture. In a given context the basic meanings they have can be, and usually are, enormously enriched, for instance by being deployed as source domains in complex metaphors. As Johnson (1987: 169) points out, "creativity is possible, in part, because imagination gives us image-schematic structures and metaphoric and metonymic patterns by which we can extend and elaborate those schemata." The precise meaning of metaphors, that is, is often dependent on a specific discourse context and can, moreover, develop within that context (Cameron et ai. 2009; this volume: Deignan; Jensen; Müller; Semino & Demjen).
+In my analyses of Death and the Mother and The Hand, I have suggested several ways in which forces can be interpreted metaphorically. But awareness of these FORCE metaphors alone is by no means sufficient to do justice to the (potenüal) meamngs of these sophisücated art animation fiüns. Indeed, it is because the various forces and the metaphors they trigger interact with other salient metaphorical and cultural infonnation templates Aat we are invited to constme the FORCE Schemas metaphorically in the first place. In the following, I will briefly discuss some of these kinds of mformauon for the two art
+anünations.
+
+7.1 The JOURNEY and MAKING-AN-OBJECT Metaphors
+In Death and the Mother, all the mother's relocauons are motivated by her attempt to save her daughter from death and thus exemplify the metaphor
+LONG-TERM PURPOSEFUL ACTIVITY IS SELF-PROPELLED MOTION
+TOWARD A DESTINATION. Most of the non-literal meanings of the forces must be understood as part of this overarching, complex metaphor. The metaphor governs other events and objects as well. When the mother gets lost in the woods, we interpret this as her despair about not being able to achieve her goal, i.e. save her child. Similarly, the rocky porch (Figure 13.13) symbolically marks a liminal space, here a transition between the realms of life and death. In The Hand, many of the literal forces pertain, in one way or another, to the making of something, namely, a pot or a hand. This suggests the metaphor LONG-TERM PURPOSEFUL ACTIVITY IS MAKING AN OBJECT. It is within this metaphor that the distmction between the pots that the artist wants to make and the hands he is compelled to make obtains significance.
+
+7.2 Personification
+Personification is one of the most common forms of metaphor (e.g. Martfnez et ai. 2013). Personification can serve different purposes: It can turn abstract phenomena into embodied, Uve agents with the powers of choice and featuring
+
+252 Charles J. Forceville
+stipoenciisficaahtitgrihbluyteusseafnudl ttoyoplictoalvbiseuhaalvizioersp.loMtoerveeonvtesr,,sininacenim"paetrisoonns,s"peurnsdoenritfaickae(self-enabled) actions. In Death and the Mother, the pertinent personificaaon is
+not just that of death, but also that of the rose bush and of'the lake. fa The Hand, the essential personification, via metonymy, is that of the disconnected
+hand mto die Hand of the dictatorial Communist authorities.
+7.3 Other Image Schemas, Feeding into Conventionalized Metaphors
+Among the image schemas that play a role in Death and the Mother are the LIGHT/DARK schema, giving rise to the primary metaphor(s) BAD/ UNKNOWN/DANGEROUS IS DARK (Forceville & Renckens 2013; Winter 2QU, this volume), as in the mother's wandering in the wood, and the related KNOWING is SEEING (Sweetser 1990), pertment when the mother, by sacrificmg her eyes, surrenders control to the personified lake - and later is given back her eyes by Death so that she can witness her daughter's fate in the magic mirror. The BALANCE schema is closely tied to the FORCE Schemas: BEING IN CONTROL is BEING IN PHYSICAL BALANCE - and
+when the lake swirls the mother around in transporting her to the other side, sthcehemmoathpearihraissncootmabplleet,etloyor.eWunhqeunisthheedhhaegrtbaakleasncbeh.eTmheotUhPer/DbOyWthNe himaangde, they go up a rocky road, its rising orientauon presumably connoting the difficulty of the journey (DIFFICULTIES ARE IMPEDIMENT'S TO MOTION). By contrast, when the mother definitively reunquishes her daughter to Death,
+the latter descends a long flight of steps toward a river in the ""underworld."
+oItnisthneotUePw/oDrtOhyW, Nincsicdheenmtaally,,ctuheatdtihffeesreenttwcooinncsetapntucaelsm, wehtailpehboortsh, dnraamweinlyg
+EXPERIENCING DIFFICULTIES IS GOING UP VefSUS DYING IS GOING
+DOWN. This is a healthy reminder that an image schema can be recruited to mean different things in different contexts (Hampe 2005d). A more culturaUy üifonned pertinent metaphor is A LIFETIME is A YEAR, which
+equates death with winter.
+In The Hand we probably understand the potter's/artist's house in tenns of a
+tChOeNINT/AOIUNTERimtahgateisscchoenmtinaupaallyir.uTivhaedeCdObNyTtAheINuEnRweslcchoemmeaHpalanyds, raecroruleitining
+another way, too: The artist wants to make pots, which are'containers that can accommodate, and facilitate the growth of, a variety of flowers, as a dream
+of the artist makes clear. In this respect they are completely unlike the hand sculptures, which are merely unimaginative copies of the relentless Hand. The iopsfottfhsloetwhreeufrsosra,ecaqanudllirtmeheeantmaapodhroehroisccaasdllyyamanbiddouttehcleaulnfmlgoeutahrinasihtniignn:ghToihsfetpyhaeUrataenrrtoaisillaüycthoüenklpeateghpueiaogturiootwnth.theIt
+
+Prom Image Schema to Metaphor in Discourse
+
+253
+
+Hand, the artist nails wooden planks against his own cupboard - so that as a result of all this hammermg, the potted plant that stands on top of it falls on his head, killing him and shattering to pieces. Ironically, the very act of fighting totalitarianism and censorship causes the artist to destroy his own art and
+actually leads to his death.
+More generally, animaüon offers attractive opportunities for examining the
+"manner of motion" dimension of what Dodge and Lakoff (2005) propose to call the LOCOMOTION image schema. However many verbs a language may
+boast to convey this dimension (walk, mn, jump, tmdge, stroll, crawl ...), it
+can be embodied in infinitely more ways in the medium of animated film.
+
+7.4 Myths and Folk Knowledge
+The two wordless art animation fihns (accompanied, however, by information in the musical and sonic modes) presuppose an enonnous number of shared assumpäons, myths, and beüefs to be recruited from what relevance theory
+(Sperber & Wüson 1995: 38) calls the "cognitive environment" of its envisaged audience, i.e. from background frames that are mosuy accessed automatically and subconsciously. A few shared assumptions of this type that are
+relevant to Death and the Mother and The Hand, respecuvely, are listed in (1)
+and (2).
+(l) "Persomfied death looks like a skeleton, often wearing a black cloak"; "It is
+rude to enter the house of somebody one does not know without knocking ; "Providing food for hungry strangers is a vutuous deed"; "Bemg out in the snow at night without warm clothing is letfaally dangerous"; "There is no stronger love than the love of a mother for her child"; "Christ shed his blood to save the world"; "In medieval mythology, a pelican was believed to tear
+o"Rpoesneistssbyrmeabsotliztoefleoeved"b; l"oMoadktmogitssaycoruifnicge"s; "isRoefdtesnymnebcoeUszsearsystuoffaecrhiniegv";e one's goal"; "Fairy tales feature creatures with magical powers"; "Many
+women consider their hair as essential to their attracdveness"; "Dying is
+crossing the river Lethe" . ..
+(2) "People making handstands and pirouettes tend to be in a happy mood";
+"Plants need contmual watering to grow"; "Bowing and taking off one's hat
+misaansipigunlaotef r(eLsapteinctm";a"Hnuasn:d'shaarnedt')hethbeowdyorpldaratsrotuhantdwues"u;6se"Ppaeroepxlecealrleenacferatoid
+of agents that gain access to their homes via brutal force"; "Willfully destroyiug other people's creations is cruel and intümdaüng"; "Artistic freedom is
+incompatible with repression and poudcal interference ...
+Note that not all viewers wiU (be able to) access all of these assumptions,
+myths, and beliefs, indeed, it is precisely because, by definition, cognitive environments among viewers vary that any discourse will yield minor or major divergences in interpretation by different recipients. After all, as relevance
+
+254 Charles J. Forceville
+
+Prom Image Schema to Metaphor in Discourse
+
+255
+
+theory insists, relevance is always relevance to an individual (Sperber & Wilson 1995: 142-151).7 That being said, a considerable number of these
+
+In the Bugs Bunny cartoon, the FORCE schemas occur mainly as part of activiües and events that pertain to survival, the fulfilhnent of ad hoc desires,
+
+assumptions will nonetheless need to be drawn upon m conjuncüon with the
+
+and the avoidance of ad hoc unpleasant experiences. The FORCE Schemas are
+
+FORCE Schemas to lead to meaningful interpretations.
+
+used metaphorically only minimally, namely, in primary metaphors, if at all.
+
+By contrast, in the two art animaaons examined, viewers are emphatically
+
+7.5 The Style of the Films
+Although it is difficult to measure how exacuy they affect the animations'
+
+invited to develop the FORCE schemas' straightforwardly literal meanings not just into primary metaphors but mto complex metaphors. Specifically, the various forces identified eventually lead to the construal of the metaphors
+
+interpretation, the stylistic choices made by their creators undoubtedly have an
+
+LONG-TERM PURPOSEFUL ACTIVITY IS SELF-PROPELLED MOTION
+
+enomious impact on narratives and the metaphors used in them. Indeed, it is
+
+TOWARD A DESTINATION (Death and the Mother) and LONG-TERM PUR-
+
+the style of a film (or any other type of narrative) that transfonns what
+
+POSEFUL ACTIVITY IS MAKING AN OBJECT (The Hand), respectively.
+
+narratologists call the "fabula" - i.e. the chronological, cause-and-effect order
+of a plot, summarizable in-espective of medium - mto a "story" or "syuzhet,"
+
+Clearly, Johnson's claims about Ae metaphorical potential of the FORCE Schemas in verbal expressions are no less valid for manifestations in the
+
+the latter being the actual representation in a given medium (a novel, a film, a
+
+medium of animaüon - and these latter are commensurate with CMT's claim
+
+coinics album, a dance performance, an opera, etc.) that the audience is
+
+that "metaphor is primarily a matter of thought and acdoa and only deriva-
+
+presented with (Bai 2009; Bordwell & Thompson 2008).
+
+tively a matter of language" (Lakoff & Johnson 1980: 153).
+
+The film scholar David Bordwell (1985: 53, emphasis in original) links the
+
+The analyses of the two art anunations have also made clear that conceptual
+
+Üu-ee dimensions as follows: "In the fiction film, nan-ation is the process
+
+metaphors can occur both as primary and as complex metaphors, which
+
+[I
+
+whereby the film's syuzhet and style interact in the course of cueing and
+
+seamlessly interact with each other. From a dynamic systems perspective,
+
+channeling the spectator's construction of the fabula." Without style, the
+
+Gibbs and Santa Cruz (2012: 305) fonnulate it uke this: "A dynainical view
+
+audience of a story would be presented with only bare, prepositional infor-
+
+of human performance is applicable to understanding the temporal unfolding
+
+mation. But, as Francisco Yus (2011: 147, emphasis added) rightly claims, •'proposiüonal attitude is essential in human communication." In short, style in films, and by extension in any metaphors that help structure them, is enor-
+
+of conceptual metaphor experience, in which conceptual metaphors act as multiple attractors that the system moves toward and away fi-om given its past history and present circumstances ... No single conceptual metaphor has
+
+mously influenüal m guiding audiences toward Uie presumably intended attitudinal and emotional responses toward fabula events. In film, stylisuc choices
+
+complete control over how an utterance is interpreted. While the various primary and complex metaphors idenufied in the two art
+
+pertain to camera angles, camera movements, framuig, lighting, props, actors, and many others. In the animation films discussed, specific mention needs to be
+
+animations may provide the skeleton for understanding these profound films, theü- "flesh and blood" (Johnson 2005: 28) comes from the way these meta-
+
+made of the technique: digital animaaon with a woodcut-engravings look for
+Death and the Mother and puppet animation for The Hand - rather tfaan. for
+
+phors function in interacüon, not only with each other but also with numerous facets of folk knowledge pertaining to social conventions, symbols, rituals,
+
+instance, claymation or sand animation or cut-out animaaon. This pertains, for instance, to the stark black-and-white contrasts in Death and to the colorful
+details of the artist's harlequin-like outfit, the flowers, and the Hand glove's
+change of color from white to black in The Hand; but also to the musical score
+and the sound effects as well as numerous other facets.
+
+myths, symbols, customs, style, and daily practices. As I have argued, metaphorical constmal always takes place in a highly specific context: in this discourse, in this genre, in this medium, at this moment, m this place, issued
+by this creator, to this audience. While a metaphor creator presumably has a more or less specific audience in mind, and thus can make a more or less
+
+precise assessment of that audience's cognitive envu-onment, by definition Uie
+
+8 Concluding Remarks
+In this chapter I have considered the FORCE Schemas with reference to one
+mainstream and two art animation films. The Schemas are expressed on a physical, Uteral level throughout all three. Johnson's (1987) seven various
+subtypes occur rouänely.
+
+audience, whether an individual or a group of individuals, brings (or faus to
+bring) its own cognitive environment to the interpretation of the metaphors and every oüier meaningful element, for that matter. Since much of an audience's cognitive envü-onment is determined by culture, cultural knowledge, habits, and myths always affect and complement embodied knowledge
+(cf. Ibarretxe-Antunano 2013).
+
+256 Charles J. Forceville
+Image Schemas are the irreducible embodied building blocks of meanmgmaking, not least for providing the source domains of primary metaphors. These primary metaphors always occur together with other primary metaphors to form complex metaphors. Embedded in and supported by mcredibly rich cultural contexts, these become the metaphors we actually live by.
+NOTES AND ACKNOWLEDGMENTS
+* I am much indebted to Beate Hampe for alerting me to pertinent literature, for suggesting many useful improvements, as well as for meticulous editing. I also thank Thomas Wiben Jensen for a critical reading of an early draft. Finally, I have benefited from the comments of an anonymous reviewer, some of whose suggested fonnulations I gratefuUy use verbatim in the Introduction. Of course, I claim all mistakes and
+errors entirely for myself. 1 For other genres, see also Kromhout and Forceville (2013); Wietske Koehna, Ms
+Adriaansz, and Charles Forceville, "LIFE is A JOURNEY: An animated metaphor" (5'28"). www.youtube.com/watch?v=MvocTKD5o5A (June 3, 2014). 2 For a comprehensive list of candidate primary metaphors, see Grady (1997a:
+281-299).
+3 Bugs Bunny Cartoon The wabbit who came to supper by "Friz" Preleng, USA 1942, 8'06", original m color. www.youtube.com/watch?v=aZSpOYQU9zM (last accessed:
+12/3/2016).
+4 UK 1997, 10'36". www.youtube.coin/watch?v=hi4zdX-OG5Q (last accessed: 12/3/ 2016).
+5 JirfTmka, Czechoslovakia, 1965, 18', original m color, www.youtube.com/watch? v=cS4Th36zN_g (last accessed 13/3/2016).
+6 For detaued work on this latter point, see Yu (2003), Forceville <2009a), Abbott and ForceviUe (2011).
+7 For a more detailed discussion, see ForceviUe (2014).
+
+14 Doing Metaphor: An Ecological Perspective on Metaphoricity in Discourse
+Thomas W. Jensen*
+
+Chapter Preview
+This chapter adopts new theoretical insights from cogmtive science and dynamic systems theory and employs the notion of "metaphoricity" to explore how metaphor ia discourse can be understood more adequately. Relating the ecological turn in cognitive science to metaphor studies and insisting on a unified bio-social perspective, it argues that metaphoricity - if conceptualized within an ecological framework - can offer an altemadve to viewing metaphor as primarily social or cogiütive. Ih-depth analyses of two real-life examples analyze metaphoricity as the act of doing metaphor within an interpersonal ecology established by the ongomg and dynamic presence of other people, physical artifacts and sociocultural constraints. Rather than treated as a product of individual minds, metaphor is thus shown to emerge from the dynamics of human dialogue viewed as a complex living system. The chapter focuses especially on how metaphoricity works as a gradable, interactively negotiated phenomenon that is intertwined with affective behaviors and situauonal
+affordances.
+
+l
+
+Introduction
+
+What is the key component in developing and experiencing metaphor in social interaction? In short, other people! Everything we say and do in the flux of social interacuon is fundamentally addressed at and shaped by the constant, and constandy evolving, presence of other people. This co-presence constitutes an "inter-personal ecology" with distinct possibilities and constraints on the creation of metaphor. In writing, metaphors are ingrained in the Imear architecture of sentences structurally nested m organized chunks of language allowing for more elaborate metaphoric images. Sail, writing is - at least traditionally - a more solitary activity which lacks the principal "affordances (Gibson 1979) of social interacäon: The hnmediate inter-bodily dynainics and
+possibiliües for impulsive action and thought enabled by the interacuve environment in the here-and-now of doing language, or "languaging" (Thibault
+
+257
+

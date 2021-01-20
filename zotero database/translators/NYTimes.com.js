@@ -1,15 +1,15 @@
 {
 	"translatorID": "ce7a3727-d184-407f-ac12-52837f3361ff",
+	"translatorType": 4,
 	"label": "NYTimes.com",
 	"creator": "Philipp Zumstein",
 	"target": "^https?://(query\\.nytimes\\.com/(search|gst)/|(select\\.|www\\.|mobile\\.|[^\\/.]*\\.blogs\\.)?nytimes\\.com/)",
 	"minVersion": "3.0",
-	"maxVersion": "",
+	"maxVersion": null,
 	"priority": 100,
 	"inRepository": true,
-	"translatorType": 4,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2019-06-15 16:21:59"
+	"lastUpdated": "2020-11-02 11:20:00"
 }
 
 /*
@@ -126,11 +126,7 @@ function scrape(doc, url) {
 				item.tags[i] = ZU.capitalizeTitle(item.tags[i], true);
 			}
 		}
-		
-		// Jan. 2019: Disable snapshot saving, since saved snapshots currently
-		// don't load properly (even via Save As in Firefox and Chrome)
-		item.attachments = [];
-		
+
 		/* TODO: Fix saving the PDF attachment which is currently broken
 		
 		// PDF attachments are in subURL with key & signature

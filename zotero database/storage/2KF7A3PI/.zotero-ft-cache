@@ -1,0 +1,390 @@
+978–0–19–954400–4 FM-Heine-FM-drv Heine-Narrog (Typeset by Spi, Chennai) 313 of 886 June 30, 2009 16:59
+c h a p t e r 13
+..............................................................................................................
+A FRAMES APPROACH TO
+SEMANTIC A N A LY S I S
+..............................................................................................................
+charles j. fillmore collin baker
+In this chapter, we contrast a broad use of the term frame in cognitive science from its related use in a type of linguistic analysis; we describe the principles and data structure of a particular research project (FrameNet) as a model for representing frame-based analyses of lexical meanings; we brieﬂy introduce an extension of the project to include the semantic contributions of grammatical constructions; and we conclude by surveying the implications of a frames perspective on some familiar issues in linguistic semantics.
+13.1 Frames and frames
+.......................................................................................................................................... Any discussion of a “frames approach” to semantic analysis must ﬁrst draw a distinction between (1) the ways people employ cognitive frames to interpret their
+
+978–0–19–954400–4 FM-Heine-FM-drv Heine-Narrog (Typeset by Spi, Chennai) 314 of 886 June 30, 2009 16:59
+314 charles j. fillmore & collin baker
+experiences, independently of whether such experiences are delivered through language, and (2) Frame Semantics as the study of how, as a part of our knowledge of the language, we associate linguistic forms (words, ﬁxed phrases, grammatical patterns) with the cognitive structures—the frames—which largely determine the process (and the result) of interpreting those forms.
+13.1.1 Cognitive frames
+There is a general concept of frame (Minsky 1975; 1988; Goﬀman 1974; Tannen 1993), together with allied concepts like schema (Bartlett 1932; Rumelhart 1975), idealized cognitive model (Lakoﬀ 1987), script (Schank and Abelson 1977), and even meme (Dawkins 1976), narrative, etc.), especially as developed in the cognitive sciences since the 1970s, that can be deﬁned as any of the many organized packages of knowledge, beliefs, and patterns of practice that shape and allow humans to make sense of their experiences. Frames, in this sense, play an important role in how people perceive, remember, and reason about their experiences, how they form assumptions about the background and possible concomitants of those experiences, and even how one’s own life experiences can or should be enacted.
+Cognitive frames are usually expressed as “slot-ﬁller representations”, structures of interconnected roles together with constraints on the possible or likely ﬁllers of those roles (Brachman and Schmolze 1985). Examples of such frames are (1) the partially ordered set of events, as well as the participants in such events, that one can expect in a typical visit to a restaurant, barbershop, or hospital, (2) stages and processes in the life cycle of a human being, (3) the visual and physical properties of a cube, and (4) the organization of a human face, and countless others.
+As humans we have access to some of these frames by virtue of living on the earth, subject to its daily and annual cycles and the entities that we perceive; other frames we owe to just being human, with bodies that respond to gravity and to our biological and emotional needs, and with the perceptual faculties that our bodies possess; others we have by being members of a particular culture, where we consciously or unconsciously respond to its institutions, symbols, artifacts, and values; and, importantly, still others we have by virtue of being a part of the speciﬁc speech community that supports and is supported by the culture. Thus, we have schematic knowledge about gravity, heat, and shadows, the diﬀerence between living and non-living things, about colors, pain, joy and jealousy, about marriage, government and religion, and about weekends, heartburn, military titles, the color purple, and bikinis.
+As an example of how the availability of a cognitive frame can shape our perceptions, independently of language, imagine a simple visual experience. In an
+
+978–0–19–954400–4 FM-Heine-FM-drv Heine-Narrog (Typeset by Spi, Chennai) 315 of 886 June 30, 2009 16:59
+a frames approach to semantic analysis 315
+American setting, when we see a group of neatly dressed children approaching someone’s house, carrying brightly wrapped packages, we are likely to interpret this percept by summoning from our memory what can be called the birthday party frame, which leads us to infer that some child is celebrating a birthday, and to expect that the children’s experiences during the time of the party will include games, toys, and cake, and lighted candles on the cake, as well as a singing of the birthday song.
+The following text, distributed on the internet some years ago in joke mailing lists, can illustrate how a number of bits of frame knowledge can be assembled to ﬁll in the details of a larger “composed” frame. The title of the passage is “A Woman’s Dream Breakfast”. It will be useful to consider its intended interpretation.
+She’s seated at a table in her garden with her gourmet coﬀee. Her son’s picture is on the Wheaties box. Her daughter’s picture is on the cover of Business Week. Her lover’s picture is on the cover of Playgirl. And her husband’s picture is on the back of the milk carton.
+Understanding this little vignette requires an appeal to a great many facts about current American culture.
+(a) Having breakfast at a table in one’s garden is a common image of luxury in Western culture, enhanced by the explicit mention of gourmet coﬀee. Our heroine leads a comfortable life.
+(b) Wheaties (a wheat and bran breakfast cereal) with milk is a stereotypical American breakfast.
+(c) The pictures on Wheaties boxes are of popular athletes. Our heroine’s son has done well in the sports world.
+(d) Having her picture on the cover of Business Week surely means that our heroine’s daughter has been successful in the business world.
+(e) The magazine Playgirl features good-looking well-built young men, and one of those, we learn, is her lover.
+(f) Currently the backs of milk cartons often show appeals for help in ﬁnding missing people: this woman’s husband has disappeared and may never be found. The title of this vignette, “A Woman’s Dream Breakfast”, suggests that having her husband out of sight is an important component of our heroine’s happiness.
+Its distribution in a series with other texts intended to be witty suggests that this text belongs to a genre of humor known as “the battle of the sexes”. A full interpretation would include the meta-judgment that the joke is probably more amusing to women than to men.
+Obviously someone who is not familiar with these bits of cultural knowledge will not share the intended associations: the frames we invoke are based on knowledge we have, not so much about the words, as about the phenomena and their
+
+978–0–19–954400–4 FM-Heine-FM-drv Heine-Narrog (Typeset by Spi, Chennai) 316 of 886 June 30, 2009 16:59
+316 charles j. fillmore & collin baker
+association with cultural values. (That is why it is diﬃcult to understand a joke in a foreign language or one that expresses an unfamiliar culture.)
+The intended interpretation of this text, as reconstructed here, illustrates well the common assumption, among semanticists, that the full meaning of a text is “vastly underdetermined” by its linguistic form alone. A dictionary, no matter how detailed, will not help the reader of this text if it is limited to the “standing deﬁnitions” of its individual words; and we cannot easily imagine that a computer program processing this passage would be capable of recognizing it as humorous.
+The earlier invocation of the birthday party frame was based on a visual experience; the invocation of the complex structure that constituted the interpretation of the dream breakfast depended on linguistically presented information, but it was just a series of existence statements. The birthday party frame was ﬁrst introduced into the artiﬁcial intelligence literature by Marvin Minsky (1975) where it was oﬀered as an explanation of the most natural interpretation, not of a visual experience, but of a very short English text:
+Mary was invited to Jack’s party. She wondered if he would like a kite.
+This time the explanation involves the evocation of a group of frames by particular linguistic features, but it is completed by the knowledge, on the part of an American reader, of the details of a child’s birthday party. The linguistically anchored frames are evoked by the verb invite, which designates a relationship involving a host, a guest, and an occasion, the noun party, evoking a social event that will generally have a host, guests, and an occasion. The genitive construction Jack’s party could either be interpreted as a party for which Jack is the host or one for which Jack is being celebrated. There are no linguistic traces of the birthday party frame as such, but the noun kite designates a child’s toy, and the concern is whether Jack would like one. These various language-provided details jointly allow the reader to summon up a frame into which they could be articulated, where Jack is the birthday celebrant, the kite is being considered as a birthday present, and so on.
+In cases like the “Dream Breakfast” vignette we say that the interpreter invokes the (cognitive) frames that enable the experience to make sense, whereas in the cases we will be concerned with in the rest of this chapter we will say that a given linguistic sign evokes the (linguistically anchored) frame that contributes to interpreting the passage. The birthday party text provided information to which the invocation of the birthday party frame assigned coherence. Frame invocation is a cognitive act that the interpreter (possibly quite unconsciously) performs to make sense of some incoming information. By contrast, frame evocation is a cognitive experience on the part of an interpreter that comes about by the interpreter’s responding to language-speciﬁc associations connecting linguistic signs with particular frames. The discovery and analysis of such associations, those acquired as a part of learning the language, constitute Frame Semantics.
+
+978–0–19–954400–4 FM-Heine-FM-drv Heine-Narrog (Typeset by Spi, Chennai) 317 of 886 June 30, 2009 16:59
+a frames approach to semantic analysis 317
+13.1.2 Frame Semantics
+We take semantics to be the relation between linguistic forms and their meanings (distinct from semantics as a scheme for meaning representations). Thus, semantic analysis proper is the process or activity of showing how features of meaning are anchored in features of linguistic form. The language analyst can see this relationship from either direction. It has a decoding or semasiological aspect, by which the semantic import of linguistic structures is explained, and an encoding or onomasiological aspect, by which concepts are examined with respect to the ways in which they can be linguistically expressed. In Frame Semantics in particular, the meaning dimension is expressed in terms of the cognitive structures (frames) that shape speakers’ understanding of linguistic expressions.
+One part of language learning is acquiring the linguistic coding of already familiar experiences. For example, surely children are familiar with experiences of pain before they encounter the various linguistic means of talking about them. These include utterances expressing a current experience of pain (ouch!), clauses associating pain with the body, parts, or whole (my foot hurts, my tooth aches, I have a pain in my foot, I hurt all over), clauses associating pain with particular causes of pain (the injection won’t hurt, these shoes hurt, you’re hurting me), and ultimately an abstraction designating the quality of such experiences (pain is a powerful motivating force). In eﬀect, dictionary deﬁnitions of the words like pain, hurt, ache, and ouch cannot (and need not) “explain” these concepts, but can only give pointers to the kinds of experiences with which the learner is already familiar.
+A second part of language learning consists in acquiring new concepts—new frames—together with the linguistic means of coding them. In many cases a lengthy chain of prior learning is a prerequisite to attaining the new concept, as with the mathematical concept mantissa, which requires previous familiarity with such concepts as base, power, logarithm, decimal point, and, of course, the conceptual prerequisites of each of these in turn.
+Thus Frame Semantics is the study of how linguistic forms evoke or activate frame knowledge, and how the frames thus activated can be integrated into an understanding of the passages that contain these forms. The full study of the understanding process, as seen in the Minsky text, must also take into account the ways in which non-linguistic information is integrated into the process.
+With respect to the lexicon, we say that each lexical unit, the pairing of a word with one of its meanings (Cruse 1986), evokes a frame and proﬁles1 some aspect or component of that frame. The pairing of a word with its background frame means
+1 R. Langacker (1987) provided the parade example of the pairing of the meaning of a word and its background in the concept of the hypotenuse: no deﬁnition of hypotenuse can be successful without making clear the associated notion of the right angle triangle, since a hypotenuse is the slanted line in just that kind of geometric ﬁgure. Langacker contrasts the base, corresponding to the background frame, and the proﬁle, identifying the concept that requires that background. The usage above has borrowed proﬁle as a verb.
+
+978–0–19–954400–4 FM-Heine-FM-drv Heine-Narrog (Typeset by Spi, Chennai) 318 of 886 June 30, 2009 16:59
+318 charles j. fillmore & collin baker
+that when we understand a word, we must simultaneously recognize the relevance of the background information within which that word plays an interpretive role (Fillmore 2003). In the case of specialist language, this bipartite nature of lexical knowledge is familiar from common lexicographic practice. For example, dictionary entries for id, ego, superego, transference, etc., in the psychoanalytic senses, are likely to indicate the connection to the theories of Freud and his followers: only by understanding the basic outlines of the background theory do these words make any sense. Similarly, a basic understanding of tectonic plate theory in geology is necessary in order to make sense of terms like subduction zone, transform boundaries, or continental plate. In most cases, for obvious reasons of space, modern dictionaries will only include a pointer to the needed domain, and it is up to the user to seek out the needed information.
+The basic assumption of Frame Semantics, in respect to word meanings, is that not just words from technical domains but essentially all content words2 require for their understanding an appeal to the background frames within which the meaning they convey is motivated and interpreted.
+The background knowledge assigned to frames is often so thoroughly “overlearned” that considerable cognitive eﬀort is sometimes required to bring it to consciousness. For example, we cannot understand the meaning of Tuesday without knowing about how time is reckoned in Western culture, including the established cycle of seven days and the naming of the members of the cycle. The concepts weekday and weekend depend on still more knowledge, this time involving designated members of the cycle typically dedicated to work and non-work. Understanding an expression like Thank God it’s Friday! depends in turn on that distinction and an assumed natural preference of non-work over work. Similar principles apply to categories such as the four seasons, the compass directions, up vs. down, right vs. left, and thousands of others. These lexical units all call on shared background conceptualizations and are best learned, and understood, in packages, large or small.
+Much of the early informal work in Frame Semantics oﬀered descriptions of individual words, or small lexical systems linked by simple contrasts, that required appeal to background motivating contexts. Some of these backgrounds can be of considerable complexity, as in examples like the following:
+Alimony. Leo has missed three successive alimony payments.
+To understand alimony requires understanding divorce and the kinds of contracts that can be entered into at the time of a divorce; to understand divorce
+2 That is, nouns, most verbs, adjectives, demonstratives, adverbs, many prepositions, etc. The function words (articles, complementizers, prepositions, support verbs, etc.) contribute to meanings only as components of particular grammatical constructions. Theories diﬀer as to whether it is useful to think of such words as contributing to the meanings of the structures that contain them.
+
+978–0–19–954400–4 FM-Heine-FM-drv Heine-Narrog (Typeset by Spi, Chennai) 319 of 886 June 30, 2009 16:59
+a frames approach to semantic analysis 319
+requires knowing about marriage and its commitments; to understand missing three successive payments requires knowledge of the kinds of periodic commitments undertaken with an alimony agreement, and to know that missing a payment is a failure to honor such a commitment. Describing the payments as having been missed, rather than using a neutral expression like did not make (the payments), reveals an evaluation that this is a failure on Leo’s part. All of this comes with knowledge of meanings of the associated words, in this case centered in the concept of alimony.
+On land. The men were happy to spend several hours on land this morning.
+The ﬁrst deﬁnition of the noun land in the Concise Oxford Dictionary (COD New Edition) is “the solid part of the earth’s surface”; the entry refers to its opposition to sea, water, and air. The prepositional phrase on land, however, is speciﬁcally understood as being in a contrast set with the phrase at sea, indicating location in respect to a water mass; learning that someone has spent a limited amount of time on land invites the inference that these several hours constituted an interruption of a sea voyage. The pair on land vs. at sea is matched for diﬀerent contrasts by such pairs as on the ground vs. in the air, on earth vs. in heaven, on earth vs. in (outer) space. (See Fillmore 1982; 1985)
+Pedestrian. Try not to hit any pedestrians.
+The noun pedestrian refers to someone walking in an area where there is competition for space between moving vehicles and persons on foot, and so the concept of hitting a pedestrian must be understood from the point of view of a vehicle and its drivers: what is to be avoided is allowing one’s vehicle, not one’s ﬁst, to strike a walking person. The word, furthermore, does not designate a member of a category of persons, but a person in a currently-relevant role. The frame that comes with pedestrian immediately enables an envisionment of the context for such an utterance; no such rich envisionment would be linguistically provided for an utterance like Try not to hit any Norwegians.
+Decedent. The decedent lived most of his life abroad.
+The word decedent is deﬁned in COD as “a deceased person”; deceased as an adjective is deﬁned as “dead” and as a noun it is deﬁned as “a person who has died, esp. recently” (“especially recently”!). It seems strange that the nouns deceased and decedent, always used with a deﬁnite determiner, referring to some speciﬁc now-dead individual, should be deﬁned with an indeﬁnite NP. The sentence, of course, cannot mean that this person was dead when he lived abroad, but only that the individual referred to, now dead, lived abroad when he was alive. The “framing” of decedent as opposed to deceased is more complicated still: it is a term of art in U.S. law, and it is typically spoken or written only in
+
+978–0–19–954400–4 FM-Heine-FM-drv Heine-Narrog (Typeset by Spi, Chennai) 320 of 886 June 30, 2009 16:59
+320 charles j. fillmore & collin baker
+discourse about the dead person’s estate. The most common co-occurring words in sentences containing decedent are probate, estate, heir, taxes, and the like.
+With nouns that designate an object that has a function, the linguistic context can sometimes distinguish between cases when it refers merely to the physical object and cases when it presents that object as serving its function: Pustejovsky (1995) distinguishes these as the formal and the telic properties of a noun. If someone is seated inside a bus, one can truthfully describe that person as being in the bus, even if the vehicle is a long-abandoned bus with its wheels missing. If we are told that the individual is on the bus, however, more assumptions are needed, related to our understanding of what a bus is for: in particular we assume the bus is “in service”. A similar association with the telic of a noun holds for the contrast between being in jail vs. in the jail. We assume that someone who is in jail is being punished for some crime; someone could conceivably be in the jail to get out of the rain; and analogous contrasts hold for being at school vs. at the school, in church vs. in the church.
+Since the ground observations about Frame Semantics must be the ways in which users of the language understand what is communicated by their language, Frame Semantic research is necessarily empirical, cognitive, and ethnographic in nature. Researchers must ﬁnd out what frames inform the language being studied because there is no place to look it up; it involves subtle issues of language understanding rather than symbol manipulation and simple judgments of truth; and it requires learning about the experiences and values in the surrounding culture.
+13.2 Frame Semantics and the FrameNet Project
+..........................................................................................................................................
+The examples considered so far have all been accounts of individual words or phrases, or small sets of interdeﬁnable words that appeal to important but small-scale frames. The Berkeley FrameNet Project (Fontenelle and Thierry 2003, http://framenet.icsi.edu) is going beyond such piecemeal observations, and building a frame-based database containing hundreds of frames, many of which support quite large sets of words from the common vocabulary of English, accompanied by sentence annotations that serve both as the evidence for the analyses and as a collection of examples that can be made available for further research.
+The method of inquiry is to ﬁnd groups of words whose frame structures can be described together, by virtue of their sharing common schematic backgrounds
+
+978–0–19–954400–4 FM-Heine-FM-drv Heine-Narrog (Typeset by Spi, Chennai) 321 of 886 June 30, 2009 16:59
+a frames approach to semantic analysis 321
+and patterns of expressions that can combine with them to form larger phrases or sentences. In the typical case, words that share a frame can be used in paraphrases of each other. The general purposes of the project are both to provide reliable descriptions of the syntactic and semantic combinatorial properties of each word in the lexicon, and to assemble information about alternative ways of expressing concepts in the same conceptual domain.
+13.2.1 General outline of the FrameNet process
+The steps in the FrameNet lexical analysis process are as follows: 1. Characterizing the frames, i.e., the situation types for which the language has
+provided special expressive means. One of these is Revenge, the last phase of a scenario in which someone A had oﬀended or injured someone B and after and because of that, someone C does something to punish A. The event designated in a Revenge predication is the punishing event.
+2. Describing and naming the frame elements (FEs), i.e., the aspects and components of individual frames that are likely to be mentioned in the phrases and sentences that are instances of those frames. In the case of Revenge, the A of the previous paragraph is named the Oﬀender, the B, the InjuredParty, and C, the Avenger. What the Oﬀender did is referred to as the Oﬀense; what C does is referred to as the Punishment. Phrases and clauses built around Revenge expressions are likely to mention some or all of these.
+3. Selecting lexical units (LUs) that belong to the frames, i.e., words from all parts of speech that evoke and depend on the conceptual backgrounds associated with the individual frames.
+The long list of words that evoke the Revenge frame includes simple verbs like avenge, retaliate, revenge; phrasal verbs like get back (at), get even (with), pay back; nouns like payback, reprisal, retaliation, retribution, revenge, vengeance; adjectives like vengeful, vindictive; support constructions like take revenge, wreak vengeance, exact retribution, adverbial idioms like quid pro quo, tit for tat, and many others. Each LU is provided with a brief informal deﬁnition.
+4. Creating annotations of sentences sampled from a very large corpus showing the ways in which individual lexical units in the frame allow frame-relevant information to be linguistically presented.
+
+978–0–19–954400–4 FM-Heine-FM-drv Heine-Narrog (Typeset by Spi, Chennai) 322 of 886 June 30, 2009 16:59
+322 charles j. fillmore & collin baker
+This is done with the help of annotation software that makes it possible for the annotator to associate FE labels with the phrases in a sentence that express those FEs. Example: [avenger Hook] tries to [target avenge] [injuredparty himself] [offender on Peter Pan] [punishment by becoming a second and better
+father]. Grammatical functions (subject, object, etc.) and phrase types (NP, PP, etc.) are associated with the FE-tagged constituents by a mini-grammar in the software; these initial assignments are corrected by the annotator when necessary.
+5. Automatically generating lexical entries, and the valence descriptions contained in them, that summarize observations derivable from them.
+The above example would thus appear in the lexical entry with this information: [avenger:subject:NP Hook] tries to [target avenge] [injuredparty: object:NP himself] [offender:oblique:PP on Peter Pan] [punishment:oblique:PP-gerund by becoming a second and better father].
+Tables including information from the full collection of annotations of the verb avenge show that in addition to the Oﬀender, the direct object can also instantiate the Oﬀense, such as the insult, his brother’s murder, their humiliating defeat. In the large variety of lexical structures in the Revenge frame, the part of the Oﬀender can be introduced with various prepositions: take revenge ON . . , get back AT . . , get even WITH . . , retaliate AGAINST . . .
+Thus, the kind of semantic analysis carried out in this work involves characterizing the situation types evoked by (classes of) lexical units, determining the kinds of participant roles (frame elements) needed to complete the details of instances of any such frame, and discovering and documenting the ways in which such elements are syntactically realized. The result of this work as of 2008 is a collection of frame descriptions (more than 800), an index of more than 11,000 LUs, a large collection of sentences annotated as illustrations of given LUs (more than 150,000), and lexical entries that include informal deﬁnitions (for human users) and tabular valence descriptions.
+13.2.2 A sample frame: Compliance
+In this section we exemplify a frame treated in FrameNet and the LUs that have been assigned to it. Words of diﬀerent parts of speech are included all of which evoke in the language user’s mind the kind of situation characterized by the frame
+
+978–0–19–954400–4 FM-Heine-FM-drv Heine-Narrog (Typeset by Spi, Chennai) 323 of 886 June 30, 2009 16:59
+a frames approach to semantic analysis 323
+description. The wordlist for this frame, as in many other cases, includes antonyms as well as synonyms, since, except for the polarity contrast, the basic elements of their annotations will be the same.
+The verbal deﬁnition of a frame is formulated so as to include the names of the frame elements in the deﬁnitions in a way that displays their roles in the described situations. The deﬁnitions are for annotators and users to keep in mind. The FrameNet project does not currently provide formal deﬁnitions, simulations, paraphrases in terms of semantic primitives, alignment with any of the existing ontologies, or reduction to ﬁrst order predicate logic or other formal representations.
+The Compliance frame is deﬁned as follows, where the capitalized bold-font words are the FEs:3
+The words in the Compliance frame evaluate the degree of faithfulness to some Norm (rule, standard, accepted practice) on the part of a Protagonist or an Act or a StateOfAﬀairs for which the Protagonist is responsible.
+Examples of sentences that convey Compliance situations are as follows (frameevoking expressions are in bold):
+The wiring in the computer room violates the current building code. You were not in compliance with the trespassing laws when you climbed over that fence. Do you faithfully observe the dietary laws? Did Jesus break the Sabbath? Russia is urged to adhere to the agreement. Being compliant with the HIPAA security regulations is not easy. Google is in breach of California privacy laws.
+The entities mentioned in texts that contain predicators from the Compliance frame can be (a) an Act, like climbing over a fence, (b) a StateOfAﬀairs, like the state of the wiring in a computer room, (c) a Protagonist, a person or non-person agent, such as you, Jesus, Russia, or Google, and (d) a Norm like a code, agreement, regulation, or law. The primary argument in a Compliance predicate will be one of the ﬁrst three; the Norm appears as a direct or oblique complement.
+The LUs that belong in the Compliance frame include adjectives (compliant (to), contrary (to), obedient (to), observant); simple transitive verbs (breach, break, circumvent, contravene, ﬂout, follow, honor, keep, obey, observe, transgress, violate); intransitive verbs with prepositional complements (abide (by), adhere (to), comply (with), conform (to), submit (to)); nouns morphologically related to verbs in the frame (adherence (to), breach (of), compliance (with), conformity (to), contravention (of), non-compliance (with), obedience (to), observance (of), submission (to), transgression (of), violation (of)).
+3 The frame deﬁnitions given here are not verbatim copies of the deﬁnitions given in the website.
+
+978–0–19–954400–4 FM-Heine-FM-drv Heine-Narrog (Typeset by Spi, Chennai) 324 of 886 June 30, 2009 16:59
+
+324 charles j. fillmore & collin baker
+13.2.3 The variety of frames
+Here we sample a variety of frames to show the range of ideas that can be included in a single frame and the meaning distinctions that are left to the individual lexical units. It is possible to think of each LU as evoking its own frame, each of these inheriting those properties of the “mother” frame shared by them all.
+
+Frame name
+
+Deﬁnition
+
+Example LUs
+
+Comment
+
+Adorning
+Attaching
+Biological area
+Change of phase
+Change position on a scale Fluidic motion
+
+something partially or wholly covers something else
+
+adorn blanket cloak coat cover deck decorate dot dress encircle encrust envelop festoon ﬁll ﬁlm garnish line pave stud wreathe
+
+These verbs differ in imagery, distribution of the covering substance, etc.
+
+someone causes something to be connected to (or disconnected from) another thing using some means
+
+adhere afﬁx agglutinate anchor append attach . . . sew shackle solder staple stick . . . tack tape tether tie truss untie weld yoke
+
+These words differ with respect to the kinds of things that get connected to each other, the methods and instruments that are used
+
+a geographical area is deﬁned by the biota in it; natural, not man-made
+
+bog bush copse desert fen forest glade grassland . . . taiga thicket tundra veld wold wood woodland
+
+an undergoer changes phase (intransitive)
+
+condensation condense defrost evaporate evaporation freeze liquefy melt solidiﬁcation solidify sublimation sublime thaw vaporize
+
+The LU meanings differ mainly as to the before and after states
+
+something undergoes advance balloon climb a change in the value decline . . . skyrocket slide soar of some magnitude swell swing triple tumble
+
+These LUs differ with regard to directionality, speed, cause, path shape, etc.
+
+the motion of a liquid bubble cascade churn course . . . splash spout spurt squirt stream trickle
+
+13.2.4 Frame elements
+The frame elements stand for those entities or properties which may or must be present in any instance of a given frame: in a sense, they stand for the things worth
+
+978–0–19–954400–4 FM-Heine-FM-drv Heine-Narrog (Typeset by Spi, Chennai) 325 of 886 June 30, 2009 16:59
+a frames approach to semantic analysis 325
+talking about once a frame has been entered into a conversation. It is not always obvious what they should be or how many there are.
+Core and peripheral FEs
+A distinction is made in FN classiﬁcation between “core” FEs and “peripheral” FEs: there are clear cases and unclear cases in trying to draw this distinction. Clearly, FEs that are obligatorily expressed should belong to the core—but in some cases central concepts of a frame do not need to be expressed. In the case of verbs, FEs that get realized as nuclear syntactic relations such as subject and direct object, should also be part of the core—though there are grammatical constructions that sometimes make this unclear.4 FEs that are expressed by phrases with lexically speciﬁc morphological marking should also belong to the core.
+If a verbal LU evokes a frame that is a kind of Event, then the semantic roles that are always available for events should be peripheral: place and time speciﬁcations and various other circumstantial notions. If an LU evokes a frame that is a kind of IntentionalAct, then phrases that indicate intentions, purpose, the actor’s attitude, and the like, can be described as peripheral.
+The trio “time, place, and manner” usually covers what grammarians mean by peripheral adjuncts rather than core arguments, but each of these semantic types can have core status in some lexical contexts. For example, a locative is required with the verb reside, as in they reside in the eastern part of town, and a manner complement is required with the verb phrase in the Encoding frame, as in he phrased his reply in an exceedingly rude manner. Utterances like ∗they reside and ∗he phrased his reply are not complete.
+Some prepositions are selected by the LU. They indicate that the FE expressed by the PP is core: interested in X, familiar with X, hostile to X; adhere to X, depend on X, accuse NP of X; relation to X, pride in X, hostility to X; and so on. Other PPs express peripheral notions and do not vary in ways selected by the lexical head: in the kitchen, on Thursday, and in a hostile manner have constant forms wherever their meaning is needed. The same PP can be one or the other depending on its context: on the bus can refer to the location of some person (I met my girlfriend on the bus), because in this case the preposition is selected by the noun, or it can be a core FE as in we can depend on the bus.
+For situations involving visual and auditory perception it may be necessary to recognize a distinction between a locating expression that indicates the location of the entire event (I saw Harry in New York last week) and one that indicates the
+4 For a sentence like I’ll bake you a cake, the apparent direct object is not a straightforward entity in the baking event, but there is a benefactive construction behind this sentence for which the “beneﬁted” element is necessary; similarly, I ate my plate clean is the product of a resultative construction, and the plate is not to be interpreted as a FE of the ordinary verb eat, but is an FE of the complex construction eat clean.
+
+978–0–19–954400–4 FM-Heine-FM-drv Heine-Narrog (Typeset by Spi, Chennai) 326 of 886 June 30, 2009 16:59
+326 charles j. fillmore & collin baker
+location of the perceived entity alone (I saw the prowler on the neighbor’s roof ). Expressions in which a locating expression gives the location of the percept may co-occur with expressions which speciﬁcally locate the perceiver (from my kitchen window I could see the prowler on the neighbor’s roof ). Such distinctions are not recognized for ordinary transitive verbs like eat, fold, squeeze, etc.
+Frame element naming
+Frame element names are deﬁned relative to individual frames; in a sense this means that the names need to be chosen so that someone who understands the frame will be able to see what FEs the names refer to, and so that annotators will easily keep in mind what they are looking for.
+This practice distinguishes the FrameNet procedure from two extremes: one that limits semantic role names to a small ﬁxed set intended to cover all cases,5 requiring that the same names have the same interpretations wherever they are used; and the other extreme chooses names that are speciﬁc to individual lexical items (the two main arguments of see, for example, could be called the Seeer and the Seeee!). The theoretical importance of FE names is only that they be distinguished from each other in describing an individual frame.
+The practical value of frame-speciﬁc names over generalized semantic role names is that annotators can have case-speciﬁc names in mind when they are tagging the phrases that represent particular FEs, rather than trying to ﬁt very abstract concepts to local cases. The advantage of using frame-speciﬁc names over LU-speciﬁc names is that comparable names can be re-used when annotating sentences from the same frame, and a mechanism for computing potential paraphrasability can be developed by comparing FE names in sentences sharing the same frame.
+Extrathematic FEs
+Since FrameNet annotation is aimed at accounting for all of the constituents that occur in phrases built around a frame-evoking target, there is one more type of semantic element that shows up in such sentences. Some sentence adjuncts are said to be extrathematic, in the sense that they introduce information that is not a necessary part of the description of the central frame. In many cases such phrases introduce a new frame and in a sense attribute that frame to the rest of the sentence. For example, in a sentence like He set ﬁre to his ex-wife’s car in retaliation, we know that the concept of Revenge, introduced in the phrase in retaliation, is not a part of the action of igniting something; in this case the main clause is itself interpreted as the means by which revenge is achieved.
+5 The search for this “minimal set” has continued for decades, e.g., Fillmore (1968: 24–5), Frawley (1992: 197–249), Jackendoﬀ (2002: 143).
+
+978–0–19–954400–4 FM-Heine-FM-drv Heine-Narrog (Typeset by Spi, Chennai) 327 of 886 June 30, 2009 16:59
+a frames approach to semantic analysis 327
+13.2.5 Syntactic contexts for FE realization
+The lexicographic work of locating the FEs that ﬁll out the frame associated with an LU needs to be distinguished from other ways of ﬁnding information in a text. One paradigm for analyzing text is that of information extraction, in which any kind of information available in a text can be drawn upon for ﬁlling out preexisting templates. In the “Dream Breakfast” text, for example, a text interpretation algorithm might seek to ﬁll in a template about the breakfast experience, determining that the Eater is the woman referred to throughout with feminine pronouns, that the Food includes wheaties and milk, that the Beverage is coﬀee, and that the Location is a table in the garden. This kind of process combines information across sentences and requires anaphora resolution, analysis of the sequences of events, etc.
+The frame semantic approach diﬀers from information extraction in seeking to develop descriptions of the LUs based on their combinatorial properties. Thus, in identifying FEs in sentences, it is necessary to notice (1) the particular LU that evokes the frame, and (2) the positions in the sentence that are “in grammatical construction” with that LU that provide frame-elaborating information. In our case we are concerned with the combinatory aﬀordances of individual lexical units in the language, i.e., what grammatical positions they provide, what must or what need not be expressed, and so on.
+This is worth exploring, because the attempt to detect frame-relevant information in grammatically relevant positions has led to moving beyond ordinary lexical complementation. The familiar notion of subcategorization frame gives an obvious place for satisfying FE requirements for a lexical item, namely after the LU within the phrasal projection of that LU, i.e., inside the VP for a verb, inside the NP for a noun, inside the AP for an adjective, and so on. Subjects of ﬁnite sentences are also FEs of the predicates heading the sentence, as the bracketed elements in these sentences. FEs detected for FrameNet purposes require going beyond these cases.
+Some adjectives are treated as evoking frames in FrameNet, but others are treated mainly as satisfying FEs for frames evoked by the nouns they modify. Descriptive adjectives, when used attributively, realize one of their FEs in the noun that they modify: suspiciousness is attributed to the modiﬁed constituent in suspicious [behavior] and in [something] suspicious. Descriptive modiﬁers of nominals assign FE-status to their heads, where the head is not treated as a frame-bearing element in its own right. By contrast, relational adjectives generally serve to identify an FE of the frame evoked by the nouns they “modify”: these are the adjectives typically deﬁned with the phrase “of or pertaining to . . . ”. A policy has to cover some domain: an economic policy is a policy whose domain is “the economy”; a law has to cover some area of compliance: criminal law is the kind of law that deals with crimes. Some adjectives have both descriptive and relational functions, as seen in the distinction
+
+978–0–19–954400–4 FM-Heine-FM-drv Heine-Narrog (Typeset by Spi, Chennai) 328 of 886 June 30, 2009 16:59
+328 charles j. fillmore & collin baker
+between educational policy and an educational experience: the former is a policy about educational practice, the latter is an experience from which something can be learned.
+In N + N compounds where the second noun is a frame-evoking LU, the ﬁrst often expresses one of that noun’s FEs. Thus, homeland security has to do with keeping the homeland secure; health risk is a risk to your health; ﬁre risk is the risk of ﬁre. FEs of noun LUs that designate events and relationships may appear as the possessive determiner of the noun. Thus, my decision is something that I decided; your dismissal is an event in which someone dismissed you; his similarity to you can refer to the way in which he is similar to you.
+In the examples above, the ﬁllers of the FEs have all been in direct structural relation to the relevant LUs. However, syntactic theory provides other ways to locate ﬁllers of the FEs of a frame-bearing LU by means of argument sharing. This includes arguments shared with higher “embedding” verbs, nouns, or adjectives. For the arguments of non-ﬁnite verbs, this will include shared arguments with “higher” embedding verbs ([Pat] tried to kill himself, [the deer] seems to understand us, [the letters] keep coming, [this book] is worth reading), or adjectives ([the enemy] is likely to surrender, [I] have been eager to meet you), or nouns ([Pat’s] decision to resign). Perhaps less familiar are support constructions, which oﬀer FE-information about a frame-bearing event-noun or relational noun in the syntactic arguments of a governing verb. Those support structures that exist mainly for giving verbal expression to a noun’s meaning, without adding much semantic information of their own, are the so-called light verbs: pay attention, give advice, take a bath, have a disagreement, etc., where the subject of the verb is the one who attends, advises, bathes, disagrees, etc. In other cases, the subject of a support verb provides information about a secondary participant in an event: undergo an operation, get advice, and so on. Going beyond light verbs, there are other argument-sharing structures that add registral information (to lodge a complaint, to issue a decree, to submit an application); there are some that share arguments with the noun, but describe secondary events related to the event named by the noun (to break a promise, to pass a test, to keep an appointment).
+13.2.6 Null instantiation
+Despite the large number of structural positions in which FEs can appear, sometimes core FEs of an LU are simply not to be found anywhere in the sentence built around the LU. There appear to be three main explanations for unrealized FEs, one grammatical and two lexical. The grammatical explanations have to do with structures that require or permit the omission of some argument position. This is referred to as constructional null instantiation. Examples are imperative sentences (Please leave the room), where the omission of the subject is licensed by
+
+978–0–19–954400–4 FM-Heine-FM-drv Heine-Narrog (Typeset by Spi, Chennai) 329 of 886 June 30, 2009 16:59
+a frames approach to semantic analysis 329
+the grammar, and passive sentences (We’ve been fooled) where omission of the agent phrase is permitted.
+The other two are called indeﬁnite null instantiation (INI) and deﬁnite null instantiation (DNI), lexically licensed zero anaphora. Instead of declaring that the verbs eat and win can be either transitive or intransitive, FN regards them as always transitive, but records the fact that the Food argument of the verb eat can be omitted under INI (I’ve already eaten) because the situation implies that what was eaten does not matter. On the other hand, in we won, the Contest FE has been omitted under DNI, implying that all parties to the conversation know what it is. Those were both examples of missing direct objects; the same contrast can be found with PPs: if someone says That depends (INI), you won’t know what the Contingency is that the speaker has in mind unless you ask; but if someone says, When did they arrive?, it is assumed that you already know what Destination they had in mind. Both DNI and INI have implications for text coherence, as will be shown in Section 13.4.4.
+13.3 Frame-to-frame and FE-to-FE relations
+..........................................................................................................................................
+FrameNet implements a large proportion of the concepts of Frame Semantics, with many of the concepts directly mapped to the database structure. For example, there is a table for frames, and another for frame elements, with a reference from the FEs to the frame they are part of; the table of lexical units is likewise linked to the frames and to the lemmas, representing the meaning and the form sides, respectively. As the number of frames has grown, it has become obvious that they are not simply a collection of separate entities, but there are networks or hierarchies of frames, that some are instances of others, some are components of others, etc., and so an important part of the FrameNet project has been to work out this system of relations.6
+13.3.1 Types of frame-to-frame relations
+The FN frames are now linked by a system of several hundred frame-to-frame relations, which allows assertions about semantic types to be made at the appropriate
+6 Much of the eﬀort in working out the details of these relations has come from FrameNet staﬀer Michael Ellsworth.
+
+978–0–19–954400–4 FM-Heine-FM-drv Heine-Narrog (Typeset by Spi, Chennai) 330 of 886 June 30, 2009 16:59
+330 charles j. fillmore & collin baker
+level of generality. There are eight relations, one of which is not relevant here;7 the others fall into three groups, Generalization, Event structure, and Systematic.
+(1) Generalization relations: r Inheritance: All FEs of the parent frame are bound to FEs of the child frame, but the child FEs need not have the same name. The child can have more FEs, and the child’s semantics is a subtype of the parent’s semantics. For example, the Revenge frame inherits from the Rewards and Punishment frame, since it also involves a person inﬂicting a punishment on another. It diﬀers explicitly from Rewards and Punishments in being outside of institutional or judicial control. r Perspective on: Diﬀerent lexical items (e.g., buy, sell) evoke frames with different perspectives on an abstract event (Commercial transaction), a kind of ﬁgure:ground relation (Gawron 1988: 151ﬀ.). Speciﬁcally, buying takes the perspective of one participant in the goods-transfer, and selling takes the perspective of the other. In FN, they are linked to the abstract event via Perspective on relations. r Using: The child frame depends upon background knowledge provided by the parent frame; at least some of the core FEs of the parent are bound to child FEs, but not all of them.
+(2) Event structure relations: r Subframe: These are sub-events of a complex event, often with temporal ordering, e.g., in FN the Giving frame is linked to two sister frames, called, for lack of better names, Pre-Giving and Post-giving, which provide information about who has what when (and inherit, indirectly from the Possession frame). These three frames together constitute the Giving scenario. r Precedes: This relation speciﬁes temporal ordering, e.g., Giving Precedes Postgiving.
+(3) Systematic relations: r Causative of: The parent frame represents the causative corresponding to the child frame, e.g., Cause change of position on a scale (LUs raise, lower) is the Causative of Change position on a scale (rise, fall). r Inchoative of: The parent frame represents the inchoative, and the child represents the stative. Change position on a scale (rise, fall) is the Inchoative of Position on a scale (high, low).
+Note that all of these frame-to-frame relations have accompanying frame elementto-frame element relations (including some not detailed above).8 Also, there is a
+7 The “See also” relation, which redirects the reader to another frame, much as dictionaries often contain cross-references to other words.
+8 Because the frame and FE relations form a very complex graph, a tool called “frame grapher” has been provided on the FN website to make it possible to browse the graph.
+
+978–0–19–954400–4 FM-Heine-FM-drv Heine-Narrog (Typeset by Spi, Chennai) 331 of 886 June 30, 2009 16:59
+
+a frames approach to semantic analysis 331
+system of semantic types which apply to the FEs, and are also inherited, so that most of the FEs have both semantic types and a relation to higher-level FEs; those near the top of the hierarchy are similar to traditional thematic roles (case roles), such as Agent, Theme, Source, Goal, etc. Where there are FEs that do not map to these higher-level roles, it is deliberate—there are simply no general semantic roles that apply to the speciﬁc situation which the frame embodies. Every instance of a frame or a frame element is also an instance of the more general frames or frame elements from which it inherits.
+
+13.3.2 Commerce: A detailed example of frame relations
+The full network of frame-frame and FE-FE relations is now capable of representing the semantics of ordinary events in considerable detail. We will exemplify this with buying and selling events, which have received much attention in the lexical semantic literature (Fillmore 1977; 1985; Fillmore and Atkins 1992; Gawron 1988; to appear). For the most part, FN adopts a simple three-state model of event structure, with a pre-state, a central change, and a post-state, although much more complex events can be modeled, as we shall show. Typically, only the central, changing part of the event is proﬁled, and, hence lexicalized; for example, a getting event involves a pre-state in which the protagonist doesn’t have something, the central change, lexicalized with the verb get, and a post-state in which the protagonist has something. In FN, these stages are all implemented as related frames, as shown in Figure 13.1, in which ovals represent non-lexical frames and rectangles, lexical frames.
+We also describe all three stages as subevents of a more complex event, called a Getting_scenario (also implemented as a non-lexical frame), related to them through the Subframe (Sub) relation, as in Figure 13.2.
+Buying is a type of getting, speciﬁcally, getting goods and services in exchange for money. It represents one part of a commercial transaction, which proﬁles the buyer’s acquisition of the goods; an alternative perspective on the same event is that of the seller, which proﬁles the seller’s giving of the goods. We therefore say that the frame Commerce_buy Inherits (Inh) from Getting and that Commerce_sell
+
+Prec
+
+Prec
+
+Pre-Getting Getting Post-Getting
+
+Figure 13.1. Generalized three-state event model
+
+978–0–19–954400–4 FM-Heine-FM-drv Heine-Narrog (Typeset by Spi, Chennai) 332 of 886 June 30, 2009 16:59
+
+332 charles j. fillmore & collin baker
+
+Getting
+
+Scenario
+
+Sub Sub
+
+Sub
+
+Prec
+
+Prec
+
+Pre-Getting Getting Post-Getting
+
+Figure 13.2. Three-state event model as subframes of an event scenario frame
+
+Inherits from Giving. Both have to do with the transfer of goods, but each has a diﬀerent Perspective_on (Perspect) relation to a more general Commerce_ goods_transfer frame, shown in Figure 13.3.
+However, the commercial transaction has two subframes (subevents), the transfer of goods and the transfer of money. In this case, unlike the simple event frame, there is no ﬁxed temporal order; the two transfers can be simultaneous, or either can precede the other, so we simply do not create any precedes relations between the two subframes. Again, although the Commerce_money_transfer frame itself is non-lexical, there are two lexical frames, Commerce_pay and Commerce_collect which represent diﬀerent perspectives on the transfer of money, that of the buyer and that of the seller, and paying is a form of giving and collecting, a type of getting, so there is a partial symmetry between the two types of transfer, as shown in Figure 13.4.
+In each case, the inheritance from the Giving and Getting frames helps explain the valence patterns; because buying and collecting are getting, we buy from the
+
+Getting
+
+Commercial transaction
+Sub
+
+Commerce goods transfer
+
+Giving
+
+Inh
+
+Perspect
+
+Perspect
+
+Inh
+
+Commerce buy
+
+Commerce sell
+
+Figure 13.3. Frame relations around Commerce_goods_transfer
+
+978–0–19–954400–4 FM-Heine-FM-drv Heine-Narrog (Typeset by Spi, Chennai) 333 of 886 June 30, 2009 16:59
+
+a frames approach to semantic analysis 333
+
+Commercial
+
+transaction
+
+Sub
+
+Sub
+
+Commerce goods transfer
+
+Getting
+
+Commerce money transfer
+
+Inh
+
+Perspect
+
+Perspect
+
+Giving Inh
+
+Commerce collect
+
+Commerce pay
+
+Figure 13.4. Frame relations around Commerce_money_transfer
+
+seller and collect from the buyer, and because selling and paying are giving, we have the dative alternation: Chuck sold Jerry a car/Chuck sold a car to Jerry and Chuck paid a dollar to Jerry/Chuck paid Jerry a dollar.
+
+13.4 A Frames perspective on familiar issues in linguistic semantics
+..........................................................................................................................................
+Since information in FrameNet is organized by frames, there is no direct representation of LU-to-LU relations in the database—relations such as hyponymy, synonymy, antonymy, or polysemy.
+13.4.1 Polysemy
+A frames approach to lexical semantics, by which an LU is a pairing of a lexeme with a sense (and that usually means the pairing of an LU with the frame in which its meaning is deﬁned), is more or less required to take a “splitting” rather than a “lumping” approach to polysemy. This is because an LU is located in a system of relations (a) with its combinatorial properties and (b) with other words in its frame. This means, for example, that, whatever features are shared by the word short when it is paired with long (and used in measuring unoriented extents) versus when it is paired with tall (and used in measuring vertically oriented extents), two LUs are involved. This also means that the two uses of temporal unit words like year, month,
+
+978–0–19–954400–4 FM-Heine-FM-drv Heine-Narrog (Typeset by Spi, Chennai) 334 of 886 June 30, 2009 16:59
+334 charles j. fillmore & collin baker
+week, day, and hour, are going to be separated according to their calendric uses (where they designate calendar or clock cycles with clear beginnings and endings) and the metric uses (where they designate temporal spans measured by the length of such a cycle. Simple phrasing diﬀerences select the one sense or the other: if it is Thursday and you are told that your project must be completed soon, the urgency is diﬀerent depending on whether the completion must be within a week (you have seven days) or within the week (you’d better hurry). The expressions with the select the calendric sense of each of these words.
+A study of the range of senses that can be attributed to a single lexeme then has to be done by ﬁnding lexemes of the same form in more than one frame. The Compliance frame provides two useful examples of the importance of the LU concept. In particular, the lexeme adhere appears both in Compliance and in what is called the Attachment frame, having to do with things connecting to each other (the bandage adheres to the wound). While it could be argued that the adhere of Compliance is a motivated sense built on the Attachment sense (“one attaches one’s behavior to some principle”), evidence that the two LUs adhere belong in diﬀerent frames is found in their morphological relation to the corresponding nominalizations. By separating them we can say that the nominalization for the Compliance sense of adhere is adherence, while the corresponding noun for the Attachment sense is adhesion. A second example in the Compliance frame can be seen with the verb observe: this word belongs to a Perception Passive frame as well as the Compliance frame: its nominal derivative in Compliance is observance; the noun in the Perception Passive frame is observation. One of the advantages of separating LUs with the same form is that facts about meaning, valence, and other distributional properties, as well as correspondences between word forms sharing a morphological base, can be stated at the level of the LU and not the lexeme.
+It occasionally occurs that the same lexeme supports more than one LU in the same frame, especially in the case of two kinds of nominalizations. In the Replacement frame, which concerns a situation in which something New takes the place of something Old (or, in the associated causative frame, some Agent causes something New to take the place of something Old), the nominalization replacement has two senses, one referring to the process by which a Replacement event takes place, and one referring to the New item itself, i.e., the product of a Replacement event. (The replacement of Bunt with Schmidt came as quite a surprise. Schmidt is going to be Bunt’s replacement in the next match.) In the case of a diﬀerent verb in the Replacement frame, substitute, there are distinct nominalizations covering the analogous senses: substitution for the process, and substitute for the product. (The substitution of Schmidt for Bunt came as quite a surprise. Schmidt is going to be Bunt’s substitute in the next match.) In such cases, of course, the LUs are not deﬁned solely as a pairing of a lexeme with a frame.
+
+978–0–19–954400–4 FM-Heine-FM-drv Heine-Narrog (Typeset by Spi, Chennai) 335 of 886 June 30, 2009 16:59
+a frames approach to semantic analysis 335
+13.4.2 Antonymy and negation
+FN does not currently have a treatment of the many uses of negation, but since antonyms are generally included in the same frame, inferences based on kinds of antonymy should be possible. For all frames in FN that project scalar interpretations, those members of the frame that have a “negative” orientation are marked with Negation as a semantic type. At present nothing has been done to take into account the variety of notions of opposition in lexical semantics, but users of the database for purposes of paraphrase generation need to include such information in their computations. In the Compliance frame, for example, compliance and noncompliance are contradictory, so some act which is compliant with a law is not in violation of the law.
+Where antonyms are contrary, weaker inferences are possible: if something is increasing, it is not decreasing, if it is decreasing it is not increasing, but the opposite inferences are not possible.
+13.4.3 Synonymy and paraphrase
+Synonymy proper, if such a relation exists, would theoretically be represented by words of the same part of speech in the same frame, with the same valences and with the same deﬁnitions. Since FN has only informal deﬁnitions, it oﬀers no precise way of identifying synonyms. By being frame-based, however, it does allow for the recognition of paraphrase relations. As a tool for use in automatic question-answering and information extraction, the possibility of generating paraphrases for incoming questions should be enhanced by the ability to generate sentences with the same frame elements but diﬀerent lexical-syntactic forms.
+Simple cases: Many instances of paraphrase involve part-of-speech alternating locutions that include the same FEs. Thus, within Compliance, the following would be considered paraphrases: This conforms to the regulation/is in conformity with the regulation/is compliant with the regulation. Here diﬀerent words and phrases from the same frame associate the same relationship between a StateOfAﬀairs and a Norm.
+Negation cases: In cases of contradictory relations between antonyms in a frame, positively vs. negatively formulated paraphrases are possible. This conforms to the regulation/does not violate the regulation. This is in violation of the regulation/is not in compliance with the regulation.
+Perspectivally related cases: Pairs of expressions in a complex frame-tree may present diﬀerent perspectives or proﬁlings on a single type of event or
+
+978–0–19–954400–4 FM-Heine-FM-drv Heine-Narrog (Typeset by Spi, Chennai) 336 of 886 June 30, 2009 16:59
+336 charles j. fillmore & collin baker
+relationship, as we have seen in the case of commercial transaction verbs. A sold B to C relates the same event as C bought B from A. Similarly, A employs B describes the same situation as B works for A though with a diﬀerent perspective.
+Inheritance related cases: Particularly important in this regard are paraphrases involving frames that have an inheritance relation between them. If one frame inherits something from a more abstract frame but adds something new, then paraphrases can be created using the two frames if an extrathematic element introduces the special element into the higher frame. The discussion above of frame-to-frame relations showed that buying is a kind of getting, in particular, getting in exchange for a money payment. Extrathematic reference to the payment in a getting expression could then compositionally be equivalent to a similar expression with buy: I got it for $12/I bought it for $12. The for-phrase is extrathematic in the former sentence, thematic in the latter.
+Systematic relations cases: The relations of Causative and Inchoative make it possible to recognize paraphrases between synthetic and analytic expressions of these concepts, as in We made it higher vs. we raised it.
+13.4.4 Coherence and anaphora
+The “texture” of a linguistic text (Halliday and Hasan 1976) is the system of meaning links from one part to the next, and from parts to a whole, and one of the major tools in showing the need for such coherence links is the system of implicit arguments identiﬁed in FrameNet as deﬁnite and indeﬁnite null instantiation. Usual anaphora resolution schemes operate on what are called “mentions”—words or phrases in a text that mention the same entity, and the resolution problem is to show chains of mentions that all refer to the same thing. Recognizing lexically licensed null instantiation oﬀers new challenges to anaphora resolution. On encountering a sentence like My explanation is quite similar, one would know that the preceding discourse had introduced a problem or mystery (explanation is missing one of its arguments), and that somebody had oﬀered an explanation of that mystery (similar is missing one of its arguments), and that the speaker is now likely to oﬀer his own explanation. The of -phrase that could be expected with the noun explanation (explanation of the mystery) is omissible only when it is known in the context; the to-phrase that could be expected to accompany the adjective similar (e.g., similar to your explanation) is omissible under similar conditions: all participants are aware of the previously topical explanation. One FE of similar that is also missing is of the INI sort, namely the parameter in respect to which of the two explanations are similar. It is likely that the next utterance of the speaker of this sentence is going to be a description of that similarity.
+
+978–0–19–954400–4 FM-Heine-FM-drv Heine-Narrog (Typeset by Spi, Chennai) 337 of 886 June 30, 2009 16:59
+a frames approach to semantic analysis 337
+13.5 Beyond English: FrameNets in other languages
+..........................................................................................................................................
+Since frames are deﬁned on semantic grounds, we expect most of them to be comparable across languages; e.g., the concept of a commercial transaction will be much the same in any culture, although details may vary. Other frames, such as the stages of the criminal process (indictment, arraignment, bail-setting, etc.), are more culture-speciﬁc.9 As of October 2008, several projects using a Frame Semantic approach for annotating languages other than English had already begun to bear fruit and several others were just starting. (We will abbreviate the English FrameNet in Berkeley as “BFN”.)
+The SALSA Project (Burchardt et al. 2006, http://www.coli.uni-saarland.de/ projects/salsa/) is annotating German newspaper texts using BFN frames and FEs. For most German words, they ﬁnd an appropriate BFN frame and FE labels; if nothing suitable is found, they create predicate-speciﬁc “proto-frames”. SALSA I began in 2003, and released a ﬁrst version of the data, of roughly 20,000 annotation sets. SALSA II is investigating how the proto-frames and LUs created in SALSA I might be integrated into a German FrameNet and/or the English FrameNet.
+The Spanish FrameNet Project (Subirats and Sato 2004, Ellsworth et al. 2006; Subirats 2007, http://gemini.uab.es:9080/SFNsite) has been developed at the Autonomous University of Barcelona by Carlos Subirats since 2002, using the BFN annotation and report software. They plan a formal data release in 2008, comprising 1,000 LUs over a wide range of semantic domains.
+Japanese FrameNet (Ohara et al. 2004; Fujii 2005, http://jfn.st.hc.keio.ac.jp/), led by Kyoko Ohara of Keio University with colleagues at Keio University, Tokyo University, and Senshu University, has been under development since 2000, ﬁrst building their own corpus and extraction tools for Japanese and then modifying the BFN software to handle Japanese. JFN worked ﬁrst on verbs of communication, then on motion and perception nouns and verbs. Hiroaki Sato, of Senshu University, Kawasaki, Japan, has built a system called FrameSQL (http://sato.fm.senshuu.ac.jp/fn23/notes/index2.html) to search the FrameNet data according to a variety of criteria. As FrameNets in other languages have grown, he has also devised ways of aligning LUs across languages using a bilingual dictionary (Sato 2008); where the same frame is found in both languages, one can view annotated examples of the same frame and FEs for corresponding LUs in two languages.
+Chinese FrameNet has been underway at Shanxi University in Taiyuan since 2004, using their own corpus and corpus search and annotation software (You and
+9 For further on frame semantics across languages, see Ellsworth et al. 2006, Boas 2005, and Lönneker-Rodman 2007.
+
+978–0–19–954400–4 FM-Heine-FM-drv Heine-Narrog (Typeset by Spi, Chennai) 338 of 886 June 30, 2009 16:59
+338 charles j. fillmore & collin baker
+Liu 2005, You et al. 2007). The CFN database now contains more than 2000 LUs in more than 300 frames, with more than 20,000 manually annotated sentences; as elsewhere, most of the LUs ﬁt in BFN frames.
+Alessandro Lenci, of the Department of Linguistics at the University of Pisa, and Martina Johnson began an Italian FN in 2008, starting with communication verbs, and using a copy of the BFN database and software. Birte Lönnecke-Rodman set up a FN database for Slovenian in 2007, inserting a Slovenian lexicon, and has been able to annotate and produce reports from the annotation. Eﬀorts have also started on establishing a Brazilian Portuguese FrameNet, led by Margarida Salomão, of Universidade Federal de Juiz de Fora.
+13.6 Beyond the lexicon
+..........................................................................................................................................
+The Berkeley FrameNet Project has been devoted to the frame structures of lexical items and how information about individual frame instances is provided in sentences built around the lexical items studied. This has not included work on negation and quantiﬁcation, central to much work in formal semantics, though there is no obvious reason why a frames approach cannot be extended into such areas: a corpus-based approach that maximized computational techniques has not appeared suﬃciently subtle for the kinds of phenomena noticed in such studies.
+The current database deals only with lexical units, while recognizing of course that many lexical units are themselves made up of phrases or other kinds of (possibly discontinuous) word groupings. There are linguistic properties smaller or more abstract than lexical items that contribute greatly to the semantic organization of sentences—number, tense, aspect, modality, and the closed-class categories and morphemes—as is well documented in the work of Langacker (especially Langacker 1986) and Talmy (especially Talmy 2000).
+There are also grammatical constructions which evoke semantic, pragmatic, or interactional frames on their own. The various ways of forming commands, questions, wishes, curses, threats, etc. involve understandings about how the participants in the ongoing conversation are interacting with each other. The same kind of frame analysis that can treat She ordered him to leave the room should be adaptable to I order you to leave the room and to Leave the room! In other words, the participants in a linguistic frame can easily be participants in the communication event itself.
+Beyond this, a large number of minor grammatical constructions bear very special interpretation requirements. For a simple example we may take the use of the
+
+978–0–19–954400–4 FM-Heine-FM-drv Heine-Narrog (Typeset by Spi, Chennai) 339 of 886 June 30, 2009 16:59
+a frames approach to semantic analysis 339
+quantiﬁer no (or its variant NEG10 +any) accompanying a comparative phrase in predicating position. There’s a striking diﬀerence between a simple negation (with not) of a comparative phrase, as in the neutral description it wasn’t bigger than a golf ball, on the one hand, and the marked expression it was no bigger than a golf ball, indicating that the speaker regards a golf ball as quite small (and is therefore expressing the idea that the object in question is also quite small). In this phrasing only the unmarked adjective is selected, in the case of scalar opposites.
+Less mysterious constructions are the double-NP means of expressing rates, where the ﬁrst NP identiﬁes a quantity of one kind of unit and the second identiﬁes a diﬀerent kind of unit or measure: examples are two milligrams a day, twenty miles an hour, a hundred miles a gallon, 300 times per second, twice every three days, and the like. Nothing else in the grammar of English predicts the manner of interpretation of these expressions. They may be iterated: twenty milligrams twice a day, $300 a person per day. Compositional semantic principles operate on the structure of the phrases and deﬁne such notions as Frequency, Speed, Dosage, Cost-per-Unit, Growth Rate, and many others, usually serving as FEs of some frame in their environment.
+In addition to phrasal patterns with special interpretations, there are a great many cases in which individual words that “start out” in one frame are used in a context which places them in another frame, given regular or semi-regular interpretation principles that relate the two framings. This includes nouns that acquire diﬀerent status respecting the count/noncount distinction (we had beaver for lunch [animal name as meat from such an animal], we enjoy the wines of Rioja [mass noun as countable variety of that mass]), and several others. Richly described in current linguistic literature are variations in verbal argument structure, by which a verb indicating one kind of activity is used with the valence typically associated with another kind of activity usually communicating that the former is a component of the resulting event type, as in eat your plate clean or she sneezed the napkin oﬀ the table (Boas 2003; Goldberg 1995; 2006).
+Future FrameNet activities will be moving into the semantics of grammar, both general and abstract (negation, tense, aspect) and phraseological (constructions and syntactic idioms), making it possible in principle to test methods of integrating lexical meanings and grammatical meanings into a complete account of the language-based interpretations of texts.
+10 The NEG can be the word not or other negative polarity determining contexts. Compare: you’re no better than he is, you’re not any better than he is, I doubt you’re any better than he is.
+
+978–0–19–954400–4 FM-Heine-FM-drv Heine-Narrog (Typeset by Spi, Chennai) 340 of 886 June 30, 2009 16:59
+

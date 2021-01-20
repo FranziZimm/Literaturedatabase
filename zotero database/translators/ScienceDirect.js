@@ -1,15 +1,15 @@
 {
 	"translatorID": "b6d0a7a-d076-48ae-b2f0-b6de28b194e",
+	"translatorType": 4,
 	"label": "ScienceDirect",
 	"creator": "Michael Berkowitz and Aurimas Vinckevicius",
 	"target": "^https?://[^/]*science-?direct\\.com[^/]*/((science/)?(article/|(journal|bookseries|book|handbook)/\\d)|search[?/]|journal/[^/]+/vol)",
 	"minVersion": "3.0",
-	"maxVersion": "",
+	"maxVersion": null,
 	"priority": 100,
 	"inRepository": true,
-	"translatorType": 4,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2019-11-09 03:35:55"
+	"lastUpdated": "2020-10-27 07:00:00"
 }
 
 // attr()/text() v2
@@ -96,9 +96,7 @@ function getPDFLink(doc, onDone) {
 		try {
 			pdfLink.click();
 			intermediateURL = attr(doc, '.PdfDropDownMenu a', 'href');
-			var clickEvent = doc.createEvent('MouseEvents');
-			clickEvent.initEvent('mousedown', true, true);
-			doc.dispatchEvent(clickEvent);
+			doc.body.click();
 		}
 		catch (e) {
 			Zotero.debug(e, 2);
