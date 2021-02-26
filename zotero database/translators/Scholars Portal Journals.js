@@ -9,13 +9,13 @@
 	"priority": 100,
 	"inRepository": true,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2020-10-24 02:05:00"
+	"lastUpdated": "2021-02-05 18:35:00"
 }
 
 /*
 	***** BEGIN LICENSE BLOCK *****
 
-	Copyright © 2020 Bartek Kawula
+	Copyright © 2021 Bartek Kawula
 
 	This file is part of Zotero.
 
@@ -123,7 +123,7 @@ function getItems(doc) {
 			titles = ZU.xpath(doc, './/div/h3/a');
 		}
 		else {
-			titles = ZU.xpath(doc.getElementById('result-list'), './/div[@class = "details"]/h2/a');
+			titles = ZU.xpath(doc.getElementById('result-list'), './/div[@class = "details"]/h3/a');
 		}
 		for (let i = 0; i < titles.length; i++) {
 			let title = ZU.trimInternal(titles[i].textContent);
