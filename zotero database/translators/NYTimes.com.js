@@ -9,7 +9,7 @@
 	"priority": 100,
 	"inRepository": true,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2020-11-02 11:20:00"
+	"lastUpdated": "2021-01-22 19:40:00"
 }
 
 /*
@@ -113,6 +113,8 @@ function scrape(doc, url) {
 		if (item.title == item.title.toUpperCase()) {
 			item.title = ZU.capitalizeTitle(item.title, true);
 		}
+		// Strip "(Published [YEAR])" from old articles
+		item.title = item.title.replace(/\s+\(Published \d{4}\)$/, '');
 		// Only force all caps to title case when all tags are all caps
 		var allcaps = true;
 		for (let i = 0; i < item.tags.length; i++) {
