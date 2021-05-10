@@ -1,0 +1,133 @@
+
+
+version => 5.0.96, platform => Win32, oscpu => Windows NT 10.0; WOW64, locale => de, appName => Zotero, appVersion => 5.0.96, extensions => Zotero LibreOffice Integration (5.0.25.SA.5.0.96, extension), Zotero Word for Windows Integration (5.0.19.SA.5.0.96, extension)
+
+=========================================================
+
+(4)(+0000000): PRAGMA foreign_keys = false
+
+(4)(+0000005): Beginning DB transaction GWmRgxAY
+
+(3)(+0000003): HTTP GET resource://zotero/schema/system.sql
+
+(3)(+0000003): HTTP GET resource://zotero/schema/system.sql succeeded with 200
+
+(3)(+0000001): Updating custom tables
+
+(4)(+0000001): DELETE FROM itemTypesCombined
+
+(4)(+0000002): SELECT COUNT(*) FROM sqlite_master WHERE type='table' AND tbl_name=? ['customItemTypes']
+
+(4)(+0000003): DELETE FROM fieldsCombined WHERE fieldID NOT IN (SELECT fieldID FROM itemData)
+
+(4)(+0000002): DELETE FROM itemTypeFieldsCombined
+
+(4)(+0000002): DELETE FROM baseFieldMappingsCombined
+
+(4)(+0000001): INSERT INTO itemTypesCombined SELECT itemTypeID, typeName, display, 0 AS custom FROM itemTypes UNION SELECT customItemTypeID + 10000 AS itemTypeID, typeName, display, 1 AS custom FROM customItemTypes
+
+(4)(+0000001): INSERT OR IGNORE INTO fieldsCombined SELECT fieldID, fieldName, NULL AS label, fieldFormatID, 0 AS custom FROM fields UNION SELECT customFieldID + 10000 AS fieldID, fieldName, label, NULL, 1 AS custom FROM customFields
+
+(4)(+0000002): INSERT INTO itemTypeFieldsCombined SELECT itemTypeID, fieldID, hide, orderIndex FROM itemTypeFields UNION SELECT customItemTypeID + 10000 AS itemTypeID, COALESCE(fieldID, customFieldID + 10000) AS fieldID, hide, orderIndex FROM customItemTypeFields
+
+(4)(+0000003): INSERT INTO baseFieldMappingsCombined SELECT itemTypeID, baseFieldID, fieldID FROM baseFieldMappings UNION SELECT customItemTypeID + 10000 AS itemTypeID, baseFieldID, customFieldID + 10000 AS fieldID FROM customBaseFieldMappings
+
+(3)(+0000004): HTTP GET resource://zotero/schema/userdata.sql
+
+(3)(+0000001): HTTP GET resource://zotero/schema/userdata.sql succeeded with 200
+
+(3)(+0000001): Checking database integrity
+
+(4)(+0000000): SELECT COUNT(*) FROM fieldsCombined
+
+(4)(+0000001): SELECT COUNT(*) FROM itemTypeFieldsCombined
+
+(4)(+0000002): SELECT itemTypeID FROM itemTypes WHERE typeName='attachment'
+
+(4)(+0000001): SELECT itemTypeID FROM itemTypes WHERE typeName='note'
+
+(4)(+0000002): PRAGMA foreign_key_check
+
+(4)(+0000079): SELECT COUNT(*) > 0 FROM items WHERE itemTypeID IS NULL
+
+(4)(+0000002): SELECT COUNT(*) > 0 FROM itemAttachments JOIN items USING (itemID) WHERE itemTypeID != 2
+
+(4)(+0000001): SELECT COUNT(*) > 0 FROM itemData WHERE fieldID NOT IN (SELECT fieldID FROM itemTypeFieldsCombined WHERE itemTypeID=(SELECT itemTypeID FROM items WHERE itemID=itemData.itemID))
+
+(4)(+0000018): SELECT COUNT(*) > 0 FROM items WHERE itemTypeID=2 AND itemID NOT IN (SELECT itemID FROM itemAttachments)
+
+(4)(+0000001): SELECT COUNT(*) > 0 FROM itemAttachments WHERE parentItemID IN (SELECT itemID FROM items WHERE itemTypeID IN (26, 2))
+
+(4)(+0000004): SELECT COUNT(*) > 0 FROM itemNotes WHERE parentItemID IN (SELECT itemID FROM items WHERE itemTypeID IN (26, 2))
+
+(4)(+0000001): SELECT COUNT(*) > 0 FROM creators WHERE firstName='' AND lastName=''
+
+(4)(+0000001): SELECT COUNT(*) > 0 FROM fulltextItemWords WHERE itemID NOT IN (SELECT itemID FROM items WHERE itemTypeID=2)
+
+(4)(+0000033): SELECT COUNT(*) > 0 FROM fulltextItems WHERE itemID NOT IN (SELECT itemID FROM items WHERE itemTypeID=2)
+
+(4)(+0000001): SELECT COUNT(*) > 0 FROM itemAttachments WHERE linkMode NOT IN (0,1,2,3)
+
+(4)(+0000001): SELECT COUNT(*) > 0 FROM creators WHERE fieldMode = 1 AND firstName != ''
+
+(4)(+0000001): SELECT COUNT(*) > 0 FROM settings WHERE setting='account' AND key='userID' AND TYPEOF(value)='text'
+
+(4)(+0000001): SELECT collectionID, parentCollectionID FROM collections
+
+(4)(+0000001): DELETE FROM settings WHERE setting='db' AND key='integrityCheck'
+
+(3)(+0000001): Updating user data tables from version 108 to 111
+
+(4)(+0000001): CREATE TABLE IF NOT EXISTS dbDebug1 (
+    a INTEGER PRIMARY KEY
+)
+
+(4)(+0000001): UPDATE itemAttachments SET parentItemID=NULL WHERE itemID=parentItemID
+
+(4)(+0000001): UPDATE itemNotes SET parentItemID=NULL WHERE itemID=parentItemID
+
+(4)(+0000001): CREATE TABLE deletedCollections (
+    collectionID INTEGER PRIMARY KEY,
+    dateDeleted DEFAULT CURRENT_TIMESTAMP NOT NULL,
+    FOREIGN KEY (collectionID) REFERENCES collections(collectionID) ON DELETE CASCADE
+)
+
+(4)(+0000001): CREATE INDEX deletedCollections_dateDeleted ON deletedCollections(dateDeleted)
+
+(4)(+0000003): CREATE TABLE deletedSearches (
+    savedSearchID INTEGER PRIMARY KEY,
+    dateDeleted DEFAULT CURRENT_TIMESTAMP NOT NULL,
+    FOREIGN KEY (savedSearchID) REFERENCES savedSearches(savedSearchID) ON DELETE CASCADE
+)
+
+(4)(+0000001): CREATE INDEX deletedSearches_dateDeleted ON deletedSearches(dateDeleted)
+
+(4)(+0000002): REPLACE INTO version (schema,version) VALUES (?,?) ['userdata', 111]
+
+(4)(+0000002): SELECT version FROM version WHERE schema='triggers'
+
+(3)(+0000000): HTTP GET resource://zotero/schema/triggers.sql
+
+(3)(+0000002): HTTP GET resource://zotero/schema/triggers.sql succeeded with 200
+
+(3)(+0000001): Updating custom tables
+
+(4)(+0000000): DELETE FROM itemTypesCombined
+
+(4)(+0000001): DELETE FROM fieldsCombined WHERE fieldID NOT IN (SELECT fieldID FROM itemData)
+
+(4)(+0000000): DELETE FROM itemTypeFieldsCombined
+
+(4)(+0000001): DELETE FROM baseFieldMappingsCombined
+
+(4)(+0000001): INSERT INTO itemTypesCombined SELECT itemTypeID, typeName, display, 0 AS custom FROM itemTypes UNION SELECT customItemTypeID + 10000 AS itemTypeID, typeName, display, 1 AS custom FROM customItemTypes
+
+(4)(+0000001): INSERT OR IGNORE INTO fieldsCombined SELECT fieldID, fieldName, NULL AS label, fieldFormatID, 0 AS custom FROM fields UNION SELECT customFieldID + 10000 AS fieldID, fieldName, label, NULL, 1 AS custom FROM customFields
+
+(4)(+0000001): INSERT INTO itemTypeFieldsCombined SELECT itemTypeID, fieldID, hide, orderIndex FROM itemTypeFields UNION SELECT customItemTypeID + 10000 AS itemTypeID, COALESCE(fieldID, customFieldID + 10000) AS fieldID, hide, orderIndex FROM customItemTypeFields
+
+(4)(+0000003): INSERT INTO baseFieldMappingsCombined SELECT itemTypeID, baseFieldID, fieldID FROM baseFieldMappings UNION SELECT customItemTypeID + 10000 AS itemTypeID, baseFieldID, customFieldID + 10000 AS fieldID FROM customBaseFieldMappings
+
+(4)(+0000018): Committed DB transaction GWmRgxAY
+
+(4)(+0000002): PRAGMA foreign_keys = true

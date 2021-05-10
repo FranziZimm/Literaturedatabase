@@ -1,0 +1,358 @@
+Dylan Glynn University of Leuven
+CONCEPT DELIMITATION, FRAME SEMANTICS, AND PRAGMATIC IMPLICATURE.
+Issues for the usage-based study of metonymy
+1. Preamble
+PCognitive Linguistics has recently brought metonymy and part-whole rreferencing to the fore of research. Although we accept the work of Lakoff e(1987) on conceptual metonymy and Langacker (2000) on the processing
+of part-whole references, their apparatuses do not adequately explain many
+- instances of metonymic expression in natural language use. This shortP coming, we argue, results from a lack of rigorous method in concept defini-
+tion. In real discourse, much meaning is inferred from context and implica-
+r ture is often coded metonymically. The “perceptual” basis of Langacker’s i hypothesis and the “idealised” nature of Lakoff apparatus do not readily n capture such linguistic structure. t In an attempt to resolve this weakness, we propose a method for ‘de-
+fining’, and thus delimiting, an idealised model or domain-matrix, which
+P integrates Lakoff’s idealised models and Langacker’s reference-point con-
+structions. The proposed definition is based on research in Frame Seman-
+r tics (Fillmore 1985) and employs the notion of conceptual-pragmatic condie tions that enable the frame to capture the semantics unique to a given
+situation context. This definition model is flexible and allows us to properly
+v include the variables of 'real-world' context that are basic to Pragmatic Im-
+plicature. The key to integrating Langacker’s theory of part-whole process-
+ie ing and Lakoff’s study of cognitive models is the theory of entrenchment
+(Langacker 1987).
+w This combined method is tested in a small case study using found data.
+The results demonstrate success in explaining metonymic references, as well as support the work of Panther & Thornburg (1997, 1998, 1999a, 2003), Mendoza & Campo (2002, & Velasco 2003a, 2003b, & Hernández 2003, & Pérez 2003), and Peña Cervel (2003a) who have begun the diffi-
+Glynn, D. 2006. Concept Delimitation and Pragmatic Implicature. Issues for the study of metonymy. K. Kosecki (ed.). Perspectives on Metonymy. 157-174. Frankfurt: Peter Lang.
+
+cult task of explaining the interaction between situation-context and metonymic structure.1
+2. Theoretical Apparatus. Lakoff’s Idealised Models and Langacker’s Entrenched Domains.
+The two basic theories for explaining partial reference in cognitive semantics are: (i) Lakoff’s (1987: chapter 4) Cognitive Model with its corresponding theory of cross-reference mapping and part-whole mapping and Langacker’s (1987: chapter 4) Domain Matrix and the corresponding theories of “active zone” (Langacker 1990: chapter 7) and “reference-point
+Pconstructions” (Langacker 2000: chapter 6). Both of these theories make
+use of an artificial distinction in order to distinguish the study of “shared-
+rconventionalised” structures of a speech community from what a speaker ehearer may do with those structures. Lakoff’s Cognitive Models are
+“idealised”, which means that they are not necessarily present in any
+- speaker’s mind, but are abstract generalisations for a speech community P that any speaker may make use of. Similarly, Langacker’s theory of “en-
+trenchment” artificially maintains a distinction between conventionalised
+r and creative language. Both ideas are close to Chomsky’s “competence” i “performance” distinction as well as the langue-parole distinction of the de n Saussure tradition. In these terms, “entrenched” form-meaning pairs are the t learnt structures that have become automated for the individual and Lak-
+off's models are generalisations about semantic relations that are shared by
+P members of a speech community. The main advantage over the American
+and European Structuralist traditions of Ergon - Langue - Competence is
+r how these theories are used rather than the theories per se. Lakoff’s e idealised structures are abstract conceptual-cultural sets of relations which
+may be employed (but not necessarily) in language structure. They explain
+v some, indeed a great deal, of the semantic systematicity in language but are
+not argued to represent a grammar of semantics. Likewise, Langacker’s
+ie entrenchment is not shared-code to be put on a pedestal and studied like a
+museum piece, it is a dynamic result of successful speech-events, or utter-
+w ances: the more often an individual is exposed to a sensible form-meaning
+pair, the more it becomes routinised for that individual. When this is extended to a speech community, we have a shared knowledge network of
+1 Cf. Panther & Thornburg (2006) for a summary of the work in this field.
+
+ 
+"entrenched" symbolic-units. These two theories allow us to not only cross the infamous langue-parole bridge, but also show that there never was a need to cross the bridge at all. Language function, pragmatics, discourse structures, and sociolinguistic concerns all fall under the rubric of encyclopaedic semantics and are part of a what a speaker needs to know in order to successfully use a form-meaning pair.
+By eliminating the langue-parole distinction, Cognitive Linguistics has successfully freed itself from artificial limits imposed on the object of study in the Structuralist era, but it has done this at a cost. It is theoretically sound that the object of study in linguistics should have no clear boundaries since there is no reason a priori that language has clear boundaries. However, analytically this makes the task of maintaining scientific rigour and
+Pexperiment repeatability all the more difficult. In simple terms, what data
+do we need to take into account when we perform an experiment? Of
+rcourse this is the question any scientist must ask before any analysis, but it eis one that is all more the slippery in the realm of social sciences. We will
+see, below, that failure to properly understand the impact of Cognitive Lin-
+- guistics’ theoretical stand on methodology is at the heart of most of the P problems involved in the study of metonymy. This does not at all question
+the theoretical position of Cognitive Linguistics, but underlines the need to
+r properly develop analytical apparatuses that can handle the complexity of i the object of study. n It must be remembered that conceptual metonymy is a priori an onot masiological study. We begin with a concept and ask what “parts” of that
+concept, and their corresponding linguistic signifiants, may be used to stand
+P for that concept. Whether we are looking at lexical or grammatical forms,
+our point of departure is the concept itself. The importance and problems of
+r onomasiological methodology in Cognitive Linguistics have been investie gated by Geeraerts (1999, 2000, 2005, & al. 1994, forthc.) and Glynn
+(2004a, 2005, 2006). One fundamental problem is that of concept definition
+v and distinction, a problem that any methodologically rigorous approach to iew conceptual metonymy must confront.
+
+3. Problematic: Lexis, Praxis, Concepts, and Implicature.
+
+Let us now consider some examples of utterances taken from the Internet, both the Google Usenet archive and the World Wide Web, that express SORRY-FORGIVE.
+
+(1) a. I guess what i am trying to say is that I am not upset at all. Actually
+
+I look back and it is funny.. Nothing is wrong and please dont
+
+worry about it. <8imukr$ivv$1@ins21.netins.net>
+
+b. I offered and then got upset when i had to put shit in my trunk.. At this point I consider this a non issue. Hell I had a great time with
+P everyone. So i say fuck it. <8imukr$ivv$1@ins21.netins.net>
+
+rc. Please don’t worry about it, Bill. I was ultra sensitive when all this estarted and I reacted badly. As far as I am concerned, you have
+never been anything other than nice to me.
+-<1998051513460200.JAA16519@ladder03.news.aol.com>
+
+P d. Alan PRIVATELY whispers to Zaphod: hey babe, its okay......we
+
+r are friends, okay...no problem...please dont worry about it.....Your
+
+i okay,
+
+Im
+
+okay.....smile........
+
+n <Xns95266AC8EC1Bspamspamsnuhspam3@207.14.113.17>
+
+t e. I'm lucky to hear from so many people on a daily basis. I can't alP ways keep up with it, and for that I'm a shit.
+<http://www.ejshea.com/2003_10_19_blogarchive.htm>
+
+re f. She is one of my all time favorites. I didnt mean to include her on the list. My mistake.... ...<rec.arts.movies.erotica>
+
+v g. In the midst of pointing out that I usually don't overreact, I um, er.. ie well, sort of *mumbleoverreactedmumble*. <alt.folklore.urban>
+
+w We see immediately that although these utterances clearly express regret
+
+and are apologies to various degrees, upon what grounds do we judge them
+
+thus. There are few lexical clues that we could use to tie them to this con-
+
+cept since most of the semantic structure is implied.
+
+In the first example, the speaker is assuring the interlocutor that he or
+
+she is no longer upset about some unknown wrongdoing. We can assume
+
+ 
+that the interlocutor did some wrongdoing to the speaker who is now saying that this is no longer a problem between them. In this way, the utterance serves as a type of forgiveness. However, what lexical clues or entrenched linguistic structures allow us to suppose this? At no stage does the speaker actually forgive the interlocutor. A cognitive analysis would argue that the speaker refers to parts of the Cognitive Model FORGIVE and these parts of the Cognitive Model stand for the speech act of FORGIVE. This is, essentially, a re-wording of the theory of Pragmatic Implicature. However, since idealised Cognitive Models represent quite 'fixed' cultural sets of information and relations shared by members of a speech community, we should able to give a more precise description of this part-whole reference, or implicature. We have, however, no means for determining what the Cognitive
+PModel in question consists of nor what linguistic structures would be typi-
+cally used to refer it. Examples (1a) through (1g) highlight similar limita-
+rtions with our current descriptive model. eFor instance, in examples (1e) -(1g), the speakers acknowledge they
+are wrong, assumedly a basic part of the Cognitive Model of APOLOGISE.
+- However, our judgement on the relationship between 'being wrong' and an P apology is entirely subjective since there is no lexical content that denotes
+the speech act of APOLOGY. If this kind of implicature is to be properly
+r treated by Cognitive Semantics and conceptual metonymy theory, we need i a model that can offer a clear definition of the model and its parts. n Such problems of dealing with discourse phenomena and metonymy t have already been considered from a cognitive perspective. Indeed, Panther
+& Thornburg (1998: 762-767) offer similar examples where a given Cogni-
+P tive Model is instantiated not through direct reference, but Pragmatic Im-
+plicature. However, as Panther and Thornburg demonstrate, simply identi-
+r fying a model and its parts does not suffice since there exist different e metonymic "layers" to which an implicature may refer. Indeed they propose
+a continuum between true metonymic references where a concept stands for
+v another concept and "indexical references" where a concept "points to"
+another concept (Panther & Thornburg 1998 764-765). We will return to
+ie this proposal below, but in order to understand the phenomenon at hand, we
+can take the example of self-defamation. This concept is a common part of
+w apologising and integral to the expression of this concept since it is an im-
+plicature for “I accept the blame”. Thus, self-defamation 'points to' (indexically) accepting wrongness, which 'stands for' (metonymically) the Cognitive Model APOLOGY. This added complexity is visible in the following examples.
+
+(2) a. YES I'M A PRAT!!!!!! SORRY!!! As loads of you have noticed I put the HOWARD'S ALIAS show on the wrong date on the site. It has now been changed sorry for ... <www.crisispromotions.co.uk/>
+
+b. "I've never lied to you...I may not have told you things I know be-
+
+cause, well, I'm a prat..." There's my Draco with his detached an-
+
+alysis of himself again! Recognizes he was a prat, but doesn't
+
+apologize
+
+for
+
+being
+
+one.
+
+<http://adultfan.nexcess.net/aff/review.php?set=read&no=5441763
+61>
+PNote that in (2b) the speaker rejects this metonymic (or indexical) reference
+to a metonymic reference for APOLOGY and indeed rejects this as "not ful-
+rfilling" the speech act requirements for apologising. eThis is not to say there are not common lexical structures that are used,
+recurrently, in Pragmatic Implicature. There exist many hedges and other
+- discourse strategies that are frequently used in apologising. For example, P the well known I didn't mean to... which is used to deflect blame, is typical
+of apologetic utterances.
+rin (3) I didnt mean to start an arguement. I think ... matter. Anyway, I am sorry to start an arguement, Im sorry if you didnt like my reply. It t ... <rec.aquaria.marine.misc>
+P Moreover, certain discourse markers are also commonly used in apologies.
+For example:
+re (4) a. ... Um, er, well, uh...none really. Sorry. <soc.motss> v b. Um, er, well, I'm REALLY sorry about this. Really I am. Really!
+(pause ... <rec.food.drink.coffee>
+ie c. What's the pitch on the roof? Um, er, well, I don't know. Sorry. I w can guess from my foggy recollection and say about 2 in 12.
+
+<rec.equestrian>
+
+Upon what grounds can we say that the discourse marker “um, er, well”, for example, is expressing a conceptual structure that belongs to the Cognitive Model of SORRY, if indeed it does? In the above example, the discourse
+
+ 
+marker is used to indicate hesitation, and in this written form, it is overtly and consciously chosen to indicate this. It is a humorous devise to indicate that the speaker has been “caught out” and being “caught out” is part of being wrong, a basic part of any apology.
+However, even with such lexical clues, we have no descriptive model that adequately combines this type of on-line discourse structure with Lakoff's Idealised Cognitive Models. Although Langacker’s theories of active zones and reference-point constructions may explain what the speakers are doing conceptually in their processing of such utterances, neither of these theories offer a descriptive model that captures generalities about such structures. Put simply, at a theoretical level, this type of implied APOLOGY is captured by the Active Zone of a Cognitive Model, but in analytical
+Pterms, its description is a very tricky procedure, so tricky in fact that that it
+is difficult to make generalisations about implicature structure in Cognitive
+rLinguistic terms. Some research has made inroads here (cited in section 1), ebringing different theories such as Relevance Theory and Pragmatic Impli-
+cature into Cognitive Linguistics. However, until we have a quantifiable
+- method for determining the composition of abstract conceptual categories P (such as Cognitive Models or Domain Matrixes), we cannot describe in
+rigorous terms such discursive structures.
+rin 4. Methodological Response. Model-matrix definition and delimitation t At stake is essentially an issue of definition and delimitation: we have P no quantifiable means for telling what a given concept entails or how to
+distinguish it from other concepts. This is a general problem for all ono-
+r masiological research in Cognitive Linguistics, from Conceptual Metaphor e study, to Frame Semantics, and field semantics. Moreover, this issue is the
+basis of the metaphor-metonymy, or similarity-contiguity, debate as pre-
+v sented by Goossens (1990), Croft (1993), Mendoza (2000), Geeraerts
+(2002), and Glynn (2005). Obviously, the problem of concept definition has
+ie not gone unnoticed and is the basis for much discussion in the community.
+Some have tried to resolve the problem through establishing a tertium com-
+w parationis, such as Lehrer (1982), Schmid (1993), Geeraerts & al. (1994),
+and Lewandowska (1999). However, such an approach is wrought with theoretical problems, as stressed by Kleiber (1994), Geeraerts (1997), and Glynn (2004c, f.c.). Furthermore, and perhaps most importantly, this approach is necessarily restricted to those concepts with grounded perceptual referents where, obviously, most concepts are abstract without any
+
+Lebenswelt designatum (q.v. Glynn 2005). In such a situation, it seems the only solution is to develop a more rigorous method of intensional definition. Attempts at such an intensional method for concept definition in Cognitive Linguistics vary widely. Grady (1997), Clausner & Croft (1997), and Glynn (2002) turn to more detailed study of conceptual structure per se, where Fischer (2000), Schmid (2000), and Frohning (2005) successfully use functional criteria. However, a reliable and widely applicable method remains undeveloped. Although the full workings of such an approach are beyond our scope here, we may propose a tentative method and test its ability to capture discourse strategies in metonymic language. In this, we will suppose that a method for defining, and thus delimiting, a Cognitive Model is one important way of improving its analytical power. Such a
+Pmethod should allow us to not only delimit the category but also identify its
+internal structure and should be applicable to a wide range of concept types.
+rIdealised Cognitive Models are, for all intents and purposes, culturally erich abstract Semantic Frames. Therefore, perhaps the best method for ty-
+ing down the Cognitive Model is to turn to some of the analytical tech-
+- niques used in Frame Semantics. Fillmore’s (1985, 2000, 2003, & Atkins P 1992) theory of Semantic Frames is not only the basis of much of Lakoff’s
+research, it enjoys a fundamental role in the Cognitive Linguistic project
+r and has been applied by Dirven & al. (1982), Rudzka-Ostyn (1989, 1995), i Verschueren (1985) amongst many others. In one of these studies, Vern schueren (1985) proposes a method for comparing Semantic Frames across t language-cultures. His procedure is simple and effective. Instead of identi-
+fying participants and argument relations, one may identify "conceptual-
+P pragmatic conditions". These will often be arguments and argument rela-
+tions, but not necessarily so. This approach allows frame semantics to be
+r extended to any concept not just event-structures but also allows it to link e up with the study of Cognitive Models. Verschueren's pragmatically deter-
+mined conditions for the Semantic Frame are similar to Lakoff’s ‘aspects’
+v in his “definition” of the Cognitive Model of SEE (Lakoff 1987: 128) but
+also the ‘elements’ used in the construction grammar case study (Lakoff:
+ie 462-585). It is also the principle behind the Value Attribute Matrix in cur-
+rent Construction Grammar (Kay & Fillmore 1999, Fillmore 2001, and
+w Glynn 2004b). Verschueren's proposal is important since it targets the basic methodological weakness of both Frame Semantics and Cognitive Model study: any concept-based study (as opposed to form-based study) must intensionally define its object of study. Underlining the importance and difficulty of accurately defining, and thus delimiting 'domains', is the first step towards
+
+ 
+being able to rigorously study their conceptual structures, such as metaphor and metonymy. The pragmatic criteria in Verschueren's (1985: 65ff) work are based on small sets of "speech acts", defined by what he calls "empirical-conceptual conditions." We may adopt his principle by generalising his use of ‘speech acts’ to the notion of pragmatic schemata. A pragmatic schema is then defined as a set of functionally determined conditions that should be seen as a quantifiable rendition of the different ‘clusters’ of a 'Cognitive Model', in Lakoff’s (1987: 74ff) terms, or different ‘domains’, of a ‘domain-matrix,’ in Langacker’s (1987: 147) terms. The conditions themselves do not seek to define the concept, but the arguments and argument relations associated with the concept. This does not necessarily entail that the method is restricted to event-based concepts. The nature of a Semantic
+PFrame, as an analytical model, is such that unexpressed arguments must
+also be accounted for. It is, thus, applicable to all concepts, be they event-
+rbased or not. Although this principle is straightforward for concepts such as eFORGIVE-SORRY, we may extend its use to concepts such as LOVE or AN-
+GER. Even though such concepts are often associated with nominal profil-
+- ings, they still necessarily involve backgrounded Actors, Patients, and AcP tor-Patient relations, which are subsumed in the encyclopaedic semantics of
+the given frame.
+r Panther & Thornburg (1998) also draw on the idea of frames in order i to define concepts and their internal parts. However, they seek to identify n core and peripheral parts of the concept with a single definition and couch t their definition in entirely functional terms. Although their approach is
+powerful in its ability to capture the "metonymic strength" of a Pragmatic
+P Implicature, it is limited by two basic factors. Firstly, drawing on early
+work in Pragmatics, their frame is defined in terms of a "state of affairs
+r scenario" which entails pre-supposed facts and in turn, possible outcomes. e In other words, this functional perspective of pragmatics means that their
+schema is defined in terms of presuppositions, motivations and results.
+v Although appropriate for speech acts such as REQUEST, and even SORRY-
+FORGIVE, this may not be readily extended to abstract concepts such as
+ie LOVE or ANGER, typical of Conceptual Metaphor research. Secondly, they
+aim to define the Cognitive Model with a single scenario made up off core
+w and peripheral components. This restricts the frame semantic structure and
+the possibility of extending the definition to the various profilings or construals that Semantic Frame structure may capture. Thus, their single definition would have troubles handling the difference in conceptual salience, and thus "coreness", of such frame alternations as buy-sell or steal-rob, typical of Frame Semantic research. Our approach overcomes these two
+
+limitations on the application of the definitional model by proposing 'conceptual-pragmatic schemata' as opposed to a 'functional-pragmatic scenario'. Our conceptual-pragmatic schemata are divided, not into pre-existing conditions, motivational conditions, and outcomes, but into concepts and conceptual relations. This allows the model to be extended to abstract concepts such as LOVE or ANGER. Moreover, the representation of core and peripheral information structures are deferred to different sets of schemata. This method, in turn, may also capture differences in frame construal. This should allow the definitions to work with the main of Frame semantics and its concern for event profiling. This is particularly important since the core and periphery parts of a model, in Panther & Thornburg's (1998) terms, would imaginably be dependent on the relative construal of the concept.
+PNevertheless, the pragmatic-conceptual schemata proposed here, may be
+seen as a refinement, or simplification, of their pragmatic-functional scen-
+rarios eImportantly, the conditions described above should be seen as neces-
+sary but not sufficient in determining the category. Moreover, the internal
+- structuring of the domain should possess a relative representivity, or protoP type structure. With an overt methodology and analytical apparatus for
+establishing the limits and internal clustering of the frame-model-domain, it
+r should be easier to determine what conceptual category is being referred to i by a given utterance. nt 5. A Test Case for a Semantic Frame-Based Approach to Cognitive P Model Definition. r Let us test the efficacy of this method of domain definition and differentie ation by re-examining the examples offered above in section 3. Presum-
+ably, these examples are all linguistic expressions for the Cognitive Model
+v of FORGIVE-SORRY. For the following pragmatic definitions, ‘Sb’ repre-
+sents ‘somebody’, ‘St’ represents ‘something’, and ‘C’ represents ‘condi-
+ie tion’, that is an element in the idealised make-up of schema or 'model clus-
+ter'. For the current purposes, it should not be necessary to investigate the
+w relative conceptual structure of the different schemata. We may identify
+one schema as basic because of its generality. This does not mean to suggest that it represents the paragon, prototype, or stereotype of the concept.
+
+ 
+In the description below, the basic schema is seen as basic due to criterial simplicity, and thus hyperonymic status in onomasiological salience.2
+Pragmatic Schemata for FORGIVE.
+BASIC FORGIVE
+C1. Sb1 believes that Sb2 has done wrong. C2. Sb1 holds Sb2 in bad stead because of C1. C3. Sb1 decides that this Sb2 should no longer be held in bad stead (despite C1).
+The first schema is defined by the broadest most basic set of conditions and should capture most if not all FORGIVE events. The second schema that we
+Pmay refer to as GUILTLESS FORGIVE, represents a more criterially complex
+yet important part of the cognitive model of forgive
+reGUILTLESS FORGIVE
+C1. Sb1 believes Sb2 has done wrong.
+- C2. Sb1 holds Sb2 in bad stead because of C1. P C3. Sb1 decides that C1 is not true.
+C4. Sb1 no longer holds Sb2 in bad stead.
+ri The GUILTLESS FORGIVE schema should capture events where an individual n is “proven innocent”. In other words, where Sb1 changes opinion on the t validity of C1. It is closely related to another model of FORGIVE, where the
+action deemed 'bad' is not serious, often because it is a technicality or is
+P considered ‘not serious’ by the person judging the action. r LIGHT FORGIVE e C1. Sb1 believes that Sb2 has done wrong.
+C2. Sb1 believes this wrong is not worthy of bad stead.
+v C3. Sb1 decides that Sb2 should not be held in bad stead (despite C1). ie Closely related to the concept of FORGIVE is that of APOLOGISE or SORRY.
+In frame semantic terms, this reverses the foregrounding of the argument
+w structure highlighting the oblique, the 'st' in our terms, of the SORRY scen-
+2 Mancebo Francisco (2005), drawing on the work of Peña Cervel (2003b), offers a similar attempt at defining this Semantic Frame-Cognitive Model. She offers a definition using image schemata that captures the illocutionary force involved in FORGIVE.
+
+ario contrary to the FORGIVE frame where the plaintiff is foregrounded, or profiled.
+1.1.1. Pragmatic Schema for SORRY
+BASIC SORRY
+C1. Sb1 believes he or she has done St that badly affects Sb2. C2. Sb1 expresses regret over C1.
+Another schema for this concept that is perhaps more typical, although less criterially basic, we may call APOLOGISE SORRY. This includes a typical motivation for being sorry, often associated with looking for forgiveness.
+PAPOLOGISE SORRY rC1. Sb1 believes he or she has done something that affects badly Sb2. eC2. Sb1 seeks FORGIVENESS for C1.
+C3. Sb1 expresses regret about C1 to obtain C2
+-P Although these schemata represent a preliminary attempt at a definition, we
+may now see how they allow us to not only categorically say that a given
+r utterance should be handled by a given cognitive model, but enable us to i identify which basic part of the model is being referred to metonymically in n instances of Pragmatic Implicature. t In the first example (1a), listed in section 3, the model FORGIVE is ex-
+pressed metonymically several times. The phrases please don’t worry about
+P it, I’m not upset at all, and I look back and it’s funny are referring to parts,
+or conditions, of the schema that we identified above. The it in the expres-
+r sions is the St in the schemata for FORGIVE and by referring to St as funny; e the speaker is fulfilling C2 of the LIGHT FORGIVE schema. This expression
+is metonymic and it employs the conceptual metonymy PART for WHOLE.
+v Although the speaker does not actually say “what you did is not serious so
+therefore I forgive you”, this is expressed. The same is true of I’m not up-
+ie set. In Panther & Thornburg's (1998) terms, this utterance "points to" the
+condition that Sb2 is no longer in ‘bad-stead’. This fulfils C3, demonstrat-
+w ing once again a part-whole reference to the definitional schemata of FOR-
+GIVE. It must be stressed that both of these sentences could be paraphrased with “I forgive you”. However, the speaker chooses to profile certain elements of the model through metonymic reference. This profiling, or highlighting, of a certain active-zone is precisely the conceptual role of reference-point constructions and is an example of why this construct is
+
+ 
+invaluable for the study of metonymy. In our investigation, these activezones are identified by the schema conditions, that is, the principal elements of a cognitive model.
+The following example (1b) is a little more complicated. The proposition I offered and then got upset when I had to put shit in my trunk implies that the speaker had ‘held Sb2 in bad stead’, but later decided that this was erroneous. This would suggest that the GUILTLESS FORGIVE schema is being employed. However, reading further, we get the impression that the speaker is not entirely convinced of what s/he is proposing. Indeed, using our schemata, we have an explanation for this. The two utterances At this point I consider this a non issue and So I say fuck it, do not fit any of the conditions for the GUILTLESS FORGIVE schema, they do, however, fit per-
+Pfectly the C3 of LIGHT FORGIVE, that is ‘Sb1 decides that this Sb2 should not
+be held in bad stead (despite C1)’. If this is the case, then they are used
+rmetonymically to stand for LIGHT FORGIVE. From this, we may deduce that ethe speaker is not wholly decided on the guilt or guiltlessness of Sb2, but
+also that the speaker no longer holds Sb2 in bad stead. Despite the fact that
+- this information becomes visible when one considers the metonymic strucP ture of the cognitive model being employed, it is important to note that
+such information is gleaned through the consideration of Pragmatic Impli-
+r cature, not the metonym per se. i Example (1c) is interesting because it entails an inherent contradiction: n Sb1 is telling Sb2 not to worry about St, and then states that s/he (Sb1) is to t blame. This, it seems, is an interpersonal device. By turning the blame back
+onto him or herself, Sb1 could be employing condition C3 of the LIGHT
+P FORGIVE schema, but the following phrase, As far as I am concerned, you
+have never been anything other than nice to me suggests that it is the
+r GUILTLESS FORGIVE that is being instantiated by this utterance. If this were e the case, the speaker accepting the blame is a way of expressing C3 of
+GUILTLESS FORGIVE. Although we can see this as a part-whole representa-
+v tion for the schema, it is only through Pragmatic Implicature that we may
+deduce that when Sb1 says s/he is to blame, this entails that Sb2 is not to
+ie blame. Our apparatus has no means for capturing this degree of discourse
+complexity but it maybe explained using Langacker's theory of active
+w zones. The contradiction set up by the opening phrases; don’t worry about
+it (entailing Sb2 did St wrong) followed by ‘self blame’ (entailing Sb2 did nothing wrong), means that the active-zone for the reference-point construction, or metonym, is not clear. In other words, the speaker has identified two domains in the domain matrix as possible actives zones and they are, in a sense, in conflict.
+
+This kind of complexity comes to the fore in the last example (1d), which is both metonymic and implied. In the example, Sb1 expresses SORRY to Sb2 but instead of apologising, he ‘tells’ his interlocutor to forgive him. In our description thus far, we have avoided the complex frame semantic relationship between SORRY and FORGIVE. The relationship between the two frames is similar to Fillmore’s (2003: ch. 6) study on the commercial event-frame, BUY-SELL. Here, the event-frames compliment each other, profiling and back-grounding different participants. In this exchange, the speaker metonymically refers to the domain of FORGIVE to imply an apology. In the terms of our apparatus, in doing this, he switches the roles of Sb1 and Sb2. In simple terms, he tells Sb2 what to say, metonymically, to demonstrate that he is forgiven. Certain discourse markers,
+Psuch as the tag okay, are the cues that this is a request. It seems unnecessary
+to work through each of the metonymic references in this utterance. The
+rmost important point here is that the frame reversal is captured by our coneceptual-pragmatic schemata. This type of conceptual profiling must be
+accounted for in any definitional schema for cognitive models.
+-Finally, it must be noted that only certain conditions were used in the P metonymic references for FORGIVE. From this, one could argue that some
+sort of active-zone constraint on the reference-point is at play. It makes
+r sense that the condition of ‘somebody doing something wrong’ cannot be i used to stand for FORGIVENESS. Langacker’s theory of active-zones and n reference-points captures this. This final point is crucial to understanding t the internal structure of cognitive models: not any element in the model can
+stand for the model. This is different to the "metonymic distance" proposed
+P by Panther & Thornburg (1998) but of equal importance. Research in me-
+tonymy often underlines such points, but by more overtly defining the cog-
+r nitive model, we may more easily identify which parts of a given model e may function as active-zones. v 6. Summary ie Although the hypothetical constructs of the cognitive model and the dow main matrix (with their corresponding analytical apparatuses of reference-
+point constructions and the active zone) are useful analytical tools, they do not easily capture the subtleties of real-language use. In order to render these apparatuses more effective in this regard, we need a reliable method for not only differentiating between concepts but for identifying the internal structuring of those concepts. The nature of any intensional definition is
+
+ 
+subjective and libel to result in an important amount of analytical errors. Yet, if we are to understand the complexities of discourse and implicature, such a method is necessary. Thus, this method must be as overt and as verifiable as possible. Ideally it should also be quantifiable and applicable to a wide range of phenomena, such as onomasiological lexical fields, be they literal, metaphoric, or metonymic. Taking the principle of a Semantic Frame, that is the arguments and argument relations, and defining these using conceptual-pragmatic criteria, offers just such an intensional method. By taking the conceptual nodes of the concepts, the participants and the relationship between those participants, and defining those, rather than the concept per se, we offer a verifiable and overtly rigorous model. This short study demonstrates that such definitions, organised into simple schemata,
+Pcannot only adequately define a definitional model, but also its constituent
+parts. In such terms, Pragmatic Implicature is explained as part-whole
+rmetonymic referencing and the parts involved in that referencing are preedefined, rendering the accuracy of the model checkable. The subjective
+nature of intensional definitions is unavoidable, thus the overt nature of the
+- definitions presented above, although not designed to represent conceptual P reality or linguistic structure, allow us to see immediately weakness in the
+definition. Importantly, this method could also allow the more quantified
+r approaches of cognitive lexical research to integrate with the study of meint Preview tonymy.
+
+References
+Clausner, T. and W. Croft (1997) “Productivity and schematicity in Metaphors”. Cognitive Science 21: 247-282.
+Croft, W. (1993) “The Role of Domains in the Interpretation of Metaphors and Metonymies”. Cognitive Linguistics 4: 335-370.
+Dirven, R., Goossens, L., Putseys, Y., and E. Vorlat (1982) The scene of linguistic action and its perspectivization by SPEAK, TALK, SAY, and TELL. Amsterdam: John Benjamins.
+PFillmore, C. (1985) “Frames and the Semantics of Understanding”. Quaderni di Ser mantica 6: 222-254 e(2000) “Describing polysemy: The case of ‘crawl.’” In: Y. Ravin and C. Leacock (eds.) Polysemy. Oxford: Oxford University Press. 91-110 P (2001) “Mini-grammars and some time-when expressions in English.” In: J. Bybee and M. Noonan (eds.) Complex Sentences in Grammar and Discourse. Amsterdam: John Benjamins. 31-60. r (2003) Form and Meaning in Language. Vol. I. Papers on Semantic i Roles. Stanford: CSLI. n Fillmore, C. and B. Atkins t (1992) “Toward a frame-based lexicon: The semantics of RISK and its neighbours.” In: A. Lehrer and E. Kittay (eds.) Frames, Fields, P and Contrasts: New Essays in Semantic and Lexical Organization. London: Erlbaum. 75-102. Fischer, K. r (2000) From Cognitive Semantics to Lexical Pragmatics. Berlin: Moue ton de Gruyter. Frohning, D. v (2000) Kausalmarker zwischen Pragmatik und Kognition. Korpusi basierte Funktionsprofile und Analysen zur Variation im e Deutschen. Doctoral Dissertation. University of Feiburg. w Geeraerts, D. (1997) Diachronic Prototype Semantics. A Contribution to Historical Lexicology. Oxford: Clarendon. (1999) “Beer and semantics.” In: L. De Stadler and C. Eyrich (eds.) Issues in Cognitive Linguistics. Berlin: Mouton de Gruyter. 3555.
+
+ 
+(2000) “Salience phenomena in the lexicon: A typology.” In: L. Albertazzi (ed.) Meaning and Cognition. Amsterdam: John Benjamins. 79-101.
+(2002) “The interaction of metaphor and metonymy in composite expressions.” In: R. Dirven and R. Pörings (eds.) Metaphor and Metonymy in Comparison and Contrast. Berlin: Mouton de Gruyter. 435-468.
+(2005) "Lectal variation and empirical data in Cognitive Linguistics." In: J. Ruiz de Mendoza and S. Peña Cervel (eds.) Cognitive Linguistics: Internal Dynamics and Interdisciplinary Interaction. Berlin: Mouton de Gruyter. 163-189.
+Geeraerts, D., Grondelaers, S., and P. Bakema
+P(1994) The Structure of Lexical Variation. Meaning, Naming, and Context. Berlin: Mouton de Gruyter. Geeraerts, D., Speelman, D., and S. Grondelaers r(forthc.) Measuring Lexical Standardization. Oxford: Oxford University e Press. Glynn, D. -(2002) “LOVE and ANGER. The Grammatical Structure of Conceptual PMetaphors.” Cognitive Approaches to Figurative Language. Style 36, 541-559. r (2004a) “Cognitive Constructs. Perceptual processing and conceptual i categories between mind, language, and culture.” In: A. da Silva, n A. Torres, and M. Gonçalves (eds.) Linguagem, Cultura e Cognição: Estudos de Linguística Cognitiva. Almedina: Coimbra. t 247-268 (2004b) “Constructions at the Crossroads. The Place of construction P grammar between field and frame.” Annual Review of Cognitive Linguistics 2: 197-233. r (2004c) “Perception, Lexical Class, and Lexical Variation. Limitations e for Cognitive Grammar in the study of lexis.” Anglophonia 16: 134-150. v (2005) “Conceptual Metonymy - A study in cognitive models, referencepoints, and domain boundaries.” Poznań Studies in Contempoie rary Linguistics 42: 85-102. w (2006) “Cognitive Lexicology. Questions for an onomasiological approach to lexis”. In: M. Amengual (ed.) Lenguaje en la sociedad de la Información y la Comunicación. Zaragoza: AESLA. (forthc.). "Iconicity and the Grammar - Lexis Interface." In: O. Fischer & E. Tabakowska (eds.) Iconicity in Language and Literature 5. Amsterdam: John Benjamins.
+
+Goossens, L. (1990) “Metaphtonymy: The Interaction of Metaphor and Metonymy in Expressions for Linguistic Action.” Cognitive Linguistics 1: 323340.
+Grady, J. (1997) “THEORIES ARE BUILDINGS Revisited.” Cognitive Linguistics 8: 267-290.
+Kay, P. and C. Fillmore (1999) “Grammatical constructions and linguistic generalizations: The What’s X doing Y? construction.” Language 75: 1-33.
+Kleiber, G. (1994) Nominales. Essaies de sémantique référentielle. Paris: Colin.
+PLakoff, G. (1987) Women, Fire, and Dangerous Things. What categories reveal about the mind. London: University of Chicago Press. rLangacker, R. e(1987) Foundations of Cognitive Grammar Vol. I. Theoretical Prerequisites. Stanford: Stanford University Press. -(1990) Concept, Image, and Symbol: The Cognitive Basis of Grammar. PBerlin: Mouton de Gruyter. (2000) Grammar and Conceptualization. Berlin: Mouton de Gruyter. r Lewandowska-Tomaszczyk, B. i (1999) “A Cognitive-interactional Model Cross-Linguistic Analysis: n New Perspectives on ‘tertium comparationis’ and the concept of equivalence.” In: B. Lewandowska-Tomaszczyk (ed.) Cognitive t Perspectives on Language. Frankfurt: Peter Lang. 53-76. Mancebo Francisco, R. P (2005) “Illocution and cognition: the case of apologies.” Cuadernos de Investigación Filológica 31. r Panther, K.-U. and L. Thornburg e (1997) “Speech Act Metonymies.” In: W. Liebert, Redeker, G., and L. Waugh (eds.) Discourse and Perspectives in Cognitive Linguisv tics. Amsterdam: John Benjamins. 205-222. (1998) "A cognitive approach to inferencing in conversation." Journal of ie Pragmatics 30: 755-769. w (1999) “The POTENTIALITY FOR ACTUALITY metonymy in English and Hungarian.” In: K.-U. Panther and G. Radden (eds.) Metonymy in Language and Thought. Amsterdam: John Benjamins. 333-357. (2003) “Metonymies as natural inference and activation schemas: The case of dependent clauses as independent speech acts.” K.U Panther & L. Thornburg (eds.). Metonymy and Pragmatic Inferencing, 127-148. Amsterdam: John Benjamins.
+
+ 
+(2006) "Metonymy." In: D. Geeraerts and H. Cuyckens (eds.) Handbook of Cognitive Linguistics. Oxford: OUP.
+Peña Cervel, S. (2003a) “Situational metaphors and metonymy.” In: C. Inchaurralde and C. Florén (eds.) Interaction and Cognition in Linguistics. Frankfurt: Peter Lang. 239-256. (2003b) Topology and Cognition: What Image-schemas Reveal about the Metaphorical Language of Emotions. Munich: Lincom.
+Rudzka-Ostyn, B. (1989) “Prototypes, schemas, and cross-category correspondences: the case of ask.” In: D. Geeraerts (ed.) Prospects and Problems of
+P Prototype Theory. Linguistics 27: 613-61. (1995) “Metaphor, Schema, Invariance: The Case of Verbs of Answering.” In: L. Goossens et al. (eds.) By Word of Mouth. Metaphor, r Metonymy, and Linguistic Action from a Cognitive Perspective. e Amsterdam: John Benjamins. 205-244. Ruiz de Mendoza, F. -(2000) “The role of mappings and domains in understanding metonPymy.” In: A. Barcelona (ed.). Metaphor and Metonymy at the Crossroads. Berlin: Mouton de Gruyter. 109-132. r Ruiz de Mendoza, F. and J. Otal Campo i (2002). Metonymy, Grammar, and Communication. Granada: Comares. n Ruiz de Mendoza, F. and L. Pérez Hernández (2003) “Cognitive operations and pragmatic implication.” In: K.U Pant ther & L. Thornburg (eds.) Metonymy and Pragmatic Inferencing. Amsterdam: John Benjamins. 23-50. P Ruiz de Mendoza, F. and O. Díez Velasco (2003a) “Patterns of conceptual interaction.” In: R. Dirven & R. Pörings r (eds.) Metaphor and Metonymy in Comparison and Contrast. e Berlin: Mouton de Gruyter. 489-532. (2003b) “High-level metonymy and linguistics structure.” In: C. Inchaurv ralde & C. Florén (eds.) Interaction and Cognition in Linguistics. Frankfurt: Peter Lang. 189-210. ie Truszczyńska, A. (2003) “Conceptual metonymy - the problem of boundaries in the light w ICMs.” Poznań Studies in Contemporary Linguistics 38: 221238. Verschueren, J. (1985) What People Say They do with Words. Prolegomena to an Empirical-Conceptual Approach to Linguistic Action Norwood: Ablex.
+
+Pre-Print Preview
+
