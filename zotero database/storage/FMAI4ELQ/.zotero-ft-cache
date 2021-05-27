@@ -1,0 +1,571 @@
+This article was downloaded by: [Fondren Library, Rice University ] On: 11 November 2014, At: 13:42 Publisher: Routledge Informa Ltd Registered in England and Wales Registered Number: 1072954 Registered office: Mortimer House, 37-41 Mortimer Street, London W1T 3JH, UK
+Australian Journal of Linguistics
+Publication details, including instructions for authors and subscription information: http://www.tandfonline.com/loi/cajl20
+Points, Depictions, Gestures and Enactment: Partly Lexical and NonLexical Signs as Core Elements of Single Clause-Like Units in Auslan (Australian Sign Language)
+Gabrielle Hodgea & Trevor Johnstona a Macquarie University Published online: 01 Apr 2014.
+To cite this article: Gabrielle Hodge & Trevor Johnston (2014) Points, Depictions, Gestures and Enactment: Partly Lexical and Non-Lexical Signs as Core Elements of Single Clause-Like Units in Auslan (Australian Sign Language) , Australian Journal of Linguistics, 34:2, 262-291, DOI: 10.1080/07268602.2014.887408
+To link to this article: http://dx.doi.org/10.1080/07268602.2014.887408
+PLEASE SCROLL DOWN FOR ARTICLE
+Taylor & Francis makes every effort to ensure the accuracy of all the information (the “Content”) contained in the publications on our platform. However, Taylor & Francis, our agents, and our licensors make no representations or warranties whatsoever as to the accuracy, completeness, or suitability for any purpose of the Content. Any opinions and views expressed in this publication are the opinions and views of the authors, and are not the views of or endorsed by Taylor & Francis. The accuracy of the Content should not be relied upon and should be independently verified with primary sources of information. Taylor and Francis shall not be liable for any losses, actions, claims, proceedings, demands, costs, expenses, damages, and other liabilities whatsoever or howsoever caused arising directly or indirectly in connection with, in relation to or arising out of the use of the Content.
+This article may be used for research, teaching, and private study purposes. Any substantial or systematic reproduction, redistribution, reselling, loan, sub-licensing, systematic supply, or distribution in any form to anyone is expressly forbidden. Terms &
+
+Conditions of access and use can be found at http://www.tandfonline.com/page/termsand-conditions
+
+Downloaded by [Fondren Library, Rice University ] at 13:42 11 November 2014
+
+Downloaded by [Fondren Library, Rice University ] at 13:42 11 November 2014
+
+Australian Journal of Linguistics, 2014 Vol. 34, No. 2, 262–291, http://dx.doi.org/10.1080/07268602.2014.887408
+Points, Depictions, Gestures and Enactment: Partly Lexical and NonLexical Signs as Core Elements of Single Clause-Like Units in Auslan (Australian Sign Language)*
+GABRIELLE HODGE AND TREVOR JOHNSTON
+Macquarie University (Accepted 21 January 2014)
+Pointing signs, depicting signs and manual gestures are all used for meaningful expression in Auslan, as are full or partial body enactments to demonstrate action or dialogue. This article outlines a corpus-driven approach to identifying clause-like units in a native signed language and investigates the use of pointing signs, depicting signs, gestures and enactments to express core elements of possible clause-like units in Auslan narratives. We explore the frequency and distribution of the core argument and predicate elements of single clause-like units that were identified in elicited retellings of an Aesop’s fable which have been archived in the Auslan Corpus. Core elements of these units are described according to sign type, the order in which they appear and handedness (articulation with the strong or weak hand). We find that one-third of the core elements in the single clause-like units in these Auslan narratives are expressed via pointing signs, depicting signs, gestures and enactments, in various orders. This study uses empirical corpus-based data to contribute insights into the use of composite
+*We would like to acknowledge the support of the Australian Research Council grant #DP1094572; the members of the deaf community who have contributed to the Auslan Corpus; and the researchers and annotators who have enriched the corpus to its current state (in approximate chronological order, with the most recent first): Christopher Hansford, Donovan Cresdee, Michael Gray, Lindsay Ferrara, Julia Allen, Gerry Shearim, Karin Banna, Louise de Beuzeville, Dani Fried, Della Goswell and Adam Schembri. We are especially grateful to Lindsay Ferrara, Toby Gifford, Peter Petocz and two anonymous reviewers for their thoughtful and constructive comments that helped to improve this paper. Any errors are our own.
+© 2014 The Australian Linguistic Society
+
+Downloaded by [Fondren Library, Rice University ] at 13:42 11 November 2014
+
+Points, Depictions, Gestures and Enactment 263
+utterances in a signed language and therefore on the way meaning is negotiated between interactants.
+Keywords: Auslan; Sign Language; Corpus Linguistics; Constructions; Lexicology; Clause; Lexicalization
+1. Introduction
+Until recently, investigations of various signed languages (SLs) tended to concentrate on the traditional aspects of language use that can be easily represented and described by available frameworks, and very little on gestural aspects of communication such as intonation and bodily action. It had been emphasized that SLs are not gesture or pantomime, but are structured and used in parallel ways to spoken (SpLs) and written languages (see Armstrong et al. (1995) and Wilcox (2004) for an overview and historical background of this issue). Downplaying the use of gesture in SLs led to strong dualisms between notions of language and gesture in the field. For example, what we call depicting signs here (after Liddell 2003) were originally analysed as complex morphological ‘classifier constructions’ akin to classifiers in SpLs (Emmorey 2003). Recent investigations using elicitation tasks and first language acquisition data have contributed to re-analysis of signed language ‘classifiers’ as visual representations of language, especially in Australia with respect to Auslan (for example, Cogill-Koez 2000; Schembri 2003; Schembri et al. 2005; de Beuzeville 2006).
+The growth of theoretical and research frameworks in SL research that are inclusive of these supposed para-linguistic and gestural aspects of communication has coincided with the development and availability of time-aligned multimodal annotation software such ELAN.1 These tools have made investigations of this relationship much easier to conduct and have prompted a collective shift towards building multimodal SpL and SL corpora (Crasborn & Sloetjes 2008).
+Investigations of such corpora also address methodological issues that challenge all linguistic research, not just SL research, such as the reliability of generalizations based primarily on grammaticality judgements, and certainly those made without the benefit of corpus-based data. Indeed, Biber (2010: 191) notes that corpus investigations of SpLs to date suggest:
+[O]ur intuitions as linguists are not adequate for the task of identifying and characterising linguistic phenomena relating to language use … corpus analysis has shown that language use is patterned much more extensively, and in much more complex ways, than previously anticipated.
+The machine-readable Auslan Corpus2 was created partly for the above reasons (Johnston 2010). Several other SL corpora are now in development or available with
+1 http://tla.mpi.nl/tools/tla-tools/elan/, Max Planck Institute for Psycholinguistics, The Language Archive, Nijmegen, The Netherlands. 2 http://elar.soas.ac.uk/deposit/johnston2012auslan, Macquarie University, Sydney, Australia.
+
+Downloaded by [Fondren Library, Rice University ] at 13:42 11 November 2014
+
+264 G. Hodge and T. Johnston
+varying degrees of enrichment.3 It is now much easier to annotate, analyse and describe how signers actually express meaning with their hands and body. As a consequence, we can share SL data, challenge our intuitions and test claims reported in the literature.
+Pointing signs, depicting signs and manual gestures are all used for meaningful expression in Auslan, as are full or partial body enactments to demonstrate action or dialogue (Johnston 2012; Ferrara & Johnston 2014). In this article we elaborate on some semiotic resources available to speakers and signers during face-to-face interaction, and outline a corpus-driven approach to identifying clause-like units in a native SL. We present frequency and distribution analyses of the core argument and predicate elements of single clause-like units that were identified in elicited retellings of an Aesop’s fable which have been archived in the Auslan Corpus. We then describe the use of pointing signs, depicting signs, gestures and enactments to express these core elements. These findings provide further empirical support to claims regarding the tight integration of gestural semiotics in native Auslan usage (Ferrara 2012; Ferrara & Johnston 2014).
+2. Telling and Showing Meaning in Face-to-Face Discourse
+Strategies and patterns of meaning construction vary within and across languages, depending on how contexts of interpretation are constrained in different ways by the grammar of each language and by the spatio-temporal and communicative context in which any given utterance is made (LaPolla 2006). Speakers and signers co-construct meaning using various multimodal strategies combining speech, sign, gesture and enactment (i.e. semiotic signs of different types) to produce embodied spatiotemporal utterances (‘composite utterances’). Composite utterances are communicative moves, or turns, in face-to-face interaction during which fully conventional semiotic signs combine with symbolic indexicals, such as pointing gestures, to create unified utterances that are interpreted holistically (Enfield 2009). In this way face-toface linguistic interactions develop as shared and constantly negotiated symbolic artefacts between two or more interactants (Enfield 2009; Givón 2005, 2009).
+By way of illustration, consider the following instance of spoken English that was captioned during a workshop on corpus linguistics:
+And a corpus file right now, this is the first file of the Brown Corpus, and we can see it shows up there six times. Okay. One time so in the first example and the first case this is the sentence and it shows up here, second one it is here, third one fourth, fifth and sixth.
+3 For example, see the British Sign Language Corpus project (http://www.bslcorpusproject.org/), Deafness Cognition and Language Research Centre (DCAL), University College London, UK; and Corpus Nederlandse Gebarentaal (http://www.ru.nl/corpusngt/), Radboud University, Nijmegen, The Netherlands.
+
+Downloaded by [Fondren Library, Rice University ] at 13:42 11 November 2014
+
+Points, Depictions, Gestures and Enactment 265
+The bolded words were all accompanied by pointing gestures that aligned meaningfully with each spoken utterance. The pointing gestures could be described as bodily actions in which one uses the hand(s) with a finger(s) or fingertip(s)—or the hand holding or manipulating an object which acts as an extension of the finger(s)— extended in a direction towards or actually contacting some referent in the context of utterance. Each act of pointing is conventionalized to some extent, in usage or form, and is thus symbolic and directly indexes that to which it refers. The pointing gestures are, in short, tokens of symbolic indexical signs. The speaker was talking about something by encoding it conventionally. He was also physically referring to that thing to show us what he means, thereby enriching his meaning nonconventionally. The speaker developed these composite utterances in order to constrain the context of interpretation for himself and his audience.
+In producing these composite utterances, the speaker conventionally and efficiently assumes that his interactants: (1) can see his immediate physical space; (2) can hear his voice; (3) will attend specifically to the particular space to which he is intentionally directing eye gaze and pointing gestures; (4) will infer a connection between the space the speaker is pointing to and the spoken utterances used to simultaneously encode similar or alternative meaning; and (5) interpret all of these actions as an integrated unit.
+Linguists, especially formal and theoretical linguists, have typically focussed on describing how speakers and signers ‘tell’ meaning by using entrenched aspects of lexicogrammar such as morphosyntax and temporal sequencing, i.e. the traditionally ‘linguistic’ characteristics of spoken utterances like the English words captured in the transcription above. However from our broadly cognitive-functional construction grammar perspective, the lexicogrammar of a language can be understood as consisting of form-meaning pairings (symbolic units) that vary gradiently according to conventionality, complexity and schematicity (Croft & Cruse 2004; Langacker 2008).
+More recently, this focus has evolved to also consider how language users manipulate various semiotic resources to visually represent and ‘show’ meaning to prompt conceptualizations for their interactants (Liddell 2003; see also Clark & Gerrig 1990; Liddell & Metzger 1998; Mulrooney 2009; Cormier & Smith 2011; Ferrara & Johnston 2014). Both speakers and signers do this by exploiting the threedimensional space in front of the body to co-construct elements of meaning simultaneously with their hands and body. As in the example above, they may point to a referent in real space with one hand and predicate something about that referent using a spoken or signed utterance (Kita 2003; Kendon 2004). Or they may use both hands to depict various physical and dynamic characteristics of an object alternatively specified by lexicalized constituents elsewhere in an utterance (Liddell 2003; Streeck 2008). This depiction creates a complex blend that profiles particular conceptualizations of that object (see Fauconnier & Turner 2002).
+Speakers and signers also use enactment with or without lexicalized constituents to create surrogate blends to demonstrate who did what to whom and how (Metzger
+
+Downloaded by [Fondren Library, Rice University ] at 13:42 11 November 2014
+
+266 G. Hodge and T. Johnston
+1995; Liddell 2003; Ferrara & Johnston 2014; for similar discussion using different terminology see also Tannen 1989; Clark & Gerrig 1990; Winston 1991, 1992). For example, non-signers use enacting gestures to indicate participants in actions (Kendon 2004). They direct these gestures towards locations associated with referents in much the same way that indicating (agreement) verbs, which like pointing signs can index referents in the discourse, are directed in SLs (Casey 2003). Our embodiment thus provides a range of semiotic resources with which to create composite utterances that integrate aspects of both telling and showing meaning in spoken and signed face-to-face interaction.
+A central principle of usage-based theory, also an aspect of the cognitive-functional framework in which this study has been conducted, is the notion that constructions are an emergent property of language and are created and fed by repeated usage events, i.e. frequency of use. Frequency of use contributes to emergent grammar via global cognitive processes such as categorization and schematicization, as well as language-internal processes such as lexicalization and grammaticalization (see Bybee & Hopper 2001; Bybee 2003; Diessel 2007; Haspelmath 2008 for SpLs; and Janzen 1995, 2012; Janzen & Schaffer 2002; Johnston & Schembri 2010; Johnston et al. 2011; Johnston & Ferrara 2012; Pfau & Steinbach 2011 for SLs).
+While initially emerging in specific spatio-temporal and communicative contexts, frequent and routine use of embodied semiotic resources leads to richly indexed conventions across diachronic, synchronic and ontogenic domains (Givón 2009), and even the enchronic domain (the experienced real time during which utterances are exchanged) (Enfield 2009). This happens regardless of form across all aspects of multimodality and can be investigated in both SpL and SL by applying a modalityfree notion of gesture (Okrent 2002). Co-speech gestures, alternate sign languages and depictive strategies such as enactment and ideophones have been investigated for spoken English (Clark & Gerrig 1990), several language communities in Central Australia (Kendon 1988; Green 2014; Green & Wilkins 2014) and Siwu (Dingemanse 2011; see also Dingemanse 2012). SL research suggests that depicting signs undergo lexicalization to fully lexical signs in Auslan (Schembri et al. 2005) and that gesture is a substrate for grammaticalization in American Sign Language and Auslan (Janzen & Schaffer 2002; Johnston et al. 2011). Gesture is also an integral element of first language acquisition in children learning both SpLs and/or SLs (Tomasello 2003). The relevance and habitual use of a range of semiotic resources for holistic interpretation in social interactions is also reflected in research in other domains of interaction such as music and dance (e.g. Schutz 2008; Naveda & Leman 2010).4
+The role of showing meaning in a SL is particularly important and the full import of this may not be appreciated unless SLs are described in their own terms. This means considering all aspects of a signer’s real lived experience when using a visual-gestural language—or the ‘signer’s umwelt’ as it has been described (Johnston 1996). SLs are
+4 See also Mason (2012) for an overview of key historical developments in acknowledging the integrated relationship between sound and movement in choreographed performance traditions.
+
+Downloaded by [Fondren Library, Rice University ] at 13:42 11 November 2014
+
+Points, Depictions, Gestures and Enactment 267
+inherently face-to-face languages and because it is not usually practical to do other things with the hands while signing, SLs are rooted in the physical space and spatial relations between signer and interlocutor in a way that SpLs may not necessarily be. Signers are required to attend generously to whoever is signing in order to perceive and share all the nuances of meaning that can be expressed visually in the signing space. When we further consider the fact that the human umwelt itself is largely visual, temporal and spatial, we can see that a language that uses these resources for representation can directly express the visual and spatial qualities of the world it wishes to represent. This suggests that signers may make habitual recourse to ‘showing’ meaning throughout their face-to-face interactions in addition to ‘telling’ it by encoding meaning linguistically. These aspects of SL use have implications when we question what constitutes the ‘text’ used for linguistic analysis of SLs or when we compare SLs to SpLs.
+In this study, we use data extracted from the annotated Auslan Corpus to describe recurrent patterns of organization in possible clause-like units (essentially composite utterances) that were identified in Auslan narratives, and to explore the resources used for showing core meaning in these units. As the discussion above suggests, the identification and analysis of clause-like units necessarily involves considering semiotic resources for both showing and telling because we recognize the intrinsic composite nature of utterances in a signed and quintessentially face-to-face language such as Auslan.
+3. Sign Types in the Auslan Corpus
+In SLs not all signs are of the same type. While it is possible to distinguish between content and function signs, it is also useful to explore signs according to degree of lexicalization and how these different sign types are used. Signs vary gradiently from fully lexical, through to partly lexical and non-lexical according to degrees of conventionality, complexity and schematicity (Johnston & Schembri 2010; Johnston & Ferrara 2012). Manual and non-manual signs may be loosely categorized as fully lexical, partly lexical or non-lexical depending on their usage in a given utterance.
+Fully lexical signs have most meaningful characteristics specified in their form and are heavily entrenched in use. These signs constitute the listable lexicon of Auslan, and generally align with prototypical notions of words in SpLs. Partly lexical signs have only some characteristics specified in their form (typically handshape and orientation); all other specification emerges from mapping these forms onto the signing space. Pointing signs (also known as pronouns and indexing signs in the SL literature) and depicting signs (also known as classifier and polycomponential signs) are two major sub-classes of partly lexical signs. They are both types of symbolic indexical signs insofar as they have partly conventional aspects and index something in the signing space or text. Non-lexical signs, such as manual and non-manual gestures, have very little conventionalization or specification of form and meaning, and rely heavily on the spatio-temporal communicative context and inference for
+
+Downloaded by [Fondren Library, Rice University ] at 13:42 11 November 2014
+
+268 G. Hodge and T. Johnston
+correct interpretation. They are ‘singular events’ during which interactants enchronically interpret a form as ‘standing for’ a meaning (Kockelman 2005). Interpretations of singular events may or may not remain active for participants during the interaction in which they emerge and subsequent interactions thereafter (see Chafe 1994). Enactments involve elements of both manual and non-manual expression to partially demonstrate or ‘construct’ action and dialogue (Winston 1991, 1992; Metzger 1995). During constructed action one enacts a non-linguistic action (‘quotes an action’), while during constructed dialogue (essentially a sub-type of the former) one enacts a language event (‘quotes signs or words’). Enactments are also nonlexical, as they are primarily context-dependent embodied demonstrations of what an entity is doing or saying.
+The frequency and distribution of use of fully lexical, partly lexical and non-lexical signs in native signed languages is relevant to this study. To date, there has been only one published corpus-based investigation of the frequency and distribution of sign types in a SL. This was conducted as part of a lexical frequency study of Auslan (Johnston 2012). Lexical frequency studies have also been published for New Zealand Sign Language (McKee & Kennedy 1998, 2006) and American Sign Language (Morford & MacFarlane 2003), but the Auslan lexical frequency study has been the only one based on a machine-readable corpus created using identification gloss (IDgloss) conventions. These conventions not only lemmatize sign forms, they also enable one to identify and quantify different sign types. The study revealed that the majority of signs annotated and glossed in the Auslan Corpus (n = 63,436) are fully lexical signs (70.2%), but a proportion are tokens of partly lexical pointing signs (12.3%) and depicting signs (11.0%), or tokens of non-lexical gestures, fragments of signs or false starts (6.5%). This suggests that while fully lexical signs may typically function as core elements of identified clause-like units, Auslan signers may also use partly lexical and non-lexical signs and enactments to express these core elements. Here we investigate this hypothesis using a small study corpus of narratives from the Auslan Corpus.
+4. The Study Corpus
+The study corpus consists of 20 re-tellings of The Boy Who Cried Wolf from male and female deaf native or near-native Auslan signers (approximately 33 minutes of signing). The study corpus is a detailed annotated subset of the much larger Auslan Corpus which consists of 300 hours of digital video recordings from 255 deaf native or near-native signers from Adelaide, Brisbane, Melbourne, Perth and Sydney (see Johnston 2010). As most descriptions of SL to date are based on elicited sentences or narratives, a similar text type was chosen for the study corpus to facilitate identification of language-specific patterns and to compare findings more easily to previous research.
+While this sample is very small compared to analyses of SpL corpora now available, it must be said that the transcription and annotation of multimodal SL data takes much longer compared to the manual annotation of unimodal SpL data often
+
+Downloaded by [Fondren Library, Rice University ] at 13:42 11 November 2014
+
+Points, Depictions, Gestures and Enactment 269
+reported for corpus studies. Depending on the notation or annotation system used, SL linguists have estimated transcription or annotation ratios of anywhere between 1:10 and 1:120, i.e. two hours of transcription or annotation to one minute of video (Hanke & Prillwitz 1995: 303).
+As this sample is very small and restricted to only one text type, findings are only indicative of patterns that may be identified and explored elsewhere in the Auslan Corpus. They are not representative of any sociolinguistic variables or general language use. Stronger claims will not be available until comparable investigations of other text types in the Auslan Corpus (particularly conversation) have been undertaken.
+5. Annotating the Study Corpus
+5.1. Tiers Used for Annotating the Study Corpus
+The study corpus was enriched with annotations using a corpus-driven approach, whereby corpus analysis is used to identify any and all language-related phenomena that may not be recognized or covered by existing available frameworks (Biber 2010; see also Haspelmath 2007, 2010). This approach is enabled by: (1) annotating tiers reserved for various aspects of composite utterances and multimodal phenomena so that relationships between relevant phenomena can be investigated by comparing annotations created on different tiers; (2) developing methods for both quantifying patterns of language use and dealing consistently with the various types of ambiguity and uncertainty found in the data; and (3) regular and consistent revision of annotations (see Johnston 2010).
+Files in the study corpus were annotated in ELAN using 17 different parent and child tiers, and the annotations they contain are time-aligned with the digital video input (Table 1). A child tier has annotations that are linked to and dependent on annotations found on a parent tier. Annotations are made according to the conventions outlined in the Auslan Annotation Guidelines (Johnston 2013a).
+Some annotations in the Auslan Corpus are more structure/form focussed (e.g. presence or absence of some bodily articulation such as a head nod, direction of pointing sign) and some are more function/meaning focussed (e.g. use of a sign to designate a process or a participant, semantic role of a sign in a usage event). Though considerations about both form and function are usually involved one way or another in all acts of annotation, those strongly at the function/meaning end of the spectrum require acts of interpretation and are thus open to revision (by the same or other annotators) or disagreement (by other annotators).
+The types of annotations of relevance to this particular study are highly function/ meaning based and interrelated: grammatical class, macro- and semantic roles, hypotactic relations between clause-like units. Annotators are thus likely to re-analyse annotations during multiple passes of relevant tiers over a period of weeks and months until fewer and fewer changes are made and annotations become relatively stable (annotations may also be re-annotated by a second person or samples re-
+
+Downloaded by [Fondren Library, Rice University ] at 13:42 11 November 2014
+
+270 G. Hodge and T. Johnston Table 1 Parent (in bold) and child tiers (marked ↳) annotated in the study corpus
+
+Tier name
+
+Description of tier function and content
+
+IDgloss ↳ GramCls CLUcomposite
+ClauseLikeUnit ↳ Arg
+↳ MacroRole ↳ SemRole CLUwithinCLU CLUcomplex CA LitTrans Comments
+
+Strong Hand (SH) and Weak Hand (WH) lemmas of all tokens of manual and non-manual signs, e.g. BOY1, G(5-DOWN):PHOOEY Tentative grammatical class of SH and WH IDglosses according to specific usage event, e.g. VERB: LOCATING, NOUN: DEPICTING, etc. Groups annotations of clause-like units as either standing alone or linked via hypotactic relations, i.e. SINGLE, EMBED, DEPEND, EMBED + DEPEND; subjective certainty of identification is also tagged, i.e. CERTAIN, UNCERTAIN Clause-like units; possible constructions Overt expression of SH and WH core argument(s) and predicate(s), i.e. the main participants in a clause-like unit that are overtly expressed with a fully lexical, partly lexical or non-lexical sign;1 numbered according to order of appearance, e.g. core arguments tagged A, A1, A2; core predicates tagged V, V1, V2, etc; noncore elements tagged NONA Tentative macro-role of SH and WH annotated core argument(s) and predicate(s), e.g. PROCESS, ACTOR, UNDERGOER, CARRIER, ATTRIBUTE2 Tentative semantic role of SH and WH annotated core argument(s) and predicate(s), e.g. PROCESS, AGENT, PATIENT, EXISTENT, EXPERIENCER CLUs with embedded elements; tagged according to order of appearance, i.e. PRECONTAINER, CONTAINED and POST-CONTAINER CLUs linked via relations of dependency; tagged according to dependency, i.e. INDEPENDENT and DEPENDENT Demonstrations of constructed action (CA) or dialogue (CD); tagged according to character role of enactment, e.g. CA:BOY, CD:VILLAGERS Literal translation of annotated clause-like units Comments and relevant details of individual analyses
+
+1Others may recognize the term ‘core argument’ as referring to semantically-identified arguments that can undergo voice and valence adjusting operations, but not obliques (see Payne 1997). However, we do not assume that our annotations of semantic relations yet point to evidence for grammatical relations in Auslan morphosyntax. 2Macro-role and semantic role tags are used to explore the semantic relations of the signs identified as core elements of clause-like units. For example, CARRIER is used to tag the core argument ‘identified’ by another sign, while ATTRIBUTE is used to tag the core argument functioning as the ‘identifier’. See Johnston (2013a) for more details of the tags used for annotating the Auslan Corpus
+
+interpreted and re-analysed, i.e. ‘checked’, by a second person for measures of agreement). The researcher may of course see patterns emerge relatively organically during annotation of corpora, as the annotator becomes familiar with the dataset and begins to recognize repetitions of patterns from observations of actual usage events. However, the majority of linguistically salient patterns only emerge after undertaking searching and sorting to let patterns emerge (if there is one at all) in the context of the full range of annotated analyses, or after statistical analyses of identified patterns to see what language internal and language external factors may be significant.
+These patterns can be explored to increasing specificity and findings can be mapped onto each other to get an increasingly richer overview. For example, this study takes annotations of possible clause-like units and maps the frequency and distribution of the core elements identified in these units with the frequency and
+
+Downloaded by [Fondren Library, Rice University ] at 13:42 11 November 2014
+
+Points, Depictions, Gestures and Enactment 271
+distribution of different sign types to partly investigate the composite nature of these identified units. Future investigations of other aspects of these clause-like units (e.g. non-core elements and mouthing) will add further depth and unity.
+5.2. Identifying and Annotating Clause-like Units in the Study Corpus
+The candidate constructions annotated in this study are identified on the basis of meaning and form. They are meaningful symbolic composite utterances that assert something about the world by using one element in that utterance to predicate something about another element (Johnston 2013a: 50). They are propositions. They also tend to be units that have unified intonation contours that help to delineate them into chunks that function as basic units of language at what we call the ‘clause level’ (see Bolinger 1983; Croft 2001; Croft & Cruse 2004; Langacker 2008 for SpLs; and Johnston 1996, Boyes Braem 1999 for SLs).5 As it has yet to be established whether or not the signed utterances in Auslan discourse are indeed instances of constructions that correspond to linguistic definitions of ‘clause’ or if they represent another type of utterance, all potential constructions are identified in the first instance as ‘clause-like units’ (CLU). CLUs are ‘clause level’ in the sense that they are units smaller than discourse level that constitute a descriptive category of possible candidates for Auslan-specific constructions, and that correspond with various types of communicative moves in face-to-face interaction. They are not ‘clause level’ in the sense of ‘level of analysis where all units are clauses’.
+The annotation of CLUs is essentially based on the Role and Reference Grammar (RRG) universal definition of a clause as a semantic relation between a predicate and its arguments (Van Valin & LaPolla 1997). In the RRG clause, two preliminary contrasts are considered: (1) predicating vs. non-predicating information; and (2) arguments of predicate vs. non-arguments of predicates. Primary clause constituents are the nucleus (containing the predicate(s), i.e. some type of symbolic unit that profiles a process, activity, state or event) and the core (the nucleus and any core arguments semantically related to the predicate, i.e. symbolic units that profile things or attributes of things). Non-arguments of core predicates (such as circumstances of time, manner or location) constitute the periphery.
+Together, conceptual content (semantic relations) and perceived form (including intonation contours of hand and body rhythms, facial movements and enactments) suggest that certain signs, gestures and expressions in a given usage event are intended to be conceptually linked as a meaningful CLU. The role of prosody in delineating CLUs is similar to the strong isomorphic mappings of various constructions and intonation contours in SpL that have been identified by linguists (Chafe 1994; Croft 1995, 2007; Matsumoto 2000; Park 2002; see also Johnston
+5 See also Nespor and Sandler (1999), Sandler (1999), Brentari and Crossley (2002), Fenlon et al. (2007) and Sze (2008) for discussion of visual prosody in various SLs. However, note that investigations of SL prosody to date have largely focussed on the identification of unit boundaries and possible syntactic functions of specific prosodic features, rather than the identification and description of intonation contours.
+
+Downloaded by [Fondren Library, Rice University ] at 13:42 11 November 2014
+
+272 G. Hodge and T. Johnston
+(2013b) for further discussion with respect to Auslan). Perceived intonation contours help annotators to delineate CLUs (e.g. to delineate temporally adjacent utterances as one CLU or two CLUs). The recognition, identification or even the ambiguity of a contour is implicit in the CLU delineation and the tag assigned to that annotation (e.g. CLU composites tagged as CERTAIN or UNCERTAIN). However, the specific properties of intonation contours have not yet been annotated in the Auslan Corpus or the study corpus. We take the position that the first step is to identify contours perceptually, and then to explore their unified properties. It is a further research question as to the nature of these identified contours. It is also a further research question if these identified CLUs are constructions that linguists would readily identify as clauses according to formal and semantic criteria, or if they are some other kind of communicative unit in SLs.
+5.3. Identifying and Annotating Core Elements of Clause-like Units
+After CLUs were identified, the next phase in the annotation was to attempt to identify the constituent elements of each CLU token. During this procedure only overtly expressed core argument (A) and predicate (V) elements were annotated on their respective Strong Hand (SH) and Weak Hand (WH) Argument tiers. If there was more than one core argument or predicate, tags were numbered according to order of appearance in the CLU. For example, if there was more than one predicate in a CLU (i.e. a serial verb construction that either expresses a sequence of activities or prompts an elaborate construal of one activity), the first predicate was tagged V1, the second was tagged V2, and so on. Non-core elements were also annotated on the Argument tiers but were tagged as NONA because we are currently only investigating overtly expressed core elements of the CLU as a whole and not (yet) investigating phrasal or constituent analysis of verbal or nominal expressions. Thus we only identified the ‘head’ of a nominal unit to be our token of core arguments. For example, consider an utterance such as ‘the big bad wolf comes’, bounded by a distinctive intonation contour and/or pausing, and reflecting the English text of the narrative. In this case, only the ‘wolf’ element was tagged as A. Elements tagged as NONA are either part of a nominal phrase that is a core argument, a verbal phrase or part of some other unit expressing peripheral information. Partly lexical and nonlexical signs also function as non-core elements of identified CLUs, but quantitative analysis of non-core elements according to sign type is beyond the scope of this study.
+Variation is inherent in all language use and SLs are no exception. Variation can sometimes lead to both structural and semantic ambiguity if the variation concerns the obligatoriness of constructional schemas or morphosyntactic coding. In our annotation of the study corpus, this is manifested in examples where an annotator is faced with two equally likely possibilities for interpreting and analysing the semantic relation between the core elements of a given CLU, e.g. as either a predicate–argument [A V] or carrier–attribute [A1 A2] relation. In such cases, both possible analyses are annotated on the relevant Argument tiers (e.g. as [A_A1 V_A2] with an underscore
+
+Downloaded by [Fondren Library, Rice University ] at 13:42 11 November 2014
+
+Points, Depictions, Gestures and Enactment 273
+separating the two analytical alternatives of each element), and the CLU is categorized as indefinite until such a time when further annotation of other tiers may (or may not) help to disambiguate the analysis, at a structural level. It is difficult (if not impossible) to differentiate between ambiguity that arises from the acts of interpretation required of annotators as they identify and tag corpus data at this structural level, and ambiguity that may have been perceived and experienced by interactants in the discourse event as it occurred in real time (Consten & Loll 2012).
+If this indefiniteness carries through into deeper analyses, we may need to consider the possibility that in some cases it does not matter which is the ‘real’ structure of the CLU (predicate–argument or carrier–attribute relation) because semantically one simply understands that some quality or characteristic (or characteristic as process) is being associated with some referent. For example, the pattern X Y can be understood as ‘X was Y’ (carrier–attribute, [A1 A2]) or ‘X Y-ed’ (argument–predicate, [A V]). Such specific differentiations—elsewhere in various frameworks apparently appropriate for describing argument structure—may not be made in all CLU tokens in which some quality or characteristic is associated to some referent. It may be enough that either or both predicating or attributive relations are prompted in the minds of interactants. That is, rather than the signer using a structure-based strategy for interpretation, it is up to their interactants to constrain the usage event with what seems the best interpretation given the context.
+The tiers for macro-roles (MacroRole), semantic roles (SemRole) and grammatical class (GramCls) hold annotations (tags) that specify further information of the sign types identified as core elements of CLUs. These tiers use sets of controlled vocabulary (CV) tags. For example, consider a partly lexical pointing sign used to index an imagined referent previously indicated in a specific loci of the signer’s signing space, and which is interpreted as indexing the main participant of an utterance. If this sign is identified as functioning as the core argument of a single CLU, it may be tagged as: A on the Argument tier, POINT: PERSON on the GramCls tier, ACTOR on the MacroRole tier and AGENT on the SemRole tier. Table 1 above contains additional examples of the CV tags used for annotating these tiers (see also Johnston 2013a). Many of these CV tags are based on terminology adapted from functional-cognitive frameworks (Croft 2001; Van Valin & LaPolla 1997) and have been frequently attested cross-linguistically. However, it is important to note that the use of tags modelled on existing frameworks, especially those dealing with grammatical class, are simply starting blocks with which to start tagging data. They are considered neither definitive nor exhaustive. Whether the categories are relevant to describing how Auslan users organize their morphosyntax remains an empirical question. Tags can (and frequently are) overridden during annotation passes as new patterns emerge. In this way the appropriateness of various tags are constantly reassessed and adapted.
+
+Downloaded by [Fondren Library, Rice University ] at 13:42 11 November 2014
+
+274 G. Hodge and T. Johnston
+5.4. Identifying and Annotating Relationships between Clause-like Units
+Although CLUs are identified as units that are propositional, CLUs are not completely independent and understandable when taken out of context because there is always something that links one CLU to the ones around it. After all, the CLUs are part of a ‘text’, a discourse that has thematic coherence. Nonetheless, some CLUs appear to be more or less complete and make sense in themselves, and these are categorized as SINGLE on the CLUcomposite tier. However, other units do not meaningfully stand alone as single CLUs to this extent, but are semantically, prosodically and/or morphosyntactically linked to one or more other CLUs to create hypotactic relations of embeddedness, dependency or both. These are categorized as EMBED, DEPEND or EMBED + DEPEND CLUs on the CLUcomposite tier. Signers use various strategies to express these hypotactic relations, including manually encoded morphology and lexis, sequencing (temporal mapping and/or spatial juxtaposition) and intonation contours (Johnston 1996).
+CLUs linked via relations of hypotaxis are further annotated for embeddedness and/or dependency relations. Embeddedness is identified when one CLU is contained within another, such as where one CLU appears to be an argument of a predicate in the other CLU, or because one CLU appears to be embedded within the other and adds, specifies or modifies an element in that other CLU (e.g. by projecting a locution or idea that constitutes another CLU). Dependency relations are identified when one coherent idea is expressed across two or more CLUs, and where at least one of these CLUs shows some kind of morphosyntactic or prosodic indication of a relationship of dependency with respect to the other. These types of hypotactic relations are annotated on the CLUwithinCLU and CLUcomplex tiers, respectively. It remains to be seen whether the strategies used to express relations of embedding and/or dependency in the study corpus ‘encode’ information in a conventionally language- or modality-specific way, or whether projecting these types of interpretations on juxtaposed CLUs may simply be the best fit in a given context of use.
+In fact, sometimes it is not easy to identify a segment of signing as a single, standalone CLU or as CLUs linked hypotactically because the linkage may be ambiguous. There may be some doubt that a particular CLU may be hypotactically linked to another, because the relation between the CLUs is inferred semantically or juxtaposed spatially rather than explicitly encoded. Clause linkage may be characterized typologically as gradient according to a number of comparative continua, including the interconnectedness of the semantic relation and the degree of explicitness of linking (Lehmann 1988). Furthermore, while a lack of explicit encoding may make it difficult to identify relations between clauses in SpLs, intonation contours and semantic elaboration may indicate a relation that can at least be identified for further exploration (Halliday 1994: 226). We accept this possibility in our corpus-driven approach to the Auslan narratives. This type of interpretive ambiguity is tagged as UNCERTAIN on the CLUcomposite tier until such a time when further annotation of
+
+Downloaded by [Fondren Library, Rice University ] at 13:42 11 November 2014
+
+Points, Depictions, Gestures and Enactment 275 other tiers may (or may not) help to disambiguate the analysis. Uncertain CLU composites are analysed separately to those tokens identified as relatively unambiguous with respect to their linkage.
+5.5. Identifying and Annotating Enactments in Clause-like Units Finally, tokens and durations of enactment are identified by recognizing demonstrations of actions, utterances, thoughts, attitudes and/or feelings of a referent other than the narrator (Cormier & Smith 2011). Signers combine bodily movements, postures and eye gaze to construct actions and dialogue, shifting skilfully between narrated and demonstrated roles (Metzger 1995). Enactments can further be identified according to the number of articulators recruited for the enactment, which manifests as perceptual strength (Cormier & Smith 2011). Durations of enactment are annotated on the Constructed Action tier according to the two sub-types constructed action (CA) or constructed dialogue (CD), along with the character role of the enactment. For example, the boy, the sheep or the villagers are annotated as CA:BOY, CA:SHEEP or CD:VILLAGERS as the case may be. If the enactment provides the only overt expression of a core argument or predicate element, it is tagged as such, e.g. CA[A]:BOY (see Figure 1). This enables us to quantify where the sole expression of a core element of a given CLU is ‘shown’ and inferred via enactment rather than ‘told’ explicitly via manually encoded morphology (e.g. modified direction and location of signs) and lexis. The strength of instantiated enactments and the aspects of their articulation have not yet been annotated in the study corpus.
+Figure 1 Example of an annotation of a Single CLU composite in the study corpus
+
+Downloaded by [Fondren Library, Rice University ] at 13:42 11 November 2014
+
+276 G. Hodge and T. Johnston
+5.6. Summary
+The corpus-driven approach outlined above means that any aspects of clause-level composite utterances (i.e. various semiotic resources for telling and showing meaning, as well as various types of structural and semantic ambiguity) can be identified and quantified without needing to prematurely assign labels or linguistic status to particular aspects of these composite utterances. It also means that these clause-level composite utterances can be explored with regards to their ordering, articulation and cooccurrence with enactment. As most existing linguistic frameworks assume that constituents of language-specific constructions are fully lexical, this is particularly crucial for investigating the use of partly lexical and non-lexical signs as core elements of clause-like units in a SL. Put differently, if a signer appears to intentionally and meaningfully produce gestures, depictions or enactments in their signing, there is no reason for excluding these aspects of usage events from the identification and annotation of possible clause-like units. In fact, exclusion of these aspects of SL use from corpus annotation and analytical method is highly problematic as it involves making aprioristic assumptions about the linguistic status of individual signs (which are not all of the same type anyway), and means that textual analyses must later accommodate and explain gaps resulting from this exclusion (if the signer was engaging in some kind of meaningful expressive activity at the time). An approach that considers some semiotic resources but not others is insufficient because important aspects of the way signers use and experience their SL are effectively ignored (see Section 2 above).
+
+6. Findings
+6.1. Clause-like Units in the Study Corpus
+A total of 1,063 tokens of CLUs were annotated in the study corpus and four types of CLU composites were identified (Table 2). There is a strong tendency for single, stand-alone CLUs in these narratives. We observed four types of relationships between the CLUs identified with reasonable certainty in this dataset (94.5%; n = 1,005): 80.6% (n = 857) are single stand-alone CLUs and 13.9% (n = 148) are sequences of one or more (but typically only two) CLUs containing hypotactic relations of embeddedness, dependency or both. Embeddedness is more frequently
+
+Table 2 Percentage proportions of CLU composites annotated in the study corpus
+
+CLU composite
+Single Embed Depend Embed + Depend Column total
+
+Certain (n = 1,005); %
+80.6 9.2 3.6 1.1 94.5
+
+Uncertain (n = 58); %
+3.6 1.0 0.7 0.2 5.5
+
+Row total (n = 1,063); %
+84.2 10.2 4.3 1.3 100
+
+Downloaded by [Fondren Library, Rice University ] at 13:42 11 November 2014
+
+Points, Depictions, Gestures and Enactment 277
+identified in these narratives than dependency. The small number of CLU composites containing both embeddedness and dependency relations (1.1%; n = 12) are usually found at the end of the narratives when the signer makes some conceptually complex comment about the moral of the story. A small proportion of the total CLU composites (5.5%; n = 58) were uncertainly identified and annotated. This means that we could not confidently identify whether or not CLUs were stand-alone or linked via relation(s) of hypotaxis. For these cases of uncertainly identified tokens, there were usually two or three possible alternative analyses, where preference of one analysis over another would be arbitrary rather than appropriate. Here we are concerned only with the set of Single CLU composites that were identified with relative certainty (n = 857).
+Another annotator re-interpreted and re-analysed (i.e. ‘checked’) a random clustered sample (n = 89; 12.06%) of an earlier set of the certainly identified Single CLU composites (n = 738) in the 20 study corpus files to ascertain a percentage measure of agreement.6 Regarding the identification of CLUs and/or structural analysis of CLUs, this annotator agreed with 80.9% (n = 72) and disagreed with 19.1% (n = 17) of the sampled tokens of Single CLU composites. Several issues were identified from the disagreements, and 16 tokens were re-analysed as indefinite and/ or uncertain because the other annotator suggested additional alternative analyses. All study corpus files have since been revised in light of these issues. The current set of certainly identified Single CLU composites discussed here (n = 857) is based on a much more recent revision.
+We first investigated the organization of the overt core argument and predicate elements in each of these tokens to see if they pattern in recurrent ways. Annotations of overt core elements and other annotations overlapping with each CLU annotation were extracted from ELAN and categorized in Excel according to articulation with the hand(s) and/or body (see Figure 2, which also shows the proportion of each identified pattern of CLU that co-occurs with enactment). This was done to explore how the signers used their two hands and body to create these composite utterances. Tokens with bracketing (e.g. [V A V]) and repeating elements (e.g. [V A V A]) were treated as sub-types of non-bracketed or repeated patterns (i.e. both examples treated as instances of [V A]). Sixty-one analytical ‘patterns’ emerged from the data. The top three patterns [V], [A V] and [V A] account for 51.6% of certainly identified Single CLU composites in the study corpus. The next 31 patterns account for 45.3% of these CLUs, including 3.9% analysed as indefinite. However, 27 tokens of singular instances of a particular organization of core elements account for the remaining 3.2%. These one-off tokens cannot currently be described as analytical patterns in the study corpus according to their order of appearance and handedness, although they may be
+6 As this investigation is still very exploratory, it was not appropriate to use an inter-rater reliability measure at this stage. The use of such a measure depends upon a notion of established validity, which is not yet available for investigations of SL corpora such as the one undertaken here. However, see Hodge (2014) on the development of a collaborative and iterative method for checking annotated analyses in a SL corpus, and how this method can be used to both quantify rates of disagreement and qualify the analytical preferences of annotators.
+
+Downloaded by [Fondren Library, Rice University ] at 13:42 11 November 2014
+Core element patterns (n=61)
+
+278 G. Hodge and T. Johnston
+
+HAPAXES WH/V
+A V1 V2 V3 V4 CA[A] V1 V2 V3
+CA[V1 V2] nonCLU
+V WH/A1 A2 V1 A V2
+V1 V2 WH/A V1 V2 V3 V4 CA[V1] V2 V3
+V1 WH/V2 V1 V2 A
+CA[A1] A2 INDETERMINATE
+nonA CA[A] V1 V2 A1 V WH/A2 CA[A1] V A2 A1 V1 V2 A2
+CA[V1] V2 A V1 V2 V3
+V1 V2 V3 V WH/A A1 A2 A CA[V]
+INDEFINITE A V1 V2 A1 V A2 CA[A] V V1 V2 V A A V V
+
+Core element patterns and enactment in Single CLU composites
+
+27 2 2 2 2 2 2 2 2 23 3 3 4 4 4
+5 6 6 7 7 9 11 19
+21 23 24
+33 35
+40 48 55 63
+
+No enactment (n=305) Constructed action (n=412) Constructed dialogue (n=140)
+134 245
+
+0.00
+
+0.05
+
+0.10
+
+0.15
+
+0.20
+
+0.25
+
+0.30
+
+Percentage proportion of core element patterns (n=857)
+
+Figure 2 Percentage proportion of identiﬁed core element patterns and their cooccurrence with enactment in Single CLU composites (WH/ = Weak Hand; Hapaxes = one-off tokens)
+
+identified elsewhere in the Auslan Corpus. While exact frequencies differ, global rankings are comparable with data reported in Ferrara & Johnston (2014).
+Interestingly, if one accepts that the tokens of Single CLU composites identified with the single [V] pattern may covertly express argument information via sign modifications of location and direction, and that serial predicates annotated as V1 V2 and so on tend to profile one complex process, activity, state and/or event (prompting either a sequence of activities or an elaborate construal of one activity), then the overall [A V] pattern increases to 64.1% (n = 549). That is, in well over half of the Single CLU composites identified in the study corpus, the first or primary core argument is either inferred or explicitly encoded before or simultaneously with any related predicates.
+Figure 2 shows that enactment co-occurred with 64.4% of these Single CLU composites (i.e. CA n = 412 and CD n = 140; total n = 552). It also shows that enactment was identified as inferring the only information about a core argument in 8.1% of these tokens (n = 69; e.g. the [CA[A]: V] pattern). Furthermore, 4.8% of these tokens (n = 41) contain core predicate(s) that were instantiations of constructed action (i.e. tokens of singular events that rely heavily on the context for interpretation; e.g. the [CA[V]] and [CA[V1 V2]] patterns). This suggests that some of the Single CLU composites identified in the study corpus are not analytical units of a
+
+Downloaded by [Fondren Library, Rice University ] at 13:42 11 November 2014
+
+Points, Depictions, Gestures and Enactment 279
+typically ‘linguistic’ nature, yet they were identified as expressing some core activity, process or state in the unfolding narratives.
+The Single CLU composites in the study corpus tend to contain only one, two or three overt core elements in temporal sequence and/or simultaneously. The method of extraction eliminated much distinction between sequential and simultaneous articulation of manually expressed core elements, so it is not possible to quantify this aspect of these tokens here. However, fully lexical manual signs that can be modified for location and/or direction are frequent in Auslan narratives, as are partly lexical and non-lexical signs that often prompt (by ‘showing’) more than one core element at the same time. Although a prior investigation of the modification of indicating verbs in the Auslan Corpus found that less than half were modified for location and/or direction (de Beuzeville et al. 2009), the manual expressions of ‘covert’ core elements inherent in these CLUs still need to be identified and annotated in order to quantify this aspect of these particular narratives. Nevertheless, a significant amount of nonmanual simultaneity is in fact captured in the current investigation. For example, Figure 2 shows that the co-occurrence of enactment with Single CLU composites in these narratives is extensive.
+Overall, the manual and non-manual elements tagged as core A and V elements of certainly identified Single CLUs in the study corpus pattern in recurrent ways. The tendency for patterns such as [V], [A V] and [V A] is very similar to observations of preferred argument structure in SpL grammars, whereby simple clauses in discourse are usually a predicate and an argument, and arguments are often inferred rather than explicitly re-activated using morphology and lexis (Thompson & Hopper 2001; Du Bois 1987, 2003; Givón 2009). The patterns identified here can be further mapped with other semantic and structural features tagged in the data and explored elsewhere in the Auslan Corpus to investigate the possibility they are conventionalized symbolic units (constructions), and not merely recurring patterns driven by discourse, information, visual representation and cognitive factors common to all language users in this modality. For example, the next step in the corpus-driven study of CLUs as possible clause constructions is to exploit the macro- and semantic role data to see if we do have an alignment of features to suggest a conventional construction (e.g. explained by ‘grammatical relations’) that are recurrent, emergent or calqued from the majority SpL. For now, we turn to more specific analyses of the core elements in these Single CLU composites to explore the relationship between different types of signs and enactments, and their patterning in these potential clause-level composite utterances.
+6.2. Core Elements in the Study Corpus
+This section investigates the Single CLU composites in the study corpus in more detail by exploring overt core elements according to sign type, the order in which they appear, and handedness (articulation with the strong or weak hand). We present analyses of: (1) observed relative frequencies (per 1,000 tokens) of all sign types in the
+
+280 G. Hodge and T. Johnston Table 3 Observed relative frequencies (per 1,000 tokens) of six categories of sign types across three corpora; entropy and relative entropy values for each distribution1
+
+Sign type
+
+Auslan Auslan Corpus
+
+Corpus
+
+narratives
+
+(n = 63,436) (n = 23,401)
+
+Study corpus narratives (n = 3,686)
+
+Fully lexical (incl. numbers) Fully lexical (fingerspelling) Fully lexical (name signs) Partly lexical (pointing/indexical, incl.
+possessives and buoys) Partly lexical (depicting) Non-lexical (gestures and enactments, incl.
+fragments of signs/false starts) Column total Entropy (H) Relative entropy (Hrel)
+
+650 50 2 123
+110 65
+1,000 1.62 0.63
+
+607 51 0 74
+214 54
+1,000 1.64 0.71
+
+705 45 0 90
+62 98
+1,000 1.45 0.62
+
+1Study corpus narratives are a subset of Auslan Corpus narratives; study corpus narratives and Auslan Corpus narratives are subsets of the Auslan Corpus. Enactments identified as showing or inferring core arguments in the study corpus are not included in this comparison because they were not quantified in the lexical frequency study of the Auslan Corpus. Only 5.8% of the total non-lexical signs in the study corpus were identified as fragments of signs or false starts (n = 21).
+
+Downloaded by [Fondren Library, Rice University ] at 13:42 11 November 2014
+
+Auslan Corpus, Auslan Corpus narratives and study corpus narratives, along with entropy and relative entropy values for each corpus distribution as measures of comparison; (2) percentage proportion of core elements in the study corpus according to sign type; (3) associations between core elements and sign type; and (4) percentage proportion of core elements expressed via each sign type according to the order in which they appear in the CLU and handedness.
+The study corpus may be characterized in relation to the larger Auslan Corpus by comparing the lexical frequencies of sign types in both corpora. Table 3 compares observed relative frequencies of sign types identified in the study corpus with those identified in the corpus-based lexical frequency study of the Auslan Corpus (Johnston 2012; see Section 3 above).
+Based on these normalized frequencies, it appears that fully lexical and non-lexical signs and enactments are more frequent in the study corpus narratives than in the Auslan Corpus and Auslan Corpus narratives, while partly lexical depicting signs are less frequent. Furthermore, partly lexical pointing signs appear to be less frequent in the study corpus than in the Auslan Corpus, but more frequent than in the Auslan Corpus narratives. These differences could be due to the size of the study corpus and the fact that it is represented by only one narrative.
+It is also useful to compare the uncertainty of predicting a given sign type in each corpus distribution. This uncertainty can be partly captured by comparing the relative entropy values (average amount of uncertainty of a random variable) for each distribution: ‘the larger the [entropy] H or [relative entropy] Hrel, the more random a distribution and the more difficult it is to predict an element’s occurrence’ (Gries
+
+Points, Depictions, Gestures and Enactment 281
+
+Table 4 Percentage proportion of identified core elements in Single CLU composites according to sign type
+
+Sign type
+Fully lexical (including numbers) Fully lexical (fingerspelling)
+Total fully lexical
+Partly lexical (pointing/indexical, incl. possessives and buoys)
+Partly lexical (depicting)
+Total partly lexical
+Non-lexical (gestures and enactments, including fragments of signs/false starts)
+Column total
+
+Arguments (n = 575)%
+21.6 2.3 23.9 7.0
+1.1 8.1 4.5
+36.5
+
+Predicates (n = 1,001)%
+45.7 0.9 46.6 0.4
+8.9 9.3 7.6
+63.5
+
+Row total (n = 1,576)%
+67.3 3.2 70.5 7.4
+10.0 17.4 12.1
+100.0
+
+Downloaded by [Fondren Library, Rice University ] at 13:42 11 November 2014
+
+2010a: 8). The relative entropy values7 can be used to compare entropy of different n samples. The Hrel values reported in Table 3 suggest the average uncertainty for the Auslan Corpus narratives (Hrel = 0.71) is somewhat greater than the study corpus narratives (Hrel = 0.62) and even the Auslan Corpus itself (Hrel = 0.63). Without giving measures of dispersion across corpus parts, this only suggests the randomness of sign types in the study corpus distribution is similar to the Auslan Corpus on the whole, and that it would be more difficult than not to predict the occurrence of a particular sign type in all three corpora.
+Table 4 presents percentage proportion of overt core argument and predicate elements in the study corpus according to sign type. Enactments identified as showing or inferring core arguments in tokens of Single CLU composites are included in the following analyses. There are almost twice as many overtly expressed core predicates than core arguments represented in the study corpus, which accords with the observation that almost twice as many tokens of the [V] pattern were identified than [A V] pattern. It also accords with our earlier comments that core arguments are often inferred in SpLs and SLs, or simultaneously and covertly expressed with core predicates in SLs. Overall, 70.5% of all overt core predicate and argument elements identified in this dataset are expressed using fully lexical sign types, and 29.5% are expressed using tokens of partly lexical (17.4%) or non-lexical signs or enactments (12.1%). That is, one-third of all core predicate and argument elements identified in these Single CLU composites are expressed via partly lexical or non-lexical signs or enactments. This closely mirrors the distribution of sign types in the study corpus in general (see Table 3 above). With respect to the overt core elements expressed via
+7 Computed with dispersions2 script (Gries 2008, 2010b) using R 2.14.0 (see R Development Core Team 2012). Script source: http://www.linguistics.ucsb.edu/faculty/stgries/research/dispersion/_dispersions2.r
+
+Predicates
+
+282 G. Hodge and T. Johnston
+Sign Type Fully lexical Fingerspelling Pointing
+
+Depicting Non−lexical
+
+340
+
+37
+
+110
+
+17
+
+71
+
+Arguments
+
+Core Element
+
+720
+
+14
+
+6
+
+141
+
+120
+
+Pearson residuals:
+10.40
+4.00 2.00 0.00 −2.00 −4.00
+−7.88
+
+Downloaded by [Fondren Library, Rice University ] at 13:42 11 November 2014
+
+Figure 3 Extended association plot of core elements and sign types identiﬁed in Single CLU composites
+partly lexical and non-lexical sign types: (1) pointing signs are used to express overt core arguments; and (2) depicting signs, gestures and enactments are used to express overt core predicates.
+An extended association plot can be used to explore associations between core element and sign type visually (Figure 3).8 The height of the boxes from the baselines represents the contribution to Chi-squared, indicating that the observed frequencies of the 10 cells are greater (above the line) or less (below the line) than the expected frequencies computed for a test of independence. The surface area of the boxes represents the difference between observed and expected frequencies, i.e. the greater the difference between expected and observed frequencies, the greater the surface area. The shading indicates the statistical significance of this difference, i.e. the intensity of shading above and below lines help to identify the boxes causing any dependence (Meyer et al. 2003: 3). Thus, the presence of a box in a given cell indicates there is a dependence between core arguments or predicates and sign type. The boxes above the row lines indicate more core arguments or predicates were expressed via a particular sign type than would be expected under independence, while the boxes below the row lines indicate less. The numbers plotted onto each cell indicate the observed absolute frequencies of each cell, reminding us that twice as many core predicates than core arguments were identified in these Single CLU composites. This visualization confirms there are strong associations between the distribution of the core elements and sign types identified in the Single CLU composites in the study corpus. In particular, we can see that the strongest significance in this dataset pertains to the distribution of fully lexical fingerspelling,
+8 Computed with the vcd package using R 2.14.0 (see R Development Core Team 2012).
+
+Downloaded by [Fondren Library, Rice University ] at 13:42 11 November 2014
+Core arguments according to order and handedness
+
+Points, Depictions, Gestures and Enactment 283
+partly lexical pointing signs and partly lexical depicting signs. With respect to partly lexical signs: (1) pointing signs are used to express core arguments significantly more frequently than expected, but express core predicates significantly less frequently than expected; and (2) depicting signs are used to express core predicates significantly more frequently than expected, but express core arguments significantly less frequently than expected. This contrasts with the distribution of fully lexical signs and non-lexical signs and enactments, which are used to express core arguments and predicates much as expected.
+A further question is how the partly lexical and non-lexical signs and enactments identified as core elements are distributed according to the order in which they appear in the CLU and handedness (articulation with the strong or weak hand), and what these distributions suggest regarding the relationship between sign type and possible CLU organization. Figure 4 presents percentage proportion and observed absolute frequencies of all core argument elements according to sign type, order in which they appear and handedness. Due to the small number of tokens for some observations, exploratory statistical analyses were not undertaken at this time: we present the data as preliminary observations only.
+The tokens of Single CLU composites identified in the study corpus contain only one or two overtly expressed core arguments, i.e. A, A1 or A2. Figure 4 indicates a tendency for partly lexical and non-lexical signs and enactments to appear as either the sole argument or first core argument of Single CLU composites, but not as the second core argument. These partly lexical and non-lexical signs and enactments are likely used to symbolically index or depict core information about referents inferred
+
+WH/A2
+
+11
+
+WH/A1 3
+
+Core arguments of Single CLU composites
+Fully lexical signs Fully lexical fingerspelling Partly lexical pointing signs Partly lexical depicting signs Non−lexical gestures & enactments
+
+WH/A
+
+23
+
+A2
+
+90
+
+A1
+
+102
+
+A
+
+346
+
+0.0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+0.6
+
+0.7
+
+Proportion of core arguments (%; n=575)
+
+Figure 4 Percentage proportion and observed absolute frequencies of core arguments according to sign type, order of appearance and handedness (WH/ = Weak Hand)
+
+Downloaded by [Fondren Library, Rice University ] at 13:42 11 November 2014
+
+284 G. Hodge and T. Johnston
+from the communicative context or already established in the text. Sole or first core arguments are frequently expressed via pointing signs and shown or inferred via enactment; overt core arguments are rarely expressed via depicting signs. Figure 4 also indicates a tendency for fully lexical signs to appear as either the sole, first or second core argument of Single CLU composites. They tend to express the second and last core argument more frequently than partly lexical or non-lexical signs, where typologically, new information is usually encoded and made explicit.
+With respect to handedness, core argument elements are primarily articulated using either the strong hand, both hands and/or full or partial body enactment. Articulation using only the weak hand is rare (see WH/ variables in Figure 4). These weak-handed signs were often identified as partly lexical pointing signs, where the strong hand may or may not be articulating other signs at the same time. The frequency of pointing signs articulated with the weak hand contrasts interestingly with the observed frequencies of other partly lexical signs and fully lexical signs articulated solely with the weak hand. Depicting signs and fully lexical signs that express core arguments are articulated using either the strong hand or both hands; the weak hand is hardly used at all.
+We hypothesize that two major factors may strongly influence these tendencies: handedness and hand dominance, and the act of pointing itself. With respect to the first: (a) many fully lexical signs are produced with two hands, meaning that the weak hand is not available to articulate a completely different sign; (b) most people favour one hand over another for various activities, leading to less dexterity and multifunctionality in the weak hand compared to the stronger hand; and (c) the cognitive effort required to articulate a pointing sign simultaneously with other signs is probably much less than that required to articulate two different fully lexical signs at the same time. With respect to the second: (a) pointing signs function as symbolic indexicals and as such are used to reference or re-activate blends; and (b) the physical form of pointing signs (usually an extended index finger) provides a clear figure that is easily perceived in relation to some ground (i.e. the rest of a usage event) in clauselevel composite utterances.
+Figure 5 presents percentage proportion and observed absolute frequencies of all core predicate elements according to sign type, order in which they appear and handedness. The tokens of Single CLU composites identified in the study corpus contain between one and five overtly expressed core predicates, i.e. V, V1, V2, V3, V4 or V5, but typically only contain one or two core predicates of any sign type.
+Figure 5 indicates a tendency for partly lexical and non-lexical signs and enactments in any order of appearance in Single CLU composites. With respect to these sign types, the sole, first or second predicates are frequently expressed via depicting signs, gestures or enactments; overt core predicates are rarely expressed using pointing signs (these predicative points typically occur as instances of constructed action or dialogue, e.g. the villagers ‘you-ed’ at the boy with a pointing sign). Recall also that overt core predicates of all sign types often simultaneously show a related core argument (e.g. enactments of ‘what the boy is doing’ entail that ‘who
+
+Downloaded by [Fondren Library, Rice University ] at 13:42 11 November 2014
+Core predicates according to order and handedness
+
+WH/V2 7
+
+WH/V1 4
+
+WH/V 4
+
+V5 1
+
+V4 5
+
+V3
+
+31
+
+V2
+
+V1
+
+V
+
+Points, Depictions, Gestures and Enactment 285
+Core predicates of Single CLU composites
+Fully lexical signs Fully lexical fingerspelling Partly lexical pointing signs Partly lexical depicting signs Non−lexical gestures & enactments
+164 174 611
+
+0.0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+0.6
+
+0.7
+
+Proportion of core predicates (%; n=1001)
+
+Figure 5 Percentage proportion and observed absolute frequencies of core predicates according to sign type, order of appearance and handedness (WH/ = Weak Hand)
+
+the boy is’ is also shown), that two-thirds of these Single CLU composites co-occur with enactment (see Figure 2), and that 4.8% of these Single CLU composites contain tokens of enactment that were identified as core predicate(s).
+With respect to handedness, core predicate elements are primarily articulated using either the strong hand, both hands and/or full or partial body enactment. Articulation using only the weak hand is rare. These weak-handed signs were often identified as non-lexical gestures (e.g. G(5-DOWN):PHOOEY). The observed frequencies of core predicates articulated using only the weak hand is less than the frequency of core arguments articulated using only the weak hand. The factors relating to handedness and hand dominance of sign types with core arguments listed above may also affect the distribution of sign types with core predicates. For example, if the low frequency of the weak hand is found to be significant, we could hypothesize that this is due to similar cognitive and modality effects of SL use outlined for pointing signs above.
+
+6.3. Summary
+Comparisons of normalized lexical frequencies of sign types in both the Auslan Corpus and study corpus revealed that only two in every three sign tokens in both sets is a fully lexical sign—partly lexical and non-lexical signs and enactments constitute at least a third of all identified sign tokens. We found recurrent patterns of the organization of core elements in the Single CLU composites identified in the study corpus. Many are instances of communicative events that prompt semantic relations of a thing and other thing(s), i.e. carrier–attribute relations, or a thing and a
+
+Downloaded by [Fondren Library, Rice University ] at 13:42 11 November 2014
+
+286 G. Hodge and T. Johnston
+process, activity, state or event, i.e. argument–predicate relations, which share clear parallels to preferred argument structure in SpL discourse. Furthermore, two-thirds of these tokens co-occurred with constructed action or dialogue, which often provided the sole expression of a core argument or predicate element in individual Single CLU composites.
+Analyses of overt core elements of Single CLU composites in the study corpus according to sign type, order in which they appear and handedness found that: (1) as per overall lexical frequency in both the Auslan Corpus and study corpus, approximately two-thirds of overt core elements are expressed using fully lexical signs; one-third are expressed using tokens of partly lexical and non-lexical signs and enactments; (2) these Single CLU composites tend to contain only one or two overt core arguments and between one and two overt core predicates; (3) the order of appearance of all sign types in these identified units is flexible, i.e. partly lexical and non-lexical signs and enactments occur almost anywhere in a given Single CLU composite; (4) the distribution of partly and non-lexical signs and enactments indicates that pointing signs are primarily used to express core arguments, whereas depicting signs, gestures and enactments are primarily used to express core predicates; (5) signers prefer to use the strong hand, both hands and/or body to overtly express these core elements—the weak hand is rarely used to express core elements; (6) weak-handed signs tend to be used to articulate pointing signs; and (7) core elements may also be shown covertly via manual modifications of signs and/ or enactment, or inferred from the discourse context, although this was not fully quantified here.
+7. Conclusion
+In this paper we took the fact that SLs are quintessential face-to-face languages as a given and then used the implications of this—e.g. that much of the production of meaning units in the language would likely be composite utterances—to begin the process of describing Auslan in its own terms, using an annotated corpus. Adopting the ‘clause-like unit’ as our unit of analysis, we briefly outlined a corpus-driven annotation approach to identifying these units, and discussed how this approach enables the fully lexical, partly lexical and non-lexical elements of these units to be consistently identified and quantified. We then presented corpus-based data to contribute insights into the use of composite utterances in Auslan, with particular attention to tokens of partly lexical and non-lexical signs and enactments.
+The analyses of Single CLU composites identified with reasonable confidence in the study corpus indicate that core semantic relations in these possible constructions are often shown and inferred using pointing signs, depicting signs, gestures and enactments, i.e. these strategies are habitual alternatives to encoding and organizing meaning ‘linguistically’ using the conventionalized lexical signs of a SL. These gestural elements are recurrent in all parts of the clause-level composite utterances differentiated during this analysis. In addition to explicitly encoding meaning using
+
+Downloaded by [Fondren Library, Rice University ] at 13:42 11 November 2014
+
+Points, Depictions, Gestures and Enactment 287
+traditionally ‘linguistic’ aspects of morphosyntax, Auslan signers embrace and exploit all aspects of face-to-face communication, including enactment and the pragmatics inherent in all contextualized language. They do this in order to skilfully negotiate meaning with their interactants. These findings provide further empirical support to claims that grammar and gesture are tightly integrated in Auslan and arguably all SLs (Ferrara 2012; Ferrara & Johnston 2014).
+References
+Armstrong DF, WC Stokoe & S Wilcox 1995 Gesture and the Nature of Language Cambridge: Cambridge University Press.
+Biber D 2010 ‘Corpus-based and corpus-driven analyses of language variation and use’ in B Heine & H Narrog (eds) The Oxford Handbook of Linguistic Analysis Oxford: Oxford University Press. pp. 159–192.
+Bolinger D 1983 ‘Intonation and gesture’ American Speech 58: 156–174. doi:10.2307/455326 Boyes Braem P 1999 ‘Rhythmic temporal patterns in the signing of deaf early and late learners of
+Swiss German Sign Language’ Language and Speech 42(2–3): 177–208. Brentari D & L Crossley 2002 ‘Prosody on the hands and face: evidence from American Sign
+Language’ Sign Language and Linguistics 5(2): 105–130. Bybee JL 2003 ‘Cognitive processes in grammaticalization’ in M Tomasello (ed.) The New
+Psychology of Language: cognitive and functional approaches to language structure Mahweh, NJ: Lawrence Erlbaum Associates. Bybee JL & PJ Hopper (eds) 2001 Frequency and the Emergence of Linguistic Structure Amsterdam: John Benjamins. Casey SK 2003 ‘Relationships between gestures and signed languages: indicating participants in actions’ in A Baker, B van den Bogaerde & O Crasborn (eds) Cross-Linguistic Perspectives in Sign Language Research Selected papers from TISLR 2000 Hamburg: Signum Verlag. pp. 95–118. Chafe W 1994 Discourse Consciousness and Time: the flow and displacement of conscious experience in speaking and writing Chicago: University of Chicago Press. Clark H & R Gerrig 1990 ‘Quotations as demonstrations’ Language 66: 764–805. doi:10.2307/ 414729 Cogill-Koez D 2000 ‘Signed language classifier predicates: linguistic structures or schematic visual representation?’ Sign Language and Linguistics 3(2): 153–207. doi:10.1075/sll.3.2.03cog Consten M & A Loll 2012 ‘Circularity effects in corpus studies – why annotations sometimes go round in circles’ Language Sciences 34: 702–714. doi:10.1016/j.langsci.2012.04.010 Cormier KA & S Smith 2011 ‘Defining and annotating constructed action constructed dialogue and role shift’ presented at the 33rd Annual Meeting of the German Linguistic Society Workshop on Sign Language Discourse, University of Gottingen, Germany, 23–25 February. Crasborn O & H Sloetjes 2008 ‘Enhanced ELAN functionality for sign language corpora’ in O Crasborn, T Hanke, E Efthimiou, I Zwitserlood & E Thoutenhoofd (eds) Proceedings of the 3rd Workshop on the Representation and Processing of Sign Languages: Construction and Exploitation of Sign Language Corpora Paris: ELDA. pp. 39–43. Croft W 1995 ‘Intonation units and grammatical structure’ Linguistics 33: 839–882. doi:10.1515/ ling.1995.33.5.839 Croft W 2001 Radical Construction Grammar: syntactic theory in typological perspective Oxford: Oxford University Press. Croft W 2007 ‘Intonation units and grammatical structure in Wardaman and in cross-linguistic perspective’ Australian Journal of Linguistics 27(1): 1–39. doi:10.1080/07268600601172934 Croft W & A Cruse 2004 Cognitive Linguistics Cambridge, UK: Cambridge University Press.
+
+Downloaded by [Fondren Library, Rice University ] at 13:42 11 November 2014
+
+288 G. Hodge and T. Johnston
+de Beuzeville L 2006 Visual and linguistic representation in the acquisition of depicting verbs: a study of native signing deaf children of Auslan (Australian Sign Language), Unpublished doctoral dissertation, University of Newcastle, New South Wales.
+de Beuzeville L, T Johnston & A Schembri 2009 ‘The use of space with indicating verbs in Auslan: a corpus-based investigation’ Sign Language and Linguistics 12(1): 53–82.
+Diessel H 2007 ‘Frequency effects in language acquisition language use and diachronic change’ New Ideas in Psychology 25: 108–127. doi:10.1016/j.newideapsych.2007.02.002
+Dingemanse M 2011 The meaning and use of ideophones in Siwu PhD dissertation, Radboud University Nijmegen, Nijmegen.
+Dingemanse M 2012 ‘Advances in the cross-linguistic study of ideophones’ Language and Linguistics Compass 6: 654–672. doi:10.1002/lnc3.361
+Du Bois JW 1987 ‘The discourse basis of ergativity’ Language 63: 805–855. doi:10.2307/415719 Du Bois JW 2003 ‘Discourse and grammar’ in M Tomasello (ed.) The New Psychology of Language
+Vol. 2 Mahwah, NJ: Lawrence Erlbaum Associates. pp. 47–88. Emmorey K 2003 Perspectives on Classifier Constructions in Sign Languages Mahwah, NJ: Erlbaum. Enfield N 2009 The Anatomy of Meaning: speech gesture and composite utterances Cambridge:
+Cambridge University Press. Fauconnier G & M Turner 2002 The Way We Think: conceptual blending and the mind’s hidden
+complexities New York: Basic Books. Fenlon J, T Denmark, R Campbell & B Woll 2007 ‘Seeing sentence boundaries’ Sign Language and
+Linguistics, 10(2): 177–200. Ferrara L 2012 The grammar of depiction: Exploring gesture and language in Australian Sign
+Language Auslan Unpublished PhD dissertation, Macquarie University, Sydney. Ferrara L & T Johnston 2014 ‘Elaborating who’s what: a study of constructed action and clause
+structure in Auslan Australian sign language’ Australian Journal of Linguistics 34(2): 193–215. Givón T 2005 Context as Other Minds: the pragmatics of sociality cognition and communication Amsterdam/Philadelphia: John Benjamins. Givón T 2009 The Genesis of Syntactic Complexity: diachrony ontogeny neuro-cognition evolution Amsterdam/Philadelphia: John Benjamins. Green JA 2014 Drawn from the Ground: sound, sign and inscription in Central Australian sand stories Cambridge: Cambridge University Press Green JA & D Wilkins 2014 ‘With or without speech: Arandic sign language from Central Australia’ Australian Journal of Linguistics 34(2): 234–261. Gries ST 2008 ‘Dispersions and adjusted frequencies in corpora’ International Journal of Corpus Linguistics 13(4): 403–437. doi:10.1075/ijcl.13.4.02gri Gries ST 2010a ‘Useful statistics for corpus linguistics’ in A Sánchez & M Almela (eds) A Mosaic of Corpus Linguistics: selected approaches Frankfurt am Main: Peter Lang. pp. 269–291. Gries ST 2010b ‘Dispersions and adjusted frequencies in corpora: further explorations’ in S Th Gries, S Wulff & M Davies (eds) Corpus Linguistic Applications: current studies new directions Amsterdam: Rodopi. pp. 197–212. Halliday MAK 1994 An Introduction to Functional Grammar 2nd edition London: Edward Arnold. Hanke T & S Prillwitz 1995 ‘SyncWriter: integrating video into the transcription and analysis of sign language’ In H Bos, F Schermer & M Gertrude (eds) Sign Language Research 1994: Proceedings of the Fourth European Congress on Sign Language Research, Munich, September 1–3 (International Studies on Sign Language and Communication of the Deaf; 29) Hamburg: Signum Verlag. Haspelmath M 2007 ‘Pre-established categories don’t exist: consequences for language description and typology’ Linguistic Typology 11: 119–132. doi:10.1515/LINGTY.2007.011 Haspelmath M 2008 ‘Frequency vs iconicity in explaining grammatical asymmetries’ Cognitive Linguistics 19: 1–33. doi:10.1515/COG.2008.001
+
+Downloaded by [Fondren Library, Rice University ] at 13:42 11 November 2014
+
+Points, Depictions, Gestures and Enactment 289
+Haspelmath M 2010 ‘Framework-free grammatical theory’ in B Heine & H Narrog (eds) The Oxford Handbook of Grammatical Analysis Oxford: Oxford University Press. pp. 341–365.
+Hodge G 2014 Patterns from a signed language corpus: clause-like units in Auslan (Australian sign language) Unpublished PhD dissertation, Macquarie University, Sydney.
+Janzen T 1995 The polygrammaticalization of Finish in ASL MA thesis, University of Manitoba, Winnipeg.
+Janzen T 2012 ‘Lexicalization and grammaticalization’ in R Pfau, M Steinbach & B Woll (eds) Sign Languages Berlin: Mouton de Gruyter. pp. 816–841.
+Janzen T & B Schaffer 2002 ‘Gesture as the substrate in the process of ASL grammaticalization’ in RP Meier, KA Cormier & D Quinto-Pozos (eds) Modality and Structure in Signed and Spoken Languages Cambridge: Cambridge University Press. pp. 199–224.
+Johnston T 1996 ‘Function and medium in the forms of linguistic expression found in a sign language’ in WH Edmonson & R Wilbur (eds) International Review of Sign Linguistics Vol. 1 Mahwah, NJ: Lawrence Erlbaum. pp. 57–94.
+Johnston T 2010 ‘From archive to corpus: transcription and annotation in the creation of signed language corpora’ International Journal of Corpus Linguistics 15(1): 106–131. doi:10.1075/ ijcl.15.1.05joh
+Johnston T 2012 ‘Lexical frequency in signed languages’ Journal of Deaf Studies and Deaf Education 17(2): 163–193. doi:10.1093/deafed/enr036
+Johnston T 2013a Auslan Corpus Annotation Guidelines [February version] Macquarie University, Sydney. Available at: http://wwwauslanorgau/about/annotations/
+Johnston T 2013b ‘Formational and functional characteristics of pointing signs in a corpus of Auslan (Australian sign language): are the data sufficient to posit a grammatical class of’pronouns’ in Auslan?’ Corpus Linguistics and Linguistic Theory 9: 109–159.
+Johnston T, D Cresdee & A Schembri 2011 ‘Synchronic contextual variation and grammaticalization in a signed language: the case of two finish-related signs’ presented at the 11th International Cognitive Linguistics Conference 11–17 July, Xi’an International Studies University, China.
+Johnston T & L Ferrara 2012 ‘Lexicalization in signed languages – when is an idiom not an idiom?’ in C Hart (ed.) Selected Papers from UK-CLA Meetings (Vol. 1. pp. 229–248) UK: United Kingdom Cognitive Linguistics Association. Available at: http://www.uk-cla.org.uk/proceedings/volume_1/21-17
+Johnston T & A Schembri 2010 ‘Variation lexicalization and grammaticalization in signed languages’ Langage et Société 131: 19–35.
+Kendon A 1988 Sign Languages of Aboriginal Australia: cultural semiotic and communicative perspectives Cambridge: Cambridge University Press.
+Kendon A 2004 Gesture: visible action as utterance Cambridge: Cambridge University Press. Kita S (ed.) 2003 Pointing: where language, culture, and cognition meet Mahwah, NJ: Erlbaum. Kockelman P 2005 ‘The semiotic stance’ Semiotica 157(1/4): 233–304. Langacker RW 2008 Cognitive Grammar: a basic introduction Oxford: Oxford University Press. LaPolla RJ 2006 ‘On grammatical relations as constraints on referent identification’ in T Tsunoda &
+T Kageyama (eds) Voice and Grammatical Relations: Festschrift for Masayoshi Shibatani Amsterdam & Philadelphia: John Benjamins. pp. 139–151. Lehmann C 1988 ‘Towards a typology of clause linkage’ in J Haiman & SA Thompson (eds) Clause Combining in Grammar and Discourse Amsterdam/Philadelphia: John Benjamins. pp. 181–226. Liddell SK 2003 Grammar gesture and meaning in American Sign Language New York: Cambridge University Press. Liddell SK & M Metzger 1998 ‘Gesture in sign language discourse’ Journal of Pragmatics 30: 657– 697. doi:10.1016/S0378-2166(98)00061-7
+
+Downloaded by [Fondren Library, Rice University ] at 13:42 11 November 2014
+
+290 G. Hodge and T. Johnston
+Mason P 2012 ‘Music dance and the total art work: choreomusicology in theory and practice’ Research in Dance Education 13: 5–24. doi:10.1080/14647893.2011.651116
+Matsumoto K 2000 ‘Intonation units clauses and preferred argument structure in conversational Japanese’ Language Sciences 22: 63–86. doi:10.1016/S0388-0001(99)00004-2
+McKee D & G Kennedy 1998 ‘Sisters or cousins? A lexical comparison of Australian and New Zealand Sign Languages’ in A Schembri, J Napier, R Beattie & G Leigh (eds) Selected Papers from the Australian Deaf Studies Research Symposium, 22–23 August 1998 Renwick College Sydney: North Rocks Press. pp. 67–77.
+McKee D & G Kennedy 2006 ‘The distribution of signs in New Zealand Sign Language’ Sign Language Studies 6: 372–390. doi:10.1353/sls.2006.0027
+Metzger M 1995 ‘Constructed dialogue and constructed action in American Sign Language’ in C Lucas (ed.) Sociolinguistics in Deaf Communities Washington, DC: Gallaudet University Press. pp. 255–271.
+Meyer D, A Zeileis & K Hornik 2003 ‘Visualizing independence using extended association plots’ in K Hornik, F Leisch & A Zeileis (eds) Proceedings of the 3rd International Workshop on Distributed Statistical Computing Vienna, Austria: Distributed Statistical Computing. Available at: http://www.ci.tuwien.ac.at/Conferences/DSC-2003/Proceedings/
+Morford J & J MacFarlane 2003 ‘Frequency characteristics of American Sign Language’ Sign Language Studies 3: 213–225. doi:10.1353/sls.2003.0003
+Mulrooney KJ 2009 Extraordinary from the Ordinary: personal experience narratives in American Sign Language Washington, DC: Gallaudet University Press.
+Naveda L & M Leman 2010 ‘The spatiotemporal representation of dance and music gestures using Topographical Gesture Analysis TGA’ Music Perception 28(1): 93–111. doi:10.1525/mp.2010. 28.1.93
+Nespor M & W Sandler 1999 ‘Prosody in Israeli sign language’ Language and Speech 42(2–3): 143– 176. doi:10.1177/00238309990420020201
+Okrent A 2002 ‘A modality-free notion of gesture and how it can help us with the morpheme vs gesture questions in sign language linguistics or at least give us some criteria to work with’ in RP Meier, KA Cormier & D Quinto-Pozos (eds) Modality and Structure in Signed and Spoken Languages New York: Cambridge University Press. pp. 175–198.
+Park J 2002 ‘Cognitive and interactional motivations for the intonation unit’ Studies in Language 26 (3): 637–680. doi:10.1075/sl.26.3.07par
+Payne TE 1997 Describing Morphosyntax: a guide for field linguists Cambridge: Cambridge University Press.
+Pfau R & M Steinbach 2011 ‘Grammaticalization in sign languages’ in H Narrog & B Heine (eds) The Oxford Handbook of Grammaticalization Oxford: Oxford University Press. pp. 683–695.
+R Development Core Team 2012 R: a language and environment for statistical computing ISBN 3-900051-07-0 Vienna, Austria: R Foundation for Statistical Computing Available at: http:// wwwR-projectorg.
+Sandler W 1999 ‘Prosody in two natural language modalities’ Language and Speech 42(2/3): 127– 142. doi:10.1177/00238309990420020101
+Schembri A 2003 ‘Rethinking ‘classifiers’ in signed languages’ in K Emmorey (ed.) Perspectives on Classifier Constructions in Sign Languages Mahwah, NJ: Erlbaum. pp. 3–34.
+Schembri A, C Jones & D Burnham 2005 ‘Comparing action gestures and classifier verbs of motion: evidence from Australian Sign Language, Taiwan Sign Language and nonsigners’ gestures without speech’ Journal of Deaf Studies and Deaf Education 10(3): 272–290. doi:10.1093/ deafed/eni029
+Schutz M 2008 ‘Seeing music? What musicians need to know about vision’ Empirical Musicology Review 3(3): 83–108.
+Streeck J 2008 ‘Depicting by gesture’ Gesture 8(3): 285–301. doi:10.1075/gest.8.3.02str
+
+Points, Depictions, Gestures and Enactment 291
+Sze F 2008 ‘Blinks and intonational phrasing in Hong Kong Sign Language’ in J Quer (ed.) Signs of the Time: selected papers from TISLR 2004 Hamburg: Signum. pp. 83–107.
+Tannen D 1989 Talking voices: repetition dialogue and imagery in conversational discourse Cambridge: Cambridge University Press.
+Thompson SA & PJ Hopper 2001 ‘Transitivity clause structure and argument structure: evidence from conversation’ in JL Bybee & PJ Hopper (eds) Frequency and the Emergence of Linguistic Structure Amsterdam/Philadelphia: John Benjamins. pp. 27–60.
+Tomasello M 2003 Constructing a Language: a usage-based theory of language acquisition Cambridge, MA: Harvard University Press.
+Van Valin RD & RJ LaPolla 1997 Syntax: structure meaning and function Cambridge: Cambridge University Press.
+Wilcox S 2004 ‘Cognitive iconicity: conceptual spaces, meaning, and gesture in signed languages’ Cognitive Linguistics 15(2): 119–147.
+Winston E 1991 ‘Spatial referencing and cohesion in American Sign Language text’ Sign Language Studies 73: 397–410. doi:10.1353/sls.1991.0003
+Winston E 1992 ‘Space and involvement in an American Sign Language lecture’ in J Plant-Moeller (ed.) Expanding Horizons: twelfth national convention of the Registry of Interpreters for the Deaf Silver Spring, MD: Registry of Interpreters for the Deaf. pp. 93–105.
+
+Downloaded by [Fondren Library, Rice University ] at 13:42 11 November 2014
+
