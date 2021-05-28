@@ -2,21 +2,21 @@
 	"translatorID": "54c3bec7-c1bc-4ffa-b103-53759845b6c4",
 	"translatorType": 4,
 	"label": "Heise",
-	"creator": "optiprime",
+	"creator": "optiprime, ApoB-100",
 	"target": "^https?://www\\.heise\\.de/(suche|select)/",
 	"minVersion": "3.0",
 	"maxVersion": null,
 	"priority": 100,
 	"inRepository": true,
 	"browserSupport": "gcsv",
-	"lastUpdated": "2021-05-25 00:00:00"
+	"lastUpdated": "2021-05-28 00:25:00"
 }
 
 /*
 	***** BEGIN LICENSE BLOCK *****
 
 	Heise Translator
-	Copyright © 2021 optiprime
+	Copyright © 2021 optiprime, ApoB-100
 
 	This file is part of Zotero.
 
@@ -119,6 +119,12 @@ function scrape(doc) {
 			}
 		}
 		item.shortTitle = data.headline;
+		item.attachments = [{
+			url: data.mainEntityOfPage,
+			title: 'Snapshot',
+			mimeType: 'text/html',
+			snapshot: true
+		}];
 		item.creators = [];
 		if (data.author.name) {
 			item.creators.push(ZU.cleanAuthor(data.author.name, 'author'));
@@ -173,7 +179,13 @@ var testCases = [
 				"publicationTitle": "c't",
 				"url": "https://www.heise.de/select/ct/2021/7/2031014484690149069",
 				"volume": 2021,
-				"attachments": [],
+				"attachments": [
+					{
+						"title": "Snapshot",
+						"mimeType": "text/html",
+						"snapshot": true
+					}
+				],
 				"tags": [
 					{
 						"tag": "Impressum"
