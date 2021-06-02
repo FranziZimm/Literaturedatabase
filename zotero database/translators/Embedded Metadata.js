@@ -9,7 +9,7 @@
 	"priority": 320,
 	"inRepository": true,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2021-03-10 04:50:00"
+	"lastUpdated": "2021-06-01 15:05:00"
 }
 
 /*
@@ -790,6 +790,17 @@ function getAuthorFromByline(doc, newItem) {
 	}
 
 	if (actualByline) {
+		// are any of these actual likely to appear in the real world?
+		// well, no, but things happen:
+		//   https://github.com/zotero/translators/issues/2001
+		let irrelevantTags = 'time, button, textarea, script';
+		if (actualByline.querySelector(irrelevantTags)) {
+			actualByline = actualByline.cloneNode(true);
+			for (let child of actualByline.querySelectorAll(irrelevantTags)) {
+				child.parentNode.removeChild(child);
+			}
+		}
+		
 		byline = ZU.trimInternal(actualByline.textContent);
 		Z.debug("Extracting author(s) from byline: " + byline);
 		var li = actualByline.getElementsByTagName('li');
