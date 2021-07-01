@@ -1,0 +1,639 @@
+Metonymy between pragmatics, reference, and diachrony
+Peter Koch, Tübingen (peter.koch@uni-tuebingen.de)
+Abstract
+Starting from the premise that metonymy can be unitarily defined as a frame-based figure/ground effect with respect to an invariant linguistic form, this article considers the pragmatic and referential features of the great variety of types of metonymies. We have to distinguish the following stages of metonymic semantic change in diachrony: 〈I〉 ad hoc metonymies relying on (universal) speech rules, 〈II〉 conventional metonymies relying on (historical) discourse rules, and 〈III〉 metonymic polysemies relying on (historical) language rules. As for the ad hoc stage 〈I〉, a detailed pragmatic analysis reveals a great divide between speaker-induced and hearer-induced metonymies. Further pragmatic and referential parameters yield a subclassification of speaker-induced metonymies into referent-oriented (Engl. The ham sandwich has asked for the bill) and concept-oriented (Engl. boor ‘peasant’ → ‘awkward person’). Concept-oriented metonymies may involve disjunct classes of referents (It. bustarella ‘little envelope’ → ‘bribe’ = referent-sensitive) or overlapping classes of referents (Engl. boor = non-referent-sensitive). On the other hand, concept-orientation may be pragmatically ‘soft’ (e.g. Fr. garage ‘garage’ → ‘service station’) or pragmatically ‘intense’ (euphemisms as It. bustarella and other types of expressive metonymies). The cognitively rather simple frame-based figure/ground effect underlying metonymy, it is claimed, lends itself to this particularly wide range of pragmatic and referential uses, distinguishing metonymy from all other tropes and explaining its omnipresence and high frequency. Ausgehend von der Prämisse, dass Metonymie einheitlich als frame-basierter Figur/Grund-Effekt bezüglich einer invarianten sprachlichen Form definiert werden kann, beschäftigt sich der vorliegende Artikel mit den pragmatischen und referentiellen Merkmalen der großen Vielfalt von Typen von Metonymie. Folgende Etappen des metonymischen semantischen Wandels in der Diachronie sind zu unterscheiden: 〈I〉 ad hoc-Metonymien im Rahmen von (universalen) Sprechregeln, 〈II〉 konventionelle Metonymien im Rahmen von (historischen) Diskursregeln, 〈III〉 metonymische Polysemien im Rahmen von (historischen) Sprachregeln. Auf der ad hocStufe 〈I〉 wird bei genauerer pragmatischer Analyse eine grundlegende Scheidung von sprecherinduzierten und hörerinduzierten Metonymien sichtbar. Weitere pragmatische und referentielle Parameter ergeben eine Subklassifizierung der sprecher-induzierten Metonymien in referentenorientierte (engl. The ham sandwich has asked for the bill) und konzeptorientierte (engl. boor ‘Bauer’ → ‘ungehobelter Kerl’). Bei konzeptorientierten Metonymien können disjunkte Referentenklassen (it. bustarella ‘kleiner Umschlag’ → ‘Schmiergeld’ = referentensensitiv) oder überlappende Referentenklassen (engl. boor = nicht-referentensensitiv) im Spiel sein. Andererseits kann Konzeptorientierung pragmatisch ‘sanft’ sein (z.B. fr. garage ‘Garage’ → ‘Autoreparaturwerkstatt’) oder pragmatisch ‘intensiv’ (Euphemismen wie it. bustarella und andere Typen expressiver Metonymien). Der kognitiv relativ schlichte frame-basierte Figure/Grund-Effekt, der der Metonymie zugrunde liegt, – so die These – ist genau zugeschnitten auf dieses besonders breite Spektrum pragmatischer und referentieller Verwendungen. Dadurch unterscheidet sich die Metonymie von allen anderen Tropen, und dies erklärt auch ihre Omnipräsenz und hohe Frequenz.
+6
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+1. Premises*
+Traditionally, metonymy has been accounted for by the notion of ‘contiguity’ (cf. Roudet 1921:690; Jakobson 1956; Ullmann 1957:231-234; 1962:218-220).1 ‘Contiguity’ is to be taken here in a very broad sense, comprising not only spatial contact, but also temporal proximity, causal relations, part-whole relation, and so on. In the explanation of metonymy, cognitive semantics uses the notion of ‘contiguity’ only marginally (cf. nevertheless Croft 2002; Dirven 2002; Ungerer/Schmid 1996:115 f.; Feyaerts 1999:316-320; Radden/Kövecses 1999:19). This happens nearly always concurrently with other notions that are much more central to the cognitive approach, such as ‘domain’, ‘(idealized) cognitive model’ = ICM, ‘scene’, ‘scenario’, ‘script’ and ‘frame’ (cf. Taylor 1995:90, 125 f.; Croft 2002; Ungerer/Schmid 1996:128; Radden/Kövecses 1999:21; Ruiz de Mendoza Ibáñez 2000:113115; Panther/Thornburg 2003:3).
+These issues are promising, provided that we unify and clarify the terminology. As the terms ‘domain’ and ICM turn out to be rather ambiguous,2 I prefer using the term frame,3 which has the advantage of expressing a notion that is perfectly compatible with the notion of ‘contiguity’ (cf. Koch 1995:29; 1999:146-149; 2001:202 f.; Blank 1997:85-89; 2001:54-57; Waltereit 1998:16-19). According to phenomenological philosophy, every perception connects ‘presented’ data with ‘appresented’ data, that are not actually perceived, but integrated into perception (cf. Husserl 1973, 150 f.). It is the latter that open a “horizon” of contiguities. A frame unites and structures “encyclopedic” expectations, as far as they are based on such a horizon of contiguities connecting concepts or making up more complex concepts. The contiguity relations connect elements of a frame with each other as well as one element to the frame as a whole (cf. Koch 2001:217).
+* I express my gratitude to Sam Featherston for the stylistic revision of this paper. 1 The relevance of associative relations for language studies in general is discussed in Raible 1981. 2 Cf. Koch 1996a:234 n. 28; 1999 :152 f., and in print; Feyaerts 1999:318-320; in the last resort also: Croft/Cruse 2004:216 n. 1. 3 For the theory of ‘frames’, ‘scripts’, ‘scenes’ and ‘scenarios’, cf. Minsky 1975; Fillmore 1975; 1977; 1985; Schank/Abelson 1977; Tannen 1979; Barsalou 1992; Taylor 1995:87-92; Ungerer/Schmid 1996:205-217; Croft/Cruse 2004:7-14.
+7
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+In cognitive semantics, there is unanimity that, in contrast to the metaphorical process, the metonymic process takes place within the same frame (domain, ICM, etc., as it were). The gist of this process has been described in terms of ‘highlighting’ (cf. Croft 2002; Ungerer/Schmid 1996:128 f.), of ‘perspectivization’ (cf. Taylor 1995:90, 107 f., 125 f.), or of figure/ground effects (cf. Koch 1995:40 f.; 1996a:235 f.; 1999:151-153; 2001c:203 f., 214218; Blank 1997:243; 2001:79 f.). For instance, the shift from (1a) to (1b) is a metonymic one:
+(1) a. Fr. vitesse ‘speed’ b. Fr. vitesse ‘gear’
+
+Indeed, this semantic change is due to a figure/ground effect within a frame, say MOTOR CAR. At the outset, the concept SPEED is the figure with respect to Fr. vitesse. GEAR is not simply speed, but a ratio of transmission of forces that stands in a systematic experiential relation to SPEED. So, GEAR is a contiguous concept within the same frame and, hence, one possible ground. In (1b), GEAR has been highlighted as the figure, and SPEED has become the ground:
+
+Fr. vitesse
+
+SPEED
+
+GEAR
+
+initial sense
+
+figure
+
+ground
+
+new perspectivization
+
+ground
+
+figure
+
+Table 1: Example of a metonymic figure/ground effect
+
+Metonymy, then, is a frame-based figure/ground effect with respect to an invariant linguistic form.4 This can be regarded as the common core behind the undeniably great variety of formal, cognitive, referential, and pragmatic realizations of metonymy (cf. Koch 2001).
+In the present article, we are mainly interested in the internal pragmatic diversity of metonymy. Inevitably, diachronic examples like (1)/Table 1 are ex post descriptions of ongoing linguistic processes. The conceptual frame underlying a given metonymy certainly enables us to demonstrate just its metonymic, rather than metaphorical, taxonomic etc., nature, but it does not help us to explain why and how the metonymic change was triggered. It is
+
+4 Note that the ‘invariance’ of form is a legitimate and necessary idealization here, because sound change does not interfere with the metonymic process as such (cf. Koch 2001:205).
+8
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+indispensable at this point to distinguish two steps of language change in general: the individual act of innovation and the collective process of adoption and diffusion (cf. Coseriu 1958:44-46, 78-80).
+Since metonymy obviously constitutes one of the creative linguistic devices that call into being ad hoc innovations (inducing only incidentally diachronic processes), one crucial question suggests itself: how do metonymies come about? When speakers innovate, they do not at all want to change their language (even if, ultimately they may contribute to a change), but they want to communicate in a convenient or efficient manner about the entities they are referring to (cf. Keller 1994 in general; concerning more specifically semantic change: Keller/Kirschbaum 2003: 7-14). So, we have to look, above all, at the pragmatic parameters that may trigger ad hoc metonymies. We will see that metonymies vary considerably with respect to pragmatic, but also to referential parameters.
+2. Relevance and tropes
+When dealing with pragmatic parameters determining ad hoc metonymies and – in general – rhetorical tropes, we necessarily come across the difference between things said and things meant. Differently from the Gricean (1975) paradigm, which introduces ‘implicatures’ capable of overriding apparent violations of one of the different conversational maxims in communication, the relevance theory framework according to Sperber/Wilson (1995) replaces the various conversational maxims by one overall principle of relevance whose application does not presuppose the violation of any pragmatic maxim and which applies at any moment in any type of communication. Thus, the principle of relevance governs not only implicatures, but also what Sperber/Wilson call ‘explicatures’ (1995:182), i.e. assumptions that are developments of the logical form of a given utterance. Whereas the recovery of the explicature of a given utterance comprises sub-tasks as disambiguation, reference assignment, and enrichment, understanding of tropes, including metonymy, means producing implicatures (1995:183-193, 224 ff.). In the case of tropes the principle of relevance does not only start to work if a given utterance is non-literal, but it is the omnipresent principle of relevance that helps to determine, whether and to what extent an utterance i s literal (1995:230-237).
+In recent years, this delimitation between explicatures and implicatures has been called in question, especially with respect to tropes. In particular, metaphorical and metonymic
+9
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+interpretations have been integrated into the domain of explicatures. From a more pragmatic point of view, it seems impossible to define the specific – implicative – status of tropes (except through cognitive-associationist categories that are, however, held to be unable to account for ad hoc tropes), and consequently these tropes are deduced from very general principles of inferencing in explicature elaboration (cf. Papafragou 1996; Song 1998; cf. also Carston 2000). From a more cognitive point of view, tropes such as metonymy constitute only different kinds of ‘enrichment’ and therefore fall into the domain of explicature. But since the underlying principle of relevance as such does not specify the particular path that leads the hearer to his/her interpretation, it is considered indispensable to identify and to distinguish different cognitive operations – corresponding among others to tropes – that are activated in explicature derivation (cf. Ruiz de Mendoza Ibáñez/Pérez Hernández 2003:23-30; Panther/Thornburg 2003:8 f.).
+These displacements of the explicature-implicature-boundary inevitably bring us back to the question of literalness. Note that originally “Sperber and Wilson [...] interpret the lack of literalness of metaphor and other ‘tropes’ as a matter of producing implicatures” (Ruiz de Mendoza Ibáñez/Pérez Hernández 2003:25), and I think they were right to do so. As we will see in the next section, on the one hand, we should not dismiss the connection between tropes and non-literalness, but on the other hand, there is no one-to-one correspondence from metonymy either to explicature or to implicature.
+3. Literalness and rules
+The category of ‘literalness’ is intimately linked to the phenomenon of ‘rules’. But this does not imply that non-literalness constitutes simply a transgression of rules.
+Communication represents a rule-based activity that implies the application of linguistic – and non-linguistic – rules of different ranges. When explaining language data, we have to distinguish the following levels of abstraction and domains that, with the exception of (D), define different types of rules (cf. Coseriu 1981:269-273; Schlieben-Lange 1990; Koch 1997a:43-54):
+(SA) the universal level of speech activity. We can denominate the corresponding type of rules as speech rules (comprising, besides universal linguistic rules, also universal semiotic, social, pragmatic, cognitive, and other types of rules). The entity discribed on this level is human language in general. The community of individuals concerned is 10
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+humanity as a whole. A very fundamental principle sustaining this level is the principle of relevance. Among the rules just mentioned it is mainly cognitive rules (especially those concerning figure/ground effects) that will be of interest in the following. (HL) the historical level in the form of a particular historical language. We can denominate the corresponding type of rules as language rules. The entities discribed on this level are different languages such as English, French, German, Arabic, Chinese, etc. (and their dialects and other varieties). The communities of individuals concerned are speech communities. (DT) the historical level in the form of a discourse tradition. We can denominate the corresponding type of rules as discourse rules (comprising, besides linguistic rules, also literary, rhetorical, cultural, religious, and other types of rules). The entities described on this level are different genres and stylistic traditions such as the gothic novel, the editorial, the e-mail, the lecture, the small talk, the genus humile, the mannerism, etc. The communities of individuals concerned are cultural communities that are not necessarily – and in fact often are not – coextensive with speech communities. (D) the individual and actual level in the form of a discourse. Since “[i]t is not possible that there should have been only one occasion on which someone obeyed a rule” (Wittgenstein 1994:§ 199), there exist no rules at all on this level. The entities described are single discourses (texts) realized by individual persons.
+With respect to Germ. Eckkneipe (‘corner pub’), an utterance like (2a) at level (D) can be interpreted, first, on the basis of language rules (level HL: lexical rules) and, second, on the basis of principles and rules of level SA (principle of relevance, general speech rules of reference, etc.).
+(2) a. Germ. Wir sind in der Eckkneipe. ‘We are in the corner pub.’
+The principle of relevance (SA) assigns the reference, let’s say, to a particular corner pub known to the hearer/reader (referent meant Rm) by operating directly on a lexical rule (HL) subsuming Rm under the concept CORNER PUB connected to Eckkneipe. In such a case, understanding and reference assignment (on the basis of the context) is a matter of mere explicature.
+In contrast to this, when I found, for instance, one day in my letter box a scrap of paper, containing the message (2b), written by one of my friends – this is a true story – , I was probably in presence of an ad hoc metonymy at level D.
+(2) b. Germ. Sind im Griechen. (lit.) ‘(We) are in the Greek.’
+11
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+In order to understand this utterance adequately in its context and to assign the referent meant Rm, I could not have operate the principle of relevance (level SA) directly on a lexical rule (HL) connecting Grieche to the concept GREEK. Before I could single out Rm, the principle of relevance had to make me activate a supplementary cognitive speech rule (level SA), that, via a metonymic figure/ground effect, led me from GREEK (Grieche) to the contiguous GREEK RESTAURANT, a concept under which Rm was subsumable (hence: ‘We are in the Greek restaurant’ with reference assignment to the restaurant, say, Olympia near to my home). In this case, the application of the metonymic speech rule constitutes an implicature.
+We can say that the exemples (2a and b) demonstrate the difference between ‘literal’ and ‘non-literal’. If from the point of view of relevance the cognitive material supplied by language rules of level HL (like lexical rules) is sufficient, together with the context, e.g. for reference assignment, the expression denoting Rm is literal (2a), and the interpretation of the utterance is, in this respect, mere explicature. If on the other hand the principle of relevance inevitably triggers the activation of supplementary cognitive speech rules (level SA) in reference assignment, the expression denoting Rm is non-literal (2b) and the interpretation of the utterance involves implicature with respect to the ad hoc trope.
+Since even ad hoc tropes like the metonymy shown in (2b) lean heavily on principles and speech rules of level SA, we can say that they “are simply creative exploitations of a perfectly general dimension of language use” and that they “involve no departure from a norm, no transgression of a rule, convention or maxim”, as Sperber/Wilson put it (1995:237, 242). What distinguishes ad hoc tropes from literal expressions, is the t y p e of speech rules activated in the name of relevance, i.e. cognitive rules that go beyond the explicature of the product of lexical language rules (level HL) and, therefore, involve implicature.5
+The levels of abstraction and domains corresponding to (SA)-(HL)-(DT)-(D), together with relevance theory, enable us not only to put ad hoc metonymies in their right place, but also to localize what we could call ‘lexicalized’ metonymies. Fr. garage, e.g., has, among others, the two senses ‘garage’ and ‘service station’ (3a). Since the concepts GARAGE and SERVICE STATION are linked by a contiguity in the same frame (service stations prototypically have also garages: cf. 5.1.), they are in a metonymic relation.
+5 Cf. for metaphor: Koch 1994:219 f.
+12
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+(3) a. Fr. Ma voiture est au garage. ‘My car is in the garage/at the service station.’
+b. Fr. Ma voiture est au garage. Je l’ai rentrée pour la nuit. ‘My car is in the garage. I put it away for the night.’
+c. Fr. Ma voiture est au garage. Elle a besoin d’une révision. ‘My car is at the service station. It needs an overhaul.’
+Since both senses of garage are laid down in the lexical rules (level HL) of the French language, they constitute a lexicalized metonymic polysemy. From the point of view of relevance, an utterance like (3a) can be disambiguated, for instance, on the basis of the context: if the speaker continued as in (3b), the sense ‘garage’ would be more probable, if s/he continued as in (3c), it would be rather ‘service station’. But these disambiguations are mere explicatures (cf. 2.), because the principle of relevance and all the necessary speech rules (level SA) can operate directly on the lexical rules (level HL). The metonymic figure/ground effect between GARAGE and SERVICE STATION has not to be activated as an implicature at the level of speech rules (SA), because it has already been “ratified” at the level of language rules (HL). Both senses of Fr. garage are therefore equally ‘literal’. This example demonstrates that metonymic connexions are confined neither to explicatures nor to implicatures, but that their status depends among others on the ad hoc-trope character (implicature) vs. lexicalized character (explicature) of the figure/ground effect. In a straightforward terminology, we should distinguish ad hoc metonymies like (2b) from metonymic polysemy like (3), without neglecting the figure/ground effect as their common underlying principle, albeit at different levels.
+In our model (SA)-(HL)-(DT)-(D), we can localize still another type of ‘metonymies’. Let us consider the famous ham sandwich example (4a).
+(4) a. Engl. The ham sandwich has asked for the bill. b. Fr. Le sandwich au jambon a demandé l’addition.
+At any rate, ham sandwich in the sense exemplified in (4a) is too well-known – and not only among semanticists – to be an ad hoc metonymy in discourse (level D). On the other hand, it would be absurd to claim that there is a lexical rule of the English language (level HL) assigning to ham sandwich the concept CUSTOMER WHO ORDERED A HAM SANDWICH. Note that the same type of metonymy is possible in French (4b) and in other languages. Nevertheless, this metonymy is not a semantic universal either (level SA). It is part of specific historical
+13
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+practices of restaurants and of their waitresses and waiters, independently of specific languages. So, it is a product of discourse rules typical of a particular cultural (professional) community and belongs to level DT (cf. also Waltereit 1998:14-16, 26-28; Blank 2000:22-25; 2001:112-117).
+This last kind of metonymies (and in general of tropes) is not easy to classify with respect to the dichotomies explicature vs. implicature and literal vs. non-literal. As we already noted indirectly, ham sandwich/sandwich au jambon in (4) is not ‘literal’ with respect to the lexical rules of the English/French language (level HL). But if we consequently wanted to ascribe its metonymic sense to an ‘implicature’, we should recognize that this type of discourse rulebased implicature is rather different from implicatures involved in ad hoc metonymies like (2b). In (2b), the search for relevance has to scan ultimately the very general level (SA) of cognitive speech rules to discover the figure/ground effect, whereas in (4) the search for relevance can directly access to the figure/ground effect laid down at the level of discourse rules (DT). Unfortunately, Sperber/Wilson (1995:182) reject such a thing as conventional implicatures. Metonymies – and generally tropes – at level DT would be a case in point, because they are neither derived via explicature (level HL) nor purely “conversational” (level SA).6
+Thus, we can distinguish three degrees of metonymic effects:
+〈I〉 non-literal ad hoc metonymies relying on implicatures at the universal level of (cognitive) speech rules (SA): e.g. (2b).
+〈II〉 non-literal discourse-ruled metonymies relying on conventional (or generalized) implicatures at the historical level, defined by discourse rules (DT): e.g. (4).
+〈III〉 literal (lexicalized) metonymic polysemies relying on explicatures at the historical level, defined by language rules (HL): e.g. (3).
+This framework resolves several problems touched upon by the criticisms of Sperber/Wilson’s explicature/implicature delimitation (cf. 2.). We see that metonymic effects are derived neither exclusively via explicatures nor exclusively via implicatures. By distinguishing different types of implicatures (〈I〉 vs. 〈II〉), it is perfectly possible to account for creative ad hoc metonymies by providing implicatures that operate at the very general
+6 According to Levinson (2000), we could speak of ‘generalized conversational implicatures’.
+14
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+level of speech rules (SA) and that clearly go beyond explicatures. Since these general rules include different cognitive operations, it is even possible to differentiate the various paths (metonymy, metaphor, etc.) that lead the hearer to his/her interpretation, spelling out the unspecific principle of relevance. In this sense, the guidelines of the framework 〈I〉-〈II〉-〈III〉 are applicable not only to metonymy, but also to other tropes and their lexical counterparts.7
+4. Diachronic perspectives
+The graduation 〈I〉-〈II〉-〈III〉 is surely of theoretical interest, but it also opens important diachronic perspectives. Every process of language change necessarily begins with an ad hoc innovation. Strictly speaking, however, the change is accomplished only when the innovation has been habitualized, i.e. adopted by other speakers and diffused in a given speech community.8 These conditions hold also for lexical change, including semantic change induced by an ad hoc trope. From this perspective, the graduation 〈I〉-〈II〉-〈III〉 can be read as an itinerary of semantic change and thus also of metonymic semantic change.9 The first step 〈I〉 is a metonymic ad hoc innovation as in (2b). In the majority of cases, innovations of this kind never go beyond the individual discourse (level D) where they have been invented and thus remain completely ephemeral. On the contrary, if the innovation is more successful, it undergoes habitualization by adoption and diffusion. A typical domain of habitualization are discourse traditions (level DT). This is illustrated very well by the ham sandwich examples in (4). As we saw, this discourse metonymy (type 〈II〉) is based on discourse rules confined to waitresses and waiters communicating with each other during their work in a restaurant. Its derivation in the name of relevance refers the hearer to this specific discourse tradition. Discourse metonymies are supported by historical rules that perish with the corresponding discourse traditions. A good example are certain polite forms of address and self-naming. In the Roman Empire expressions denoting a quality of the addressee grew into address terms,
+7 For metaphors cf. Koch 1994:203-207; for tropes in general: Lausberg 1973:§§ 553, 561, 577. 8 As for the distinction between ‘innovation’ and ‘adoption/diffusion’, cf. Coseriu 1958:78-80. 9 Cf. for metaphorical change Koch 1994:203-209, 215-220; for semantic change in general: Blank 1997:114130.
+15
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+e.g. (5a, b), and expressions denoting a quality of the speaker began to develop as forms of self-naming (5c, d).10
+(5) a. Lat. vestra serenitas ‘your serenity’ b. Lat. vestra sapientia ‘your wisdom’ c. Lat. mea devotio ‘my devoutness’ d. Lat. mea insufficientia ‘my insufficiency’
+These metonymic patterns denoting the BEARER by its QUALITY were reserved for formal speech and official chancery writing. They spread from Latin into Greek – with an apotheose in Byzantium – and into all languages of the Occident and were flourishing through the whole Middle Ages (with a particular diversification in the rhetoric of ars dictaminis) and fairly into Modern Times (cf. Svennung 1958:68-87). But with the fading of the relevant discourse traditions the variety of nouns that could be used in this metonymic way diminuished considerably and the surviving expressions petrified increasingly. Nowadays, we find only a few vestiges in some languages.11
+Nevertheless, lexical habitualization may go further from ad hoc innovations 〈I〉 through discourse rules 〈II〉 to polysemy 〈III〉. This means that the innovation concerned is first successful in a particular discourse tradition and cultural community and then spreads to the whole speech community. This is what seems to have happened to Lat. testimonium ‘testimony’. It is easily conceivable that in the context of a trial someone understood12 an utterance like (6a) in the sense of (6b), switching, via a figure/ground effect within the same frame, from the (VERBAL) ACTIVITY to the SPEAKER/AGENT (cf. DHLF:s.v. témoin; Blank 1997:246, 252, 384, 521):
+(6) a. Lat. Audeamus testimonium proximum! ‘Let’s listen to the next testimony.’
+10 These forms could easily be explained in the framework of politeness theory as conceived by Brown/Levinson 1987, even if they are not explicitly mentioned there. 11 The formula Engl. Your Majesty (← Lat. vestra maiestas) and the like in other languages remained only in monarchies as an isolated, very restricted form of address. In German, the self-naming form meine Wenigkeit ‘my humble self’ (← Lat. mea parvitas) survived as an opaque, humorous relic. The totally opaque address term Sp. usted ‘(polite) you’ underwent grammaticalization and a considerable generalization of use in relation to its etymological base Vuestra Merced ‘your mercy’, recalquing Lat. vestra gratia. 12 This is a hearer-induced metonymy: see below section 6.
+16
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+b. Lat. Audeamus testimonium proximum! ‘Let’s listen to the next person giving testimony.’
+c. AncFr. tesmoing ‘testimony; person giving testimony’ d. ModFr. témoin ‘person giving testimony’ e. Engl. witness ‘testimony; person giving testimony’
+The usage of testimonium, in the sense (6b), let alone the corresponding ad hoc innovation, is not attested in Latin, but it must have been initiated in a courtroom 〈I〉. The first diffusion of the usage (6b) must have been based on juridical discourse traditions 〈II〉. It is interesting to note that something similar – and within the same discourse tradition – must have happened to Engl. witness, which is originally an abstract deverbal noun meaning ‘testimony’ (6e). In Ancient French, tesmoing, the successor of testimonium, displays a metonymic polysemy TESTIMONY–PERSON GIVING TESTIMONY. The sense ‘person giving testimony’ is henceforth lexicalized in the form of language rules 〈III〉. Engl. witness, too, is still polysemous today. The example (6d) illustrates the possible continuation of such a lexical story. In Modern French, témoin, the successor of tesmoing, has lost the sense ‘testimony’ (expressed nowadays by témoignage). For modern speakers, there is no more metonymic effect. Needless to say that in this case the literal sense ‘person giving testimony’ is a matter of explicature at the level of language rules 〈III〉. Even if, from the point of view of of modern synchrony, the metonymic process that once took place is of mere “archeological” interest, it is worth-while to consider such examples, because they tell us that we are right to interpolate, if need be, the polysemous step 〈III〉 in a metonymic development. The result of an accomplished semantic change is always polysemy (cf. Bréal 1921:143 f.; Koch 1991:283; 1994:203-209; Wilkins 1996:267-270; Blank 1997:121-123, 406-424; 2001:103-108; 2003). Wilkins represents the genesis of lexical polysemy out of semantic change and its subsequent reduction as in Figure 1. This applies to semantic change in general, hence also to metonymic semantic change.
+17
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+Figure 1: Cycle of genesis and disappearance of lexical polysemy in semantic change (simplified after Wilkins 1996:269 f.)
+As far as metonymy is concerned, M1 is the pre-polysemy stage, and M1 = M2 is the stage of metonymic polysemy 〈III〉, as illustrated by (3) and by (6c). M2 would be the post-polysemy stage, as exemplified in (6d), which has run through the whole cycle of Figure 1. Let us interpret, then, M1 (M2) as the stage of ad hoc metonymy 〈I〉, illustrated by (2b) and M1 > M2 as the stage of discourse metonymy 〈II〉, as illustrated by the intermediate step postulated for (6). But discourse metonymies do not h a v e to pass over to polysemy at the level of language rules 〈III〉. As example (5) shows, the habitualization process may come to stop at the level of discourse rules (M1 > M2), even for a long time, and then directly become extinct. In certain cases, as especially (4), it is rather improbable that they will ever arrive at the level of language rules (for the explanation of this fact, see below 5.2.2.). But M1 > M2 may also be interpreted in a different way, because it is not necessary that metonymic ad hoc innovations 〈I〉 go to 〈III〉 via 〈II〉. In other cases, the habitualization process first diffuses the innovation in one variety of a given language and only afterwards ends up in general diffusion in that language (cf. Blank 1997:121-124, 128). In Classical Latin, for instance, the verb sperare signified ‘to hope’ (7a). In the spoken variety we usually call Vulgar Latin, an additional metonymic sense ‘to wait’ (7b) must have been added and lexicalized (at least on the Iberian Peninsula). With the replacement of Latin by Iberoromance languages in all domains of communication, the new sense spread into every linguistic variety. Thus, in Spanish, Portuguese and Catalan, we observe a generalized metonymic polysemy ‘to hope; to wait’ (III = 7c).
+18
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+(7) a. ClassLat. sperare ‘to hope’ b. Iberian VulgLat. sperare ‘to hope; to wait’ c. Sp./Port./Cat. esperar ‘to hope; to wait’
+To sum up, the 〈I〉-〈II〉-〈III〉 framework enables us to trace different itineraries that lead from ad hoc metonymy 〈I〉 to lexicalized metonymic polysemy 〈III〉. Habitualization of metonymies, like lexical habitualization in general, is always a gradual process that comprises intermediate stages like adoption in a particular discourse tradition 〈II〉 or in a particular variety of a language, and it is a process that can stop at any of the intermediate stages. The cardinal point of metonymic change doubtlessly is ad hoc metonymy, which is presupposed by any of the further stages of habitualization: somewhere at some moment, someone must have taken the first step. So this initial point 〈I〉 is crucial for our understanding of the pragmatic parameters guiding metonymy, because, as we have seen in section 3., at their further stages metonymies are much more governed by historical discourse or language rules 〈DT/HL〉 than by general pragmatic speech rules (SA). In most cases, the first step has not been documented (example (2b) – insofar as it may be ad hoc – represents a rare exception). But fortunately, even habitualized metonymies retain “fingerprints” of their ad hoc creation, at least in many respects. So in the following it will be both acceptable and fruitful to base our pragmatic systematics of ad hoc metonymies largely on material of discourse metonymies and metonymic polysemies and to trace them back to their initial point 〈I〉.
+5. A pragmatic systematics of speaker-induced ad hoc metonymies
+In the discussion of pragmatic and relevance-theoretic aspects of metonymy interpretation, it is usually taken for granted that it is the speaker who “creates” the metonymy, and the hearer who has to derive the implicatures or explicatures. We will see in section 6. that this is an undue simplification, but as speaker-induced metonymies display a maximum of internal variation and supposedly constitute the majority of cases, we will concentrate for the moment on their pragmatic typology (see the general overview in Table 3).
+19
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+5.1. Metonymy and reference
+Even though metonymy is essentially a conceptual problem (concerning figure/ground effects within frames: section 1.), it clearly interacts with referential problems (cf. Nunberg 1995; Waltereit 1998:10-13, 26). Before discussing this in detail, we have to define four central notions:
+• A concept (C) is a virtual intensional entity, containing salient aspects of our encyclopedic knowledge.13
+• A signifier (S) is a linguistic form, capable of expressing a concept. • A referent (R) is a concrete extensional entity denoted by a signifier that we use in
+discourse (level D in section 3.). • A class of referents (cR) is a virtual extensional entity made up of a number of referents
+and subsumable under a concept C.
+In discourse (D), we use a signifier S to denote one referent R or several referents R by subsuming them under a concept C that intensionally characterizes a specific class of referents cR comprising R.
+Although the definitions of rhetorical tropes themselves are essentially conceptual, every trope has repercussions on the relations between the classes of referents involved. In the case of metaphor, the referent class corresponding to the (basic) source concept (Cs) and the referent class corresponding to the (metaphorical) target concept (Ct) are always disjunct, as shown by the following example:
+(8) a. Engl. mouse ‘animal of the smaller species of the genus Mus’ (Cs) b. Engl. mouse ‘small hand-held device for entering a command into the computer’ (Ct)
+The relation between the class of referents for the source concept (cRs) and the class of referents for the target concept (cRt) can be represented as in Figure 2 for metaphor in
+13 The ‘concept’ has not to be confused with the signified, which is the intralinguistic “extract” of a concept, as functionally defined within the system of a particular language and endowed by a signifier in that language. Everything that is expressed in any of the world’s languages, is a concept, but the conceptual knowledge largely exceeds what is has been “ratified” in signifieds within particular language systems (cf. Raible 1983:5; Koch 1996a:223-231; 1996b:113-123; 2003a:85-91; Blank 1997:89-102; 2001:7-10). The intralinguistic level of the ‘signified’, which is unfortunately neglected in the mainstream of cognitive linguistics, is of undeniable importance in semantic analysis, but it cannot account for metonymies, since these depend entirely on our encyclopedic knowledge (cf. Koch 1996a:226-237; 1999:144 f.; Blank 1997:235-241). So, we will not include the ‘signifier’ in our present discussion.
+20
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+general. There is a relation (r), viz. metaphorical similarity, between Cs and Ct (mapping between domains/frames/taxonomies: cf. Lakoff/Johnson 1980; Croft 2002; Croft/Cruse 2004:194-204; Koch 1994:213; in print; Blank 1997:169), but since this does not imply – and rather excludes – any taxonomic relation between Cs and Ct, there is no extensional overlap at all between the corresponding classes of referents cRs and cRt.
+Figure 2: Disjunction of classes of referents (cR) for metaphors and referent-sensitive metonymies
+Note that at the outset, i.e. at the level of discourse 〈I〉, the similarity relation (r) between Cs and Ct in many cases only holds for a prototypical subset c*Rs, and/or for a prototypical subset c*Rt (cf. Koch 1995:39 f.; Geeraerts 1997:75). During the habitualization process (at level 〈II〉 and especially 〈III〉), this restriction to prototypical subsets often gets lost, so that, in the end, the metaphor holds for the total classes of referents cRs and cRt. Thus, with respect to (8b), even a computer mouse that does not resemble any longer the small animal (a device which may already exist or be invented one day) will continue to be called mouse. In the case of tropes involving taxonomic sub- and superordination,14 the picture is quite different:
+14 Unfortunately, in classical rhetoric the term synecdoche mingles up taxonomic sub- and superordination on the one hand and part-whole relations on the other, although the latter are to be regarded as a case of metonymy (cf. Lausberg 1973:§§ 572-577). So, in recent cognitive semantics, some authors explicitly confine the term ‘synecdoche’ to taxonomic sub- and superordination (cf. Nerlich/Clarke 1999; Seto 1999). However, since the part-whole relation seems to have been the most constant component in characterizations of ‘synecdoche’ (cf. Meyer 1993/95:I, 74 f.), I will avoid the term ‘synecdoche’ altogether and speak only of ‘specialization/generalization’.
+21
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+(9) a. Fr. homme ‘humain being’ (C1) b. Fr. homme ‘male humain being’ (C2)
+(10) a. Sp. tener ‘to have’ (C1) b. Sp. tener ‘to hold’ (C2)
+(9b) is a case of specialization with respect to (9a); (10a) is a case of generalization with respect to (10b). In both cases, there is a relation (r) of taxonomic sub-/superordination between C1 and C2, and this necessarily implies that one of the corresponding classes of referents (cR2 corresponding to (9b) and (10b)) is extensionally included15 in the other one (cR1):16
+Figure 3: Inclusion of classes of referents (cR) for taxonomic sub-/superordination This is a case of reference asymmetry, because subsuming a referent R under the subordinated concept C2 entails subsuming R under the superordinated concept C1 too, but not vice versa. Now what about metonymy? Many metonymies can be described in terms of Figure 2. The relation (r) between Cs and Ct – a relation of contiguity in this case (cf. section 1.) – does not imply, and indeed, often does not produce any extensional overlap between the corresponding classes of referents cRs and cRt. Thus, the classes of referents corresponding to the concepts GREEK and GREEK RESTAURANT (2b) are totally disjunct. The same holds for SPEED and GEAR
+15 The subordinated concept C2 corresponding to the included class cR2 may or may not constitute a prototypical instance of the superordinated concept C1 (cf. Koch 1995:33; in print). 16 In this case, the indexes for C and cR are neutral with respect to ‘source’ and ‘target’, because the asymmetry between the subordinated and the superordinated concept is independent of the source or target nature of the respective concepts. Thanks to our diachronic information, we know that in the case of (9), e.g., the superordinated concept (9a) was the source and the subordinated concept (9b) the target; in the case of (10), it is the other way round (cf. also n. 17).
+22
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+(1), GARAGE and SERVICE STATION (3), HAM SANDWICH and CUSTOMER WHO ORDERED A HAM SANDWICH (4), and so on for (5) and (6). As we incidentally saw, metonymies, too, may involve prototypicality aspects (cf. Koch 1995:40 f.; 1999:149-151; Geeraerts 1997:68-75). We observed, for example, that service stations only prototypically have also garages (3). Nevertheless, the habitualized metonymy (3c) allows for calling Fr. garage even a service station that might not have a garage. So, Figure 2 applies to this kind of metonymy in all its details: At the outset the contiguity relation (r) between Cs and Ct in many cases only holds for a prototypical subset c*Rs, and/or for a prototypical subset c*Rt. During the habitualization process these restrictions to prototypical subsets often get lost so that, in the end, the metonymy holds for the total classes of referents cRs and cRt. This is what Dik (1977) calls ‘inductive generalization’. Those metonymies which function according to the model of Figure 2, involve a shift of reference. A given referent R, subsumable under the concept Cs, cannot be at any rate the referent meant with respect to the concept Ct, and vice versa, because the classes of referents cRs and cRt are disjunct. We can call these metonymies referent-sensitive. We said that a contiguity relation between Cs and Ct does not imply (and often does not produce) any extensional overlap between cRs and cRt. However, it does not e x c l u d e such an overlap either. In fact, there exists a type of metonymy where, at the outset, the contiguity of concepts Cs and Ct strictly presupposes a prototypical situation where both concepts can at the same time be applied to the intersection class (c*Rs/t) of the classes of referents cRs and cRt (see Figure 4). Examples (11) and (12) are cases in point:17
+(11) a. Engl. child ‘descendant’ (Cs) b. Engl. child ‘very young person’ (Ct)
+(12) a. MEngl. boor ‘peasant’ (Cs) b. ModEngl. boor ‘coarse or awkward person’ (Ct)
+As for (11), we have to start from the prototypical situation where the concepts DESCENDANT and VERY YOUNG PERSON represent different conceptual aspects that we can assign, according to our frame knowledge, at the same time to one and the same referent R (and to other such
+23
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+referents, forming the class c*Rs/t). In fact, when we speak of children in terms of DESCENDANTs, the VERY YOUNG PERSON aspect is quite salient. In cases where it is less salient, we come across dialogues like the following (note that B’s answer is yes!):
+(13) A: Do you have children? B: Yes, but they are already grown-up.
+Your DESCENDANT is not necessarily a VERY YOUNG PERSON, and vice versa, a VERY YOUNG PERSON is not necessarily regarded as someone’s DESCENDANT. Similarly, a PEASANT is not necessarily a COARSE/AWKWARD PERSON, nor vice versa (12). But PEASANTs once were thought to be particularly COARSE/AKWARD. Thus, PEASANT and COARSE/AWKWARD PERSON are different conceptual aspects whose contiguity in members of c*Rs/t constitutes a sort of stereotype. So, in cases like (11) and (12), the two classes of referents cRs and cRt are not disjunct (Figure 4), and since the figure/ground effect is perceptible only in the intersection area c*Rs/t, we can denominate these metonymies non-referent-sensitive (cf. Koch 2001:223 f., 236 n. 28). As can be gathered from the opposition between Figures 3 and 4, metonymic non-referentsensitivity (with cR overlapping) is quite different from taxonomic reference asymmetry (with cR inclusion).
+Figure 4: Overlapping of classes of referents (cR) for non-referent-sensitive metonymies
+17 The notions of ‘source’ and ‘target’ are relevant here only for ad hoc innovations and diachronic processes, whereas in synchronic polysemy (as in (11)) the source or target nature of the two senses is often undecidable (cf. also n. 16).
+24
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+Note that these metonymies are ‘non-referent-sensitive’, strictly speaking, only at the ad hoc stage 〈I〉, because the overlapping area c*Rs/t is crucial for “inventing” them on the base of a figure/ground effect. But this does not preserve them from further inductive generalization. Just like referent-sensitive metonymies (see above), they lose their restriction to a prototypical subset during the habitualization process towards degree 〈II〉 and especially 〈III〉. Thus, Engl. child (11) can denote referents belonging to cRs, but also – within its metonymic polysemy – any referent belonging to cRt (and not only to c*Rs/t), i.e. any VERY YOUNG PERSON. Engl. boor (12), having lost the ancient sense corresponding to Cs, nowadays denotes any referent belonging to cRt, i.e. any COARSE/AWKWARD PERSON.
+5.2. Speaker-induced metonymies: reference-oriented vs. concept-oriented If we want to maintain the link between implicature/non-literalness and ad hoc metonymy postulated by Sperber/Wilson (see above section 3.), we have to determine what kinds of implicatures the principle of relevance governs for different types of metonymies. A criterion that separates two fundamentally different types of metonymies is the interplay between the conceptual effect (figure/ground) and reference assignment. At the ad hoc stage 〈I〉, there is a great divide between two types of speaker-induced metonymies (cf. Koch 2001:219-221, 229; see the general overview in Table 3):
+• metonymies whose primary task is to create an expedient solution for reference assignment (referent-oriented metonymies). Examples of this type are: (2b) Germ. im Griechen; (4) Engl. the ham sandwich etc.; (5) Lat. vestra serenitas etc.
+• metonymies which, although involving referential problems as well, bring into being a new conceptualization that could theoretically be integrated into the lexicon of a given language (concept-oriented metonymies). Examples of this type are: (1) Fr. vitesse; (3) Fr. garage; (7) Lat. sperare etc.; (11) Engl. child; (12) Engl. boor.
+These two types of metonymies can be differentiated by several criteria (5.2.1.-5.2.4.).
+5.2.1. Shift of referent vs. conceptual access In the case of referent-orientation, it is the whole phrase, as a referring expression, that is metonymic and not the lexical entity that is part of the phrase. We are here on the level of discourse semantics. This is particularly forcing in the case of (5) Lat. vestra serenitas, where
+25
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+vestra is indispensable to trigger the shift of reference via a metonymic figure/ground effect QUALITY–BEARER. But in the examples (4) as well, it is not ham sandwich/sandwich au jambon as such that undergoes metonymy, but the whole referring phrase (including the determiner) whose reference shifts via a metonymic figure/ground effect DISH–COSTUMER. Referent-oriented metonymies involve not only a shift of classes of referents cR (which holds for all referent-sensitive metonymies), but also a shift from one referent Rp, presupposed as relevant in the given speech situation and expressible by the referring phrase, to the referent meant Rm actually expressed by the referring phrase:
+Figure 5: Reference assignment through shift of referent in referent-oriented metonymies
+Thus, the metonymic ad hoc use of the ham sandwich (4) presupposes the relevance of a referent Rp (the real ham sandwich ordered by the customer) that could be denoted by the literal use of this referring phrase (which does not mean that it actually has to be denoted in the preceding text). Likewise, the metonymic ad hoc use of vestra serenitas etc. (5) presupposes the relevance of a referent Rp (quality of serenity present in the addressee) that could be denoted by the literal use of this referring phrase, and so on. We find a most impressive symptom of referent-orientation in French utterances expressing identification, like (14), where the referent R is denoted not only by the metonymic referring phrase le porc, but also by a simple deictic element as the pronoun vous (cf. Koch 2001:220):
+(14) Waiter: (Fr.) C’est vous, le porc? (lit.) ‘It’s you, the pork?’
+The deictic element that is by definition empty of (specific) conceptual content shows that reference assignment through shift of referent is the primary task of this utterance and that the conceptual effect contained in le porc is only a means of achieving this.
+26
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+In the case of concept-orientation, it is the metonymy of the lexical entity involved that is at stake from the outset. We are here on the level of lexical semantics. Thus, the ad hoc creation of the metonymic sense of Fr. garage (3c) brings into being a possible new lexical-conceptual solution to express the concept SERVICE STATION (that may be – and, indeed, has been in this case – lexicalized: cf. 5.2.2.). In contrast to Figure 5, we can represent this as follows (the area c*Rs/t will be commented in 5.2.4.):
+Figure 6: Conceptual access in concept-oriented metonymies Although there is a shift of classes of referents cR, the metonymic ad hoc use of Fr. garage (3c) does not presuppose, in the given speech situation, anything about the relevance of a referent Rp that could be denoted by the literal use of this referring phrase. Instead, the metonymic use of Fr. garage is centred around the conceptual access to the referent meant Rm, and likewise for Fr. vitesse (1) (as for non-referent-sensitive metonymies, see below 5.2.4.).
+5.2.2. Habitualization In 5.2.1., we have considered differences between referent-orientation and concept-orientation only for ad hoc metonymies. But there are differences in habitualization as well. Surely, referent-oriented metonymies may undergo habitualization. For Germ. im Griechen (2b) this does not seem to have happened, but as already discussed in 3. and 4., the types Engl. the ham sandwich (4) and Lat. vestra serenitas (5) have been habitualized only in the form of discourse rules 〈II〉. In fact, they remain(ed) a phenomenon of the discourse semantics of particular discourse traditions (DT). As long as they are in use, they rely on conventional/generalized implicatures (cf. section 3., 〈II〉). It would be inconceivable,
+27
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+however, to lexicalize, on level 〈III〉, for Engl. ham sandwich (without determiner!) the new target sense ‘customer who ordered a ham sandwich’. And as for the type Lat. vestra serenitas, its discourse-traditional decay has already been delineated in section 3. (including n. 11). Needless to say, even concept-oriented metonymies do not h a v e to be habitualized. They can remain ephemeral ad hoc phenomena, as, to my knowledge, the metonymic-causative use of Germ. verstummen in (15b).
+(15) a. Germ. verstummen ‘to grow silent’ (Cs) b. Germ. Die Leistung der Mannschaft verstummt ihre Kritiker (cf. Koch 2001:210). ‘The team’s performance silences its critics.’ (Ct)
+But in a sense, concept-oriented metonymies are predisposed to habitualization. Just as for referent-oriented metonymies, this process can be blocked at the stage of discourse rules 〈II〉. For instance, the medical use of Engl. negative in the sense of Ct in (16b) – and the opposite for positive – can be explained as a metonymy with respect to the source concept Cs (since experimental tests and conclusions about the patient’s health belong to the same medical frame).
+(16) a. Engl. The test produced a negative result.
+‘The answer to the question asked in the test was negative.’ (Cs) b. Engl. The result of the medical checkup is negative.
+‘The result of the medical checkup indicates health.’ (Ct) This usage in English – and other languages – that permanently shocks patients (because, unaware of the frame adumbrated above, they consider health as something positive: cf. Gauger 2004:252) has little chance ever to get beyond the discourse tradition of medical speech. But after all, lexicalization of concept-oriented metonymies is always possible, because they bring into being a new, possibly interesting conceptualization. This is what we find in Fr. vitesse (1b), Fr. garage (3c), Lat. sperare (7b), etc. As already explained in section 3. 〈III〉, at this stage of polysemy, metonymy is a matter of explicatures defined by language rules.
+28
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+5.2.3. Parts of speech Concept-oriented metonymies occur in all major parts of speech (and even in minor parts of speech that we will not consider here): in nouns, as (1) Fr. vitesse, (3) Fr. garage, (11) Engl. child, (12) Engl. boor; in verbs, as (7) Lat. sperare, (15) Germ. verstummen; in adjectives, as (16) Engl. negative; in adverbs, as in the following case:18
+(17) a. Fr. doucement ‘softly, smoothly’ (Cs) b. Fr. doucement ‘slowly’ (Ct)
+In contrast to this, referent-oriented metonymies only appear in nouns – or more exactly: in referring noun phrases (5.2.1.), as is illustrated by the examples (2b), (4) and (5). This is not surprising, because nouns are the part of speech that by its nature admits referential individuation and directly refers to extralinguistic entities. Although I would not deny that verbs, adjectives and adverbs have extralinguistic referents as well, they are typically used predicatively so that their referential individuation – through personal, temporal and local deixis – always depends on (pro)nouns (which fill valency slots of verbs and support both adjectives and – very indirectly – also adverbs accompanying verbs or adjectives).19 That is why ‘predicative’ parts of speech, such as the verb, the adjective and the adverb, behave differently from nouns with respect to referent-sensitivity (cf. 5.2.4.).
+5.2.4. Referent-sensitivity Referent-oriented metonymies, like (2b) Germ. im Griechen, (4) Engl. the ham sandwich, and (5) Lat. vestra serenitas, are always necessarily referent-sensitive. This means that referentorientation is a special case of referent-sensitivity (cf. Koch 2001:219-221; see Table 3). In fact, in the process represented in Figure 5, the referential “point” would be lacking, if Rp and Rm belonged to two non-disjunct classes of referents. The disjunct character of the two classes of referents guarantees the distinctness of Rp and Rm and thereby the discourse-semantic effect of identifying one referent (Rm) by denoting another one (Rp).
+18 Note that the metonymic sense (17b) developped only in the adverb, not in the adjectival base Fr. doux. 19 As for the fundamental asymmetry between referring (nominal) elements and predicative elements in a proposition, cf. Searle 1969:97-119.
+29
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+Concept-oriented metonymies are different (cf. Figure 6). As we can gather from section 5.1., some of our examples of concept-oriented metonymies, for instance (1b) Fr. vitesse and (3c) Fr. garage, are referent-sensitive. In contrast to this, others are non-referent-sensitive, such as (11b) Engl. child and (12b) Engl. boor. Referent-sensitivity may occur here as a by-product, but the really decisive criterion is the conceptual access to Rm, without any regard to a possible Rp. This is the case with referent-sensitive concept-oriented metonymies, like (3) Fr. garage, where Rm belongs to that part of cRt which is disjunct from cRs. But it is also the case with non-referent-sensitive ad hoc metonymies, like (11b) Engl. child and (12b) Engl. boor, where Rm belongs to that part of cRt which overlaps with cRs, i.e. to c*Rs/t. Conceptual access works as long as Rm is subsumable under Ct, independently of – and rather: fostered by – the fact that it is at the same time subsumable under Cs. But note that this holds only for the ad hoc stage (cf. 5.2.5. and Table 2).
+In contrast to referent-oriented metonymies, that are always nominal, concept-oriented metonymies apply to various parts of speech (cf. 5.2.3.). This has interesting consequences for the problem of referent-sensitivity. In the case of nouns, the classes of referents (cRs, cRt, etc. in Figure 6) constitute the direct extensional counterparts of the concepts involved (Cs and Ct). Thus, the concept Ct metonymically expressed by Fr. garage (3c) corresponds to the class cRt of all those referents that are service stations, and so on. These direct extensional counterparts are disjunct for (1) Fr. vitesse and (3) Fr. garage (corresponding to Figure 2) and overlapping for (11) Engl. child and (12) Engl. boor (corrresponding to Figure 4).
+In the case of a word belonging to a ‘predicative’ part of speech, such as verb, adjective or adverb (cf. the end of 5.2.3.), there is no need to look for its direct extensional counterpart (whatever that may be for predicative words). Instead, it would be more useful to consider the classes of referents that the concepts involved (Cs and Ct) are predicated of. These indirect extensional counterparts reflect the fact that concepts expressed by ‘predicative’ parts of speech ultimately need nominal elements for their referential individuation, as already adumbrated in 5.2.3. We should call ‘indirect referents’ (IR) the referents belonging to these indirect extensional counterparts.
+Now, the concept-oriented metonymy of a predicative word is non-referent-sensitive, if the class of indirect referents cIRs of the source concept Cs is not disjunct from the class of indirect referents cIRt of the target concept Ct. This is the case for Lat. sperare (7). Even though cIRs and cIRt are not totally coextensive here (IR can WAIT for something without
+30
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+HOPing it, and vice versa), they are nevertheless overlapping (when IR HOPEs something, IR may, with a certain probability, be WAITING for it at the same time, and vice versa): there is indeed an overlapping class of indirect referents c*IRs/t for the source concept Cs TO HOPE (7a) and the contiguous target concept Ct TO WAIT (7b). In practice, we get the same constellation as in Figure 4 (replacing just R by IR). Fr. doucement (17) is non-referent-sensitive as well: when IR does something SOFTLY, IR may, but must not at the same time be doing it SLOWLY and vice versa. So there is an overlapping class of indirect referents c*IRs/t (as for the very indirect referential individuation of adverbs, see 5.2.3.). On the other hand, (15b) Germ. verstummen and (16b) Engl. negative are referent-sensitive metonymies: If IR SILENCEs a person (15b), this never implies that IR GROWs SILENT (15a), and vice versa. So there is no overlapping between the classes of indirect referents cIRs and cIRt. Similarly, the class of indirect referents cIRs that you can predicate of NEGATIVE, i.e. the class of tests (16a), is actually disjunct from the class of indirect referents cIRt that you can predicate of INDICATING HEALTH, i.e. the classes of medical checkups (16b). Summing up, we can say that for all lexical parts of speech, concept-oriented metonymies may be either referent-sensitive or non-referent-sensitive.
+5.2.5. Explicatures and implicatures A last important point concerns explicatures and implicatures as a basis for reference assignment (see below Table 2). It follows from section 3. that ad hoc metonymies 〈I〉, be they referent-oriented or concept-oriented, be they referent-sensitive or not, are always based on implicatures, because the principle of relevance has to activate a supplementary speech rule (at level SA) in order to guarantee conceptual understanding and hence correct reference assignment. Once a non-referent-sensitive metonymy, like (7) Lat. sperare, (11) Engl. child, (12) Engl. boor, or Fr. doucement (17), is habitualized, it loses its restriction to the prototypical subset c*Rs/t (Figures 4 and 6) and may, by inductive generalization, behave like a referent-sensitive metonymy, as already noted in 5.1. So habitualized concept-oriented metonymies are always referent-sensitive, and in general, every habitualized metonymy, be it referent-oriented or concept-oriented, is referent-sensitive.
+31
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+
+ad hoc implicatures
+
+metonymies
+
+referent-oriented referent-sensitive
+
+concept-oriented
+non-referentsensitive
+
+types (2b), (4), (5), ad hoc 〈I〉
+
+types (1), (3) (15), types (7), (11), (12),
+
+(16), ad hoc 〈I〉
+
+(17), ad hoc 〈I〉
+
+conventional/ generalized implicatures
+
+types (4), (5), habitualized 〈II〉
+
+type (16), habitualized 〈II〉
+
+explicatures
+
+types (1), (3), (7), (11), (12), (17), further habitualized → lexicalized 〈III〉
+
+Table 2: Implicatures and explicatures in referent-oriented and concept-oriented metonymies
+
+As shown in 5.2.2., habitualization of referent-oriented metonymies, like (4) Engl. the ham sandwich etc. and (5) Lat. vestra serenitas, reaches the stage of discourse rules 〈II〉 at most. In these cases then, reference assignment depends on conventional/generalized implicatures inherent in discourse traditions (DT). The same holds, as it were, for the concept-oriented metonymy (16) Engl. negative.
+
+As equally shown in 5.2.2., only concept-oriented metonymies may be habitualized further and lexicalized 〈III〉, reaching the level of language rules (HL). It follows from section 3. that, once they are lexicalized, reference assignment no longer depends on implicatures, but on explicatures of (one of) the literal meaning(s) of the words involved, a mere procedure of disambiguation. This holds for examples (1) Fr. vitesse, (3) Fr. garage, (7) Lat. sperare, (11) Engl. child, (12) Engl. boor, and (17) Fr. doucement. The fact that for (12) Engl. boor reference assignment depends on explicatures as well, is even less surprising, because the – originally metonymic – meaning has survived as the only literal meaning (cf. 5.1.).
+
+Apart from reference assignment, further implicatures may occur in speaker-induced metonymies as long as they are not lexicalized (i.e. confined to explicatures). Typically, referent-oriented metonymies trigger further, not totally “innocent” implicatures whose pragmatic scope is the whole utterance or even the entire text. Thus, metonymies of the type (4) Engl. ham sandwich are intended to create professional connivance ad hoc and surely
+32
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+continue to confirm it at the level of discourse rules 〈II〉, when they are habitualized. Metonymies of the type (5) vestra serenitas etc., when they were created ad hoc, did not focus the referent for itself (addressee or speaker, to be specific), but they were intended to provoke implicatures that promote the communication as a whole, underpin persuasion, etc., and once they are habitualized, they serve to signal good verbal behavior, to confirm social values etc. at the level of discourse rules (cf. Koch 1987). Concept-oriented metonymies as well may trigger implicatures beyond the needs of reference assignment and of conceptual access, but they are of a totally different kind, as we will see in 5.3.1./2.
+5.3. Subtypes of concept-oriented metonymies
+5.3.1. ‘Soft’ vs. ‘intense’ metonymies: expressivity In 5.2.1., we found out that the primary task of referent-oriented (ad hoc) metonymies is to create an expedient solution for reference assignment to the referent meant Rm, whereas concept-oriented (ad hoc) metonymies, although involving referential problems as well, focus the conceptual access to the referent meant Rm via a new conceptualization. But even within the realm of concept-oriented metonymies, there are differences with respect to conceptual access to the referent. Consider, for instance, the Italian speaker who – maybe in the form of an utterance like (18a) – put forward for the first time the innovation of casino (originally ‘brothel’) in the sense of ‘mess’, applying it, say, to the house of one of his/her friends, a morally irreproachable citizen:
+(18) a. It. Che casino! (lit.) ‘What a brothel!’ ‘What a mess!’
+b. It. casino ‘brothel’ > It. (popular) casino ‘mess’ In such a case, the intention of the speaker is not at all that the hearer simply infer the contiguity relation between the concepts Cs and Ct, in order to guarantee conceptual access to the referent meant Rm (Figures 2 and 6). The speaker consciously takes the risk of choosing a contiguous concept Cs that rather hampers conceptual access to Rm. If the hearer is willing to
+33
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+search for relevance, s/he will be encouraged to recover a maximum of mainly weak20 implicatures that go far beyond the aim of conceptual access and that at the same time bring up the pragmatically problematic quality of the referent itself (‘problematic’ in a negative, as in (18a), as well as in a positive or in whatever sense). This large-scale research for implicatures opens a pragmatic space experienced as ‘expressivity’.21 Only if the hearer appreciates this expressive “gap” will conceptual access be possible. In a sense, it is successful d e s p i t e the (possible) “proliferation” of implicatures. It has low cue-validity. Moreover, the speaker always runs the risk of losing his/her positive face, in case the hearer rejects the implicatures involved or their proliferation. If the hearer accepts them, however, the expressivity of the metonymy gives scope for enhancement of the speaker’s positive face and self-definition, for persuasion, for social role assignment, etc.22
+As for weak (and rich) implicatures, Sperber/Wilson (cf. n. 20) focus on literary tropes, especially metaphor, which certainly are of a great interest in this context. But our example (18a) is not at all literary. In fact, we must additionally account for the role of tropes in what has been called ‘everyday rhetoric’ (Stempel 1983). Besides metaphor, metonymy is the most important trope open to producing ad hoc expressivity in everyday rhetoric.
+But expressive metonymies constitute only a subdivision of concept-oriented metonymies. A metonymy like (3c) Fr. garage ‘service station’ is totally devoid of expressivity, even at the ad hoc stage. Triggering strong and limited implicatures, it is meant to facilitate conceptual access and hence has high cue-validity. So we have to distinguish, within the conceptoriented class, metonymies like (3c) Fr. garage, on the one hand, that trigger strong (and limited) implicatures, and metonymies like (18a) It. casino, on the other hand, that activate rather weak (and rich) implicatures and that may be expressive (see the general overview in Table 3).23 Now, the respective pragmatic effect on the hearer is relatively intense where implicatures are ‘weak’ (since the hearer has to activate all of his/her frame knowledge), and
+20 As for the varying strength of implicatures and the role of weak implicatures, cf. Sperber/Wilson 1995:193202, 221-224, 236 f. 21 For the role of expressivity in metonymic and, in general, in semantic innovation: cf. Mair 1992; Koch/Oesterreicher 1996; Geeraerts 1997:104-106; Blank 1999:63-66, 80-82. 22 As for the notion of ‘face’, cf. Brown/Levinson 1987. 23 Cf. Koch 2001:228-230. Even if I maintain the fundamental distinctions suggested there, I would not continue to speak of “repair” of metonymies and of “flouting” the principle of relevance, which are rather reminiscences of a Gricean approach. The present account in terms of ‘soft’ and ‘intense metonymies’ seems more in line with the relevance-theoretic framework.
+34
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+it is rather soft where implicatures are ‘strong’ (since the hearer has to activate rather straightforward frame knowledge). So, I would like to call soft metonymies those that trigger strong implicatures (with a soft pragmatic effect), and intense metonymies those that activate mainly weak implicatures (with an intense pragmatic effect).
+5.3.2. Euphemistic, expressive, and dysphemistic metonymies Expressive metonymies do not constitute the only kind of ‘intense’ metonymies. As long as (19b), for instance, is an ad hoc trope, the hearer has to activate weak implicatures in order to infer the contiguous concept TO DIE, because there may be many different causes for a person’s DISAPPEARance.
+(19) a. Fr. disparaître ‘to disappear’
+b. Fr. disparaître ‘to die’ Similarly, very weak implicatures are needed to infer the contiguous concept BRIBE for (20b), because an ENVELOPE may contain a great many of different objects.
+(20) a. It. bustarella ‘little envelope’ b. It. bustarella ‘bribe’ (cf. also n. 26)
+Although relying heavily on weak implicatures, such metonymies represent, in a sense, the contrary of expressivity. They are euphemisms for taboo concepts Ct, that just try to hamper conceptual access by switching to neutral concepts Cs. So, euphemistic metonymies are characterized by scarce and weak implicatures, whereas expressive metonymies activate proliferating weak implicatures. In contrast to what happens with soft metonymies, both procedures hamper conceptual access to the referent, and both procedures are intense metonymies, producing intense pragmatic effects. The proper opposite of euphemistic metonymies are dysphemistic ones, such as the following example:
+(21) Engl. (coll.) to bite the dust ‘to fall in death, to die’ In this case as well, a taboo concept Ct is expressed. But the metonymy, instead of disguising Ct by switching to a neutral concept Cs, triggers a proliferation of weak implicatures that “explore” the frame encompassing Ct in a drastic and deliberately shameless way and, thereby, flout the taboo (but not the principle of relevance!). So, the metonymy only
+35
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony apparently hampers conceptual access, until the hearer discovers that, in fact, it facilitates them. This kind of discovery produces a particularly intense pragmatic effect. Dysphemistic metonymies constitute an extreme case of expressivity. Expressive metonymies may be dysphemistic (like (21), but they may also be rather “innocent”, as for example (22b), considered at its ad hoc stage:
+(22) a. Lat. meta ‘heap’
+b. Sard. meda ‘much’ This metonymy exploits in an expressive manner our experience that HEAPs (Cs) prototypically contain a LARGE QUANTITY (Ct) of objects (cf. Koch 1995:40 f.; 1997b:232236). Certainly, LARGE QUANTITY is one of the concepts that – universally, as it seems – have a high emotional load constantly stimulating innovations (cf. Koch/Oesterreicher 1996:80 f.), but it is not subject to any taboo. (7b) Lat. sperare and (12b) Engl. boor belong to the same category (independently of the fact that boor is non-referent-sensitive: 5.3.4.). Summing up, we can establish a continuum, going from intense euphemistic metonymies via soft metonymies to intense expressive metonymies and finally to intense dysphemistic metonymies:24
+24 For the role of euphemisms, dysphemisms, and expressivity, cf. Allan/Burridge 1991; Koch/Oesterreicher 1996; Blank 1997:394-403; 1999:80-82.
+36
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+
+type of implicatures: Cs: metonymy:
+
+Ct: conceptual pragmatic
+
+access
+
+effect:
+
+intense + euphemistic
+
+weak + scarce
+
+neutral taboo hampered
+
+intense
+
+soft
+
+strong + limited
+
+neutral neutral facilitated
+
+soft
+
+intense + expressive
+
+weak + rich
+
+neutral neutral hampered
+
+intense
+
+intense + expressive + dysphemistic
+(source)
+
+weak + rich
+
+taboo neutral hampered very intense
+
+intense + expressive + dysphemistic
+(target)
+
+weak + rich
+
+only drastic taboo apparently
+hampered
+
+most intense
+
+Figure 7: Continuum of intense and soft metonymies
+
+example:
+(19b) Fr. disparaître (20b) It. bustarella (3c) Fr. garage; also: (1b), (11b), (15b), (16b), (17b) (7b) Lat. sperare (12b) Engl. boor (22b) Sard. meda
+(18) It. casino
+(21) Engl. to bite the dust
+
+The criterion of taboo enables us to place the type (18) It. casino more accurately on the continuum. It resembles type (22b) Sard. meda in that Ct is not a taboo concept, as opposed to type (21) Engl. to bite the dust. It differs, however, from type (22b) Sard. meda in that Cs is a taboo concept (BROTHEL). So, type (18) represents a ‘source dysphemism’, because the speaker flouts the taboo at the level of the source concept Cs (with Ct being neutral), whereas type (21) represents a ‘target dysphemism’, because the speaker flouts the taboo at the level of the target concept Ct (with a drastic, but non-taboo source concept Cs). Designating a neutral concept Ct by activating a taboo concept Cs is a provocation that produces an intense pragmatic effect, but straightforwardly designating a taboo concept Ct by activating a drastic aspect Cs of its frame is a still greater provocation that produces an even more intense pragmatic effect.
+We can gather from Allan/Burridge (1991:14-20, 27 f.) that metonymy is only one of the numerous euphemistic and dysphemistic procedures and that it is more frequent in dysphemisms than in euphemisms. These two authors attribute euphemisms to face-saving and – less explicitly – dysphemisms to deliberate face-threatening (concerning ‘impositive face’, i.e. ‘negative face’ in Brown/Levinson’s (1987) sense; cf. Allan/Burridge 1991:5 f., 11,
+
+37
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+26, 238 f.), but this is not sufficient. Certainly, dysphemisms may be face-threatening to the hearer or to some third party, and euphemisms may be face-saving. However, facethreatening accounts for negative politeness in general, even without touching any taboo concept, and likewise face-saving accounts for positive politeness in general, even without touching any taboo concept (cf. 5.3.5.). So, polite/impolite lexical expressions are not necessarily euphemisms/dysphemisms. Moreover, face comes into play still in another respect that is relevant here: in expressivity in general, even without touching taboo concepts, the speaker always runs the risk of losing his/her positive face and at the same time has the chance to enhance it (cf. 5.3.1.).
+5.3.3. Habitualization
+Needless to say, all our examples of intense metonymies are meanwhile habitualized, if not lexicalized. (19b) Fr. disparaître ‘to die’ has become part of the rules of respectful discourse on death. Its euphemistic effect is still perceptible at the level of conventional/generalized implicatures 〈II〉. (18b) Ital. (pop.) casino and (21) Engl. (coll.) to bite the dust have been integrated into a polysemy at the level of language rules 〈III〉, though only in one linguistic variety. In this way, expressivity has been at least partly eroded and, as far as it goes, become a component of explicature. Things may have been somewhat analogous for (7b) sperare in Iberian Vulgar Latin, whose ad hoc origin must have been expressive (‘I intensively hope something (to come)’ → ‘I wait for something (to come)’). Afterwards, expressivity has been completely lost, even in explicature, since the “new” meaning is anchored in a perfectly normal way in the language rules concerning the polysemy of (7c) esperar in all varieties of Spanish, Portuguese, and Catalan.25 (20b) It. bustarella has been totally lexicalized and lost its euphemistic value.26 In the cases of (12b) Engl. boor and (22b) Sard. meda, the expressivity of their ad hoc origin has not only been lost, but also totally obscured, since the “new” meaning is the only one that has survived. In modern synchrony, it constitutes mere explicature of the literal sense.
+25 As for the role of varieties in semantic change, cf. Blank 1997:326-331. Detges/Waltereit (2002:176-186) underline the role of (metonymic and other) reanalyses in the – inevitable – loss of expressiveness. As for reanalysis and metonymy, see also below section 6. 26 Towards the end of the twentieth century, it has even been replaced more or less by the meanwhile legendary term tangente (cf. Blank 1997:128 f.).
+38
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+5.3.4. Referent-sensitivity
+In section 5.1. we have distinguished ‘referent-sensitive’ and ‘non-referent-sensitive’ metonymies. As explained in 5.2.5., referent-oriented metonymies are necessarily referentsensitive, whereas concept-oriented metonymies can be either referent-sensitive (e.g. (3), (15), (16)) or non-referent-sensitive (e.g. (11); cf. also Table 2). Taking now into account additionally the ‘intense’ metonymies introduced in 5.3.1./2., which are necessarily conceptoriented, we notice that there is obviously a cross-classification between ‘soft’ vs. ‘intense’ and ‘referent-sensitive’ vs. ‘non-referent-sensitive’ (see the general overview in Table 3). (7b) Lat. sperare, (12b) Engl. boor, (19b) Fr. disparaître, and (21b) Engl. to bite the dust are intense and non-referent-sensitive, because they take their ad hoc origin from the overlapping area c*Rs/t (cf. Figure 4) or c*IRs/t (in the case of the verbal expressions (7b), (19b), and (21b): cf. 5.2.4.). These three examples first differ from (11b) Engl. child and (17b) Fr. doucement, which are non-referent-sensitive as well, but represent soft metonymies. They differ, second, from the other examples of intense metonymies, which are referent-sensitive: (18) It. casino, (20b) It. bustarella, and (22b) Sard. meda. Thirdly, they are diametrically opposite to the referent-sensitive soft metonymies: (1b) Fr. vitesse, (3b) Fr. garage, (15b) Germ. verstummen, and (16b) Engl. negative.
+5.3.5. Types of ‘soft’ metonymies
+After having sub-classified ‘intense’ metonymies, let us have a look at various motivations for ad hoc ‘soft’ metonymies. They are due either to purely lexical problems or to pragmatic constraints.
+A typical lexical problem concerns imprecise conceptualizations between parts and wholes or between parts of a whole. An example of the latter type is (23b), where we observe a figure/ground effect between JAW and the adjacent body part CHEEK:
+(23) a. Lat. maxilla ‘jaw’
+b. Sp. mejilla ‘cheek’ A different motivation is the invention of a viable conceptualization for a clearly separate concept. Thus, it is very “practical” to access the causative concept TO SILENCE through the contiguity to its non-causative counterpart TO GROW SILENT (15), a pattern that has been habitualized at the level of language rules 〈III〉 for many other verbs (e.g. Germ. trocknen ‘to
+39
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+make dry; to become dry’). Likewise, it is “practical” for a doctor to use, in the medical frame, the same word, Engl. negative, for the result of the experimental test and for the subsequent (i.e. contiguous) diagnosis s/he reveals to the patient (16). Sometimes, salience effects come on top, as in (3), where the GARAGE may be the most salient part of the frame SERVICE STATION, or in (11), where the figure/ground effect between DESCENDANT and VERY YOUNG PERSON only holds for the prototypical class of referents c*Rs/t (Figures 4 and 6).
+Like any other trope, soft metonymies can fill lexical gaps. Thus, Italian originally had no real equivalent for BOY-FRIEND/GIRL-FRIEND. Instead, the traditional Italian society used a word expressing the contiguous concept FIANCÉ(E):27
+(24) a. It. fidanzato/-a ‘fiancé(e)’ b. It. fidanzato/-a ‘boy-friend/girl-friend’
+Typically, social and technical innovations involving new concepts produce lexical gaps. A case in point is (1b): in order to designate the new concept GEAR, French speakers had recourse to vitesse that designates the contiguous concept SPEED.
+The main pragmatic constraint accounting for soft metonymies is politeness in Brown/Levinson’s (1987) sense. Note that this kind of metonymy enables the speaker to save the hearer’s face, when the target concept Ct or the whole speech act is potentially facethreatening, without Ct necessarily being a taboo concept (cf. also 5.3.2.). Fr. être servi, which means ‘to be served, to be waited upon’ (25a) can be used, especially by a servant, to invite people to come and eat a prepared meal (25b):
+(25) a. Fr. servir qn. ‘to serve, to wait upon s.o.’ → être servi ‘to be served, to be waited upon’ b. Fr. Madame est servie (lit. ‘Madam is served’) ‘Come and eat, Madam!’
+Although concerning a future act that is in the interest of the hearer, an invitation of the type ‘come and eat’ constitutes a kind of a face-threatening directive speech act, especially if addressed to a mistress or a master, since it predicates a future act of the hearer and consequently puts some pressure on him/her. By expressing ‘off record’ a preparatory condition for the intended speech act (a specific object requested, i.e. the meal, exists),28 the
+27 In the meantime, (24b) has been replaced by a specialized use of the word for BOY/GIRL: il (mio, tuo etc.) ragazzo/la (mia, tua etc.) ragazza lit. ‘my, your etc. boy/my, your etc. girl’. 28 Obviously, using Madame instead of the pronoun of address vous in (25b) is a supplementary politeness strategy that we do not have to comment in detail in the present context.
+40
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+speaker confines himself – at the ad hoc stage – to a contiguity “hint” giving way to implicatures29 and thereby satisfying the speaker’s negative face (cf. Brown/Levinson 1987:65-74, 137, 211-215; as for the indirect metonymic expression of speech acts, cf. especially Thornburg/Panther 1997).
+An utterance like (26a) could be interpreted as the indirect verbalization of a criticism because of the straightforward expression Fr. lentement (the speaker thinks that the hearer is going or could go too fast). This would be, in the last resort, a speech act threatening the hearer’s positive-face want.
+(26) a. Fr. “Lentement!” (addressed to a person moving or driving a horse, a vehicle, etc.) b. Fr. “Doucement!” (addressed to a person moving or driving a horse, a vehicle, etc.); cf. (17b)
+Replacing lentement by doucement (26b), the speaker seems to transform his/her speech act into a suggestion: instead of criticizing the speed of driving, s/he particularizes technical details of the frame of locomotion (soft pace, soft handling of the horse, the vehicle, the engine, etc.) whose consequence is, nevertheless, slow motion. Suggestions still threaten the hearer’s negative-face (Brown/Levinson 1987:66), but this is far less serious than threatening his/her positive-face by a criticism.
+Just as for all the other types of metonymies, different degrees of habitualization are possible with ‘soft’ metonymies (examples (1b), (3b), (11b), (16b), and (17b) have already been classified in this respect in Table 2). (15b) Germ. verstummen, although imitating a pattern habitualized at the level of language rules 〈III〉 for many other verbs (see above), depends on (strong) implicatures at the ad hoc stage 〈I〉. (16b) Engl. negative and (25b) Fr. être servi are confined to particular discourse traditions (of doctors or servants respectively) and therefore depend on conventional/generalized implicatures 〈II〉. (3b) Fr. garage, (11b) Fr. child, (17b) doucement, and (24b) fidenzato/-a, having been integrated into metonymic polysemies at the level of language rules 〈III〉, are a matter of explicatures. For (23b) Sp. mejilla, ‘cheek’ has become mere explicature of the only literal meaning at the level of language rules 〈III〉.
+29 In contrast to Brown/Levinson (1987:213) who deduce these implicatures from a violation of the Gricean relevance maxim, we would attribute them to the general principle of relevance in Sperber/Wilson’s (1995) sense, working at the universal level of (cognitive) speech rules 〈I〉.
+41
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+6. Hearer-induced ad hoc metonymies
+6.1. ‘Speaker-induced’ vs. ‘hearer-induced’
+Pragmatics is one of the modern disciplines taking up several problems that were dealt with by rhetoric in the past. So it is quite natural to focus on pragmatic aspects of rhetorical tropes, as one of the main themes of classical rhetoric. Just in the case of the trope traditionally called ‘metonymy’, an accurate pragmatic analysis reveals, however, some limitations of the rhetorical approach. Traditional rhetoric explicitly defines itself as an ars bene dicendi, i.e. as a body of production-oriented instructions. This clearly holds also for definitions of metonymy as the following one:
+Denominatio est, quae ab rebus propinquis et finitimis trahit orationem, qua possit intellegi res, quae non suo vocabulo sit appellata (Rhetorica ad Herennium 4, 32, 43 = Anonymus 1894, 337). ‘Metonymy is a trope that takes its expression from near and close things and by which we can comprehend a thing that is not denominated by its proper word.’ Metonymy is presented here as an expression-oriented, speaker-induced rhetorical device (“trahit orationem”, “res quae non suo vocabulo sit appellata”) that has to be kept up with by the hearer (“possit intellegi”). No doubt, this model applies to many examples of metonymy considered in the preceding sections, be they referent-sensitive or not, be they referentoriented or concept-oriented, ‘soft’ or ‘intense’. In generating these speaker-induced metonymies, the first ad hoc step had to be taken by a given speaker S1 who chose a signifier S denoting a source concept Cs in order to express, via a figure/ground effect within a frame, a target concept Ct. His/her hearer H1 picked up this ad hoc innovation, and, acting as a speaker S2 in a further communicative act, s/he passed it on to a hearer H2 who, as a speaker S3 may have it circulated further, and so on (cf. Koch 2001:225-228):
+Figure 8: Speaker-induced innovation Besides this pragmatic model (applicable likewise to other semantic devices as metaphor, generalization or specialization, etc.), metonymic innovations may, however, involve a totally different type of “pragmatic punctuation”. This can be exemplified by the Ancient French
+42
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+personal verb falir, which originally means ‘to lack’ (27a) and changes to the Modern French impersonal verb falloir ‘to need, to be necessary’ (27c):
+(27) a. AncFr. Sachiez, ci ne faillent li baing Ne chose qu’a dame covaingne. (Chrétien de Troyes, Cligès, v. 5584, cit. AFW: s.v. falir, col. 1611)
+‘You know, baths are not lacking here nor anything that a lady needs.’ b. AncFr. Il ne me faut plus nule rien.
+‘I am not lacking anything anymore.’/‘I do not need anything anymore.’ c. ModFr. Il nous faut de l’argent.
+‘We need money.’
+The concepts TO LACK and TO NEED (involving at least one participant PT0: the object that is lacking/needed) correspond to different perspectivizations of the same conceptual frame FL/N, comprising the two aspects of REAL ABSENCE of PT0 and of VIRTUAL PRESENCE of PT0. In the case of TO LACK, the REAL ABSENCE of PT0 is the figure and the VIRTUAL PRESENCE of PT0 is the ground (Figure 9a and (27a): PT0 = li baing); in the case of TO NEED, the REAL ABSENCE of PT0 is the ground and the of VIRTUAL PRESENCE of PT0 is the figure (Figure 9b and (27c): PT0 = de l’argent).
+
+Figure 9a: Conceptual structure of TO LACK, corresponding to AncFr. falir in (27a)
+
+Figure 9b: Conceptual structure of TO NEED , corresponding to ModFr. falloir in (27c)
+
+The metonymic shift from one conceptual structure to the other, expressed by the same verb AncFr. falir must have come about in utterances like (27b), where the speaker S1, according to the linguistic tradition, intended to mention something (PT0 = nule rien) that he was LACKing (Cs), but the hearer H1, via a figure/ground effect within the frame FN/L, switched to understanding that the speaker NEEDed PT0, because this interpretation (Ct) too was compatible with the context and with H1’s overall pragmatic interpretation of the utterance
+43
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+(cf. Koch 2002:77-83; 2003b:159-163). This is a hearer-induced metonymy, and it is a type of what we call ‘reanalysis’. As Detges/Waltereit (2002) have shown, reanalysis of a given sound string is mainly a semantically motivated process (that may be accompanied by formal changes30). It presupposes among others a ‘principle of reference’, making the hearer H1 assume that a conventional meaning of the sound string s/he hears corresponds to what seems to be meant in the situation in which the sound string is uttered. If the (competent) hearer deviates from the actual conventional sense, his/her personal interpretation must nevertheless be cognitively linked to the conventional sense.
+Our examples (6b) and (6e) are open to a similar interpretation. With Lat. testimonium, the speaker S1, say a judge, wanted to express the concept TESTIMONY (Cs) according to the linguistic tradition (6a), but, via a figure/ground effect within the frame TRIAL, one of the hearers H1 in the audience, switched to PERSON GIVING TESTIMONY (6b), because this interpretation too was compatible with the context and with H1’s overall pragmatic interpretation of the utterance. Exactly the same reasoning applies of course to the ad hoc innovation underlying (6e) Engl. witness.
+As we have seen in detail in section 5., speaker-induced ad hoc metonymies (corresponding to Figure 8) raise – in one way or in another – the problem of implicatures. Whether the speaker S1 creates an expedient solution for reference assignment (referent-oriented metonymies) or brings into being a lexically relevant new conceptualization (concept-oriented metonymies), s/he always knows that the hearer H1 has to activate implicatures, be they strong or weak, in order to understand the metonymic expression. So, these implicatures are intended by the speaker S1. Yet, as we have seen in section 2., the relevance principle in Sperber/Wilson’s (1995) sense applies at any moment in any type of communication and does not only start to work, if a given utterance is non-literal (but rather determines its literalness). Consequently, the speaker S1 never can prevent the hearer H1 from activating implicatures unintended by S1.
+In cases like (6a/b), (6e), and (27b), the innovation is not intended at all by the speaker S1, but it is “invented” by the hearer H1 in conformity with his/her correct pragmatic understanding
+30 We need not dwell on the fact that the reanalysis of Fr. falir/falloir implies at the same time a syntactic change concerning the expression of the participant PT0 that is relabeled from ‘subject’ (27a) into ‘direct object’ (27c) via syntactic floating between subject and direct object (27b; cf. Koch 2002:89-94). According to Detges/Waltereit “semantic change is the really important phenomenon in reanalysis, and [...] rebracketing and relabeling of the constituent structure are merely dispensable side-effects” (2002:168 f.). Examples of metonymic reanalysis without syntactic change are (6b) and (6e).
+44
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+
+of S1’s utterance. Acting in turn as a speaker S2 in a further communicative act, H1 may pass his/her innovation on to a hearer H2 who, as a speaker S3 may circulate it further, and so on. This kind of hearer-induced metonymies has a “pragmatic punctuation” that differs thoroughly from Figure 8 (cf. Koch 2001:226-229):
+
+S1
+
+H1 = S2
+
+H2 = S3
+
+....
+
+Figure 10: Hearer-induced innovation
+Since the understanding of any utterance involves the knowledge of one or more conceptual frames relevant for the propositional content of the utterance and since conceptual figure/ground effects occur within frames, the most natural implicatures of an utterance are those that can be activated along contiguities within the frame(s) at stake. So, the most common hearer-induced innovations are metonymies. Indeed, Detges/Waltereit (2000:164 f.) argue that the most frequent cognitive link in reanalysis is just contiguity (cf. also Waltereit 1999).31
+
+6.2. Referent-sensitivity and reference-invariance
+In 6.1., we said that hearer-induced metonymies (as reanalyses in general) presuppose a ‘principle of reference’ enabling the hearer H1 to reanalyse one item of a given utterance without changing his/her overall pragmatic interpretation of the utterance. Obviously, an utterance like Lat. Audeamus testimonium proximum! refers to the same overall state of affairs, independently of the fact that testimonium is understood as TESTIMONY (6a) or, metonymically, as PERSON GIVING TESTIMONY (6b). However, this must not to be confused with the problem of referent-sensitivity discussed in 5.1. In fact, TESTIMONY/PERSON GIVING TESTIMONY is a referent-sensitive metonymy, which means that the referent classes of the single item testimonium, i.e. cRs in (6a) and cRt in (6b), are disjunct (according to Figure 2) and that the referents meant Rm are totally different, depending on the interpretation of the
+
+31 This does not mean that other types of hearer-induced motivation and reanalysis do not exist. Another semantic device in point seems to be specialization (cf. Gévaudan 2003). Since – in certain strong contexts – there may be no straightforward referential contradiction between a word expressing DOG and a word expressing DOG FOR CHASE (the former conceptually including the latter), MEngl. hound ‘dog’ could be reanalysed into ModEngl. hound ‘dog for chase’. Furthermore, folk etymologies typically imply lexical – often metonymic – reanalyses (cf. Detges/Waltereit 2002:160, 163; Blank 1997:303-317).
+45
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+lexical item. But this does not impinge upon the overall pragmatic interpretation and reference of the utterance at the ad hoc stage. So, hearer-induced metonymies can be referentsensitive. What about non-referent-sensitivity with hearer-induced metonymies? In this respect, hearerinduced metonymies behave a little differently from speaker-induced metonymies. (27) Fr. falir/falloir is a good example. Since it belongs to a ‘predicative’ part of speech, namely the verb, its referential characteristics follow from its indirect extensional counterparts (cf. 5.2.4.). These are as follows: if IR is LACKING, it is also NEEDED, and if IR it is NEEDED, is also LACKING. So, there is no simple overlapping (according to Figure 4) between the class of indirect referents cIRs, corresponding to the source concept Cs TO LACK (27a), and the class of indirect referents cIRt, corresponding to the target concept Ct TO NEED (27c). Consequently, cIRs and cIRt are coextensive (cf. Figure 11). This is a (very) special case of non-referentsensitivity that we may call referent-invariance.
+Figure 11: Coextensive classes of indirect referents (cIR) for referent-invariant metonymies
+Indeed, referent-invariance seems to be a typical feature of hearer-induced verbal metonymies, especially of the verbal ‘auto-conversions’ that change a given verb to its own converse (Koch 1991:296-299; 2001:214 f.; Blank 1997:269-278; Waltereit 1998:75-83; Fritz 1998:124 f.):32
+(28) a. Fr. La société immobilière a loué cet appartement à un étudiant. ‘The realty company let this apartment to a student.’
+b. Fr. L’étudiant a loué cet appartement à une société immobilière. ‘The student rented this apartment from a realty company.’
+32 Etymologically speaking, the original meaning of Fr. louer is ‘to let’ (cf. DHLF:s.v. d louer).
+46
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+This is a kind of metonymy, because it corresponds to a figure/ground effect within a conceptual frame (TO LET/TO RENT) – in fact a very special type of figure/ground effect corresponding to two opposite hierarchies of the participants, i.e. implying two different perspectives on the same cognitive “material”.33 Waltereit (1998:77-79) claims that auto-converses like (28b) come into being by a – necessarily hearer-induced – reanalysis of an utterance like (28c), where only the “pivotal” participant RENTED OBJECT is realized:
+(28) c. Fr. Appartement à louer. ‘Apartment to let/to rent.’
+This valency-reduced structure gives way to an alternative perspectivization of the frame. The reanalysis is not only compatible with the ‘principle of reference’, but implies also referentinvariance in the sense defined above. If you apply (28c) to an IR with the perspective of TO LET, you also can apply it to IR with the perspective of TO RENT, and vice versa. Consequently, cIRs and cIRt are coextensive according to Figure 11. It is interesting to note that this does not only hold for the ad hoc stage 〈I〉 of referentinvariant hearer-induced metonymies (which may be something like (28c)), but also for their lexicalized stage 〈III〉. Indeed, (28a) and (28b) are reciprocally referent-invariant: if you apply (28a) to the IR, i.e. to the three participants involved, you also can apply (28b) to the same IR, and vice versa. The only, though important, difference resides in the opposite conceptual perspectivization of the frame. Referent-sensitive hearer-induced metonymies are different. AncFr. tesmoing ‘testimony’ could never apply to the same IR as tesmoing ‘person giving testimony’, and vice versa. So, the referential characteristics of these metonymies are exactly like those of referent-sensitive speaker-induced metonymies (cf. Table 3).
+33 In contrast to this, certain contiguity-based semantic effects that are referent-invariant can be definitely excluded from the realm of metonymy: ‘facets’ in the sense of Cruse 2000:114-117 and to “active zones” in the sense of Langacker 1993:29-35 (cf. Croft 2002; Kleiber 1999:87-101; 99 f., 124, 142-146; Waltereit 1998:3133; Koch 2001:218 f., 221-223).
+47
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+
+referent-sensitive
+
+non-referent-sensitive
+
+referent-oriented
+
+speaker-
+
+soft
+
+induced
+
+conceptoriented
+
+(2b) Germ. im Griechen
+
+(4a) Engl. the ham sandwich/(4b) Fr. le sandwich au jambon
+
+(5) Lat. vestra serenitas etc.
+
+imprecise conceptual- (23b) Sp. mejilla ization
+
+viable
+
+(15b) Germ. verstummen
+
+conceptual-
+
+ization
+
+(16b) Engl. negative
+
+salience effects
+
+(3c) Fr. garage
+
+lexical gap/ new concept
+
+(1b) Fr. vitesse
+
+politeness (25b) Fr. être servi
+
+euphemism (20b) It. bustarella
+
+intense
+
+expressivity (22b) Sard. meda
+
+dysphemis m (source)
+dysphemis m (target)
+
+(18) It. casino
+
+hearer-induced (concept-oriented)
+
+(6b) Lat. testimonium (6e) Engl. witness
+
+(11b) Engl. child
+(24b) It. fidanzato (17b) Fr. doucement (19b) Fr. disparaître (7b) Lat. sperare (12b) Engl. boor
+(21) Engl. to bite the dust referent-invariant (27c) Fr. falir/falloir (28b) Fr. louer
+
+Table 3: Pragmatic and referential classification of ad hoc metonymies
+
+7. Final considerations
+As has been shown, metonymies display a great variety of pragmatic and referential features (see the general overview in Table 3).34 The only common denominator of these different manifestations is the figure/ground effect within a frame (cf. section 1.). So, it is in the first place the total reliance on the conceptual relation of contiguity that distinguishes metonymy
+34 In Table 3, squares without exemplification do not indicate that the type of metonymy in question does not exist (it is up to further research to determine this). But the grey square corresponding to ‘referent-oriented’ + ‘non-referent-sensitive’ is actually empty (cf. 5.2.4.).
+48
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+from other tropes. Nevertheless, the profile of possible pragmatic and referential types of metonymy is significant as well. In fact, the pragmatic and referential profile of other tropes seems to be much more restricted. To be sure, metaphors are never hearer-induced nor referent-oriented; they are neither nonreferent-sensitive nor referent-invariant. They may be intense or soft, but they can hardly be explained by imprecise conceptualization. Taxonomic tropes, i.e. specialization and generalization, as exemplified in (9) and (10), are never expressive or dysphemistic. They are neither referent-sensitive nor referent-invariant. Generalizations cannot be hearer-induced (specializations, however, can: see n. 31). The – rather simple – frame-based figure/ground effect that underlies metonymy seems to lend itself to a particularly wide range of pragmatic and referential uses. It is probably this extraordinary pragmatic and referential flexibility that can account for the well-known omnipresence and high frequency of metonymy in lexical innovation and in lexical change.35
+References
+AFW = Tobler, Adolf/Lommatzsch, Erhard (1925 ff.): Altfranzösisches Wörterbuch, Berlin. Allan, Keith/Burridge, Kate (1991): Euphemism and Dysphemism. Language Use as Shield
+and Weapon, New York. Anonymus (1894): Incerti auctoris. De ratione dicendi ad C. Herennium libri IV, Leipzig:
+Teubner, 1894 (reprint Hildesheim: Olms 1966). Barsalou, Lawence W. (1992): “Frames, concepts, and conceptual fields”, in: Lehrer,
+Adrienne/Kittay, Eva F. (eds.), Frames, Fields, and Contrasts. New Essays in Semantic and Lexical Organization, Hillsdale (N.J.)/London, 21-74. Blank, Andreas (1997): Prinzipien des lexikalischen Bedeutungswandels am Beispiel der romanischen Sprachen, Tübingen. Blank, Andreas (1999): “Why do new meanings occur? A cognitive typology of the motivations for lexical semantic change”, in: Blank/Koch, 60-89. Blank, Andreas (2001): Einführung in die lexikalische Semantik für Romanisten, Tübingen.
+35 Cf. Blank 1997:242-249; Waltereit 1998; Koch 1999; 2001.
+49
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+Blank, Andreas (2003): “Polysemy in the lexicon and in discourse”, in: Nerlich, Brigitte et al. (eds.), Polysemy. Flexible Patterns of Meaning in Mind and Language, Amsterdam/Philadelphia, 267-293.
+Blank, Andreas/Koch, Peter (eds.)(1999): Historical Semantics and Cognition, Berlin/New York.
+Brown, Penelope/Levinson, Stephen C. (1987): Politeness. Some Universals in Language Usage, Cambridge.
+Carston, Robyn (2000): “Explicature and semantics”, in: UCL Working Papers in Linguistics12, 1-44.
+Coseriu, Eugenio (1958): Sincronía, diacronía e historia. El problema del cambio lingüístico, Montevideo.
+Coseriu, Eugenio (1981): Lecciones de lingüística general, Madrid.
+Croft, William (2002): “The role of domains in the interpretation of metaphors and metonymies”, in: Dirven/Pörings 2002, 161-206.
+Croft, William/Cruse, D. Alan (2004): Cognitive Linguistics, Cambridge etc. Cruse, D. Alan (2000): Meaning in Language. An Introduction to Semantics and Pragmatics,
+Oxford.
+Detges, Ulrich/Waltereit, Richard (2002): “Grammaticalization vs. reanalysis: a semanticpragmatic account of functional change in grammar”, in: Zeitschrift für Sprachwissenschaft 21, S. 151-195.
+DHLF = Rey, Alain (ed.)(32000): Dictionnaire historique de la langue française, Paris.
+Dik, Simon C. (1977): “Inductive generalization in semantic change”, in: Hopper, Paul J. (ed.), Studies in Descriptive and Historical Linguistics. Festschrift for Winfried P. Lehmann, Amsterdam, 283-300.
+Dirven, René (2002): “Metonymy and metaphor. Different mental strategies of conceptualization”, in: Dirven/Pörings 2002, 75-112.
+Dirven, René/Pörings, Ralf (eds.)(2002): Metaphor and Metonymy in Comparison and Contrast, Berlin/New York.
+Feyaerts, Kurt (1999): “Metonymic hierarchies. The conceptualization of stupidity in German idiomatic expressions”, in: Panther/Radden 1999, 309-332.
+Fillmore, Charles J. (1975): “An alternative to checklist theories of meaning”, in: Proceedings of the Annual Meeting of the Berkeley Linguistics Society 1, 123-131.
+Fillmore, Charles J. (1977): “Scenes-and-frames-semantics”, in: Zampolli, Antonio (ed.), Linguistic Structures Processing, Amsterdam, 55-81.
+Fillmore, Charles J. (1985): “Frames and the semantics of understanding”, in: Quaderni di Semantica 6, 222-254.
+Fritz, Gerd (1998): Historische Semantik, Stuttgart/Weimar. Gauger, Hans-Martin (2004): Was wir sagen, wenn wir reden. Glossen zur Sprache,
+München/Wien.
+50
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+Geeraerts, Dirk (1997): Diachronic Prototype Semantics. A Contribution to Historical Lexicology, Oxford.
+Gévaudan, Paul (2003): Klassifikation lexikalischer Entwicklungen. Semantische, morphologische und stratische Filiation, PhD, University of Tübingen.
+Grice, H.P. (1975): “Logic and conversation”, in: Cole, Peter /Morgan, Jerry L. (edd.), Speech Acts, New York, 41-58.
+Husserl, Edmund (21973): Cartesianische Meditationen und Pariser Vorträge. Ed. S. Strasser, Den Haag.
+Jakobson, Roman (1956): “Two aspects of language and two types of aphasic disturbances”, in: Jakobson, Roman/Halle, Morris, Fundamentals of Language, Den Haag/Paris: Mouton 1971, 67-96.
+Keller, Rudi (21994): Sprachwandel. Von der unsichtbaren Hand in der Sprache, Tübingen.
+Keller, Rudi/Kirschbaum, Ilja (2003): Bedeutungswandel. Eine Einführung, Berlin/New York.
+Kleiber, Georges (1999): Problèmes de sémantique. La polysémie en question, Villeneuve d’Ascq.
+Koch, Peter (1987): Distanz im Dictamen. Zur Schriftlichkeit und Pragmatik mittelalterlicher Brief- und Redemodelle, Habilitation Thesis, Freiburg im Breisgau.
+Koch, Peter (1991): “Semantische Valenz, Polysemie und Bedeutungswandel bei romanischen Verben”, in: Koch, Peter/Krefeld, Thomas (eds.), Connexiones Romanicae. Dependenz und Valenz in romanischen Sprachen, Tübingen, 279-306.
+Koch, Peter (1994): “Gedanken zur Metapher – und zu ihrer Alltäglichkeit”, in: Sabban, Annette/Schmitt, Christian (edd.), Sprachlicher Alltag. Linguistik – Rhetorik – Literaturwissenschaft. Festschrift für Wolf-Dieter Stempel, Tübingen, 201-225.
+Koch, Peter (1995): “Der Beitrag der Prototypentheorie zur Historischen Semantik. Eine kritische Bestandsaufnahme”, in: Romanistisches Jahrbuch 46, 27-46.
+Koch, Peter (1996a): “La sémantique du prototype: sémasiologie ou onomasiologie?”, in: Zeitschrift für französische Sprache und Literatur 106, 223-240.
+Koch, Peter (1996b): “Le prototype entre signifié, désigné et référent”, in: Dupuy-Engelhard, Hiltrud (ed.), Questions de méthode et de délimitation en sémantique lexicale. Actes d'EUROSEM 94, Reims, 113-135.
+Koch, Peter (1997a): “Diskurstraditionen: zu ihrem sprachtheoretischen Status und ihrer Dynamik”, in: Frank, Barbara/Haye, Thomas/Tophinke, Doris (edd.), Gattungen mittelalterlicher Schriftlichkeit, Tübingen, 43-79.
+Koch, Peter (1997b): “La diacronia quale campo empirico della semantica cognitiva”, in: Carapezza, Marco/Gambarara, Daniele/Lo Piparo, Franco (eds.), Linguaggio e cognizione. Atti del XXVIII Congresso, Roma, 225-246.
+Koch, Peter (1999): “Frame and contiguity: On the cognitive bases of metonymy and certain types of word formation”, in: Panther/Radden 1999, 139-167.
+Koch, Peter (2001): “Metonymy: unity in diversity”, in: Journal of Historical Pragmatics 2, 201-244.
+51
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+Koch, Peter (2002): “Il ne me faut plus nule rien. Changement sémantique, métataxe et réanalye”, in: Syntaxe et Sémantique 4, 67-108.
+Koch, Peter (2003a): “Qu’est-ce que le cognitif?”, in: Blumenthal, Peter/Tyvaert, JeanEmmanuel (edd.), La cognition dans le temps. Etudes cognitives dans le champ historique des langues et des textes, Tübingen, 85-100.
+Koch, Peter (2003b): “From subject to object and from object to subject: (de)personalization, floating and reanalysis in presentative verbs”, in: Fiorentino, Giuliana (ed.), Romance Objects. Transitivity in Romance Languages, Berlin/New York, 153-185.
+Koch, Peter (in print): “Taxinomie et relations associatives”, in: Murguía, Adolfo (ed.), Sens et reference. Festschrift pour Georges Kleiber/Sinn und Referenz. Festgabe für Georges Kleiber, Tübingen.
+Koch, Peter/Oesterreicher, Wulf (1996): “Sprachwandel und expressive Mündlichkeit”, in: Zeitschrift für Literaturwissenschaft und Linguistik 102, 64-96.
+Langacker, Ronald W. (1993): “Reference point constructions”, in: Cognitive Linguistics 4, 138.
+Lausberg, Heinrich (21973): Handbuch der literarischen Rhetorik, München.
+Levinson, Stephen C. (2000): Presumptive Meanings. The Theory of Generalized Conversational Implicature, Cambridge (Mass.)/London.
+Mair, Walter N. (1992): Expressivität und Sprachwandel. Untersuchungen zur Rolle der Subjektivität in der Entwicklung der romanischen Sprachen, Frankfurt/Main.
+Meyer, Bernard (1993/95): Synecdoques. Etude d’une figure de rhétorique. 2 vol., Paris.
+Minsky, Marvin (1975): “A framework for representing knowledge”, in: Patrick H. Winston (ed.), The Psychology of Computer Vision, New York etc., 211-277.
+Nerlich, Brigitte/Clarke, David D. (1999): “Synecdoche as a cognitive and communicative strategy”, in: Blank/Koch 1999, 197-213.
+Nunberg, Geoffrey D. (1995): “Transfers of meaning”, in: Journal of Semantics 17, 109-132.
+Panther, Klaus-Uwe/Radden. Günter (edd.)(1999): Metonymy in Language and Thought, Amsterdam/Philadelphia.
+Panther, Klaus-Uwe/Thornburg, Linda L. (edd.)(2003a): Metonymy and Pragmatic Inferencing, Amsterdam/Philadelphia.
+Panther, Klaus-Uwe/Thornburg, Linda L. (2003b): “Introduction. On the nature of conceptual metonymy”, in: Panther/Thornburg 2003, 1-20.
+Papafragou, Anna (1996): “On metonymy”, in: Lingua 99, 169-195.
+Radden, Günter/Kövecses, Zoltán (1999): “Towards a theory of metonymy”, in: Panther/Radden 1999, 17-59.
+Raible, Wolfgang (1981): “Von der Allgegenwart des Gegensinnes (und einiger anderer Relationen). Strategien zur Einordnung semantischer Information”, in: Zeitschrift für romanische Philologie 97, 1-40.
+Raible, Wolfgang (1983): “Zur Einleitung”, in: Stimm, Helmut/Raible, Wolfgang (edd.), Zur Semantik des Französischen, Wiesbaden, 1-24.
+52
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony
+Roudet, Léonce (1921): “Sur la classification psychologique des changements sémantiques”, in: Journal de Psychologie normale et pathologique 18, 676-692.
+Ruiz de Mendoza Ibáñez, Francisco José (2000): “The role of mapping and domains in understanding metonymy”, in: Barcelona, Antonio (ed.), Metaphor and Metonymy at the Crossroads. A Cognitive Perspective, Berlin/New York, 109-132.
+Ruiz de Mendoza Ibáñez, Francisco J./Pérez Hernández, Lorena (2003): “Cognitive operations and pragmatic implication”, in: Panther/Thornburg 2003a, 23-49.
+Schank, Roger C./Abelson, Roger P. (1977): Scripts, Plans, Goals, and Understanding, Hillsdale (N.J.)/New York.
+Schlieben-Lange, Brigitte (1990): “Normen des Sprechens, der Sprache und der Texte”, in: Bahner, Werner et al. (eds.), Proceedings of the Fourteenth International Congress of Linguistics. 3 vol., Berlin, I, 114-124.
+Searle, John R. (1969): Speech Acts, Cambridge (Mass.).
+Seto, Ken-ichi (1999): “Distinguishing metonymy from synecdoche”, in: Panther/Radden 1999, 91-120.
+Song, Nam Sun (1998): “Metaphor and metonymy”, in: Carston, Robyn/Uchida, Seiji (eds.), Relevance Theory. Applications and Implications, Amsterdam/Philadelphia, 87-104.
+Sperber, Dan/Wilson, Deirdre (21995): Relevance. Communication and Cognition, Oxford/Cambridge (Mass.).
+Stempel, Wolf-Dieter (1983): “‘Ich vergesse alles’. Bemerkungen zur Hyperbolik in der Alltagsrhetorik”, in: Faust, Manfred et al. (eds.), Allgemeine Sprachwissenschaft, Sprachtypologie und Textlinguistik. Festschrift für Peter Hartmann, Tübingen, 87-98.
+Svennung, Josef (1958): Anredeformen. Vergleichende Forschungen zur indirekten Anrede in der dritten Person und zum Nominativ für den Vokativ, Uppsala/Wiesbaden.
+Tannen, Deborah (1979): “What’s in a frame”, in: Freedle, Roy O. (ed.), New Directions in Discourse Processing, Norwood (N.J.), 137-181.
+Taylor, John R. (21995): Linguistic Categorization. Prototypes in Linguistic Theory, Oxford.
+Thornburg, Linda/Panther, Klaus (1997): “Speech act metonymies”, in: Liebert, WolfAndreas/Redeker, Gisela/Waugh, Linda (edd.), Discourse and Perspective in Cognitive Linguistics, Amsterdam/Philadelphia, 205-219.
+Ullmann, Stephen (21957): The Principles of Semantics. A Linguistic Approach to Meaning, Glasgow/Oxford.
+Ullmann, Stephen (1962): Semantics. An Introduction to the Science of Meaning, Oxford.
+Ungerer, Friedrich/Schmid, Hans-Jörg (1996): An Introduction to Cognitive Linguistics, London/New York.
+Waltereit, Richard (1998): Metonymie und Grammatik. Kontiguitätsphänomene in der französischen Satzsemantik, Tübingen.
+Waltereit, Richard (1999): “Reanalyse als metonymischer Prozeß”, in: Lang, Jürgen/Neumann-Holzschuh, Ingrid (eds.)(1999), Reanalyse und Grammatikalisierung in den romanischen Sprachen, Tübingen, 19-29.
+53
+
+metaphorik.de 07/2004 – Koch, Metonymy between pragmatics, reference, and diachrony Wilkins, David P. (1996): “Natural tendencies of semantic change and the search for
+cognates”, in: Durie, Mark/Ross, Malcolm (eds.), The Comparative Method Reviewed, Oxford, 264-304. Wittgenstein, Ludwig (31994): Philosophical Investigations. Translated by G.E.M. Anscombe, Oxford.
+54
+
