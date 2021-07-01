@@ -3,13 +3,13 @@
 	"translatorType": 4,
 	"label": "Womennews",
 	"creator": "Kagami Sascha Rosylight",
-	"target": "^https?://www\\.womennews\\.co.kr",
+	"target": "^https?://www\\.womennews\\.co\\.kr",
 	"minVersion": "3.0",
 	"maxVersion": null,
 	"priority": 100,
 	"inRepository": true,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2021-06-01 16:15:00"
+	"lastUpdated": "2021-06-07 17:30:00"
 }
 
 /*

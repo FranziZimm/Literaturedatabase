@@ -1,14 +1,14 @@
 {
 	"translatorID": "b5b5808b-1c61-473d-9a02-e1f5ba7b8eef",
+	"translatorType": 1,
 	"label": "Datacite JSON",
 	"creator": "Philipp Zumstein",
 	"target": "json",
 	"minVersion": "3.0",
-	"maxVersion": "",
+	"maxVersion": null,
 	"priority": 100,
 	"inRepository": true,
-	"translatorType": 1,
-	"lastUpdated": "2020-04-20 20:15:16"
+	"lastUpdated": "2021-06-08 14:40:00"
 }
 
 /*
@@ -105,7 +105,7 @@ function doImport() {
 
 	var item = new Zotero.Item(type);
 	if (data.types.citeproc == "dataset") {
-		item.extra = "type: dataset";
+		item.extra = "Type: dataset";
 	}
 	var title = "";
 	for (let titleElement of data.titles) {
@@ -433,7 +433,7 @@ var testCases = [
 					}
 				],
 				"date": "2016",
-				"extra": "type: dataset\nDOI: 10.17171/2-3-12-1",
+				"extra": "Type: dataset\nDOI: 10.17171/2-3-12-1",
 				"publisher": "Edition Topoi",
 				"url": "http://repository.edition-topoi.org/collection/MAGN/single/0012/0",
 				"attachments": [],

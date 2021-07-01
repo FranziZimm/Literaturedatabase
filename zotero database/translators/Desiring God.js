@@ -1,15 +1,15 @@
 {
 	"translatorID": "48105411-e76d-47a7-b538-07e9a59be234",
-	"translatorType": 12,
+	"translatorType": 4,
 	"label": "Desiring God",
 	"creator": "Luke van der Hoeven",
-	"target": "^https?://(www.)?desiringgod.org/",
+	"target": "^https?://(www\\.)?desiringgod\\.org/",
 	"minVersion": "3.0",
 	"maxVersion": null,
 	"priority": 100,
 	"inRepository": true,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2021-05-26 04:55:00"
+	"lastUpdated": "2021-06-11 17:25:00"
 }
 
 /*

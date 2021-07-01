@@ -3,13 +3,13 @@
 	"translatorType": 4,
 	"label": "Bangkok Post",
 	"creator": "Matt Mayer",
-	"target": "^https://www.bangkokpost.com/[a-z0-9-]+/([a-z0-9-]+/)?[0-9]+",
+	"target": "^https://www\\.bangkokpost\\.com/[a-z0-9-]+/([a-z0-9-]+/)?[0-9]+",
 	"minVersion": "3.0",
 	"maxVersion": null,
 	"priority": 100,
 	"inRepository": true,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2020-09-11 04:20:00"
+	"lastUpdated": "2021-06-07 17:30:00"
 }
 
 /*

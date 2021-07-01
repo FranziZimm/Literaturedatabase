@@ -3,13 +3,13 @@
 	"translatorType": 4,
 	"label": "Légifrance",
 	"creator": "Guillaume Adreani",
-	"target": "^https?://(www.)?legifrance\\.gouv\\.fr/",
+	"target": "^https?://(www\\.)?legifrance\\.gouv\\.fr/",
 	"minVersion": "2.1.9",
 	"maxVersion": null,
 	"priority": 100,
 	"inRepository": true,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2020-11-01 22:55:00"
+	"lastUpdated": "2021-06-07 17:30:00"
 }
 
 /*
