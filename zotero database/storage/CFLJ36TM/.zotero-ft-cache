@@ -1,0 +1,408 @@
+Synthese (2013) 190:3397–3420 DOI 10.1007/s11229-012-0176-x
+Models as icons: modeling models in the semiotic framework of Peirce’s theory of signs
+Björn Kralemann · Claas Lattmann
+
+Received: 8 November 2011 / Accepted: 3 September 2012 / Published online: 12 September 2012 © Springer Science+Business Media B.V. 2012
+Abstract In this paper, we try to shed light on the ontological puzzle pertaining to models and to contribute to a better understanding of what models are. Our suggestion is that models should be regarded as a speciﬁc kind of signs according to the sign theory put forward by Charles S. Peirce, and, more precisely, as icons, i.e. as signs which are characterized by a similarity relation between sign (model) and object (original). We argue for this (1) by analyzing from a semiotic point of view the representational relation which is characteristic of models. We then corroborate our hypothesis (2) by discussing the conceptual differences between icons, i.e. models, and indexical and symbolic signs and (3) by putting forward a general classiﬁcation of all icons into three functional subclasses (images, diagrams, and metaphors). Subsequently, we (4) integratively reﬁne our results by resorting to two inﬂuential and, as can be shown, complementary philosophy of science approaches to models. This yields the following result: models are determined by a semiotic structure in which a subject intentionally uses an object, i.e. the model, as a sign for another object, i.e. the original, in the context of a chosen theory or language in order to attain a speciﬁc end by instituting a representational relation in which the syntactic structure of the model, i.e. its attributes and relations, represents by way of a mapping the properties of the original, which hence are regarded as similar in a relevant manner.
+
+B. Kralemann Institut für Pädagogik, Christian-Albrechts-Universität zu Kiel, Olshausenstraße 75, 24098 Kiel, Germany e-mail: kralemann@paedagogik.uni-kiel.de
+C. Lattmann (B)
+Institut für Klassische Altertumskunde, Christian-Albrechts-Universität zu Kiel, Leibnizstraße 8, 24098 Kiel, Germany e-mail: clattmann@email.uni-kiel.de
+
+123
+
+3398
+
+Synthese (2013) 190:3397–3420
+
+Keywords Models · Semantics · Modern logic · Semiotics · Icons · C.S. Peirce
+
+1 Introduction
+Humans are used to using models. Not in the least, modern science bears witness to this fact, since it heavily and essentially depends on models (cf. Giere 2004) a vast number and variety of which have been devised to promote scientiﬁc progress. But in spite of their paramount importance models had been a mere fringe phenomenon in the philosophy of science discussion for a long time: it was not until the 1980s that models as entities sui generis began to get the attention they deserve in their own right. Since then models have been becoming a matter of ever increasing interest and, by now, they play a decisive role in the philosophy of science.1
+One of the main goals has been to ﬁnd an adequate and consistent systematization of the confusingly various kinds of models: there are, to name just a few, phenomenological models, computer models, explanative models, didactic models, theoretic models, heuristic models, test models, scale models, mathematical and numerical models, analogical models, and iconic models (cf. Hartmann 2010, in general also Bailer-Jones 2009). Nonetheless, there is by now no generally accepted overall systematization and still no general theory of model which can comprehensively cope with all the diverse kinds of models.
+Both problems, though, evidently are interdependent, since the lack of a general notion of model hampers recognizing which criteria could be adequate for a consistent overall systematization. So, one can observe that categorically detached points of view are taken which interfere with each other, resulting in a vast heterogeneity of approaches: to name but a few, there is the philosophy of science perspective which focuses on the status of models within the whole system of science, i.e. on recognizing in particular the differentia speciﬁca with regard to theories and experiments; there is the epistemological perspective which focuses on the question of how models generate knowledge; there is the perspective of action theory which focuses on exploring the function of models in the context of human action; there is the perspective of semantics which poses the question of what and how models mean and represent; and there is the ontological perspective which focuses on the essential nature of models (for a general overview, see Frigg and Hartmann 2009).
+In view of this situation, we want to contribute to achieving a comprehensive and integrative perspective which could yield a conceptual framework allowing for integrating the heterogeneous approaches into one uniﬁed whole and laying open their systematic theoretical relationship. In particular, we endeavor to put forward a solution to the “ontological puzzle” pertaining to models (Frigg 2006, p. 50) by proposing to understand models as iconic signs in the framework of Charles S. Peirce’s sign theory, i.e. as signs that are characterized by having a representational quality on the basis of a similarity relation between themselves and their objects.
+1 One indication among many is that there have been two special issues of this journal on models recently, viz. vol. 169(3) in 2009 and vol. 180(1) in 2011.
+123
+
+Synthese (2013) 190:3397–3420
+
+3399
+
+Such an approach does not seem to have been put forward yet: although models have been deﬁned as “physical objects”, “ﬁctional objects”, “abstract objects”, “settheoretic structures”, “equations”, and “descriptions” (cf. Frigg and Hartmann 2006, pp. 743–744), they haven’t been deﬁned either (1) semiotically, at least not in another way than restrictively as (complex) ordinary linguistic signs; or, particularly, (2) as icons, at least not in a strict and exclusive manner.
+In our view, such a semiotic approach could not only contribute to the solution of the above-mentioned “ontological puzzle” of models, but could also allow (1) for a further systematic differentiation of (the functional aspect of) models into three main subclasses; (2) for showing that models depend on a linguistic or theoretic context and require a pragmatic-intentional context; and (3) for integrating at least two inﬂuential and wide-spread philosophy of science approaches to models by showing their consistent complementarity within the systematic semiotic framework put forward here.
+
+2 The ontological puzzle of models
+The ontological status of models—and thus their consistent systematization—is prima vista a most vexed question: “Surprisingly, no obvious answer exists to the general question of the nature of models, and thus it is quite often dismissed as unanswerable. Is a substantive model concept conceivable, one might ask, comprising at the same time such widely differing phenomena as a beautiful woman, a system of differential equations, the architectural sketch of a church, the definition of Lambda calculus, a toy car, the drawing of a mechanical duck, and an UML diagram?” (Mahr 2009, p. 368).
+Thus, it seems to be highly improbable that there could be a notion of model which is applicable to all the objects that are called models, as there is no single property that every model has to have: for itself, everything can and nothing need be a model (cf. Mahr 2009, p. 368). This evidently precludes a definitional recourse on intrinsic and context-independent properties of the objects conceived of as models.
+At the same time, nonetheless, it is exactly this very fact that suggests that which makes something a model is not to be found within the model itself, but that this rather belongs to the speciﬁc outer context into which something is placed by a pragmatic act of a subject in order to use this object as a model: the ontological question of what a model is thus becomes “a question about reasoning of a judgement on model-being” (Mahr 2009, p. 369; cf. Giere 2004, p. 747) or, put another way, about which speciﬁc relational structure it is into which an object is placed that makes this object a model (cf. Mahr 2009, p. 370).
+In this paper, we want to propose and argue that this relational structure is a semiotic iconic relation and that, accordingly, the ontological nature of models consists in being a special kind of sign in the framework of Charles S. Peirce’s sign theory.
+This approach, however, might seem (to say the least) highly controversial, since models are often taken not to be ordinary linguistic signs, based on the argument that models and linguistic entities possess different properties (cf. Frigg and Hartmann 2009, chap. 2.4). For instance, linguistic descriptions principally are truth-apt,
+123
+
+3400
+
+Synthese (2013) 190:3397–3420
+
+contrary to models which are often taken only to be adequate or inadequate (cf. Mahr 2009, p. 365; Giere 2010, p. 273).
+This objection, however, is no serious obstacle to the view proposed here, for it is based on a different notion of signs: according to Peirce, signs are not conﬁned to those linguistic entities which Ferdinand de Saussure’s structuralist linguistic theory calls “signs”, i.e. arbitrary and inseparable combinations of signiﬁant and signiﬁée which as differential elements form a complete semantic system (see Saussure 1983). As is evident, such a definition could indeed not apply to models, alone for that reason that models never refer to their originals arbitrarily. Rather, they are supposed to display attributes of their original by means of their own attributes by way of a similarity in a highly significant manner (cf. Giere 1999). Evidently, this holds true for scale models, e.g. smaller or bigger replications of buildings, as they represent their original objects on the basis of a similarity relation: as a similarity relation necessarily depends on similar attributes of model and original object, the relationship between model and original object cannot be purely arbitrary.
+A similarity relation, however, is per definitionem constitutive for iconic signs, since every icon, as Peirce deﬁnes it (vide infra), represents its object primarily by displaying a similarity to the quality of its object by way of its own quality. Thus, scale models seem to be nothing but icons (cf. Frigg and Hartmann 2009, chap. 1.1). But, as it seems, it is not only scale models that resemble their originals: rather, this appears to be a property all models share without exception, if the notion of similarity is understood in a more abstract manner. Hence, there is no sufﬁcient reason to restrict iconic similarity to scale models in principle; rather, every model essentially is iconic insofar as it necessarily displays a similarity to its original object. However, as every model then would be an icon, icons would not be a subclass of models (cf. Frigg and Hartmann 2009, chap. 1.1), but the class of models would be equal to the class of icons or would be a subclass of it. So, questions in the following vein arise: What does it exactly mean that models are iconic? Are there different degrees to their iconicity? And with regard to what criteria and which kinds of iconicity can one distinguish different (functional) classes of models?
+Having said this, we want to lay the ground for an understanding of models in the conceptual framework of Peirce’s semiotic theory of icons, which framework may serve as a starting-point for future analyses resulting, ﬁnally, in a comprehensive theory of models which, in particular, will allow for a consistent systematization of the various kinds of models. In order to show that our approach may be capable of doing this, we will (1) propose a semiotic theory of models; and (2) conclude this paper with a critical integrative assessment of our hypothesis against the background of two wide-spread philosophy of science approaches to models.
+
+3 Charles S. Peirce’s sign theory 3.1 General definition of signs Our hypothesis concerning the ontological nature of models deﬁnes models as a special kind of signs. This calls for a general elucidation of what a sign is, nota bene in
+123
+
+Synthese (2013) 190:3397–3420
+
+3401
+
+the context of Charles S. Peirce’s sign theory (vide supra; in general, cf. Short 2007; Atkin 2010).
+Per definitionem, a sign is one of the elements of a genuine triadic relation consisting of the sign itself (often called “representamen” by Peirce), its object and the so-called interpretant. In general, it holds (CP 2.228):
+“A sign, or representamen, is something which stands to somebody for something in some respect or capacity. It addresses somebody, that is, creates in the mind of that person an equivalent sign, or perhaps a more developed sign. That sign which it creates I call the interpretant of the ﬁrst sign. The sign stands for something, its object. It stands for that object, not in all respects, but in reference to a sort of idea, which I have sometimes called the ground of the representamen.”2
+This passage reveals essential characteristics of every sign—which characteristics do not only display a highly significant difference to the Saussurean notion of signs, but also yields the sufﬁcient framework for adequately understanding the ontological, semantical and epistemological status of models (cf. Giere 1999 who explicitly judges most of the following aspects as characteristic of models, albeit not from a semiotic point of view):
+(1) Relativity and context-dependency: Nothing is a sign by itself. Rather, everything can act as a sign if it complies with the definition given above: for example, not only the word “house” can act as a sign, but also a photograph (CP 2.281), a weather-cock (CP 2.286), a syllogism or a book (CP 2.292). Being a sign does principally not depend on a thing’s inherent properties, but solely on being an element of the triadic relation characteristic of signs. Which concrete properties this element has, however, is irrelevant: per definitionem, it only needs to be “something” to be capable of acting as a sign. So, potentially everything can act as a sign and, accordingly, the class of signs is not restricted to ‘linguistic’ signs as deﬁned by Saussure. Furthermore, the quality of being a sign is no absolute quality, but necessarily depends on a speciﬁc context.
+(2) Non-identity: A sign principally is different from the thing it represents, i.e. its object. As a sign, however, it stands for this very object, this constituting its representational quality which (per definitionem) comes into existence only when “something” gets an element of the triadic sign relation—and thus becomes a ‘sign’. Accordingly, representation essentially is dependent on ontological nonidentity.
+(3) Respect: Every sign stands for its object, but due to its non-identity only in single respects. A photograph of a house, e.g., represents only the visual appearance of a speciﬁc house, but not its material or its spatial extent, this visual appearance, in turn, being categorically different from the corresponding physical properties of the thing itself which acts as the object of the photograph. So, every sign necessarily implies a respect, and it is especially this respect which Peirce calls the “ground of the representamen”.
+
+2 Cf. CP 1.564: “A representation is that character of a thing by virtue of which, for the production of a certain mental effect, it may stand in place of another thing. The thing having this character I term a representamen, the mental effect, or thought, its interpretant, the thing for which it stands, its object.”
+123
+
+3402
+
+Synthese (2013) 190:3397–3420
+
+(4) Subjectivity: Which concrete respect this is depends on the speciﬁc subject for whom the sign relation exists, for being a sign depends on someone’s making something a sign for something third in a mediating act, be it consciously or not: although a word like “house” normally is applied to houses without further consideration, sometimes it obviously is not, for example by members of the Japanese speech community or in the case of an image of a house by a kid which could necessitate some closer inspection and deliberation.
+(5) Semantics: Every sign principally has a meaning. Since something only acts as a sign if something third (a subject) regards it as a sign, an interpretant exists if and only if there is a sign. On the other hand, nothing could act as a sign if there be no (potential) interpretant, this being an indispensable element of the triadic sign relation. Thus, if principally nobody could see it, a photograph of a house would be no sign with regard to the speciﬁc house that otherwise would have been represented by this very photograph. This results in the insight that for regarding something as a sign antecedent knowledge (in particular including theories or languages) is necessary with regard to which signs have a meaning only—where “meaning”, as is evident, must be understood in its widest possible sense, not only as the structuralist linguistic “significatum” (cf. Eco 2002, pp. 74–76): for example, also feelings or exertions (cf. MS 318, 1907) or mental images (cf. CP 8.314) can act as interpretants.
+(6) Individuality of interpretation: With regard to the example of the Japanese speech community in (4) it has to be noted that although there will be, as a rule, many similar interpretations of a sign, this is nothing but a more or less considerable convergence of principally independent subjective interpretations—which, however, is quite useful, as it allows for communication. Nonetheless, there is a principal variability in applying signs to objects, its speciﬁc degree depending on the type of sign.
+(7) End: Every interpretation of something as a sign has an end and depends on a subjective judgment. Thus it is possible that the same thing does act as a sign for somebody and does not for another, and also that it acts as a sign for different things for the same person and, furthermore, that there are different signs for the same object.
+(8) Semiotic nature: Finally, all elements of a sign relation necessarily are signs: the sign relation depends on a subject and for this subject the things constituting our world are principally only accessible as signs. A sign stands for another sign, i.e. its object, and generates another sign, i.e. its interpretant: “Finally, the interpretant is nothing but another representation to which the torch of truth is handed along; and as representation, it has its interpretant again. Lo, another inﬁnite series” (CP 1.339; cf. CP 2.230, Eco 2002, p. 78; Jakobson 1988, p. 104; and CP 7.583–596). Therefore every sign can act as an object or as an interpretant of another sign, too; it always is part of a series of single interpretations which it continues with regard to some speciﬁc respect.
+Due to its universality, Peirce’s sign theory—as sketched in Fig. 1—can, in contrast to Saussure’s theory of signs, serve as a sufﬁcient basis for adequately understanding models, in the following way: models are signs which represent something else, i.e.
+
+123
+
+Synthese (2013) 190:3397–3420
+
+determines
+
+Subject
+End
+
+3403
+
+for uses
+
+in
+
+Object
+
+stands for respect
+
+Sign
+(Representamen)
+
+generates
+
+Interpretation
+(Interpretant) Meaning
+
+Respect
+Ground / Idea Prior Knowledge / Theory / Language
+
+Fig. 1 The net of relations constituting a sign according to Charles S. Peirce
+
+their objects; nonetheless, they do not act as signs by themselves, but only when they are made to do so by an interpretative act of a subject who pursues a speciﬁc objective and who explicitly or implicitly chooses a theoretic or linguistic context including a frequently semantically coded prior knowledge, which in the concrete act of modeling connects the model with a speciﬁc semantic content, i.e. its interpretation.3 In so doing, models represent only a subset of the attributes of their objects due to their non-identity. Therefore, principally everything can act as a model, resulting in the fact that every model primarily, i.e. beyond its model relation, is an object to the properties of which it does not per se belong to be a model.4 And, on the other hand, it is clear that the elements of the model’s extension, i.e. those things that a model represents,
+3 Stachowiak (1973, p. 132) refers to this as the “dreifache pragmatische Relativierung” of models: it does not sufﬁce to ask of what and in the context of which theory something is a model, but it also has to be taken into account (1) for whom, (2) when, and (3) to which end. This means (1) that the modeler’s judgment constituting a model depends on speciﬁc theoretic presuppositions, world views or scientiﬁc paradigms; (2) that every act of modeling takes place in a social and institutional context so that a model depends on the current state of knowledge or the current scientiﬁc paradigm, not to speak of the conditions of applying for research grants; (3) that every act of modeling depends on an end, be it explicitly or implicitly. 4 Everything shall be regarded as an object which the intentional attention of a subject can refer to, inter alia material objects like radios, cars or crossroads, symbolic objects like formulae written on paper, electronically stored data or programs, or concepts like abstract models; cf. Frigg/Hartmann (2006, chap. 2.1), Mahr (2009, p. 371). Nonetheless, all these different kinds of objects share the property of being those very objects that they are by having those attributes that are assigned to them—because they have that very meaning that they do have. From this it follows that a certain thing can only be an object for a certain subject, if he or she has the respective semantic categories which constitute this certain object: for somebody who cannot distinguish between green and red, there are neither green nor red objects. Objects, therefore, only are objects on the basis of a semantic interpretation by a subject. Cf. Mahr (2010, p. 63), Frigg (2006, pp. 56–57).
+123
+
+3404
+
+Synthese (2013) 190:3397–3420
+
+primarily are objects, too. The property of being a model, then, implies that some speciﬁc object has a (semiotic) relation to another object and is part of some speciﬁc context.
+
+3.2 Different types of signs: the icon
+The parallels between models and signs just discussed indicate that it seems to be a promising way to explicate the ontological status of models as signs as deﬁned by Peirce. Nevertheless, it is evident that models cannot be signs in an unqualiﬁed way, since models have, as pointed out at the outset, different properties than ‘linguistic’ signs as commonly understood: the word “house”, for example, normally is not a model of a house. Thus, it has to be asked what special kind of signs models are. The answer will be—as mentioned above—that models are icons.
+Accordingly, we want to explore the semiotic nature of models by discussing a fundamental classiﬁcation of (the functional aspects of) signs by Peirce into icons, indexes and symbols (see e.g. CP 2.247–249).5 This classiﬁcation—which is one among many (cf. CP 2.243–253)—depends on the respective kind of the representational relation between sign and object, specifically whether “the relation of the sign to its object consists in the sign’s having some character in itself, or in some existential relation to that object, or in its relation to an interpretant” (CP 2.243).
+The result is three kinds of signs, systematically derived from the very structure of the basic sign relation: (1) If the representational relation between sign and object depends on intrinsic qualities of the sign, the sign is an icon. (2) If the representational relation between sign and object depends on an actually existing, intrinsic relation between sign and object, the sign is an index. (3) If the representational relation between sign and object depends on some further relation between the object and the interpretant, the sign is a symbol. In other words (CP 1.369; cf. CP 4.447–448):
+“There are three kind of signs which are all indispensable in all reasoning; the ﬁrst is the diagrammatic sign or icon, which exhibits a similarity or analogy to the subject
+5 In order to prevent misunderstandings, it shall be noted that it is not the empirical entities themselves— which then become (with regard to a speciﬁc aspect) a relatum of the sign relation—the kinds of which Peirce hereby distinguishes, but rather the different aspects of the semiotic representational quality that these empirical entities possess as signs in a certain context (i.e. not as empirical entities as such beyond being part of the sign relation) or, put another way, the different semiotic aspects of these entities: one and the same entity can, depending on the speciﬁc interpretation in its concrete context (and in this special case, technically, depending on the speciﬁc character which the semiotic relation of the sign to its object is regarded to have: vide infra), be regarded as an index, as an icon and/or even as a symbol (cf. above on the general essential characteristics of every sign). For example, a photograph normally is interpreted as representation of the appearance of its object (e.g., a person) with regard to its quality and it can (and normally does) act at the same time as an index which is regarded to point to the existence of this very object, as it is supposed to be real, being represented by a photograph. For the present purpose, however, as Peirce himself does not speak of a classiﬁcation of aspects or functions of signs, but of a classiﬁcation of signs themselves (which insofar is relevant here, as this applies in particular to the quotations that will be given in the following), we will on the whole, in order to avoid confusion and for clarity’s sake, not deviate from his manner of speaking. Nonetheless, this shall not imply that, in general, it is not the case that several or all semiotic functions—which Peirce grasps by way of the termini technici icon, index, and symbol—may be present at the same time in any empirical entity that acts as a sign, though with regard to a different aspect. See on this topic Stjernfelt (2011), especially 395–396.
+123
+
+Synthese (2013) 190:3397–3420
+
+3405
+
+of discourse; the second is the index, which like a pronoun demonstrative or relative, forces the attention to the particular object intended without describing it; the third [or symbol] is the general name or description which signiﬁes its object by means of an association of ideas or habitual connection between the name and the character signiﬁed.”
+Thus, a symbol represents its object by habitually connecting sign and interpretant (as the case may be, but not necessarily, prima vista arbitrarily so that it is also Saussure’s linguistic sign that belongs to this type of sign),6 whereas an index represents its object by being existentially or causally connected with it without representing it habitually or by qualities of its own (as e.g. a weather-cock normally is seen to represent the direction of the wind hic et nunc: CP 2.286).7 The icon, ﬁnally, represents its object by way of its own quality on the basis of the (per definitionem given) fact that its own quality is similar to the quality of its object, at least as regards the concrete sign-constituting judgment of the interpreting subject (CP 2.247):
+“An Icon is a sign which refers to the Object that it denotes merely by virtue of characters of its own, and which it possesses, just the same, whether any such Object actually exists or not.”8
+Since the classiﬁcation of (the functional aspect of) signs into icons, indexes and symbols primarily has, as regards its definition, a conceptually exclusive character due to Peirce’s theory of categories9 and since no model is primarily and essentially an index or a symbol—an index represents its object in a direct, intrinsic, e.g. causal, manner and a symbol by a primarily conventional or habitual reference—models necessarily must belong to the class of icons (or, put another way, their iconic aspect is the prevailing and basic one).
+That this actually could be right is shown by scale models or photographs: these signs represent their objects by way of a similarity between their own quality and the quality of their respective object—which iconic similarity is thus the essential basis of their very capacity of acting as a model. This, however, applies to all models without exception as they all obviously bear an essential similarity to their objects which serves as the basis for their representational quality—at least if we do not conﬁne the notion of similarity to a mere image-like similarity in the narrow sense. In the
+
+6 Cf. CP 2.249: “A Symbol is a sign which refers to the Object that it denotes by virtue of a law, usually an association of general ideas, which operates to cause the Symbol to be interpreted as referring to that Object.” 7 CP 2.305: “A sign, or representation, which refers to its object not so much because of any similarity or analogy with it, nor because it is associated with general characters which that object happens to possess, as because it is in dynamical (including spatial) connection both with the individual object, on the one hand, and with the senses or memory of the person for whom it serves as a sign, on the other hand.” In other words: „An Index is a sign which refers to the Object that it denotes by virtue of being really affected by that Object“ (CP 2.248). 8 Cf. CP 2.276: “An Icon is a Representamen whose Representative Quality is a Firstness of it as a First. That is, a quality that it has qua thing renders it ﬁt to be representamen. Thus, anything is ﬁt to be a Substitute for anything that it is like.” 9 Which cannot be dealt with here: cf. Lattmann (2012, chap 3) with further references. Irrespective of whether we speak of “signs” or of “functional aspects of signs” (cf. footnote 5), the classiﬁcation itself retains its exclusive character—which is, again, not to say that one and the same empirical entity cannot display two or all of the three functions differentiated here at the same time.
+123
+
+3406
+
+Synthese (2013) 190:3397–3420
+
+context of Peirce’s sign theory, however, we are in no way compelled to do so. Rather, Peirce’s theory allows for distinguishing three general kinds of iconic similarity: (1) image-like similarity, (2) relational or structural similarity, and (3) semiotic similarity. This yields three general kinds of icons and, thus, models: (a) images, (b) diagrams, and (c) metaphors10:
+
+(a) images: Images are icons which represent the simple qualities of the original by simple qualities of their own, where ‘simple’ means that these qualities are relevant only as qualities as such; their relations to other qualities play no part in constituting the respective iconic representational sign relation. An example for this kind of icon is photographs which display certain qualities which are (on the basis of a subjective judgment) seen as similar to (a subset of) the qualities of their objects, e.g. forms and shapes.
+(b) diagrams: Diagrams are icons which represent primarily relational qualities of the original by their own primarily relational qualities. This implies that the relevant simple qualities of the original are separated from each other and are then related to each other as single, primarily independent qualities. What this means gets clear by inspecting the eponymous type for this kind of sign, i.e. ‘diagrams’ (CP 2.282): “Many diagrams resemble their objects not at all in looks; it is only in respect to the relations of their parts that their likeness consists. Thus, we may show the relation between the different kinds of signs by a brace, thus:
+
+Signs:
+
+⎧ ⎨ Icons,
+
+⎩
+
+Indices, Symbols
+
+.
+
+This is an icon. But the only respect in which it resembles its object is that the brace shows the classes of icons, indices, and symbols to be related to one another and to the general class of signs, as they really are, in a general way.” Therefore, the diagrams’ being models depends on the relations diagrams display by way of their own quality and which correspond to an equivalent quality of the original. Thus, it is not only ‘diagrams’ in the narrow sense which are part of this class, but inter alia also mathematical equations (CP 2.282): “When, in algebra, we write equations one another in a regular array, especially when we put resembling letters for corresponding coefﬁcients, the array is an icon. Here is an example:
+
+a1x + b1 y = n1, a2x + b2 y = n2.
+
+10 See CP 2.277: “Hypoicons may roughly [be] divided according to the mode of Firstness which they partake. Those which partake the simple qualities, or First Firstnesses, are images; those which represent the relations, mainly dyadic, or so regarded, of the parts of one thing by analogous relations in their own parts, are diagrams; those which represent the representative character of a representamen by representing a parallelism in something else, are metaphors.” For a detailed explication of this passage, see Lattmann (2012). Regarding the character of the classiﬁcation, the same holds as has been stated above on the classiﬁcation into icons, indexes, and symbols.
+123
+
+Synthese (2013) 190:3397–3420
+
+3407
+
+This is an icon, in that it makes quantities look alike which are in analogous relations to the problem. In fact, every algebraical equation is an icon, in so far as it exhibits, by means of the algebraical signs (which are not themselves icons), the relations of the quantities concerned.” Only by understanding mathematical equations as icons, i.e. as representation of their objects with regard to their relational quality by way of an equivalent relational quality of their own, it is possible to discover the relational structure of the original represented by the model, and this by simply inspecting the model itself as some kind of surrogate (CP 4.530): “For what is there [sc. in the case of diagrams] the Object of Investigation? It is the form of a relation. Now this Form of Relation is the very form of the relation between the two corresponding parts of the diagram. For example, let f1 and f2 be the two distances of the two foci of a lens from the lens. Then,
+1 + 1 = 1. f1 f2 f0
+This equation is a diagram of the form of the relation between the two focal distances and the principal focal distance; and the conventions of algebra (and all diagrams, nay all pictures, depend upon conventions) in conjunction with the writing of the equation, establish a relation between the very letters f1, f2, f0 regardless of their significance, the form of which relation is the Very Same as the form of the relation between the three focal distances that these letters denote. This is a truth quite beyond dispute. Thus, this algebraic Diagram presents to our observation the very, identical object of mathematical research, that is, the Form of the harmonic mean, which the equation aids one to study.” This explains why mathematical models are useful for scientiﬁc research in general: they yield a mathematically expressed relational ‘image’ of relevant relational qualities of the original, and this as a complete and closed system and in a more transparent manner. This whole system, in turn, as an icon represents its object, i.e. the original, with respect to its relational quality (CP 2.279): “It may seem at ﬁrst glance that it is an arbitrary classiﬁcation to call an algebraic expression an icon; that it might as well, or better, be regarded as a compound conventional sign. But it is not so. For a great distinguishing property of the icon is that by the direct observation of it other truths concerning its object can be discovered than those which sufﬁce to determine its construction. […] Given a conventional or other general sign of an object, to deduce any other truth than that which it explicitly signiﬁes, it is necessary, in all cases, to replace that sign by an icon. This capacity of revealing unexpected truth is precisely that wherein the utility of algebraical formulae consists, so that the iconic character is the prevailing one.” Mathematical models, therefore, primarily are not models of their original objects with regard to their separate elements which they are composed of, i.e. equations, variables etc., but they primarily represent their objects by being an inseparable and whole system with a speciﬁc inner structure: the representational quality of diagrams rests on a similarity of global relational system properties, not on
+
+123
+
+3408
+
+Synthese (2013) 190:3397–3420
+
+the separate elements themselves which constitute them. And it is this fact that marks a pivotal difference between icons, i.e. models, and symbols, i.e. ordinary linguistic signs—be it simple symbols or compositional symbols like sentences, texts or books: although symbols can have an inner structure on which their meaning depends (so that there is an interdependence between the grammaticalsyntactical and the semantical-compositional structure), there is no necessary dependency of the grammatical structure on the structure of the content represented.11 The contrary is true in the case of icons and, thus, models: here, there is per definitionem a significant primary interdependence between the structure of the sign and the structure of the object, and it is this very interdependence that forms the essential meaning of the model and enables models to be surrogates of their originals, surrogates from which it is possible to make inferences to their originals just by means of manipulating their structure. (c) metaphors: Metaphors are icons which represent semiotic qualities of their originals by way of a speciﬁc semiotic quality of their own, and this in a non-habitual, original way. For example, the metaphor “Achilles is a lion” (where it is the whole sentence which acts as the metaphor proper) represents the semiotic situation that the word “lion” may be used for signifying “Achilles”, nota bene in a genuinely original way which is not given by the lexicon (at least in the case of truly original metaphors which haven’t become dead, i.e. conventional); and this implies secondarily that a lion may be seen as an image-like or structural-relational model (i.e. as an ‘image’ or a ‘diagram’) of Achilles. Therefore, metaphors can be understood as models of a novel semiotic fact—the explication of which, as the case may be, could lead to insights into the relation between the objects of the signs themselves that are used for constituting the metaphor.12 In the example “Achilles is a lion”, it is the whole sentence which acts as a metaphor, and this metaphor implies a sign relation between “lion” and (the object) of “Achilles”. Thus, the sentence “Achilles is a lion” implies that it may be allowable to use the sign “lion” to signify Achilles, making (as a possible interpretation) the object of the sign “lion” an icon of the object of the sign “Achilles”, and this on the basis of a per definitionem implicit similarity relation between a lion and Achilles. In this regard, metaphors entail two similarity relations: (1) as in the case of images and diagrams with regard to the iconic sign itself, so that “Achilles is a lion” gets an iconic representation of the novel sign implied by the metaphoric sign itself; (2) the new, implied sign postulates a further similarity relation between the conventional objects of the signs involved, in the example between the hero Achilles and a lion (between which there is nota bene no similarity from the viewpoint of convention). Metaphors, thus, display a hierarchy of double iconicity (or model-being) and, as semiotic meta-signs, generate new
+11 Although, secondarily, especially linguistic grammar seems to have significant diagrammatical properties; cf. on this Stjernfelt (2007). There is a lively scholarly discussion on the topic of ‘diagrammatical reasoning’, especially with regard to Peirce’s semiotics and his ‘existential graphs’: see e.g. vol. 186 of Semiotica (2011), especially the introduction by the guest-editors (Queiroz and Stjernfelt 2011). 12 For a further explication of Peirce’s theory of metaphor (which cannot be dealt with here), see Lattmann (2012); for an overview on alternative theories of metaphor see Rolf (2005); on the significance of metaphors and analogies with regard to models see Bailer-Jones (2009, chap. 5) and also Black (1962).
+
+123
+
+Synthese (2013) 190:3397–3420
+Sign
+Relation Between Sign and Object
+
+3409
+
+Icon
+Similarity Relation Between Sign and Object
+
+Index
+Existential Relation Between Sign and Object
+
+Symbol
+Conventional Relation Between Sign and Object
+
+Image
+Similarity: Simple (Monadic) Qualities
+
+Diagram
+Similarity: Dyadic Relations
+
+Metaphor
+Similarity: Triadic (Semiotic) Relations
+
+Fig. 2 (1) The classiﬁcation of all signs into icons, indexes, and symbols on the basis of distinguishing the respective relation between sign and object; (2) the subsequent classiﬁcation of icons into images, diagrams, and metaphors on the basis of distinguishing the speciﬁc characteristics of the similarity relation they are based on. The sign classes associated with models are shaded in grey color
+
+simple iconic signs or, in other words, new models: metaphors are genuine semiotic meta-models of simple image-like or relational-structural models, i.e. of images or diagrams, respectively. Interestingly, metaphors and models often have been dealt with in conjunction in the philosophy of science discussion, in particular in the context of scientiﬁc creativity (cf. Black 1962; Bailer-Jones 2009, chap. 5). To sum up: Peirce distinguishes—as Fig. 2 shows—three main kinds of signs by using the speciﬁc relation between sign and object as criterion: (1) In the case of indexes, there exists an existential, e.g. causal, relation between a sign and its object. (2) In the case of symbols, there exists a conventional relation implying a habitual use of the symbol. (3) In the case of icons, there is a similarity relation that links attributes of the sign and of its object, albeit contrary to (2) not habitually and extrinsically, it only being possible to link already existing qualities and relations, and contrary to (1) not merely existentially and intrinsically, there being a certain freedom with regard to selecting a speciﬁc assignment. This interaction of intrinsic structure and extrinsic mapping, then, makes it possible to use the attributes of the sign itself, and not of its interpretant, to pursue the end which the model was constructed to.13 This may be seen as the universal characteristics of using models.
+13 The speciﬁc characteristics of scientiﬁc representation is seen by Suárez (2004, esp. pp. 772–775) to be due to the fact that the properties and/or the structure of an object which is conceived of as model cannot be merely arbitrary, but are constrained (albeit not determined) by having to be capable of serving the end of the concrete act of modeling; in this context, the adequacy of a model depends on its allowing for inferences regarding the original so that the model can act as a surrogate for its original in this inferential context. However, models are also characterized by some kind of arbitrariness insofar as (1) by choosing an end, the user of the model determines which inferences a model has that are allowed to be drawn; and (2) every inferential structure can be realized by different objects.
+123
+
+3410
+
+Synthese (2013) 190:3397–3420
+
+By further classifying the iconic similarity relation itself, exactly three kinds of icons can be distinguished: (3a) an image relies on a similarity of simple attributes of a sign and its object; (3b) a diagram relies on a similarity of relational or structural attributes of a sign and its object; (3c) a metaphor relies on a similarity of semiotic attributes of a sign and its object (which both are treated as signs proper). If then models are regarded as signs, this at the same time yields a threefold classiﬁcation of models into three most general classes on the basis of a clearcut criterion: (a) image-like models with a descriptive character; (b) relational or structural models which analytically show their objects as having an inner structure; (c) cognitive models which have a cognitive-reﬂexive (meta-) character and yield a semantic analysis by showing their objects as having a semiotic character.14 It is then easy to see that our hypothesis which proposes to understand models as icons does in no way imply that models must be ‘iconic’ in an ordinary sense, i.e. image-like—which certainly would be a serious obstacle. Rather, the scientifically most important kind of model, i.e. the class of relational-structural models including mathematical models, turns out to be one of the main kinds of icons, i.e. diagrams, and this according to their essential characteristics: insofar as such models essentially show the structure of their objects analytically by way of their own similar structure and lay it thus open to manipulation and cognition, it becomes transparent why they have been and still are the true basis of scientiﬁc progress. Hence, our approach appears to be highly appropriate: not only does it allow for a general classiﬁcation of all models into three classes which relies on their intrinsic characteristics, but it also allows for recognizing that models are a special kind of signs, yielding a sufﬁcient basis for adequately understanding the speciﬁc ontological status and the semantics of models—and thereby to arrive at a notion of model that has the potential to cope with the numerous, prima vista highly disparate kinds of models current in modern science and human thinking.
+
+4 The structure of models
+To further corroborate our thesis we want to discuss two wide-spread and inﬂuential philosophy of science approaches to models. This discussion will show that it is possible to conceptually integrate these approaches into the approach put forward here: within this framework they will turn out to be complementary in that they address two separate, but interdependent principal facets of models, namely the source of their semantic and representational content.
+The ﬁrst approach is based on the model theory of modern logic (cf. Suppes 1960; Balzer 1997, esp. pp. 89–97) and ties models to underlying theories so that models are regarded as “models of a theory” (cf. Hartmann 2010, p. 1630 ff.) in the framework
+14 There is a certain parallel to the classiﬁcation of models into scale models, analogical models and theoretical models, respectively (see Hartmann 2010, p. 1627 ff.).
+123
+
+Synthese (2013) 190:3397–3420
+
+3411
+
+of an “instantiational conception” of models (Giere 1999). This means that models are understood as nothing but an interpretation of the variables of a theory (see Frigg and Hartmann 2009, chap. 1.3). So, it is claimed “that the concept of model in the sense of Tarski may be used without distortion and as fundamental concept in all […] disciplines […]” and “that the meaning of the concept model is the same in mathematics and the empirical sciences” (Suppes 1960, p. 289). Apart from formal details, this approach accordingly states that models explicitly or implicitly stand in the context of and are determined by a theory, prior knowledge and a language—which description is an evident parallel to the semiotic approach to models proposed here, for signs always are interpreted in some respect and with regard to prior knowledge and in the context of a language or a theory (part of which is the Peircean “ground”). This facet of models shall be discussed in the ﬁrst sub-section.
+The second approach focuses primarily on the original represented or imitated, resulting in the notion of “phenomenological models” (cf. Hartmann 2010, p. 1630 ff.) which is characterized by a “representational conception” (Giere 1999). As this approach highlights the representational similarity between the model and its original (cf. Giere 1999, 2004; Stachowiak 1973, pp. 131–133), a mapping between their attributes and relations, it obviously displays a substantial parallel to the semiotic approach developed above. Accordingly, this approach shall be discussed in the second subsection.
+In so doing, we aim to point out that both approaches are capable of naturally being integrated into the semiotic framework sketched above. This will allow for grasping two most important facets of the representational relation between model and original more clearly which, so to speak, span a space within which models may be located according to the degree of relative relevance: all models are to some degree characterized by being models of a theory or language, in the context of which they fulﬁll their representational function, and all models are characterized by being a model of a set of objects.
+
+4.1 Theory-dependency of models
+The semantics of a language is rooted in the mutually interdependent relations of their elements15 induced by the coordinated employment of symbols in the context of a cultural practice.16 These relations have the status of definitions if regarded as necessary and sufﬁcient, whereas if regarded as contingent they refer to possible facts the existence of which is to be veriﬁed empirically in the speciﬁc case, which veriﬁcation is dependent on historical change and on the interdependence of semantic definition and empirical context (see Quine 1951).
+In this regard, languages imply theories about the world or, put another way, knowledge on necessary, possible, impossible or empirical facts. Hence it is possible to regard
+15 Cf. Kralemann (2006, pp. 456–460). The mutual interdependency of the elements of a language is also a well-known feature of Saussure (1983) conception of language. 16 This pragmatic theory of ‘meaning as use’ was propagated in particular by Carnap (1926, p. 4) and Wittgenstein (1953, Sect. 43); it is already to be found in Immanuel Kant’s Critique of Pure Reason (Kant 1781/1787, B 171/A 132—B 175/A 135) and, of course, in Peirce’s pragmaticist sign theory (cf. CP 5.438).
+123
+
+3412
+
+Synthese (2013) 190:3397–3420
+
+every independent area of a linguistic or cultural community as a language having an implicit theory—and thus as a limitation of possible worlds: for example, there is ordinary, everyday language, the language of physics, the language of mathematics, and the language of art. Therefore, the same object can be regarded differently when it is referred to in the context of different languages or theories: that very object which an engineer regards as a control unit can at the same time be regarded by an artist as a symbol for the enslavement of mankind by modern technology. Thus, all objects have to be regarded as being dependent on a linguistic or theoretical context into which they are placed by the interpretative judgment of a subject (cf. Mahr 2009, p. 373).
+Hence, models and their originals, too, are always interpreted in the context of a theory, of a language, or of an underlying cultural practice17—of a paradigm (see Kuhn 1996)—, a point which is stressed in a formal manner by the model theory of modern logic (cf. Suppes 1960, p. 289; Balzer 1997, pp. 89–97) which is based on the notion of model ﬁrst proposed by Tarski (cf. Mahr 2009, p. 377; Chang 1979; Vaught 1979). This approach starts with a formal symbolic system, i.e. an abstract theory, which allows for deriving the possible relations between the yet not interpreted variables by axioms and derivation rules. Every interpretation of the variables which makes the axioms and the derived statements true is a model of the theory (or, in a more general perspective, language). A model of a theory, then, is generated by interpreting all or some of its variables by concrete assignments; so, all of these interpretations are models of a theory.
+However, although any theory implicitly deﬁnes the semantics of the variables by determining the possible relations between them, the interpretation of the variables cannot be derived from the theory itself. Rather, the concrete assignment of the variables depends on the object which has to be modeled in the context of the respective theory. Thus, original object and theory are complementary to each other in specifying the content of the model (cf. Frigg and Hartmann 2009, chap. 4.2). Hence, as Fig. 3 visualizes, a model has a middle position between a general, not yet interpreted theory and a pure, theory-independent18 description of the respective object (cf. Giere 2004, p. 744): on the one hand, a model as an interpretation of a theory satisﬁes the semantic structure of this theory, on the other hand, it contains information on that object which speciﬁes the interpretation of the variables by its own attributes. Thus, a model is not a model of all the objects described by the formal theory, but only of that subset which is compatible with the concrete interpretation of the variables and which, as the case may be, can consist of only one member. A model, then, is a model in the context of a theory, but only of those objects which are compatible with the specifying marginal conditions.
+To illuminate this abstract description, an illustration with the help of Newton’s notion of force will help (cf. Kralemann 2002; Giere 2004, pp. 745–746; Giere 2010,
+
+17 In this vein Mahr (2010) has elaborated a notion of “conception” as the basis of a general theory of models (see esp. Mahr 2010, p. 82; Mahr 2009, p. 380). 18 It is quite questionable whether a theory-independent description could be possible at all, since every property has a ﬁxed semantic content only in the context of a theory. Here, we refer to the fact that it is not the theory itself, but rather the object described in the context of a theory that determines the interpretation of the variables.
+123
+
+Synthese (2013) 190:3397–3420
+
+3413
+
+Theory / Language
+Semantics: Axioms, Propositions Semantic Freedom: Non-interpreted Variables
+y = f (x)
+
+Semantics: Axioms, Propositions
+Model
+Semantic Specification: Interpreted Variables
+
+a1 = f (a2 )
+
+a1, a2 , ..., an
+Specific Attributes
+Concrete Object
+Fig. 3 The diagram illustrates the interpretation of models from the viewpoint of modern logic: models take a middle position between abstract theory and concrete object, as concrete values are assigned to the variables of the theory according to the properties of the object. This results in the model’s being determined by the semantic structure of the theory and by the object’s speciﬁc properties. So, the model represents its object in the context of a theory
+pp. 271–272): initially, this only states that a body’s force is equal to the product of its mass and its acceleration, i.e.
+F = mx¨
+where the force is represented by the letter F. However, what special kind of force is meant is not yet speciﬁed by the theory so that this relation applies to all the things in the physical world and is not conﬁned to any subset yet. If then F is interpreted and the force is speciﬁed, e.g., by
+F = −kx = mx¨
+i.e. a force which is proportional to the negative of some displacement, the result is a special case of that theory, i.e. the model of the harmonic oscillator. This interpretation, then, is, on the one hand, a model of the general theory, but, on the other hand, a model only of the subset of those objects which are characterized by a proportional force acting in the opposite direction of the displacement. Accordingly, this model applies, in contrast to the general theory, not to all the physical objects any more and
+123
+
+3414
+
+Synthese (2013) 190:3397–3420
+
+every further speciﬁcation resulting from an interpretation of one of the variables of the theory conﬁnes the model to an increasingly smaller subset of objects—and it is these very objects, then, that the model represents and the model of which the model is.
+The model theory of modern logic therefore sheds light on two very basic traits of models which correspond with the semiotic concept of models put forward above:
+(1) Models require a (not necessarily explicit) preliminary decision for a theoretical context (which is a vital part of the Peircean ground19) which acts as a prerequisite for their very capacity of acting as a model. This holds true even for the simplest models of visual resemblance: here, too, one has to have a theory on what the relevant visual attributes of the original are and which aspects may vary, i.e. be treated as a variable; e.g., a model of a house normally will have like colors and proportions, but not the same size. The choice of the theory for interpreting a speciﬁc object as a model for something else—which determines the speciﬁc aspects relevant for the model relation—is principally subjective and context-dependent (where the notion of context also includes the end of the model).20
+(2) Every model transcends its underlying theory, since it is an interpretation of the abstract variables of the theory where the specifying interpretation depends on marginal conditions which cannot be derived from the general theory but which are characteristic of the objects to be modeled. Accordingly, every model refers to a speciﬁc set of objects—and it is of these only that it is a model.
+This makes clear that a model is determined by the semantic structure of a theory and by the properties of the concrete object which is modeled—so that a model represents its original in the context of a theory. Both points substantiate the semiotic analysis given above, insofar as they clarify in which regard models are icons of their originals, i.e. in which regard the similarity relation between them exists: the judgment on the iconicity of a model is a judgment on whether and which speciﬁc attributes of the object considered to be a model are regarded as iconic for another object, i.e. the original, and this judgment is made on the basis of the semantic structure of a theory. So, modeling is determined by attributes and relations which are deﬁned in the
+
+19 This suggests a solution to a central problem of any theory which holds that models are based on a similarity relation, insofar as it is this very theoretical context that determines which ‘similarity’ is regarded as relevant and constitutive for the model relation; cf. on the problem Frigg (2006, p. 61): “The claim that M is similar to T remains empty until relevant respects and degrees of similarity have been speciﬁed, which we do with what Giere (1988, 81) calls a ‘theoretical hypothesis’, a linguistic item. […] [R]elevant respects and degrees need to be speciﬁed to make a similarity claim meaningful. So what we need is an account of scientifically relevant kinds of similarity, the context in which they are used […].” In other words (Frigg 2006, p. 54): “So what we have to understand is how a scientist comes up to use S as a representation of T and to this end much more is needed than a blunt appeal to intentions.” 20 The notion of theory here is not conﬁned to formal scientiﬁc calculi: rather, everything shall be regarded as a theory which speciﬁes the possible worlds of the model by semantic relations, i.e. by constraining the combinatorial possibilities. In the recent discussion on the scientiﬁc idealization of reality, models have been interpreted in analogy to literary ﬁction which is constituted by a necessarily true “generative description” (Contessa 2010, pp. 225–226) or by a “rule or ‘principle of generation”’ (Frigg 2010, p. 258). These generative descriptions, too, fulﬁll the same function as a theory or language, viz. as definitions of and thus constraints on the possible ﬁctional worlds; accordingly, they can be regarded as the theories or languages of the ﬁction.
+123
+
+Synthese (2013) 190:3397–3420
+
+3415
+
+context of a theory (or, more generally, language) used by the modeling subject—and it is this why models do not only represent their originals, but also the semantics of the respective theory (cf. Frigg and Hartmann 2009, chap. 1).
+
+4.2 Mapping-relation
+The second of the two approaches mentioned above focuses on the characteristics of the similarity relation between the model and the original it represents (cf. Giere 1999, 2004; Stachowiak 1973, pp. 131–133): as models always are models of something (cf. Stachowiak 1973, p. 131), this approach claims that there necessarily is a representational relation consisting of the model and an original object, the presupposition of which is a necessary prerequisite for the model’s being a model—of something. This results in distinguishing the source and the target of the representation, i.e. the vehicle and the object of the representation (cf. Suárez 2003, pp. 225–226).
+The object which serves as the model (i.e. the vehicle) has certain attributes already before it is made an element of the model relation by an interpreter. From a semiotic point of view, that subset of the attributes of the “source” or “vehicle” which are chosen as relevant for the model relation—where a criterion for relevancy is that changing them results in a different model—can then be called the “syntax” of the model and accordingly the attributes themselves the “syntactical attributes” of the model. In the case of a map, the syntactical attributes conventionally consist of the relative position of the lines and their relative distances on the paper; the material of the paper, however, conventionally does not act as a syntactical attribute, a modiﬁcation of which being irrelevant for the model relation which is regarded as characteristic of maps.21
+And on the other hand—as we have discussed in the preceding sub-section—the original object (or the set of original objects), too, is grasped by way of its model attributes which it possesses according to a theory (or language), specifically by assigning the factual attributes of the original object (or the set of original objects) to the variables of the theory.
+Then, the model relation, the very supposition of which makes an object Omod a model of an object Oorig, is nothing but a mapping between the syntactical attributes of a model and the model attributes which are chosen in the context of a theory or language and assigned to the original object (i.e. the object to be modeled). This situation is shown in Fig. 4.
+To give an example: a computer simulation gets a model of something which is determined by the attributes of a harmonic oscillator in the following way: (1) The variables of the respective theory are interpreted by the attributes of this special object; thus, the model attributes as the displacement or the restoring force are deﬁned. (2) By a computer program, these model attributes are represented in the computer memory together with the computer operations, making the program code the syntactical attributes of the computer. This computer, in turn, being the object Omod , becomes
+21 It is strongly contended by approaches which regard models as structures that the syntactical attributes are in any way relevant for the model with regard to its being a model; for a critical assessment of this position, see Frigg (2006).
+123
+
+3416
+
+Synthese (2013) 190:3397–3420
+
+Functional Association
+
+Oorig
+Model Attributes
+Theorymod Languagemod
+
+Omod
+Syntactical Attributes
+Theorysyn Languagesyn
+
+Fig. 4 The representational relation between model and original: the supposition of a representational
+relation between syntactical attributes of an object Omod and the model attributes of an object Oorig makes Omod a model of Oorig
+
+a model, representing by way of its syntactical attributes the model attributes of the object Oorig by means of a mapping, where the object Oorig itself is interpreted in the context of the theory of Newtonian mechanics, particularly in the context of the theory of the harmonic oscillator.
+To sum up: All models are characterized by being a model of a set of objects. Between a model and this set of original objects there is a relation which not only is a mere reference relation, but a representational relation which is iconic: models represent the attributes or relations of their originals by their own attributes or structure. In every relation between a model and its object there is hence a mapping with regard to an (a) image-like, (b) structural or (c) cognitive-semiotic similarity,22 as stated by the semiotic interpretation of models as icons.
+
+5 Modeling as a process constituting a representational mapping relation
+In the preceding sections, we have sketched certain aspects of Peirce’s theory of signs as they are relevant with regard to models and aimed to show that this yields a reasonable framework for developing an integrative theory of models. In particular, we have argued that this framework is capable of seamlessly integrating two inﬂuential approaches to understanding the very nature of the semantic or representational content of models. After a short summing up, we will conclude this paper by integrating and illustrating these results within a picture of the semiotic structure of models.
+22 Insofar as similarity often is deﬁned as a partial representational relation or transformation, the Peircean notion of similarity and Stachowiak’s representational relation can be regarded as related concepts: cf. Mittelstraß et al. (2005).
+123
+
+Synthese (2013) 190:3397–3420
+
+3417
+
+Models can be regarded as iconic signs as deﬁned by Charles S. Peirce. Such signs are characterized by having a similarity relation to their objects, i.e. by a mapping between the properties of the object and the model. This implies a representation of an object with regard to its respective quality by another object by way of its own quality, specifically by a mutual assignment of the respective qualities by a subject. This deﬁning property of an icon captures the basic intuition that models are models due to some kind of mapping between the model and the original objects.
+The properties of model and original, respectively, which are constitutive for the model relation are determined by an interpretation of the variables of a theory or language. The chosen theory, language or cultural practice determines (a) which of the attributes or relations are relevant and (b) which speciﬁc character the mapping or representational relation between the model attributes of the original and the syntactical attributes of the model shall have. This aspect of dependency of a model on some paradigm is captured by the basic notion of signs according to Peirce, in particular with regard to the “ground of the representamen”.
+As models can essentially only be interpreted with regard to a speciﬁc respect, i.e. the “ground of the representamen”, it has been clariﬁed that a model relation between objects never exists by itself, but has to be constituted by an interpreter’s implicit or explicit decision (a) for choosing a theory, an interpretation of the object to be represented and a syntax of the representing object and (b) for thereby deﬁning the representational relation between model and syntactical attributes, both amounting to subjectively determining an object as an icon which acts as a model for the original. This leads to the insight that the interpreter is the third essential element of the model relation and that he or she alone constitutes, with regard to a speciﬁc end (cf. Giere 2004, p. 743) and by his or her own choice of a speciﬁc theory deﬁning a speciﬁc representational relation or “style” (cf. Frigg 2006, p. 50), the speciﬁc semiotic model relation. And it is this fact which amounts to an essential subject- and context-dependency of models.
+Finally, these points can be summed up by sketching the semiotic structure of models.23 If one deﬁnes (a) the set of all objects which are represented by a model as the model’s extension, and (b) the language or theory in the context of which these objects are semantically interpreted and which determine the model attributes as the model’s intension, (c) the relevant attributes of the model as its syntax, and (d) the intentional act performed by the subject by constructing and using the model as the model’s pragmatics, then the result is the semiotic structure of models shown in Fig. 5: in the context of an intentional act, the pragmatics, a subject chooses a set of objects Oi=1,...,n, the model’s extension, a theory or language, the model’s intension—which together determine the semantics of the model by the interpretation of the variables of the theory by way of the attributes of the objects of the extension—, and an object Omod the attributes of which act as the model’s syntax if a representational relation
+
+23 With regard to the representational dimension of models, there is a conceptual similarity to approaches like Giere (2010); see esp. p. 296: “I argue for an intentional conception of representation in science that requires bringing scientiﬁc agents and their intentions into the picture. So the formula is: Agents (1) intend; (2) to use model, M; (3) to represent a part of the world, W; (4) for some purpose, P. This conception legitimates using similarity as the basic relationship between models and the world.”
+123
+
+3418
+
+Synthese (2013) 190:3397–3420
+
+Theory, Language Intension
+Variables Semantics
+Interpretation Extension
+Oi=1, …,n
+
+End Act of an Interpreter
+Pragmatics
+
+chooses
+
+defines
+
+Representation
+Functional Association Syntactical Attributes
+Model Attributes
+
+Omod Syntax
+
+Fig. 5 The semiotic structure of the model relation: in the context of an intentional act (i.e. the pragmatics), a subject chooses a set of objects Oi=1,...,n (i.e. the extension of the model) and a theory or language (i.e. the intension of the model), which together determine the semantics of the model, and an object Omod the attributes of which act as the syntax of the model on the basis of a representational relation between themselves and the semantic model attributes: in the context of a theory and with respect to the respective end, Omod becomes a model of the objects Oi=1,...,n
+between themselves and the semantic model attributes are deﬁned.24 It is this semiotic structure which makes an object Omod become a model of the objects Oi=1,...,n25 for a subject with regard to a chosen end. This semiotic structure basically implies a mapping between the attributes of the original objects and the model, which thereby deﬁnes the aspects of similarity basically deﬁning the notion of an icon.
+6 Summary
+At the beginning of this paper, we stated that our goal was to contribute to shedding light on the ontological puzzle associated with models, i.e. to contribute to a better
+24 In criticizing a mere structuralist notion of model, based on emphasizing the syntactical realization of the model and the act of assigning the syntactical attributes to the semantic structures, Frigg (2002, pp. 2–3) arrives at similar results concerning the inner structure of models: “Models are representative devices and everything that is essential to this purpose is part of the model. For this reason I conclude that a model is a complex entity consisting (at least) of a structure, a physical design and a process that hooks up the two.” 25 In the primary iconic model relation, there is, however, a further level: not the set of original objects Oi=1,...,n as the extension is the direct semiotic object of the model; rather, the direct object is the general notion corresponding to this set comprising these elements which are to be understood as single instances of the general notion. Of course, this relationship between single instance and general notion always rests on the relevant attributes of the model, and it is this that makes such a simpliﬁcation permissible.
+123
+
+Synthese (2013) 190:3397–3420
+
+3419
+
+understanding of what models and their essential characteristics are and, in particular, to contribute to a consistent general systematization of models. We have tried to attain this goal (1) by analyzing from a semiotic point of view the representational relation which is characteristic of models. This has led to the suggestion that models can be regarded as a speciﬁc kind of signs and, more precisely, as icons, i.e. as signs which are characterized by a (subjectively recognized) similarity relation between sign and object, i.e. between model and original. To corroborate our hypothesis, we have then discussed the conceptual differences between icons, i.e. models, and indexical and symbolic signs and have split the class of all icons into the three functional subclasses of images, diagrams, and metaphors. Subsequently, we have tried to integratively reﬁne our results by resorting to two prominent and, as could be shown, complementary philosophy of science approaches to models.
+This has yielded the following result: models are determined by a semiotic structure in which a subject intentionally uses an object, the model, as a sign for another object, the original, in the context of a chosen theory or language in order to attain a speciﬁc end by instituting a representational relation in which the syntactic structure of the model, its attributes and relations, represents by way of a mapping the properties of the original, which hence are regarded as or are postulated to be similar in a relevant manner.
+The semiotic theory of models put forward here thus seems to contribute to the solution of the “ontological puzzle” of models and to settle some vexed problems pertaining to them. In particular, it yields a consistent classiﬁcation of the most general types of models on the basis of a clear-cut criterion. But, nonetheless, many more questions and problems remain unsolved and await future analyses which will further unravel the nature and epistemic function of one of the most important tools of modern science and human thinking.
+Acknowledgments We thank two anonymous reviewers for this journal for their valuable comments.
+
+References
+Atkin, A. (2010). Peirce’s theory of signs. In E. N. Zalta (Ed.), The Stanford Encyclopedia of Philosophy (Winter 2010 ed.). Retrieved from http://plato.stanford.edu/entries/peirce-semiotics/.
+Bailer-Jones, D. (2009). Scientiﬁc models in philosophy of science. Pittsburgh, PA: University of Pittsburgh Press.
+Balzer, W. (1997). Die Wissenschaft und ihre Methoden: Grundsätze der Wissenschaftstheorie. München: Verlag Karl Alber.
+Black, M. (1962). Models and metaphors. Studies in language and philosophy. Ithaca, NY: Cornell University Press.
+Carnap, R. (1926). Physikalische Begriffsbildung. Karlsruhe: Braun. Chang, C. C. (1979). Model theory 1945–1971. In L. Henkin (Ed.), Proceedings of the Tarski Symposium
+held at the University of California (2nd ed., pp. 173–186), Berkeley, 23–30 June 1971. Providence, RI: American Mathematical Society. Contessa, G. (2010). Scientiﬁc models and ﬁctional objects. Synthese, 172, 215–229. CP = Hartshorne, Ch. et al. (Eds.). (1931–1958). Collected Papers of Charles Sanders Peirce. Cambridge, MA: Belknap Press of Harvard University Press. Eco, U. (2002). Einführung in die Semiotik (9th ed.). München: Fink. Frigg, R. (2002). Models and representation: Why structures are not enough. Measurement in Physics and Economics Project Discussion Paper Series, DP MEAS 25/02, London School of Economics. Retrieved from http://www.romanfrigg.org/writings/Models_and_Representation.pdf.
+123
+
+3420
+
+Synthese (2013) 190:3397–3420
+
+Frigg, R. (2006). Scientiﬁc representation and the semantic view of theories. Theoria, 55, 49–65. Frigg, R. (2010). Models and ﬁction. Synthese, 172, 251–268. Frigg, R., & Hartmann, S. (2006). Models in science. In S. Sarkar & J. Pfeifer (Eds.), The philosophy
+of science: An Encyclopedia (pp. 740–749). New York: Routledge. Frigg, R., & Hartmann, S. (2009). Models in science. In E. N. Zalta (Ed.), The Stanford Encyclopedia of
+Philosophy (Summer 2009 ed.). Retrieved from http://plato.stanford.edu/entries/models-science/. Giere, R. N. (1988). Explaining science: A cognitive approach. Chicago: University of Chicago Press. Giere, R. N. (1999). Using models to represent reality. In L. Magnani, N. J. Nersessian, & P. Thagard
+(Eds.), Model-based reasoning in scientiﬁc discovery (pp. 41–57). New York: Kluwer. Giere, R. N. (2004). How models are used to represent reality. Philosophy of Science, 71, 742–752. Giere, R. N. (2010). An agent-based conception of models and scientiﬁc representation. Synthese, 172,
+269–281. Hartmann, S. (2010). Modelle. In H.-J. Sandkühler (Ed.), Enzyklopädie Philosophie (Vol. 2,
+pp. 1627–1632). Hamburg: Meiner Verlag. Jakobson, R. (1988). Semiotik. Ausgewählte Texte. 1919–1982. Herausgegeben von Elmar Holenstein.
+Frankfurt am Main: Suhrkamp. Kant, I. (1781/1787). Kritik der reinen Vernunft. Riga: J. F. Hartknoch. Kralemann, B. (2002). Zur Analyse des Modellbegriffs. In W. Deppert, K. Köther, B. Kralemann, C.
+Lattmann, N. Martens, J. Schaefer (Eds.), Selbstorganisierte Systemzeiten. Ein interdisziplinärer Diskurs zur Modellierung lebender Systeme auf der Grundlage interner Rhythmen (pp. 145–164). Leipzig: Leipziger Universitätsverlag. Kralemann, B. (2006). Umwelt, Kultur, Semantik – Realität. Leipzig: Leipziger Universitätsverlag. Kuhn, T. S. (1996). The structure of scientiﬁc revolutions (3rd ed.). Chicago: University of Chicago Press. Lattmann, C. (2012). Icons of novel thought. A new perspective on Peirce’s deﬁnition of metaphor (CP 2.277). Semiotica, 192 (in print). Mahr, B. (2009). Information science and the logic of models. Software and System Modeling, 8, 365–383. Mahr, B. (2010). Intentionality and modeling of conception. In S. Bab & K. Robering (Eds.), Judgements and propositions—Logical, linguistic, and cognitive issues (pp. 61–87). Berlin: Logos Verlag. Mittelstraß, J., Gabriel, G., & Carrier, M. (2005). Art. “ähnlich/Ähnlichkeit”. In J. Mittelstraß (Ed.), Enzyklopädie Philosophie und Wissenschaftstheorie (Vol. 1, p. 52). Stuttgart: Metzler. MS = manuscript by Charles S. Peirce, numbered according to Robins, R. S. (1967). Annotated Catalogue of the Papers of Charles S. Peirce (Worcester: Univ. of Massachusetts Press); Robins, R. S. (1971). The Peirce Papers. A Supplementary Catalogue. Transactions of the Charles S. Peirce Society, 7, 37–57. Queiroz, J., & Stjernfelt, F. (2011). Introduction: Diagrammatical reasoning and Peircean logic representations. Semiotica, 186, 1–4. Quine, W. V. O. (1951). Two dogmas of empiricism. Philosophical Review, 60, 20–43. Rolf, E. (2005). Metaphertheorien. Typologie, Darstellung, Bibliographie. Berlin: de Gruyter. Saussure, F. de (1983). Course in general linguistics (C. Bally & A. Sechehaye, Eds., Trans. R. Harris). La Salle: Open Court. Short, T. L. (2007). Peirce’s theory of signs. Cambridge: Cambridge University Press. Stachowiak, H. (1973). Allgemeine Modelltheorie. Wien: Springer. Stjernfelt, F. (2007). Diagrammatology. An investigation on the borderlines of phenomenology, ontology, and semiotics. Dordrecht: Springer. Stjernfelt, F. (2011). On operational and optimal iconicity in Peirce’s diagrammatology. Semiotica, 186, 395–419. Suárez, M. (2003). Scientiﬁc representation: Against similarity and isomorphism. International Studies in the Philosophy of Science, 17, 225–243. Suárez, M. (2004). An inferential conception of scientiﬁc representation. Philosophy of Science, 71, 767–779. Suppes, P. (1960). A comparison of the meaning and the uses of models in mathematics and the empirical sciences. Synthese, 12, 287–301. Vaught, R. L. (1979). Model theory before 1945. In L. Henkin (Ed.), Proceedings of the Tarski symposium held at the University of California (2nd ed., pp. 173–186), Berkeley 23–30 June 1971. Providence, RI: American Mathematical Society. Wittgenstein, L. (1953). Philosophische Untersuchungen. Oxford: Blackwell.
+
+123
+
