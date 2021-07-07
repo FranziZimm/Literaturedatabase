@@ -1,0 +1,274 @@
+Topics in Cognitive Science (2013) 1–18 Copyright © 2013 Cognitive Science Society, Inc. All rights reserved. ISSN:1756-8757 print / 1756-8765 online DOI: 10.1111/tops.12013
+The Motion Behind the Symbols: A Vital Role for Dynamism in the Conceptualization of Limits and
+Continuity in Expert Mathematics
+Tyler Marghetis, Rafael Nu~nez
+Department of Cognitive Science, University of California, San Diego Received 1 May 2011; received in revised form 09 February 2012; accepted 9 February 2012
+Abstract The canonical history of mathematics suggests that the late 19th-century “arithmetization” of
+calculus marked a shift away from spatial-dynamic intuitions, grounding concepts in static, rigorous deﬁnitions. Instead, we argue that mathematicians, both historically and currently, rely on dynamic conceptualizations of mathematical concepts like continuity, limits, and functions. In this article, we present two studies of the role of dynamic conceptual systems in expert proof. The ﬁrst is an analysis of co-speech gesture produced by mathematics graduate students while proving a theorem, which reveals a reliance on dynamic conceptual resources. The second is a cognitivehistorical case study of an incident in 19th-century mathematics that suggests a functional role for such dynamism in the reasoning of the renowned mathematician Augustin Cauchy. Taken together, these two studies indicate that essential concepts in calculus that have been deﬁned entirely in abstract, static terms are nevertheless conceptualized dynamically, in both contemporary and historical practice.
+Keywords: Mathematical practice; Metaphor; Fictive motion; Gesture; Cauchy; Calculus; Conceptualization
+1. Introduction
+That mathematics is a cognitive practice is little more than a truism. Advanced mathematics requires advanced thinking. And yet, when it comes to accounting for the peculiar nature of mathematics, the cognitive aspects of its practice are puzzling. After all, mathematics is resolutely abstract—concepts like numbers and functions cannot be perceived directly through the senses—and yet its concepts and results are precise, rigorous, and
+Correspondence should be sent to Tyler Marghetis, Department of Cognitive Science, University of California, San Diego, La Jolla, CA 92093-0515. E-mail: tmarghet@cogsci.ucsd.edu
+
+2
+
+T. Marghetis, R. Nun~ez / Topics in Cognitive Science (2013)
+
+stable. Given this, it is no wonder that philosophy of mathematics from the late 19th century onward has been concerned chieﬂy with formal foundations, bracketing the details of cognition and practice as secondary, even irrelevant (e.g. Frege, 1884). Cognition, it seems, is far too ﬁckle to account for the certainty and stability of mathematics.
+Consider the evocative way in which modern calculus textbooks introduce the concept of continuity: “In everyday speech a ‘continuous’ process is one that proceeds without gaps or interruptions or sudden changes. Roughly speaking, a function y = f(x) is continuous if it displays similar behavior” (Simmons, 1985, p. 58; our emphasis). Textbooks are quick to remark, however, that a rigorous deﬁnition is required: “Up to this stage our remarks about continuity have been rather loose and intuitive, and intended more to explain than to deﬁne” (Simmons, 1985, p. 58; our emphasis). Then, the standard deﬁnitions are introduced. For instance, here is the contemporary deﬁnition of the limit of a function:
+
+Let a function f be deﬁned on an open interval containing a, except possibly at a itself,
+and let L be a real number. The statement limx?af(x) = L means that ∀e > 0, ∃d > 0, such that if 0 < ∣x À a∣ < d, then ∣f(x) À L∣ < e. (Simmons, 1985)
+
+The deﬁnition of continuity builds on this. For a function f to be continuous at a real number a, then (a) it must be deﬁned on an open interval containing a, (b) the limit limx?af(x) must exist, and (c) that limit must equal f(a). Nowhere in these so-called “e–d” deﬁnitions is there any mention of motion or space; instead, there are only motionless arithmetic differences (e.g., ∣f(x) À L∣), universal and existential quantiﬁers over motionless real numbers (e.g., ∀e > 0, ∃d > 0), and motionless inequalities (e.g., 0 < ∣x À a∣ < d). One common view afﬁrms that rigorous deﬁnitions of this sort, and perhaps the formal derivations they indicate, capture the precise meaning of mathematical concepts and exhaust the space of valid inferences (e.g., Hilbert, 1922).
+And yet contemporary mathematical discourse remains rife with dynamic language. The introductory comments quoted above recruit dynamic expressions to talk about supposedly static entities (e.g., “proceeding without gaps”). Indeed, despite the prescription against “loose” and “intuitive” dynamic reasoning, it is common to ﬁnd—even in technical books—discussions of limits and continuity that recruit dynamic terms and verbs of motion, as in “sin 1/x oscillates more and more as x approaches zero” or “g(x) never goes beyond 1” (Nu~nez, 2006). Mathematicians themselves use such language, describing functions as increasing, oscillating, crossing, and even approaching a limit. So, do axioms and logic exhaust the meaning of mathematical concepts? If rigorous deﬁnitions are so precise and complete—whether couched in natural language or symbolic notation— then why do mathematicians, in practice, routinely use such rich and evocative language?
+
+1.1. A functional role for cognition in mathematical practice
+
+One possible reason for the presence of this ﬁgurative language is that it is the surface manifestation of stable and productive conceptual systems. Indeed, the inferential
+
+T. Marghetis, R. Nun~ez / Topics in Cognitive Science (2013)
+
+3
+
+structure of mathematics may reﬂect mathematicians’ rich, shared conceptual systems, shaped by social practices and human sense-making needs, which are brought forth by everyday cognitive mechanisms for human imagination (Fauconnier & Turner, 2002; Lakoff & Nu´n˜ez, 2000). In particular, the source–path–goal schema (Johnson, 1987) and ﬁctive motion (Talmy, 2000) have been argued to contribute to the meaning and inferential structure of mathematical concepts like functions, limits, and continuity, despite the fact that such notions are absent from modern-day deﬁnitions of these concepts (Nu~nez, 2006; Nu~nez & Lakoff, 1998).
+In this article, we investigate the possibility that mathematicians’ conceptual systems generate inferences that differ from—and perhaps complement—those captured by canonical deﬁnitions and formalisms. We argue, moreover, that these conceptual systems actively guide and constrain expert mathematical practice. We begin by introducing some theoretical preliminaries. Then we present new empirical evidence in support of this central role for cognition: a quantitative analysis of graduate student problem solving, and a cognitive-historical case study of 19th-century mathematical practice.
+
+2. Cognitive semantics of continuity and limits
+Up until the 19th century, mathematicians had an explicitly dynamic conception of continuity. Euler, for instance, thought of a continuous curve as “a curve described by freely leading the hand” (cited in Stewart, 1995, p. 237). This “natural” conception of continuity is consistent with the idea of continuity as understood outside of mathematics, drawing on basic, shared intuitions of space and motion (Nu~nez & Lakoff, 1998). According to researchers in cognitive linguistics, these perceptual and embodied intuitions are organized into structured image schemas—preconceptual primitives, such as containment or support, that serve as building blocks for further abstraction (Johnson, 1987). Experimental work in psycholinguistics and gesture studies suggests that image schemas are psychologically real—that is, that they capture aspects of real-time cognitive processing, playing a role, for instance, in comprehension and lexical semantics (e.g., Richardson, Spivey, McRae, & Barsalou, 2003).
+In the case of natural continuity, the relevant intuitions are drawn from a source–path– goal schema, concerned with uninterrupted motion along a course, which has the following features (Lakoff & Nu´n˜ez, 2000):
+1. A trajector that moves 2. A source location (the starting point) 3. A goal—that is, an intended destination of the trajectory 4. A route from the source to the goal 5. The actual trajectory of motion 6. The position of the trajector at a given time 7. The direction of the trajector at that time
+
+4
+
+T. Marghetis, R. Nun~ez / Topics in Cognitive Science (2013)
+
+8. The actual ﬁnal location of the trajector, which may or may not be the intended destination.
+The source–path–goal schema has an internal spatial “logic” and built-in inferences (Fig. 1). For example, if a trajector has traversed a route to a current location, it has been at all previous locations on that route. The source–path–goal schema by itself, however, is insufﬁcient to characterize limits and continuity for functions. For this, further cognitive mechanisms are needed: ﬁctive motion and conceptual metaphor.
+
+2.1. Fictive motion and conceptual metaphor
+
+Fictive motion is a ubiquitous phenomenon of language and thought in which static entities are conceptualized in dynamic terms, as manifested in the expression, “The equator passes through Brazil” (Talmy, 2000). The equator, as an imaginary entity, does not actually travel across the Brazilian countryside, and yet comprehension of the expression seems to invoke a sense of directed motion. When the movement follows a course, it preserves the properties of the source–path–goal schema mentioned above.
+Motion, in these cases, is ﬁctive, imaginary, and not real in any literal sense. And yet recent experimental studies have shown that ﬁctive motion is not a mere ﬁction: Behavioral and eye-tracking studies have demonstrated that comprehending ﬁctive motion expressions recruits spatial processing (see Matlock, 2010 for a review), and neuroimaging studies have found activation in MT+, a brain area known to respond selectively to perceived motion, for both actual and ﬁctive motion sentences (Nu~nez, Huang, & Sereno, 2007; Saygin, McCullough, Alac, & Emmorey, 2010).
+When it comes to functions, limits, and continuity, ﬁctive motion operates on a speciﬁc network of precise conceptual metaphors, cross-domain conceptual mappings that allow us to conceptualize functions as having motion and directionality (Lakoff & Nunez, 2000). For instance, the conceptual metaphor numbers are locations in space conceptualizes numbers in
+
+Fig. 1. The Source–Path–Goal schema (after Lakoff & Nunez, 2000, p. 38).
+
+T. Marghetis, R. Nun~ez / Topics in Cognitive Science (2013)
+
+5
+
+terms of spatial positions. The combined operation of these two mechanisms provides the
+meaning and inferential structure of expressions like “g(x) never goes beyond 1,” and “If
+there exists a number L with the property that f(x) gets closer and closer to L as x gets larger and larger, then limx?∞f(x) = L” (see Nu~nez, 2006, for details).
+The canonical e–d characterization of continuity found in textbooks does not have these dynamic properties and is built on a different inferential organization: the static notion of preservation of closeness near a location (Nu~nez & Lakoff, 1998). Understanding continuity as preservation of closeness involves static locations, landmarks, reference
+points, distances, but no trajectors, no paths, no directionalities, no motion. As a result, the static e–d characterization captures a different set of inferences,1 but it ignores those inferences underlying dynamic expressions such as “tending to a limit.” Perhaps this dynamism is merely incidental—but this is an empirical question. Indeed, dynamic mathematical discourse may point to a complementary system of inferences—inferences derived from ﬁctive motion and source–path–goal schemas—which shapes and constrains mathematical reasoning, and thus, plays a role in discovery, inference, and proving. In
+what follows, we present two sources of evidence that this is the case.
+
+3. Dynamism in the contemporary practice of calculus
+Dynamic language is not, on its own, conclusive evidence for dynamic thought. The dynamic expressions of textbooks and casual mathematical discourse could be the sedimentation of historical patterns of thought, conventionalized expressions that lack cognitive reality, and merely stand as a shorthand for the rigorous, static concepts. Contemporary mathematical practice might be dynamic on the surface but static at its core.
+One tool for investigating the conceptual processes underlying real-time inference is the study of gesture—that is, spontaneous motor action co-produced with speech and thought. Co-speech gesture has a number of properties that make it useful for the study of abstract thought. For one, the body is a privileged semiotic resource during situated interaction, and gesture ﬁgures prominently in such embodied meaning making (Goodwin, 2000). In addition, gesture reﬂects thought processes that are not evident in speech. For instance, when children explain their solutions to algebra problems, their speech and gesture together are more indicative of their implicit solution strategy than either speech or gesture alone (Alibali, Bassok, Solomon, Syc, & Goldin-Meadow, 1999). Moreover, Cienki (1998) showed that gesture can reﬂect metaphoric thought even in the absence of metaphoric speech. Indeed, gesture is often unmonitored and spontaneous and can thus serve as a visible index of underlying thought (McNeill, 1992).
+The recruitment of dynamic resources in mathematics is not limited to spoken or written language but is also manifested in mathematicians’ co-speech gesture production, suggesting that the ﬁctive motion found in speech and text has some real-time cognitive reality (Nu~nez, 2006, 2009). The existing research on gesture production in mathematics, however, has been restricted to the contexts of teaching and learning—and mathematical
+
+6
+
+T. Marghetis, R. Nun~ez / Topics in Cognitive Science (2013)
+
+pedagogy is a tenuous proxy for mathematical practice. After all, it is standard teaching technique to use concrete illustrations and analogies to ground the abstruse in the everyday, such as when a physics professor describes electricity as liquid running through a pipe—even though the professor herself does not reason about electricity in terms of liquids (Gentner & Gentner, 1983). The transition from novice to expert practice might require the gradual abandonment of these pedagogical scaffolds. When experts are generating a proof, do they rely on dynamic conceptual resources?
+
+3.1. Documenting expert proof practices
+To investigate the role of ﬁctive motion and source–path–goal schemas in contemporary calculus, we analyzed a video corpus collected during a study on expert proof practices.2 Six pairs of graduate students in mathematics (three women, nine men) at a large American research university were paid to participate in a semicontrolled naturalistic study. Participants were asked to prove a ﬁxed-point theorem:
+
+Theorem
+Let f be a strictly increasing function3 from the interval [0, 1] to the interval [0, 1]. Then there exists a number a in the interval [0, 1] such that f, a = a.
+Each dyad had up to 40 min to prove the theorem, working together at the blackboard in a seminar room, after which they were asked to explain their proof to the experimenter. The entire session was video recorded, resulting in a video corpus of nearly 5 h.
+Note that this theorem evokes mathematical concepts with entirely static deﬁnitions, but which may also be conceptualized dynamically—concepts like continuity, increasing functions, and limits. If inference making during proving is driven by the static, canonical deﬁnitions of these mathematical concepts, then co-speech gesture should reﬂect this static conceptual organization. If these mathematical concepts are truly metaphorical and dynamic, on the other hand, then co-speech gesture should reveal this dynamism.
+The video corpus was analyzed in two steps. First, based on research in cognitive linguistics (Nu~nez, 2006; Talmy, 2000), we generated a principled list of lexical items thought to reﬂect ﬁctive motion and source–path–goal schemas, as well as those thought to reﬂect static conceptualizations. These included mathematical terms (e.g., function, continuity, limit, contain), verbs of motion (e.g., to cross, to move, to jump), and spatial terms (e.g., up, between, left, right). The corpus was then searched for instances where these lexical items were accompanied by representational gestures (McNeill,1992), and the accompanying gesture phrases were singled out for further analysis. Next, these gesture phrases were categorized as either dynamic or static using a coding scheme. Since gestures are co-speech motor actions and thus necessarily involve movement, the coding scheme differentiated between gestures for which the dynamism was an artifact of gesture production and those for which the dynamism was expressive. The coding scheme criteria
+
+T. Marghetis, R. Nun~ez / Topics in Cognitive Science (2013)
+
+7
+
+attended to details of gesture kinematics and morphology. A gesture phrase was coded as dynamic if it had an unbroken trajectory involving smooth motion; as static if it consisted of a divided trajectory involving staccato motion; and as ambiguous if it did not transparently ﬁt into either of these categories.
+
+3.2. Dynamism in expert proving
+
+All the dyads produced proofs that were nearly complete. Every participant but one produced representational gestures co-timed to the speciﬁed lexical items, for a total of 166 coded gestures. Of these, half (50.6%) were coded as dynamic, and slightly less (41.6%) as static.4 Gesture production by participants is summarized in Fig. 2.
+To investigate the degree to which gesture type was determined by accompanying conceptual processes, we focused on mathematical concepts that have been suggested to have a privileged construal that is primarily either dynamic or static: dynamic concepts like increasing function, continuity, and intersection, and static concepts like containment and closeness (Lakoff & Nunez, 2000). As hypothesized, gesture dynamism varied according to the content of the co-occurring speech, with certain concepts associated with a prevalence of dynamic or static gestures. For instance, gestures co-produced with talk of increase, continuity, and intersection were more often dynamic; those co-produced with talk of containment and closeness were more often static (Fig. 3).
+To test the signiﬁcance of this trend for each concept, the proportion of co-produced dynamic gestures was calculated for each participant who gestured while discussing that concept. Among those participants who gestured while speaking of “increase,” co-produced gestures were signiﬁcantly more often dynamic [F(1, 10) = 28.90, p = .0003]. Continuity and intersection were associated with a higher rate of dynamic gesture, although this effect did not reach signiﬁcance. Participants produced a signiﬁcantly higher proportion of static gestures, on the other hand, while discussing “containment” [F(1, 12) = 6.75, p = .0232] and “closeness” [F(1, 10) = 76.73, p < .0001]. These quantitative regularities
+
+Fig. 2. Breakdown of gesture production by participant.
+
+8
+
+T. Marghetis, R. Nun~ez / Topics in Cognitive Science (2013)
+
+Fig. 3. Number of dynamic and static gestures by co-occurring concept.
+in gesture production suggest that dynamic construals persist in the midst of highly technical proofs, even when the proofs invoke the canonical, static deﬁnitions.
+A few examples will illustrate the range and regularities of participants’ gesture. The concept of “increase” seemed to demand an exclusively dynamic treatment; co-produced representational gestures were all dynamic. For instance, in Fig. 4, the participant is discussing “increasing sequences.” At the onset of the word “increasing,” he begins to ﬂuidly move his left hand upwards and toward the right, his thumb extended as if tracing the motion of an imagined trajectory—and, notably, not pointing at a blackboard inscription (Fig. 4A). He then produces a similar dynamic gesture with his right hand (Fig. 4B) before retracting both hands as he ﬁnishes saying “sequences” (Fig. 4C). Both hand morphology (extended thumb) and kinematics (ﬂuid diagonal motion) are suggestive of a dynamic construal of the associated sequence, in which a variable serves as an imagined trajector that moves from bottom left to top right as it increases in value over time.
+Compare this with the participant in Fig. 5 who is working with inequalities in set notation when he produces a quintessentially dynamic gesture. As he says, “So that
+
+(A)
+
+(B)
+
+(C)
+
+Fig. 4. A dynamic gesture produced while describing an increasing sequence. Both hands evoke the sequence’s ﬁctive motion.
+
+T. Marghetis, R. Nun~ez / Topics in Cognitive Science (2013)
+
+9
+
+(A)
+
+(B)
+
+(C)
+
+Fig. 5. A dynamic gesture produced during discussion of an increasing function. A ﬂuid rightward hand movement is co-timed with speech.
+contradicts uhhh increasing,” his right hand ﬂies upward and to the right, his index ﬁnger extended in a pointing hand shape as if tracing a path (Fig. 5A,B). The participant produces this dynamic gesture after writing a sequence of static inequalities, and yet his gesture suggests a fundamentally dynamic understanding of increasing functions—where functions, which do not literally move, are conceptualized in terms of trajectors moving ﬁctively along a trajectory. In both these examples, the graduate students conceptualize increasing functions and sequences as dynamic, moving entities.
+This gestural dynamism was not mandatory, however. Discussions of closeness and containment, in particular, were often accompanied by static gestures (Fig. 6). Here, the participant is discussing the values of a function within a restricted region, saying, “Well, if you look at a, sort of, small enough [region].” Co-timed with the onset of “small,” she quickly moves her hands toward each other (Fig. 6A), stops brieﬂy, then retracts her hands to their original distance (Fig. 6B), before repeating the same inward staccato stroke as she says “enough” (Fig. 6C). This static gesture indexes two exact points in space, evoking the end points of the function’s domain.
+
+(A)
+
+(B)
+
+(C)
+
+Fig. 6. A static gesture co-timed with the utterance, “small enough.”
+
+10
+
+T. Marghetis, R. Nun~ez / Topics in Cognitive Science (2013)
+
+(A)
+
+(B)
+
+Fig. 7. Two gestures co-produced with the utterance, “to the left.” While the gesture on the left is static, the one on the right is dynamic, thus illustrating that their properties are not entirely determined by the lexical afﬁliate.
+Gesture type was not entirely determined by the lexical afﬁliate, so that a single utterance was amenable to different representations in gesture. The utterance “to the left,” for instance, received both dynamic and static treatments in gesture (Fig. 7). Speaking of an interval to the left of a particular point, one participant co-produces a static gesture consisting of a forward beat with a small-c hand shape, followed by a post-stroke hold of nearly 1 s, capturing the static notion of containment (Fig. 7A). Discussing a function that intersects a line by “going a little bit to the left,” another participant ﬂuidly slides his hand to the left, his foreﬁnger extended in the direction of motion—expressing the function’s imagined motion (Fig. 7B). Although produced with the same lexical afﬁliate— “to the left”—these two gestures differ radically in kinematics and hand shape.
+This quantitative and qualitative analysis supports the hypothesis that dynamic thought is widespread and spontaneous during the generation of a rigorous proof. Dynamic gesture was associated with concepts thought to involve ﬁctive motion and source–path–goal schemas, suggesting that dynamic conceptualizations are not restricted to pedagogy but active during expert mathematical practice. It remains unclear, however, what role this dynamism is playing. Is it merely supporting understanding, or does it actively shape and constrain inference-making? To begin to answer this, we turn to a cognitive-historical case study of 19th-century mathematics.
+4. Cauchy and the dynamic continuum
+Both static e–d continuity and dynamic natural continuity are evident in textbook and expository discourse, and the gesture study described above suggests that dynamic conceptualization is present during real-time mathematical practice, even when practitioners are engaged in rigorous proving. How do these different conceptual systems impact the practice of mathematics itself—what mathematicians write, infer, argue, claim? One possibility is that they play a functional role in mathematical practice by supplying inferential structure and thus guiding proof creation and veriﬁcation. Actual mathematical
+
+T. Marghetis, R. Nun~ez / Topics in Cognitive Science (2013)
+
+11
+
+proofs, after all, are seldom fully formalized but are couched in natural language (Rav, 2007) and depend on readers’ tacit know-how and implicit, shared knowledge (L€owe & M€uller, 2010).
+A particular incident in the mid-19th-century development of the calculus is illuminating: Cauchy’s formulation and repeated defense of a “false” theorem. This historical incident has received considerable attention from historians of mathematics, and we do not intend to revisit the historical details in their entirety (see, e.g., Laugwitz, 1987). In addition, a complete cognitive-historical analysis of this incident would need to unpack the notion of inﬁnitesimal number in Cauchy’s conceptual system, which goes beyond the scope of this article.5 Rather, we focus here on how the ﬁndings of cognitive science can shed light on the particular role of dynamism in this episode.
+
+4.1. Cauchy’s “fallacious” proof
+
+In 1821, Cauchy published the textbook Cours d’analyse, which is often credited with laying the groundwork for a rigorous account of continuity, limits, and other concepts central to calculus (e.g. Bell, 1940). But the Cours d’analyse also contained a purported proof of a theorem that, in the words of the mathematician Abel, “admits exceptions.” Cauchy’s theorem is commonly expressed as:
+
+Theorem
+
+The limit function of a convergent sequence of continuous functions is itself continuous.
+In other words, if all the terms of a converging sequence are continuous, then the limit of this sequence—itself a function—should be continuous as well. This is true in many cases. But as stated, the theorem is apparently false: There exist counterexamples, many of which were well known even to Cauchy (Laugwitz, 1987). Consider, for instance, a Fourier series suggested by the mathematician Abel in 1826:
+
+sinðxÞ À 1 sinðxÞ þ 1 sinð3xÞ À Á Á Á
+
+2
+
+3
+
+Each term is continuous, the partial sums are all continuous, and as the number of terms approaches inﬁnity, the sequence converges to a function. Cauchy’s theorem states that this limit function should itself be continuous. But from the perspective of modernday calculus as codiﬁed by standard e–d deﬁnitions, and even to mathematicians of Cauchy’s time, Abel’s function is discontinuous at any odd multiple of p (Fig. 8). Cauchy, it seems, was wrong. In spite of these counterexamples, Cauchy reiterated his theorem and proof unchanged in 1833; and then defended a slightly modiﬁed version before the French Academy of Sciences in 1853. How to explain this perseveration in error by a great mathematician and central ﬁgure in the 19th-century development of analysis?
+
+12
+
+T. Marghetis, R. Nun~ez / Topics in Cognitive Science (2013)
+
+Fig. 8. Partial sums of Abel’s counterexample, with 3, 10, and 1,000 terms. As the number of terms approaches inﬁnity, the series approaches a limit function that is not (e–d) continuous at integer multiples of p.
+One possibility is that Cauchy was just plain confused. From the perspective of modern-day calculus, what is missing is the notion of uniform convergence (GrattanGuinness, 1979). Cauchy was not alone in failing to recognize uniform convergence, so perhaps his blunder is not so exceptional. This deﬂationary account, however, seems at odds with Cauchy’s sustained and deliberate defense of his theorem in the face of counterexamples (Larvor, 1997). But if not a simple oversight, then what?
+4.2. Dynamism in Cauchy and cognitive science
+An alternate proposal, due to Lakatos (1978), is that the controversy was the result of differences in the implicit theories held by Cauchy and by his critics. Lakatos argues that, in generating his proof, Cauchy was not drawing on the inferential structure of modernday calculus but was operating with an idiosyncratic theory of the continuum in which dynamism played a crucial role. Cauchy’s understanding of variable, function, and continuity were dynamic in speciﬁc and precise ways. For instance, he writes:
+On dit qu’une quantite variable devient inﬁniment petite, lorsque sa valeur numerique decroit indeﬁniment de maniere a converger vers la limite zero. (Cauchy, 1821, p. 37, emphasis in the original)
+In this passage, we are told that a variable becomes inﬁnitely small (“devient inﬁniment petite”) whenever its numerical value decreases indeﬁnitely (“decroit indeﬁniment”) in such a way that it converges to a limit of zero. Elsewhere, he deﬁnes a variable with a limit at positive inﬁnity as one that takes on values that “increase more and more, in such
+
+T. Marghetis, R. Nun~ez / Topics in Cognitive Science (2013)
+
+13
+
+a way that it surpasses any given number” (Cauchy, 1821, p. 19, our translation6). Numbers are granted motion, and that motion is structured by the source–path–goal schema: Cauchy’s variables are allowed to move along the continuum of numbers, not just taking on discrete values, but moving against the background of the continuum and passing “any given number” in the process. For Cauchy, “‘variable quantity’ is not simply a manner of speech but a vital part of the theory” (Lakatos, 1978, p. 156). When grounded in cognitive phenomena like ﬁctive motion and image schemas, Cauchy’s dynamic “theory” is seen as a case of idiosyncratic conceptualization.
+If these linguistic ﬂourishes were the extent of Cauchy’s dynamism, then a skeptical reader would be right to wonder what the fuss is all about. But the dynamism of Cauchy’s thought is essential to his “fallacious” proof. The inferential structure that Cauchy evinces in his proof is what one might expect if he were to metaphorically construe the continuum as consisting, in part, of moving points (Lakatos, 1978)—that is, trajectors moving ﬁctively across a numerical landscape. This is particularly apparent when Cauchy (1853) directly addresses a proposed counterexample to his theorem: the Fourier series due to Abel (Fig. 8). His strategy is to show that Abel’s counterexample is not, after all, subject to the theorem—in particular, that the terms of the Fourier series are not convergent in a small region around the putative points of discontinuity, and so, therefore, violate one of the theorem’s assumptions. To show this, Cauchy uses a notion of “point mobile” (1853, p. 36), or moving point. The crux of Cauchy’s argument is that the series does not converge for all points in a sufﬁciently small region around the troublesome values of x = Æp, Æ3p, Æ5p…—in particular, for nearby moving points. In addition to the immobile real numbers along the continuum, Cauchy also requires that the series converges for, for example, the moving point x ¼ 1n, with n taking on increasingly larger values. With this added requirement, Abel’s counterexample no longer converges at the points of [e–d] discontinuity (Lakatos, 1978). This notion of a moving point is an instance of ﬁctive motion, structured by a source–path–goal schema.
+Importantly, Cauchy’s “point mobile” requires some background space against which it can move. In Euclid or Newton, similarly, a point could trace an arc, moving around a center, and yet maintain its identity; numbers were entities in a space, like a stain on a table’s surface, not constitutive of the space itself. In modern-day mathematics, on the other hand, a point’s identity is bound to its place in the continuum; the number 2 is no longer two if it moves past 2.1 or slides below 1.9 (Lakoff & Nu´n˜ez, 2000, Ch. 12). Not so for Cauchy, for whom a moving point could maintain its identity as it ranged across the background continuum. The argumentation in Cauchy’s proof, therefore, reveals a heavy dependence on ﬁctive motion and the source–path–goal schema, particularly when it comes to continuity and limits. Situated within a conceptual system that sanctions this dynamism, Cauchy’s proof becomes inferentially coherent.
+
+4.3. Discussion
+
+We have argued brieﬂy that Cauchy’s persistent defense of a “fallacious” proof is explained by his dynamic conceptualization of the continuum, as ﬁrst proposed by
+
+14
+
+T. Marghetis, R. Nun~ez / Topics in Cognitive Science (2013)
+
+Lakatos (1978). Moreover, we have suggested that this dynamism can be grounded in domain-general mechanisms documented by cognitive linguistics, mechanisms that provide some of the inferential organization of Cauchy’s conclusions. Dynamic conceptualization, therefore, is not limited to pedagogical or expository settings but plays a role in expert proving and shaped inference even in Cauchy—in spite of opposing pressures from rigorous deﬁnitions that capture an alternative, static conceptualization.
+This reading of Cauchy, of course, is not without its critics. Grattan-Guinness (1979) argues that Cauchy’s dynamic language was a product of his era, not a reﬂection of underlying conceptualization. Decades of research in cognitive linguistics and psychology, however, have demonstrated that regularities in metaphorical language are often indicative of underlying conceptual organization, as revealed by behavioral experiments, gesture studies, and neuroimaging (Nu~nez & Sweetser, 2006; Saygin et al., 2010; Williams & Bargh, 2008). Coupled to the evidence surveyed above that ﬁctive motion is ubiquitous and psychologically real, the regular and widespread use of dynamic language is evidence for, not against, a dynamic construal of variables, functions, and the continuum.
+In arguing for Cauchy’s dynamic conceptualization, of course, we are not ruling out the possibility that he also held a static conceptualization—indeed, he was responsible for introducing the notational innovations that are at the heart of the static e–d deﬁnitions of limits and continuity (Grabiner, 1983), deﬁnitions which rely on notions like preservation of closeness (Nu~nez & Lakoff, 1998). Multiple construals of a single conceptual domain are common; we can alternatively think of affection in terms of spatial proximity (“close friends”) or warmth (“a warm welcome”). Conceptualization is seldom monolithic, after all. Nevertheless, the preceding cognitive-historical case study suggests that Cauchy’s inference making was driven, at least in part, by a dynamic conceptualization of limits and continuity.
+
+5. General discussion
+Did the late-19th-century “arithmetization” of calculus effectively banish spatial intuitions? The two studies presented in this article suggest otherwise. The cognitive resources deployed by Cauchy to reason about the continuity of functions remain present in the proof practices of 21st-century mathematics graduate students. Mathematical concepts that are deﬁned in entirely abstract, static terms are nevertheless brought to life in virtue of precise yet dynamic cognitive mechanisms like ﬁctive motion and source–path– goal schemas.
+These dynamic conceptual resources inﬂuence proof practices in various ways. Dynamic, metaphorical reasoning may be especially important during the teaching, communication, or explanation of proof. Indeed, the role of metaphor, ﬁctive motion, and image schemas during pedagogy is supported by research on textbook discourse and classroom interaction (Nu~nez, 2006). It is possible that, outside of pedagogy, ﬁctive motion and image schemas also surface in expert mathematical practice—but only
+
+T. Marghetis, R. Nun~ez / Topics in Cognitive Science (2013)
+
+15
+
+epiphenomenally, or as a handmaiden to standard technical reasoning. For instance, the dynamic gesture production observed among graduate students engaged in proving could, conceivably, reﬂect dynamic thinking, but only as an upshot of step-by-step logical inference. The Cauchy incident, however, suggests a more active role for conceptual systems: When it comes to functions, limits, and continuity, the skillful practitioner complements the rigorous deﬁnitions with dynamic conceptualizations, each guiding and constraining the other.
+Admittedly, it remains to be shown that dynamism continues to play this last role in modern-day mathematics. Many historians of mathematics, after all, believe that Cauchy marked the end of a reliance on dynamical intuitions; any remaining dynamical intuitions, they argue, should play second ﬁddle to the precise deﬁnitions that replaced intuition with rigor. Nevertheless, the paired studies show that dynamic conceptualization is present in expert practice and has the potential, at least, to structure the inferences deployed in proofs.
+
+5.1. Stability and certainty
+
+Most cognitive activities are marked by rampant and sometimes irresolvable disagreement. If the meaning and inferential structure of, say, poetry (Turner, 1996) is brought forth by the same domain-general cognitive mechanisms as mathematics, then what accounts for the exceptional stability and certainty of mathematical belief? The Cauchy incident, after all, is striking exactly because it exhibits sustained disagreement, unusual in mathematics. Cognition seems at pains to account for the stability of mathematical practice.
+A number of observations mitigate the force of this objection. First, the stability of mathematics may have been overblown, obscuring ambiguity and dissent (Byers, 2007; Grosholz, 2007; Lakatos, 1976). Second, mathematics is subject to stringent cultural norms and top-down pressures that preclude sustained disagreement; when ambiguities do arise, they are quickly dissolved. Third, when conceptual systems are widely shared, they may actually contribute to the stability of mathematical thought. Conversely, the case study of Cauchy highlights the lack of robust consensus and mutual understanding that can arise when conceptual systems are not shared, a sentiment echoed by mathematicians themselves (e.g., Thurston, 1994).
+Fourth, mathematical practice is not restricted to purely intracranial cognitive resources but also draws on a rich set of external cognitive tools: graphs, diagrams, notations (Muntersbjorn, 2003; Giaquinto, 2007; De Cruz, 2008; Landy & Goldstone, 2007; see also Hutchins, 1995). These material artifacts may play a role in generating consensus by structuring inference making during discovery and proof. In this vein, we note only in passing that Cauchy was one of the originators of the e–d notation (Grabiner, 1983)—and yet failed to deploy those notational resources in any signiﬁcant way in his contested proof. Imaginative conceptual processes, moreover, interact in largely unexplored ways with these external resources (Kirsh, 2010). Recall that graduate students’ thinking remained dynamic even when fully immersed in set notation; static deﬁnitions and
+
+16
+
+T. Marghetis, R. Nun~ez / Topics in Cognitive Science (2013)
+
+dynamic thought operated in concert. Stable mathematical practice may emerge from this interplay between rigorous deﬁnitions—often codiﬁed by precise and productive notations— and the rich conceptual systems deployed by mathematicians while proving.
+
+5.2. Conclusion
+
+As Wittgenstein (2009, p. 238) reminds us, “Of course, in one sense, mathematics is a body of knowledge, but still it is also an activity.” Proving is a skillful activity that demands the simultaneous deployment of a variety of resources, some rigorous and abstract (e.g. e–d notation), others more conceptual, embodied, experiential—in a word, human. Our analysis of mathematical practice, both historical and contemporary, suggests that conceptual systems play an essential role in skillful proving, even when those conceptual systems—which are not mere “vague informal intuitions”—are inconsistent with the standard technical deﬁnitions and deductive inferences that are sometimes considered the core of mathematics. Mathematical practice is a human practice, a cognitive activity par excellence, and much of that activity is irreducible to formalisms and logic. Accounting for the singular nature of mathematics will require that we attend to the details of that cognitive activity.
+
+Acknowledgments
+We are grateful to the organizers and participants of the Workshop on Mathematical Practice and Cognition (Leicester, UK, 2010) and the First Annual Meeting of the Association for the Philosophy of Mathematical Practice (Brussels, Belgium, 2011), who responded to parts of this paper. Thanks to Kensy Cooperrider and Ben Sheredos for insightful comments on earlier versions of this work, and to three anonymous reviewers whose critical suggestions helped clarify the text and our argument. We are indebted to Laurie Edwards and Guershon Harel, collaborators on the project that generated the video data. Tyler Marghetis was supported by a Doctoral Fellowship from the Fonds de recherche sur la societe et la culture (Canada).
+
+Notes
+1. As pointed out by an anonymous reviewer, a dynamic conceptualization does not preclude a rigorous treatment. Physics deals rigorously with motion and change. However, it is an historical fact that this is not what happened in the development of calculus—a fact that allows us to tease apart the complementary roles of rigorous deﬁnitions and conceptualizations.
+2. We thank Laurie Edwards for access to the corpus, collected in collaboration with Guershon Harel and Rafael Nu~nez.
+
+T. Marghetis, R. Nun~ez / Topics in Cognitive Science (2013)
+
+17
+
+3. Note that the function need not be continuous. For continuous functions, the result follows trivially from the Intermediate Value Theorem.
+4. It is worth noting that the majority of participants’ gestures were deictic (or pointing) gestures, anchored to blackboard inscriptions. These were excluded from this study.
+5. In any case, Cauchy was not exceptional in his reliance on inﬁnitesimals. But see Lakoff and Nu´n˜ez (2000) for an attempt to identify the conceptual prerequisites for the notion of inﬁnitesimal.
+6. “Lorsque les valeurs numeriques successives d’une m^eme variable croissant de plus en plus, de maniere a s’elever au-dessus de tout nombre donne, on dit que cette variable a pour limite l’inﬁni positif […].”
+
+References
+Alibali, M., Bassok, M., Solomon, K. O., Syc, S., & Goldin-Meadow, S. (1999). Illuminating mental representations through speech and gesture. Psychological Science, 10, 327–333.
+Bell, E. T. (1940). The development of mathematics. New York: McGraw-Hill. Byers, W. (2007). How mathematicians think: Using ambiguity, contradiction, and paradox to create
+mathematics. Princeton, NJ: Princeton University Press. Cauchy, A. L. (1821). Cours d’analyse de l’Ecole royale polytechnique. Paris: Debures. In Oeuvres
+completes, Series 2, Vol. 3. Paris: Gauthier-Villars, 1897. Cauchy, A. L. (1833). Resumes analytiques a Turin. Turin: Imprimerie royale. In Oeuvres completes, Series
+2, Vol. 10, pp. 7–184. Paris: Gauthier-Villars, 1900. Cauchy, A. L. (1853). Note sur les series convergentes don’t les divers termes sont des fonctions continues
+d’une variable relle ou imaginaire, entre des limites donnees. In Oeuvres completes, Series 1 (Vol. 12, pp. 30–36). Paris: Gauthier-Villars, 1900. Cienki, A. (1998). Metaphoric gestures and some of their relations to verbal metaphoric expressions. In J.-P. Koenig (Ed.), Discourse and cognition (pp. 189–204). Stanford, CA: CSLI Publications. De Cruz, H. (2008). An extended mind perspective on natural number representation. Philosophical Psychology, 21, 475–490. Fauconnier, G., & Turner, M. (2002). The way we think. New York: Basic Books. Frege, G. (1884/1953). Die Grundlagen der Arithmetik, translated by John Austin as The foundations of arithmetic. Oxford, England: Oxford University Press. Gentner, D., & Gentner, R. (1983). Flowing waters or teeming crowds: Mental models of electricity. In D. Gentner & A. L. Stevens (Eds.), Cognitive functions: Classic readings in representation and reasoning (pp. 99–129). Greenwich, England: Greenwich University Press. Giaquinto, M. (2007). Visual thinking in mathematics: An epistemological study. Oxford, England: Oxford University Press. Goodwin, C. (2000). Action and embodiment within situated human interaction. Journal of Pragmatics, 32 (10), 1489–1522. Grabiner, J. (1983). Who gave you the epsilon? Cauchy and the origins of rigorous calculus. The American Mathematical Monthly, 90, 185–194. Grattan-Guinness, I. (1979). Lakatos and the philosophy of mathematics and science. British Journal for the History of Science, 12, 317–337. Grosholz, E. (2007). Representational and productive ambiguity in mathematics and the sciences. Oxford, England: Oxford University Press.
+
+18
+
+T. Marghetis, R. Nun~ez / Topics in Cognitive Science (2013)
+
+Hilbert, D. (1922). Neubegr€undung der Mathematik: Erste Mitteilung. Abhandlungen aus dem Seminar der Hamburgischen Universita€t, 1, 157–177.
+Hutchins, E. (1995). Cognition in the wild. Cambridge, MA: MIT Press. Johnson, M. (1987). The body in the mind. Chicago, IL: University of Chicago Press. Kirsh, D. (2010). Thinking with external representations. AI and Society, 25, 441–454. Lakatos, I. (1976). Proofs and refutations. Cambridge, England: Cambridge University Press. Lakatos, I. (1978). Cauchy and the continuum: The signiﬁcance of non-standard analysis for the history and
+philosophy of mathematics. Mathematical Intelligencer, 1, 151–161. Lakoff, G., & Nunez, R. (2000). Where mathematics comes from. New York: Basic Books. Landy, D., & Goldstone, R. L. (2007). How abstract is symbolic thought? Journal of Experimental
+Psychology: Learning, Memory, and Cognition, 33(4), 720–733. Larvor, B. (1997). Lakatos as a historian of science. Philosophia Mathematica, 5, 42–64. Laugwitz, D. (1987). Inﬁnitely small quantities in Cauchy’s textbooks. Historia Mathematica, 14, 258–274. L€owe, B., & M€uller, T. (2010). Skills and mathematical knowledge. In B. L€owe & T. M€uller (Eds.),
+PhiMSAMP, philosophy of mathematics: Sociological aspects and mathematical practice. Texts in Philosophy 1 (pp. 265–280). London: College Publications. Matlock, T. (2010). Abstract motion is no longer abstract. Language and Cognition, 2, 243–260. McNeill, D. (1992). Hand and mind: What gestures reveal about thought. Chicago: Chicago University Press. Muntersbjorn, M. (2003). Representational innovation and mathematical ontology. Synthese, 134, 159–180. Nu~nez, R. (2006). Do real numbers really move? Language, thought, and gesture: The embodied cognitive foundations of mathematics. In R. Hersh (Ed.), 18 unconventional essays on the nature of mathematics (pp. 160–181). New York: Springer. Nu~nez, R. (2009). Numbers and arithmetic: Neither hardwired nor out there. Biological Theory, 4, 68–83. Nu~nez, R., Huang, R.-S., & Sereno, M. (2007). Neural basis of metaphorical abstraction: An fMRI study of ego-reference-point spatial construals of time. Proceedings of the Cognitive Neuroscience Society Annual Meeting, New York, 284–285. Nu~nez, R., & Lakoff, G. (1998). What did Weierstrass really deﬁne? The cognitive structure of natural and e–d continuity. Mathematical Cognition, 4(2), 85–101. Nu~nez, R., & Sweetser, E. (2006). With the future behind them: Convergent evidence from Aymara language and gesture in the crosslinguistic comparison of spatial construals of time. Cognitive Science, 30(3), 401–450. Rav, Y. (2007). A critique of a formalist-mechanist version of the justiﬁcation of arguments in mathematician’s proof practices. Philosophia Mathematica, 15, 291–320. Richardson, D. C., Spivey, M. J., McRae, K., & Barsalou, L. W. (2003). Spatial representations activated during real-time comprehension of verbs. Cognitive Science, 27, 767–780. Saygin, A. P., McCullough, S., Alac, M., & Emmorey, K. (2010). Modulation of BOLD response in motion sensitive lateral temporal cortex by real and ﬁctive motion sentences. Journal of Cognitive Neuroscience, 22, 2480–2490. Simmons, G. F. (1985). Calculus with analytic geometry. New York: McGraw-Hill. Stewart, I. (1995). Concepts of modern mathematics. New York: Dover.
+Talmy, T. (2000). Towards a cognitive semantics (Vol. 1). Cambridge, MA: MIT Press. Thurston, W. (1994). On proof and progress in mathematics. Bulletin of the American Mathematical Society,
+30, 161–177. Turner, M. (1996). The literary mind. New York: Oxford University Press.
+Williams, L., & Bargh, J. (2008). Experiencing physical warmth promotes interpersonal warmth. Science, 322, 606–607.
+Wittgenstein, L. (2009). Philosophical investigations (4th ed.). Oxford, England: Wiley-Blackwell.
+
