@@ -17,7 +17,7 @@
 		"exportNotes": true,
 		"exportFileData": false
 	},
-	"lastUpdated": "2021-06-09 16:55:00"
+	"lastUpdated": "2021-07-09 05:40:00"
 }
 
 function detectImport() {
@@ -1395,9 +1395,18 @@ function processTag(item, tagValue, risEntry, allowDeprecated) {
 					
 					//get title from file name
 					title = url.match(/([^\/\\]+)(?:\.\w{1,8})$/);
-					if (title) title = decodeURIComponent(title[1]);
-					else title = "Attachment";
-					
+					if (title) {
+						try {
+							title = decodeURIComponent(title[1]);
+						}
+						catch (e) {
+							title = title[1];
+						}
+					}
+					else {
+						title = "Attachment";
+					}
+
 					if (zField[1] == 'HTML') {
 						title = "Full Text (HTML)";
 						mimeType = "text/html";
