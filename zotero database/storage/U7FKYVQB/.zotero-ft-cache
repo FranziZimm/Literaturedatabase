@@ -1,0 +1,1291 @@
+Biosemiotics
+Naturalizing Models: New Perspectives in a Peircean Key
+--Manuscript Draft--
+
+Manuscript Number:
+
+BISE-D-19-00032R2
+
+Full Title:
+
+Naturalizing Models: New Perspectives in a Peircean Key
+
+Article Type:
+
+Original Research (9, 000)
+
+Keywords:
+
+Modelling; C. S. Peirce; Synechism; Scaffolding; Cognition; complexity; Proposition; Iconicity; Diagrammatic Reasoning
+
+Corresponding Author:
+
+Alin Olteanu, PhD University of Tartu Tartu, ESTONIA
+
+Corresponding Author Secondary Information:
+
+Corresponding Author's Institution:
+
+University of Tartu
+
+Corresponding Author's Secondary Institution:
+
+First Author:
+
+Alin Olteanu, PhD
+
+First Author Secondary Information:
+
+Order of Authors:
+
+Alin Olteanu, PhD
+
+Cary Campbell, PhD
+
+Sebastian Feil, MA
+
+Order of Authors Secondary Information:
+
+Funding Information:
+
+Eesti Teadusagentuur (MOBJD346)
+
+Dr Alin Olteanu
+
+Abstract:
+
+This paper reconsiders semiotic modelling in light of recent scholarship on Charles Peirce, particularly regarding his concept of proposition. Conceived in the vein of Peirce’s phenomenological categories as well as of his taxonomy of signs, semiotic modelling has mostly been thought of as ascending from simple, basic sign types to complex ones. This constitutes the backbone of most currently accepted semiotic modelling theories and entails the further acceptance of an unexamined a priori coherence between complexity of cognition and complexity of signification. Following recent readings of Peirce’s post-1900 semiotic, we engage in a discussion as to what are the limits of this approach. From Stjernfelt’s conception of the dicisign in nature, we derive a perspective that affords understanding the practice of modelling as a reciprocal interplay between (top-down) decomposition of complexity and (bottom-up) recombination into further complexity. This discussion is facilitated by the recent extrapolation of the (initially) constructivist concept of scaffolding in biosemiotics research. Cognition, we argue, begins with a fundamental irritation of trying to make sense of a structure that is more complex than what can directly be derived from experience and, in so doing, urges meaning-seeking (abductive) processes. The yet unknown object is decomposed into more tangible objects and is subsequently reassembled from these more manageable conceptions of the object. In support of our argument, we discuss the notions of semiotic competences and resources in light of such a naturalized account of meaning-making.
+
+Response to Reviewers:
+
+We made all requested editorial changes and a few more minor amendments. We would like to thank the editors and reviewers.
+
+Powered by Editorial Manager® and ProduXion Manager® from Aries Systems Corporation
+
+Manuscript (MUST BE A WORD FILE)
+
+Click here to access/download;Manuscript (MUST BE A WORD FILE);Naturalizing Models revised edit.docx
+
+1
+
+Naturalizing Models: New Perspectives in a Peircean Key
+
+2
+
+Alin Olteanu, Cary Campbell & Sebastian Feil
+
+3
+
+4 Abstract 5 This paper reconsiders semiotic modelling in light of recent scholarship on Charles Peirce, particu6 larly regarding his concept of proposition. Conceived in the vein of Peirce’s phenomenological cat7 egories as well as of his taxonomy of signs, semiotic modelling has mostly been thought of as as8 cending from simple, basic sign types to complex ones. This constitutes the backbone of most cur9 rently accepted semiotic modelling theories and entails the further acceptance of an unexamined a 10 priori coherence between complexity of cognition and complexity of signification. Following recent 11 readings of Peirce’s post-1900 semiotic, we engage in a discussion as to what are the limits of this 12 approach. From Stjernfelt’s conception of the dicisign in nature, we derive a perspective that af13 fords understanding the practice of modelling as a reciprocal interplay between (top-down) decom14 position of complexity and (bottom-up) recombination into further complexity. This discussion is 15 facilitated by the recent extrapolation of the (initially) constructivist concept of scaffolding in biose16 miotics research. Cognition, we argue, begins with a fundamental irritation of trying to make sense 17 of a structure that is more complex than what can directly be derived from experience and, in so do18 ing, urges meaning-seeking (abductive) processes. The yet unknown object is decomposed into 19 more tangible objects and is subsequently reassembled from these more manageable conceptions of 20 the object. In support of our argument, we discuss the notions of semiotic competences and re21 sources in light of such a naturalized account of meaning-making.
+
+22
+
+23 Keywords: Modelling; C. S. Peirce; Synechism; Scaffolding; Cognition; Complexity; Proposition; 24 Iconicity; Diagrammatic Reasoning; 25 26 Author info: Alin Olteanu, Department of Semiotics, University of Tartu (Estonia); Kaunas Univer27 sity of Technology (Lithuania); 28 Cary Campbell, Faculty of Education, Simon Fraser University (Canada); 29 Sebastian Feil, Philologisch-Historische Fakultät, University of Augsburg (Germany).
+
+30
+
+31 Corresponding Author: Alin Olteanu 32 alin.olteanu@ut.ee 33
+
+34
+
+1. Introduction
+
+35 The recent adoption of the socioconstructivist notion of scaffolding in biosemiotics (Hoffmeyer
+
+36 2007, 2015a, 2015b; Kull 2015) reveals new possibilities for research into learning, cognition, and
+
+37 environmental modelling generally. Scaffolding, in this usage, refers to a process by which struc-
+
+38 tures and processes left over from previous interactions, are utilized by the organism (or species, or
+
+39 ecological network) to channel learning/knowing more adaptively in the environment: “assuring
+
+40 that an organism’s activities become tuned to that organism’s needs” (Hoffmeyer, 2007: 154). Here
+
+41 knowledge and learning are understood as dependent upon an organism’s competency to differenti-
+
+42 ate simple signification structures from complex ones. From out of a complex reality,1 the organism
+
+43 ‘learns’ to (re)use found simple structures toward the creation of new semiotic compositions (e.g.,
+
+44 Hoffmeyer and Stjernfelt, 2016). While biosemiotics was in large part developed in view of Charles
+
+45 Peirce’s semiotics, it diverges in some essential regards to what Peirce’s pragmatism entails for (se-
+
+46 miotic) modelling. The view brought about by the concept of semiotic scaffolding is, we argue,
+
+47 more akin to Peirce’s semiotics than the classic view that originated in biosemiotics, which we
+
+48 would here like to call bottom-up-modelling. In this article, we aim to elaborate how the philosophi-
+
+49 cal perspective behind such conceptions and theories (like scaffolding), challenges, in a nuanced
+
+50 way, the classic view of semiotic modelling as invariably proceeding from simple to complex signs
+
+51 (e.g., Sebeok and Danesi 2000), as well as the implications of this for future research.
+
+52
+
+53 In general, pragmatism, both in its empirical and in its ‘linguistic turn’ stages (see Koopman 2009),
+
+54 illustrates a mereological understanding of knowledge (represented by part-whole hermeneutic the-
+
+55 ories of knowing) which we here advocate for, albeit on a (bio)semiotic account. For instance, in
+
+56 the first chapter of his 1925 Experience and Nature, John Dewey discusses his idea of experience in
+
+57 relation to a perceived philosophical ‘common sense’:
+
+58
+
+59
+
+Now the notion of experience, however devoid of differential subject-matter – since it includes all
+
+60
+
+subject-matters –, at least tells us that we must not start with arbitrarily selected simples, and from
+
+61
+
+them deduce the complex and varied, assigning what cannot be thus deduced to an inferior realm of
+
+62
+
+being. It warns us that the tangled and complex is what we primarily find; that we work from and
+
+63
+
+within it to discriminate, reduce, analyze; and that we must keep track of these activities, pointing to
+
+64
+
+them, as well as to the things upon which they are exercised, and to their refined conclusions.
+
+65
+
+(Dewey 1925: 13)
+
+66
+
+67 Empiricist ‘common sense’, Dewey tells us, is convinced that to create an orderly universe, we
+
+68 merely need to identify the most basic elements of experience from which we can construct the
+
+69 broad framework of ‘experience’ in all its breadth and depth. Quite contrary to this, according to
+
+70 Dewey, actual experience will inevitably confront us with the complexity of life in general, and it is
+
+71 only by starting from such a complex and tangled signification, and by relating our knowledge to it,
+
+72 that we can hope to make sense of anything at all.
+
+73
+
+1 Complex in the sense that it is dynamic and not totally reducible to production rules, that is, computations, see Campbell (2017); Kull (2018); Nadin (2014; 2017).
+
+74 While this idea is, at least in principle, quite intuitive to almost anyone post Dewey, the general tar75 get of its criticism, what we call bottom-up-modelling, is nevertheless a common theme in numer76 ous areas of knowledge, including semiotics – suggesting that habits of ‘classical’ empiricism are to 77 this day deeply ingrained in the structure of epistemology. Taking inspiration from Peirce’s phe78 nomenological categories (and the taxonomy of signs that these entail), modelling has mostly been 79 considered as proceeding from simple, basic sign types to complex ones. This assumption consti80 tutes the backbone of most currently accepted semiotic modelling theories (Sebeok and Danesi 81 2000) and has inspired numerous insightful developments in many cognate areas of research (e.g. 82 Pietarinen 2004, Queiroz and Atã 2016). This is particularly the case of biosemiotics. Our aim is not 83 to evaluate the relevance of these developments, but to explore and reconsider semiotic modelling 84 in view of recent arguments, advanced mainly by Stjernfelt (2012, 2014, 2015, 2016), which claim 85 a different (complementary and exclusive), non-linear complexity, particularly in regard to cogni86 tion. This avenue of research is also approached by Winfried Nöth (2018), who recently laid out an 87 interesting proposal of mapping modelling in view of Peirce’s ten sign classes (CP 2.254-2.564, 88 “Syllabus”, 1903), instead of a direct and linear correspondence to the threefold categorization of 89 sign types. Actually, we argue that the recent uptake in biosemiotics of the scaffolding concept 90 (Hoffmeyer 2007) is rather harmonious with this multi-directional view on modelling, which results 91 from Stjernfelt’s (2014) understanding of Peirce’s sign taxonomy. In his development of Peircean 92 logic, Stjernfelt did not address the issue of scaffolding explicitly. He suggested, though, together 93 with Cobley, that the notion of semiotic scaffolding builds up to the mereological perspective in se94 miotics (2015). By explicating the implications of the semiotic account of scaffolding and bridging 95 biosemiotics with state-of-the-art scholarship on Peirce’s logic, we advance a multi-layered account 96 of modelling. 97 98 Our article proceeds as follows: We begin with briefly reviewing the development of the two main 99 strands of modern semiotic theories of modelling (one culture-oriented, the other biology-oriented), 100 mapping their interrelations and deviations (section 2). We will then consider how new readings of 101 Peirce’s late (post-1900) semiotic may aid in exposing the limits of modelling conceived as a 102 (more-or-less) linear progression from iconic to symbolic modelling (sections 3 and 4). We argue 103 that Peirce’s later philosophy affords understanding modelling as both the decomposition of signs 104 (top-down) and the recombination of simple signs, discovered via decomposition, into complex 105 ones (bottom-up), thus advancing what has been called, in the context of a biosemiotic account of 106 musical-cognition, a “hybrid” account (Reybrouck, 2012; 2015) of modelling processes. To aid us 107 in this discussion, we introduce the notions of semiotic competences and resources (as derived 108 from, mainly, social and literary semiotics) and elaborate them in light of our Peircean/biosemiotic 109 account of meaning-making. We conclude by briefly reiterating our argument and findings, while 110 considering implications for future research (section 5). 111 112 2. A review of semiotic modelling 113
+
+114 It is probably because Peirce’s semiotics contains a theory of evolution that it inspired Thomas 115 Sebeok to develop a theory of zoosemiotics (1965a; 1965b) and, shortly after, of biosemiotics 116 (1976; 1991; 2001a; 2001b). These two thriving branches of semiotic theory – which can now be 117 labelled post-Peircean semiotics (see Wheeler 2008, Salthe 2010, Olteanu 2019, Kull 2019: 100) – 118 stem from Sebeok’s discovery (see Kull 2003) of the compatibility between Peirce’s semiotics and 119 Jakob von Uexküll’s theoretical biology (e.g., 1926, 2010). For Peirce, the sign, the basic instru120 ment of logic, is an evolving phenomenon (CP 2.302, “The Art of Reasoning”, 1894; CP 2.303, 121 “Baldwin's Dictionary”, 1902; Merrell 1996; Stjernfelt 2007: 17, 25; Sharov et al. 2016; Tønnessen 122 et al. 2018: 327). The meaning of a sign resides in some possible future interpretation. This is ex123 pressed in Peirce’s semiotic formulation of pragmatism by which a “sign is only a sign in actu by 124 virtue of receiving an interpretation, that is, by virtue of it determining another sign of the same ob125 ject” (CP 5.569, “Truth”, 1901). In this sense, signs are necessarily underdetermined and general. In 126 one of Peirce’s simplest definitions, “a sign is something by knowing which we know something 127 more” (CP 8.332, “Letters to Lady Welby”, 1904). This future orientation of the sign – that it grows 128 and evolves and thus cannot terminate in individual psychological states – is representative of one 129 of the most misunderstood aspects of Peirce’s anti-psychologism (see Stjernfelt, 2014: 13-48). In 130 this regard, Peirce argued that “a sign should leave its interpreter to supply a part of its meaning” 131 (CP 5.448n, “The Basis of Pragmaticism in the Normative Sciences”, 1906) but that no single inter132 pretation can possibly exhaust this meaning, for the simple reason that reality itself is always inde133 terminate – continually changing and unfolding. This is perhaps the central point in Peirce’s princi134 ple of continuity, termed Synechism: “A true continuum is something whose possibilities of deter135 mination no multitude of individuals can exhaust” (CP 6.170, “Synechism”, 1902). Interpretation 136 that proceeds along a continuum can always be subject to error, to falsity, and it is precisely this 137 fact that makes this a semiotic (triadic) process and not a mere mechanical (dyadic) one. 138 139 Another cornerstone of Sebeok’s modelling theory, besides Peirce and Uexküll, is his critical addi140 tion to Juri Lotman’s (e.g., 1977, 1990) theory of cultural modelling. Given Lotman’s concern with 141 the creation of texts (meaningful artefacts) in human cultures, he considered two hierarchically re142 lated systems in human modelling: a linguistic one and a supra-linguistic one, residing in culture, 143 art, science and any domain of human knowledge and activity that relies upon linguistic communi144 cation. While Sebeok embraced the idea of language, culture and knowledge in general as semiotic 145 modelling, he pointed out that since verbal communication is rather rare in nature, human affairs as 146 well must be conceived in acknowledgement of a nonverbal modelling system, underpinning the 147 development of verbal linguistic capabilities (Sebeok 2001a: 26-27, 2001b). In support of this argu148 ment, he invoked the innovative, at the time (by now widely accepted, see MacLarnon 2012: 225), 149 observation that, in humans, verbal language evolved not by means of an adaptation, in the Darwin150 ian sense, but of what Gould and Vrba (1982) termed exaptation (e.g. Sebeok 1991: 56). An exapta151 tion is an innovative use of existing physiological features, the emergence of which initially served 152 different purposes than later co-opted for. Hominids developed verbal language by using certain, 153 typically mammalian features for respiration and ingestion to produce phonemes. Thus, it is safe to
+
+154 assume that a pre-linguistic modelling system is at work in humans, just like in non-human animals. 155 The language and culture of humans is, in a view compatible with Gibson’s theory (1979), shaped 156 to a high extent by the biological and embodied constitution of humans and, more implicitly, 157 through our perception and interpretation of environmental affordances. In this view, Sebeok and 158 Danesi argued that the “ability to make models is […] a derivative of semiosis” (2000: 5), and de159 scribed it further as “the capacity of a species to produce and comprehend the specific types of 160 models it requires for processing and codifying perceptual input in its own way” (2000: 5). Semio161 sis, it should not be overlooked, is a distinctively Peircean concept (CP 5.484, “A Survey of Pragmat162 icism”, 1907). 163 164 This comprehensive notion of modelling generated a rich framework for semiotic understandings of 165 knowledge as transcending nature-culture dichotomies. Particularly, a characteristic of this frame166 work consists in the hypothesis that various features of organisms as well as relations between or167 ganisms and landscapes co-evolve (see Scalia 2019, Olteanu, Stables 2018: 425-428). This is to say 168 that a biological feature does not evolutionarily emerge as an individual offshoot but always in a 169 tight complex of physiological and environmental relations. While it supports the highly relevant 170 idea of co-evolution, the stratified conception of three modelling systems also opens the pathway 171 for a tempting reduction of Peirce’s semiotics, in view of its typical three categories (CP 7.528, 172 “Consciousness”, 1893). This three-steps modelling theory is often used to justify (implicitly or ex173 plicitly) a direct correspondence between complexity of cognition and complexity of signification, 174 resulting in the construction of cognitive models according to sign-hierarchies and sign dependen175 cies.2 While very considerate in using Peircean concepts and highly relevant to this day, the 176 Sebeokian theory of modelling popularized a reading of Peirce where “representational activities” 177 are “undergirded by three different, but interrelated, modeling systems present in the human brain, 178 corresponding grosso modo to what Charles Peirce (1839-1914) called firstness, secondness, and 179 thirdness.” (Sebeok and Danesi 2000: 9-10) Sebeok and Danesi further illustrated what they mean 180 through the example of early childhood development. They argued that the development and encul181 turation of an infant (1) starts from early strategies of knowing through the senses, which they 182 termed primary modeling system, (2) proceeds by vocal imitation, gestures and indexing, and other 183 strategies for joint attention, a secondary modeling system and (3) further develops to comprehend 184 the use and production of culture-specific names and symbols (in a not fully Peircean understand185 ing, as signs abstracted from their contexts of enactment), hence mastering a tertiary modeling sys186 tem. These three developmental stages are, once more grosso modo, claimed to correspond to 187 iconic, indexical and symbolic signification, as per Peirce’s celebrated trichotomy (CP 2.247-2.249, 188 “Syllabus”, 1903). 189
+2 Note how recent research in cognitive semiotics and cognitive linguistics often models and observes some developmental progression from firstness to secondness to thirdness, or iconic modelling to indexical modelling to symbolic modelling. For example, see the cognitive/ontogenetic perspectives of Zlatev (2009, 2013), Zlatev and Andrén (2009). See Campbell (2019), who addresses the relevance of Sebeok and Danesi’s Peircean influenced modelling for education and edusemiotics.
+
+190 This excellent illustration of semiosis, in the Peircean sense, opened up a multitude of fertile re-
+
+191 search pathways. However, the approximate correspondence between Peirce’s phenomenal catego-
+
+192 ries and (what appear to be) cognitive developmental stages deviates, in some regards, from
+
+193 Peirce’s actual theory. On a fully Peircean account, cognition is an instance of semiosis, not the
+
+194 other way around. Besides, as the example of the enculturation process particularly illustrates, such
+
+195 a theory of modelling can potentially underpin a kind of culturalism, namely the ideological theory
+
+196 claiming that cognition and behaviour are thoroughly determined by culture (Eriksen and Stjernfelt
+
+197 2012). Culturalism is a widespread presumption in (early) cultural anthropology, which we avoid by
+
+198 claiming a common frame of animal-learning, as the discovery and sustainment of affordances, due
+
+199 to embodied (which includes cognitive) competences of knowing the environment. Notice, how
+
+200 such an emphasis on environmental modelling as a common frame of understanding does not reject
+
+201 the role of cultural processes and activities outright. Rather, these processes are seen as continuous
+
+202 with embodied ways of modelling and knowing the environment, representative of, in particular,
+
+203 highly social animals (such as humans), that have developed through evolution and cultural trans-
+
+204 mission, a high degree of collaboration and social bonding, features which can be fostered and en-
+
+205 hanced through the symbolic restructuring of reality.
+
+206
+
+207 While Sebeok and Danesi stressed that the three modeling systems are, like Peirce’s categories, in-
+
+208 terrelated and inseparable, their localization “in the human brain” endorses a cognitivist, potentially
+
+209 psychologistic derailing of semiotics. From our perspective, the parallelization of cognition and
+
+210 semiosis endorses an overly strict differentiation of meaning-categories (at least developmentally).
+
+211 Peirce, after defining semiosis as the irreducible “cooperation” of three distinct elements (i.e. sign,
+
+212 object and interpretant) in the 1907 “Pragmatism” manuscript, explicitly addresses this view, notic-
+
+213 ing that because we, humans, only know semiosis as a cognitive phenomenon, we can easily miss
+
+214 that the former is not only inclusive of, but also more comprehensive than the latter:
+
+215
+
+216
+
+Although the definition [of semiosis] does not require the […] interpretant […] to be a modification
+
+217
+
+of consciousness, yet our lack of experience of any semiosis in which this is not the case, leaves us
+
+218
+
+no alternative to beginning our inquiry into its general nature with a provisional assumption that the
+
+219
+
+interpretant is, at least, in all cases, a sufficiently close analogue of a modification of consciousness
+
+220
+
+to keep our conclusion pretty near to the general truth. We can only hope that, once that conclusion
+
+221
+
+is reached, it may be susceptible of such a generalization as will eliminate any possible error due to
+
+222
+
+the falsity of that assumption. The reader may well wonder why I do not simply confine my inquiry
+
+223
+
+to psychical semiosis, since no other seems to be of much importance. My reason is that the too fre-
+
+224
+
+quent practice, by those logicians who do not go to work [with] any method at all [or who follow]
+
+225
+
+the method of basing propositions in the science of logic upon results of the science of psychology –
+
+226
+
+as contradistinguished from common-sense observations concerning the workings of the mind, ob-
+
+227
+
+servations well-known even if little noticed, to all grown men and women, that are of sound minds –
+
+228
+
+that practice is to my apprehension as unsound and insecure […]; seeing that, for the firm establish-
+
+229
+
+ment of the truths of the science of psychology, almost incessant appeals to the results of the science
+
+230
+
+of logic – as contradistinguished from natural perceptions that one relation evidently involves an-
+
+231
+
+other – are peculiarly indispensable. Those logicians continually confound psychical truths with psy-
+
+232
+
+chological truths, although the distinction between them is of that kind that takes precedence over all
+
+233
+
+others as calling for the respect of anyone who would tread the strait and narrow road that leadeth
+
+234
+
+unto exact truth. (CP 5.485, “A Survey of Pragmaticism”, 1907)
+
+235
+
+236 Peirce’s argument is that the resolution of any interdependency of psychology and logic in the di-
+
+237 rection of psychology glosses over the fact that logic, being more general and thus, more all-encom-
+
+238 passing, is to be treated logically prior, so to speak, if one wishes to avoid the pitfalls of relativism
+
+239 and conceptual solipsism implicit in any such forms of psychologism, i.e. “the idea that the study of
+
+240 the content and structure of thought and signs forms part of the domain of psychology – so that the
+
+241 empirical investigation of minds and brains forms the primary, or even the only way, of accessing
+
+242 these issues” (Stjernfelt 2014: 14). In our view, the idea that cognition, psychologically rendered, is
+
+243 capable of framing semiosis as a whole, is an extension of this psychologistic point of view.
+
+244
+
+245 3. New readings of Peirce
+
+246 Arguably, Sebeok and Danesi (among others) also often appealed to supposing, like Peirce, an “an-
+
+247 alogue of a modification of consciousness” (CP 5.485, “A Survey of Pragmaticism”, 1907) when de-
+
+248 veloping modelling theory, for pragmatic purposes and, perhaps, also for the sake of brevity, clarity
+
+249 and thus wider empirical applications of semiotic insights. However, any use of the Sebeokian mod-
+
+250 elling theory requires careful consideration precisely because “[s]emiotics is impossible without
+
+251 anti-psychologism” (Stjernfelt 2014: 47). This explains, at least in part why Sebeok, while consider-
+
+252 ing that cognition should be regarded as a sign-based phenomenon, did not recur to using the term
+
+253 cognition often (Jaroš, Maran 2019), preferring that of model, instead. Biosemiotics, developed
+
+254 along the lines set by Sebeok, has recently begun to embrace Peircean anti-psychologism wholesale
+
+255 and currently manifests an interest for instances of semioses that do not require cognition (Hoff-
+
+256 meyer, Stjernfelt 2016). This did not come without amendments to Sebeok’s modeling theory
+
+257 though: Hoffmeyer and Stjernfelt argue that semiosis is evolutionary prior and a prerequisite to per-
+
+258 ception, in contrast to its construal in the Sebeok-Danesi modelling theory (2000: 6). Hoffmeyer
+
+259 and Stjernfelt consider perception a “high-level activity based on the integration of hundreds, thou-
+
+260 sands, or, in some cases, even millions of semiotic interactions in the body and between the body
+
+261 and its environment and [which] facilitates, in higher organisms, comprehensive mental maps of
+
+262 relevant aspects of organism surroundings… these endosemiotic tools are collectively responsible
+
+263 for the interaction of the organism with its social and physical world and constitute the fundament
+
+264 out of which so-called psychological reality, if any, of the organism will emerge” (Hoffmeyer and
+
+265 Stjernfelt, 2016: 9). Stjernfelt (2014: 4) also insists that, on the Peircean account, signs are vehicles
+
+266 for thought and cognition in general, outside of the narrow scope of perception and consciousness:
+
+267
+
+268
+
+Thus, signs are not analysed as derivatives of more primary perceptions (…). Rather, many signs are
+
+269
+
+indeed simpler than perceptions, as evidenced particularly by the biosemiotic sign use in simple ani-
+
+270
+
+mals without full perceptual field, sensory integration, central nervous systems, etc. Perception and
+
+271
+
+consciousness are rather to be seen as evolutionary later, more complicated phenomenon, probably
+
+272
+
+evolved so as to scaffold and enhance simpler cognitive semiotic processes already functioning.
+
+273
+
+274 The reduction of semiotic to cognitive types is false to Peirce’s theory itself, being the seed of many
+
+275 popular misinterpretations of Peirce, which render his semiotics relativistic and/or language-cen276 tered3, often in opposition to Sebeok’s reading. Hoffmeyer and Stjernfelt remark that psychologistic
+
+277 accounts of the semiosis-concept are endorsed by language-centrism (2016: 8). The idea of co-evo-
+
+278 lution is, actually, even more akin to Peirce’s semiotics (e.g., Cobley, Stjernfelt 2015: 295) than the
+
+279 three-layered modelling view might suggest. Many instances of what we generally refer to in this
+
+280 paper as the idea of three-layered modelling, do not fully take into account Peirce’s concept of con-
+
+281 tinuity (CP 1.171; CP 6.170, “Synechism”, 1902): Peirce’s three phaneroscopic (read phenomenal)
+
+282 categories (CP 1.293, “The List of Categories: A Second Essay”, 1894; CP 8.303, “Letters to Wil-
+
+283 liam James”, 1909) should be understood in view of his doctrine of synechism (CP 6.169, “Syn-
+
+284 echism”, 1902; CP 6.163, “The Law of Mind”, 1892; Stjernfelt 2007: 29-30), that is, of semiosic
+
+285 continuity. This doctrine rejects from the start the understanding of the categories as belonging to a
+
+286 discrete set of three aspects of reality, as often applied to discuss organisms’ modelling of reality
+
+287 evolving from simple to complex. This criticism does not undermine the important contribution that
+
+288 the modelling theory (primarily attributed to Sebeok) had for semiotic scholarship. While arguably,
+
+289 in some instances, this view simplified Peirce’s sign taxonomy for pragmatic reasons, it also re-
+
+290 vealed innovative uses of it. First of all, Sebeok’s construal of nonverbality (1986, 2001a, 2001b) as
+
+291 a primary modelling system aligned semiotic theory to contemporary findings in evolutionary an-
+
+292 thropology (e.g., MacLarnon, Hewitt 1999). This is one of the core reasons why Sebeokian biose293 miotics refreshed the interest for Peirce in the second half of the 20th century, arguably leading to a
+
+294 “Peirce renaissance in semiotics” (Stjernfelt 2007: 53) which allowed semiotic research to keep the
+
+295 pace with advances in cognitive linguistics (e.g. Lakoff, Johnson 1980, 1999, Langacker 1990) and
+
+296 embodiment theories (e.g., Merleau-Ponty 1995). The interest here is how this particular modelling
+
+297 theory, which Peirce’s semiotics inspired, resulted in a semiosis-cognition parallelism that does not
+
+298 reflect Peirce’s initial theory. Also, in many subsequent modelling theories and their applications,
+
+299 the original Peircean foundation is often overlooked (e.g. Nöth 2018: 7-8). A reason for this, we ob-
+
+300 serve, might be the oversimplification of Peirce’s categorization of signs that infiltrated semiotic
+
+301 modelling theories and, in time, grew more discrepantly to both Peirce’s theory and recent embod-
+
+302 ied approaches to language and communication.
+
+303
+
+304 A particularly impactful theory developed in view of this hierarchical, threefold modelling theory,
+
+305 for instance, is Terrence Deacon’s (1997, 2012a) account of language and cognitive evolution,
+
+3 Case in point: the interpretation of Peirce in Derrida´s On Grammatology (1976: 49-50). Derrida was clearly fascinated with the idea of unlimited semiosis, but not receptive to the idea of the dependence of semiosis on the dynamical object and its terminus in habit. For a Peircean critique of this view, which is outside of the scope of the present paper, see Eco (1995). Some of us have previously commented on this issue, e.g. Feil (2017: 232) and Feil and Olteanu (2018: 207).
+
+306 which entails an up-to-date conception of humans as standing out from other animals by their capa307 bility of operating with symbols. This argumentation is a more specific version of the classical zoon 308 logikon-view that was refreshed in the 20th century by arguments brought forth by the likes of 309 George Herbert Mead (1972 [1934]), Ernst Cassirer (1944) as well as John Deely (1990: 50-83). 310 While Deacon’s program broadened the horizon of research on language and cognition with valua311 ble new insights, particularly in view of co-evolution, the anthropocentrism of this doctrine can 312 nevertheless raise justified suspicions. We cannot fully discern whether Deacon’s account of the hu313 man as the symbolic species (1997) is sound or not, but what can be observed clearly, according to 314 Stjernfelt (2012), is that Deacon’s use of Peirce’s categories is not faithful to Peirce’s doctrine. The 315 concept of symbol that Deacon claims to be specifically human is not identical with what Peirce 316 termed symbol (CP 2.249, “Syllabus”, 1903). Yet, Deacon (1997, 2002b) draws on Peirce’s sign 317 trichotomies to explain the evolution of cognitive capabilities for manipulating more and more com318 plex sign types, culminating with the human mastery of symbolic types. Our concern is modelling 319 specifically from the perspective of Peirce’s sign taxonomy, not that of undermining (or confirm320 ing) Deacon’s theory as a whole. 321 322 In Deacon’s theory learning supposes a progressive parallelism between complexity of cognition 323 and complexity of signification, as in general in this broad framework for modelling as hierarchi324 cally mapped onto Peirce’s categories. This is precisely, Stjernfelt (2012, 2014, 2015) argues, what 325 diverges from Peirce’s semiotics. Rather, in a Peircean view, the environment presents organisms 326 with complex structures of meaning. Organisms, through their embodied competences, learn by de327 composing these complex structures into simple sign types (Stjernfelt 2014: 156-161). From this 328 point of view, an organism’s possibilities of navigating its environment are enhanced by its compe329 tences to differentiate simple sign structures within complex ones. The newly discovered, simpler 330 sign structures can be further used as resources, which when combined, result in new, complex 331 meaning structures. In biosemiotics, these constructions have been termed semiotic scaffoldings 332 (Hoffmeyer 2007, 2015), in inspiration of and analogy to the scaffolding metaphor for learning pro333 cesses coming from socioconstructivist theories of education (i.e., Bruner 1957, 1960, 1966; Wood 334 et al. 1976). 335 336 We thus advance a definition of semiotic resources (a concept otherwise typical for social semiotic 337 approaches to multimodality, see Kress and van Leeuwen 2001, Kress 2010) as the simple sign 338 types resulting from the decomposition of complex reality. The semiotic resources that an organism 339 uses rely upon its own embodied species-specific semiotic competences (see Stjernfelt 2006) in cre340 ating new forms of semiotic scaffolding, so that an organism’s actions in its environment become 341 better attuned to its evolving needs. This should offer complementary and broader insights for the 342 notion of semiotic resource in social semiotics and multimodality studies (i.e., Kress 2010: 27-28), 343 of an arguably more limited scope (at least, in the philosophical sense) than biosemiotics. In social 344 semiotics – where language-centrism is often manifest, as inherited from sociolinguistics (see 345 Randviir, Cobley 2010) – a notion of resources for meaning making was developed without much
+
+346 consideration of embodiment. On a Peircean account, Stjernfelt argues for “a concept of the body
+
+347 which, in itself, makes evident the basic semiotic competences of an organism – thus, a body con-
+
+348 cept which entails semiotics” (2007: 257, see also Stjernfelt 2006: 14).
+
+349
+
+350 Semiotic competences consist in the capacities to decompose and construct; to realize potential se-
+
+351 miotic resources, in the form of affordances (see Campbell, Olteanu, & Kull 2020; Kull 2018: 459,
+
+352 Olteanu, Stables 2018: 423, 429) for new possibilities of action and response. Through such loops
+
+353 of discovering sign relations anew and coupling them into novel (and in a sense, creative), prag-
+
+354 matic devices of meaning as scaffoldings (Cobley, Stjernfelt 2015: 292), organisms achieve new
+
+355 semiotic competences or, to put it simply, they learn. This notion of learning as the growth of semi-
+
+356 otic competences can be said “to rest upon the ongoing differentiation, articulation and subdivision
+
+357 of simple Argument structure, facilitating the growth of semiotic freedom and cognitive capabilities
+
+358 over the course of evolution” (Stjernfelt 2014: 9). Campbell (2018a: 563) explains this notion of se-
+
+359 miotic freedom in reference to the etymological origins of the English word learning in ‘leornian’,
+
+360 which has base roots in ‘to follow or find the track’, saying: “A growth in semiotic freedom is inevi-
+
+361 tably expressed in the capacity of an organism to model its environment in its own species-specific
+
+362 manner; to learn (to “find the track”) within its umwelt”. The acquisition of new semiotic compe-
+
+363 tences also results in capacities for decomposing complex structures more finely (e.g. in human per-
+
+364 ception by the notion of interstitial differentiation, see Ingold: 2017).
+
+365
+
+366 To make sense of the implications of these new readings and extensions of Peircean philosophy that
+
+367 are emerging in biosemiotics, we must look closer at Peirce’s late semiotic, specifically his theory
+
+368 of propositions, iconicity and diagrams.
+
+369
+
+370
+
+4. Semiotic compositionality, continuity, and the primacy of iconicity
+
+371
+
+372 According to Stjernfelt’s reading of Peirce, propositions play a pivotal role in modelling, as they
+
+373 imply a direct correspondence to factual states of affairs. Propositional signs, by their Subject-Pred-
+
+374 icate structure make claims that must be true or false (Stjernfelt 2014: 72-75, 2007: 88). Unlike
+
+375 other signs, which can be (closer to) neutral, a proposition forces its interpreter to make a judge-
+
+376 ment about its truth-value (see CP 8.337, “Letters to Lady Welby”, 1904; CP 3.363, “On the Alge-
+
+377 bra of Logic”, 1885). A proposition, or dicisign, as Peirce termed his notion of proposition in the
+
+378 most general sense (CP 2.309-2.310, “Syllabus”, 1903), is understood as a sign wherein a predicate
+
+379 (or rheme, CP 2.250, “Syllabus”, 1903) is applied to at least one (and potentiality to an infinity of)
+
+380 indexical sign(s), functioning as subject(s). An index is a sign that denotes its object by a direct af-
+
+381 fection (CP 2.247, “Syllabus”, 1903). It contains an icon, that is, a sign that signifies due to similar-
+
+382 ity to its object (ibid.).
+
+383
+
+384 Also, within propositions, predicates play a critical role because, being signs interpreted as possible
+
+385 objects (CP 2.250, “Syllabus”, 1903), predicates carry potential information (without conveying it).
+
+386 A predicate necessarily supposes, in its constitution, an icon because “[t]he only way of communi-
+
+387 cating an idea is by means of an icon” (CP 2.278, “Categorical and Hypothetical Propositions are
+
+388 one in essence”, 1895). These notions of propositions and predicates as schematic (iconic) develop-
+
+389 ments imply a view on learning as the process of decomposing complex structures into simple sign
+
+390 types, which can further be used to construct new, complex signs (e.g., arguments).
+
+391
+
+392 According to Stjernfelt (2014, section 6.8), semiotic evolution cannot be said to begin with simple
+
+393 signs, which are gradually combined into more and more complex structures. Such a notion of “se-
+
+394 miotic compositionality” when applied to understanding sign-use in general would seem to derive
+
+395 from anthropocentric views on evolution and learning theory (also cf. Olteanu, Stables 2018). Such
+
+396 conceptualizations will logically lead to a standpoint that sees symbolic cognition (which relies
+
+397 upon combinatorial modelling and the composition of self-referential sign-systems), as the natural
+
+398 apex of more primary forms of modelling (iconic and indexical) – as in Deacon’s program. The
+
+399 problem, as this appears in Peirce’s late semiotic, is that pure icons, indices, and symbols, are mar-
+
+400 ginal phenomena. In isolation, they signify nothing, and thus can make no possible truth claims:
+
+401 “Such signs are indeed possible, but they remain limit cases, because neither the pure icon nor the
+
+402 pure index is able to communicate anything” (Stjernfelt 2014: 143).
+
+403
+
+404 According to Peirce’s categories, such pure potentiality can only emerge from out of a prior, more
+
+405 general regularity. For Stjernfelt, this prior generality, is inchoative in the basic argument structure
+
+406 that even mono-cells rely upon – a basic perception-action cycle “that connects typified perception
+
+407 and typified action” (Stjernfelt 2014: 149). The famous biosemiotics example of E. coli bacteria ‘in-
+
+408 terpreting’ the partial outline of a sugar molecule, as a ‘sign’ to swim upstream towards the sugar
+
+409 gradient, constitutes a simple proto-proposition: the combination of a subject (index) and a predi-
+
+410 cate (icon) into a kind of rudimentary argument structure – that certainly does not pre-suppose cog-
+
+411 nition nor consciousness:
+
+412
+
+413
+
+“This is sugar” – is followed by the action Dicisign of swimming in that direction –to form an argu-
+
+414
+
+ment: “If sugar, swim in its direction. This is sugar. So, swim in its direction”. That this forms a very
+
+415
+
+primitive argument – and not merely a cause-effect chain – can be induced from the fact that the E.
+
+416
+
+coli may be fooled by artificial sweetener whose molecules possess the same molecular surface con-
+
+417
+
+figuration as the active site in carbohydrates – But otherwise have a rather different chemistry with-
+
+418
+
+out the easily releasable covalent binding energy of carbohydrates. (Stjernfelt 2014: 145-146)
+
+419
+
+420 Such a proto-argument, works through a basic “organizing principle whereby an element can be
+
+421 identified insofar as it is not the other, which by evoking it, it excludes” (Eco 2000: 111). Early on,
+
+422 Prodi (1988: 55) tried to articulate this kind of proto-semiotic reaction on the cellular level through
+
+423 the simple lock and key analogy:
+
+424
+
+425
+
+An enzyme... selects its substrate from among a number of meaningless molecules with which it can
+
+426
+
+collide: it reacts and forms a complex only with its partner molecule. This substrate is a sign for the
+
+427
+
+enzyme (for its enzyme). The enzyme explores reality and finds what corresponds to its own shape:
+
+428
+
+it is a lock that seeks and finds its own key. In philosophical terms, an enzyme is a reader that "cate-
+
+429
+
+gorizes" reality by determining the set of all the molecules that can react with it factually... This se-
+
+430
+
+miotics (or proto-semiotics) is the basic feature of the entire biological organization (protein synthe-
+
+431
+
+sis, metabolism, hormonal activity, the transmission of nervous impulses, and so on).
+
+432
+
+433 This is what we might call an instance of primary iconism as distinct from relative instances of
+
+434 iconism (Eco, 2000; 2014). To make sense of such a pure potentiality –which, as Peirce frequently
+
+435 reminded us, “every description of it must be false to it” (CP 1.357, “A Guess at the Riddle”, 1887-
+
+436 1888) — is to speak about an imprint left by an impresser that is no longer accessible to us. It is
+
+437 merely the presupposition to correspond, prior to any instance of indexicality and thus any corre-
+
+438 spondence to an object. In actual reality, such pure possibility can only emerge, as an abduction (a
+
+439 meaning-seeking guess), because of a prior established regularity, or habit. Taking this stance al-
+
+440 lows us to understand how, in waking time, firstness is always inchoately present in thirdness, and
+
+441 thus acts as a reminder that our conceptualizations of semiosis (if they are truly to be in line with
+
+442 Peirce’s doctrine of continuity) cannot be so reductively bottom-up: “Firstnesses do not spring up
+
+443 isolated; for if they did nothing could unite them. They spring up in reaction upon one another, and
+
+444 thus in a kind of existence” (CP 6.199, “The Logic of Continuity”, 1898). Eco, late in his life, put
+
+445 this idea together rather clearly, reconstructing Peirce’s ideas:
+
+446
+
+The emergence of Firstnesses through their being opposed to one another (Secondness)
+
+447
+
+starting from the regularity of the habit (Thirdness) for Peirce is an event (CP 6.200), i.e. a singular-
+
+448
+
+ity, a point at which something occurs... In this way the spontaneity of Firstness, whose irregular
+
+449
+
+and singular nature Peirce underlines (CP 6.54) turns out to be nothing other than an infini-
+
+450
+
+tesimal deviation from the law and from the regularity on whose basis it is produced (CP 6.59).
+
+451
+
+(Eco 2014: 514)
+
+452 The primary icon (yet, unconnected to a proposition) simply reaches out into the environment, not 453 to demonstrate that its object exists (as the index does), but rather “to demonstrate that their object 454 is... consistent [with its own internal structure], and thus possible” (Legg 2017: 34, our italics). 455 However, in Peirce’s reading, symbols too are marginal phenomena, that properly signify nothing if 456 bereft of iconic or indexical qualities; “in order to be understood, a symbol must bear information in 457 the shape of an icon and relate that information to an object by means of an index” (Stjernfelt 2014: 458 143). In this sense, symbols are signs that might cause us to act a certain way in the future, repre459 senting the prior established habitual connections that make something appear as possible according 460 to some future orientation. Stjernfelt (2015: 142) explains further: “symbols are signs which are 461 general as to their object, they possess an esse in futuro, referring to a potential continuity of future 462 objects; they refer to their object by means of a habit, natural or cultural; they comprise icons for 463 their understanding and indices for their object reference…” Nöth also admits to this, and clarifies
+
+464 in interview: “The reality of symbols is not the reality of embodied signs; it is the reality of signs in 465 their possibilities of embodiment”.4
+466 In a rather nuanced contrast to the 1, 2, 3 (discreet) reading of modelling discussed above, accord467 ing to Peirce, it is icons and not symbols that give reality its structure and ‘realness’. Peirce stated 468 that an icon is a sign “… from which information may be derived,” (CP 2.309, “Syllabus”, 1903). 469 This is what we might call Operational Iconicity (Stjernfelt, 2014: 8.2). Divergent from the com470 mon relativist definition that an icon signifies based on similarity or resemblance, the operational 471 notion of iconicity asserts “icons as the only sign type able to provide information. This is why all 472 more complex sign types must involve or lead to icons in order to convey information” (Stjernfelt 473 2014: 207-208). Later on, in the Syllabus, Peirce explained that “An Icon, however, is strictly a pos474 sibility involving a possibility” (CP 2.311, “Syllabus”, 1903). Stjernfelt (2014: 208) elaborates on 475 this somewhat enigmatic formula, and how it actually refers to both notions of iconism here high476 lighted: the first possibility refers to the icon as being a possible sign of what resembles it, as it is 477 emphasized in a particular semiotic process (only later connected to an object or class of objects 478 through an index, combined to assert a truth-claim functioning within a proposition). The second 479 possibility however, refers to “the fact that similarity characteristics defined by the first possibility 480 in themselves involve possibilities that are not explicit and that may be further developed” (2014: 481 208). 482 483 The organism, through moving and acting in the environment, forms (and enacts prior) habits of re484 lationship (scaffoldings), based on its own embodied morphology, that it continually projects out485 wards. According to Peirce it is always the primary modelling characteristic of the iconic sign that 486 provides signification with its objective basis, or Ground, and this is because “what is most charac487 teristic of it is that “its parts are related in the same way that the objects represented by those parts 488 are themselves related” (CP 3.363). Therefore, according to operational iconicity, the essential as489 pect of the icon, is not in fact mere likeness, but rather structural resemblance. Put simply, “Icons 490 are thus signs with implicit information that may be made explicit” (Stjernfelt 2014: 208) in future 491 semiotic unfurling. This objective basis of iconic signification represents what Peirce calls diagram492 matic reasoning, and it is this iconic ‘mapping’ of the new through the known that gives our experi493 ence shape and dimension, and allows us to derive truth from our interactions with the environment. 494 495 This late Peircean reading of iconism helps us to clarify our definition of semiotic resources as the 496 simple sign types resulting from the decomposition of complex reality. On this account, semiotic 497 resources are not invented conventions, arbitrary meanings that in some way allow for shortcuts or 498 new operations, but discovered relations, which existed as absent virtual phenomena, prior to their 499 use by semiotic agents (also cf. Stjernfelt 2007: 57). Thus, from this expanded notion of iconicity 500 we can better understand how the process from simple to complex should not be conceived of as a
+4 See, https://philosophasters.org/blog/2018/8/13/from-plato-to-peirce-an-interview-with-winfried-noth
+
+501 process of composition [as exemplified in human language and syntax]: “the overall arc of the se-
+
+502 miotic argument process structure is there from the metabolic beginning, only in a undifferentiated,
+
+503 general shape –and semiotic evolution rather takes the shape of the ongoing subdivision, articula-
+
+504 tion, and sophistication of primitive signs, an ongoing refinement of parts and aspects acquiring still
+
+505 more autonomy” (Stjernfelt 2014: 158).
+
+506
+
+507 The esse in futuro characteristic of the symbol – with the power of bringing together in continuity
+
+508 previously unconnected signs through the establishment of habit – was there in the very beginning
+
+509 in the icon, albeit, in general, unarticulated shape. This is why, while any semiosis supposes or
+
+510 leads to growth, it is most appropriate to claim this about the habitual use of icons. Namely, “sym-
+
+511 bols grow” (CP 2.302, “The Art of Reasoning”, 1894), meaning that “new symbols arise through
+
+512 diagrammatic experimentation” (Stjernfelt 2007: 115). From this understanding, semiotic composi-
+
+513 tionality, which relies upon the progressive de-structuring of the parts and components of proposi-
+
+514 tional structure, to achieve greater combinatory possibilities. A fully symbolic competency, that
+
+515 may bypass indexical and iconic embodiments, could be seen to “find its highest degree of articula-
+
+516 tion in human language”, however within such a perspective, the necessary diversity of semiotic
+
+517 body-forms and competences (convergent evolution) requires that we recognize this as “an im-
+
+518 portant achievement rather than a possible starting principle” (Stjernfelt, 2014: 159).
+
+519
+
+520
+
+5. Conclusions
+
+521
+
+522 Non-relativism is a critical feature of semiotic considerations of the biological. Peirce’s theory of
+
+523 knowledge as the decomposition of complex structures, and the consequential (re)use of simple
+
+524 structures discovered in that process, does not imply epistemological relativism, as is the case with
+
+525 some of the more vernacular variants of (post)structuralism or some more ‘continentally’ informed
+
+526 versions of (neo-)pragmatism (e.g., Rorty 1967, Kallen 1956, Koopman 2009). While being a
+
+527 branch of semiotic inquiry which has treated Peirce rather attentively (Favareau 2010b: 39-41,
+
+528 2010a: 115-148), at times biosemiotics also reduces what a Peircean modelling theory might be, by
+
+529 a hierarchical reading of Peirce’s phenomenal categories.
+
+530
+
+531 Certain new directions in biosemiotics (e.g. Hoffmeyer 2007, Stjernfelt 2014, Hoffmeyer and
+
+532 Stjernfelt 2016) and these new ways of reading significance from Peirce’s late thought, invite sev-
+
+533 eral interrelated observations for semiotic modelling theories:
+
+534
+
+535 Semiosis (sign-action) cannot be automatically deemed as co-extensive with cognition, conscious-
+
+536 ness, or perception. Rather, processes of meaning-making are expressed in any truth-seeking sys-
+
+537 tem, and this includes even simple organisms that do not have fully developed perceptual systems
+
+538 or nervous systems. Peirce observed that semiosis does not terminate within the agent’s mind/body
+
+539 (we do not say interpreter, but interpretant!) but is expressed in the emergent patterning life-forms
+
+540 continuously enact in their environments. 541 542 From this view, modelling can neither be described psychologically nor neurologically. Concepts 543 like semiotic scaffolding and competences imply organism-environment co-evolution, illustrating 544 the limits of explanations that consist solely in terms of mental/brain states. In this regard, Hoff545 meyer paraphrased Peirce by claiming that “externalized signs are not mere supportive devices, in546 stead, they undertake tasks which simply could not be performed by the brain (or body) alone” (CP 547 7.364 paraphrased in Hoffmeyer 2015c: 252). 548 549 The Peircean tri-relative sign process (sign-object-interpretant) supposes, through its basic struc550 ture, non-psychologism, as the involvement of the three elements is non-reducible to any individual 551 element or to the interactions between any pair, being a relational phenomenon (the interpretant at 552 once being another sign and so forth). Although not reducible to dichotomies, or binaries, semiosis 553 is ontologically ‘real’; with its unique type of causation (a re-channeling of regular physical causa554 tion). Therefore, semiotic relations are not arbitrary, but the outcome of evolving interactions of 555 lifeforms with evolving intentions and motivations. 556 557 This realism of semiosis is implied in Peirce’s late emphasis on the primacy of the icon being the 558 only sign “from which information may be derived” (CP 2.309, “Syllabus”, 1903). From this doc559 trine of icons, it is concluded that “more complex sign types must involve or lead to icons in order 560 to convey information” (Stjernfelt 2014: 207-208). Such a perspective, we argue allows for the abil561 ity to simultaneously conceptualize the process of signification as both the decomposition of signs 562 (top-down) and the recombination of simple signs, discovered via decomposition, into complex 563 ones (bottom-up). Both processes are manifest in meaning-making, for meaning is inchoative (left564 over as un-actualized potential) in previous semiotic interactions, but also undergoing continuous 565 change and modification in the unfolding present. 566 567 Therefore, semiotic modelling theories need make no committing assumption about cognition, yet 568 semiotics can be easily adopted in the cognitive sciences. Scaffolding structures and processes serve 569 to diagram the continuity of organism-environment interactions for the continuation of life; a pro570 jection that requires an expanded temporality, that cannot be conceived purely sequentially, but 571 which extends both forwards and backwards in time.5 This basic process is emphasized in Peirce’s 572 categories, through the way regularity and habit (thirdness) gives way to new potential (firstness). 573 The innovation and creativity characteristic of what Peirce called abductive inference, presents us 574 with an account of this basic semiotic unravelling. Abduction is, at its basis, a process that extends
+5 Olteanu and Stables (2018: 421) explain further: “from its beginning, biosemiotics was defined by Sebeok [e.g. 1991, 2001a]… as a modelling theory and, while useful for cognitive theories as well, it does not impose any particular assumption about cognition. Thus, from this perspective, a theory of learning does not necessarily imply a discussion on cognition. An educational theory and system can conceive learning in terms of signification only”.
+
+575 iconic forms outwards into the environment; “abduction transforms overall iconic structure into 576 overall symbolic structure” (Pearson 2017, Sec 1.5). 577 578 Through this account of semiotic learning, and the corollary conceptions of resources and compe579 tences, we can adopt a view on modelling-as-knowing that does not impose a linear developmental 580 progression from simple to complex: the perception of simple iconic forms, to fully conventional 581 symbolic modelling. The reading of Peirce advocated here – explained through a notion of opera582 tional (primary) iconicity as distinct from relative iconicity –recognizes that instead, semiotic sys583 tems proceed from a state of knowing the environment generally, based on perceptual judgements 584 (CP 2.327, “Syllabus”, 1903; CP 4.539, “Prolegomena to an Apology for Pragmatism”, 1906), a 585 “basic presupposition to correspond” to some ‘other’, based on their own unique embodied-semiotic 586 competences. Such primary iconism is the basic process by which organisms can be said to know 587 their complex (and variable) environments in their own species-specific ways (see Campbell 2018b, 588 for a fuller discussion). In this view, complexity of cognition does not correspond linearly to com589 plexity of signification. Rather, simple (in Peirce’s language, degenerative) signs, like icon, index, 590 symbol, are the result of an organism’s semiotic activities in an environment, understood here as the 591 decomposition of complex structures (interpreted, in the environment) into simple (and thus, gener592 alizable) signs, which, through the development of semiotic competences (the ability to use re593 sources in the form of potential affordances), allow for the creation and discovery of new semiotic 594 possibilities, which in terms of Peirce’s logic-as-semeiotic, can be expressed as “the ongoing differ595 entiation, articulation and subdivision of simple Argument structure” (Stjernfelt 2014: 9, see section 596 3 above). 597 598 This invites a perspective on semiotic learning that is notably embodied and phenomenological: that 599 places semiosis within the unfurling actions and responses of an organism, and ultimately, in the 600 presence and possibility of choice (Kull, 2018), in a possibility that suggests a possibility, and thus 601 in the opening-potential of the icon. The issue with reading and applying a simple bottom-up per602 spective from Peirce’s semiotic is that it tends to imply a hierarchy from least complex to most 603 complex which, together with a positive valuation complexity, often plays in the hands of an an604 thropocentric view in which the symbolic processing competences of humans are seen as the natural 605 apex of evolution and development. In contrast, a hybrid account of meaning-making, as implicit in 606 Peirce’s late semiotic, strongly suggests a thesis of convergent evolution, and naturally advocates 607 for a wider view of how plants and animals ‘know’ and ‘learn’ in their environment. Thus, we sug608 gest that this theoretical approach has relevance to emerging conceptualizations in the environmen609 tal humanities (e.g. Maran, 2020), as well as environmental literacy and education (e.g. Stables, 610 Bishop 2001). This implies a research program that asks the critical questions about how different 611 expressions of environmental modelling can be understood as continuous with one another (not dis612 tinct), in line with Peirce’s doctrine of continuity. 613
+614
+
+615 References 616
+
+617 Atã, Pedro, Queiroz, João. 2016. Habit in Semiosis: Two Different Perspectives Based on Hierar-
+
+618
+
+chical Multi-level System Modeling and Niche Construction Theory: Before and Beyond
+
+619
+
+Consciousness. In: Donna E. West; Myrdene Anderson (eds.), Consensus on Peirce’s Con-
+
+620
+
+cept of Habit. Springer. Cham: Springer, 109-119.
+
+621 Bruner, Jerome S. 1957. Going beyond the information given. New York: Norton.
+
+622 Bruner, Jerome S. 1960. The process of education. Cambridge: Harvard University Press.
+
+623 Bruner, Jerome S. 1966. Toward a theory of instruction. Cambridge: Belknap.
+
+624
+
+625 Campbell, Cary. 2018a. Returning ‘learning’ to education: Toward an ecological conception of
+
+626
+
+learning and teaching. Σημειωτκή-Sign Systems Studies, 46(4), 538-568.
+
+627
+
+628 Campbell, Cary. 2018b. In search of our beginnings: Locating ‘firstness’ in arts education in the
+
+629 service of advocacy. International Journal of Education & the Arts 19(13), 1–36.
+
+630
+
+631 Campbell, C. 2019. Educating semiosis: Foundational concepts for an ecological edusemiotic. Stud-
+
+632 ies in Philosophy and Education, 38(3), 291-317.
+
+633 Campbell, Cary, Olteanu, Alin, & Kull, Kalevi. 2020. Learning and knowing as semiosis: Extend-
+
+634 ing the conceptual apparatus of semiotics. Sign Systems Studies, 47(3/4), 352-381.
+
+635 Cassirer, Ernst. 1944. An Essay on Man: An introduction to a philosophy of human culture. New
+
+636
+
+Haven: Yale University Press.
+
+637 Cobley, Paul, Stjernfelt, Frederik. 2015. Scaffolding development and the human condition. Biose638 miotics 8:291-304.
+
+639 Deacon, Terrence. 1997. The Symbolic Species: The co-evolution of language and the brain. Lon
+
+640
+
+don, New York: W. W. Norton & Co.
+
+641 Deacon, Terrence. 2012a. Incomplete Nature: How mind emerged from matter. New York: W. W.
+
+642
+
+Norton & Company.
+
+643 Deacon, Terrence. 2012b. The symbol concept. In: Maggie Tallerman; Kathleen R. Gibson (eds.),
+
+644
+
+The Oxford Handbook of Language Evolution. Oxford: Oxford University Press, 393-405.
+
+645 Deely, John. 1990. Basics of semiotics. Bloomington: Indiana University Press.
+
+646 Derrida, Jacques. 1976. Of grammatology. trans. Gayatri Chakravorty Spivak. Baltimore: Johns
+
+647
+
+Hopkins University Press, [original publication 1967].
+
+648 Dewey, John. 1925. Experience and nature. Chicago, Open Court Publishing Company. 649 650 Eco, Umberto. 1995. Unlimited semeiosis and drift: Pragmaticism vs.‘pragmatism’. In Kenneth
+
+651
+
+Ketner (ed.), Peirce and contemporary thought, 205-21, New York: Fordham University
+
+652
+
+Press.
+
+653 Eco, Umberto. 2000 [1997]. Kant and the platypus: Essays on language and cognition. New
+
+654
+
+York: Harcourt Brace.
+
+655 Eco, Umberto. 2014. From the tree to the labyrinth. Cambridge: Harvard University Press.
+
+656 Eriksen Jens-Martin, Stjernfelt, Frederik. 2012. The democratic contradictions of Multiculturalism.
+
+657
+
+New York: Telos Press.
+
+658 Favareau, Donald (Ed.) 2010a. Essential readings in biosemiotics: Anthology and Commentary. 659 Dordrecht: Springer.
+
+660 Favareau, Donald. 2010b. Introduction: An evolutionary history of biosemiotics. In: D. Favareau 661 (Ed.), Essential Readings in Biosemiotics. Dordrecht: Springer, 1–77.
+
+662 Feil, Sebastian, Olteanu, Alin. 2018. Abduction, hermeneutics and the interpretation of interpreta663 tions. Human Arenas 1(2), 206-222.
+
+664 Feil, Sebastian. 2017. What are we appealing to? A Semiotic Approach to the Notion of Context in
+
+665 Literary Studies. KODIKAS/CODE. Ars Semeiotica 40 (3–4), 221–38.
+
+666 Gibson, James J. 1979. The ecological approach to visual perception. Boston: Houghton Mifflin.
+
+667 Gould, Stephen J., Vrba, Elisabeth S. 1982. Exaptation – a missing term in the science of form.
+
+668
+
+Paleobiology 8(1), 4–15.
+
+669 Hoffmeyer, Jesper. 2007. Semiotic scaffolding of living systems. In Marcello Barbieri (ed.) Intro
+
+670
+
+duction to Biosemiotics. 149-166. Berlin: Springer.
+
+671 Hoffmeyer, Jesper. 2015a. Introduction: Semiotic scaffolding. Biosemiotics 8(2),153-158.
+
+672 Hoffmeyer, Jesper. 2015b. Semiotic scaffolding of multicellularity. Biosemiotics 8(2), 159–171.
+
+673 Hoffmeyer, J. 2015c. Semiotic scaffolding: a unitary principle gluing life and culture to-
+
+674
+
+gether. Green Letters 19(3), 243-254.
+
+675 Hoffmeyer, Jesper, Stjernfelt, Frederik. 2016. The great chain of semiosis. Investigating the steps
+
+676
+
+in the evolution of semiotic competence. Biosemiotics 9: 7-29.
+
+677 Ingold, Tim. 2017. Anthropology and/as education. Abingdon: Routledge.
+
+678 Jaroš, Filip, Maran, Timo. 2019. Humans on top, humans among the other animals: Narratives of
+
+679
+
+anthropological fifference. Biosemiotics, First online https://doi.org/10.1007/s12304-019-
+
+680
+
+09364-w.
+
+681 Kallen, Horace. 1956. Cultural pluralism and the American idea: An essay in social philosophy.
+
+682
+
+Philadelphia: University of Pennsylvania Press.
+
+683
+
+684 Koopman, Colin. 2009. Pragmatism as transition: Historicity and hope in James, Dewey, and Rorty.
+
+685
+
+New York: Columbia University Press.
+
+686 Kress, Gunther, Leeuwen, Theo van. 2001. Multimodal discourse: The modes and media of
+
+687
+
+contemporary communication. London: Arnold.
+
+688 Kress, Gunther. 2010. Multimodality: A social semiotic approach to contemporary communica-
+
+689
+
+tion. London, New York: Routledge.
+
+690 Kull, Kalevi. 2003. Thomas A. Sebeok and biology: building biosemiotics. Cybernetics & Human
+
+691
+
+Knowing, 10(1), 47-60.
+
+692 Kull, Kalevi. 2015. Evolution, choice, and scaffolding: Semiosis is changing its own building. Bio693 semiotics 8(2): 223-234.
+
+694 Kull, Kalevi. 2018. Choosing and learning: Semiosis means choice. Sign Systems Studies, 46(4),
+
+695
+
+452-466.
+
+696 Kull, Kalevi. 2019. Steps towards the natural meronomy and taxonomy of semiosis: Emon between
+
+697
+
+index and symbol. Sign Systems Studies 47(1/2): 88-104.
+
+698 Lakoff, George; Johnson, Mark 1980. Conceptual metaphor theory in everyday language. The Jour699 nal of Philosophy, 77(8), 453–486.
+
+700 Lakoff, George, Johnson, Mark. 1999. Philosophy in the flesh: The embodied mind and its chal-
+
+701
+
+lenge to western thought. New York: Basic Books.
+
+702 Legg, Catherine. 2017. ‘Diagrammatic teaching’: The role of iconic signs in meaningful pedagogy. 703 In Edusemiotics—A Handbook, ed. I. Semetsky, 29–45. Singapore: Springer.
+
+704 Lotman, Juri. 1977. Primary and secondary communication-modeling systems. In Lucid, Daniel
+
+705
+
+Peri (Ed.), Soviet Semiotics: An Anthology. Baltimore: Johns Hopkins University Press, 95–
+
+706
+
+98.
+
+707 Prodi, Giorgio. 1988. Signs and codes in immunology. In E. Sercarz, F. Celada, A Mitchison, and 708 T. Tado (Eds.), The Semiotics of Cellular Communication in the Immune System. Berlin: Springer.
+
+709 Lotman, Juri. 1990. Universe of the mind. Trans. Shukman, Ann. Intr. Eco, Umberto. London: I. B.
+
+710
+
+Tauris.
+
+711 Maran, Timo. (2020). Applied ecosemiotics: Ontological basis and conceptual models. In P. Cobley & A.
+
+712 Olteanu (Eds.), Semiotics and its masters. Forthcoming: Mouton De Gruyter.
+
+713 Mead, George H. 1972 [1934]. Mind, self and society. Ed. Charles Morris; Intr. Charles Morris.
+
+714
+
+Chicago and London: The University of Chicago Press.
+
+715 Merrell, Floyd. 1996. Signs grow: Semiosis and life processes. Toronto: University of Toronto
+
+716
+
+Press.
+
+717 MacLarnon, Ann. 2012. The anatomical and physiological basis of human speech production:
+
+718
+
+Adaptations and exaptations. In Gibson, Kathleen R.; Tallerman, Maggie (Eds.), The Oxford
+
+719
+
+Handbook of Language Evolution. Oxford: Oxford University Press, 224–235.
+
+720 MacLarnon, Ann, Hewitt Gwen P. 1999. The evolution of human speech: the role of enhanced
+
+721
+
+breathing control. American Journal of Physical Anthropology, 109(3), 341-363.
+
+722 Merleau-Ponty, Marcel 1995. La nature. Notes. Cours de Collège de France. Paris: Seuil.
+
+723 Nadin, M. 2014. Semiotics is fundamental science. In Knowledge Discovery, Transfer, and Man
+
+724
+
+agement in the Information Age, M. Jennex (Ed.), 76–125. Hershey, PA: Information Sci-
+
+725 ence Reference.
+
+726 Nadin, M. (Ed.). 2017. Anticipation and the brain. In Anticipation and Medicine, 147–175. New
+
+727
+
+York: Springer.
+
+728 Nöth, Winfried. 2018. The semiotics of models. Sign Systems Studies, 46(1), 7-43.
+
+729 Olteanu, Alin, Stables, Andrew. 2018. Learning and adaptation from a semiotic perspective. Sign
+
+730
+
+Systems Studies 46(4), 409-434.
+
+731 Olteanu, Alin. 2019. Multiculturalism as multimodal communication: A semiotic perspective.
+
+732
+
+Cham: Springer.
+
+733 Pearson, C. 2017. Eight Common Fallacies of Elementary Semiotics. Chinese Semiotic Studies
+
+734
+
+13(4), 339–346.
+
+735 CP = Peirce, Charles Sanders. The Collected Papers of Charles Sanders Peirce. (Hartshorne,
+
+736
+
+Charles; Weiss, Paul, eds. 1931–1935; Burks, Arthur W., ed. 1958.) Cambridge: Belknap.
+
+737
+
+[In-text references are to CP, followed by volume and paragraph numbers.]
+
+738 Pietarinen, Ahti-Veikko. 2004. Multi-agent systems and game theory---A Peircean manifesto. Inter-
+
+739
+
+national Journal of General Systems. 33(4), 395-414.
+
+740 Randviir, Anti; Cobley. Paul 2010. Sociosemiotics. In P. Cobley (Ed.), The Routledge Companion 741 to Semiotics. New York: Routledge, 118–134.
+
+742 Rorty, Richard, M. Ed. 1967. The linguistic turn: essays in philosophical method with two retro
+
+743
+
+spective essays. Chicago: University of Chicago Press.
+
+744 Reybrouck, Mark. 2012. Musical Sense-Making and the Concept of Affordance: An Ecosemiotic 745 and Experiential Approach. Biosemiotics 5(3), 391–409. 746
+
+747 Reybrouck, Mark. 2015. Music as Environment: An Ecological and Biosemiotic Approach. Behav748 ioral Sciences, 5(1), 1-26.
+
+749 Scalia, Jeremiah Cassar. 2019. Towards a holo-semiotic framework for the evolution of language.
+
+750
+
+In Olteanu, Alin; Stables, Andrew; Borţun, Dumitru (Eds.), Meanings & Co.: The Interdis-
+
+751
+
+ciplinarity of Semiotics, Communication and Multimodality. Cham: Springer, 89–104.
+
+752 Salthe, Stanley N. 2010. What is Semiotics? Review of the Routledge Companion to Semiotics. Bi
+
+753
+
+osemiotics 3(2): 245-251.
+
+754 Sebeok, Thomas. 1965a. Animal communication. Science, 147, 1006–1014.
+
+755 Sebeok, Thomas. 1965b. Zoosemiotics: A new key to linguistics. The Review, 7, 27–33.
+
+756 Sebeok, Thomas. 1976. Contributions to the doctrine of signs. Bloomington: Indiana University 757 Press
+
+758 Sebeok, Thomas. 1986. The problem of the origin of language in an evolutionary frame. Language 759 Sciences, 8(2), 169-176.
+
+760 Sebeok, Thomas. 1991. A sign is just a sign: Advances in semiotics. Bloomington, Indianapolis:
+
+761
+
+Indiana University Press.
+
+762 Sebeok, Thomas. 2001a [1994]. Signs: An introduction to semiotics. Toronto: University of Tor-
+
+763
+
+onto Press.
+
+764 Sebeok, Thomas, A. 2001b. Nonverbal communication. In P. Cobley (Ed.), The Routledge Com-
+
+765
+
+panion to Semiotics and Linguistics. New York: Routledge, 14–27.
+
+766 Sebeok, Thomas; Danesi, Marcel. 2000. The forms of meaning: Modelling systems theory and se-
+
+767
+
+miotic analysis. Berlin, New York: Mouton de Gruyter.
+
+768 Sharov, Alexei, Maran, Timo, Tønnessen, Morten. 2016. Comprehending the semiosis of evolution. 769 Biosemiotics 9(1): 1-6.
+
+770 Stables, A., Bishop, K. 2001. Weak and strong conceptions of environmental literacy: Implications for
+
+771
+
+environmental education. Environmental Education Research, 7(1), 89-97.
+
+772 Stjernfelt, Frederik 2006. The semiotic body. A semiotic concept of embodiment? In Nöth, Win-
+
+773
+
+fried (Ed.), Semiotic Bodies, Aesthetic Embodiments and Cyberbodies. Kassel: Kassel Uni
+
+774
+
+versity Press, 13–48.
+
+775 Stjernfelt, Frederik. 2012. The evolution of semiotic self-control. In Schilhab, Theresa; Stjernfelt,
+
+776
+
+Frederik; Deacon, Terrence (Eds.), The Symbolic Species Evolved. Dordrecht: Springer, 39–
+
+777
+
+63.
+
+778 Stjernfelt, Frederik. 2007. Diagrammatology. An investigation on the borderlines of phenomenol-
+
+779
+
+ogy, ontology and semiotics. Dordrecht: Springer.
+
+780 Stjernfelt, Frederik. 2014. Natural propositions: The actuality of Peirce’s doctrine of dicisigns.
+
+781
+
+Boston: Docent Press.
+
+782 Stjernfelt, Frederik. 2015. Dicisigns: Peirce’s semiotic doctrine of propositions. Synthese 192(4)
+
+783
+
+1019–1054.
+
+784 Stjernfelt, Frederik. 2016. Dicisigns and habits: Implicit propositions and habit-taking in Peirce’s
+
+785
+
+pragmatism. In Donna E. West; Myrdene Anderson (Eds.), Consensus on Peirce’s Concept
+
+786
+
+of Habit. Springer Cham: Springer, 241-262.
+
+787 Tønnessen, Morten, Maran, Timo, Sharov, Alexei. 2018. Phenomenology and biosemiotics. Biose788 miotics 11(3): 323-330.
+
+789 Uexküll, Jakob von. 1926. Theoretical biology. London: Kegan Paul, Trench, Trubner & Co.
+
+790 Uexküll, Jakob von. 2010 [1934, 1940]. A foray into the worlds of animals and humans with a
+
+791
+
+theory of meaning. Minneapolis: University of Minnesota Press.
+
+792 Wheeler, Wendy. 2008. ‘Do not block the path of inquiry!’ Peircean abduction, the tacit dimension,
+
+793
+
+and biosemiotic creativity in nature and culture. The American Journal of Semiotics 24(1/3):
+
+794
+
+171-187.
+
+795
+
+796 Zlatev, Jordan. 2009. The semiotic hierarchy: Life, consciousness, signs and language. Cognitive
+
+797 Semiotics 4: 169–200.
+
+798
+
+799 Zlatev, Jordan. 2013. The mimesis hierarchy of aemiotic development: Five stages of intersubjec-
+
+800 tivity in children. Public Journal of Semiotics 4(2), 47–70.
+
+801
+
+802 Zlatev, J., and M. Andrén. 2009. Stages and transitions in children’s semiotic development. In
+
+803
+
+Studies in Language and Cognition, ed. J. Zlatev, M. Andrén, M. Johansson-Falck, and C.
+
+804
+
+Lundmark, 380–401. Cambridge: Cambridge Scholars Publishing.
+
