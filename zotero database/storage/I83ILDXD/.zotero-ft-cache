@@ -1,0 +1,740 @@
+Gesture, Gaze and Persuasive Strategies in Political Discourse
+Isabella Poggi1 and Laura Vincze2
+1 Dipartimento. di Scienze dell’Educazione Università Roma Tre
+Via del Castro Pretorio 20, 00185 Roma poggi@uniroma3.it
+2 Dipartimento di Linguistica Università di Pisa
+Via Santa Maria 85, 56126 Pisa l.vincze@ling.unipi.it
+Abstract. The paper investigates the use of gesture and gaze in political discourse, and presents an annotation scheme for the analysis of their persuasive import. A model in terms of goals and beliefs is illustrated, according to which persuasion is a case of social influence pursued through communication in which the persuader aims to influence the persuadee to pursue some goal while leaving him free to adopt it or not, and arguing how that goal is in the persuadee’s interest. Two studies are reported on electoral debates of three politicians in Italy and France (Achille Occhetto, Romano Prodi and Ségolène Royal), and an annotation scheme is presented through which the gesture and gaze items produced in some fragments of political discourse were analyzed as to their signal and their literal and indirect meanings, and classified in terms of the persuasive strategies they pursue, logos, ethos or pathos. The results of the two studies are presented, showing that the pattern of persuasive strategies found in the meanings of gesture and gaze of each politician is coherent with either the persuasive structure of the specific fragment analyzed or with the politician’s general political strategy.
+Keywords: persuasion, persuasive strategies, gesture, gaze, facial expression.
+1 The Rhetorical Body
+The importance of body behaviour in persuasive discourse has been acknowledged back since the ancient Roman treatises of Rhetoric, by Cicero [1] and Quintilian [2] as an indispensable part of “Actio” (discourse delivery), in that gesture, gaze and head movements fulfil various communicative functions, often of use in the economy of persuasive discourse. By gestures and other body movements we can summon, promise, exhort, incite, approve, express apology or supplication, display emotions (regret, anger, indignation, adoration), depict or point at objects.
+In recent literature, from Atkinson [3] on, several studies have overviewed aspects of the body's relevance in political communication: see the use of pauses facial expression and other body behaviours [4], [5] or the use of intonation to quell the
+M. Kipp et al. (Eds.): Multimodal Corpora, LNAI 5509, pp. 73–92, 2009. © Springer-Verlag Berlin Heidelberg 2009
+
+74
+
+I. Poggi and L. Vincze
+
+applause [6]. More recently [7], by relying on the assumption that the audience applauds when persuasive attempts succeed, take applause as a cue to find out, through automatic analysis, persuasive words and sentences in a corpus of political speeches. Other studies concerning the detection of deceptive behaviours, like [8] and [9,] can provide hints as to which nonverbal behaviours are ineffective or even prevent persuasion. For example, self-manipulation, talking faster, averting eyes have a negative effect on persuasion in that they are felt as – and may be in fact – a cue to deception.
+Two studies directly concerned with the impact of gestural communication on political discourse are [10] and [11]. The former analyses the gestures of Lionel Jospin as a way to understand the intimate expression of his political thought: for example, the metaphors exploited by his manual behaviour – whether he uses the left or right hand, and the hand shape exploited – can express abstract notions like effort, objective, decision, balance, priority, private or public stance. Yet, they also fulfil discourse functions: they can delimit or stress, enumerate or explicate the topics of discourse. Streeck [11], in analysing the gestural behaviour of the Democratic candidates during the political campaign of 2004 in USA, shows how important bodily behaviour may be in political persuasion. As to the transmission of factual information he observes how the tempo of body movements and their relation to speech rhythm provide information about discourse structure, distinguishing background from foreground information. Further, in spite of his not crediting a specific meaning to gestures, he seems to attribute them some persuasive (or counterpersuasive) effect: for instance, he reminds how the defeat of Howard Dean might have been due to the frequency of his "finger wag": a "hierarchical act" that might have given an impression of presumption and contempt toward the audience. Finally, among the gestures analysed by Kendon [12] some that may have a persuasive effect are the "ring" gestures, that bear a meaning of 'making precise' or 'clarifying', and are used every time this clarification is important "in gaining the agreement, the conviction or the understanding of the interlocutor" (p. 241).
+The importance of facial expression and co-verbal gesture in conveying information that is effective in persuasion has been shown at length in the studies above; but also gaze, within facial behaviour, is relevant in this connection. Both face and gaze, in fact, may be used with persuasive functions, not only as an accompaniment of speech, but also while one is not holding the turn and is playing the role of the silent interlocutor. For example, in Italian political talk shows, during a politician’s turn often the cameras record the facial expressions of his opponents, which are sometimes very communicative and may have a counter-persuasive role.
+In this work we investigate the persuasive functions of gesture and gaze. Starting from a model of persuasion based on the notions of goal and belief (Sect.2), we present an annotation scheme for the analysis of the macro-structure of persuasive discourse in terms of its hierarchy of goals (Sect.3), a hypothesis on how to assess the persuasive import of gesture and gaze in multimodal persuasion (4 and 5), and an annotation scheme for the transcription, analysis and classification of gesture and gaze in persuasive political discourse (6 – 8). After analysing gesture and gaze items in some fragments of political discourse, we finally argue how the annotation schemes presented allow to compute and analyse the quantity and quality of persuasive gesture and gaze in a discourse, finding different patterns of persuasive body behaviour in
+
+Gesture, Gaze and Persuasive Strategies in Political Discourse
+
+75
+
+different politicians, and showing how they are coherent with the persuasive structure of a politician’s discourse and his or her political strategy.
+
+2 A Model of Persuasion
+According to a model of mind, social interaction and communication in terms of goals and beliefs [13], [14], [15], persuasion is an act aimed at social influence. Social influence, as defined by [14] is the fact that an Agent A causes an increase or decrease in the likeliness for another Agent B to pursue some goal GA Influence may occur even inadvertently: I wear a dress and a girl who admires me buys one like mine. But often people have the goal – even a conscious goal – of influencing others . In this case, to have B more likely pursue a goal GA, A must raise the value that GA may have for B, and does so through having B believe that pursuing GA is a means for B to achieve some other goal GB that B already has, and considers valuable (goal hooking) [16]. In some cases, even having someone feel some emotion is a way to influence him, since emotions are states with a high motivating power – they trigger goals [17]. Given this definition of social influence, there are many ways to influence others, ranging from education to threat, promise, manipulation, and the use of force. Among these, persuasion is an action aimed at social influence through conviction: that is, A aims at having B pursue the proposed goal GA thanks to the fact that B is convinced – i.e., he believes with a high degree of certainty – that GA is a means to GB. Moreover, as an act of influence, persuasion shares some features with a particular kind of speech act: advice. In fact, suadeo in Latin means “I give advice”. And like advice [18], persuasion is characterised by the following features:
+1) A pursues a goal of social influence through communication, that is, not only he tries to induce GA in B, but also makes clear to B he wants to do so,
+2) A leaves B free of either pursuing the goal GA proposed by A or not, in this differing from threat, for example; and finally,
+3) A aims to convince B that GA is in the interest of B. In fact, to persuade B to have GA as a goal of his, A must convince B, that is, induce B to believe with a high degree of certainty, that GA is worth pursuing – it is a goal of high value – since it is a sub-goal to some goal GB that B has.
+To persuade B, A can make use [16] of the three strategies already highlighted by Aristotle [19]: logos (in our terms, the logical arguments that support the desirability of GA and the link between GA and GB); pathos (the extent to which A, while mentioning the pursuit of goal GA, can induce in B emotions or the goal of feeling or not feeling them); and ethos (A’s intellectual credibility – his having the skills necessary for goal choice and planning, that we may call “ethos-competence”, and his moral reliability – the fact that he does not want to hurt, to cheat, or to act in his own concern – that we call “ethos-benevolence”).
+To persuade others we produce communicative acts by exploiting different modalities – written text, graphic advertisement, words, intonation, gestures, gaze, facial expression, posture, body movements: we thus make multimodal persuasive discourses, that is, complex communicative plans for achieving communicative goals. Any discourse, whether persuasive or not, can be analysed as a hierarchy of goals: a
+
+76
+
+I. Poggi and L. Vincze
+
+communicative plan in which each single communicative act (either verbal or non verbal) aims at a specific goal. Moreover, each goal may also aim at one or more supergoals: further goals for which the first goal is a means, but that, different from the first goal, which can be understood from the literal meaning of the communicative act, by definition are not explicitly stated but must be caught through inference by the Addressee. For example, if I say “Are you going home?” my literal goal is to ask you if you are going home, but through this I may aim at the supergoal of asking for a lift. So, two or more communicative acts may have a common super-goal: saying “I am here with this face” plus saying “this is the face of an honest person” may aim at the supergoal of implying “I am an honest person”. A discourse (both a unimodal and a multimodal one) is a sequence of communicative acts that all share a common supergoal. For example, in a pre-election discourse, all the sentences, gestures, face and body movements aim at one and the same common supergoal: ”I want you to vote for me”. They do so by making up a persuasive multimodal discourse, in which each signal with its direct and indirect meanings, that is, through its literal and intermediate supergoals, pursues a logos, ethos or pathos strategy. Thus, all signals in a persuasive discourse are planned as aiming at the global persuasive message, even if not all of them, of course, are planned at the same level of awareness. While verbal signals are generally planned in a conscious way, gestures, facial expressions, gaze and body posture may be planned and produced at a lower level of awareness. But this does not imply that they do not make part of the global communicative plan, nor that the Sender does not have a (more or less aware) goal of communicating the meanings they bear. This is witnessed by the fact that, apart from cases of ambivalence or deception, the whole multimodal message is generally coherent with its global meaning [15], that is “distributed” across modalities. Of course, in delivering a speech, it is easier for words to be planned accurately than it is for gestures. Even if well trained, we cannot plan every gesture we produce: gestures, and even more facial expressions, gaze, body postures, are planned at a lower level of awareness than words. Nonetheless, words and gestures together make part of a global multimodal communicative plan and the Sender has a (more or less aware) goal of communicating the meanings they bear.
+
+3 Annotating the Structure of a Persuasive Discourse
+Let us now provide an example of how a persuasive discourse can be analysed in terms of a hierarchy of goals.
+Figure 1 shows the analysis of a fragment of one minute drawn from a TV interview to Ségolène Royal before the French Presidential elections in 2007, held in the studios of the French channel France 2, after the first round of the elections, when she came second with 25,87% after Nicolas Sarkozy. In the political show “A vous de juger”, Arlette Chabot interviews Mrs. Royal about her political vision and projects for France. Here is the fragment.
+“Voilà, je n’ai aucune revanche à prendre, je n’ai aucune revendication, je n’ai pas d’enjeu personnel dans cette affaire, je ne suis liée à aucune puissance d’argent, je n’ai personne à placer, je ne suis prisonnière d’aucun dogme, et au même temps je sens que les Français ont envie d’un changement extrêmement profond. Et mon projet c’est eux, ce n’est pas moi, mon
+
+Gesture, Gaze and Persuasive Strategies in Political Discourse
+
+77
+
+projet. Mon projet ce sont les Français et aujourd’hui le changement que j’incarne. Le changement, le vrai changement c’est moi. Donc là il y a aujourd’hui un choix très clair entre soi continuer la politique qui vient de montrer son inefficacité. Certaines choses ont été réussies, tout n’est pas caricaturé, par exemple le pouvoir sortant a réussi la lutte contre la sécurité routière, par exemple, mais beaucoup de choses ont été dégradées dans le pays, Arlette Chabot, beaucoup de choses… Et quand Nicolas Sarkozy refuse le débat, c’est parce qu’il ne veut pas être mis devant le bilan.”
+(Here I am, I have no revenge to take, I have no claiming, no personal stake in this affair, I’m not bond to any financial power, I have no one to place, I’m not prisoner of any dogma, and at the same time I feel that the French desire an extremely profound change. And my project is them, my project is not myself. My project is the French and the change I embody today. The change, the real change, is me. So today there is a very clear choice on whether continuing the politics that has just shown its inefficacy. Some things were well done, not everything is caricaturized, for instance the party in charge came out successful of the fight for security in driving. But a lot of things have been degraded in the country, Arlette Chabot, a lot of things… And when Nicolas Sarkozy refuses this debate it is because he doesn’t want to confront the balance).
+Following [13], to represent the hierarchy of goals of a discourse you have to segment the fragment under analysis into its speech acts (written in italics in Fig. 1), then you write down their literal goals and super-goals (i.e., the inferences each communicative act aims to induce, numbered as G1, G2 etc.), and you single out the final goal of the fragment, while using arrows to represent the means-end relations between goals.
+In this fragment, Royal explains to the electors that she has no revenge to take (Speech Act 1), any personal claiming or advantage in becoming president (2, 3, 5), nor is she bond to any financial power (4), thus implying (G7) that she does not work in her own interest; the only reason why she runs for President is for the sake of the French who wish for a change (SAs 7 and 9, that aim at G9, and 8 that aims at G8). By implying G7 and G8 she aims at demonstrating that she is altruistic (G6). At the same time, indirectly acknowledging (through SA 11) the good things done by her opponent (G10), she implies that she is fair (G5), with fairness and altruism bearing on an image of benevolence (G2), whose projection makes part of an ethos strategy. Meanwhile SAs 6 (“I’m not prisoner of any dogma”), and 9 (“I am the change”), that implies G9, provide an image of flexibility, novelty, intelligence (G3): the competence side of the ethos strategy. Moreover, through SAs 10 and 12 she implies G11 (“Sarkozy is incapable to run France”), while through 13 and 14 she indirectly communicates G12 (“he is a coward”). So, symmetrically with the positive evaluations of competence and benevolence she implied about herself (G2 and G3), she now provides two negative evaluations (G11 and G12) of her opponent both on the competential and on the moral side. Further, that Sarkozy does not want to confront the balance of what he did (14) implies that the balance of what the political right side has done is negative (G13), so it is necessary to vote for the change (9), for the left (G4), for Royal (G1). The chaining of events and consequences from 14 to G13 and from G13 to G4 may be seen as a logos strategy. Only the pathos strategy does not show so much in this fragment of discourse.
+In her persuasive structure, Royal identifies the desire of the French for an extremely deep change (SA7) and she hooks her own goal of being elected to that
+
+78
+
+I. Poggi and L. Vincze
+
+Final Goal G1 Vote for me
+
+G2 I am benevolent
+
+G5 I am fair, impartial
+
+G6
+
+I’m altruistic
+
+G7
+
+G8
+
+I do not work
+
+I work in the interest
+
+in my own interest
+
+of the French
+
+G3 I am flexible,
+intelligent
+
+G4 Vote for the left
+
+G9 I’m different, new
+
+1
+I have no revenge to take
+
+2
+I have no claiming
+
+3
+I have no personal benefit in this affair
+
+G10 I acknowledge the positive results of the opponent party
+
+10
+So today there is a very clear choice on whether continuing the politics that has just shown its inefficacy,
+
+11
+some things were well done, not everything is caricaturized, for instance the party in charge came out successful of the fight for security in driving.
+
+4 I’m not bond to any financial power
+G11 Sarkozy is incapable to run
+France
+12 But a lot of things have been degraded in the country, Arlette Chabot, a lot of things.
+
+5
+
+6
+
+7
+
+8
+
+9
+
+I have no one to place
+13
+
+I’m not prisoner of any dogma
+G12 Sarkozy is
+coward
+14
+
+and at the same time, I feel that the French people desire an extremely deep change
+
+my project is them, my project is not myself. My project is the French and the change I embody today.
+
+G13 The balance of the right
+is negative
+
+And when Nicolas Sarkozy refuses this debate
+
+it is because he doesn’t want to confront the balance.
+
+The change, the real change, is me.
+
+Fig. 1. The persuasive strategy of Ségolène Royal’s political discourse
+
+Gesture, Gaze and Persuasive Strategies in Political Discourse
+
+79
+
+goal, by communicating, through inference or explicit words (SAs 8 and 9) that she is the change: so voting for her (G1) is the means to their goal of change.
+As can be seen in Fig. 1, the analysis of a persuasive discourse in terms of its hierarchy of goals allows: 1. to show the links between the goals proposed by the Persuader and the goals s/he attributes to the Persuadee, 2. to specify which parts of the persuasive act, respectively, pursue the strategies of logos, ethos and pathos, and 3. to discern if they do so in a direct or in an indirect – inferential – way.
+
+4 Multimodal Communication in Persuasion
+In face-to-face communication and in visual media, also bodily signals take part in the whole hierarchy of goals of discourse. We make multimodal discourses, where even gesture, gaze, facial expression and posture may each have their role in pursuing our persuasive goals. To account for how they do so it is necessary to distinguish a literal vs. an indirect meaning not only for words but for all kinds of signals. Since not only words, but all bodily codified signals – like symbolic gestures, gaze items, facial expressions – can be viewed as forming a “lexicon”, a list of signal-meaning pairs written in long term memory, by “literal” meaning we refer to that represented in the lexicon as the codified meaning of a signal, while the indirect meaning is meaning that can be inferred – and that the Sender has the supergoal that the Addressee infers – from the literal meaning of one or more verbal or bodily signals. For example, in begging – a persuasive communicative act aimed at getting help from someone – the beggar may 1. stare at a passer-by (thus meaning “I am addressing you”), with 2. oblique eyebrows, (“I am sad, helpless”), 3. head slightly bent down (“I am asking for your empathy”), and 4. cupped hand with palm up ("I am ready to take [what you give me]”). The literal meanings of these bodily communicative acts all aim at the common supergoal (at having the interlocutor infer the indirect meaning) of begging; and among them, oblique eyebrows and bent head aim at a pathos strategy. How multimodal persuasive fragments, taken from everyday communication, political discourse and entertainment can be analysed is shown in Poggi [15].
+In this work, we wonder what are the functions that gesture and gaze can fulfil in persuasive discourse, and how their work can be annotated.
+Actually, if gesture and face can have a function in persuasive discourse, we wonder, more specifically: do some gestures, facial expressions, items of gaze exist that are in themselves “persuasive”, i.e., that have the effect of persuading people?
+Some authors [7], [20], [21], [22], [23] claim that the persuasive effects of gestures depends on their type, whether they are iconic, deictic, symbolic, or adaptors of different types. In particular, a low level of persuasiveness is attributed to discourse accompanied by many self-adaptors. In our view, though, it is not so much what type of gesture you use in a speech that is persuasive, but what is the meaning it conveys. Finding that a politician is less persuasive if he makes many adaptors probably depends on the fact that most adaptors are used out of a need for self-reassurance. Thus, either they convey a message like “I am feeling insecure”, or they, by inducing the impression that the Speaker is embarrassed, may let infer a suspicion of deception. In both cases they fail to inspire trust in the audience.
+
+80
+
+I. Poggi and L. Vincze
+
+But again, also in the hypothesis that the persuasive effect of body movements depends on their meaning, we should wonder: are there some gestures, or facial expressions, or items of gaze, whose meaning can be defined “persuasive”?
+
+5 Persuasion in Gesture and Gaze
+In a previous work [24] it was found out that, except for very few cases, like gestures whose meaning is “I incite you” or so, there do not exist gestures that one can call “persuasive” per se. Rather, some gestures have a persuasive import since they convey some of the information required in the persuasive structure of discourse. But, what are the types of information that make a discourse persuasive?
+According to the model presented, some types of information that are typically conveyed in persuasion, and that make a discourse a persuasive discourse, are those linked to the scenario of persuasion: a goal proposed by a Sender, its being important and good for the Addressee’s goals, and the certainty of this mean-end relationship, but also the Addressee’s emotions and his or her trust in the Sender. Thus, the meanings relevant to persuasion – the types of information a persuasive discourse must convey, through whatever modality – are the following:
+1. Importance. If something is important, to obtain it will be a high value goal that you want to pursue. And gestures that convey the meaning “important” mention the high value of a proposed goal, to convince the Addressee to pursue it. This meaning is typically borne by gestures that convey performatives of incitation or request for attention, or other gestures like Kendon's [25] "finger bunch", that convey a notion of importance as their very meaning; but expressing “importance” is also the goal of beats, since every beat stresses a part of a sentence or discourse, thus communicating “this is the important part of the discourse I want you to pay attention to”. Finally, this can also be the goal of irregularity or discontinuity in the gesture movement: an effective way to capture attention.
+2. Certainty. To persuade you I must convince you, that is, cause you to have beliefs with a high degree of certainty, about what goals to pursue (their value, importance) and how to pursue them (means-end relationship). To induce certainty in you, I may need to show self-confident and certain about what I am saying. This is why gestures that convey high certainty, like Kendon’s [12] “ring”, may be persuasive.
+3. Evaluation. Expressing a positive evaluation of some object or event implies that it is a useful means to some goal; thus, to bring about that event or to obtain that object becomes desirable, a goal to be pursued. In the marketplace, to convince someone to buy a food, the grocer’s “cheek screw” (rotating the tip of the index finger on cheek to mean “good”, “tasty”), would be a good example of persuasive gesture.
+4. Sender’s benevolence. In persuasion not only the evaluation of the means to achieve goals, but also the evaluation of the Persuader is important: his ethos. If I am benevolent toward you – I take care of your goals – you can trust me, so if I tell you a goal is worthwhile you should pursue it. A gesture driven by the ethos strategy of showing one’s moral reliability is one quite frequent in political communication: putting one’s hand on one’s breast to mean “I am noble, I am fair” [26].
+
+Gesture, Gaze and Persuasive Strategies in Political Discourse
+
+81
+
+5. Sender’s competence. Trust implies not only benevolence but also competence. If I am an expert in the field I am talking about, if I am intelligent, efficient, you might join with me and pursue the goals I propose. In a fragment of a political debate the Italian politician Silvio Berlusconi, in talking of quite technical things concerning taxes, uses his right hand curve open, with palm to left, rotating rightward twice, meaning that he is passing over these technicalities, possibly difficult for the audience; but at the same time his relaxed movement lets you infer that he is smart because he is talking of such difficult things easily, and unconstrained. This aims at providing an image of competence.
+6. Emotion. Emotions trigger goals. So A can express an emotion to affect B by contagion and thus induce him to pursue or not to pursue some goal. In talking about his country, for example, Romano Prodi, moving his forearm with short and jerky movements of high power and velocity, conveys the pride of being Italian to induce the goal of voting for him.
+These are the meanings that, when found in a discourse, give it a persuasive import. Among these types of information, Emotion (n.6) typically makes part of a pathos strategy; the Sender’s benevolence and competence (n.5 and 4), but also certainty (n. 2), are clearly ethos information; while the elements of importance and evaluation (n. 1 and 3) are generally conveyed through a logos strategy. Nonetheless, these categories can merge with each other: for example, expressing an emotion about some possible action or goal may imply it is an important goal for me, and should be so for you. In this case, at a first level there is a pathos strategy – the goal of inducing an emotion, but this pathos is aimed at demonstrating the importance of the proposed goal, thus conveying a logos strategy at the indirect level.
+In order to classify gestures in terms of the three strategies, we first categorise them on the basis of the taxonomy of meanings presented in [15]. According to this taxonomy, gestures – as all other communicative signals – can be classified as conveying Information on the World, on the Sender’s Mind or on the Sender’s Identity. The gestures on the World inform on concrete or abstract events and entities, such as persons, objects, actions, quantifiers, properties of objects or persons, relations among them, etc. But they can communicate Information on the Sender’s Mind as well: some for example inform on the cognitive status of beliefs in the Sender’s Mind and on the degree of certainty of the mentioned beliefs. To the same category belong gestures which inform on the Sender’s goals (gestures which communicate a performative), or those which inform on the Sender’s emotions The third category contains gestures which convey information on the Sender’s Identity and a positive image of self.
+We applied same taxonomy to gaze items as well. On the basis of these hypotheses both gesture and gaze can be analysed as to their persuasive import in a discourse.
+
+6 Persuasive Gesture
+We analysed some fragments of political discourse in Italian and French elections. An annotation scheme (see Table 1) was constructed to assess the persuasive
+import of gestures. In the 9 columns we write, respectively:
+
+82
+
+I. Poggi and L. Vincze
+
+1) the number of the gesture under analysis and its time in the video; 2) the speech parallel to the gesture under analysis; 3) a description of the gesture in terms of its parameters [15]: handshape, location,
+orientation and movement, and for the movement the parameters of expressivity [27]: temporal extent, spatial extent, fluidity, power and repetition; 4) the literal meaning of the gesture. A gesture, as any communicative signal, by definition means something, that is, it corresponds to some meaning; this meaning can be either codified, as in a lexicon, or created on the spot but yet comprehensible by others, and then in any case shared. As such, any gesture may be paraphrased in words. (For examples of signal-meaning pairs in gestures, see [15]. This verbal paraphrase is written down in col. 4; 5) a classification of the meaning written in col.4, according to the semantic taxonomy proposed by [15], that distinguishes meanings as providing information on the World (events, their actors and objects, time and space relations between them), the Sender’s Identity (sex, age, socio-cultural roots, personality), or the Sender’s Mind (beliefs, goals and emotions); 6) on the basis of the semantic classification in Column 5), the gesture is classified as to whether it has a persuasive function, and if so, in terms of the persuasive strategy pursued: whether it conveys information bearing on logos, pathos, ethos benevolence, or ethos competence; 7) 8) and 9). Columns 7), 8) and 9) contain, for possible indirect meanings of the gesture, the same analysis of cols. 4), 5) and 6).
+The gestures analysed were taken from the political debates of Achille Occhetto and Romano Prodi, both candidates of the Centre-leftists against Silvio Berlusconi, during the Italian elections in 1994 and 2006, respectively. Some fragments were analysed as to their global meaning and their persuasive structure, and the gestures performed during discourse were annotated by two independent coders, previously trained in the annotation of multimodal data.
+Table 1 contains the annotation of the fragment below and shows how the elements of persuasiveness listed above can be found in the gestures under analysis.
+Si è detto recentemente con ironia: “Ma guarda Prodi fa il discorso con la CGIL e con la Confindustria”. Sì, faccio il discorso con la CGIL e la Confindustria. (Recently people ironically said: “Ok look Prodi is talking to both trade unions and factory owners”. Ya I talk to trade unions and factory owners).
+At line 1, Prodi quotes an ironic objection to his political action in order to counterobject to it. While saying “Si è detto recentemente con ironia” (“recently people ironically said”), his hands, with palms up a bit oblique, open outward: an iconic gesture referring to something open, public; a way to open a new topic in your discourse, like when the curtain opens on the stage: a metadiscursive gesture, but with no indirect meaning and no persuasive import. Then (line 2), while saying "ma guarda Prodi fa il discorso con la CGIL e con la Confindustria" (“Oh look, Prodi is talking to both trade unions and factory owners”), he puts his left hand on his hip, and at the same time, with his chest erected, he shakes his shoulders (first left shoulder forward and right backward, then the reverse). His hand on hip bears the meaning of someone taking the stance of a judge, the erected chest shows self-confidence, almost,
+
+Gesture, Gaze and Persuasive Strategies in Political Discourse
+
+83
+
+Table 1. The persuasive import of gestures
+
+1.
+
+2.
+
+Time Speech
+
+3. Gesture description
+
+4.
+
+5.
+
+6.
+
+7.
+
+Literal Meaning type Persuasiv Indir.
+
+meaning
+
+e import meaning
+
+8. Meaning type
+
+9. Persuasive import
+
+1 0.00.1
+
+“Si è detto recentemente hands palms up oblique
+
+con ironia”
+
+open outward
+
+Recently people ironically said
+
+Sp.ext: +1
+
+Fluid:
+
++1
+
+Power: -1
+
+Temp.ext: 0
+
+Rep.:
+
+0
+
+Open, public, I show, I exhibit,
+
+ISM Metadiscursive
+
+2 0.00.6
+
+“Ma guarda Prodi fa il discorso con la CGIL e con la confindustria”
+Ok look Prodi is talking to both trade unions and factory owners
+
+Left arm near body, hand I am
+
+ISM
+
+on Hip +
+
+mimickin Metadiscursive
+
+Shoulder shaking
+
+g those
+
+who
+
+Sp.ext: 0
+
+ironically
+
+Fluid: + 1
+
+judge by
+
+Power: - 1
+
+looking
+
+Temp.ext: 0
+
+down to
+
+Rep.:
+
+0
+
+us
+
+I want you to ISM
+
+PERS
+
+laugh about Performative (Pathos)
+
+them
+
+3 0.00.8
+
+Sì, faccio il discorso con la CGIL e la cofindustria
+Ya I talk to trade unions and factory owners
+
+Left arm near body, hand I defy you ISM
+
+on hip,
+
+Performative
+
+Bowing rhythmically
+
+Sp.ext: + 1
+
+Fluid: - 0.5
+
+Power: + 0.5
+
+Temp.ext: + 1
+
+Rep.:
+
+4
+
+I am self- ISM confident in Certainty doing so
+
+PERS (Ethos Competence)
+
+Legend: IW: Information on the World.
+
+a self attribution of superiority, and the shoulder shaking shows that he is gloating for the other being judged and ridiculed. This whole movement is a way to mimic the ones who uttered the quoted sentence, while making fun of them. Actually, he is somehow meta-ironizing: he is being ironic about others’ irony, by ridiculing their attitude of superiority through exaggeration. Irony in fact is often brought about through hyperbole [28]. This gesture has a persuasive import in that ridiculing aims to bring about an emotion of amusement in the audience, thus exploiting a pathos strategy in order to elicit a negative evaluation of the ridiculed people. And by inducing a negative evaluation of the opponents, Prodi intends to lead the audience to prefer him. Then he says (line 3): "sì faccio il discorso con la cigielle e la confindustria" (“Yes I am talking to trade unions and factory owners”), again with left hand on hip, but with bust bowing five times rhythmically, simultaneously with the stressed syllables in the concomitant sentence. The bust bow, somehow similar to an ample nod, means: “I acknowledge that what you say is true”, while the hand on hip claims self-confidence. But acknowledging that an accusation or a criticism is true while showing confidence means that you accept it as a neutral or even positive statement, devoid of any negative evaluation: thus the combination of the two movements means “I will really do what they accuse me of”, conveying a meaning of defiance, hence giving the impression of an even higher self-confidence.
+Table 2. shows the patterns of persuasive strategies pursued by Occhetto and Prodi in some fragments of the debates analysed. For each fragment, within the gestures performed we computed the number of communicative units conveyed, since in a single gesture the various parameters may convey more than one meaning; then within these we computed the number of persuasive units, distinguished into logos, pathos, ethos competence and ethos benevolence.
+
+84
+
+I. Poggi and L. Vincze
+
+Table 2. Persuasive strategies in gestures
+
+Length Gestures Communicative
+units Persuasive units
+Logos Pathos Ethos competence Ethos benevolence
+
+Occhetto 30” 14 24
+
+20
+
+n. %
+
+1
+
+5
+
+6
+
+30
+
+9
+
+45
+
+4
+
+20
+
+Prodi 1’32”
+27 49
+
+34
+
+n.
+
+%
+
+8
+
+23
+
+4
+
+12
+
+17 50
+
+5
+
+15
+
+Occhetto makes a higher percentage of persuasive gestures than Prodi out of the total of communicative gestures (Occhetto 20 out of 24, 83%, Prodi 34 out of 49, 69%), but this is also due to the fact that Prodi sometimes uses iconic gestures, that convey Information on the World and have no persuasive import except for some in expressivity. Moreover, Occhetto relies much more on pathos than on logos gestures (30% vs. 5%); Prodi uses the two strategies in a more balanced way, but with a preference for logos (23% vs. 12%). In both, the majority of gestures (65%) pursue an ethos strategy, and both tend to project an image of competence more than one of benevolence, but this preference for competence holds more for Prodi (50% vs. 15%) than for Occhetto (45% vs. 20%).
+These differences can be accounted for both by specific aspects of the fragments analysed, and by the different political origins of the two politicians. On the former side, in the fragment under analysis Occhetto is attacking his opponent Berlusconi from an ethical point of view, and therefore he aims to project an ethically valuable image of himself, while Prodi is describing his program and thus he wants to project the image of one who is able to carry it on effectively. On the side of the different political origins, Prodi is a centre-leftist coming from a former catholic party (the Christian Democrats), while Occhetto is a communist, and Berlusconi still makes appeal to the old prejudice that the Communists “eat the kids”! Hence, Occhetto in fact has a higher need than Prodi to show his image of benevolence a discourse.
+
+7 Persuasion in Gaze
+If gesture is so important in conveying information that is effective in persuasion, also gaze could be relevant in this connection. Yet, not so much literature has been devoted to the persuasive impact of facial expression and gaze in persuasion. So in this case we analysed the discourse of Prodi and the interview to Ségolène Royal to investigate the persuasive use of gaze in political discourse. The fragments were analysed by two independent expert coders.
+
+Gesture, Gaze and Persuasive Strategies in Political Discourse
+
+85
+
+Also in this study the hypothesis was that the persuasive import of gaze, just as for words and gestures, depends on the meanings it conveys. Therefore, to assess how persuasive the gaze displayed in a discourse might be, you have to assess its meaning. For the analysis of gaze in the fragments of Royal’s and Prodi’s discourse we used an annotation scheme similar to that used for gestures. Table 3 shows the analysis of two gaze items in Royal’s discourse.
+In example 1, while talking of the top managers who spoil the enterprises, like Mr. Forgeat (Col.2), Royal looks at the Interviewer, Arlette Chabot, with a fixed gaze (col.3) which means “I am severe, I do not let you avert your gaze” (4): information about Royal’s personality, her being serious and determined (5), aimed at a strategy of Ethos competence (6), and possibly to indirectly conveying that she is one who struggles against injustice (7): again information on her personality (8), bearing on the moral side of ethos, benevolence (9). Then Royal, leaning her head on the left, looks at the Interviewer obliquely and with half-closed eyelids, an expression of anger and indignation: information about her emotion, which she possibly wants to induce in the audience, thus pursuing a pathos strategy.
+In example 13, she refers to a proposal made by Sarkozy that the unemployed people should be induced to choose a job out of no more than two, and lest they do so, they should lose their unemployment subsidy. Royal argues that this imposed choice can only be acceptable if the conditions of the two jobs are not very punitive. So, while saying il faut accepter cet emploi (“you have to accept this job”), she looks down, first rightward then leftward, as if looking at two things before deciding, thus referring to the choice between the two jobs. This is an iconic use of gaze, providing Information on the World, namely an action of choice, by mimicking it. After that, she raises her eyebrows while keeping her eyelids in the défault position: one more iconic gaze that means “order”, mimicking the expression of someone who orders the unemployed to make his choice. By these two gaze items Royal is playing the roles of
+
+Table 3. The persuasive import of gaze
+
+1. Time
+1 48.10
+
+2. Speech
+
+3. Gaze description
+
+Et aux hauts dirigeants qui Fixed gaze to the Int. abîment l’entreprise en faillite comme M. Forgeat Looks at Interviewer
+leaning head leftward, And as to the top managers from down to up, with who spoil the enterprises, like half-closed eyelids Mr. Forgeat
+
+4. Literal meaning I’m severe,
+I feel anger and indignation
+
+5.
+
+6.
+
+7.
+
+Meaning Persuasive Indir.
+
+type import meaning
+
+ISI
+
+ETHOS I struggle
+
+Personali Competen against
+
+ty
+
+ce
+
+injustice
+
+8.
+
+9.
+
+Meaning type Persuasive
+
+import
+
+ISI
+
+ETHOS
+
+Personality Benevolen
+
+ce
+
+ISM Emotion
+
+I ask you ISM to feel Performative PATHOS indignation
+
+13 Non, là, il faut… il faut 49.10 accepter cet emploi,
+
+She looks down, first tright then to left
+
+No, you have…. You have to accept this job
+Eyebrows raised, Eyelids défault
+
+Choice,
+
+IW
+
+choose a job Action
+
+I order you ISM
+
+(to choose Performa
+
+one)
+
+tive
+
+I am ridiculing S.’s proposal
+
+ISM Emotion
+
+PATHOS
+
+His
+
+ISM
+
+LOGOS
+
+proposal is Negative
+
+too
+
+Evaluation of
+
+punitive opponent
+
+Legend: IW: Information on the World; ISM = Information on the Sender’s Mind; ISI = Information on the Sender’s Identity.
+
+86
+
+I. Poggi and L. Vincze
+
+both, the unemployed person and the job proposer, thus enacting the scene of Sarkozy’s proposal. On the basis of the following argumentation, in which Royal is very critic about it, we can interpret her enactment as a parody, a way to make fun of Sarkozy’s proposal, thus conveying a negative evaluation of her opponent through a pathos strategy.
+On the basis of this qualitative analysis, a quantitative analysis was finally carried on. Out of the fragments analysed of Prodi’s and Royal’s speeches, we finally selected a sample of 20 items of gaze per each politician, and computed their persuasive functions. Table 4 and Figures 2 and 3 show the different distribution of gaze communication across the four different strategies: logos, pathos, ethos competence and ethos benevolence.
+
+Table 4. Persuasive strategies in gaze
+
+Prodi
+
+Length
+
+53”
+
+Gaze items
+
+20
+
+Communicative 25
+
+units
+
+Persuasive units 16
+
+n. %
+
+Logos
+
+4
+
+25
+
+Pathos
+
+2
+
+13
+
+Ethos competence 10 62
+
+Ethos
+
+0
+
+0
+
+benevolence
+
+Royal 1’20” 20 25
+
+22
+
+n. %
+
+12 54
+
+3
+
+14
+
+6
+
+27
+
+1
+
+5
+
+Prodi
+
+Compet. 62%
+
+Benevol. 0%
+
+Logos 25%
+
+Pathos 13%
+
+Royal
+
+Compet. 27%
+
+Benevol. 5%
+
+Pathos 14%
+
+Logos 54%
+
+Fig. 2. Persuasive strategies in Prodi’s gaze Fig. 3. Persuasive strategies in Royal’s gaze
+From the analysis of Prodi’s and Royal’s gaze it results that the two differ as to the persuasive strategies of their gaze. Prodi’s most frequent strategy (62%) is to show his competence to elicit the electors’ trust, while he does not aim at showing his benevolence. He uses a logos strategy in 25% of his gaze, and pathos in 13%. Quite striking, instead, the frequency of logos strategy in Royal’s gaze (54%) and then the
+
+Gesture, Gaze and Persuasive Strategies in Political Discourse
+
+87
+
+appeal to her own competence (27%) which, however, does not rule out benevolence (5%). Finally, the pathos strategy is used slightly more than in Prodi’s discourse (14% as opposed to 13%).
+The high incidence of the competence strategy and total lack of the benevolence strategy in Prodi’s gaze is coherent with his need to enhance more his image of skill and political intelligence than that of an honest and altruistic person. Between Prodi and his opponent Berlusconi, the latter generally has the image of one who deals with politics more for the sake of his own financial interests than for the Italians. On the other hand, the propaganda of the right would often ridicule Prodi by comparing him to a “mortadella” (a salted meat typical of his hometown, Bologna): a fat, cheap, popular, not luxurious food, evoking someone who is over-soft, not so charismatic, skilled and determined. As for the high incidence of the logos strategy in Royal’s gaze, two tentative explanations could be the goal to contrast stereotypes of feminine irrationality, or the French esprit de géométrie.
+What these analyses show is how coherent is the use of gaze with the whole of an Orator’s argumentation and persuasive plan.
+
+8 Body Side and Political Side
+As we mentioned, the body may be used in persuasive discourse at different levels of awareness, but also when some body behaviour is not completely aware we can still leave it open the hypothesis that the Speaker does have a specific goal of using that movement as a subgoal of his discourse plan, and possibly of his persuasive strategy.
+An intriguing example of this may be the use of hands and head movements to indicate two opposed parties and political stances. While analysing Royal’s debate, we fell in with a curious use of the location of her hands that systematically matches the abstract location of left and right in the political sense. A such use of hands has been observed already by Calbris [10] concerning Jospin’s gestures : “The Left in politics is situated at the locutor’s left. Jospin refers to the Left by systematically exploiting his left hand. Every allusion to the left government, such as the Left’s objectives, the Left’s political programme, are represented by the left hand. [...] In general way, the Leftist government is mentally situated on the left.” (p. 67, our translation).
+We can see the same phenomena in the interview of Ségolène Royal, where she very consistently uses her right hand while speaking of the right, the rich, the speculation, while she uses her left hand while mentioning the poor, the workers, or the middle class.
+We annotated this meaningful use of hands through the scheme in Table 5. Here, column 1 contain the sentence under analysis, while in the subsequent six columns, respectively, you write whether Royal moves her right (col. 2-4) or her left hand (5-7), and whether toward right, or left or to the centre.
+From a quantitative point of view (see Table 6), in a fragment of 4’6’’ Ségolène Royal moves her right hand 40 times and her left hand 6 times. Her right hand moves to the right 25 times, 14 to the centre, and only once to left, while the left hand always moves to the left.
+
+88
+
+I. Poggi and L. Vincze
+
+Table 5. Body side and political side
+
+46.28 46.44
+47.17 47.47
+
+Speech
+There are too many rich people on one side and too many poor people on the other But when I hear the candidate of the Right saying that he is going to make a “tax shield” for the rich people But where is that money going? In the real estate, in the real estate speculation It’s going into the real estate speculation, that is, the middle class has more and more difficulties to buy a house, because there is speculation Because if the private income is more rewarding than work, how do you want to motivate people to work, how do you want to motivate the small enterprises, if they earn more money by real estate speculation, then by creating, by creating by creating the industrial activities which France needs?
+
+Right Hand
+
+RH RH in RH
+
+on center on
+
+right
+
+left
+
+X
+
+X X X X X
+
+X X
+
+X X
+X X X
+
+Left Hand
+
+LH on LH in LH
+
+right
+
+center on
+
+left
+
+X
+
+X X
+X X
+
+Table 6. Right and left hand location
+
+Right Hand Left Hand
+
+To Right To
+
+centre
+
+25
+
+14
+
+To left
+1 6
+
+TOT.
+40 6
+
+From a qualitative point of view, the right hand moving to the right in 24 cases out of 25 is concomitant with sentences mentioning Sarkozy, the right, rich people, people earning money. When the right hand moves to the centre, in front of the Speaker, 8 times out of 14 the concomitant sentences concern Royal’s personal stance: in all of them she speaks in first person and mentions her own desires, opinions, feelings. As Calbris [10] noticed, concerning Jospin, “The private person expresses himself through the right hand and the public personality through the left hand.” (p. 68). It is the same for Royal: she moves her right hand when expressing her personal stance, in correspondence of the following statements:
+
+Gesture, Gaze and Persuasive Strategies in Political Discourse
+
+89
+
+Ben, moi je veut changer ça, je veut changer ce désordre de choses (I want to change this, I want to change this disorder of things)
+Je suis pour respecter le gens, je ne suis pas pour dresser les Français les uns contre les autres (I’m for respecting people, I’m not for raising the French one against another)
+Je vois beacoup de gens qui n’ont pas de travail (I see many people who don’t have a job C’est une mauvaise façon de parler des êtres humains (I think this is a bad way of speaking about human beings)
+Finally, when the right hand moves to the left, like when the left hand is moving, the concomitant sentences concern the poor, the working class, the middle class:
+Il y a trop de riches d’un côté et trop de riches d’un autre (There are too many rich people on one side and too many poor people on the other).
+Les catégories moyennes ont de plus en plus mal à se loger (The middle class has more and more difficulties to buy a house);
+Les chômeurs cherchent un travail. Il y a comme dans toute catégorie des gens qui essaient d’en profiter. Mais pas plus chez les chômeurs que chez les autres. (Unemployed people are looking for a job. There are among them, as among all categories, some people who try to take advantage of it. But there aren’t more so among the unemployed than among other people).
+A similar device of referring to the different political parties, left and right, through body movements, has also been found in a study on head movements in Italian politicians [29]. During a pre-electoral debate versus Prodi in 2006, Silvio Berlusconi, the candidate of the right, while talking of his stance about a brutal crime of murderers who kidnapped and then killed a one year child, is saying: “Vorrei anche aggiungere che noi abbiamo portato critiche alla magistratura” (I further would like to add that we criticized the Magistracy). While uttering the word “we” his head points to the right, and immediately after, while uttering the word “Magistracy”, it points downward leftward. This is coherent, first with his being a member of the right, second with Berlusconi’s stance that the Magistracy, that he always complains is persecuting him, is manoeuvred by the left, and that all judges are leftists.
+Do these body behaviours have a persuasive import? They might in fact, in at least two senses. First, in the process of persuasion, a first step is for the Persuader to get access to the Persuadee’s mind: to be understood. In this sense, hands and head may contribute to the comprehensibility of political discourse by continuously indicating whether the Speaker is talking of the left or the right. Moreover, always reminding the audience what party is one talking about can have a subtly evaluative import, thus being persuasive in a more strict sense. In any case, though, these light or strong persuasive goals must be conceived of at a low level of awareness.
+Another hypothesis, though, might be put forward. Among gesture scholars [30], [31], [32], [33], [12], [34], [35], [36], [15], some point at the communicative function of gestures, which provide referential and discourse information by adding to, replacing, contradicting words; others stress its cognitive function by considering them a device to help the speaker’s thinking and lexical retrieval; others finally maintain they serve both cognitive and communicative functions.
+In our case, one could make the hypothesis that Royal is accompanying her words right and left with her right and left hands mainly to help herself retrieve the corresponding images, concepts or words. In this case the gesture would have primarily a cognitive, not a communicative and persuasive function.
+
+90
+
+I. Poggi and L. Vincze
+
+This hypothesis is made somewhat plausible by contrasting Royal’s behaviour with that of an Italian politician, Gianni De Michelis, as observed in a previous work [15]. While talking of Boris Eltsin’s politics, De Michelis says:
+Sara’ meno condizionato da destra e’ meno condizionato da destra ma e’ più condizionato da sinistra anzi e’ molto più condizionato da sinistra (It may be less conditioned by the right; it is less conditioned by the right but it is more conditioned by the left, actually it is much more conditioned by the left).
+While uttering the word “right” he pushes his right hand to the left, which, to the audience facing him, means "right", thus taking up the specular point of view of the audience. This was taken, in that work [15], as an evidence of how sophisticated the communicative competence of this politician is, exhibiting a clear representation of the audience’s viewpoint, even at the perceptual level. This is a case where hand movements clearly do have a communicative goal: they are conceived right in view of the listeners’ comprehension. While it might not be so in the case of Ségolène Royal, who uses her right hand – seen by the audience as the left – to accompany words and concepts referred to the right, and her left hand for the left.
+
+9 Conclusion
+This work presents an approach to multimodal persuasive discourse in terms of the communicative goals pursued by the Persuader’s words, gesture and gaze. Starting from a model of persuasion in terms of goals and beliefs, we have proposed two kinds of annotation schemes, devoted to analyse the macro- and micro-structure of multimodal discourse, respectively: on the one side, the hierarchy of goals of the persuasive verbal discourse, on the other, the persuasive import of single gesture and gaze items. By applying these schemes to the analysis of political discourse in different politicians, we have seen that the pattern of persuasive strategies in their gesture and gaze is quite coherent both with the specific context of their discourse and with their political line and political style: that is, the goals pursued at the micro level are consistent with those at the macro level. Actually, our approach by definition looks at the goals of the Orator more than at the effects on the Audience, and when people’s goals are at stake you can but guess them: goals are internal, invisible representations. But the reciprocal consistency of the results at the macro and micro levels may credit reliability to our results and confirm the descriptive adequacy of our annotation schemes.
+
+References
+1. Cicero, M.T.: De Oratore (55 B.C.) 2. Quintilianus, M.F.: Institutio Oratoria. Le Monnier, Firenze (95) 3. Atkinson, M.: Our Master’s Voices. The Language and Body Language of Politics.
+Methuen, London (1984) 4. Frey, S.: Die Macht des Bildes. Der Einfluss der nonverbalen Kommunikation auf Kultur
+und Politik. Huber, Bern (1998)
+
+Gesture, Gaze and Persuasive Strategies in Political Discourse
+
+91
+
+5. Bucy, E.P., Bradley, S.D.: Presidential Expressions and Viewer Emotion: Counter Empathic Responses to Televised Leader Displays. Social Science Information 43(1), 59–94 (2004)
+6. Bull, P.E.: The Use of Hand Gestures in Political Speeches: Some Case Studies. Journal of Language and Social Psychology 5, 102–118 (1986)
+7. Guerini, M., Strapparava, C., Stock, O.: CORPS: A corpus of tagged Political Speeches for Persuasive Communication Processing. Journal of Information Technology and Politics 5(1), 19–32 (2008)
+8. Ekman, P.: Telling lies. Norton, New York (1985) 9. De Paulo, B.M., Lindsay, J.J., Malone, B.E., Muhlenbruck, L., Charlton, K., Cooper, H.:
+Cues to deception. Psychological Bulletin 129, 74–118 (2003) 10. Calbris, G.: L’expression Gestuelle de la Pensée d’un Homme Politique. Paris, Ed. du
+CNRS (2003) 11. Streeck, J.: Gesture in Political Communication. A Case Study of the Democratic
+Presidential Candidates during thwe 2004 Primary Campaign. To be published in Research on Language and Social Interaction (forth.) 12. Kendon, A.: Gesture. Visible Action as Utterance. Cambridge University Press, Cambridge (2004) 13. Parisi, D., Castelfranchi, C.: Discourse as a hierarchy of goals. Working Papers. 54–55 Urbino: Centro Internazionale di Semiotica e Linguistica (1975) 14. Conte, R., Castelfranchi, C.: Cognitive and Social Action. University College, London (1995) 15. Poggi, I.: Mind, Hands, Face and Body. A Goal and Belief View of Multimodal Communication. Weidler, Berlin (2007) 16. Poggi, I.: The Goals of Persuasion. Pragmatics and Cognition 13, 298–335 (2005) 17. Miceli, M., de Rosis, F., Poggi, I.: Emotional and non emotional persuasion. Applied Artificial Intelligence: an International Journal 20, 849–879 (2006) 18. Poggi, I., Castelfranchi, C.: Dare consigli. In: Humphris, C. (ed.) (a cura di) Atti del 2o Seminario Internazionale per Insegnanti di Lingua. Bollettino DILIT, vol. 3, pp. 29–49 (1990) 19. Aristotle: Retorica. Bari, Laterza (1973) 20. Argentin, G., Ghiglione, R., Dorna, A.: La gestualité et ses effets dans le discours politique. Psychologie Française 35, 153–161 (1990) 21. Burgoon, J.K., Birk, T., Pfau, M.: Nonverbal behaviors, persuasion, and credibility. Human Communication Research 17, 140–169 (1990) 22. Henley, N.M.: Body politics: Power, sex, and nonverbal behavior. Prentice-Hall, Englewood Cliffs (1977) 23. Moore, H.E., Porter, N.K.: Leadership and nonverbal behaviours of Hispanic females across school equity environments. Psychology of Women Quarterly 12, 147–163 (1988) 24. Poggi, I., Pelachaud, C.: Persuasive gestures and the expressivity of ECAs. In: Wachsmuth, I., Lenzen, M., Knoblich, G. (eds.) Embodied Communication in Humans and Machines, pp. 391–424. Oxford University Press, Oxford (2008) 25. Kendon, A.: Gestures as Illocutionary and Discourse Structure Markers in Southern Italian Conversation. Journal of Pragmatics 23, 247–279 (1995) 26. Serenari, M.: Examples from the Berlin Dictionary of Everyday Gestures. In: Rector, M., Poggi, I., Trigo, N. (eds.) Gestures. Meaning and Use, pp. 111–117. Edicoes Universidade Fernando Pessoa, Porto (2003)
+
+92
+
+I. Poggi and L. Vincze
+
+27. Hartmann, B., Mancini, M., Pelachaud, C.: Formational Parameters and Adaptive Prototype Instantiation for MPEG-4 Compliant Gesture Synthesis. In: Computer Animation 2002, pp. 111–119 (2002)
+28. Attardo, S., Eisterhold, J., Hay, J., Poggi, I.: Multimodal markers of irony and sarcasm. Humour. International Journal of Humour Research 16(2), 243–260 (2003)
+29. Cirmi, C.: Il testonario: segnali e significato dei movimenti della testa. Unpublished Degree Thesis, Università Roma Tre (2007)
+30. Rimé, B.: The elimination of visible behaviour from social interactions: Effects on verbal, nonverbal and interpersonal variables. European Journal of Social Psychology 12, 113–129 (1982)
+31. Krauss, R.M., Dushay, R.A., Chen, Y., Rauscher, F.: The communicative value of conversational hand gestures. Journal of Experimental Social Psychology 31, 533–552 (1995)
+32. Krauss, R.M., Chen, Y., Gottesman, R.F.: Lexical gestures and lexical access: a process model. In: McNeill, D. (ed.) Language and gesture. Cambridge University Press, Cambridge (2000)
+33. McNeill, D.: Gesture and Thought. University of Chicago Press, Chicago (2005) 34. Alibali, M.W., Kita, S., Young, A.: Gesture and the process of speech production: We
+think, therefore we gesture. Language and Cognitive Processes 15, 593–613 (2000) 35. Alibali, M.W., Heath, D.C., Myers, H.J.: Effects of visibility between speaker and listener
+on gesture production: Some gestures are meant to be seen. Journal of Memory and Language 44, 169–188 (2001) 36. Melinger, A., Kita, S.: Conceptualization load triggers gesture production. Language and Cognitive Processes 22(4), 473–500 (2007)
+
