@@ -9,7 +9,7 @@
 	"priority": 100,
 	"inRepository": true,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2021-07-05 00:05:00"
+	"lastUpdated": "2021-07-23 06:00:00"
 }
 
 /*
@@ -55,7 +55,7 @@ function detectWeb(doc, url) {
 			
 			return displayItemType;
 		}
-		else if (url.includes('/search')) {
+		else {
 			Z.monitorDOMChanges(doc.querySelector('div#root'));
 		}
 	}

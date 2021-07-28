@@ -9,7 +9,7 @@
 	"priority": 100,
 	"inRepository": true,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2021-07-07 17:45:00"
+	"lastUpdated": "2021-07-23 05:50:00"
 }
 
 /*
@@ -51,6 +51,7 @@ function detectWeb(doc, url) {
 	else if (getSearchResults(doc, true)) {
 		return "multiple";
 	}
+	Z.monitorDOMChanges(doc.querySelector('app-root'));
 	return false;
 }
 

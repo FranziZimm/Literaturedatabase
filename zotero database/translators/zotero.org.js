@@ -1,15 +1,15 @@
 {
 	"translatorID": "c82c574d-7fe8-49ca-a360-a05d6e34fec0",
+	"translatorType": 4,
 	"label": "zotero.org",
 	"creator": "Dan Stillman, Aurimas Vinckevicius, Tomasz Najdek",
 	"target": "^https?://[^/]*zotero\\.org(:\\d+)?/.+/(items|collections|library|publications|trash|search|item-list|item-details)(/|$)",
 	"minVersion": "3.0",
-	"maxVersion": "",
+	"maxVersion": null,
 	"priority": 100,
 	"inRepository": true,
-	"translatorType": 4,
 	"browserSupport": "gcsv",
-	"lastUpdated": "2020-02-21 14:40:54"
+	"lastUpdated": "2021-07-22 15:50:00"
 }
 
 /*
@@ -138,7 +138,8 @@ function detectWeb(doc, url) {
 
 	const multipleItemsDataEl = doc.querySelector('script#translator-items-list');
 
-	if (multipleItemsDataEl) {
+	if (multipleItemsDataEl
+		&& Object.keys(JSON.parse(multipleItemsDataEl.textContent)).length) {
 		return 'multiple';
 	}
 
@@ -306,6 +307,5 @@ var testCases = [
 		"defer": true,
 		"items": "multiple"
 	}
-
 ]
 /** END TEST CASES **/

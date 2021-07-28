@@ -1,11 +1,14 @@
 {
 	"translatorID": "14763d25-8ba0-45df-8f52-b8d1108e7ac9",
+	"translatorType": 3,
 	"label": "Bibliontology RDF",
 	"creator": "Simon Kornblith",
 	"target": "rdf",
 	"minVersion": "2.0",
-	"maxVersion": "",
+	"maxVersion": null,
 	"priority": 50,
+	"inRepository": true,
+	"browserSupport": "gcsibv",
 	"configOptions": {
 		"getCollections": "true",
 		"dataMode": "rdf/xml"
@@ -13,10 +16,7 @@
 	"displayOptions": {
 		"exportNotes": true
 	},
-	"inRepository": true,
-	"translatorType": 3,
-	"browserSupport": "gcsibv",
-	"lastUpdated": "2019-09-01 13:38:00"
+	"lastUpdated": "2021-07-23 04:20:00"
 }
 
 var n = {
@@ -785,7 +785,15 @@ function getStatementsByDefinition(definition, node) {
 
 function detectImport() {
 	// look for a bibo item type
-	var rdfTypes = Zotero.RDF.getStatementsMatching(null, RDF_TYPE, null);
+	let rdfTypes = null;
+	try {
+		rdfTypes = Zotero.RDF.getStatementsMatching(null, RDF_TYPE, null);
+	}
+	catch (err) {
+		// probably just not RDF
+		return false;
+	}
+
 	if (rdfTypes) {
 		for (var i=0; i<rdfTypes.length; i++) {
 			if (typeof rdfTypes[i][2] === "object" && Z.RDF.getResourceURI(rdfTypes[i][2]).substr(0, BIBO_NS_LENGTH) == n.bibo) return true;

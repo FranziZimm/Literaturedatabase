@@ -3,13 +3,13 @@
 	"translatorType": 4,
 	"label": "Journal of Machine Learning Research",
 	"creator": "Abe Jellinek",
-	"target": "^https?://((www\\.)?(jmlr\\.org)/(papers/v|mloss/)|proceedings\\.mlr\\.press/v)",
+	"target": "^https?://((www\\.)?(jmlr\\.(org|csail\\.mit\\.edu))/(papers/v|mloss/)|proceedings\\.mlr\\.press/v)",
 	"minVersion": "3.0",
 	"maxVersion": null,
 	"priority": 100,
 	"inRepository": true,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2021-07-09 22:10:00"
+	"lastUpdated": "2021-07-23 05:20:00"
 }
 
 /*
@@ -82,7 +82,7 @@ function doWeb(doc, url) {
 	}
 	else {
 		if (url.endsWith('.pdf')) {
-			ZU.processDocuments(url.replace(/volume([^/]+\/[^/]+)\/.*/, 'v$1'), scrape);
+			ZU.processDocuments(url.replace(/v(?:olume)?([^/]+\/[^/]+)\/.*/, 'v$1'), scrape);
 		}
 		else {
 			scrape(doc, url);
