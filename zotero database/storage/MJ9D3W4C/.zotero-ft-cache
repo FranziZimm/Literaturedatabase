@@ -1,0 +1,265 @@
+Language Learning ISSN 0023-8333
+Individual Differences in Second Language Sentence Processing
+Leah Roberts
+University of York and Max Planck Institute for Psycholinguistics
+As is the case in traditional second language (L2) acquisition research, a major question in the ﬁeld of L2 real-time sentence processing is the extent to which L2 learners process the input like native speakers. Where differences are observed, the underlying causes could be the inﬂuence of the learner’s ﬁrst language and/or differences (fundamental or not) in the use of processing strategies between learners and native speakers. Another factor that may account for L1–L2 differences, perhaps in combination with others, is individual variability in general levels of proﬁciency or in learners’ general cognitive capacities, such as working memory and processing speed. However, systematic research into the effects of such individual differences on L2 real-time sentence processing has yet to be done because researchers in the main attempt to control for individual differences in general cognitive capacities rather than to investigate them in their own right: nevertheless, a review of the current work on L2 sentence and discourse processing raises some interesting ﬁndings. An overview of this research is presented in this paper, highlighting what appear to be the circumstances under which individual differences in factors such as working memory capacity and proﬁciency do or do not affect L2 sentence processing. Taken together, the data suggest that it is only under certain experimental circumstances—speciﬁcally, when participants are asked to perform a metalinguistic task directing their attention to the manipulation at the same time as comprehending the input—that individual differences in such factors as insufﬁcient L2 proﬁciency and/or cognitive processing limitations, like speed and working memory inﬂuence L2 learners’ real-time processing of the target input. Under these circumstances, L2 learners of for instance, a higher working memory capacity or greater proﬁciency are more likely to process the input like native speakers. Otherwise, learners appear to shallow process the input, irrespective of individual variability.
+
+Correspondence concerning this article should be addressed to Leah Roberts, Centre for Language Learning Research, Department of Education, University of York, Heslington, York, YO10 5DD, UK. Internet: leah.roberts@york.ac.uk
+
+Language Learning 62:Suppl. 2, September 2012, pp. 172–188
+
+172
+
+C 2012 Language Learning Research Club, University of Michigan
+
+Roberts
+
+IDs in L2 Sentence Processing
+
+Introduction
+During real-time sentence comprehension, listeners and readers do not wait until the end of a sentence before trying to interpret the input, but attempt to integrate each piece of new material into the current analysis of the sentence as soon as it is encountered (e.g., Frazier, 1978). This incremental processing involves the extremely rapid application of bottom-up lexical-semantic and syntactic knowledge as well as top-down discourse-pragmatic and world knowledge; furthermore, comprehenders also create expectations of upcoming material, based on their current analyses. Evidence for the use of such incremental parsing procedures comes from studies which show that comprehenders often misanalyze the input (e.g., Frazier, 1987; Pickering & Traxler, 1998). An example is shown in (1a), a temporarily ambiguous, or garden-path sentence, where the noun the song is likely initially to be taken to be the direct object of the immediately preceding verb played. This analysis is erroneous, however, as becomes obvious when readers encounter the main verb pleased next in the input, which requires a subject. The reader must then re-analyze the noun the song as subject of this main verb, rather than object of the preceding verb, and this causes processing slowdowns in comparison to a condition where a noun is semantically less likely to be the direct object (1b).
+(1) a. While the band played the song pleased all the customers. b. While the band played the beer pleased all the customers.
+During real-time processing, comprehenders are also constantly occupied with reference resolution: deciding on the basis of a speaker/writer’s use of a certain type of referring expression (e.g., a pronoun versus a deﬁnite NP; he vs. the man) to what or to whom they are referring. There may be more than one potential antecedent for a referring expression, and thus deducing the correct referent is another form of ambiguity resolution (2).
+(2) Johni spoke to Fredj yesterday when hei/j was at work.
+Such dependencies can span many clauses, and so one must be able to keep track of them whilst attempting to interpret the intervening material at the same time.
+A similar processing problem is encountered when computing long distance wh-dependencies, as in (3), where one must hold in memory a fronted item (the doctor) that requires integration later on in the input with its licensing constituent (hit).
+
+173
+
+Language Learning 62:Suppl. 2, September 2012, pp. 172–188
+
+Roberts
+
+IDs in L2 Sentence Processing
+
+(3) That’s the doctori that the nurse claimed that the angry patient hit __i on the ward yesterday.
+Therefore, given the rather complex processing procedures at play, even when establishing everyday dependencies like that between a pronoun and its antecedent, it would be unsurprising to ﬁnd that sentence processing is affected by individual differences in general cognitive capacity such as working memory, in particular if one is processing in one’s less dominant language. In this paper, I discuss the research ﬁndings on the effects of individual differences in variables such as working memory capacity and proﬁciency L2 processing. Before doing so, for comparative purposes, I summarize some key ﬁndings of research into individual differences in L1 sentence processing.
+
+Individual Differences in L1 Sentence Processing
+The inherent ambiguity and complexity in language comprehension means that the majority of parsing theories make some reference to working memory as a constraining variable (e.g., Frazier, 1978; Gibson, Pearlmutter, CansecoGonzalez, & Hickok, 1996; Vasishth & Lewis, 2006). In modular, serial parsers, limited working memory capacity is cited as the reason why the parser attempts incremental processing, and why it tries to integrate each word of the input as soon as possible: it does so to free up working memory space, which is at a premium (e.g., Frazier, 1978). Constraint-based parsing models assume that multiple analyses involving information from all possible sources (e.g., syntactic, semantic, discourse-pragmatic, etc) are computed in real-time, and these receive more or less activation as the parse unfolds and more input is received (see Vasishth & Lewis, 2006, for an overview of parsing models). Early studies of the effects of differences in working memory capacity on comprehension found that participants of higher working memory, measured in terms of processing speed and correctly answering comprehension questions, had less trouble with more complex constructions than those of lower memory capacity, measured in terms of processing speed and correctly answering comprehension questions. For instance, King and Just (1991) found that all participants had more difﬁculty processing object (4b) versus subject-extracted (4a) relative clauses, but the difference between the two conditions was signiﬁcantly greater for those of lower working memory capacity.
+(4) a. The guy who __ followed the ﬁrst lady was a spy. b. The guy who the ﬁrst lady followed __ was a spy.
+
+Language Learning 62:Suppl. 2, September 2012, pp. 172–188
+
+174
+
+Roberts
+
+IDs in L2 Sentence Processing
+
+However, the role of working memory in sentence comprehension is not without contention. Researchers argue about whether memory resources that are employed for language processing are speciﬁc to the linguistic domain (King & Just, 1991; Caplan & Waters, 1999), based on the early deﬁnition of working memory capacity derived from the work of Baddeley and colleagues (e.g., Baddeley & Hitch, 1974; Baddeley, 1986), or whether complex working memory involves domain-general mechanisms (e.g., Chein, Moore, & Conway, 2011; Conway & Engle, 1997). It has been argued that memory span tasks that involve storage only (digit and word-span tasks) rather than comprising both a storage and a processing component, may not be good predictors of higher-order language comprehension abilities (Daneman & Marikle, 1996; Engle, 2001; Van den Noort, Bosch, & Hugdahl, 2006). Furthermore, a recent overview of the research suggests that verbal working memory in fact explains a rather small amount of variance (Farmer, Misyak & Christianson, in press) and although some have found that differences in memory span may impact L1 comprehension abilities, the relationship between working memory and language abilities might be rather more complex than previously thought, with memory span being impacted by linguistic experience (MacDonald & Christiansen, 2002; Wells, Christianson, Race, Acheson, & MacDonald, 2009; see Friedman & Miyake, 2004, for an overview).
+Differences in general cognitive control can also affect real-time comprehension. It has been observed that cognitive control may be involved in the processing of syntactic ambiguities (e.g., Clean the pig with the leaf ), speciﬁcally that such mechanisms may be important for the direction of attention away from one (preferred) analysis towards another (Gernsbacher, 1997; Kolk & Chwilla, 2007; Novick, Trueswell, & Thompson-Schill, 2005; January, Trueswell, & Thompson-Schill, 2009; Ye & Zhou, 2008). Given the above ﬁndings, one might indeed expect individual differences in working memory and cognitive control to inﬂuence L2 learners’ processing of structurally ambiguous and structurally complex sentences, and may explain high variability in performance, and non-native-like behaviour, although such variables have yet to be tested in the L2 processing domain.
+Below, I will ﬁrst brieﬂy summarize research into the relationship between individual differences in working memory capacity and success in second and foreign language learning and then present an overview of the available experimental data on L2 sentence processing in real time.
+
+175
+
+Language Learning 62:Suppl. 2, September 2012, pp. 172–188
+
+Roberts
+
+IDs in L2 Sentence Processing
+
+Effects of Individual Differences in Cognitive Capacity on Language Learning
+In the investigation of the effects of individual differences in cognitive capacity on L2 learning, researchers have mainly focused on the effects of working memory. Early work found that reduced working memory capacity is observed for the same participants when they perform a task in their L2 in comparison to their L1 (Dornicˇ, 1980), and with an increase in L2 proﬁciency and/or experience, less working memory capacity is consumed when performing target language tasks (Service, Simola, Metsanheimo, & Maury, 2002). Furthermore, it appears that there are reliable correlations between a learners’ reading and phonological span scores in their L1 and their L2, as well as between L2 memory span scores and L2 proﬁciency (Juffs, 2004; Juffs & Harrington, 2011; Harrington & Sawyer, 1992). In sum then, it appears that processing in the L2 can put a strain on the processing system, particularly at lower levels of L2 proﬁciency.
+As regards impacting language learning itself, some researchers assume that differences in working memory capacity should predict language learning success (e.g., Skehan, 2002) and there is evidence that L2 learners with higher working memory may be better able to proﬁt from interactional feedback than those of lower working memory (Mackey, Adams, Stafford, & Winke, 2010; Sagarra, 2007). The discussion in the literature has often centered on the relationship between implicit versus explicit learning conditions and individual differences in working memory capacity. For instance, research by Ando et al. (1992) found that children with low memory spans beneﬁted more from a communicative teaching approach, whereas high working memory children were more successful with form-focused, explicit teaching methods (see also Erlam, 2005). Such ﬁndings are argued to support the notion that explicit learning is subject to more variability in aptitude and other general cognitive capacities than implicit processes (Reber, Walkenfeld, & Hernstadt, 1991; Stanovich, 2009). Empirical evidence for this also comes from studies by Reber et al. (1993) and Robinson (2005) who found more variation in performance accuracy on grammaticality judgment tasks in explicit versus implicit learning conditions. However, whereas Reber et al. found positive correlations between IQ and explicit but not implicit learning ability, Robinson found a signiﬁcant negative correlation between implicit learning and scores on the verbal part of the IQ test used, and no correlation with explicit learning. Recent work on statistical or artiﬁcial language learning has also challenged the idea that implicit learning is insensitive to individual differences in cognitive capacity
+
+Language Learning 62:Suppl. 2, September 2012, pp. 172–188
+
+176
+
+Roberts
+
+IDs in L2 Sentence Processing
+
+(Conway, Bauernschmidt, Huang, & Pisoni, 2010; Misyak & Christianson, 2012). In fact, it may be that individual differences in working memory and IQ can affect implicit as well as explicit learning abilities but the effects tend to be weaker for implicit learning, as observed in a recent study by Kaufman et al. (2010). These authors found that memory capacity was not related to the implicit language learning abilities of 16–17 year olds, and was less strongly related to psychometric intelligence than to explicit learning abilities. However, the participants’ implicit learning performance was found to be related to their scores on foreign language exams as well as on processing speed and verbal reasoning tasks. Taken together, it appears that the relationship between language learning and individual differences in various measures of working memory may be rather complex.
+
+L2 Sentence Processing
+An overview of recent L2 sentence processing research shows that L2 learners, like native speakers, process the target language incrementally. That is, they do not wait till the end of the utterance or sentence before attempting to integrate a current piece of input into ongoing analyses, as illustrated in garden-path studies showing that L2 learners have misanalyzed temporarily ambiguous input (e.g., Frenck-Mestre & Pynte, 1997; Juffs & Harrington, 1995; Williams, Mo¨bius, & Kim, 2001). Like native speakers, L2 learners are sensitive to plausibility and other lexical-semantic information (Dussias & Cramer Scaltz, 2008; Jackson & Roberts, 2010; Roberts & Felser, 2011; Williams, 2006). Where L2 processing appears to diverge from that of native speakers in the realm of grammar. For instance, learners are often less able to recover from misanalysis than native speakers (Juffs & Harrington, 1995, 1996), particularly at lower levels of proﬁciency (Jackson, 2008) and with structurally more complex input (Roberts & Felser, 2011), and may have more trouble than native speakers establishing links between constituents across clause boundaries (Jackson & Dussias, 2008; Jackson & van Hell, 2011), and integrating grammatical information with knowledge from other sources (e.g., Roberts, Gullberg, & Indefrey, 2008). Therefore, in general, it appears that the differences observed between native speakers and L2 learners mainly lie in the area of grammatical processing. This general ﬁnding has led some researchers to argue that L2 learners’ processing is fundamentally different from that of native speakers with the former relying largely on lexical-semantic and pragmatic information. Hence, the parsing of L2 learners is assumed to be “shallower” or less structurally-driven
+
+177
+
+Language Learning 62:Suppl. 2, September 2012, pp. 172–188
+
+Roberts
+
+IDs in L2 Sentence Processing
+
+than native speakers’ (e.g., The Shallow Structure Hypothesis, Clahsen & Felser, 2006). Others argue that the observed differences between learners and native speakers can be attributed to L2 proﬁciency and/or processing limitations (e.g., Dekyspotter, Schwartz, & Sprouse, 2006; Hopp, 2010), thus assuming a quantitative rather than a qualitative account for L1–L2 parsing differences. This debate is akin to that found in the ﬁeld of L2 acquisition of grammar, where it centers around the question of whether or not late (postpuberty) L2 learners can ever acquire the grammar of the target language to native-like levels (see Slabakova, 2009, for an overview). The question of whether or not variable L2 processing performance can be traced to individual differences in factors such as cognitive capacity, processing efﬁciency and general proﬁciency has theoretical importance. That is, researchers arguing for a fundamental L1-L2 difference account have cited as support those studies which have found that differences between native speakers and L2 learners are not attributable to individual differences in proﬁciency and/or cognitive capacity, whereas those on the other side of the debate assume that such factors are indeed the cause of L1–L2 parsing differences. However, it is not yet clear whether, and if so how such individual differences may affect L2 sentence processing.
+
+Individual Differences in L2 Sentence Processing
+Since L2 sentence processing is a relatively young ﬁeld, which has largely been shaped by theories of linguistics and psychology which assume an informationally-encapsulated module for language separate from other cognitive systems (Fodor, 1983). Therefore most researchers investigate homogeneous groups of learners and thus they attempt to control for—rather than to assume a central role or even to independently investigate—the effects of individual differences in for instance cognitive capacity or processing speed on L2 sentence processing. However, there are a few studies that have focused in particular on the effects of individual differences in working memory or general proﬁciency on L2 sentence processing (see Juffs & Harrington, 2011, for an overview of working memory studies) and whether or not L2 learners’ real-time processing in these studies is affected by variation in working memory capacity or general proﬁciency appears to depend on what task participants are asked to undertake during the processing of the experimental items. Havik, Roberts, van Hout, Schreuder, and Haverkort (2009) used self-paced reading to investigate the processing of temporarily ambiguous subject- and object-relative clauses (5) by advanced German L2 learners of Dutch.
+
+Language Learning 62:Suppl. 2, September 2012, pp. 172–188
+
+178
+
+Roberts
+
+IDs in L2 Sentence Processing
+
+(5) a. Daar is de machinist die de conducteurs heeft bevrijd uit het brandende treinstel.(subject relative) “That is the engine-driver who the guards has saved from the burning train- carriage.” b. Daar is de machinist die de conducteurs hebben bevrijd uit het brandende treinstel. (object relative)
+Despite the fact that Dutch patterns like German, with a robust preference for subject-ﬁrst word order (e.g., [5a]) (Kaan, 1997; Schriefers, Friederici, & Ku¨hn, 1995), the learners did not show a processing advantage when reading these items in comparison to their processing of the dispreferred object-ﬁrst sentences (5b), even though their preference for the former type was established in an offline task. Differences amongst the learners in working memory span (assessed via standardised tests undertaken in both their ﬁrst and second languages) did not affect their processing of the experimental items. However, in a parallel experiment in which participants made a truth-value judgment speciﬁcally targeting the argument roles of the ambiguous nouns after each experimental item (e.g., the engine-driver saved the guards), the high working memory group— like the native speakers—slowed down following disambiguation when the number information on the auxiliary verb (heeft/hebben, “has/have”) forced an interpretation of the dispreferred object-ﬁrst (5b) condition, like the native Dutch control group. The low working memory group processed both types of sentences in the same way, showing no processing disadvantage for the dispreferred object-relatives. Therefore, only the high working memory learners performed like native speakers, and this was the case only when the their attention was forced via the task towards the experimental manipulation.
+Also using word-by-word self-paced reading, Williams (2006) found an effect of memory capacity on the real-time processing of wh-questions (6) in Korean, Chinese and German L2 learners of English.
+(6) Which girl (river) did the man push the bike into late last night?
+The task involved comprehenders making a “stop-making sense” decision with a button push during their reading of the experimental sentences. At the end of each item, they performed an additional memory probe task, in which they used a word that had appeared in the stimulus input to complete a sentence. The author found that only learners of high working memory, as measured by the probe task, performed like native speakers. Speciﬁcally, these learners were able to make use of plausibility information (making “stop-making-sense” responses) during the presentation of the sentence itself, similarly to native speakers, with
+
+179
+
+Language Learning 62:Suppl. 2, September 2012, pp. 172–188
+
+Roberts
+
+IDs in L2 Sentence Processing
+
+the “stop-making-sense” responses occurring earlier for conditions in which the dislocated wh-item was an implausible object for the verb (which river – push) in comparison to the plausible conditions (which girl – push). This was in contrast to the learners of lower working memory, whose application of plausibility information was delayed until later in the sentence.
+Thus in the above two studies, when high working memory participants had to undertake a task requiring them to monitor the meaning of the experimental sentences (for semantic plausibility or to assess the truth value of a following statement), their processing mirrored that of native speakers (see also Dussias & Pin˜ar, 2010, for similar ﬁndings with self-paced reading plus a grammaticality judgment task).
+Similar task effects have also been observed in studies which have looked at individual differences in proﬁciency. For instance, in a self-paced reading task coupled with an acceptability judgement task, Jackson and van Hell (2011) found that their less proﬁcient group of Dutch learners of English showed processing breakdown for dispreferred subject- versus object-extraction sentences, whereas the more advanced group patterned together with the native English speakers (7).
+(7) a. Who do you think __ met the tourists in front of the museum? (subject extraction) b. Who do you think the tourists met __ in front of the museum? (object extraction)
+The fact that a judgment task may push comprehenders’ attention towards the experimental manipulation is also supported by ﬁndings in two self-paced reading studies on the processing of multiple clause wh-extractions (8) by English learners of German.
+(8) Wer (Wen) denkst du, bewunderte den Sportler nach dem Spiel? Who-NOM (Who-ACC) think you, admired the athlete after the game “Who do you think missed the teacher/whom do you think the teacher missed after the game?”
+When (highly advanced) learners were required to assess the target items for grammaticality whilst processing them, they showed fully native-like processing of the questions (Jackson & Dussias, 2009). This was not the case in another reading time study where the participants were only required to read the items for comprehension (Jackson & Bobb, 2009). Like the native speakers, the learners in both studies had difﬁculty integrating a nominative wh-item into the matrix clause in following the processing of a nominative subject
+
+Language Learning 62:Suppl. 2, September 2012, pp. 172–188
+
+180
+
+Roberts
+
+IDs in L2 Sentence Processing
+
+(du-you), which rules out the wh-item as subject of the matrix clause. This was shown by elevated reading-times for the subject- versus the object extraction items on processing the matrix verb and the following NP.
+However, only in the judgment task study did the learners’ reading time patterns reverse on the complement clause as was the found for native speakers. That is, the object extractions were more difﬁcult to process than subject extractions, arguably because of the load on working memory imposed by holding a fronted object in working memory (cf. ﬁndings that object-extraction is difﬁcult in German, even when the constituent is unambiguously case-marked, e.g., Schlesewsky, Kliegl, & Fanselow, 2000). No reading time differences were observed in the study without the secondary grammaticality judgment task: there was no difference between the two conditions in the complement clause, and, critically, there were no effects of individual differences of either proﬁciency or working memory capacity.
+Another factor that could potentially account for differences between L1 and L2 parsing is processing efﬁciency, particularly given the fact that learners are often much slower at reading than native speakers (e.g., Fender, 2001; Kilborn, 1992), even more so when reading in a different script (Marinis, Roberts, Felser, & Clahsen, 2005; Juffs, 2005), and given that some studies have shown delayed and/or prolonged effects (e.g., Frenck-Mestre, 2002, 2005; Hopp, 2006; Jackson, 2008). As with most research into effects of individual differences in working memory or general proﬁciency, the inﬂuence of differences in processing speed on real-time sentence processing has yet to be investigated and again, the (few) ﬁndings show that being slower does not appear to qualitatively affect L2 learners’ parsing procedures, particularly when the task involves only reading for comprehension (e.g., Roberts & Felser, 2011). Of course, it is not clear what is meant by “processing speed” in such studies. It could relate to efﬁciency in a number of different processes undertaken during language comprehension, from decoding of orthography/speech sounds, to lexical access and selection, to integration with syntactic and other knowledge, as well as to the prediction or anticipation of up-and-coming input. The lack of deﬁnition of such factors is unsurprising, of course, given that most researchers do not look to them as having explanatory power. However, it would appear that investigating more deeply effects of processing efﬁciency could offer some real insights into L2 sentence processing, as indicated by an interesting ﬁnding from Hopp (2010). He showed that under speeded conditions, native speakers’ accuracy in grammaticality judgments may drop to levels of L2 learners, interestingly, this was the case only for ungrammatical gender violations: subject-verb agreement violations were spared under these speeded conditions. The difference between
+
+181
+
+Language Learning 62:Suppl. 2, September 2012, pp. 172–188
+
+Roberts
+
+IDs in L2 Sentence Processing
+
+gender and number processing ﬁts with the ﬁndings in the L2 acquisition literature that gender agreement is particularly problematic for L2 learners, even if grammatical gender is instantiated in a learner’s ﬁrst language (e.g., for an overview, see Franceschina, 2005). That is, gender may be more difﬁcult to acquire because even for native speakers, processing gender may be more problematic—or at least more susceptible to external inﬂuences—than other types of agreement processing. Overall, the ﬁndings in Hopp (2010) suggest that at least indirectly, individual differences in processing efﬁciency can impact online comprehension, when given a concurrent task that enables the participants to attend to the structural details of the input.
+
+Conclusion
+The idea that linguistic experience should interact with individual variability in processing capacity and lead to different performance in language processing tasks (as well as language learning) is an idea inherent to constraint-based theories of language acquisition and processing. However, arguably under the inﬂuence of modular theories in linguistics and psychology which have characterized the language processing system as separate from other cognitive systems, most researchers in the ﬁeld do not tend to systematically investigate the effects of general cognitive variables on L2 sentence processing. Rather they most often attempt to control for any variability in their participant populations in order to compare and to make generalizations across groups. Nevertheless, it appears that L2 sentence processing can be inﬂuenced by individual differences, at least under task conditions that focus attention on the experimental manipulations. Given that this has been observed in experiments in which participants are assessing the grammaticality, plausibility, and/or truth value of the experimental sentences while also processing them for meaning, but not for instance in a dual-task sentence comprehension study that required participants to make a semantic decision to a picture probe during auditory presentation of the input (Felser & Roberts, 2007) it may be that the task must be metalinguistic in nature to elicit such effects, rather than be merely cognitively demanding. This idea ﬁts with the available hemodynamic data showing stronger Broca activation for L2 sentence processing only when there is an additional judgment task (see Indefrey, 2006) and no differences when simply reading or listening for meaning. One possibility is that this is the case because performing these types of metalinguistic task recruits explicit knowledge which is more susceptible to differences in aptitude, speed, etc., whereas reading for comprehension involves more implicit processes which are more robust to
+
+Language Learning 62:Suppl. 2, September 2012, pp. 172–188
+
+182
+
+Roberts
+
+IDs in L2 Sentence Processing
+
+individual differences in cognitive abilities (cf. Reber et al., 1991; Robnison, 2005). This explanation, however, seems less likely when we consider that L2 sentence processing itself can be affected by these tasks conditions, that is, learners of higher working memory capacity or proﬁciency appear to process the input differently from those of lower memory capacity and/or proﬁciency. An alternative explanation is that different modes of processing are more or less susceptible to individual differences in for instance, cognitive capacity, with shallow processing in cases in which merely gleaning the meaning is sufﬁcient (e.g., Clahsen & Felser, 2006; Ferreira, Bailey, & Ferraro, 2002; Sanford & Sturt, 2002) being more robust than “deep” processing which requires a full analysis of the input. Overall, though, it indeed appears that L2 learners will need both to be pushed by the task to pay attention to grammatical details and to be of a certain level of proﬁciency and/or with sufﬁcient cognitive capacity in order to perform deep analyses of the input and when this is not the case, they appear to process the input more shallowly than native speakers. Overall, the above review of the literature suggests that future research would greatly beneﬁt from the unpacking of factors such as working memory capacity, processing speed/efﬁciency and general proﬁciency to better assess their impact, both individually and combined, on real-time comprehension and this will push forward our understanding of the nature of sentence processing in both the L1 and the L2.
+
+References
+Ando, J., Fukunaga, N., Kurahashi, J., Suto, T., Nakano, T., & Kage, M. (1992). A comparative study of the two EFL teaching methods: The communicative and grammatical approach. Japanese Journal of Educational Psychology, 40, 247–256.
+Baddeley, A. D., & Hitch, G. (1974). Working memory. In G. H. Bower (Ed.), The psychology of learning and motivation (Vol. 8, pp. 47–89). New York: Academic Press.
+Baddeley, A. D. (1986). Working memory. New York: Oxford University Press. Caplan, D., & Waters, G. (1999). Verbal working memory and sentence
+comprehension. Behavioural and Brain Sciences, 22, 77–126. Chein, J. M., Moore, A. B., & Conway, A. R. A. (2011). Domain-general mechanisms
+of complex working memory span. Neuroimage, 54, 550–559. Clahsen, H., & Felser, C. (2006). Grammatical processing in language learners.
+Applied Psycholinguistics, 27, 3–42. Conway, C. M., Bauernschmidt, A., Huang, S. S., & Pisoni, D. B. (2010). Implicit
+statistical learning in language processing: Word predictability is the key. Cognition, 114, 356–371.
+
+183
+
+Language Learning 62:Suppl. 2, September 2012, pp. 172–188
+
+Roberts
+
+IDs in L2 Sentence Processing
+
+Conway, A. R. A., & Engle, R. W. (1997). Individual differences in working memory capacity: More evidence for a general capacity theory. Memory, 4, 577–590.
+Daneman, M., & Merikle, P. M. (1996). Working memory and comprehension: A meta-analysis. Psychonomic Bulletin & Review, 3, 422–433.
+Dekydtspotter, L., Schwartz. B., & Sprouse, R. A. (2006). The comparative fallacy in L2 processing research. In M. Grantham O’Brien, C. Shea, & J. Archibald (Eds.), Proceedings from the 8th Generative Approaches to Second Language Acquisition Conference (GASLA 2006) (pp. 33–40). Somerville, MA: Cascadilla Proceedings Project.
+Dornicˇ, S. (1980). Language dominance, spare capacity and perceived effort in bilinguals. Ergonomics, 23, 369–377.
+Dussias, P. E., & Cramer Scaltz, T. R. (2008). Spanish-English L2 speakers’ use of subcategorization bias information in the resolution of temporary ambiguity during second language reading. Acta Psychologica, 128, 501–513.
+Dussias, P. E., & Pin˜ar, P. (2010). Effects of reading span and plausibility in the reanalysis of wh-gaps by Chinese-English L2 speakers. Second Language Research, 26, 443–472.
+Engle, R. W. (2001). What is working memory capacity? In H. L. Roediger, J. S. Nairne, I. Neath, & A. M. Suprenant (Eds.), The nature of remembering: Essays in honor of Robert G. Crowder (pp. 297–314). Washington, DC: American Psychological Association.
+Erlam, R. (2005). Language aptitude and its relationship to instructional effectiveness in second language acquisition. Language Teaching Research, 9, 147–171.
+Farmer, T. A., Misyak, J. B., & Christiansen, M. H. (in press). Individual differences in sentence processing. In M. Spivey, M. Joannisse, & K. McRae (Eds.), Cambridge Handbook of Psycholinguistics. Cambridge, UK: Cambridge University Press.
+Felser, C., & Roberts, L. (2007). Processing wh-dependencies in English as a second language: A cross-modal priming study. Second Language Research, 23, 9– 36.
+Fender, M. (2001). A review of L1 and L2/ESL word integration skills and the nature of L2/ESL word integration development involved in lower-level text processing. Language Learning, 51, 319–396.
+Ferreira, F., Bailey, K., & Ferraro, V. (2002). Good enough representations in language comprehension. Current Directions in Psychological Science, 11, 11–15.
+Fodor, J. (1983). The modularity of mind. Cambridge, MA: MIT Press. Franceschina, F. (2005). Fossilised second language grammars: The acquisition of
+grammatical gender. Amsterdam: John Benjamins. Frazier, L. (1978). On comprehending sentences: Syntactic parsing strategies.
+Doctoral dissertation. University of Connecticut. Frazier, L. (1987). Sentence processing: A tutorial review. In M. Coltheart (Ed.),
+Attention and performance XII: The psychology of reading (pp. 559–586). Hillside, NJ: Erlbaum.
+
+Language Learning 62:Suppl. 2, September 2012, pp. 172–188
+
+184
+
+Roberts
+
+IDs in L2 Sentence Processing
+
+Frenck-Mestre, C. (2002). An on-line look at sentence processing in the second language. In R. Heredia, & J. Altaribba (Eds.), Bilingual sentence processing (pp. 217–236). Amsterdam: Elsevier.
+Frenck-Mestre, C. (2005). Ambiguities and anomalies: What can eye movements and event-related potentials reveal about second language processing? In J. F. Kroll, & A. M. B. de Groot (Eds.), Handbook of bilingualism (pp. 268–284). Oxford, UK: Oxford University Press.
+Frenck-Mestre, C., & Pynte, J. (1997). Syntactic ambiguity resolution while reading in second and native languages. Quarterly Journal of Experimental Psychology, Section A: Human Experimental Psychology, 50A, 119–148.
+Friedman, N. P., & Miyake, A. (2004). The reading span test and its predictive power for reading comprehension ability. Journal of Memory and Language, 51, 136–158.
+Gernsbacher, M. A. (1997). Two decades of structure building. Discourse Processes, 23, 265–304.
+Gibson, E., Pearlmutter, N., Canseco-Gonzalez, E., & Hickok, G. (1996). Recency preference in the human sentence processing mechanism. Cognition, 59, 21–39.
+Harrington, M., & Sawyer, M. (1992). L2 working memory and L2 reading skill. Studies in Second Language Acquisition, 14, 25–38.
+Havik, E., Roberts, L., van Hout, R., Schreuder, R., & Haverkort, M. (2009). Processing subject-object ambiguities in the L2: A self-paced reading study with German L2 learners of Dutch. Language Learning, 59, 73–112.
+Hopp, H. (2006). Syntactic features and reanalysis in near-native processing. Second Language Research, 22, 369–397.
+Hopp, H. (2010). Ultimate attainment in L2 inﬂectional morphology: Performance similarities between non-native and native speakers. Lingua, 120, 901–931.
+Indefrey, P. (2006). A meta-analysis of hemodynamic studies on ﬁrst and second language processing: Which suggested differences can we trust and what do they mean? Language Learning, 56 (Suppl. 1), 279–304.
+Jackson, C. N. (2008). Proﬁciency level and the interaction of lexical and morphosyntactic information during L2 sentence processing. Language Learning, 58, 875–909.
+Jackson, C. N., & Bobb, S. C. (2009). The processing and comprehension of wh-questions among second language speakers of German. Applied Psycholinguistics, 30, 603–636.
+Jackson, C. N., & Dussias, P. E. (2009). Cross-linguistic differences and their impact on L2 sentence processing. Bilingualism: Language and Cognition, 12, 65–82.
+Jackson, C., & Roberts, L. (2010). Animacy affects the processing of subject-object ambiguities in L2 processing: Evidence from self-paced reading with German L2 learners of Dutch. Applied Psycholinguistics, 31, 671–691.
+Jackson, C. N., & van Hell, J. G. (2011). The effects of L2 proﬁciency level on the processing of wh-questions among Dutch second language speakers of
+
+185
+
+Language Learning 62:Suppl. 2, September 2012, pp. 172–188
+
+Roberts
+
+IDs in L2 Sentence Processing
+
+English. International Review of Applied Linguistics in Language Teaching, 49, 195–219. January, D., Trueswell, J. C., & Thompson-Schill, S. L. (2009). Co-localization of Stroop and syntactic ambiguity resolution in Broca’s Area: Implications for the neural basis of sentence processing. Journal of Cognitive Neuroscience, 21, 2434–2444. Juffs, A. (2005). The inﬂuence of ﬁrst language on the processing of wh-movement in English as a second language. Second Language Research, 21, 121–151. Juffs, A. (2004). Representation, processing, and working memory in a second language. Transactions of the Philological Society, 102, 199–225. Juffs, A., & Harrington, M. W. (2011). Aspects of working memory in L2 learning. Language Teaching: Reviews and Studies, 42, 137–166. Juffs, A., & Harrington, M. (1996). Garden path sentences and error data in second language processing research. Language Learning, 46, 286–324. Juffs, A., & Harrington, M. (1995). Parsing effects in second language sentence processing: Subject and object asymmetries in wh-extraction. Studies in Second Language Acquisition, 17, 483–516. Kaan, E. (1997). Processing subject-object ambiguities in Dutch. Groningen Dissertations in Linguistics 20. Kaufman, S. B., De Young, C. G., Gray, J. R., Jime´nez, L., Brown, J., & Mackintosh, N. J. (2010). Implicit learning as an ability. Cognition, 116, 321–340. Kilborn, K. (1992). On-line integration of grammatical information in a second language. In R. Harris (Ed.). Cognitive processing in bilinguals (pp. 337–350). Amsterdam: Elsevier. King, J., & Just, M. A. (1991). Individual differences in syntactic processing: The role of working memory. Journal of Memory & Language, 30, 580–602. Kolk, H., & Chwilla, D. (2007). Late positivities in unusual situations. Brain and Language, 100, 257–261. MacDonald, M. C., & Christiansen, M. H. (2002). Reassessing working memory: A comment on Sanford & Sturt (2002). Depth of processing in language comprehension: Not noticing the evidence. Trends in Cognitive Sciences, 6, 382–386. Mackey, A., Adams, R., Stafford, C., & Winke, P. (2010). Exploring the relationship between modiﬁed output and working memory capacity. Language Learning, 60, 501–533. Marinis, T., Roberts, L., Felser, C., & Clahsen, H. (2005). Gaps in second language processing. Studies in Second Language Acquisition, 27, 53–78. Misyak, J. B., & Christiansen, M. H. (2012). Statistical learning and language: An individual differences study. Language Learning, 62, 302–331. Novick, J. M., Trueswell, J. C., & Thompson-Schill, S. L. (2005). Cognitive control and parsing: Reexamining the role of Broca’s Area in sentence comprehension. Cognitive, Affective, & Behavioral Neuroscience, 5, 263–281.
+
+Language Learning 62:Suppl. 2, September 2012, pp. 172–188
+
+186
+
+Roberts
+
+IDs in L2 Sentence Processing
+
+Pickering, M. J., & Traxler, M. J. (1998). Plausibility and recovery from garden-paths: An eye-tracking study. Journal of Experimental Psychology: Learning, Memory and Cognition, 24, 940–961.
+Roberts, L., & Felser, C. (2011). Plausibility and recovery from garden-paths in second language sentence processing. Applied Psycholinguistics, 32, 299–331.
+Roberts, L., Gullberg, M., & Indefrey, P. (2008). Online pronoun resolution in L2 discourse: L1 inﬂuence and general learner effects. Studies in Second Language Acquisition, 30, 333–357.
+Robinson, P. (2005). Cognitive abilities, chunk-strength, and frequency effects in implicit artiﬁcial grammar and incidental L2 learning. Studies in Second Language Acquisition, 27, 235–268.
+Sagarra, N. (2007). From CALL to face-to-face interaction: The effect of computer-delivered recasts and working memory on L2 development. In A. Mackey (Ed.), Conversational interaction in second language acquisition: A series of empirical studies (pp. 101–121). Oxford, UK: Oxford University Press.
+Sanford, A. J., & Sturt, P. (2002). Depth of processing in language comprehension: Not noticing the evidence. Trends in Cognitive Sciences, 6, 382–386.
+Schlesewsky, M., Fanselow, G., Kliegl, R., & Krems, J. (2000). Preferences for grammatical functions in the processing of locally ambiguous wh-questions in German. In B. Hemforth & L. Konieczny (Eds.), German sentence processing. Dordrecht: Kluwer Academic.
+Schriefers, H., Friederici, A. D., & Ku¨hn, K. (1995). The processing of locally ambiguous relative clauses in German. Journal of Memory and Language, 34, 499–520.
+Service, E., Simola, M., Metsanheimo, O., & Maury, S. (2002). Bilingual working memory span is affected by language skill. European Journal of Cognitive Psychology, 14, 383–408.
+Skehan, P. (2002). Theorising and updating aptitude. In P. Robinson (Ed.), Individual differences and instructed language learning (pp. 69–95). Philadelphia: John Benjamins.
+Slabakova, R. (2009). The fundamental difference hypothesis twenty years later. Studies in Second Language Acquisition, 2 (Special issue).
+Stanovich, K. E. (2009). Distinguishing the reﬂective, algorithmic, and autonomous minds: Is it time for a tri-process theory? In J. S. B. T. Evans & K. Frankish (Eds.), In two minds: Dual processes and beyond (pp. 55–88). Oxford, UK: Oxford University Press.
+Van den Noort, M. W. M. L., Bosch, M. P. C., & Hugdahl, K. (2006). Foreign language proﬁciency and working memory capacity. European Psychologist, 11, 289–296.
+Vasishth, S., & Lewis, R. L. (2006). Symbolic models of human sentence processing. In Encyclopedia of language and linguistics (2nd ed.; Vol. 5, pp. 410–419). Oxford, UK: Elsevier.
+
+187
+
+Language Learning 62:Suppl. 2, September 2012, pp. 172–188
+
+Roberts
+
+IDs in L2 Sentence Processing
+
+Wells, J. B., Christiansen, M. H., Race, D. S., Acheson, D. J., & MacDonald, M. C. (2009). Experience and sentence processing: Statistical learning and relative clause comprehension. Cognitive Psychology, 58, 250–271.
+Williams, J. (2006). Incremental interpretation in second language sentence processing. Bilingualism: Language and Cognition, 9, 71–81.
+Williams, J. N., Mo¨bius, P., & Kim, C. (2001). Native and non-native processing of English wh-questions: Parsing strategies and plausibility constraints. Applied Psycholinguistics, 22, 509–540.
+Ye, Z., & Zhou, X. (2008). Involvement of cognitive control in sentence comprehension: Evidence from ERPs. Brain Research, 1203, 103–115.
+
+Language Learning 62:Suppl. 2, September 2012, pp. 172–188
+
+188
+
