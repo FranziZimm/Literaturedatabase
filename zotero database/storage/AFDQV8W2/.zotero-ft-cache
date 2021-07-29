@@ -1,0 +1,1358 @@
+COGNITIVE SCIENCE 12, 49-100 (1968)
+ForceDynamicsin Languageand Cognition
+LEONARDTALMY
+University of California, Berkeley
+
+“Force dynamics”
+
+refers to o previously
+
+neglected semantic category-how
+
+entities interact with respect to force. This category includes such concepts (IS:
+
+the exertion of force, resistance to such exertion and the overcoming
+
+of such
+
+resistance, blockage of a force and the removal of such blockage, and so forth.
+
+Force dynamics is a generalization
+
+over the traditional linguistic notion of “causo-
+
+tive”: it analyzes “causing” into finer primitives and sets it naturally within a
+
+framework
+
+that olso includes “letting,” “hindering,”
+
+“helping,” and still further
+
+notions. Force dynamics, moreover, appears to be the semantic category that
+
+uniquely characterizes
+
+the grammatical
+
+category of modals, in both their basic
+
+and epister;nic usages. In addition, on the basis of force dynamic parameters, numerous lexical items fall into systematic semantic patterns, and there exhibit
+
+parallelisms between physical and psychosocial reference. Further, from research on the relation of semantic structure to general cognitive structure, it appears
+
+thot the concepts of force interaction that ore encoded within language closely
+
+parallel concepts that appear both in early science and in noive physics and psy-
+
+chology. Overall, force dynamics thus emerges as a fundamental
+
+notional system
+
+that structures conceptual material pertaining to force interaction in o common
+
+way across o linguistic range: the physical, psychological,
+
+social, inferential, dis-
+
+course, and mental-model
+
+domains of reference and conception.
+
+0. INTRODUCTION
+0.1. A Neglected Semantic Category A semantic category that has previously been neglected in linguistic study is that ,of “force dynamics” -how entities interact with respect to force. Included here is the exertion of force, resistance to such a force, the overcoming of such a resistance, blockage of the expression of force, removal of such blockage, and the like.
+Though scarcely recognized before, force dynamics (FD) figures significantly in language structure. It is, first of all, a generalization over the tradi-
+This article is an updated and moderately revised version of “Force Dynamics in Language and Thought,” in W. Eilfort, P. Kroeber, and K. Peterson (Eds.), Papers from the Purusession on Causotives and Agentivity at the Zlst Regional Meeting, Chicago Linguistic Socieiy, University of Chicago, 1985. Copyright 0 1985 by the Chicago Linguistic Society. Reprinted with permission. My great thanks to Eric Pederson for assistance with the content, organization, editing, and diagramming in this paper.
+Correspondence and requests for reprints should be sent to Leonard Talmy, Program in Cognitive Science, Institute of Cognitive Studies, University of California, Berkeley, CA 94720.
+
+50
+
+TALMY
+
+tional linguistic notion of ‘causative’: It analyzes ‘causing’ into finer primitives and sets it naturally within a framework that also includes ‘letting,’ ‘hindering,’ ‘helping,’ and still further notions not normally considered in the same context.
+Force dynamics, furthermore, plays a structuring role across a range of language levels. First, it has direct grammatical representation. In English, our main language of demonstration, such representation appears not only in subsets of conjunctions, prepositions, and other closed-class elements but, most significantly, also as the semantic category that most uniquely characterizes the grammatical category of modals as a whole, both in their basic and in their epistemic usages. Force dynamic patterns are also incorporated in open-class lexical items, and can be seen to bring numbers of these together into systematic relationships. Lexical items involved in this way refer not only to physical force interactions but, by metaphoric extension, also to psychological and social interactions, conceived in terms of psychosocial ‘pressures.’ In addition, FD principles can be seen to operate in discourse, preeminently in directing patterns of argumentation, but also in guiding discourse expectations and their reversal.
+Finally, the conceptual system for force interaction that appears to be built into language structure can be related to other cognitive domains. The linguistic system, in fact, shows close parallels with the conceptual systems for force interaction both in naive physics and psychology, and in early science, as well as in casual treatments of modern science-though it is often at variance with rigorous modern science. Overall, FD thus emerges as a fundamental notional system that structures conceptual material pertaining to force interaction in a common way across a linguistic range: the physical, psychological, social, inferential, discourse, and mental-model domains of reference and conception.
+In historical perspective, developed concepts of force interactions are of course not novel, in particular, for physical phenomena, as long treated by disciplines like physics. Outside the physical, perhaps the most familiar application is that of Freud to the psyche, with such psychodynamic concepts as libido and drives, repression and resistance, id-superego conflict and a tension-reduction model for restoring equilibrium. To my knowledge, however, systematic application of force concepts to the organization of meaning in language remained neglected until an initial endeavor in Talmy (1976) and a more developed account in Talmy (1981). Earlier reference to force, of course, is to be found. Whorf (1941) cited and diagrammed force opposition as the referent of a particular Shawnee root, and the psychologist Fritz Heider (1958), whose work has recently come to my attention, discussed force concepts in modality. But these treatments were neither systematic nor explanatory. More recently, Gee and Keg1 (1982, pp. 348-350) have developed a system involving forces to account for certain motion con-
+
+FORCE DYNAMICS
+
+51
+
+cepts in American Sign Language. And Sweetser (1982, 1984), adopting the present force-dynamic framework, has carried it into an account of the
+epistemic senses of modals. The method I adopt here in investigating the category of FD is based
+within a broader approach to semantics (increasingly known by the term ‘cognitive. semantics’ or ‘cognitive linguistics’). This approach includes the idea that language uses certain fundamental notional categories to structure and organize meaning, but that it excludes other notional categories from this role. The included categories are most directly evident across languages as the categories of concepts that are expressed by closed-class forms -or, broadly speaking, by grammar-such as inflections and particles, as well as grammatical categories, relations, and constructions (Talmy, 1987). Many of these same notional categories play a prominent role as well in structuring lexicalization patterns for open-class lexical items (Talmy, 1985).
+To illustrate, many languages have noun inflections that indicate the num-
+ber of the noun’s referent, but they never have inflections that indicate this referent’s color. From similar observations, we can construct two sets, one consisting of notional categories like ‘color’ that never appear in languages’ closed-class forms, and the other of those that regularly do so and thus play a basic conceptual structuring role. In addition to number, this set will contain such generally recognized categories as aspect, mood, and evidentiality. One purpose of this article is to establish force dynamics as a further member of this privileged set of fundamental semantic categories. Beyond this, as cognitive scientist as well as linguist, I address the issue of how the semantic structuring evident within language relates to conceptual organization in other cognitive systems, such as the perceptual modalities and reasoning. In other work (Talmy, 1983, 1987), I have compared the system that language uses to schematize and structure space and time, with properties of visual perception. Here, I will compare the way that linguistic FD organizes conceptions of physics and psychology with the naive as well as the scientific mental models that we use to reason about these same areas.
+The earlier outline of force-dynamic properties largely matches this paper’s sequencing, which steadily proceeds from more .basic to more complex forms. First shown are the fundamental force-dynamic distinctions
+together with a system for diagraming them (1). This leads to a demonstra; tion of FD as a generalization over the traditional causative (2). Next is shown how language extends physical force concepts to the expressioh of internal psychological interactions (3). This expansion allows us to bring together in a systematic pattern a number of lexical items that ihvolve such psychodynamics (4). Language is then shown to further extend FD concepts to social interactions, and to organize lexical items with social reference in the same way as the psychological ones (5). The progression of parameters to that point permits an examination of the modal system in force-dynamic
+
+52
+
+TALMY
+
+terms (6). Then a look at discourse shows how force-dynamic concepts extend, without augmentation, to the discourse factors that direct argumentation and to a familiar phenomenon here called ‘vector reversal’ (7). The final text section (8) compares the conceptual models of physics and psychology that are built into language in its force-dynamic system with comparable models in other cognitive domains. In the conclusion (9), further lines of research on FD are sketched out, and the system is set within larger contexts, both that of other conceptual systems in language and that of human conceptual structure as a whole.
+
+0.2. Illustrating the Category Since force dynamics (FD) is a novel category in linguistics, it would be best to give it immediate illustration. The minimal pairs in (1) mostly contrast force-dynamically neutral expressions with ones that do exhibit force-dynamic patterns, showing these in a succession of semantic domains (VP = verb phrase).
+
+(1) A. be VPing / keep VPing
+
+-physical
+
+a. The ball was rolling along the green.
+
+b. The ball kept (on) rolling along the green.
+
+B. not VP / can not VP
+
+-physical/psychological
+
+a. John doesn’t go out of the house.
+
+b. John can’t go out of the house.
+
+C. not VP / refrain from YPing
+
+-intra-psychological
+
+a. He didn’t close the door.
+
+b. He refrained from closing the door.
+
+D. polite / civil
+
+-intra-psychological: lexicalized
+
+a. She’s polite to him.
+
+b. She’s civil to him.
+
+E. have (got) to VP / get to VP
+
+-socio-psychological
+
+a. She’s got to go to the park.
+
+b. She gets to go to the park.
+
+Illustrating the purely physical realm, (Aa) depicts a force-dynamically neutral event. The use of the word keep in (Ab), however, brings in either of two force-dynamic patterns: Either the ball has a tendency toward rest which is being overcome by some external force acting on it, say, the wind, or the ball presently has a tendency toward motion that is in fact overcoming external opposition to it, say, from stiff grass.
+In (B) a psychological force factor joins the physical one. The force-dynamically neutral expression in (Ba) merely reports an objective observation, John’s not going out. But (Bb), in addition to the same observation, also sets forth a full force-dynamic complex: that John wan& to go out (conceivable as a force-like tendency toward that act), that there is some kind of force or barrier opposing that tendency, and that the latter is stronger than the former, yielding a net resultant of no overt action.
+
+FORCE DYNAMICS
+
+53
+
+Example (C) illustrates that language can depict a force opposition as
+
+wholly psychological, and in fact as occurring within a single psyche. Again,
+
+both (Ca) and (Cb) refer to the same overtly observable situation, an agent’s
+
+nonaction. But (Cb) in addition represents this situation as the resultant of
+
+an intrapsychological conflict, one between the agent’s urge to act and the
+
+same agent’s stronger inhibition against acting.
+
+Example (D) exhibits the same type of force-dynamic contrast as (C),
+
+but demonstrates that this can be lexicalized. While the polite of (Da) is
+
+neutral, (Db)‘s civil indicates that the subject’s basic tendency here is to be
+
+impolite but that she is successfully suppressing this tendency.
+
+’
+
+Example (E) demonstrates that language extends force-dynamic concepts
+
+as well to interpsychological-that is, social-interactions. Here, both of
+
+the expressions exhibit force-dynamic patterns, but of different types, ones
+
+that yield the same overt resultant for different reasons. In (Ea), the sub-
+
+ject’s desire (= force tendency) is not to go to the playground, but this is
+
+opposed by an external authority who does want her to do so, and prevails.
+
+In (Eb), the subject’s desire is to go to the playground, and stronger external
+
+circumstances that would be able to block her from doing so are reported as
+
+either disappearing or not materializing, thus permitting realization of the
+
+subject’s desire.
+
+1. BASIC FORCE DYNAMIC DISTINCTIONS
+We begin the progression of FD parameters with the most fundamentalthe ones that are operative throughout the system. In the present section, these are considered only for their application to the realm ofphysical force.
+1.1. Steady-State Force-Dynamic Patterns Underlying all more complex force-dynamic patterns is the steady-state opposition of two forces, and we now examine the factors that comprise it. The primary distinction that language marks here is a role difference between the two entities exerting the forces. One force-exerting entity is singled out for focal attention-the salient issue in the interaction is whether this entity is able to manifest its force tendency or, on the contrary, is overcome. The second force entity, correlatively, is considered for the effect that it has on the first, effectively overcoming it or not. Borrowing the terms from physiology where they refer to the opposing members of certain muscle pairs, I
+call the focal force entity the Agonist and the force element that opposes it the Antagonist.I In the system of diagraming used throughout this paper to
+’ As they function within language,I regardAgonistandAntagonistassemanticroles,on a par with, say, Agent. The roles that they represent for force interactions, moreover, are wholly
+parallel to those within spatial and temporal relations that I have designated Figureand Ground (Talmy, 1975, 1978a).
+
+54
+
+TALMY
+
+represent force-dynamic patterns, the Agonist (Ago) will be indicated by a circle and the Antagonist (Ant) by a concave figure, as shown in (2a).
+
+(2)
+0 a. force entities Agonist (Ago):
+Antagonist (Ant): II c. balance of strengths
+the stronger entity: + the weaker entity: -
+
+b. intrinsic force tendency toward action: > toward rest: l
+d. resultant of the force interaction action: -frest: e
+
+Nofe: Laterality is irrelevantmirror-image diagrams represent the same FD pattern.
+
+As language treats the concept, an entity is taken to exert a force by virtue of having an intrinsic tendency toward manifesting it-the force may be constant or temporary, but it is in any case not extrinsic. In an entity’s force tendency, language again marks a two-way distinction: The tendency is either toward motion or toward rest-or, more generally, toward action or toward inaction. Diagrammatically, an Agonist’s tendency toward action will be represented by an arrowhead and a tendency toward rest by a large dot, as seen in (2b), placed within the Agonist’s circle. Unless needed for labeling purposes, no tendency marker is shown within the Antagonist symbol, since it is here understood to be opposite that of the Agonist.
+A further concept in association with opposed forces is their relative strengths. As language treats this, the entity that is able to manifest its tendency at the expense of its opposer is the stronger. In the diagrams, a plus is placed in the stronger entity (and a minus, when necessary, can indicate the weaker entity). Finally, according to their relative strengths, the opposing force entities yield a resultant, an overt occurrence. As language schematizes it, this resultant is one either of action or of inaction, and it is assessedsolely for the Agonist, the entity whose circumstance is at issue. The resultant will be represented as a line beneath the Agonist, one bearing either an arrowhead for action or a large dot for inaction, as in (2d).
+With these distinctions in hand, we are able to characterize the four most basic force-dynamic patterns, those involving steady-state opposition, as diagrammed and exemplified in (3). To describe these in turn, (a) involves an Agonist with an intrinsic tendency toward rest that is being opposed from outside by a stronger Antagonist, which thus overcomes its resistance and forces it to move. This pattern is one of those to be classed as ‘causative,’ in particular involving the extended causation of motion. The sentence in (a) illustrates this pattern with a ball that tends toward rest but that is kept in motion by the wind’s greater power. In (b), the Agonist still tends toward
+
+FORCE DYNAMICS
+
+55
+
+rest, but now it is stronger than the force opposing it, so it is able to manifest its tendency and remain in place. This pattera belongs to the ‘despite category, in this case where the Agonist’s stability prevails despite the Antagonist’s force against it. In (c), the Agonist’s intrinsic tendency is now toward motion, and although there is an external force opposing it, the Agonist is stronger, so that its tendency becomes realized in resultant motion. This pattern, too, is of the ‘despite’ type, here with the Antagonist as a hindrance to the Agonist’s motion. Finally, in (d), while the Agonist again has a tendency toward motion, the Antagonist is this time stronger and so effectively blocks it, rather than merely hindering it: the Agonist is kept in place. This pattern again represents a causative type, the extended causation of rest.*
+(3) the basic steady-state force-dynamic patterns
+
+Ago’s tendency (a,b): toward rest (c,d): toward action
+
+(4 O>U+
+
+-o-i-
+
+Ago’s resultant (a,c): action (b,d): rest
+Ago’s force relative to Ant’s (a,d): lesser (b,c): greater
+
+(a) The ball kept rolling
+
+(b) The shed kept standing
+
+becauseof the wind blowing on it. despite the gale wind blowing against it.
+
+(c) The ball kept rolling
+
+(d) The log kept lying on the incline
+
+despite the stiff grass.
+
+because of the ridge there.
+
+Of these four basic force-dynamic patterns, each pair has a factor in common. As the diagrams are arranged in the matrix in (3), each line captures a commonality. In the top row, (a,b), the Agonist’s intrinsic tendency is toward rest, while in the bottom row (c,d), it is toward action. In the left column, (a,c), the resultant,of the force opposition for the Agonist is action, while in the right column, @,d), it is rest. More significantly, the diagonal starting at top left, (a,d), which represents the cases where the Antagonist is stronger, captures the factor of extended causation. These are the cases in which the resultant state is contrary to the Agonist’s intrinsic tendency, results because ofthe presence of the Antagonist, and would otherwise not
+
+1 For clarity, most illustrativesentences in this papercontainexplicitmentionof both force elements.But more colloquialsentencems entioningonly oneelementcanequallyrepresenthe sameFD patterns.Thus, The shed kepf slu&ing. can, in context, represent the same (3b) pat-
+tern that the fuller sentence given in illustration does unambiguously.
+
+56
+
+TALMY
+
+occur. And the diagonal starting at top right, (b,c), which gives the cases where the Agonist is stronger, captures the ‘despite’ factor. In fact the very concept of ‘despite/although’ can be characterized in terms of the common factor in this subset of force-dynamic patterns. Here, the resultant state is rhe same as that toward which the Agonist tends, results despite the presence of the Antagonist, and would otherwise also occur. Thus, the force-dynamic analysis so far captures certain basic general concepts, for example, ‘despite’ as counterposed to ‘because of,’ as well as certain particular concepts, for example, ‘hindering’ and ‘blocking.’ In doing so, an advantage of the present analysis becomes evident: It provides a framework in which a set of basic notions not usually considered related are brought together in a natural way that reveals their underlying character and actual affinity.
+As the examples in (3) demonstrate, certain force-dynamic concepts have grammatical-that is, closed-class-representation. With the Agonist appearing as subject, the role of a stronger Antagonist can be expressed by the conjunction because or the prepositional expression because of (which in other languages often appears as a simple adposition), while the role of a weaker Antagonist can be expressed by the conjunction although or the preposition despite. Force-dynamic opposition in general can be expressed by the preposition against, as seen in (3b) or in such sentences as She braced herselfagainst the wind / They drove the ram against the barricade. Perhaps the single form most indicative of the presence of force dynamics here is keep -ing. Technically, of course, this expression is not a closed-class form, since it is syntactically indistinguishable from any regular verb taking an -ing complement, such as hate. Nevertheless, its very frequency and basicness suggest for it a status as an ‘honorary’ auxiliary, in the same way that have to can be taken as an honorary modal akin to the authentic must. Moreover, in the course of language change, keep is likelier than, say, hate to become grammaticalized, as its equivalents have done in other languages and much as used to, which stems from a syntactically regular verb, is now partially grammaticalized in its limitation to a single form. Whether keep is taken as closed-class or not, its force-dynamic role can be seen as well in other forms that are unimpeachably closed-class, such as the adverbial particle still and the verb particle on, as illustrated in (4).
+
+(4) a. The ball kept rolling
+
+b. The ball was still rolling
+
+c. The ball rolled on
+
+I
+
+despite the stiff grass.
+
+1.2. Shifting Force-Dynamic Patterns At this point, another factor can be added-change through time-and with it, the steady-state force-dynamic patterns give rise to a set of change-ofstate patterns. In one type of these, the Antagonist, rather than impinging
+
+FORCE DYNAMICS
+
+57
+
+steadily on the Agonist, instead enters or leaves this state of impingement.
+
+The cases with a stronger Antagonist (based on (3a,d)) are the most recog-
+
+nizable and are considered first. As they are diagrammed in (5), these shift-
+
+ing patterns are not indicated with a sequence of static snapshots, but with
+
+the shorthand conventions of an arrow for the Antagonist’s motion into or
+
+out of impingement, and a slash on the resultant line separating the before
+
+and after states of activity. These patterns are exemplified in (5) with sen-
+
+tences now taking (5)
+(f) (e)
+i+i!QC>J+fl l
+
+the Antagonist
+
+as subject Ago’s tendency
+
+(e,h): toward rest (f,g): toward action ’
+
+Ant’s effect
+
+(e,f): causing (g,h): letting
+
+Ago’s resultant (e,g): starting (f,h): stopping
+
+(e) The ball’s hitting it made the lamp topple from the table.
+(g) The plug’s coming loose let the water flow from the tank.
+
+(f) The water’s dripping on it made the fire die down.
+(h) The stirring rod’s breaking let the particles settle.
+
+To consider each in turn, the pattern in (se) involves a stronger Antagonist that comes into position against an Agonist with an intrinsic tendency toward rest, and thus causes it to change from a state of rest to one of action. Thus, this is another pattern to be classed as causative, but this time it is the prototypical form, the type most often associated with the category of causation. If the two steady-state causative types, (3a,d), may be termed cases of axtended causation, the present type can be called a case of onset causation, in particular, onset causation of motion. The pattern in (5f), correlatively, is that of onset causation of rest. In it, the stronger Antagonist comes into impingement against an Agonist that tends toward motion and has been moving, and thus stops it.
+The four patterns that thus constitute the general causative category, (3a,d; 5e,f), have in common one property, absent from all other forcedynamic patterns, that emerges from force-dynamic analysis as definitional for the concept of causation. This property is that the Agonist’s resultant state of activity is the opposite of its intrinsic actional tendency. In the remaining patterns, these two activity values are the same. The force-dynamic
+
+58
+
+TALMY
+
+interpretation is that an object has a natural force tendency and will manifest it unless overcome by either steady or onset impingement with a more forceful object from outside. This is a family of circumstances that language classes together under a single conceptual aegis, one that can appropriately be termed the ‘causative.’
+In the next pattern, (5g), the concept of ‘letting’ enters, and with it, further demonstration of the force-dynamic framework’s power to bring together, in a systematic account, notions whose relatedness may not have previously been stressed. In (5g), a stronger Antagonist that has been blocking an Agonist with tendency toward motion now disengages and releases the Agonist to manifest its tendency. This is the prototypical type of letting, onset letting of motion. In (5h), accordingly, is a non-prototypical type of letting, onset letting of rest, where an Antagonist that has forcibly kept in motion an Agonist tending toward rest now ceasesimpinging on this Agonist and allows it to come to rest. Where the category of causing was seen to depend on a notion of either the start or the continuation of impingement, the present ‘letting’ patterns involve the cessation of impingement.
+As the shifting force-dynamic patterns are arrayed in (5), each line of the matrix again isolates a systematic factor. The diagonal starting at top left, (e,h), holds as constant the Agonist’s tendency toward rest, while the opposite diagonal, (f,g), does this for the tendency toward action. The top row, (e,f), indicates onset causation, while the bottom row, (g,h), indicates onset letting. And the left column, (e,g), represents the Agonist’s starting into action, while the right column, (f,h), represents its stopping. The patterns as they are arrayed in columns thus serve to represent the category of forcerelated starting and stopping.’
+It was said at the beginning of this section that an Antagonist’s entering or leaving impingement with the Agonist was only one type of shifting forcedynamic pattern. We can now outline another form. The Antagonist and Agonist can continue in mutual impingement but the balance of forces can shift through the weakening or strengthening of one of the entities, For each impingement-shift pattern in (5), there is a corresponding balance-shift pattern. The correspondence can be understood this way: instead of a stronger Antagonist’s arriving or leaving, to thus begin or end its overpowering effect, an Antagonist already in place can become stronger or weaker with the same results. One of these patterns is selected for illustration in (6), with the arrow here indicating the shift in relatively greater strength (of course with no implication of any actual transfer of force from one entity to the other). In one
+
+’ Language is also able to represent starting and stopping as autonomous events, independent of force interactions, as in sentences like The wind slurred IO blow. / It slopped raining. And such cases join with the force-involved case of (5) to form the general“start/stop’ cate-
+gory.
+
+FORCE DYNAMICS
+
+59
+
+(>e’ of its usages, the word overcome represents this pattern and is shown exem-
+plifying it. 05)
+
+The enemy overcame us as we stood defending the border. [enemy = Ant, us = Ago]
+1.3. Secondary Steady-State Force-Dynamic Patterns The cases in (5) where the Antagonist moves away from the Agonist suggest further cases in which the Antagonist remains away. In fact, corresponding to each of the steady-state patterns in (3), with an Antagonist opposing an Agonist, is a secondary steady-state pattern with the Antagonist steadily disengaged. Where this Antagonist is stronger, we have the two patterns for ‘extended letting.’ Illustrated in (7i) is extended letting of motion and, in (7j), extended letting of rest. These together with the patterns for ‘onset letting’ seen in (5g,h) comprise the general category of ‘letting.” It can now be seen that the major delineations within the overall causing/letting complex can be characterized in terms of types of impingement by a stronger Antagonist. Causing involves positive impingement: Onset causing correlates with the start of impingement and extended causing with its continuation. Letting involves non-impingement: Onset letting correlates with the cessation of impingement and extended letting with its non-occurrence.
+(7)
+
+(i) The plug’s staying loose let the water drain from the tank. (j) The fan’s being broken let the smoke hang still in the chamber.
+I have called the present group of steady-state patterns ‘secondary’ because, it seems, they must be considered conceptually derivative, founded
+
+60
+
+TALMY
+
+on a negation of the basic steady-state forms. The notions of Agonist and Antagonist, it can be argued, intrinsically involve the engagement of two bodies in an opposition of force, and reference to an Agonist and Antagonist not so engaged necessarily depends on their potential for such engagement. In Fillmore’s (1982) terms, the disengaged cases presuppose the same semantic frame as the engaged cases.
+
+1.4. The Relation of Agency to the Force-Dynamic Patterns I should make clear why I have used for illustration, as in (5) and (7), sentences based on two clauses and without an agent, when linguists familiar with the causative literature are used to sentences like Z broke the vase. The reason is that I regard such nonagentive forms as more basic than forms containing an agent. As argued in Talmy (1976), the inclusion of an agent in a sentence, though often yielding a syntactically simpler construction, actually involves an additional semantic complex. An agent that intends the occurrence of a particular physical event, say, a vase’s breaking, is necessarily involved in initiating a causal sequence leading to that event. This sequence must begin with a volitional act by the agent to move certain parts or all of his body, and this in turn leads either to the intended event or to a further event chain, of whatever length, that leads to it.
+To represent a whole sequence of this sort, many languages permit expression merely of the agent and of the final event, like English in Zbroke the vase. Here, the sequence’s remaining elements are left implicit with their most generic values. The next element that can be added by itself to the overt expression is the one leading directly to the final event-that is, the penultimate event, or else just its (so-called) instrument, as in Z broke the vase (by hitting it) with a ball. This privileged pair of events, the penultimate and the final, forms the identifying core of the whole agentive sequence. It can in fact be excerpted from there for expression as a basic percursor-result sequence, as in The ball’s hitting it broke the vase.
+This is the basic sequence type of our illustrative sentences. In it, all the causal and other force-dynamic factors can be worked out in isolation, and yet be known to hold as well when occurring within a larger sequence containing an agent. In this way, the sentences of (5) can be immediately associated with corresponding agentive sentences, as exemplified in (8), and there maintain all the same force-dynamic properties.
+
+(8)
+
+autonomous
+
+The ball’s hitting it made the lamp topple.
+
+The plug’s coming loose let the water flow out.
+
+agentive
+I made the lamp topple by hitting it with the ball.
+I let the water flow out by pulling the plug loose.
+
+FORCE DYNAMICS
+
+61
+
+1.5. Alternatives of Foregrounding in Force-Dynamic Patterns All of the interrelated factors in any force-dynamic pattern are necessarily copresent wherever that pattern is involved. But a sentence expressing that pattern can pick out different subsets of the factors for explicit referenceleaving the remainder unmentioned-and to these factors it can assign different syntactic roles within alternative constructions. Generally, the factors that are explicitly referred to, and those expressed earlier in the sentence or higher in a case hierarchy, are more foregrounded, that is, have more attention directed to them. As with the agentive situation, those factors not explicitly mentioned are still implicitly present, but backgrounded.
+With respect to representation, we can identify the explicit factors and their syntactic roles with a system of labeling on the force-dynamic diagrams. For this system, I borrow from Relational Grammar the use of ‘1’ to indicate the element appearing as subject, and ‘2’ for direct object. The label ‘VP’ is placed beside the element that will be expressed as a verbal constituent. The particular syntactic character of this constituent can range widely, as we will see, so that the ‘VP’ must be construed actually to designate a form of abstracted verb-phrasal base. An element not labeled is generally not represented explicitly in the construction. When labeled, a complete diagram thus represents a specific construction, usually one of sentential scope and with particular lexical inclusions. In addition, I use the following convention for capturing a commonality: Where two patterns differ in only one factor-for example, tendency towards action vs. tendency toward restand also underlie the same construction, they can be represented in a single diagram with both values marked, for example, with both arrowhead and dot.’
+Turning now to actual cases, a difference in foregrounding due to syntactic role can be shown for the steady-state force-dynamic patterns of (3a,d), diagrammatically combined in (9). Familiar already from (3), the Agonist can be foregrounded by subject status, while the Antagonist is backgrounded either by omission or as an oblique constituent, as shown in (9A) with constructions involving intransitive keep or prepositional/conjunctional because (of). Alternatively, the same force-dynamic patterns can be viewed with the reverse assignment of salience, where the Antagonist is foregrounded as subject and the Agonist backgrounded as the direct object, as shown in (9B) with constructions involving transitive keep or make.
+
+’ A developing practice is the systematic use of schematic labeled diagrams to represent the meanings of linguistic forms. Perhaps with an origin in Whorf (1956), this practice is seen, among other contemporary writers, in Talmy (1972,413-20) (Talmy (1976)contains the first FD diagrams) Fillmore (1977), showing alternative labelings for the same diagram, and Langacker (1986, 1987) with the most elaborated system. Where 1use different labelings for alternatives of foregrounding, Langacker draws with bold lines different ‘profiles’ within a single ‘base.’
+
+62
+
+TALMY
+
+(9)
+
+(A)
+
+(a+dI
+
+1 keep VPing 1 VP because (of) Ant
+(A) The ball kept rolling. / The ball is rolling because of the wind. (B) The wind kept the ball rolling. / The wind is making the ball roll.
+The other main alternation in foregrounding pertains to the actional properties of a force-dynamic pattern. Either the Agonist’s actional resultant can receive the main explicit representation in a construction, as in the cases seen so far, or its actional tendency can. Of course, this distinction in emphasis can apply only to causative patterns, since in these alone do the two actional values differ. The chart in (10) brings together all the causing and letting patterns we have seen, here only with the Antagonist foregrounded, and the constructions that represent them. The new constructions are those in (B) and (D), which refer to the Agonist’s tendency in causative patterns. Note that here the key force-dynamic word keep occurrs again, but now in conjunction withfrom in a construction indicating ‘prevention.’ With these additions, the force-dynamic analysis relates still further linguistic phenomena within a single framework. (Note that examples for the (E) and (F) patterns appear in (7).)
+1.5.1. Asymmetry in the Expression of ‘Make’ versus ‘Let’. English offers more syntactic options for the expression of ‘making’ than it does for ‘letting.’ For ‘making,’ the Antagonist can be mentioned either by itself or along with the event in which it is involved, while ‘letting’ has only the latter option, as illustrated in (1 la,b). This asymmetry continues when the ‘making’ and ‘letting’ patterns are embedded within an agentive matrix (as also noted by Jackendoff, 1976), as seen in (llc,d). It is for this reason that in the ‘letting’ diagrams of (lOE,F), the ‘1’ indicating subjecthood was shown marking the Antagonist together with the Antagonist’s activity.
+(11) a. The piston’s pressingagainst it made the oil flow from the tank. The piston made the oil flow from the tank. b. The plug’s coming looselet the oil flow from the tank. * The plug let the oil flow from the tank.
+
+(10) onset
+
+causing
+
+resultant named
+(A)
+
+tendency
+(B)
+
+1 v
+
+2
+
+(e+f)
+
+named
+
+letting
+(El tendency (= resultant)
+
+named
+
+1 (g+h)
+
+extended
+
+1 2
+iI+4
+---%F
+lIEz;I 2 1WVPing
+
+ll stop preventI*
+(D)
+
+from wing
+
+11keep prevent
+
+I 2 from
+
+VPing
+
+1 let 2 W
+(F)
+g+ 2 0 R
+\ / 1 let' 2 VP
+
+The added soap- (A) got the crust to come off. (6) stopped the crust from sticking. The shutting valve- (A) made the gas stay inside. (B) stopped the gas from flowing out. The fan- (C) kept the air moving. (D) kept the air from standing still. The brace- (C) kept the logs lying there. (D) kept the logs from rolling down.
+
+64
+
+TALMY
+
+c. I made the oil flow from the tank by pressing the piston against it. I made the oil flow from the tank with the piston. d. I let the oil flow from the tank by loosening the plug. * I let the oil flow from the tank with (*of/*from) the plug.
+The explanation for this asymmetry may lie in a language-universal treatment of ‘instrument’ as involving only positive impingement. For supporting evidence, note that in talking about causing a stacked display of cans to topple, an instrumental with-phrase as in (12) can refer either to the beginning of impingement (12a) or to its continuation (12b), but not to its cessation (12~). And there is no other phrasal indication for such a reverse instrument, as seen in (13):
+(12) I toppled the display with a can. -covers: a. . . ,by throwing a can at it. b. . . .by pressing against it with a can. C. * . , .by pulling a can out from the bottom tier.
+(13) * I toppled the display from/of/. . . a can.
+1.6. Force-Dynamic Patterns with a Weaker Antagonist Since our initial look at the basic steady-state patterns, all the FD patterns dealt with have had a stronger Antagonist. But the present framework allows for a set of eight patterns with weaker Antagonist. These are the two steadystate patterns in (3b,c) with the Antagonist impinging against the Agonist, and correspondingly: two with this Antagonist coming into impingement, another two with the Antagonist leaving impingement, and a final two with the Antagonist remaining out of impingement. As a set, these patterns seem to play a lesser role than the set with stronger Antagonist, but certain patterns among them are nevertheless strongly represented in English. This is certainly the case for the earlier-discussed ‘despite/although’ formulations, where the Agonist appears as subject. In addition, for cases with the Antagonist as subject, (14) shows patterns with the Antagonist (a) engaged (the same as the steady-state (3~) pattern, now labeled), (b) disengaging, and (c) steadily disengaged, where these underlie constructions with hinder, help
+(41 (b) and leave alone, respectively.
+(14)
+2
+
++F
+1 hinder 2 (in VPing)
+
+-+s 1 help 2 VP
+
+FORCE DYNAMICS
+II 1 +Agent
+0>+
+\ / 1 leave 2 alone
+a. Mounds of earth hindered the logs in rolling down the slope. The benches hindered the marchers in crossing the plaza.
+b. Smoothing the earth helped the logs roll down the slope. Removing the benches helped the marchers cross the plaza.
+c. I left the rolling logs alone. The police left the marchers alone in their exit from the plaza.
+It is significant that the lexical verb help should be found in a forcedynamic context. As illustrated in (15), there are four transitive verbs in English that take an infinitive complement without to, namely, make, let, have, and help (i.e., outside of perception verbs, which form a separate class in also taking an -ing complement). We have already seen make and let figure deeply in the expression of basic force-dynamic patterns. Have is also FD, expressing indirect causation either without an intermediate volitional entity, as in I had the logs roll down the south slope, or, as is usual, with such an entity: I had the boy roll the log along. And now we find help also with force-dynamic usage. The significance of this is that a syntactically definable category can be associated with a semantically characterizable category, thus lending relevance to both and support to the idea of structural integration in language. More will be made of this cross-level association of categories in the discussion of modals.
+(15) I made/let/had/helped the logs roll along the ground.
+1.7. Particularized Factors in Force-Dynamic Patterns In every force-dynamic pattern treated so far, the component factors have been at their most generic. Any element or event with the minimal requisite property called for by a factor can instantiate that factor and, accordingly be expressed in the construction that represents the pattern. But this system has an extension. There exist constructions that correspond to a force-dynamic pattern in which a particular factor has a specific identity. Where this identity involves a basic notion, say, where a pattern’s VP factors is particularized as ‘be’ or ‘move,’ the corresponding construction generally also includes some basic lexical item. In this way, we find’more of the core lexicon and syntax brought under the force-dynamic aegis.
+Thus, we find such prominent English lexical verbs as stay/remain, leave, hold and, once again, keep, arising from the particularized patterns shown
+
+66
+
+TALMY
+
+in (16). The depicted correspondences preserve certain syntactic properties as well. Thus, be, which particularizes the VP in the (16a,b,c) patterns, can normally occur with a nominal, an adjective, or a locative, as in He was a doctor / rich / in Miami. The same is true of the verbs in the corresponding constructions, as in: He remained a doctor / rich / in Miami., Events kept/ left him a doctor / rich / in Miami. In (16d), the DIR (Directional) element accompanying “move” has been left generic. But if it, too, is particularized, say, as ‘down’ or ‘out,’ then the pattern yields still further constructions. Thus, beside I keep 2 j&m moving down/out is not only I hold 2 up/in, but further I support 2 and I confine 2.
+
+‘be’
+[l keep being +] 1 stay/remain
+
+(cl
+
+1
+
++
+
+Agent+ cc
+
+2
+
+0 0
+
+2
+
+1
+
+0g> +
+‘move’ +oIR
+
+[l keep 2 from moving + DIR +] 1 keep/hold 2 antiDIR
+a. [The log kept being on the incline (because of the ridge there). -1 The log stayed on tbe incline (because of the ridge there). (tendency: > ; Ant: t ) [The shed kept being on its foundation (despite the gale wind). -1 The shed remained on its foundation (despite the gale wind). (tendency: l ; Ant: -)
+b. [The ridge kept the log being on the incline. -1. The ridge kept the log on the incline.
+c. [Let the cake be (keep being) on the box! -1 Leave the cake in the box!
+d. [The ridge kept the log from moving ahead. -1. The ridge held the log back.
+
+FORCE DYNAMICS
+2. FORCE DYNAMICS AS A GENERALIZATION OVER ‘CAUSATIVE’
+
+67
+.
+
+Given this survey of the basic force-dynamic patterns and their linguistic expression, we are now in a position to view the whole system for its properties as an integrated framework. One main understanding that emerges is that FD is a generalization over the traditional notion of ‘causative’ in the linguistic 1iteratur.e. That tradition itself has a progression of treatments. The earlier ones, such as in McCawley (1968), abstracted an atomic and uniform notion of causation, often represented as ‘CAUSE,’ that countenanced no variants. Later treatments, for example, Shibatani (1973) and Jackendoff (1976), perceived a finer complex of factors. Talmy (1976, 1985) has distinguished at least the following: resulting-event causation, causing-event causation, instrument causation, author causation, agent causation, selfagency, and inducive causation (caused agency). But even these treatments did not analyze far enough. While they revealed the factors that go into more complex forms of causativity, these were all still founded upon the same, unanalyzed notion of primitive causation. With the force-dynamic framework, now this too gives way. What had been viewed as an irreducible concept is’now seen as a complex built up of novel primitive concepts. And because these finer primitives recombine in a system of different patterns, the idea of causation is now seen as just one notion within a related set.
+I can now detail the generalization. First, the force-dynamic analysis provides a framework which accommodates, among the patterns with a stronger Antagonist, not only ‘causing’ but also ‘letting.’ Further, it accommodates not only the prototypical forms of these, but also the non-prototypical, in the sense in which Lakoff (1987) characterizes prototypicality for a conceptual category. Thus, it accommodates not only the prototypical type of causing, ‘onset causing of action,’ which all accounts treat, but also ‘onset causing of rest.’ The previous neglect of this latter pattern is evident in the very terminology that had been selected. Thus, Shibatani’s (1973) term most closely corresponding to the present ‘onset’ is ‘ballistic causation’ a term that could never have been meant also to include causing to come to rest (the term in Talmy, 1976, ‘beginning-point causation,’ fares a bit better in this regard). The non-prototypical pattern ‘extended causing of action’ has had some prior recognition, for example, with Shibatani’s ‘controlled causation’ or my earlier ‘extent causation.’ But neither of these authors had envisioned the correlative pattern, ‘extended causing of rest.’ As for ‘letting,’ this notion has in most treatments gone unmentioned beside discussion of causing. If mentioned, it is generally the prototypical type, ‘onset letting of action,’ that is treated. Though Talmy (1976) and Jackendoff (1976) did include analysis of several further types, it has remained for the present FD
+
+68
+
+TALMY
+
+analysis to provide an adequate matrix for the inclusion of ‘onset letting of rest’ and ‘extended letting of action/rest.’
+The next major generalization in the force-dynamic framework is that it classes both causing and letting together as cases involving a stronger Antagonist and then counterposes to these the cases with a weaker Antagonist. This larger picture now contains a set of notions not normally considered in the same context with causation. Included among them are the general notions of ‘despite’ and ‘although,’ and such particular notions as ‘hindering,’ ‘helping,’ ‘leaving alone,’ and, as we shall see below, ‘trying.’
+Finally, with the idea of alternative foregrounding, the force-dynamic framework is able to capture the concept not only of the causing of a result, but also of the prevention of a tendency (a factor also noted below for modals, in alternations of the type: He must go. / He may not stay.) The provision for alternatives of foregrounding, furthermore, permits treating not only constructions with the affecting entity (the Antagonist) as subject. It also brings in on a par constructions with the affected entity (the Agonist) as subject and even as the only-mentioned participant, as with intransitive keep (and all modals, as seen below).’
+The set of the force-dynamic framework’s generalizations can be summed up as in (17). The important point to make here is that force dynamics does not .simply add cases; rat.her, it replaces an earlier limited conception, then taken as a primitive, with.a more general and systematic matrix of concepts.
+(17) Force dynamics provides a framework in which can be placed: not only ‘causing,’ but also ‘letting’ not only the prototypical casesof ‘causing/letting,’ but also non-prototypical: prototypical causing: ‘onset causing of action’ (5e)
+seldom considered: ‘onset causing of rest’ (Sf) sometimes considered: ‘extended causing of action’ (3a) seldom considered: ‘extended causing of rest’ (3d) prototypical letting, sometimes considered: ‘onset letting of action’ (5g) seldom considered: other three ‘letting’ types (5h) (7i.j) not only the stronger-Antagonist types (‘causing/letting’), but also the weaker-Antagonist types (‘despite/although,’ ‘hindering/helping/leaving alone,’ ‘trying. . . ‘) not only caseswith the result named, but also caseswith the tendency named (‘causing’ vs. ‘preventing’) not only the affecting entity (Antagonist) as subject, but also the affected entity (Agonist) as subject (e.g., with intransitive keep & modals)
+
+’ Particularization is, of course, also a feature of the FD framework, but this, at least, has
+had ample parallel in traditional causative studies, with their discussions of the lexicalization of ‘cause’ together with other particular semantic material.
+
+FORCE DYNAMICS
+
+69
+
+3. EXTENSION OF FORCE DYNAMICS TO PSYCHOLOGICAL REFERENCE
+The point of the preceding outline was to demonstrate the generality of the force-dynamic framework as compared with previous conceptions. But in the terms in which it was developed, that framework does have a particular limitation: Its founding concepts are of the domain of physical force interactions. However, it becomes apparent that FD has a yet more general role in language. Its concepts and distinctions are extended by languages to their semantic treatment of psychological elements and interactions. This linguistic psychodynamics thus generalizes notions of physical pushing, blocking, and the like to the framing of such concepts as wanting and refraining.
+To take a particular example, ‘wanting,’ as in Ne wants to open the window, seems to be conceived in terms of a kind of psychological ‘pressure’, ‘pushing’ toward the realization of some act or state. As a metaphoric extension, it can be well represented by the arrowhead within the Agonist in a FD diagram, symbolizing ‘tendency toward action.’
+
+3.1. The Self Divided For the force-dynamic concept of two forces opposing, if we do not yet consider the social interrelation between two individuals but remain with a single psyche, we are led to a basic semantic configuration in language, the divided self. This notion is seen in such formulations as I held myself back from responding or, as conflated in a single lexical form, in I refrained from responding. The sense of these expressions is that there is one part of the self that wants to perform a certain act and another part that wants that not to happen, where that second part is stronger and so prevents the act’s performance. This arrangement is by now, of course, immediately recognizable as a basic force-dynamic pattern, applied in this case to intra-psychological force-like urges. It can be diagrammed as in (18a,b), with the new feature of a dotted box around the elements to indicate that they are parts of a single psyche.
+The construction diagrammed in (18a), I hold oneself back from VPing, is an idiomatic extension of the construction in (16d), now without particularization of the force tendency. The force components of the diagram are individually labeled: The subject of the construction can be identified with the blocking part of the psyche, acting as Antagonist, and the reflexive direct
+object with the desiring part, acting as Agonist. In (18b) is diagrammed the corresponding refrain construction. All the elements are the same; the only difference is that they are not individually identified; rather, the whole configuration is lexicalized in a single word with the subject identified as the psyche as a whole. This pattern can support still further lexicalization. If the VP in this diagram were particularized as ‘be impolite,’ the pattern would
+
+68
+
+TALMY
+
+analysis to providi an adequate matrix for the inclusion of ‘onset letting of rest’ and ‘extended letting of action/rest.’
+The next major generalization in the force-dynamic framework is that it classes both causing and letting together as cases involving a stronger Antagonist and then counterposes to these the cases with a weaker Antagonist. This larger picture now contains a set of notions not normally considered in the same context with causation. Included among them are the general notions of ‘despite’ and ‘although,’ and such particular notions as ‘hindering,’
+‘helping,“‘leaving alone,’ and, as we shall see below, ‘trying.’ Finally, with the idea of alternative foregrounding, the force-dynamic
+framework is able to capture the concept not only of the causing of a result, but also of the prevention of a tendency (a factor also noted below for modals, in alternations of the type: He must go. / He may not stay.) The provision for alternatives of foregrounding, furthermore, permits treating not only constructions with the affecting entity (the Antagonist) as subject. It also brings in on a par constructions with the affected entity (the Agonist) as subject and even as the only-mentioned participant, as with intransitive keep (and all modals, as seen below).’
+The set of the force-dynamic framework’s generalizations can be summed up as in (17). The important point to make here is that force dynamics does not simply add cases; rat.her, it replaces an earlier limited conception, then taken as a primitive, with-a more general and systematic matrix of concepts.
+’ (17) Force dynamics provides a framework in which can be placed: not only ‘causing,’ but also ‘letting’ not only the prototypical casesof ‘causing/letting,’ .but also non-prototypical: prototypical causing: ‘onset causing of action’ (Se) seldom considered: ‘onset causing of rest’ (9) sometimes considered: ‘extended causing of action’ (3a) seldom considered: ‘extended causing of rest’ (3d) prototypical letting, sometimes considered: ‘onset letting of action’ (5g) seldom considered: other three ‘letting’ types (Sh) (7i,j) not only the stronger-Antagonist types (‘causing/letting’), but also the weaker-Antagonist types (‘despite/although,’ ‘hindering/helping/leaving alone,’ ‘trying. . .‘) not only caseswith the result named, but also caseswith the tendency named (‘causing’ vs. ‘preventing’) not only the affecting entity (Antagonist) as subject, but also the affected entity (Agonist) as subject (e.g., with intransitive keep & modal@
+
+’ Particularizationis, of course,alsoa featureof the FD framework, but this, at least,has h&dampleparallelin traditionalcausativestudies,with their discussionosf thelexicalizationof ‘cause’togetherwith other particularsemanticmaterial.
+
+FORCE DYNAMICS
+
+71
+
+state. It is being overcome by an Antagonist acting either as blockage-in this psychological context, one might say ‘suppression’-or as a spur. This Antagonist represents a sense of responsibility or propriety and appears as an internalization of external social values. In effect, perhaps, a force dynamic opposition originating between the self and the surroundings seems here to be introjected into an opposition between parts of the self. Correspondingly, the desiring part is understood as more central and the blocking or spurring part as more peripheral. This semantic arrangement is reflected syntactically in the transitive constructions of (18a,c): the peripheral part of the self is expressed as the subject Agent, which acts on the central part of the self appearing as the direct object Patient (the reflexive).
+
+3.3. Psychological Origin of Force Properties in Sentient Entities We have seen that language can ascribe intrinsic force properties to physical entities without sentience such as wind, a dam, or a rolling log. The overt force manifestations of sentient entities, however, are generally treated not as native to the physical body per se but, rather, as arising from underlying psychological force dynamics-in particular, from the psychological configuration of ‘exertion.’ Consider, for example, the semantics of the two sentences in (19).
+(19) a. The new dam resisted the pressure of the water behind it. b. The man resisted the pressure of the crowd against him.
+The non-sentient dam in (19a) is understood to continue in its tendency to stand in place due to its intrinsic properties of physical solidity and rootedness. This is not the case with the sentient man in (19b). If that entity were considered only for his physical body, without the psychological component, he would be viewed as a force-dynamically weaker Agonist that would be swept along by the crowd. But the psychological component is normally included and understood as the factor that renders the man a stronger Agonist able to withstand the crowd. It accomplishes this by maintaining the expenditure of effort, that is, by a continuously renewed exertion, in which a goal-oriented part of the psyche overcomes a repose-oriented part so as to generate the output of energy.
+The psychological component not only can cause greater strength in the physical Agonist, but can set its force tendency. Thus, while the ‘man’ in (19b) set his body for a tendency toward rest, the ‘patient’ in (20) has set his body for a tendency toward motion, and is understood as straining against what holds him. (This example’s verb, restrain, corresponds to the (3d) pattern with its force tendency particularized as ‘move.‘) If this patient were only a physical body, he would just lie there inert, uninvolved in any force interactions. But he also has a psyche that here generates his possession of an active force tendency, determining that he tries to get free; This example
+
+72
+
+TALMY
+
+also demonstrates further applicability of the psychological ‘exertion’ pattern. This pattern can attach not only to an Agonist, like the ‘man’ or the ‘patient,’ but also to an Antagonist. Thus, the strap in (20a) manifests its Antagonistic force by virtue of its physical characteristics alone, whereas the attendant in (20b) does so only by the psychogenic expenditure of effort.
+(20) a. A strap restrained the patient. b. An attendant restrained the patient.
+In diagramming these more complex force-dynamic relationships, I place a connecting line between the physical entity acting as Agonist or Antagonist and the psychological ‘exertion’ complex. An example of the resulting full pattern is shown in (2la), and examples with a symbolic shorthand that I shall use are diagrammed in (2lb,c).
+
+1 [volitionally] resist 2 (The man resisted the pressure of the crowd against him).
+1 [volitionally] restrain 2 (The attendant restrained the patient.)
+3.4. The Force-Dynamic Properties of Repose, Animation, and Generativity
+Implicit in this analysis of the psyche’s force-dynamic character are three further factors that bear on conceptual organization in language and perhaps also more generally. The first is that one basic state of the central part of the psyche, perhaps its most basic (or ‘unmarked’) state, isthat of repose. In this state, the central force element of the psyche has an intrinsic tendency toward rest that must be overcome by a more peripheral part of the psyche for energy to be expended. Without such spurring, no effort would be exerted.-
+Second, the semantic component of language is so organized as to treat the physical aspect of a sentient entity as essentially inert, requiring anima-
+
+FORCE DYNAMICS
+
+73
+
+tion by the psychological aspect. By itself, the body lacks an intrinsic force tendency and if placed in a force-dynamic situation would generally be a weaker Agonist. It is the psyche that imbues the body with force properties, that is, that animates it. In the diagrams, the line linking the psychological and the physical aspects can be treated as representing this semantic component of ‘animation.’
+Third, this very linking of a psychological with a physical force-dynamic pattern is an example of the more general capacity of force-dynamic patterns to concatenate or to embed. That is, there is the capacity for the Agonist or Antagonist of one pattern to serve in turn as a force entity in a further pattern. Complex combinations of this sort can be formed, as in a sentence
+like: Fearkeptpreventingtheacrobat’fromletting theelephanthold up his tightrope.The important point in this is that the force-dynamic system in
+language is not limited to a small inventory of simplex patterns but has the
+property of open-ended generativity.
+From the preceding analysis, thus, it appears that language ascribes to the psycho-physical nature of sentient entities the following particular force-dynamic concatenation: A more peripheral part of the psyche overcomes a more central part’s intrinsic repose to animate the otherwise inert physical component into overt force manifestation against a further external force entity.
+
+4, FORCE DYNAMICS WITH MORE COMPLEX ASPECTUAL PATTERNS
+The shifting type of force-dynamic patterns discussed in 1.2 involved simple changes through time, of an aspectual type basic enough to be represented on a single diagram with an arrow. But more complex patterns of force-dynamic change through time are also countenanced by language and underlie specific constructions and lexicalizations. To depict them, I resort to a strip of diagrams to represent the sequence of patterning.
+I can point to a particular set of lexical items, within their respective constructions, that are all based on a single complex force-dynamic sequence. There are essentially two factors that distinguish the expressions within this set. The first is what I will call ‘phase’: the location along the temporal sequence at which focal attention is placed. The second is ‘factivity’: the occurrence or non-occurrence of portions of the sequence and the speaker’s knowledge about this.
+The relevant diagram strip with the ‘phase/factivity’ patterns is shown in (22). Here, the first phase, (a), is a stretch of time during which a sentient Antagonist, foregrounded as subject, impinges extendedly against a stronger Agonist, intending that this will make it act as shown in the subsequent phases. The Antagonist’s force tendency is indicated here because it can be
+
+74
+
+TALMY
+
+referred to explicitly in some of the constructions. The (a) phase may include a latter portion, (a’), during which the Agonist weakens or the Antagonist strengthens. In the punctual (b) phase, a criteria1 shift in relative strength takes place. And phase (c) is the aftermath of this shift, with the Agonist now forced to manifest the intended action.
+We see in (22) that a range of constructions and construction types all refer to this same force-dynamic ‘script.’ The lexical verb try involves focus at the initial phase without knowledge of its outcome, while succeed and fail focus on a known occurrent or non-occurrent outcome. And constructions with adverbial forms like finafly and in vain take their place beside those with verbs. (Note that the subscript ‘c’ on a VP indicates a causative lexicalization).
+(22)
+
+‘1’ and ‘2’ as depicted in above diagram condition: the Antagonist intends that (a) cause (b-c)
+
+phase/factivity patterns (i) focus at (a)
+(b-c)‘s occurrence unknown (ii) Focus at (c)
+(b-c) has occurred
+
+constructions
+
+1 try
+
+to
+
+(
+
+make 2 VP CVP 2
+
+1
+
+by
+
+VP’ing
+
+1 succeed in ,VPing 2
+
+1 manage to CVP 1
+
+1 finally CVP2
+
+(iii) focus at (c) (b-c) has not occurred
+
+1 fail to CVP 2 1 VP’ in vain/futilely/to no avail
+
+(i) He tried to open the window by pressing up on it.
+
+(ii) He succeeded in opening / managed to open the window. He finally opened the window.
+
+(iii) He failed to open the window.
+
+He pressed up on the window to no avail.
+
+.
+
+All the preceding constructions were based on the Antagonist’s foregrounding as subject. But this same force-dynamic sequence underlies fur-
+
+ther expressions with the Agonist as subject. The force dynamic analysis is
+
+here bringing together expressions with previously unanticipated relation-
+
+ships. For this new set, the same strip as in (22) holds, except that the ‘1’ and ‘2’ are reversed, and the ‘exertion’ box is now optional and could be
+
+shown within parentheses. The corresponding constructions and examples
+
+are given in (23).
+
+FORCE DYNAMICS
+
+75
+
+(23) -with ‘1’ and ‘2’ in the diagram in (22) reversed, and its ‘exertion’ box optional:
+
+(i) focus at (a) (b-c)‘s occurrence unknown
+(ii) focus at (c) (b-c) has occurred
+
+1 resist 2(‘s VP’ing)
+
+1 ( @;,y
+
+} (to 2)
+
+1 finally VP
+
+(iii) focus at (c) (b-c) has not occurred
+
+1 withstand 2(‘s VP’ing) 1 will not VP
+
+(i) The window resisted my pressing on it. (ii) The window gave way (to my pressing on it).
+The window finally opened.
+(iii) The window withstood my pressing on it. The window wouldn’t open.
+
+The reason that the ‘exertion’ box is optional for (23) is that there all the constructions, which give nonsubject status to the Antagonist, do not require that this Antagonist be sentient, as did the subject-Antagonist constructions of (22). Involved here, in fact, is a systematic gap in English expression. There are no simple locutions with a nonsentient Antagonist as subject for the (3b)-type pattern of a weaker Antagonist impinging on a stronger Agonist that is stably at rest.6 What would be needed here is a locution that would function as try does for a sentient Antagonist subject, but that could be predicated, say, of wind, as in some sentence like: *The wind tried to overturn the hut. The closest serviceable expressions here would seem to be The wind blew on the hut with little/no effect / ineffectively. It is not obvious why such a gap should exist. There is clearly no semantic barrier to it, since the same conception is expressed with nonsubject Antagonist forms, as shown by (23)~type expressions like The hut resisted the wind.
+
+5. EXTENSION OF FORCE DYNAMICS TO SOCIAL REFERENCE
+We have seen how our framework extends from physical force interactions to psychological ones, in particular to intrapsychological force interactions within sentient entities. Here we see that the framework extends still further to interpsychological force interactions between sentient entities. That is, it extends to social force interactions, or to sociodynamics. There is at work here a basic metaphoric analogy seemingly built into semantic organization. The base of the metaphor is one object’s direct imposition of physical force on another object towards the latter’s manifesting a particular action. Con-
+6Other weaker-Antagonistpatternsdo underlieconstructionswith a nonsentientAntagonistassubject,for example,onescontaininghinder, help,leavealone,asin Thegrasshindered
+rhe rolling ball.
+
+76
+
+TALMY
+
+ceptualized as analogous to this is one sentient entity’s production of stimuli, including communication, that is perceived by another sentient entity and interpreted as reason for volitionally performing a particular action. This linguistic analogical extension from the physical to the interpreted is seen, for example, in the English use of words like push and pressure pertaining to sociodynamics, as in (24).’
+(24) a. peer pressure / social pressure b. He’s under a lot of pressure to keep silent. c. Our government exerted pressure on Nicaragua to tow our line. d. Getting job security relieved the pressure on her to perform. e. The gang pushed him to do things he didn’t want to.
+As testimony to the integration provided by the present framework, we now find that the same force-dynamic sequence treated in the last sectionthough now with the addition of “exertion” to the Agonist as well as the Antagonist-underlies a new set of lexical items and constructions with interpersonal reference. Among these, for example, is I urge 2 to VP. Here, strictly, an Antagonist through communication aims to affect an Agonist’s intention as to the performance of some action. But the semantic effect of the locution is to cast this social interaction as a form of force dynamism, with the Antagonist exerting pressure on the Agonist toward the particular action. The relevant diagram strip, with the additional ‘exertion’ box, is shown in (25). As before, there are constructions corresponding to alternative foregroundings, with either the Antagonist or the Agonist as subject. These are also indicated in (23, with (i)-(iii) representing the same phase/ factivity patterns as earlier.
+(25)
+
+-with ‘1’ and ‘2’ as depicted (i) 1 urge 2 to VP (ii) I persuade/get 2 to VP
+(iii) ? [l strike out with 2 (on VPing)]
+
+-with ‘1’ and ‘2’ reversed 1 be reluctant to VP
+(on VPing)
+
+7The analogy extends to the sociodynamic domain from generally the whole complement of basic force-dynamic patterns. For example, a ‘letting’ pattern is seen in He (final/y) /ef her
+present her opinion, in which blockage and release of blockage exist in a communicative and interpretive realm of convention-guided and volitionally initiated actions, not as phyical impingements.
+
+FORCE DYNAMICS
+
+77
+
+(i) She urged him to leave. He was reluctant to leave.
+(ii) She persuaded him to leave. He relented. / He gave in to her on leaving.
+(iii) (She struck out with him on his leaving). He refused to leave. / He wouldn’t leave.
+The parallelism of our particular force-dynamic sequence’s application both to psycho-physical interactions and to interpersonal interactions allows us to place all the relevant constructions in a single table, as shown in (26), p. 78. The table demonstrates graphically the way that force dynamic concepts extend across semantic domains to reveal common patterns, some perhaps not noticed earlier for want of an adequate explanatory system.
+
+6. MODALS AS A SYNTACTIC CATEGORY FOR THE EXPRESSION OF FORCE DYNAMICS
+
+The progression of properties and their extensions adduced for the forcedynamic system to this point now permits treatment of modals in this light. Though modals have been investigated from many perspectives, there has been general inattention to what appears to lie at the core of their meanings, namely, force opposition. This force-dynamic perspective is presented here.
+The English modals form a graduated grammatical category, with more core and more peripheral members, as characterized by the degree of their showing certain syntactic and morphological properties. Among these properties are: lack of to for the infinitive form of the following verb, lack of-s for the 3rd person singular, postposed not, and inversion with the subject as in questions. Modals characterized by more or fewer of these properties are shown in (27a) in their historically corresponding present and past tense forms. The forms in (27b) are syntactically and morphologically regular, but their meanings and usage are so close to those of real modals that they are often considered in the same terms, and may be accorded ‘honorary’ modal status. In the discussion that follows, the more colloquial have to will usually be used over must, being equivalent to it in the relevant factors. Also, the usages of will, would, and shall that express pure tense or mood will be disregarded.
+
+(27) a. can may must -
+
+shall will need dare had better
+
+could might - ought should would
+
+(durst)
+
+b. have to be supposed to be to get to
+
+Before some deeper analyses, an immediate inspection reveals core forcedynamic reference by the modals in their basic (‘deontic’) usage, as exemplified in (28). Thus, can.in the context of not, as originally described in the Introduction, indicates that the subject has a tendency toward the action expressed by the following verb, that some factor opposes that tendency, and
+
+(26) Table of Constructions
+
+for the Complex FD Sequence of (22).(25)
+
+effect on Ago: physical
+Ant=1
+
+focus at (a); (b-c)‘.5 occurrence unknown
+1 try to c\F 2
+
+focus at ic): (b-c) has occurred
+
+manage to cW
+
+1
+
+2
+
+I succeed in ,VF’ing I
+
+1 finally cVP 2
+
+focus at (c): (b-c) has not occurred
+1 fail to cVP 2
+1 VP’ in vain/futilely/ to no avail
+
+Ago= 1 1 resist 2
+
+1
+
+(to 2)
+
+1 finally VP
+
+1 withstand 2 1 will not VP
+
+communicative Ant=1
+Ago=1
+
+1 urge 2 to VP
+1 be reluctant to VP 1 resist VPing
+
+1 persuade get 2 to VP
+1 relent 1 give in to 2
+1 finally VP
+
+[l strike out (with 2)]
+
+1 I refuse to
+
+1
+
+1;p
+
+will not
+
+FORCE DYNAMICS
+
+79
+
+that the latter is stronger, blocking the event. May in the context of not
+expresses this same force-dynamic configuration, but as limited to an inter-
+personal context, one where the main force factor is an individual’s desire
+to perform the indicated action and the opposing factor is an authority’s
+denied permission. While may not indicated an authority’s blockageto the expression of the subject’s tendency, must and had betterin the context of not suggest an active social pressureacting against the subject to maintain him in place. Should and ought, similar in their effect, pit the speaker’s
+values as to what is good and his beliefs as to what is beneficial against the
+contrary behavior of the subject. Will/would not indicate refusal by the subject to yield to external pressure to perform the expressed action. Need in the context of not indicates the release from the subject of a socially based
+obligation, imposed from outside against the subject’s desires, to perform
+the indicated action. And dareopposes the subject’s courage or nerve against
+external threat. In all of these indications of force opposition, the subject of
+the modal represents the Agonist, while the Antagonist is usually only im-
+plicit in the referent situation, without explicit mention.
+
+(28) John can/may/must/should/ought/would/need/dare/had not leave the house.
+
+better
+
+A notable semantic characteristic of the modals in their basic usage is
+that they mostly refer to an Agonist that is sentient and to an interaction
+that is psychosocial, rather than physical, as a quick review can show. Only
+can(not) and will not appear to have regular physical reference, as exemplified in (29a,b). Must/have to have limited physical usage as in (29d), pri-
+marily, I suspect, where the subject referent is confined to a minimal space.
+
+(29) a. The knob wouldn’t come off, no matter how hard I pulled. b. The ball can’t sail out of the ballpark with the new dome in place. c. *The ball has to stay in the ballpark with the new dome in place. d. An electron has to stay in a particular orbit around the nucleus.
+
+Modals are involved intwo further usages that do allow nonsentient subjects and so seem to contravene the idea of psychosocial reference. But these can be shown not to fault the main observation. The first of these usages is illustrated in (30).
+
+(30) The cake can/may/must/should/need not/had better stay in the box.
+
+The subject here is not really the Agonist of the situation. There is a real Agonist in the situation, and a sentient one, but it is not expressed. This Agonist acts as an Agent controlling as a Patient the item named by the subject. Thus, (30) can be identified as a distinct construction incorporating modals that allows the foregrounding of a Patient and the backgrounding of the sentient Agonist. An apt term for the process yielding this construction
+
+80
+
+TALMY
+
+is ‘Agonist demotion,’ and for the force element itself, the ‘demoted Agonist.’ In particular, sentences with Agonist demotion, as in (30), are of the construction type represented in (31b), but refer to a situation more accurately represented by the corresponding construction in (31a).
+(31) Agonist demotion a. Agonist (=Agent) MODAL make/let/have Patient VP
+=> b. Patient MODAL VP
+Thus, The cake must stay in the box can be more accurately paraphrased as People/ You must make/let/have the cake stay in the box. The only modal not allowing this additional usage is dare: *The cake dare not stay in the box., a fact which demonstrates that here is involved a genuinely distinct and distinguishable construction, one that each modal individually either does or does not participate in.
+The second modal usage allowing nonsentient subjects is the epistemic, illustrated in (32).
+(32) The pear could/may/must/should/needn’t be ripe by now.
+Involved here is the application of modality to the domain of our reasoning processes about various propositions, not to the semantic contents of those propositions themselves. It is true that the modals in their epistemic usage do not in fact apply to sentient entities in social interaction, but to beliefs within an inferential matrix. But this is a specialized usage referring to the same domain in every case, not an open-ended application to any nonsentient element.
+It is especially significant for the present analysis that epistemic senses are associated with modals at all. Historically, the English modals acquired epistemic usages after their root (deontic) usage. Sweetser (1984) has adopted the present force-dynamic framework for root modal usage and argued that the original reference to psychosocial interaction extended diachronically to the semantic domain of inference, and is represented there synchronically as a metaphoric extension. That is, she sees force-dynamic concepts as extending from interpersonal impingements to the impingements of arguments on each other or on the reasoner, constraining him toward certain conclusions. Thus, she has argued that the present force-dynamic analysis has still further explanatory power, able to account for the semantics of epistemics as well as that of modality.
+
+6.1. The ‘Greater Modal System’ In section 1.6, we noted that the verbs make/let/have/help form a syntactically definable category, on the basis of their taking a to-less infinitive complement, and that’as a group they all have force-dynamic reference. In these respects, this group resembles that of the modals, which also take no to and
+
+FORCE DYNAMICS
+
+81
+
+have force-dynamic reference. Accordingly, these two categories together can be considered to form a single larger category, characterizable as the ‘greater modal system,’ with these same syntactic and semantic properties. The regular-verb members of this larger category all take the Antagonist as subject, while the modals all take the Agonist as subject, so that the two subcategories in this respect complement each other. Further evidence of analogizing between the two subcategories is that help, as in I helpedpush the car, may well be the only regular verb in English that can be directly followed by the bare form of another verb (without an intervening direct object NP), rendering it still closer to the syntactic properties of the modals. With the greater modal system, English appears to have established a syntactic category to correspond, in part, to the semantic category of FD. Note the parallelism in (33).
+(33) He can/may/must/should/would not/need not/dare not/had better I made him/let him/had him/helped (him) -push the car to the garage.
+An analysis gains validation if it can link together phenomena not previously connected. Such is the case with the present combining of two syntactic categories and their joint association with a semantic category. Such syntactic-semantic linkage is especially significant since it attests to linguistic integration. Previously treated cases of such integration are the association of adpositions with geometric schematization, as described in Herskovits (1986) and Talmy (1983), and the association of conjunctions with relations between events, as discussed in Talmy (1978a, 1978b). And the present example of the greater modal system’s correlation with FD is a substantive addition.
+
+6.2. Force-Dynamic Matrix Combining Modals and Open-Class Lexical Forms
+While modals are largely dedicated to the expression of force-dynamic concepts, especially of psychosocial character, they of course are not alone in this. Many of the notions they encode are expressed as well by open-class lexical forms, some of which have already been presented in this paper. These two types of forms can complement each other in certain ways. The modals must take the Agonist as subject and offer no ready syntactic slot for the expression of the Antagonist, though this element is no less present in the total referent situation. A number of open-class verbs, on the other hand, do involve‘expression of the Antagonist, generally as subject, while expressing the Agonist as well, usually as direct object.
+In characterizing the meanings of modals and their lexical compeers, one further factor needs to be added to the force-dynamic system. We have so far dealt with the Agonist’s force tendency as an abiding property of that
+
+82
+
+TALMY
+
+element. But this type of force tendency needs to be distinguished from one that is contingent. The latter type might beneeded for physical FD reference to account for adventitious events, as suggested in (34a), although this is not clear. However, it is definitely needed for psychological force-dynamic reference to account for a sentient entity’s decisional behavior, ,as indicated in (34b). Such contingent force tendency will be assumed to apply to much modal and related lexical reference, and will be indicated in the diagrams with a dotted marking of the force tendency.
+(34) a. The ball can roll off the table (if it gets jostled). b. Dad says that she may go to the playground (if she wants).
+With this emendation, we can now apply the earlier diagramming conventions to represent the force-dynamic content of certain modals and related lexical forms. Shown first in (35) are secondary steady-state cases, where the Antagonist is out of the way of the Agonist. For simplicity, only the patterns with force tendency toward action are shown, though those with tendency toward rest are also possible. A parallelism is set up between forms with physical reference and ones with psychosocial reference, but the relative inadequacy of the physical in English, noted earlier for medals in general, appears here as well for open-class lexical forms, as seen in (35b).
+
+(35)
+Ago=1
+
+(4
+
+t
+
+1 II
+0c. ..cp
+
+VP
+
+1 {
+
+mcaany j
+
+VP
+
+Ant=1 ,(make
+
+p;sf;;gle
+
+W :
+2 II
+0‘0. .-ip
+for) 2 to VP 1 permit 2 to VP
+
+a. A flyball can sail out of this stadium. b. The lack of a dome makes it possiblefor a flyball to sailout of this stadium.
+c. You may go to the playground. d. I permit you to go to the playground.
+
+FORCE DYNAMICS
+
+83
+
+We can represent as in (36) the counterpart matrix, where the Antagonist now impinges against the Agonist. Since these patterns all have a stronger Antagonist, the Agonist’s force tendency is now the opposite of the resultant. Accordingly, either the tendency or the resultant could be mentioned explicitly in alternative locutions, and the chart becomes doubled in size. Again, the patterns for the physical domain are poorly represented in English. The difficulty with the (36f) pattern was already discussed in connection with (29). The issue for the (36g,h) patterns is that any locution representing them must preserve the notion of the force tendency’s ‘contingency.’ Preclude does this for (36g) but is not a common vocabulary item, whereas even that much is not available for (36h), since construin/necessifate do not fully provide the needed meaning. It won’t do to use prevent for (36g) and make for (36h)-as in The dome prevented flyballs from sailing out of the stadium or The dome made flyballs stay in the stadium-because, especially in past tense usage, these forms presuppose that the Agonist has in fact exerted force against the Antagonist, which is not the idea of contingency present in the other forms. By contrast, the pattern with psychosocial reference, both in (35) and in (36), are fully captured by modals and common lexical forms, the latter including such verbs as permit, forbid, and require.
+
+(36)
+
+physical tendency named resultant
+
+named
+
+Ago=1
+
+"'p$J
+
+(fpJJ
+
+'VP
+
+1 can't VP
+
+?
+
+Ant=1
+
+1 preclude
+
+2's VPing 1 ~~~~~$$e
+
+2 to VP
+
+(right-hand half of diagram continued on next pagel
+
+84
+
+TALMY
+
+(36) continued
+tendency
+
+psycho-social named resultant
+
+named
+
+Ago=1 1 may not VP
+
+-7F
+1 has to VP
+
+1 forbid 2 to VP 1 require 2 to VP
+(3dexamples)
+e. A flyball can’t sail out of this stadium. f. [*A flyball has to stay in this stadium.]
+g. The dome precludes a flyball from sailing out of the stadium. h. The dome Iconstrains/ Qrecessitatesa flyball to stay in the stadium.
+i. You may not leave the house. j. You have to stay in the house.
+k. I forbid you to leave the house. 1. I require you to stay in the house.
+6.3. The Force Dynamics of Should Given the analysis to this point, we are in a position to inspect some particular modals in greater depth for what their semantic organization reveals about FD. Should is a good form to treat in this way because a strong sense of force opposition is part of its immediate semantic impact. Sample sentences to consider while examining its semantics are, say, those in (37). I analyze the general form of the should construction as shown in (38), and its semantic components as shown in (39). Here, ‘E’ and ‘E” stand for sentient entities, and ‘VP’ for an action that E can perform volitionally.*
+I It appears to me to be the general case that counterfactual propositions are interconvertible with factual causative propositions. For example, the sentence I would have caughl the ball ifthe cm hadn’t been in fhe wuy is basically equivalent to I didn? catch the ball because
+
+FORCE DYNAMICS
+(37) a. She should lock her doors when she goes out. b. He should spend more time with his children.
+(38) E’ holds that E should VP.
+(39) a. E does not VP. b. In E”s belief system, E’s VPing would benefit E or others. c. In E”s value system, E would be a better person if s/he VPed. d. Becauseof (b-c), E’ wants E to VP.
+Explanation is needed for the presence of (38)‘s first three words. Whether expressed or not, there is always some entity within should’s total reference that holds the implied beliefs and values noted. Usually, this entity is ‘I’, the speaker, or alternatively perhaps, some conception of generalized societal authority. When this is the case, (38)‘s initial phrase can be omitted from explicit expression, yielding the commonest overt form, bare should clauses of the kind seen in (37). But the evaluating entity must be named if it is not ‘I/Society’, and can be named even if it is, as in sentences like those of WV
+(40) a. (I think) she should lock her doors when she goes out. b. Do you think he should spend more time with his children? c. He feels I should return the lost money.
+Note that of the semantic components in (39), (a-c) by themselves do not capture the force-dynamic import of should. Their contribution can be captured by a sentence like (41), corresponding to (37a).
+(41) I think that she would be benefited and would be a better person if she locked her doors when she goes out.
+But such a formulation lacks the force impact of the original should sentence. It is the component in (39d) that adds the crucial factor, rendering ‘E” into an Antagonist that in effect exerts pressure on ‘E’ as an Agonist.
+The should construction has several further noteworthy semantic properties, pertaining to the relationship between its two sentient entities. In one type of relationship, E”s opinion is known to E. This must be the case where the subject of should is I or you, for example, in such Antagonist-Agonist
+the car was in fhe way. Accordingly, the (39) semantic analysis of should can be equally well rendered with its (b,c) counterfactual propositions replaced by causal forms as in:
+b’. In E”s belief system.E’s not VPing is detrimental lo E or others. c’. In E”s value system,E is a worseperson becausesheor he doesnot VP. (The counterfactual character of (39b) canbe madeexplicit asin: . . . , there would be benefit toEor others i/E Wed,‘and the causalcharacterof (b’) herecan be madeexplicit as in: . . ., them is derri-
+tnent lo E or others because E does not VP.)
+FD captures this kind of equivalence with its causative patterns, (3a,d; 5e,f). Here a stronger Antagonist, which,can be represented by a because clause, blocks an Agonist’s force tendency, which can be represented as the unrealized factor in a counterfactual would-clause.
+
+86
+
+TALMY
+
+pairings as I-you / he-you / you-1 / he-I, as in (I think) you should leave. Here, in addition to the four factors in (39), a should sentence further implies that (e) E (the Agonist) wishes not to VP, and then (f) E experiences direct social pressure from E’ (the Antagonist) counter to this wish. That is, the psyche of the Agonist is the experiential arena for force-dynamic opposition, the Antagonist’s wishes against his own.
+Where the E’ and the E are the same person, as in sentences like (Z think) I should leave and He thinks he should leave, the force opposition is introjetted into the self. As earlier, the self is then conceived as divided, with a central part representing the inner desires and a peripheral part representing the self’s sense of responsibility.
+There remains the peculiar circumstance in which E does not know of E”s opinion, as in (37a,b). There is here still a sense of force impingement, and its character wants specifying. Clearly E cannot be an arena of opposing forces since he is aware only of his own wishes and behavior. Only E’ can be experiencing force-dynamic opposition, and its character is novel here. It pits E”s desires against an actuality that does not accord with those desires. Till now, we have seen oppositions only between forces of the same kind within the same conceptual domain, whether the physical, the psychological, or the interpersonal. Here, however, forces of two different domains are nevertheless conceived as clashing. Given that the should construction has a single syntactic form, language here is clearly not distinguishing between these rather different semantic situations, the same-domain and the cross-domain cases.
+Consider a different example of the same phenomenon. A sentence like (42a) is fully interpretable as a same-domain interpersonal AntagonistAgonist interaction, as described in section 5: John relents under sociopsychological pressure. But the lizard in sentence (42b) knows nothing of outside social expectation and certainly has done no relenting. It has simply moved at its own wish. The finally pertains, instead, to a cross-domain clash between actuality and the speaker’s desires. Specifically, the speaker had wanted the lizard to move, this wish was frustrated and built up in tension until finally relieved by the occurrence of the lizard’s motion.
+
+(42) a. John finally agreed.
+
+b. The lizard finally moved.
+
+6.4. The Force Dynamics of Have To Offering further insights into force-dynamic properties is another modal, must, or its regular surrogate have to, as exemplified in (43). The sentences here are on a semantic continuum. In (43a), there is an implicit sentient external authority that wants the boy to act in the way stated and that threatens to produce consequences unpleasant for him if he does not. In (43b), there is an implicit external authority that threatens consequences, but it is unaware
+
+FORCE DYNAMICS
+
+87
+
+of the fugitive’s stated actions and would not want them if it were so aware. In (43c), there is no external authority at all, merely worldly exigencies.
+(43) a. The boy had to stay in and do his homework (or elseget punished). b. The fugitive had to stay in hiding (or risk capture). c. I had to get to the bank before 3 (or have no cash for the evening).
+To capture the basic complex of meaning components present in such uses of have to, one might initially come up with the analysis presented in (44).
+(44) a. E wants not to VP b. Not VPing has consequencesthat E wants even less(the ‘or else’ constituent) c. E opts to VP as the lesserdispleasure (d. Some E’ wants E to VP, and that would initiate theunpleasant consequencesof E’s not VPing)
+The analysis in (44) is formulated largely in terms of an intrapsychological decision process, involving the weighing of two displeasures within the single psyche of the entity named in the subject. Some process of this sort, however conscious or unconscious, may in psychological actuality be what underlies a ‘have to’ situation. However, language imposes a different conceptualization on such a situation. If (44) sufficed, we would be able to paraphrase, say, (43b) as in (45).
+(45) The fugitive chose the lesserdispleasure of hiding over the greater displeasure of getting caught.
+But this is clearly inadequate to the have to sentence in (43b), which suggests little deciding and a sense of externally imposed pressure. How must (44) be altered to render the right semantic result? A specific series of factors calls for the reconceptualization.
+The first thing to notice about the semantics of the sentences in (43) is that there is little sense of internal psychological disparity. Rather, there is a sense of opposition between the self and the outside. In particular, that component of the self that sought to avoid the greater displeasure of a threatening consequence here recedes into the background. Its capacity to bring about the undesired action is ascribed instead to an outside entity, to which is thereby attributed the power to coerce. This outside entity is the actual one where such is present; otherwise, it is an abstract fictive one that is imputed to the situation. There thus emerges in the have to situation an adhority, whether manifest or virtual. Further, in the place of a psychological process that is force-neutral, there is now an authority that acts as an Antagonist exerting pressure on the self as an Agonist.
+In this reconceptualization, the fact that the effect of one component in the psyche is attributed to an outside entity can be regarded as a form of
+
+88
+
+TALMY
+
+psychological projection. In this respect, have to involves ,a conception opposite to that in, for example, refrain as treated in section 3.1. There, an originally external social pressure is introjected to form an additional component within the psyche. Accordingly, where the conceptual organization of language was previously seen to include a concept of the divided self, in which the psyche has componential structure, here we see as well the concept of a psychological black box, in which the self is without internal differentiation. That is, linguistic structure can also frame the concept of the psyche as a black box, one whose inner structure and processes are unknown and that is considered only as to its interactions as a unit with outside units.
+In sum, the reconceptualization in the semantically corrected description of have to involves a shift from an internal division to a self-other distinction, from an autonomous decision process to a concept of an external authority, even if fictive, and from a force-neutral selection process to a force-dynamic coercive pressure. Further, it demonstrates that linguistic structure encompasses the concept not only of introjection resulting in a divided self, but also of projection resulting in a psychological black box.
+To characterize the findings of the present section, we have seen that there is a syntactically definable category-conservatively, the modals proper, liberally, the ‘greater modal system’-that as a whole is dedicated to the expression of force-dynamic concepts. Some of the modals pattern together with each other and with open-class lexical items in semantically structured matrices. And some of the modals exhibit quite complex forcedynamic configurations that bring to light a number of additional semantic factors, ones that in turn shed light on how certain conceptual models of the psyche and of the world are embedded in semantic organization.
+
+7. FORCE DYNAMICS IN DISCOURSE: ARGUMENTATION AND EXPECTATION
+FD functions extensively in the domain of discourse, and preeminently so in the process of argumentation. This is the rhetoric of persuasion and includes efforts to exhort, to convince, and to logically demonstrate. The process involves the deployment of points to argue for and against conflicting positions. In a force-dynamic understanding of ‘argument space,’ each such point can in turn oppose or reinforce another point and overcome or be overcome by it; each successive resultant of these encounters can move the current argument state closer to or further from one of the opposing conclusions.
+Crucial to this process, and specialized for it, is a particular class of closed-class expressions and constructions, present in some number in every language. As a class, such forms can be designated as force-dynamic logicgaters. Taken together through a portion of discourse, such forms can be seen to perform these functions: to limn out the rhetorical framework, to
+
+FORCE DYNAMICS
+
+89
+
+direct the illocutionary flow, and to specify the logical tissue. Included in the set of logic-gaters for English are such forms as yes but, besides, nevertheless, moreover, granted, instead, all the more so, whereas, on the contrary, after all, even so, okay, and well (intoned as weelll with the meaning ‘I grudgingly concede your point, though with a proviso’). To illustrate, the argumentational meaning of yes but can be characterized as: ‘Your last point, arguing toward a particular conclusion, is true as far as it goes, but there is a more important issue at stake, one leading toward the opposite conclusion, and so the point I now make with this issue supersedes yours.’ In the constructed example in (46), B’s yes but thus acknowledges the truth of vocal beauty and of the force-dynamic push of that toward public performance, but then blocks that push with the point about tunefulness, presented as more important.
+(46) A. You know, I think Eric should sing at a recital-he has a beautiful voice.
+B: Yes, but he can’t stay on key.
+
+VP = should sing at recital
+
+A: beautiful voice
+
+B: off key
+
+Other instances of argumentational meaning are: moreover ‘The point I am now making reinforces the preceding one in arguing toward the same overall conclusion’; granted ‘Despite my prior objection, I concede that your last point refutes part of my total argument, but the remainder of my argument still holds and still prevails over your total argument.’ In the meaning of granted, note the cluster of force-dynamic operations involved: ‘despite,’ ‘concede,’ ‘refute, ’ ‘prevail.’ The FD argumentation system is more extensive and important than can be described here, but future expositions are planned.
+In addition to argumentation, FD operates in other discourse functions, for example that of discourse expectation. This includes the moment-tomoment expectations of participants in a discourse as to the direction and content of succeeding turns. One type of discourse expectation-immediately recognizable to all but apparently without prior linguistic treatment-I will call ‘vector reversal.’ It is the discourse situation in which the overtly observable resultant is agreed on, but one participant discovers that he has had one set of assumptions about the underlying direction of implication, while
+
+90
+
+TALMY
+
+his interlocutor has had a converse set. Such an arrangement of semantic factors is immediately amenable to a FD analysis, and two examples are represented diagrammatically here.
+The first example, in (47), is an interchange taken from our campus computer message system. Here, person B has interpreted a message in terms of a blockage, intended to prevent outsiders from performing an action they would want to (viz., read the message). Person A corrects this misimpression by noting that his assumption was that others would not want to perform that action and that he was sparing them the trouble. In the diagram, the dashed resultant line is a shorthand to indicate the action not undertaken, used here to avoid a diagram strip.
+(47) A titles message: ‘For Chinese students only’ B protests that it is exclusionary A responds that the intent was: ‘Others need not bother to look’
+VP = read the message
+
+-?iii-
+
+B thinks: 1 must not VP A means: 1 need not VP
+Example (48), an overheard interchange, is more complex. It includes one interlocutor’s use of disingenuousness for the purpose of humor. Note again that for the two examples, the resultant of action is the same under both interlocutors’ interpretations; all that differs is their understanding of the underlying force vectors operative in the social situation. (A ‘Seder’: a sometimes trying family Passover ceremony).
+(48) A: Did you get invited to a Seder this year? B: No. I was spared.
+VP = go to Seder
+
+a41
+
+(y
+
+B(Q
+
+LT,
+
+(YJ
+
+-%-
+
+e = what A means
+
+= what
+
+did 1 get to VP?
+
+did
+
+(was obstacle
+
+to VPing
+
+removed?)
+
+VP B "takes" A to mean
+1 have to VP?
+
+= what B means 1 not have to VP
+
+FORCE DYNAMICS
+
+91
+
+8. CONCEPTUAL MODELS OF PHYSICS AND PSYCHOLOGY IMPLICIT IN LINGUISTIC FORCE DYNAMICS
+As our analysis of the linguistic force-dynamic system has revealed, conceptual models of certain physical and psychological phenomena are built into the semantic structure of language. These conceptual models can be compared with ones present in cognitive systems other than language. Relevant, for example, is the cognitive system involved with our untutored “common sense” conceptions, or the cognitive system involved with sophisticated reasoning about phenomena, including the thinking that underlies the scientific tradition. It appears, on the whole, that the conceptual models within linguistic organization have a striking similarity to those evident in our naive world conceptions, as well as to historically earlier scientific models. These same basic conceptual structures are even much in evidence in casual thinking or expression within contemporary science. However, these basic conceptual structures can diverge substantially from the rigorous conceptions of contemporary science.
+Research to ascertain conceptual structure has a long tradition and has recently become an active agenda. Within linguistics, Whorf’s (1956) work was among the earlier contributions, while more recent work has included Talmy (1978c, 1987), Jackendoff (1983), Langacker (1987), and Lakoff (1987), the last particularly with his idea of linguistic ‘ICM’s’: integrated cognitive models. Within other disciplines of cognitive science, recent work includes that of Gentner and Stevens (1982), who work within the framework of ‘mental models’ using protocols from subjects asked about their conceptions of everyday phenomena, Hayes (1985), with a formal approach to ‘naive physics,’ and Hobbs and Moore (1985), working toward a theory of common sense within an artificial intelligence approach. The work of diSessa (1986) on ‘intuitive physics,’ also using protocols and abstracting the ‘phenomenological primitives’ that individuals use in understanding physical situations, has shown striking parallels with the analyses of the present paper.
+The present findings in linguistic FD can make a substantial contribution to this line of research. The concepts uncovered here offer insight into naive thought and provide a ready contrast with rigorous scientific thought. I now treat certain FD concepts in this respect, considering first ones with physical reference.
+The ‘Agonist’ concept confers on one object in an interaction a privileged status and special characteristics not shared by its opposite, the ‘Antagonist,’ even where these two are otherwise equivalent. While this imparity is so natural in language-based conceptualizing, it has no counterpart in physical theory. There, equivalent objects have the same properties: There is no physical principle for differentiating equivalent objects according to ‘privilege.’
+
+92
+
+TALMY
+
+Structurally in language, further, an object in a given situation is conceptualized as having an intrinsic force tendency, either toward action or toward rest. This concept appears to correlate with historically earlier scientific theories involving objects’ impetus in motion or tendency to come to rest. The concept, however, is at considerable variance with modern physics. Objects have no internal impulsion toward some state of activity but, rather, continue at their current velocity unless externally affected. Moreover, stationariness is not a distinct state set apart from motion, but is simply zero velocity.
+Next consider the linguistic force-dynamic concept of greater relative strength, represented in our diagrams with a ‘ + ‘. In one application of this conception, a stronger Antagonist is required so as to be able to block an Agonist with tendency toward motion and to hold it stationary in place. So natural is this linguistic, and perhaps also commonsense, conception that it may have escaped special attention during our exposition. Yet, it is at variance with one of the more familiar principles of physics, that two interacting objects-including two objects in contact at zero velocity-must be exerting equal force against each other.
+Another property of FD and related semantic patterns is that they comprise a severely limited selection from the causal actualities of referent situations. Two forms of this schematic reduction can be cited. First, the grammatical, constructional, and to some extent lexical structure of language presents an extremely simple representation of causality, one that marks few distinctions and lumps together ranges of diversity. This representation abstracts away, for example, from particularities of rate, scope of
+involvement, manner of spread, and the like. The disregard of such particularities is illustrated by the sentences in (49). The manner of breaking caused by heat, in (49a), would involve slow and gradual warping, spread of a tracework of cracks, and the like. On the other hand, that caused by a falling heavy object, in (49b), would involve sudden localized disruption. Though these situations involve very different causal particulars, they are treated together by a common grammatical structure and lexical item. Here, and generally, the kind of simplified schema in which linguistic constructions represent causation is a tripartite structure: a static prior state, a discrete state-transition, and a static subsequent state. Linguistic structures, in effect, ‘chunk’ the complexities and continuities of occurrence into this simplified schema and, in this, may well parallel conceptual patterns of naive physics. In scientific physics, by contrast, causation involves a continuum of interactions occurring at the finest scale of magnitude: There is no operative physical principle of ‘chunking.’
+
+(49) a. The heat broke the guitar.
+
+b. A falling radio broke the guitar.
+
+In a second form of schematic reduction to which language subjects causality, an ‘event’ -that is, a portion conceptually partitioned out of the
+
+FORCE DYNAMICS
+
+93
+
+continuum of occurrence-can be represented as existing outside of causality altogether. Regular linguistic constructions, like those in (sOa), can thus present an event as autonomous, without causal percursor or consequence, and without causal process during its occurrence. In such formulations, causality may be inferred, but it falls outside the represented scope or depth of attention. The length to which language can carry this perspective is evident in (50b). The sentence here can have no other interpretation than one in which an agent has physically searched through objects and then espied a missing item, yet that item is depicted as emerging into visibility on its own. This extrinsic partitioning, isolating, and decausativizing that language can conceptually impose on the stream of occurrence is in direct contrast with the perspective of physics, in which everything is an unbroken causal continuum.
+(50) a. The book toppled off the shelf. / The ball sailed through the window. b. My cufflink finally turned up at the bottom of the clothes hamper.
+Significantly, some of the most basic force-dynamic concepts-blocking and letting, resistance and overcoming-have no principled counterpart in physics. For their viability, these concepts depend on the ascription of entityhood to a conceptually delimited portion of the spatiotemporal continuum, and on the notion of an entity’s having an intrinsic tendency toward motion or rest. For example, the plug in a tank of water can be seen as ‘blocking’ flow, and its removal as ‘permitting’ flow, only if one conceptualizes the water as a unified entity with tendency toward motion, the space below the plug as an entity that the water has the potential to occupy, and the plug as a unitary entity in between. These concepts of blocking and letting vanish, however, under physics’ fine-structural perspective of individual particles and forces in local interaction. The same can be demonstrated for the concepts of resistance and overcoming. Consider the following examples. The quote in (5 la) is taken from a Scientific American article on primitive evolutionary processes at the molecular level, and that in (51b) was noted down from a chemist speaking.
+(51) a. ‘The variant [molecule] that is resistant to this degradation folds in a way that protects the site at which the cleavage would take place.’
+b. ‘To get the molecule to react, you have to add energy to overcome its resistance.’
+Both are examples of scientific discourse that frames its concepts in the very same force-dynamic terms that we have found built into language. But these terms can here be only a convenience for conceptualization: They have no operation in physical systems. Thus, for (51a), it is we as thinkers that select a set of atoms with certain linkages between them (notions that can in turn be seen as constructs) for, consideration together as a unitized concept, a molecule. There is no actual physical property of ‘entityhood’ inhering in
+
+94
+
+TALMY
+
+this set of atoms such that-as (5la) describes it-the set marshals itself as a unit to ‘resist’ another such unit, or such that a particular spatial configuration constitutes ‘protection,’ or such that a separation between the atoms would constitute ‘degradation.’ All that can actually happen is the occurrence or nonoccurrence of a shift of linkages following on a juxtaposition of certain atoms with certain other atoms.9
+Turning now to how language structures conceptions about the mind as a form of ‘naive psychology,’ the main factor to note is that language largely
+extends its concepts of physical force interaction to behavior within the psyche and between psyches. That is, it largelyphysicalizes the psychosocial domain of reference. This phenomenon was treated at length earlier, and we can here add the evidence seen in (52).
+
+(52)
+
+intransitive
+
+phys,ical:
+
+a. The drank sailed out of the bar.
+
+volitional:
+
+c. The drunk went out of the bar.
+
+transitive b. They threw the drunk out of the bar. d. They set the drunk out of the bar.
+
+The forms in (52a,b), where the Patient is involved in purely physical interaction, are intransitive for the autonomous motion event and transitive for the direct causative motion event, respectively. But syntactically parallel to these are the forms in (52c,d) with volitional Patient. Now, there is no a priori reason why a self-agentive event, like that in (52c), should be expressed in the same syntactic form as an autonomous event. Yet, this is regularly the case in English and most languages. There do exist other constructions for the self-agentive, ones that more closely reflect the underlying semantics, for example the two-argument reflexive form She dragged herself to work. But the preponderant type of construction is the single-argument one, as in She trudged to work. Comparably, the complex psychosocial semantic situation of (52d), where one agent communicatively directs another to undertake volitional action, is framed syntactically like an event of direct physical causation, such as that in (52b). These syntactic parallelisms that language imposes reflect a conceptual analogy. The component of sentient volition can be treated as if it had no characteristics beyond physical ones. Thus, the contribution of volition in (52d) as an intermediary force-dynamic factor
+
+* An issue that arises here, of course, is how one can use the conceptual models that language provides in thinking about domains with quite different properties. One answer is that we are able to maintain more than one distinct conceptual system side by side and switch as necessary. Thus, an astronomer in an everyday context may well think of the sun as moving across the sky, but can switch to thinking of the earth’s rotation when the first model will lead to inconsistency (example from Edwin Hutchins).
+
+FORCE DYNAMICS
+
+95
+
+can be conceptually backgrounded, so that the Patient is regarded as propelled forth much as if physically moved.
+Another feature of the linguistic model of psychology is that the self can be divided into separate components. We earlier saw this feature for cases involving force opposition, but other forms also occur. Thus, as contrasted with (53a), which represents the self as a unitary entity, in (53b) the self is conceptualized as encompassing two parts, one acting as if in the role of host and the other as if in the role of guest. These internal roles are introjetted from the two distinct social roles of the dyadic situation normally referred to by serve. (Cf. the discussion of dyadic and monadic ‘personation’ types in Talmy, 1985).
+(53) a. I went and got some dessert from the kitchen. b. I served myself some dessert from the kitchen.
+A further conceptual feature that was seen ascribed to the divisions of the self is that the part with desires is treated as more central and the part opposing those desires as more peripheral. The former is syntactically realized as the reflexive direct object representing Patient status, while the latter is the Agent subject. That is, here is grammaticalization of the conception as to which psychological part does the affecting and which is affected. Consider the parallel between these concepts and Freud’s notions of id and superego. The id is a deep component of the self which includes basic desires, the superego arises as an internalization of socially derived values, and the two are in conflict. These Freudian concepts may in part have arisen as a theorization of concepts already built into the semantic organization of language, as well as perhaps into everyday mental models.
+Further conceptualizations of the psyche seen built into language are the following. (a) One of the basic states that the psyche can enter is that of repose, which then must be overcome for effort to be exerted. (b) A sentient entity’s physical self is basically inert and requires animation by the psyche. To an extent, this is a counter process to physicalization. (c) The function of an internal sense of requirement can be prqjected onto an external entity, which is then conceived as the source of pressure toward some action. (d) And,‘such projection transforms a disparity between two urges within the psyche into a conflict between the self and the outside, leaving the psyche’s interior structure undifferentiated, as a black box. lo
+
+lo Besides physics and psychology, other areas exhibit correspondences between naive and
+
+sophisticated conceptualization. Thus, built into language is a theory of topology, one in many
+
+respects parallel to that in mathematics (‘Talmy, 1987). For example, most closed-class elements
+
+are shape-neutral, as shown by through in (i), and most are magnitude-neutral.
+
+as to both size
+
+and distance, as evidenced by this/that in (ii).
+
+(i) I zig-zagged/ circled rhrough the woods. (ii) T/I$ speck / planet is smallerthan thut one.
+
+96
+
+TALMY
+
+9. FURTHER RESEARCH
+
+In a way, it is remarkable that the semantic category of FD escaped notice until the present line of work, given the attention to concepts of force outside linguistics and their pervasiveness within language. Once recognized, however, it is widely evident, and in fact must be acknowledged as one of the preeminent conceptual organizing categories in language. Thus, we have seen here that the linguistic force-dynamic system operates in a common way over the physical, psychological, social, inferential, discourse, and mentalmodel domains of reference and conception. As a system, FD warrants much additional investigation, and I suggest now several lines of further research.
+While a number of parameters of the FD system have been presented during the exposition, still further distinctions appear to play a role. In (54) are summarized many of the distinctions we noted, and the final three name additional possibilities. The first of these, (54p), pertains to whether a forceexerting entity is spatially localized or distributed. While localized cases dominated in the examples, the ‘stiff grass’ of (3~) is an Antagonist manifesting its force effect distributively. The next parameter, (54q), contrasts the uniform exertion of a force with an exertion gradient. One form of gradient is the ‘rubber band’ type, in which the further an Agonist or Antagonist is pushed from its home position, the greater its resistance or force toward return. And parameter (54r) distinguishes the predominant pushing form of force exertion, the only type considered in this paper, from the pulling form, which is evident in locutions like attract. It is clear that additional work on linguistic FD will yield still further parameters, as well as an amplified system within which the parameters interrelate.
+
+(54) A force (or force-bearing object) is-
+
+a. present
+b. focal c. stronger d. toward action e. action-yielding f. steady-state g. bias-maintaining
+h. impinging i. foregrounded
+j . generic s
+k. abiding 1. physical
+
+absent
+peripheral weaker toward rest rest-yielding shifting bias-switching
+non-impinging backgrounded
+particularized
+contingent psychological
+
+-i.e., a force dynamic vs. a neutral situation
+-i.e., Agonist vs Antagonist -i.e., realized or overcome in its tendency in the resultant
+in the Agonist’s and Antagonist’s relative strengths
+-as expressedby alternative constructions
+-as expressedby specific constructions
+
+FORCE DYNAMICS
+
+97
+
+m. in a different object from
+its opposite n. same-domain 0. simplex p. localized q. uniform
+r. pushing
+
+in the same object with its opposite
+cross-domain concatenated distributed gradient pulling
+
+-as for the divided self in relation to its opposition
+
+Another line of research concerns the constraints that limit the linguistic force-dynamic system. The preceding parameters outline the system’s degrees of freedom, but we can identify a number of options that the system does not exhibit, or exhibits only minimally, as indicated in (55).
+
+(55) As encoded in language, force interactions preponderantly or exclusively involve:
+a) two forces -not one, and not three or more
+b) two forces opposing each other 180” head on -not coming at each other at some other angle so as to yield a resultant off in a new direction
+c) two forces opposing each other -not acting in concert in the same direction (in-concert forms like buttress/urge on/moreover are few)
+d) a stronger force overcoming a weaker one -not two equal forces in balance against each other
+e) a force acting along a straight line -not along a curved line
+f) a force acting straightforwardly along a line -not concentrically outward or inward (There do exist closed-classforms able to refer to concentric force, like the Latin verb prefix COR-as in the precursors of English confine/contain, but such are rare.)
+g) a constant force tendency in the Agonist -not one that varies
+h) a two-valued force tendency in the Agonist, toward either action or rest -not one of multiple or continuous value
+i) a two-valued resultant state in the Agonist, either action or rest -not one of multiple or continuous value
+
+We can provide an explanatory account for this pattern of what is included and what is excluded in the linguistic force-dynamic system. The included factors are basically the ones consistent with a particular conceptual prototype of force interaction, that characterized in (56). It is deviations from this prototype that have minimal linguistic representation. The prototype itself, moreover, may turn out to be a significant conceptual template, play-
+
+98
+
+TALMY
+
+ing a role both in cognitive development and in general conceptual organi-
+zation.
+(56) a stronger force opposing a weaker force head on, with all-or-none conditions
+An additional line of research involves further explication of how the force-dynamic system relates to other semantic categories in language. Some progress has already been made here. I have so far identified in language four broad ‘imaging systems’ for organizing a referent scene, each to some extent independent of the others. The first imaging system is that of ‘structural schematization,’ by which certain sentence elements specify for a scene a particular spatial and temporal structure (see Talmy, 1983). The second imaging system is ‘perspective point deployment’: given the specification of a structural framework for a scene, linguistic elements can direct that one imagistically view this framework from a particular perspective point, one that is fixed at a certain location or moving in a particular way over time. The third imaging system is.‘distribution of attention’: given a structured schema viewed from a particular vantage point, linguistic expression can specify that one direct greatest attention to a particular selection of elements within the configuration. (See Talmy, 1987, for the second and third systems.) And, finally, FD is the fourth imaging system: to the preceding basically pictorial complex, one now adds the forces that the elements of the structural framework exert on each other. While the first three systems relate most directly to our system of visual perception, FD relates most to the kinesthetic system. For this reason, in fact, the addition of force-dynamic considerations to many research agendas can serve to counterbalance a general bias toward the use of vision-based models in theoretical formulations. The linguistic task that remains here is to integrate these four imaging systems, together with other structuring systems, into a unified account of conceptual structure in language.
+Finally, we will need to explore further the relationships between the conceptual structuring in language and that in other cognitive domains. We have here seen how FD pertains to this issue. The conceptualizations in language of physical and mental force interaction can correspond closely to the commonsense concepts of physical and psychological properties in our mentalmodel domain. Further structural parallels between language and other cognitive domains can be cited. Both Talmy (1987) and Jackendoff (1987) describe correspondences, as well as differences, between the structuring in linguistic imaging systems and that in visual perception. Language, further, incorporates a system that pertains to reasoning, not only in epistemic forms, but also in evidential forms, which grammatically mark such distinctions as ‘known as fact,’ ‘inferred, ’ ‘deduced,’ and ‘considered probable,’ a system that appears to parallel much in our general cognitive domain of reasoning.
+
+FORCE DYNAMICS
+
+99
+
+And the linguistic system,of discourse functions for marking such distinctions as ‘given, ’ ‘new,’ and ‘in focus,’ seem to parallel much in the system of ‘orienting responses’ described in psychology, which includes such comparable factors as ‘familiar,’ ‘surprising,’ and ‘in directed attention.’ On the basis of observations like these, it appears that there may be a fundamental core of conceptual structure that is common across cognitive domains, though each domain will have features of structure not shared by others. The long-range goal, therefore, toward which the present study is intended to contribute, is the determination of the overall character of conceptual structure in human cognition-a goal requiring a cooperative venture among the cognitive disciplines.
+
+n Original Submission Date: January 28, 1987.
+
+REFERENCES
+
+diSessa, A. (1986). Knowledge in pieces. In Cl. Forman & P. Pufal (Eds.), Constructivism in
+
+the computer age. Hillsdale, NJ: Erlbaum.
+
+Fillmore, C. (1977). Topics in lexical semantics. In R. Cole (Ed.), Current issues in linguistic
+
+theory. Indiana University Press.
+
+Fillmore, C. (1982). Frame semantics. In Linguistics in the morning calm. Linguistic Society of
+
+Korea. Seoul: Hanshin Publishing Co.
+
+Gee, J., & Kegl, J. (1982, February). Semantic perspicuity and the locative hypothesis. In Proceedings of the Eighth Annual Meeting of the Berkeley Linguistic Society. University of
+
+California, Berkeley.
+
+Gentner, D., & Stevens, A. (Eds.). (1982). Mental models. Hillsdale, NJ: Erlbaum.
+
+Hayes, P. (1985). Second naive physics manifesto. In J. Hobbs & R. Moore.
+
+Heider, F. (1958). The psychology of interpersonal relations. New York: Wiley.
+
+Herskovits, A. (1986). Language and spatial cognition: An interdisciplinary
+
+study of the
+
+prepositions in English. London: Cambridge University Press.
+
+Hobbs, J., & Moore, R. (Eds.). (1985). Formal theories of the commonsense world. Norwood,
+
+NJ: Ablex.
+
+Jackendoff, R. (1976). Toward an explanatory semantic representation. Linguislic Inquiry, 7,
+
+89-150.
+
+Jackendoff, R. (1983). Semantics and cognition. Cambridge, MA: MIT Press.
+
+Jackendoff R. (1987). On Beyond Zebra: The relation of linguistic and visual information. In
+
+Cognition, 26, 89-l 14.
+
+Lakoff, G. (1987). Women, fire, and dangerous things: What categories reveal about the mind.
+
+Chicago: University of Chicago Press.
+
+Langacker, R.W. (1986). An introduction to cognitive grammar. Cognitive Science, IO, l-40.
+
+Langacker, R.W. (1987). Foundations of cognitive grammar, vol. I: Theoretical prerequisites.
+
+Stanford, CA: Stanford University Press.
+
+McCawley, J. (1968). Lexical insertion in a transformational grammar without deep structure.
+
+In Papers from the 4th Regional Meeting of the Chicago Linguistic Society. University
+
+of Chicago, Chicago.
+
+Shibatani, M. (1973). A linguistic study of causative construcfions.
+
+Doctoral dissertation.
+
+University of California, Berkeley.
+
+100
+
+TALMY
+
+Sweetser, E. (1982, February). A proposal for uniting deontic and epistemic modals. In Pro-
+
+ceedings of the Eighth Annual Meeting of the Berkeley Linguistics Society. University
+
+of California, Berkeley.
+
+Sweetser, E. (1984). Semantic structure and semantic change: A cognitive linguistic study of
+
+modality, perception, speech acts, and logical relations. Doctoral dissertation, Univer-
+
+sity of California, Berkeley.
+
+Talmy, L. (1972). Semantic structures in English and Atsugebvi. Doctoral dissertation, Univer-
+
+sity of California, Berkeley.
+
+Talmy, L. (1975). Semantics and syntax of motion. In J. Kimball (Ed.), Syntaxandsemantics,
+
+4. New York: Academic.
+
+Talmy, L. (1976). Semantic causative types. In M. Shibatani (Ed.), Syntax and semantics, 6.
+
+New York: Academic.
+
+Talmy, L. (1978a). Figure and ground in complex sentences. In J. Greenberg (Ed.), Universals
+
+of human language: Syntax (Vol. 4). Stanford, CA: Stanford University Press.
+
+Talmy, L. (1978b). Relations between subordination and coordination. In J. Greenberg (Ed.),
+
+Universals of human language: Syntax (Vol. 4). Stanford, CA: Stanford University
+
+Press.
+
+Talmy, L. (1978c). The relation of grammar to cognition-A synopsis. In D. Waltz (Ed.),
+
+Proceedings of TINLAP-
+
+(Theoretical Issues in Natural Language Processing). Asso-
+
+ciation for Computing Machinery, New York.
+
+Talmy, L. (1981, May). Force dynamics. Paper presented at conference on Language and
+
+Mental Imagery, University of California, Berkeley.
+
+Talmy. L. (1983). How language structures space. In H. Pick & L. Acredolo (Eds.), Spatial
+
+orientation: Theory, research, and application. New York: Plenum.
+
+Talmy, L. (1985). Lexicalization patterns: Semantic structure in lexical forms. In T. Shopen
+
+(Ed.), Language typology and syntactic description, Vol. 3: Grammatical categories and
+
+the lexicon. Cambridge, Cambridge University Press.
+
+Talmy, L. (1987). The relation of grammar to cognition. In B. Rudzka-Ostyn (Ed.), Topics in
+
+cognitive lingustics. Amsterdam, Philadelphia: John Benjamins Publishing.
+
+Whorf, B.L. (1941). Languages and logic. In J.B. Carroll (Ed.), Language, thought, and
+
+reality. Cambridge, MA: Technology Press of MIT.
+
+Whorf, B.L. (1956). Language, thought, and reality. J.B. Carroll (Ed.), Cambridge, MA:
+
+Technology Press of MIT.
+
