@@ -1,0 +1,497 @@
+Cognitive Linguistics 2019; 30(3): 499–529
+
+Kobie van Krieken* and José Sanders
+Smoothly moving through Mental Spaces: Linguistic patterns of viewpoint transfer in news narratives
+https://doi.org/10.1515/cog-2018-0063 Received 1 June 2018; revised 18 December 2018; accepted 20 December 2018
+Abstract: This article presents a Mental Space model for analyzing linguistic patterns in news narratives. The model was applied in a corpus study categorizing various linguistic markers of viewpoint transfers between the mental spaces that readers must conceptualize while processing news narratives: a Reality Space representing the journalist and reader’s projected here-and-now viewpoint; a News Narrative Space representing the newsworthy events from a there-and-then viewpoint; and an Intermediate Space representing the information of the news actors provided from a temporal viewpoint in-between the newsworthy events and the present. Viewpoint transfers and their markers were examined in a corpus of 100 Dutch crime news narratives published over a period of fifty years. The results reveal clear patterns, which indicate that both linguistic structures and narrative-based as well as genre-based inferences play a role in the processing of news narratives. The results furthermore clarify how these narratives have been gradually crystallizing into a genre over the past decades. These findings elucidate the complex yet fluent process of conceptually moving between mental spaces, thus advancing our understanding of the relation between the linguistic and the cognitive representation of narrative discourse.
+Keywords: viewpoint, mental spaces, news narrative, tense, temporal adverbs
+
+1 Introduction
+A considerable proportion of human communication takes place in narrative formats (Bruner 1991). Not only fictional stories, but also personal tales and news reports typically take on a narrative form with one or more characters
+
+*Corresponding author: Kobie van Krieken, Centre for Language Studies, Radboud University, Nijmegen, Netherlands, E-mail: k.vankrieken@let.ru.nl José Sanders, Centre for Language Studies, Radboud University, Nijmegen, Netherlands, E-mail: j.sanders@let.ru.nl
+
+Open Access. © 2019 van Krieken and Sanders, published by De Gruyter. licensed under the Creative Commons Attribution 4.0 Public License.
+
+This work is
+
+500
+
+Kobie van Krieken and José Sanders
+
+moving through time and space while experiencing one or more events. Processing such narratives requires readers to construct a mental model of the story world in which these aspects – characters, time, space, events – are represented (Zwaan and Radvansky 1998). This model can be conceptualized as a network of mental spaces “through which we move as discourse unfolds” (Sweetser and Fauconnier 1996: 11). A mental space is understood as a conceptual domain with unique coordinates in terms of both time and space as well as subjective viewpoint, which anchor the validity of the represented information to that specific domain (Sanders and Redeker 1996). Mental space networks typically consist of multiple interconnected spaces, each filled with information that is bound to a specific subject and that may therefore be hypothetical, counterfactual, or contrastive with information anchored in other spaces; all spaces are at least related to each other by their connection to the “ground” of commonly shared knowledge about the world and the discourse context (Sweetser and Fauconnier 1996; Oakley and Coulson 2008).
+In processing narrative discourse, linguistic cues guide readers through the network of spaces by opening up, embedding, and blending mental spaces. Different spaces can be salient at different points in the narrative (Sanders and Redeker 1996). Furthermore, transfers from one space to another occur frequently such that the narration typically proceeds through multiple viewpoints which may differ from one another in their spatiotemporal position (Sanders 2010). The mental representation of narratives thus involves a dynamic representation of time, space and viewpoint. Keeping track of the continuously evolving network is a highly complex process that, despite the cognitive load it demands, seems to progress remarkably effortlessly. Relevant questions are therefore how this process is guided by linguistic structures and how inferences might play a role. In other words: to what extent can readers rely on genrespecific linguistic patterns and to what extent do they rely on inferences that help interpreting these patterns through activation of schematic knowledge about the characteristics of the genre (i.e. genre scripts, see Zwaan 1994)?
+The present study aims to answer these questions by means of a large-scale analysis of one particular genre, that is, news narratives, in particular journalistic reports on criminal acts. Such news reports both narrate past events and represent current situations in order to fulfill a combination of communicative functions (Sanders 2010; Van Krieken et al. 2016): informing, engaging, and convincing the audience. In doing so, they typically construct a complex network of spaces, which makes it a well-suited genre for the purpose of this study. Moreover, the news narrative genre has a rich history, dating back to the early days of print journalism, with relatively stable stylistic characteristics throughout (Dingemanse and De Graaf 2011; Hartsock 2000) that are likely translated
+
+Smoothly moving through mental spaces
+
+501
+
+into genre scripts. As a result, both linguistic cues and inferences might facilitate readers’ processing of news narratives.
+To address both of these factors, the present study performs a diachronic analysis of news narratives published over a period of fifty years. This enables an assessment of the extent to which the various spaces in the network are connected by linguistic elements and possible changes therein, thus revealing the roles played by inferences and linguistic encoding in representing the mental space network of news narratives and developments in the genre over time. The study contributes to research on the theory of mental spaces (Fauconnier 1985; Sweetser and Fauconnier 1996) and its application to written discourse (see, e.g. the volumes edited by Oakley and Hougaard 2008; Dancygier et al. 2012) by (1) developing an analytical model and procedure suitable for qualitative as well as quantitative cognitive linguistic investigations of texts at the discourse level and (2) advancing our understanding of the linguistic and cognitive representation of narratives.
+
+1.1 Mental Space model of news narratives
+Research on narrative discourse has produced various frameworks within which such discourse can be analyzed and interpreted. For example, narratology frameworks focus on the structural and stylistic features of narratives in terms of temporal and spatial organization, modes of perspective, and characterization, with the aim to understand how these structures and styles contribute to the narrative’s meaning (e.g. Genette 1980). Cognitive linguistic frameworks, on the other hand, establish connections between the linguistic features and the cognitive representation of narrative discourse with the aim to understand how meaning emerges in the mind during reading (e.g. Emmott 1997; Herman 2009). Frameworks in this domain depart from the assumption that readers build mental models of texts that are continuously updated to integrate new information (e.g. Zwaan et al. 1995; Zwaan and Radvansky 1998). Mental Space Theory offers both predictions and explanations about the nature of this integration by presuming that a mental model consists of a collection of mental spaces that are connected to one another through processes of embedding and blending. These processes are not restricted to the understanding of narrative discourse but are general and pervasive processes involved in language and cognition (Fauconnier 1985; Fauconnier and Turner 2002; but see for example De Mendoza Ibáñez 1998 for an alternative view). For example, linguistic phenomena such as metaphors, analogies and frames are often explained as blends between two or more mental spaces; the conceptual integration of spaces is the
+
+502
+
+Kobie van Krieken and José Sanders
+
+cognitive process through which these phenomena acquire meaning in a particular context (Coulson and Van Petten 2002; Coulson and Oakley 2005; Fauconnier and Turner 2002).
+Applying the basic notions of Mental Space Theory to the analysis of narrative discourse is helpful in understanding how language shapes readers’ cognitive representation of stories (e.g. Dancygier 2012). Applied to the specific genre of news narratives, this approach leads to insights into the relation between the communicative functions of narratives and their mental space structures as well as developments in these structures over historical time (Van Krieken and Sanders 2016; Sanders and Van Krieken 2019). Building on this line of research, the present study adopts a mental space approach to further elucidate the relation between the linguistic and cognitive representation of narrative discourse, focusing on news narratives as a developing genre.
+The genre of news narratives is a hybrid genre that combines journalistic conventions with characteristics of literary fiction, including point-of-view techniques and vivid details, with the goal of informing as well as engaging the audience (Van Krieken in press). News narratives thus differ from straight news reports in style as well as communicative function, and they differ from fictional narratives in that they report on events that are both factual and newsworthy instead of imaginary. Consequently, news narratives share a unique construal of multiple distinctive spaces, even though not each space needs to be made salient in each news narrative (Van Krieken and Sanders 2016; Sanders and Van Krieken 2019). Each space hosts a number of latent viewpoints that can be selected as the (temporary) vantage point of narration. This selection determines the construal of the narrated events and scenes, i.e.: a single scene can be viewed from different perspectives, with each perspective providing a different view with possibly a different scope over the scene (Verhagen 2007; Langacker 2008). For example, a scene can be narrated from a viewpoint that is spatiotemporally close to the scene, producing a somewhat restricted view, or from a retrospective viewpoint, producing a larger view on the scene. This distinction can be clarified by comparing it to the distinction between watching a skyscraper from up close, resulting in a restricted view that captures only part of the building, and watching it from a helicopter, resulting in a view that captures the entire length of the building and possibly multiple sides of it. An example is provided in Excerpt 1 which is the first part of a Dutch news narrative on a double murder case, published in 1997.1
+
+1 Translation by authors. All original excerpts in Dutch are provided in the Appendix.
+
+Smoothly moving through mental spaces
+
+503
+
+(1) a) On Monday the Public Prosecution Service in Haarlem has demanded 10 years in prison and hospital detention for the man who murdered his wife and daughter in Hoofddorp last February, 41-year-old financial accountant Arie B. b) According to a psychiatric report, the man has committed the double murder out of separation anxiety. c) A week before the family drama, B. was fired by the clothing company Berghaus. d) The accountant had transferred almost one hundred and twenty thousand guilders from the firm to his own bank account. e) The man kept his dismissal secret from his wife, out of fear that she would leave him together with their two daughters. f) “I let the four of us prevail over what was hanging over me,” B. said yesterday to court president J. Van der Pijl-Van Andel. (De Volkskrant, June 24, 1997)
+In this excerpt, sentence (1c) describes the events leading to the double murder from up close, while sentences (1d)–(1e) put them in a broad perspective that encompasses a greater length of time; sentence (1f), finally, reflects retrospectively on the same events from the inner perspective of the murderer. Scenes and events in news narratives can thus be narrated from a variety of viewpoints. These viewpoints can be conceptualized as a network of mental spaces, with each viewpoint anchored to one of three distinctive host spaces: The Reality Space, Intermediate Space, and News Narrative Space (Sanders and Van Krieken 2019).
+The Reality Space represents the conceptual domain of narrator (here: journalist) and addressee (here: reader), where their viewpoints in the present are located and which is most closely connected to the ground, i.e. the shared knowledge about the world and the discourse context (see Langacker 1987: 126). The Reality Space thus designates the here-and-now of the news publication date and is as such the projected starting point of the narration (rather than, as would be the case in an interactive narrative, the communicative situation itself). Within this space, a News Narrative Space is embedded representing the newsworthy events there-and-then – a crime, an accident, or another deviance – as well as the viewpoints of the news actors2 at the time these events took place. Since the news narrator (journalist) has neither witnessed nor fabricated these events, they are reconstructed. The ground for this reconstruction is anchored in an Intermediate Space, which represents the viewpoints of the news actors at a time in-between the newsworthy events and the present and the information provided by them as retrieved or overheard by the journalist, for instance at a
+2 With news actors we indicate the persons who were involved in the news events and who are the main sources of the information about these events in the news narrative text.
+
+504
+
+Kobie van Krieken and José Sanders
+
+press conference or court hearing, and reported from that viewpoint (Mushin 2000). As the embedding of spaces is a recursive and potentially infinite process, the News Narrative Space and Intermediate Space may – and typically do – host one or more subspaces, each of which may in turn serve as a host of newly embedded spaces (Van Krieken et al. 2016). This is specifically true for news narratives on crime cases, where knowledge of one actor is most often hidden for others and events are most often unexpected and therefore not directly witnessed by the narrator. Figure 1 shows how the distinguished spaces are nested into a network.
+
+Figure 1: Mental space model of narrative news discourse.
+The three main spaces collaboratively fulfil the communicative functions of news narratives: the Reality Space represents narrative information that informs the reader about the current state of affairs; the News Narrative Space represents the reconstruction of events and situations that engages the reader; and the Intermediate Space convinces the reader about the truthfulness of the narrative reconstruction, for quoting from communicative events legitimizes the narrative reconstruction of the newsworthy events in two ways. First, such quotes demonstrate the truthfulness of the narrative reconstruction and, second, their dramatic effect underscores the narrative’s tellability (Sanders and Van Krieken 2018, Sanders and Van Krieken 2019; for demonstrative function see Clark and Gerrig 1990, for tellability see Labov and Waletzky 1967). Figure 1 also depicts that, together, the News Narrative Space and the Intermediate Space represent the actual “Narrative Space” in the news narrative; representing the news events
+
+Smoothly moving through mental spaces
+
+505
+
+requires readers to project their deictic center (depicted by a visor) along with the news character’s viewpoint through narrative time and continuously shift it along with the alternating salience of the different mental spaces (Sanders and Van Krieken 2019).
+Narrative information is typically distributed across the various spaces so as to achieve the combination of communicative functions. Processing news narratives thus requires readers to move back and forth between these spaces. Previous research has identified a number of linguistic markers that may signal a viewpoint transfer from one space to another and that can therefore be thought of as guiding readers’ cognitive representation of news narratives (Sanders 2010; Van Krieken et al. 2016). These markers include tense shifts, adverbs, and speech and thought reports (Van Krieken et al. 2017). However, the on-line construction of meaning making relies on a combination of linguistic and contextual cues; hence, paths across mental spaces do not always have to be overtly encoded in language for readers to move along these paths (e.g. Fauconnier 1998; Coulson and Oakley 2000).
+Excerpt 1 (above) serves to illustrate how linguistic markers signal viewpoint shifts between the Reality Space, News Narrative Space, and Intermediate Space, as depicted in Figure 2.
+
+Narrative Space
+
+News Narrative Space
+
+Intermediate Space
+
+c, d, e
+
+f
+
+Reality Space
+a, b
+
+time line
+Figure 2: Mental space representation of sentences (a)–(f) of Excerpt 1.
+In the present reality of this news narrative, the central character is being prosecuted for murdering his wife and one of his daughters. Sentences (1a) and (1b) represent the situation relevant here-and-now: his prosecution and the explanation for his deed. The viewpoint of these sentences is anchored in the
+
+506
+
+Kobie van Krieken and José Sanders
+
+Reality Space. Sentences (1c)–(1e) take a step back in time, which is signaled by a temporal indication (A week before the family drama) and a tense switch (from present perfect to simple past), narrating the events that took place preceding the murder for which he is now prosecuted; note that, obviously, the journalist was not present during these events and reconstructs them. The viewpoint of these sentences is anchored in the News Narrative Space.
+Sentence (1f) represents what explanation the character offers for his deed, directly quoted by the journalist. Typical for the news genre, a direct quotation presupposes that the quoted text has been uttered literally by the speaker and was witnessed and noted exactly by the journalist (Craig 2006). Thus, the quote requires the reader to presume that after the news events (murder) and before the present (prosecution) – and indeed, as indicated by the text, yesterday – a communicative event took place in which the journalist heard the character speak about the newsworthy events, and on which the narration of news events can be based. In other words, the direct speech report and the temporal indication (yesterday) signal a transfer to the Intermediate Space, guiding readers into making a cognitive leap forwards in time to a point at which the newsworthy events are construed and explained from a retrospective viewpoint.
+Crucially, viewpoints can also be anchored in blends of two or more Spaces. Blends emerge out of specific linguistic choices and contribute significantly to readers’ representation of narrative discourse (Oakley 1998). An example is provided in Excerpt 2.
+(2) Already at about seven o’clock the student from Bemmel must have caught her in a strangling grip. (Nieuwsblad van het Noorden, April 27, 1971)
+Excerpt 2 combines information positioned at a point in time in the News Narrative Space (Already at about seven o’clock the student from Bemmel), a reference to an implicit speech act represented from the Intermediate Space (must), and a description of the crime represented from the here-and-now viewpoint in the Reality Space (have caught her in a strangling grip). Conceptualizing the resulting blend presumes keeping all three Spaces active or salient at the same time and representing the intertwined “voices” of news source, judicial authority, and journalist (Sanders 2010).
+
+1.2 Research questions
+Summarizing previous research, various linguistic cues may signal transfers from one space to another, thereby guiding readers’ mental representation of news
+
+Smoothly moving through mental spaces
+
+507
+
+narratives. The present study builds on this research by examining possible patterns in these signals in order to advance our understanding of the relation between the linguistic and the cognitive representation of narrative discourse. By providing a quantitative assessment of the extent to which the language of news narratives shows patterns in the cues that mark transfers between spaces, this study aims to contribute to the existing literature on mental space structures of narratives (e.g. Borkent 2017; Dancygier 2012; Irandoust 1999). Moreover, it strives to elucidate the role of inferences in the mental representation of narrative spaces by examining, first, the possibility that transfers from and to spaces may not be linguistically encoded and, second, possible diachronic developments in the linguistic encoding of shifts between spaces. Following up on Vis et al. (2012), who found that the proportion of direct quotes in news texts is increasing, a relevant question is whether the function of linguistic markers could also be changing over time; another possibility is that space networking is more stable, which would imply that space shifts do not necessarily have to be linguistically encoded because readers can process such shifts by drawing inferences based on their genre scripts. To examine these possibilities, the following research questions have been formulated:
+RQ1 To what extent are viewpoint transfers between the Reality Space, News Narrative Space, and Intermediate Space marked in the language of news narratives?
+RQ2 To what extent does the language of news narratives show patterns in the type of linguistic elements that mark viewpoint transfers between the various spaces?
+RQ3 To what extent has the linguistic marking of viewpoint transfers between the various spaces changed between 1960 and 2009?
+To answer these questions, a diachronic corpus analysis is conducted of which the details are described next.
+
+2 Method
+2.1 Materials
+The corpus narratives were part of a larger corpus of Dutch crime news narratives that has previously been assembled and analyzed on modes of speech and thought representation (Van Krieken and Sanders 2016). In its construction, the digital archives Delpher and LexisNexis were searched using murder (Dutch: moord) and murdered (Dutch: vermoord) as keys. For each decade, the first
+
+508
+
+Kobie van Krieken and José Sanders
+
+twenty narratives were included in the corpus that met the criteria of (1) describing a murder, murder attempt, or a corpse discovery and (2) providing, in a mainly chronological structure, descriptive details about the events that imply a narrative reconstruction rather than a straight report of the events. For the present study, the 100 most recent narratives were selected from this corpus. These narratives were all published between 1960 and 2009 in a total of 11 different Dutch newspapers, including national as well as local newspapers. The number of words varied from 109 to 2733 (M = 560) per narrative.
+
+2.2 Analytical procedure
+The corpus was divided into sentences (N = 3,933) and subsequently analyzed by two independent coders. The analysis followed a two-step procedure. First, for each sentence it was determined in which space the narrative information was anchored: (a) News Narrative Space (NNS); (b) Intermediate Space (IS); (c) Reality Space (RS); (d) a blend between two or more of the aforementioned Spaces.
+A sentence was coded as anchored in the (a) News Narrative Space if it presumed a viewpoint from a situation or event that was part of the reconstruction of the crime. A sentence was coded as anchored in the (b) Intermediate Space if it presumed a viewpoint from an event subsequent to the crime, in which the crime itself is commented upon, such as a court hearing or a press conference. A sentence was coded as anchored in the (c) Reality Space if it presumed a viewpoint from either a summarized current state of affairs or a description of upcoming events, such as a court hearing, investigation, or verdict scheduled in the near future. Finally, a sentence was coded as anchored in (d) a blended space if it presumed a viewpoint from a combination of information, events and/or speech acts belonging to distinct Spaces. The intercoder reliability for this variable was excellent (ĸ = 0.88). Disagreements were resolved upon discussion prior to the second step of the analysis.
+In the second step, all sentences marking a viewpoint transfer from one space to another space were identified (N = 648). Subsequently, these sentences were analyzed on the presence and type of linguistic element signaling the shift. The categories were based on previous studies that have identified various space shift markers (Sanders 2010; Sanders and Van Krieken 2019; Van Krieken et al. 2016). A viewpoint transfer could be coded, first, as marked by (a) a temporal adverb or tense shift. Temporal adverbs and tense shifts were grouped into one category because both typically signal a temporal transfer, i.e. a transfer in narrative time to a space preceding or following the currently profiled space (Sanders and Van Krieken 2019). Second, a viewpoint transfer could be coded as
+
+Smoothly moving through mental spaces
+
+509
+
+(b) a speech or thought report. This category included the representation of speech or thought in the direct, indirect, and free indirect mode (e.g. Vandelanotte 2004). Third, the category (c) “other element” was distinguished for viewpoint transfers marked by elements that did not belong to categories (a) and (b) but that, dependent on context, may function as space builders (Van Krieken et al. 2016), such as location markers and evidentiality markers. Finally, the category (d) “none” was distinguished for viewpoint transfers between spaces that were not marked by a linguistic element.
+If a sentence displayed multiple markers (e.g. a temporal adverb and a speech or thought report, or a speech or thought report and a location marker), the coding followed a narrative chronology-first hierarchy: if one of the markers was a temporal adverb or tense shift, that code was used (a); in all other instances, the code for speech and thought reports was used (b). The intercoder reliability for this variable was excellent (ĸ = 0.92). Disagreements were resolved upon discussion.
+
+3 Results
+3.1 Descriptive statistics
+The majority of news narratives profiled the News Narrative Space, Intermediate Space, as well as the Reality Space (66%), whereas about a quarter of the narratives profiled the News Narrative Space and Reality Space only (27%). A small percentage of the narratives only profiled the News Narrative Space and the Intermediate Space (6%) and only one narrative profiled only the Intermediate Space and the Reality Space (1%).
+Table 1 shows the distribution of sentences over the various distinguished spaces. The News Narrative Space, Intermediate Space and Reality Space accounted for 98.4% of all sentences; the remaining 1.6% was anchored in a
+
+Table 1: Number and percentage of sentences anchored in the news narrative, intermediate, and reality space.
+
+Space
+News Narrative Space Intermediate Space Reality Space Blended Space Total
+
+N
+ 
+ 
+
+
+%
+.% .% .%
+.% %
+
+510
+
+Kobie van Krieken and José Sanders
+
+blended space. More than half of the sentences were anchored in the News Narrative Space; a third was anchored in the Intermediate Space; and about one eighth was anchored in the Reality Space.
+
+3.2 Analysis
+To examine patterns in the linguistic marking of viewpoint transfers between spaces (RQ1 and RQ2), a chi-squared test was carried out. Transfers from and to a blended space were excluded from this analysis to reduce the number of cells with low to zero counts (N = 27; 4.2% of all shifts); these blended spaces will be discussed below in Section 3.5. All remaining shift combinations, i.e. transfers to and from the News Narrative Space, Intermediate Space, and Reality Space, were included in the analysis (N = 621). The results are shown in Table 2.
+
+Table 2: Linguistic elements marking viewpoint transfers between the news narrative space (NNS), intermediate space (IS), and reality space (RS).
+
+NNS > IS IS > NNS NNS > RS RS > NNS IS > RS RS > IS
+Total
+
+Temp.
+
+Speech
+
+adverb/tense shift /thought report
+
+Other
+
+None
+
+Total
+
+ (.%)a  (.%)a  (.%)a  (.%)a  (.%)a  (.%)a,b
+ (.%)
+
+ (.%)b  (.%)b  (.%)b  (.%)b  (.%)b
+ (.%)c
+ (.%)
+
+ (.%)a,c  (.%)c  (.%)a
+ (.%)a,c  (.%)c  (.%)b,c
+ (.%)
+
+ (.%)c  (.%)d
+ (.%)b  (.%)b,c  (.%)a,b
+ (.%)a
+ (.%)
+
+ (%)  (%)
+ (%)  (%)  (%)  (%)
+ (%)
+
+Note: Different superscripts indicate significant differences between the proportions of linguistic markers signaling the transfers between the various spaces (p < 0.05; Bonferroni correction).
+
+In answer to Research Question 1, Table 2 shows that viewpoint transfers between spaces were linguistically encoded in the vast majority of shifts (86.6%). In 13.4% of all instances, a transfer from one space to another was not linguistically marked. A chi-squared test confirmed that transfers were significantly more often linguistically marked than not marked (χ2(1) = 333.37, p < 0.001).
+Table 2 furthermore shows that the majority of transfers were shifts from the News Narrative Space to the Intermediate Space and vice versa (together 57%). Transfers from the News Narrative Space to the Reality Space and vice versa
+
+Smoothly moving through mental spaces
+
+511
+
+accounted for 28.7% of all shifts. Finally, transfers from the Intermediate Space to the Reality Space and vice versa accounted for 14.3% of all shifts.
+Research Question 2 concerned the type of markers signaling viewpoint transfers between the spaces. A chi-squared test revealed significant differences in the relative use of the various types of markers across the various transfers (χ2(15) = 627.64, p < 0.001). Transfers from the News Narrative Space to the Intermediate Space were significantly more often marked by a speech or thought report than a temporal adverb or tense shift or another linguistic marker (category “other”). In addition, transfers within this category were significantly more often marked by a speech or thought report or a temporal adverb or tense shift than not marked at all.
+By contrast, transfers from the Intermediate Space to the News Narrative Space were significantly more often not marked at all than marked by a speech or thought report, temporal adverb or tense shift, or another linguistic marker (category “other”). This might seem counterintuitive because temporal adverbs and tense shifts accounted for 54.6% of the shifts from the Intermediate Space to the News Narrative Space whereas the category no marking accounted for 44.3% of these shifts. However, this result can be explained by the fact that of the total number of unmarked transfers, a relatively large proportion marked a shift from the Intermediate Space to the News Narrative Space: 92.8%. By contrast, of all temporal adverbs and tense shifts, only 28.5% marked this type of transfer.
+Furthermore, transfers within this category were significantly more often marked by a temporal adverb or tense shift compared to another linguistic marker; and both of these marker types were significantly more often used to signal a transfer from the Intermediate Space to the News Narrative Space than a speech or thought report. Notably, this type of transfer was never marked by a speech or thought report. Figure 3 shows the prototypical marking of transfers between the News Narrative Space and the Intermediate Space.
+As Table 2 shows, transfers from the News Narrative Space to the Reality Space and vice versa were in the vast majority of cases marked by a temporal adverb or tense shift. Specifically, transfers from the News Narrative Space to the Reality Space were significantly more often marked by a temporal adverb or tense shift or another linguistic marker (category “other”) than by a speech or thought report or not marked at all. Transfers from the Reality Space to the News Narrative Space appeared to follow a somewhat similar pattern. These transfers were significantly more often marked by a temporal adverb or tense shift than a speech or thought report or not marked at all. These findings are presented in Figure 4.
+
+512
+
+Kobie van Krieken and José Sanders
+
+Figure 3: Prototypical marking of viewpoint transfers between the news narrative space and the intermediate space.
+Figure 4: Prototypical marking of viewpoint transfers between the news narrative space and the reality space.
+In addition, other linguistic markers (category “other”) were significantly more often used to mark a transfer from the Reality Space to the News Narrative Space than speech or thought reports, but only in four instances in total. Excerpt 3 provides an example. (3) a) The correct circumstances of the case are the following: b) Herman
+Pfeifer is reading (literally: “reads”) the newspaper in the living room. c) No one is home except for his wife. (Limburgsch Dagblad, January 23, 1967)
+
+Smoothly moving through mental spaces
+
+513
+
+Sentence (3a) represents the current state of affairs regarding a murder case and is therefore anchored in the Reality Space. Sentences (3b) and (3c) mark the start of the narrative reconstruction of the murder and are thus anchored in the News Narrative Space. The transfer from the Reality Space to the News Narrative Space is in this case signaled by the full person reference Herman Pfeifer, the victim whose viewpoint can only be represented in the News Narrative Space; the full noun reference demarcates a new time episode (Tomlin 1987: 475).
+Viewpoint transfers from the Intermediate Space to the Reality Space and vice versa occurred relatively infrequently (together 14.3% of all shifts). Shifts from the Intermediate Space to the Reality Space were significantly more often marked by a temporal adverb or tense shift or another linguistic element (category “other”) compared to speech and thought reports that never marked this type of transfer. The category “other” was furthermore significantly more often used than no marker at all or a temporal adverb or tense shift. This might seem counterintuitive because temporal adverbs and tense shifts accounted for 53.5% of the shifts from the Intermediate Space to the Reality Space whereas other linguistic markers accounted for 41.9% of these shifts. However, this result can be explained by the relatively large proportion of other linguistic markers used to mark this type of viewpoint transfer (50% of all occurrences in the category “other”). By contrast, of all temporal adverbs and tense shifts, only 6.9% marked a viewpoint transfer from the Intermediate Space to the Reality Space. Typical “other” markers signaling a transfer from the Intermediate Space to the Reality Space were elliptic references to a verdict date in the near future (e.g. Verdict: February 14).
+Transfers from the Reality Space to the Intermediate Space appeared to follow a different pattern. This type of transfer was significantly more often marked by a speech or thought report than a temporal adverb or tense shift or not marked at all. Figure 5 shows the prototypical marking of transfers between the Reality Space and the Intermediate Space.
+Furthermore, transfers from the Reality Space to the Intermediate Space were more often marked by another linguistic marker (category “other”) than not marked at all, but were limited to four instances in total.
+
+3.3 Diachronic analysis
+Table 3 shows for each of the five decades the number and percentage of sentences anchored in the News Narrative Space, the Intermediate Space, and the Reality Space. As in the synchronous analysis, blended spaces were excluded from the diachronic analysis.
+
+514
+
+Kobie van Krieken and José Sanders
+
+Figure 5: Prototypical marking of viewpoint transfers between the intermediate space and the reality space.
+
+Table 3: Number and percentage of sentences anchored in news narrative space (NNS), intermediate space (IS), and reality space (RS), per decade.
+
+NNS IS RS
+Total
+
+–
+ (.%)  (.%)  (.%)  (%)
+
+–
+ (.%)  (.%)
+ (.%)  (%)
+
+–
+ (.%)  (.%)
+ (.%)  (%)
+
+–
+ (.%)  (.%)  (.%)  (%)
+
+–
+ (.%)  (.%)
+ (.%)  (%)
+
+A multinomial logistic regression analysis was performed to examine whether time predicted in which Space a given sentence was anchored. The News Narrative Space was selected as the reference category. The model was significant (χ2 (2) = 912.45, p < 0.001; R2 = 0.210 (Cox & Snell)). Results indicated that time significantly predicted whether a sentence was anchored in the Intermediate Space (versus the News Narrative Space): B = −0.087, Wald χ2 (1) = 87.22, p < 0.001; Exp. B = 0.916. This means that the odds that a given sentence was anchored in the Intermediate Space (versus the News Narrative Space) decreased with a factor of 0.916 per decade. Time also significantly predicted whether a sentence was anchored in the Reality Space (versus the News Narrative Space): B = −0.382, Wald χ2 (1) = 657.43, p < 0.001; Exp. B = 0.683. This means that the odds that a given sentence was anchored in the Reality Space (versus the News Narrative Space) decreased with a factor of 0.683 per decade. Thus, the results of this analysis suggest that the News
+
+Smoothly moving through mental spaces
+
+515
+
+Narrative Space became more prominent at the expense of the Intermediate Space and the Reality Space.
+Table 4 shows for each decade the number and percentage of transfers between the three spaces.
+
+Table 4: Number and percentage of the various space transfers per decade and ratio of transfers and sentences per decade.
+
+NNS > IS IS > NNS NNS > RS RS > NNS IS > RS RS > IS
+Total
+Ratio transfers/ sentences
+
+– – – – –
+
+ (.%)a  (.%)a  (.%)a  (.%)a
+ (.%)a  (.%)a
+
+ (.%)a,b  (.%)a,b  (.%)a,b  (.%)a,b
+ (.%)a  (.%)a
+
+ (.%)a,b  (.%)a,b  (.%)a,b  (.%)a,b
+ (.%)a  (.%)a
+
+ (.%)b  (.%)a,b
+ (.%)b  (.%)a,b
+ (.%)a  (.%)a
+
+ (.%)b  (.%)b  (.%)b
+ (.%)b  (.%)a  (.%)a
+
+ (%)  (%)  (%)  (%)  (%)
+
+/.
+
+/.
+
+/.
+
+/.
+
+/.
+
+Note: Different superscripts indicate significant differences between the proportions of transfers between the various spaces across the five periods (p < 0.05; Bonferroni correction).
+
+First of all, Table 4 shows that the ratio of transfers and sentences ranged from one transfer between spaces per 5.26 sentences to one transfer between spaces per 8.99 sentences. The ratio of transfers and sentences did not differ significantly between the five decades (χ2(16) = 20.00, p = 0.220), indicating that the number of space transfers in news narratives has remained stable over time. This also confirms that the occurrence of multiple viewpoint transfers is characteristic of the narrative news genre, with the newsworthy events being construed alternatively from viewpoints closer to and viewpoints further away from these events, during reading to be integrated into a coherent and rich representation of the events.
+To answer Research Question 3, two chi-squared tests were performed. The results of the first test revealed significant differences across the decades in the occurrence of the various transfer types (χ2(20) = 61.59, p < 0.001). Transfers from the News Narrative Space to the Intermediate Space occurred relatively less frequently between 1960 and 1969 than between 1990 and 1999 as well as 2000 and 2009. Transfers from the Intermediate Space to the News Narrative Space occurred relatively less frequently between 1960 and 1969 than between 2000 and 2009.
+
+516
+
+Kobie van Krieken and José Sanders
+
+Transfers from the News Narrative Space to the Reality Space occurred relatively more frequently between 1960 and 1969 than between 1990 and 1999 as well as 2000 and 2009. Transfers from the Reality Space to the News Narrative Space occurred relatively more frequently between 1960 and 1969 than between 2000 and 2009. The relative occurrence of transfers from the Intermediate Space to the Reality Space and vice versa did not differ significantly across the periods.
+The second test examined differences across the decades in the type of linguistic markers signaling transfers between spaces. Significant differences were found only for temporal adverbs and tense shifts (χ2(12) = 23.47, p = 0.024). These markers were relatively more frequently used to signal a transfer from one space to another space between 1960 and 1969 and between 1970 and 1979 compared to 1990 and 1999 (p’s < 0.05, Bonferroni correction).
+
+3.4 Unmarked viewpoint transfers
+The results of the quantitative synchronous analysis showed that not all viewpoint transfers between spaces are linguistically marked (Table 2). With very few exceptions (less than 8%), these unmarked transfers were shifts from the Intermediate Space to the News Narrative Space. Excerpt (4) serves to illustrate this phenomenon. This excerpt is part of a news narrative describing the murder of a man (John Nijsten) by his ex-wife (Bep) and her new partner (Roel), published in 1992.
+(4) a) Bep married many years ago with John, who put her away in a sex club in Zwolle. b) Every week she had to pay [her earnings] in Maastricht. c) She divorced him after seven years, but returned to his home after some time, where, later, also Roel moved in. d) However, Nijsten, who initially traded in construction machinery, ran into money problems and decided to return to drug trafficking. e) “Then I, too, was forced to go back to prostitution again,” Bep yesterday said in tears. f) Drugs and money problems caused an almost harmonious family life to end in a drama. g) Van Hilten (i.e. the prime suspect’s lawyer) felt (Dutch: vond, i.e. “was of the opinion”) that the woman, although she did not actually take part in the murder and the cutting into pieces of the corpse, should nevertheless be judged as a co-perpetrator. h) Among other things, Bep reported the disappearance of John. (Limburgsch Dagblad, October 29, 1992)
+In the first sentences of this excerpt (4a)–(4d) the viewpoint is anchored in the News Narrative Space: they describe events and situations leading up the murder.
+
+Smoothly moving through mental spaces
+
+517
+
+Sentence (4e) marks a viewpoint transfer to the Intermediate Space, signaled by the temporal adverb yesterday, that represents a court hearing in which suspect Bep is questioned by lawyer Van Hilten. Through the direct speech representation, Bep becomes the narrator who continues to describe the events that took place in the past. Notably, the subsequent sentence’s viewpoint (4f) is temporally anchored in the News Narrative Space, but this temporal shift from the Intermediate Space to the News Narrative Space is not linguistically marked by a tense shift or temporal adverb or any other signal. By contrast, the subsequent temporal return to the Intermediate Space in sentence (4g) is marked by an indirect (and implicit) speech report (see Sanders and Van Krieken 2019). Then, again, a shift to the time line of the News Narrative Space takes place (4h), but again, there are no linguistic markers signaling this transfer. Yet, these temporal viewpoint shifts apparently do not prohibit an intertwined voice to be audible between the news actor and the journalistic narrator (Sanders 2010).
+Excerpt 4 thus shows two instances of viewpoint shifts from the News Narrative Space to the Intermediate Space that are both linguistically marked and two instances of shifts from the Intermediate Space to the News Narrative Space that are not linguistically marked. In processing the latter, readers thus have to draw the inference that a viewpoint shift has occurred. Such inferences were found to play a role in 47% of the narratives that display one or more shifts from the Intermediate Space to the News Narrative Space (N = 54).
+A closer look at the news narratives with shifts from the Intermediate Space to the News Narrative Space reveals that two types of inferences appear to play a role in processing linguistically unmarked shifts. In two third of these narratives (N = 36), at least one of these shifts was not marked. In 22% of these narratives (N = 8), none of these shifts were linguistically marked. In the remaining 78% cases (N = 28), at least one of the shifts from the Intermediate Space to the News Narrative Space was linguistically marked. In 9 of these narratives (25%), unmarked shifts were never preceded but only followed by linguistically marked shifts. In these instances, readers have to draw inferences at the level of the genre when processing the unmarked shift because the unmarked shift is the first transfer from the Intermediate Space to the News Narrative Space; readers have not (yet) been guided by language in making a shift in this direction. This means that in processing such unmarked shifts, readers can be expected to draw inferences based on their genre scripts that include schematic knowledge about the underlying mental space structure of the genre.
+In 19 narratives (53% of total), at least one linguistically marked shift from the Intermediate Space to the News Narrative Space preceded an unmarked shift of this type. In these instances, readers presumably draw inferences at the level of the narrative when processing the unmarked shift because the transfer from
+
+518
+
+Kobie van Krieken and José Sanders
+
+the Intermediate Space to the News Narrative Space has already been made before, facilitated by a linguistic marker.
+
+3.5 Blended spaces
+The results of the analysis showed that a small percentage (1.6%) of all sentences was anchored in a blended space. Although their occurrence is rare, such blends can provide insight into the flexibility of mental space networks and in the function of space blending. An example is Excerpt 5 of a news text from 1972 about a murder of an elderly lady:
+(5) a) During autopsy, pathologist Dr. Voortman observed strangling traces in the victim’s neck. b) It must have required little to accomplish the small woman’s death. (De Telegraaf, June 26, 1972)
+The second sentence in this excerpt (5b) combines retrospective information positioned at a point in time in the Intermediate Space (It required little), an act which is anchored in the News Narrative Space (to accomplish the death) and an epistemic conclusion (must have; see Sanders and Spooren 1996) combined with a remarkable referential expression for the elderly victim (small woman, in Dutch “vrouwtje”), both subjectively construed in the here-and-now Reality Space. Conceptualizing the latter requires blending the journalistic viewpoint in the present with viewpoints in the other two Spaces at the same time and representing intertwined voices between news source, judicial authority and journalist (Sanders 2010).
+In a similar case, taking up Excerpt 2 (above), a murder case of a young woman is reported in 1971:
+(6) (…) a) Since about one month she lived in a small house on (…) street. b) Already at about seven o’clock the student from Bemmel must have caught her in a strangling grip. c) She did not resist, for [Dutch: “want”] nothing points towards a struggle or a fight. d) Nobody in the house (…) has heard or noticed anything. e) The perpetrator must have spent several hours with the girl’s corpse. f) After he had eaten up two packages of Aspirin, he went upstairs (…) (Nieuwsblad van het Noorden, April 27, 1971)
+Between sentences (6a) and (6b), the viewpoint which is anchored in the News Narrative Space is blended with the journalist’s here-and-now epistemic reasoning in the Reality Space (must have). This blend is prolonged in sentence (6c) by the combination of past tense (did not resist), anchored in the News Narrative
+
+Smoothly moving through mental spaces
+
+519
+
+Space, with the subjective epistemic coherence marker “want” (for) with the present tense, which again points at the journalist’s epistemic reasoning (Sanders et al. 2012). Sentence (6d) seems to represent a negative statement (nobody has heard or noticed anything). The present perfect tense anchors this negative act in the Reality Space, and this is true for sentence (6e), too, where another epistemic modal verb (must have spent) refers to the journalist’s viewpoint again. Finally, in sentence (6f), a viewpoint transfer back to the News Narrative Space is signaled by a temporal adverb and a shift to the past tense (After … he went). In this excerpt, and in fact for this complete news narrative, the Intermediate Space is never marked as such, but blended by implication throughout. Obviously, the journalist could not report what witnesses did not hear, or what must have been the case; hence, the observations and conclusions in sentences (6b)–(6e) are very likely shared with the journalist at a press conference or an interview by police representatives. This example illustrates that the Intermediate Space, and viewpoint transfers to this Space, were less explicit in the earlier decades of the corpus, granting journalistic narrators more opportunity to express their subjective stance in narrative reconstruction and commentary (cf. Vis et al. 2012).
+By contrast, Excerpt 7 illustrates how more recent news narratives typically demarcate the Intermediate Space as a distinct Space and transfer (rather than blend) viewpoints between the Intermediate Space and News Narrative Space, expressed in explicit linguistic marking. In this text from 2009, a school killing spree in Germany is reported.
+(7) a) Hours after the drama with sixteen deaths in the southern German town of Winnenden, Nadja is still trembling. b) The hands of the 14-year old student of the Albertville college are shaking as well. (...) c) Meanwhile K. was shooting out his pistol at his defenseless victims. d) Shooting he had learned as a pupil of the shooting club of his father, according to the police a business man who decently locked his armory, except for a 9 mm firearm. e) This had fatal consequences. f) Nadja’s father is furious. g) “This is the third time in Germany. (...)” h) The man is immediately reminded of the shooting spree in Littleton. i) “No computers and internet enter my home!” j) The locked up class in the chemistry room was released from their suffering by a teacher. (Leeuwarder Courant, March 12, 2009)
+In this excerpt, the Intermediate Space is conceptualized as an exchange domain where the journalist was able to retrieve background information from the police and to interact with, or overhear utterances of, victims/witnesses and their relatives (7a–7b) as a basis to reconstruct the events in the News Narrative Space (7c).
+
+520
+
+Kobie van Krieken and José Sanders
+
+Sentence (7d) demarcates the Intermediate Space by a source indicator (according to the police). In sentence (7e), the past tense (had fatal consequences) signals a transfer back to the News Narrative Space. In sentence (7f), the present tense transfers the viewpoint to the Intermediate Space (Nadia’s father is furious). The narration continues from this space by means of (7g) a direct quote (“This is the third time”), and this pattern of present tense and direct quote is repeated in sentence (7h)–(7i). The Intermediate Space is left in sentence (7j) when the simple past signals a transfer back to the News Narrative Space (was released).
+This more recent example shows a sharply profiled Intermediate Space, with several movements in and out. It also illustrates how transfers between the News Narrative Space and the Intermediate Space are highly dominant over other transfers in the most recent news texts (cf. Table 4): about two third of all transfers are between these two Spaces, which points out that the importance of underpinning of the news narrative in terms of trustworthiness and tellability has increased.
+
+4 Conclusion and discussion
+The aim of this study was to elucidate the cognitively complex yet seemingly effortless processing of narrative discourse by examining patterns in linguistic structures. To that end, a corpus of news narratives was examined on transfers between three spaces that readers have to mentally represent while processing these narratives (Van Krieken et al. 2016): the Reality Space, representing the here-and-now viewpoints of reader and journalist, the News Narrative Space, representing the there-and-then viewpoints of the news actors at the time of the newsworthy events, and the Intermediate Space, representing events and news actors’ viewpoints in-between the newsworthy events and the present. The results of this study show, first, that viewpoint transfers between these spaces are more often than not linguistically marked and, second, that this marking shows clear patterns.
+The patterns that emerged from the analysis indicate that there are linguistic markers associated with particular transfers between spaces but not with others. This finding supports the idea, most notably expressed in constructionist research on language, that genres can be considered frames at the discourse level which restrict the appropriateness of certain linguistic phenomena and modify their interpretation (e.g. Östman 2005). It also aligns with the more general understanding that genre and language interact in establishing meaning (e.g. Nikiforidou 2016). Regarding the genre of news narratives, the present study found that shifts from
+
+Smoothly moving through mental spaces
+
+521
+
+the Reality Space to the News Narrative Space and vice versa are in the vast majority of cases marked by a temporal adverb or tense shift. By contrast, the Intermediate Space shows asymmetries in its patterns: in conformity with its pragmatic function, entering this Space is most often demarcated by speech and thought reports, whereas moving out of this Space into the other two Spaces is more often temporally demarcated. Interestingly, transfers from the Intermediate Space to the News Narrative Space are often not marked at all.
+In the absence of linguistic elements marking a shift from one space to another, readers have to draw inferences in processing the narrative. The results of the current study indicate that inferences at two different levels seem to play a role: inferences at the level of the narrative and inferences at the level of the genre. Narrative-based inferences play a role when processing an unmarked shift is facilitated by the presence of a marked shift preceding the unmarked shift, whereas genre-based inferences play a role when processing an unmarked shift that is not preceded by a marked shift and when processing a narrative displaying only unmarked shifts. These implications are in line with the understanding that online constructions of meaning rely in part on contextual cues and need not always be marked linguistically (Fauconnier 1998; Coulson and Oakley 2000).
+Noteworthy in this respect is that the absence of a marker is common for viewpoint transfers from the Intermediate Space to the News Narrative Space but extremely rare or even impossible in all other transfers. This finding can be explained by the presumption that in news reports, the News Narrative Space is the default space of narration and that the Intermediate Space is, so to speak, supportive of this default Space. As a consequence, readers might be able and perhaps even inclined to drift back into the News Narrative Space without linguistic assistance. This explanation is supported by the finding that the majority of all viewpoint transfers are shifts between these two spaces. Moreover, the diachronic analysis revealed that whereas the number of transfers between spaces has remained stable over time, the direction of transfers has changed in that transfers from the News Narrative Space to the Intermediate Space and vice versa occur relatively more frequently in the most recent narratives compared to older narratives. By contrast, transfers from the Reality Space to the News Narrative Space and vice versa occur less frequently in the most recent news texts.
+Taken together, these findings show how texts of this type have been evolving over time, crystallizing into a genre that balances its aims of simultaneously engaging and objectively informing the audience. The Intermediate Space has become more salient in terms of more frequent moves into and out of this space, reflecting a change in the journalist’s role from subjective interpreter (salient in the Reality Space) to objective mediator (salient in the
+
+522
+
+Kobie van Krieken and José Sanders
+
+Intermediate Space) of the newsworthy events represented in the News Narrative Space; this result is in line with Vis et al. (2012) who found that expressions of journalists’ subjective stance have decreased over time. In specific instances such as Excerpt 7, the manifestation of the Intermediate Space takes the form of a reportage with the journalist not only interviewing persons involved in the newsworthy events as a foundation for the reconstruction, but also describing the setting afterwards as well as the impact on and evaluation of these people. In fact, a slightly altered space configuration could be conceptualized for such narratives, where the Intermediate Space seems to overrule the News Narrative Space and actually embeds it, profiling itself as the Intermediate News Space. Note that each constituent viewpoint provides a distinctive yet restricted view on the news events, thus producing a microconstrual that either engages the reader with the actual news events up close, or with the explanation for the narrative account. This configuration is visualized in Figure 6. Note that while each of these micro-construals adds to the online construction of an overarching macro-construal, it has to be assumed that readers cannot fully grasp the overall news story until all fragmented parts have been presented and become integrated into an optimally coherent, legitimized representation of the events in the Narrative Space (Sanders and Van Krieken 2019).
+
+Narrative Space
+
+News Narrative Space
+
+Intermediate News Space
+
+Reality Space
+
+time line
+Figure 6: Space configuration with news narrative space embedded in an intermediate news space.
+Crystallizing genres can regain fluidity towards new characteristics under sociocultural pressure. With the current 24/7 access to online news, reportage
+
+Smoothly moving through mental spaces
+
+523
+
+elements of witnesses, victims, and their relatives might be more tellable (cf. Peelo 2006). Increasingly, they seem to be of higher interest to readers than the narrative reconstruction itself, which relates events already known to the public by the time the newspapers arrive (Shim 2014; Groot Kormelink and Costera Meijer 2015). Indeed, the proportion of simple reporting forms of news stories seems to be diminishing (Høyer and Nossen 2015). The news narrative genre, and the conceptualization and role of the Intermediate Space in particular, might thus be transforming into a new, and even more complex genre as a result of changes in the media landscape. Such a development is to be conceptualized as a response to some readers’ expectations as well as a challenge to the expectations of others, thus continuously transforming the genre’s mental space configuration into new directions.
+The results of the current study furthermore showed that speech and thought reports are most often used to mark a viewpoint transfer to the Intermediate Space but never to mark a transfer from the Intermediate Space to either the Reality Space or the News Narrative Space. This result seems to corroborate with a previous study showing that from the 1960s onwards, speech and thought reports are more often anchored in the Intermediate Space rather than the News Narrative Space (Van Krieken and Sanders 2016). This development reflects a change in the dominant function of speech reports: until the 1960s, these reports mainly served to dramatize news events by demonstrating what was being said and thought by the news characters while these events took place; from then on, they mainly served to legitimize the narrative reconstruction by demonstrating what was being said after the events took place, thus justifying the reconstruction per se (see also Mushin 2000).
+To conclude, this study shows how transfers between mental spaces follow linguistic genre patterns, accounting for the smooth processing of highly complex narratives. It contributes to our understanding of the relation between the linguistic and cognitive representation of narrative discourse in particular and extends previous research on the cognitive representation of written discourse in general (see, e.g. Sanders and Canestrelli 2012; Singer and Lea 2012). The conceptualization of narratives in terms of a dynamic network of mental spaces has proven valuable in uncovering the interplay between linguistic characteristics and inferences in the cognitive representation of narrative news discourse. Moreover, the methodological framework presented in this paper has shown to be useful for examining linguistic genre characteristics and historical developments therein. Future studies could apply this framework to different journalistic and non-journalistic genres with the goal to gain further insight into the genrespecificity of discourse representation.
+
+524
+
+Kobie van Krieken and José Sanders
+
+Acknowledgements: This research was supported by an Innovational Research Incentives Scheme VENI grant from the Netherlands Organization for Scientific Research (NWO; project number 275-89-038) awarded to Kobie van Krieken.
+Appendix A. Original excerpts in Dutch
+Excerpt 1 (De Volkskrant, June 24, 1997)
+Tegen de man die in februari in Hoofddorp zijn vrouw en dochter om het leven bracht, de 41-jarige boekhouder Arie B., heeft het Openbaar Ministerie in Haarlem maandag tien jaar gevangenisstraf en dwangverpleging geeist. Volgens een psychiatrische rapportage is de man tot de dubbele moord gekomen uit verlatingsangst.
+B. werd een week voor het gezinsdrama op staande voet ontslagen door het kledingbedrijf Berghaus. De boekhouder had bijna honderdtwintigduizend gulden van de firma overgemaakt naar zijn eigen bankrekening. De man verzweeg zijn ontslag voor zijn vrouw, uit angst dat zij hem met hun twee dochters zou verlaten. ‘Ik liet ons vieren prevaleren boven wat mij boven het hoofd hing’, vertelde B. gisteren tegen rechtbankvoorzitter J. Van der Pijl-Van Andel.
+
+Excerpt 2 & 6 (Nieuwsblad van het Noorden, April 27, 1971)
+Sinds ongeveer een maand bewoonde zij een huisje aan de (…)straat.
+Omstreeks zeven uur reeds moet de student uit Bemmel haar in een wurgende greep hebben gepakt. Ze verzette zich niet, want niets duidt op een worsteling of een gevecht. Niemand in het huis aan de (…)straat heeft iets gehoord of gemerkt.
+De dader moet enige uren bij het lijk van zijn meisje zijn geweest. Nadat hij twee tubes aspirine had leeggegeten, ging hij naar boven (…).
+Excerpt 3 (Limburgsch Dagblad, January 23, 1967)
+De juiste toedracht van de zaak is de volgende: Herman Pfeifer leest in de huiskamer de krant. Op zijn echtgenote na is niemand thuis.
+Excerpt 4 (Limburgsch Dagblad, October 29, 1992)
+
+Smoothly moving through mental spaces
+
+525
+
+Bep trouwde vele jaren geleden met John, die haar stalde in een sexclub in Zwolle. Elke week diende zij in Maastricht af te rekenen. Zij scheidde na zeven jaar van hem, maar keerde na enige tijd toch terug in zijn woning, waar later ook Roel introk. Nijsten die aanvankelijk in bouwmachines handelde, raakte echter in geldproblemen en besloot terug te keren naar de drugshandel. „Toen moest ik ook weer de prostitutie in,” legde Bep gisteren snikkend uit. De drugs en de geldproblemen zorgden dat een bijna harmonisch familieleven eindigde in een drama. Van Hilten vond dat de vrouw, ondanks dat ze niet daadwerkelijk heeft deelgenomen aan de moord en aan het in stukken zagen van het lijkt, toch als mededader berecht moest worden. Bep deed onder andere aangifte van vermissing van John.
+
+Excerpt 5 (De Telegraaf, June 26, 1972)
+Patholoog-anatoom dr Voortman constateerde tijdens de sectie wurgplekken in de hals van het slachtoffer. Er moet weinig voor nodig zijn geweest de dood van het vrouwtje te bewerkstelligen.
+
+Excerpt 7
+Uren na het drama met zestien doden in het Zuid-Duitse stadje Winnenden staat Nadja nog na te beven. Ook de handen van de 14-jarige leerlinge van het Albertville-college trillen. (…)
+Ondertussen schoot K. zijn pistool leeg op zijn weerloze slachtoffers. Het schieten had hij geleerd als aspirant op SSV Leutenbach, de schietvereniging van zijn vader, een ondernemer die zijn wapenkamer volgens de politie netjes op slot deed, behalve een vuurwapen van het kaliber 9mm. Dit had fatale gevolgen.
+Nadja’s Turkse vader is woedend. “Dit is de derde keer in Duitsland. (…)” De man denkt onmiddellijk aan de schietpartij in het Amerikaanse Littleton. “Bij mij komen er geen computers en internet het huis in!”
+De opgesloten klas in het scheikundelokaal werd uit hun lijden verlost door een lerares.
+
+526
+
+Kobie van Krieken and José Sanders
+
+References
+Database consulted
+LexisNexis Group. (1980). LexisNexis Academic. Retrieved from https://academic.lexisnexis.nl/ Newspapers included in the corpus: De Telegraaf De Tijd: Dagblad voor Nederland De Volkskrant Friese Koerier Gereformeerd Gezinsblad Het vrije volk: Democratisch-socialistisch dagblad Leeuwarder Courant Limburgsch Dagblad Nederlands Dagblad Nieuwsblad van het Noorden NRC Handelsblad
+
+Research literature
+Borkent, Mike. 2017. Mediated characters: Multimodal viewpoint constructions in comics. Cognitive Linguistics 28(3). 539–563.
+Bruner, Jerome. 1991. The narrative construction of reality. Critical Inquiry 18(1). 1–21. Clark, Herbert H. & Richard J. Gerrig. 1990. Quotations as demonstrations. Language 66(4).
+764–805. Coulson, Seana & Todd Oakley. 2000. Blending basics. Cognitive Linguistics 11(3/4). 175–196. Coulson, Seana & Todd Oakley. 2005. Blending and coded meaning: Literal and figurative
+meaning in cognitive semantics. Journal of Pragmatics 37(10). 1510–1536. Coulson, Seana & Cyma van Petten. 2002. Conceptual integration and metaphor: An event-
+related potential study. Memory & Cognition 30(6). 958–968. Craig, David. 2006. The ethics of the story: Using narrative techniques responsibly in journal-
+ism. Lanham, MD: Rowman & Littlefield. Dancygier, Barbara. 2012. The language of stories: A cognitive approach. Cambridge:
+Cambridge University Press. Dancygier, Barbara, José Sanders & Lieven Vandelanotte. 2012. Textual choices in discourse: A
+view from cognitive linguistics. Amsterdam/Philadelphia: John Benjamins Publishing Company. De Mendoza Ibáñez, Francisco J. R. 1998. On the nature of blending as a cognitive phenomenon. Journal of Pragmatics 30(3). 259–274. Dingemanse, Clazina & Rutger de Graaf. 2011. Dutch literary journalism: From pamphlet to newspaper (ca. 1600–1900). In John S. Bak & Bill Reynolds (eds.), Literary journalism across the globe: Journalistic traditions and transnational influences, 95–117. Amherst/Boston: University of Massachussets Press.
+
+Smoothly moving through mental spaces
+
+527
+
+Emmott, Catherine. 1997. Narrative comprehension: A discourse perspective. Oxford: Oxford University Press.
+Fauconnier, Gilles. 1985. Mental spaces: Aspects of meaning construction in natural language. Cambridge: Cambridge University Press.
+Fauconnier, Gilles. 1998. Mental spaces, language modalities, and conceptual integration. In Michael Tomasello (ed.), The new psychology of language: Cognitive and functional approaches to language structure, 251–280. Mahwah, NJ: Erlbaum.
+Fauconnier, Gilles & Mark Turner. 2002. The way we think: Conceptual blending and the mind’s hidden complexities. New York: Basic Books.
+Genette, Gérard. 1980. Narrative discourse. Oxford: Blackwell. Groot Kormelink, Tim & Irene Costera Meijer. 2015. Truthful or engaging? Surpassing the
+dilemma of reality versus storytelling in journalism. Digital Journalism 3(2). 158–174. Hartsock, John C. 2000. A history of American literary journalism: The emergence of a modern
+narrative form. Amherst: University of Massachusetts Press. Herman, David. 2009. Cognitive approaches to narrative analysis. In Geert Brône & Jeroen
+Vandaele (eds.), Cognitive poetics: Goals, gains and gaps, 79–118. Berlin: Mouton de Gruyter. Høyer, Svennik & Hedda A. Nossen. 2015. Revisions in the news paradigm: Changes in stylistic features between 1950 and 2008 in the journalism of Norway’s largest newspaper. Journalism 16(4). 536–552. Irandoust, Hengameh. 1999. The past perfect: Moving across conceptual spaces. Cognitive Linguistics 10(4). 279–302. Labov, William & Joshua Waletzky. 1967. Narrative analysis. In June Helm (ed.), Essays on the verbal and visual arts, 12–44. Seattle: University of Washington Press. Langacker, Ronald W. 1987. Foundations of cognitive grammar, Vol. I: Theoretical prerequisites. Stanford: Stanford University Press. Langacker, Ronald W. 2008. Cognitive grammar: A basic introduction. Oxford: Oxford University Press. Mushin, Ilana. 2000. Evidentiality and deixis in narrative retelling. Journal of Pragmatics 32(7). 927–957. Nikiforidou, Kiki. 2016. ‘Genre knowledge’ in a constructional framework: Lexis, grammar and perspective in folk tales. In Ninke Stukker, Wilbert Spooren & Gerard Steen (eds.), Genre in language, discourse and cognition, 331–360. Berlin: De Gruyter/Mouton. Oakley, Todd. 1998. Conceptual blending, narrative discourse, and rhetoric. Cognitive Linguistics 9(4). 321–360. Oakley, Todd & Seana Coulson. 2008. Connecting the dots: Mental spaces and metaphoric language in discourse. In Todd Oakley & Anders Hougaard (eds.), Mental spaces in disourse and interaction, 27–50. Amsterdam: John Benjamins. Oakley, Todd & Anders Hougaard (eds.). 2008. Mental spaces in discourse and interaction. Amsterdam/Philadelphia: John Benjamins. Östman, Jan-Ola. 2005. Construction discourse. In Jan-Ola Östman & Mirjam Fried (eds.), Construction grammars: Cognitive grounding and theoretical extensions, 121–144. Amsterdam/Philadelphia: John Benjamins. Peelo, Moira. 2006. Framing homicide narratives in newspapers: Mediated witness and the construction of virtual victimhood. Crime, Media, Culture 2(2). 159–175. Sanders, José. 2010. Intertwined voices: Journalists’ modes of representing source information in journalistic subgenres. English Text Construction 3(2). 226–249.
+
+528
+
+Kobie van Krieken and José Sanders
+
+Sanders, José & Gisela Redeker. 1996. Perspective and the representation of speech and thought in narrative discourse. In Gilles Fauconnier & Eve Sweetser (eds.), Spaces, worlds and grammar, 290–317. Chicago: University of Chicago Press.
+Sanders, José, Ted Sanders & Eve Sweetser. 2012. Responsible subjects and discourse causality: How mental spaces and perspective help identifying subjectivity in Dutch backward causal connectives. Journal of Pragmatics 44(2). 191–213.
+Sanders, José & Wilbert Spooren. 1996. Subjectivity and certainty in epistemic modification. Cognitive Linguistics 7(3). 241–264.
+Sanders, José & Kobie van Krieken. 2018. Exploring narrative structure and hero enactment in brand stories. Frontiers in Psychology 9. 1645.
+Sanders, José & Kobie van Krieken. 2019. Traveling through narrative time: How tense and temporal deixis guide the representation of time and viewpoint in news narratives. Cognitive Linguistics, ahead of print doi: 10.1515/cog-2018-0041.
+Sanders, Ted & Anneloes Canestrelli. 2012. The processing of pragmatic information in discourse. In Hans-Jörg Schmid (ed.), Cognitive pragmatics, 201–231. Berlin: Mouton de Gruyter.
+Shim, Hoon. 2014. Narative journalism in the contemporary newsroom: The rise of new paradigm in news format? Narrative Inquiry 24(1). 77–95.
+Singer, Murray & R. Brooke Lea. 2012. Inference and reasoning in discourse comprehension. In Hans-Jörg Schmid (ed.), Cognitive pragmatics, 85–119. Berlin: Mouton de Gruyter.
+Sweetser, Eve & Gilles Fauconnier. 1996. Cognitive links and domains: Basic aspects of mental space theory. In Gilles Fauconnier & Eve Sweetser (eds.), Spaces, worlds, and grammar, 1–28. Chicago: University of Chicago Press.
+Tomlin, Russell S. 1987. Linguistic reflections of cognitive events. In Russell S. Tomlin (ed.), Coherence and grounding in discourse; Typological studies in discourse part 11, 455–479. Amsterdam/Philadelphia: Benjamins.
+Van Krieken, Kobie. In press. Literary, long-form or narrative journalism. In Tim P. Vos & Folker Hanusch (eds.), The international encyclopedia of journalism studies. Hoboken, NJ: WileyBlackwell.
+Van Krieken, Kobie, Hans Hoeken & José Sanders. 2017. Evoking and measuring identification with narrative characters. A linguistic cues framework. Frontiers in Psychology 8. 1190.
+Van Krieken, Kobie & José Sanders. 2016. Diachronic changes in forms and functions of reported discourse in news narratives. Journal of Pragmatics 91. 45–59.
+Van Krieken, Kobie, José Sanders & Hans Hoeken. 2016. Blended viewpoints, mediated witnesses: A cognitive linguistic approach to news narratives. In Barbara Dancygier, Lu Wei-Lun & Arie Verhagen (eds.), Viewpoint and the fabric of meaning: Form and use of viewpoint tools across languages and modalities, 145–168. Berlin: Mouton de Gruyter.
+Vandelanotte, Lieven. 2004. Deixis and grounding in speech and thought representation. Journal of Pragmatics 36(3). 489–520.
+Verhagen, Arie. 2007. Construal and perspectivization. In Dirk Geeraerts & Hubert Cuyckens (eds.), The Oxford handbook of cognitive linguistics, 48–81. Oxford: Oxford University Press.
+Vis, Kirsten, José Sanders & Wilbert Spooren. 2012. Diachronic changes in subjectivity and stance – A corpus linguistic study of Dutch news texts. Discourse, Context & Media 1(2). 95–102.
+
+Smoothly moving through mental spaces
+
+529
+
+Zwaan, Rolf A. 1994. Effect of genre expectations on text comprehension. Journal of Experimental Psychology: Learning, Memory, and Cognition 20(4). 920.
+Zwaan, Rolf A., Joseph P. Magliano & Arthur C. Graesser. 1995. Dimensions of situation model construction in narrative comprehension. Journal of Experimental Psychology: Learning, Memory, and Cognition 21(2). 386–397.
+Zwaan, Rolf A. & Gabriel A. Radvansky. 1998. Situation models in language comprehension and memory. Psychological Bulletin 123(2). 162–185.
+
