@@ -9,7 +9,7 @@
 	"priority": 100,
 	"inRepository": true,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2021-06-11 04:25:00"
+	"lastUpdated": "2021-08-03 02:05:00"
 }
 
 /*
@@ -48,6 +48,9 @@ function detectWeb(doc, url) {
 	if (getSearchResults(doc, true)) {
 		return "multiple";
 	}
+	else if (doc.querySelector('.DocumentsList')) {
+		Z.monitorDOMChanges(doc.querySelector('.DocumentsList'));
+	}
 	return false;
 }
 
@@ -82,7 +85,7 @@ function getSearchResults(doc, checkOnly) {
 	const items = {};
 	let found = false;
 	const rows = doc.querySelectorAll(
-		'.contentsList .tableRow .descriptionCell a, .SearchList tbody .title a');
+		'.contentsList .tableRow .descriptionCell a, .SearchList tbody .title a, .DocumentsList tbody .title a');
 	for (const row of rows) {
 		const href = row.href;
 		const title = ZU.trimInternal(row.textContent);

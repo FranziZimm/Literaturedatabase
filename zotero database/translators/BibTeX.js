@@ -18,7 +18,7 @@
 		"exportFileData": false,
 		"useJournalAbbreviation": false
 	},
-	"lastUpdated": "2021-07-27 00:50:00"
+	"lastUpdated": "2021-08-02 17:20:00"
 }
 
 /*
@@ -407,7 +407,8 @@ function processField(item, field, value, rawValue) {
 		}
 	} else if (field == "day") {
 		// this and the following two blocks assign to temporary fields that
-		// are cleared before the item is completed.
+		// are cleared before the item is completed. "day" isn't an official
+		// field, but some sites use it.
 		item.day = value;
 	} else if (field == "month") {
 		var monthIndex = months.indexOf(value.toLowerCase());
@@ -2653,6 +2654,7 @@ var reversemappingTable = {
 	"{\\textunderscore}"              : "\u2017", // DOUBLE LOW LINE
 	"{\\textquoteleft}"               : "\u2018", // LEFT SINGLE QUOTATION MARK
 	"{\\textquoteright}"              : "\u2019", // RIGHT SINGLE QUOTATION MARK
+	"{\\textquotesingle}"              : "'", // APOSTROPHE / NEUTRAL SINGLE QUOTATION MARK
 	"{\\quotesinglbase}"              : "\u201A", // SINGLE LOW-9 QUOTATION MARK
 	"{\\textquotedblleft}"            : "\u201C", // LEFT DOUBLE QUOTATION MARK
 	"{\\textquotedblright}"           : "\u201D", // RIGHT DOUBLE QUOTATION MARK
@@ -4089,6 +4091,68 @@ var testCases = [
 						"note": "<p>Work in Progress</p>"
 					}
 				],
+				"seeAlso": []
+			}
+		]
+	},
+	{
+		"type": "import",
+		"input": "@inproceedings{NIPS2009_0188e8b8,\n author = {Cuturi, Marco and Vert, Jean-philippe and D\\textquotesingle aspremont, Alexandre},\n booktitle = {Advances in Neural Information Processing Systems},\n editor = {Y. Bengio and D. Schuurmans and J. Lafferty and C. Williams and A. Culotta},\n pages = {},\n publisher = {Curran Associates, Inc.},\n title = {White Functionals for Anomaly Detection in Dynamical Systems},\n url = {https://proceedings.neurips.cc/paper/2009/file/0188e8b8b014829e2fa0f430f0a95961-Paper.pdf},\n volume = {22},\n year = {2009}\n}",
+		"items": [
+			{
+				"itemType": "conferencePaper",
+				"title": "White Functionals for Anomaly Detection in Dynamical Systems",
+				"creators": [
+					{
+						"firstName": "Marco",
+						"lastName": "Cuturi",
+						"creatorType": "author"
+					},
+					{
+						"firstName": "Jean-philippe",
+						"lastName": "Vert",
+						"creatorType": "author"
+					},
+					{
+						"firstName": "Alexandre",
+						"lastName": "D' aspremont",
+						"creatorType": "author"
+					},
+					{
+						"firstName": "Y.",
+						"lastName": "Bengio",
+						"creatorType": "editor"
+					},
+					{
+						"firstName": "D.",
+						"lastName": "Schuurmans",
+						"creatorType": "editor"
+					},
+					{
+						"firstName": "J.",
+						"lastName": "Lafferty",
+						"creatorType": "editor"
+					},
+					{
+						"firstName": "C.",
+						"lastName": "Williams",
+						"creatorType": "editor"
+					},
+					{
+						"firstName": "A.",
+						"lastName": "Culotta",
+						"creatorType": "editor"
+					}
+				],
+				"date": "2009",
+				"itemID": "NIPS2009_0188e8b8",
+				"proceedingsTitle": "Advances in Neural Information Processing Systems",
+				"publisher": "Curran Associates, Inc.",
+				"url": "https://proceedings.neurips.cc/paper/2009/file/0188e8b8b014829e2fa0f430f0a95961-Paper.pdf",
+				"volume": "22",
+				"attachments": [],
+				"tags": [],
+				"notes": [],
 				"seeAlso": []
 			}
 		]

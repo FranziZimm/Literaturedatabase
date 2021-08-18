@@ -9,13 +9,13 @@
 	"priority": 100,
 	"inRepository": true,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2021-06-14 17:05:00"
+	"lastUpdated": "2021-08-13 22:35:00"
 }
 
 /*
 	***** BEGIN LICENSE BLOCK *****
 
-	Copyright © 2018 Philipp Zumstein
+	Copyright © 2018-2021 Philipp Zumstein
 	
 	This file is part of Zotero.
 
@@ -37,7 +37,7 @@
 
 
 function detectWeb(doc, _url) {
-	var rows = doc.querySelectorAll('.urlToXmlPnx[data-url]');
+	var rows = getPnxElems(doc);
 	if (rows.length == 1) return "book";
 	if (rows.length > 1) return "multiple";
 	return false;
@@ -47,7 +47,7 @@ function detectWeb(doc, _url) {
 function getSearchResults(doc, checkOnly) {
 	var items = {};
 	var found = false;
-	var rows = doc.querySelectorAll('.urlToXmlPnx[data-url]');
+	var rows = getPnxElems(doc);
 	for (let i = 0; i < rows.length; i++) {
 		let href = rows[i].dataset.url;
 		let title = rows[i].parentNode.textContent;
@@ -74,25 +74,32 @@ function doWeb(doc, url) {
 		});
 	}
 	else {
-		var urlpnx = attr(doc, '.urlToXmlPnx[data-url]', 'data-url');
-		scrape(doc, urlpnx);
+		let pnxElems = getPnxElems(doc);
+		let pnxURL = pnxElems[0].getAttribute('data-url');
+		scrape(doc, pnxURL);
 	}
 }
 
 
-function scrape(doc, pnxurl) {
-	ZU.doGet(pnxurl, function (text) {
+function scrape(doc, pnxURL) {
+	ZU.doGet(pnxURL, function (text) {
 		var translator = Zotero.loadTranslator("import");
 		translator.setTranslator("efd737c9-a227-4113-866e-d57fbc0684ca");
 		translator.setString(text);
 		translator.setHandler("itemDone", function (obj, item) {
-			if (pnxurl) {
-				item.libraryCatalog = pnxurl.match(/^https?:\/\/(.+?)\//)[1].replace(/\.hosted\.exlibrisgroup/, "");
+			if (pnxURL) {
+				item.libraryCatalog = pnxURL.match(/^https?:\/\/(.+?)\//)[1].replace(/\.hosted\.exlibrisgroup/, "");
 			}
 			item.complete();
 		});
 		translator.translate();
 	});
+}
+
+function getPnxElems(doc) {
+	let single = doc.querySelectorAll('.urlToXmlPnxSingleRecord[data-url]');
+	if (single.length == 1) return single;
+	return doc.querySelectorAll('.urlToXmlPnx[data-url]');
 }
 
 /** BEGIN TEST CASES **/

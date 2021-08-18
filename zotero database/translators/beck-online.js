@@ -3,13 +3,13 @@
 	"translatorType": 4,
 	"label": "beck-online",
 	"creator": "Philipp Zumstein",
-	"target": "^https?://beck-online\\.beck\\.de/",
+	"target": "^https?://beck[-.]online\\.beck\\.de/",
 	"minVersion": "3.0",
 	"maxVersion": null,
 	"priority": 100,
 	"inRepository": true,
-	"browserSupport": "gcs",
-	"lastUpdated": "2021-06-08 14:40:00"
+	"browserSupport": "gcsibv",
+	"lastUpdated": "2021-08-13 20:25:00"
 }
 
 /*
@@ -590,6 +590,21 @@ function finalize(doc, url, item) {
 	
 	var perma = ZU.xpathText(doc, '//div[@class="doc-link"]/a/@href');
 	if (perma) {
+		// not clear that this case ever comes up - permalinks appear always
+		// to be relative now. but just in case it's absolute, we want to strip
+		// the domain off and add the known beck-online domain back manually to
+		// avoid dot-dash proxy-to-proper confusion
+		// (beck-online-beck-de.proxy.university.edu being converted to
+		// beck.online.beck.de instead of beck-online.beck.de)
+		let pathRe = /^https?:\/\/[^/]+(\/.*)$/;
+		if (pathRe.test(perma)) {
+			perma = perma.match(pathRe)[1];
+		}
+		
+		if (perma.startsWith('/')) {
+			perma = 'https://beck-online.beck.de' + perma;
+		}
+		
 		item.url = perma;
 	}
 	
