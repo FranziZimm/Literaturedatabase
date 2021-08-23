@@ -1,0 +1,718 @@
+Cognitive iconicity: Conceptual spaces, meaning, and gesture in signed languages
+SHERMAN WILCOX*
+
+Abstract
+Adopting the framework of cognitive grammar, I deﬁne cognitive iconicity as a special case in which the phonological and the semantic poles of a symbolic structure reside in the same region of conceptual space. One reason for the richness of iconic representation present in signed languages is that the phonological pole of signs involves objects moving in space as viewed from a certain vantage point: hands moving in space as viewed by the signer and the observer. The study reports cross-linguistic data which provide evidence for how cognitive iconicity is extensively manifest in signed languages, not just lexically but also in morphology, grammatical classes, and autonomous–dependent relations in hand–face constructions. I also propose that cognitive iconicity illuminates the relation between gesture and language, and the process by which linguistic structures arise from gestural sources. A re-examination of arbitrariness and iconicity from a cognitive iconicity perspective suggests that the two can coexist, since both are reﬂections of a deeper, underlying cognitive basis of language.
+Keywords: signed language; iconicity; gesture.
+
+1. Iconicity and signed languages1
+With one exception, developments within the ﬁeld of signed language linguistics parallel those of spoken language linguistics. Linguists report that signed languages manifest the same characteristics that have been discovered for spoken languages. Two conclusions are drawn: (1) signed languages are true, natural human languages, and (2) since these striking commonalities appear in languages transmitted in di¤erent media (optical versus acoustic), the human language ability must depend on abstract, modality-independent, and purely linguistic abilities. If ever there were
+
+Cognitive Linguistics 15–2 (2004), 119–147
+
+0936–5907/04/0015–0119 6 Walter de Gruyter
+
+120 S. Wilcox
+evidence that the material, bodily substance of language plays no role in grammar, spoken and signed languages seem to provide it. Linguists working in a variety of theoretical frameworks now accept the ﬁrst conclusion. The second conclusion, I claim, is not warranted, and the arguments and data presented in this article suggest a quite di¤erent conclusion: signed and spoken languages are united by their common basis in embodied cognition.
+The one exception is iconicity. While spoken language linguists working within cognitive and functional frameworks have provided a growing body of evidence for the ubiquity of iconicity in spoken languages (Haiman 1980, 1983, 1985; Simone 1995), signed language linguists commonly relegate iconicity to the periphery.2
+Within the signed language literature, iconicity has been viewed as a relation between linguistic form and reality. Wilbur (1987: 162), for example, deﬁnes iconicity as ‘‘a reﬂection in language of the actual state of a¤airs in the real world’’. Valli and Lucas (1995: 6) regard the iconic relation to be one in which ‘‘the form of the symbol is an icon or picture of some aspect of the thing or activity being symbolized’’—again implying that the relation is between linguistic form and some objective, uninterpreted world.
+Reading the literature on signed languages one would come to the conclusion that iconicity, though present in the lexicon, has very little to do with the grammars of signed languages. Although this reaction to iconicity might come as a surprise to cognitively oriented linguists, it is understandable given the historical and linguistic debate that has surrounded signed languages.
+From the time that the Abbe de l’Epe´e established a school for deaf children in Paris in the late eighteenth century, education in much of Europe and throughout America was based on a system of signing. Opponents of signed languages began to espouse a system of oral education, culminating in the Milan Conference of 1880. Arguments in support of speech and against sign resulted in a ban on the use of signed languages in schools for the deaf that lasted well into the middle of the twentieth century. They also set the course for linguistic studies of signed languages, a course which made it di‰cult for linguists to acknowledge the role of iconicity.
+Consider the words of Giulio Tarra, the president of the Milan conference:
+Gesture is not the true language of man which suits the dignity of his nature. Gesture, instead of addressing the mind, addresses the imagination and the senses. Moreover, it is not and never will be the language of society . . . Thus, for us it
+
+Cognitive iconicity and signed languages 121
+is an absolute necessity to prohibit that language and to replace it with living speech, the only instrument of human thought. . . . Oral speech is the sole power that can rekindle the light God breathed into man when, giving him a soul in a corporeal body, he gave him also a means of understanding, of conceiving, and of expressing himself. . . . While, on the one hand, mimic signs are not su‰cient to express the fullness of thought, on the other they enhance and glorify fantasy and all the faculties of the sense of imagination. . . . The fantastic language of signs exalts the senses and foments the passions, whereas speech elevates the mind much more naturally, with calm and truth and avoids the danger of exaggerating the sentiment expressed and provoking harmful mental impressions. (Lane 1984: 393–394)
+Signed language linguists were powerfully inﬂuenced by these views:
+linguists had a deﬁnite sense that admitting the existence of iconicity in sign languages was admitting that sign languages were not ‘‘real’’ languages, certainly not as real as spoken languages whose forms were supposedly arbitrary. (Valli and Lucas 1995: 6)
+The solution was to dismiss the iconicity that is so apparent in these languages. During the 1970s and 1980s, when linguists were actively advocating for the linguistic status of signed languages, the literature concluded that iconicity erodes over time (Frishberg 1975), that it plays no role in children’s language development (Meier 1980), and that the grammars of signed languages override and submerge iconicity (Klima and Bellugi 1979).
+My claim is that when viewed from a cognitive perspective, grammatical iconicity is revealed to be just as ubiquitous among signed languages as it is among spoken languages—indeed, because visible movements of hands have even more semiotic potential than the predominantly invisible movements of vocal tract articulators, signed languages are even more richly iconic than spoken languages.
+Researchers who argue that grammar acts to eliminate iconicity nevertheless note that iconicity plays a role in the heightened use of language such as in poetry or other poetic genres. Russo and his colleagues (Russo et al. 2001) conﬁrm this for Italian Sign Language poetry and also report that iconicity is pervasive in discourse. Taub (2001) and P. Wilcox (2000), in describing the use of metaphor across all genres of American Sign Language (ASL), also document the pervasive way it is integrated with iconicity. If only because native signers know about and productively use iconicity, then iconicity must be included in speakers’ grammars. Once we adopt a cognitive linguistic perspective and deﬁne grammar as essentially symbolic, the way is opened for a re-examination of the role that iconicity
+
+122 S. Wilcox
+plays in the grammar of signed languages, including grammatical classes, morphology, and more abstract domains such as autonomous–dependent relations in hand–face constructions.
+2. Cognitive iconicity
+Over the past decade (Wilcox 1993, 1998a, 1998b, 2001, 2002a), I have been developing a model of iconicity that I call cognitive iconicity based on the theory of Cognitive Grammar (Langacker 1987, 1991a, 1991b, 2000).
+Cognitive Grammar claims that lexicon and grammar are fully describable as assemblies of symbolic structures, that is, pairings of semantic and phonological structures. From the cognitive grammar perspective, grammar is not distinct from semantics. The elements of grammatical description reduce to form–meaning pairings.
+A critical claim of Cognitive Grammar is that both semantic and phonological structures reside within semantic space, itself a subdomain of conceptual space. Conceptual space encompasses all of our thought and knowledge, ‘‘the multifaceted ﬁeld of conceptual potential within which thought and conceptualization unfold’’ (Langacker 1987: 76). By adopting this view we can talk about similarities as distance between structures that reside in multidimensional conceptual space. Certain notions reside close to each other in conceptual space because they possess certain similarities. Other notions reside farther apart in conceptual space, reﬂecting their dissimilarity.
+What is critical for cognitive iconicity is that phonological notions also reside in conceptual space. The phonological pole reﬂects our conceptualization of pronunciations, which range from the speciﬁc pronunciation of actual words in all their contextual richness tomore schematic conceptions, such as a common phonological shape shared by all verbs, or a subset of verbs, in a particular language.
+The typical case for language is that the semantic pole and the phonological pole of a symbolic structure reside in vastly distant regions of conceptual space. The sound of the spoken word dog, for example, has little in common with the meaning of the word. This great distance in conceptual space and the resulting incommensurability of the semantic and phonological poles is the basis for l’arbitraire du signe. Alternatively, when the phonological and semantic poles of signs reside in the same region of conceptual space, arbitrariness is reduced.
+Thus cognitive iconicity is deﬁned not as a relation between the form of a sign and what it refers to in the real world, but as a relation between two conceptual spaces. Cognitive iconicity is a distance relation between the phonological and semantic poles of symbolic structures.
+
+Cognitive iconicity and signed languages 123
+Two further notions are necessary to understand how cognitive iconicity works. The ﬁrst is construal. The mapping relation in cognitive iconicity is not between objectively deﬁned forms and objectively determined scenes. As Langacker (1991a: 284) points out, there are many ways to construe an event, and an event’s objective properties are insu‰cient to predict its construal. This applies as well to the conception of articulatory events. Objective properties, whether of events in the world or of articulatory events, play little role in cognitive iconicity. Iconicity is not a relation between the objective properties of a situation and the objective properties of articulators. Rather, the iconic relation is between construals of real-world scenes and construals of form.
+Second, we must note that metaphor can create an iconic mapping which did not exist prior to the metaphorical mapping. Because metaphor is a mapping across semantic domains, it can reposition the semantic pole of a symbolic structure to a di¤erent region of conceptual space, bringing it closer to a particular region of phonological space. For example, if in some signed language time were conceived as a process and expressed phonologically as a handshape (an object instantiated in threedimensional space), there would be no iconic relation: processes and objects are too distant in conceptual space to motivate cognitive iconicity. If instead time is metaphorically conceived as an object moving in space and realized phonologically as a moving handshape, the sign is iconic. Borrowing a metaphor from cosmology, we can think of metaphor as a ‘‘worm hole’’ in multidimensional conceptual space. By mapping the semantics of time onto our conception of a moving object, metaphor folds conceptual space onto itself so as to bring the semantic pole of time into proximity with its phonological realization as a hand moving in signing space.
+An example from ASL will help to demonstrate. As we have seen, one claim is that iconicity is submerged by grammar (Klima and Bellugi 1979). The example that is o¤ered to support this claim is the morphological marking of intensiﬁcation on certain statives in ASL, expressed phonologically as an initial hold of the sign’s movement followed by sudden, rapid release. When this grammatical marker appears on the ASL sign SLOW, the resulting sign means ‘very slow’. Klima and Bellugi point out that the sign VERY-SLOW is made with a fast movement— faster than that used in the sign SLOW: ‘‘Thus the form of ‘very slow’ is incongruent with the meaning of the basic sign’’ (1979: 30). It is this fact that supports their claim that the grammar has submerged iconicity: ‘‘One of the most striking e¤ects of regular morphological operations on signs is the distortion of form so that iconic aspects of the signs are overridden and submerged’’ (1979: 30).
+
+124 S. Wilcox
+A cognitive iconicity analysis leads to a di¤erent conclusion. First, note that VERY-SLOW is multimorphemic, consisting of the root lexical morpheme SLOW and a bound, grammatical morpheme marking intensiﬁcation. The same bound morpheme appears on other lexical roots, such as VERY-SMART and VERY-FAST.
+While it is true that the form of VERY-SLOW is incongruent with the meaning of the lexical root SLOW, it is not true that the form of the intensiﬁer morpheme is incongruent with its meaning. In fact, it is iconic. To see this, we must note two facts about the conceptualization of intensity. Intensity is a conceptually dependent notion: intensity depends on a prior conception of what is being intensiﬁed. Something is ‘very slow’ or ‘very big’ but not simply ‘very’. Second, the abstract notion of intensity is often understood metaphorically by reference to more grounded concepts such as the build-up and sudden release of internal pressure, as happens when we shake a soda can and then open it.3
+How then is the form VERY-SLOW iconic? First, it is iconic because the articulators directly represent the metaphoric conceptualization of intensity as a sudden release of pent-up pressure: the phonetic realization of this bound morpheme is an initial hold followed by the sudden release of the lexical morpheme’s movement.4 Second, intensity as a conceptually dependent notion is iconically represented: change in how the sign’s movement is articulated is conceptually dependent because it relies on a prior conception of what movement was produced in this way.
+This re-examination leads to three conclusions. First, whether or not it can be shown that grammar may sometimes submerge iconicity, iconicity clearly also emerges on the more grammatical elements of morphologically complex forms. Second, analyzing iconicity requires that we examine not just our conceptualization of objects and events in the world, but also of articulations—hands and movements—that are the phonological pole of signed languages. Third, the iconic mapping of form and meaning in some cases is created by a metaphoric mapping.
+3. Conceptualizing the articulators
+By grounding grammar in embodied conceptualization, cognitive grammar provides a link between our perception of the world as populated by objects moving through space and time and the grammatical categories and constructions used to represent these same ideas. Cognitive grammar also provides an essential element for describing cognitive iconicity—a framework for conceptualizing the articulators of signed languages. Since signed languages are produced by hands moving in space and time and
+
+Cognitive iconicity and signed languages 125
+perceived visually, the same theoretical constructs that are used to describe semantic structures can describe the hands as objects of conceptualization within a linguistic system.
+In his pioneering analysis of the phonological structure of signed languages, Stokoe (1960) identiﬁed three major aspects of word formation: handshape, movement, and location. Battison (1978) added a fourth, orientation (the direction in which the palm faces). Certain conceptual properties of signed language articulators are discernable:
+i. The hands are autonomous objects manifest in the spatial domain. ii. Location is a dependent property, manifest in the spatial and tem-
+poral domain. iii. Orientation is a dependent property of handshapes, manifest in the
+spatial domain. iv. Movement is a dependent property of handshapes, manifest in the
+temporal domain.
+Setting aside location for the moment, signs are prototypical instances of two major conceptual constructs of cognitive grammar: things (handshapes) and processes (movement). Hands are prototypical objects in interaction, either with other hands or other objects.
+The location parameter spans the spatial and temporal domains. Locations have no overt articulatory manifestation; it is only by being the setting for objects that locations become manifest. The objects so located may be either actual (e.g., a handshape produced in a certain location) or virtual; when a location is virtual, it must be indicated phonologically in some way, such as a deictic gesture of the hand or eyes.
+Phonological locations also may have a temporal dimension—a change in location. Change in phonological location may be used to represent a change in conceptual location; this change may either be actual or metaphorical. Change in location may be construed metaphorically as movement through space or time. It will be obvious in the following discussion that location is a rich source of grammatical iconicity, but I will not explore the topic further here (see Wilcox 2002a).5
+Schematicity and speciﬁcity are also critical aspects of cognitive iconicity. In most instances of cognitive iconicity it is necessary to describe speciﬁc construed properties of handshapes or of movements—speciﬁc handshapes and their features, speciﬁc movements with associated manners of movement, paths, and so forth in order to discover their similarity to semantic structure. In some cases, however, such as when the semantic pole of a symbolic structure is itself highly schematic, cognitive iconicity will depend on a correspondingly schematic phonological structure. Such is the case with the iconic mapping of grammatical classes.
+
+126 S. Wilcox
+3.1. Embodied conceptual models
+Two idealized cognitive models provide the theoretical apparatus for conceptualizing the articulators of signed languages. These are the billiard-ball model, which describes the structure of events and provides the framework for understanding grammatical constructs such as nouns and verbs, and the stage model, which systematically links our conceptual abilities to perceptual abilities. Both models are grounded in everyday experience and form the embodied basis of our conception of the world.
+The billiard-ball model encapsulates our conception of the world as being populated by discrete physical objects capable of moving about through space and making contact with one another (Langacker 1991a: 13). The billiard-ball model also captures the nature of dependency relations between objects and interactions (Langacker 1991a). Objects can be conceptualized independently of their interactions: we can conceive of billiard balls independently of their energetic interactions on a pool table. Interactions, on the other hand, do not exist entirely independently of their participants. The conception of an interaction inherently presupposes the entities through which it is manifested: ‘‘Objects are therefore conceptually autonomous, and interactions conceptually dependent’’ (Langacker 1991a: 14).
+The stage model (Langacker 1991a: 284) captures certain aspects of our conceptual abilities by relating them to the perceptual experience. The analogy is made to the experience of a theatergoer watching the action taking place on a stage. The observer gazes outward and focuses his attention on a particular region, the stage. On stage, actors move about and handle various props. Action on stage is organized temporally into events. The stage model works in conjunction with the billiard-ball model, which captures the nature of the moving participants being observed. The visual perception of these moving objects forms the basis of role archetypes upon which semantic roles are built.
+Because they reﬂect our experience as mobile and sentient creatures who interact with and manually manipulate physical objects (Langacker 1991a: 285), these conceptual archetypes emerge from our visual perceptual and motoric abilities. Their appearance at the heart of grammar suggests that embodied conceptual abilities—rather than abstract, modality-independent, and purely linguistic abilities—account for the commonalities that we see across signed and spoken languages.
+4. Cognitive iconicity and signed language grammar
+In the following sections I o¤er data from ASL to demonstrate the ways in which iconicity is pervasive in various facets of grammar: polymor-
+
+Cognitive iconicity and signed languages 127
+phemic classiﬁer predicates; grammatical classes; atemporal and temporal relations; and autonomy–dependence relations.
+4.1. Hands as things, movement as process: Complex polymorphemic forms
+One way in which handshapes represent things and movement represents process in signed languages is their use in so-called classiﬁer predicates. Frishberg (1975: 715) ﬁrst introduced the term ‘‘classiﬁer’’ to describe a particular type of predicate in ASL in which a handshape is used to express a verb of motion:
+ASL uses certain hand-shapes in particular orientations for certain semantic features of noun arguments. Thus the verb MEET has no ‘‘neutral’’ form: the citation form actually means ‘one person meets one person’, or perhaps more speciﬁcally ‘one self-moving object with a dominant vertical dimension meets one self-moving object with a dominant vertical dimension’. If trees started walking, they would MEET one another in the same way. Many of these classiﬁers are productive and analyzable, although not strictly transparent.
+Classiﬁer predicates are polymorphemic forms consisting of morphemes for movement, manner of movement, semantic characteristics of the moving object, location in space, and so forth (Engberg-Pedersen 1993). According to Newport and Meier (1985: 885), classiﬁer predicates exhibit the following formational patterns:
+The handshape is a classiﬁer for the semantic category (e.g. human vs. animate nonhuman vs. vehicle) or size and shape of the moving object; the movement path (one of a small number of discretely di¤erent movements, e.g. straight vs. circular vs. arc) is a morpheme representing the path of motion of the moving object; the manner of movement is a morpheme for the manner of motion along the path (e.g. bounce vs. roll vs. random); a second handshape (typically produced on the left hand) is a classiﬁer for a secondary object, with respect to which the primary object moves; and the placement of the second handshape along the path is a morpheme for the spatial relationship of the movement path with respect to this secondary object (e.g. from vs. to vs. past).6
+The relation of form and meaning in Newport and Meier’s description is striking. First, note that across all of these forms handshapes represent objects and their features, and movements represent motions. Classiﬁer predicates thus exhibit a systematic pattern of iconic relations in which semantic objects, the things of cognitive grammar, are mapped onto handshape, and process is mapped onto phonological movement.
+
+128 S. Wilcox
+Figure 1. The ASL sign CHANGE in citation form
+4.2. Atemporal and temporal relations In addition to mapping phonological movement to process, ASL has devices for expressing atemporal relations as well. In a conversation in ASL,7 a deaf man is asked to describe the changes he has seen occur over the past several decades. He responds: MUCH CHANGE ‘a lot has changed’. He then describes some of the things that have changed, and concludes: CHANGE-OVER-TIME ‘a slow and steady change has taken place during this time’. The ASL sign meaning ‘change’ is produced in citation form with a twisting motion of the two hands (Figure 1).
+A pattern of iconic mapping is revealed by comparing the two forms of CHANGE. The ﬁrst form of CHANGE is produced by moving the hands rapidly from their initial to ﬁnal conﬁguration, which is held slightly before the signer continues. This form of CHANGE is a stative or simple atemporal relation.8 Atemporal relations lack a positive temporal proﬁle and rely on summary as opposed to sequential scanning. The atemporal relation views the scene holistically, designating only the ﬁnal state of the overall process. The iconic mapping is apparent: by moving the hands rapidly into the ﬁnal, held conﬁguration (thus decreasing the signiﬁcance of movement), the phonological structure of the sign resides in the same conceptual space as its semantic structure.
+CHANGE-OVER-TIME is produced with a slow, steady twisting movement. CHANGE-OVER-TIME is a full verb form, a relation having a positive temporal proﬁle whose evolution through time is portrayed by sequential scanning. Whereas the stative form CHANGE designates only the ﬁnal state of a process, CHANGE-OVER-TIME designates a continuous series of states distributed over time. Again, the phonological structure reveals its iconicity: the slow twisting motion brings into prominence the sequential scanning indicative of the semantic structure of a verb. Thus, the atemporal relation form CHANGE highlights only
+
+Cognitive iconicity and signed languages 129
+the start and end points of a temporal path, while the full verb form CHANGE-OVER-TIME invites the viewer to watch all the steps along the way.
+Moreover, in the form CHANGE-OVER-TIME, the twisting movement of the sign is superimposed on a slow, side-to-side movement along a sequential time-line (Engberg-Pedersen 1993). In this way, the form iconically and metaphorically maps movement through time onto movement through space.
+4.3. Aspect
+Further evidence of the iconic mapping of temporal relations comes from the systematic way in which the ASL verb forms are grammatically marked for aspect. Comrie (1976: 3) deﬁnes aspect as ‘‘di¤erent ways of viewing the internal temporal constituency of a situation’’. Klima and Bellugi (1979: 292–294) describe a number of ways in which ASL verbs can be marked for temporal aspect (Figure 2).
+Two patterns are evident. First, aspectual marking in general is iconic: changes to the internal temporal constituency of the verb (the semantic pole) are represented by modiﬁcations to the temporal constituency of the sign’s movement. Second, the iconic mapping of time extends across di¤erent aspectual forms. For example, Klima and Bellugi (1979) give the meaning of the protractive form of LOOK-AT as ‘to stare at (uninterruptedly)’. The semantic pole of this form represents a situation in which there is no change to the internal structure of, and no well-deﬁned end points for, the verb process. The stable situation of ‘‘looking at’’ persists unchanged through conceived time. This situation is described in cognitive grammar as an imperfective process in which all of the component states of a process are identical, and the verb proﬁles the continuation through time of a stable situation (Langacker 1991a: 21). The semantic structure of protractive aspect in ASL is iconically represented by its phonological pole: the ASL verb form is articulated with a static form, unmoving and therefore unchanging through conceived time.
+Klima and Bellugi (1979: 292) note these patterns as well, although they make no mention of the iconicity involved:
+The di¤erences in meaning indicated by inﬂections for di¤erent grammatical categories are mirrored by general di¤erences in form. The most salient formal characteristic of inﬂections for number and distributional aspect is spatial patterning, with displacement along lines, arcs, and circles in vertical and horizontal planes. By contrast, inﬂections for temporal aspect rely heavily on temporal patterning, making crucial use of dynamic qualities such as rate, tension, evenness, length, and manner in the movement of signs.
+
+130 S. Wilcox
+Figure 2. Verb aspect in ASL. (Reprinted by permission of the publisher from Klima and Bellugi 1979: 293. Copyright : 1979 by the President and Fellows of Harvard College.)
+Clearly, the iconic mapping of space and time is pervasive in the grammar of ASL (see Wilcox 2002a for further discussion). 4.4. Grammatical classes Iconicity would seem to be impossible to ﬁnd in grammatical classes for two reasons. First, if we accept the traditional view of iconicity as a
+
+Cognitive iconicity and signed languages 131
+relation between language and the real world, we would ﬁnd no iconic mapping because grammatical classes do not exist in the real world: they are purely relational phenomena within the world of language. Second, within the traditional view of language, grammatical classes cannot be deﬁned in notional terms, and so they have no semantic pole. Even functional linguists dismiss the possibility that grammatical categories such as nouns and verbs could be accounted for solely by means of semantics (Hopper and Thompson 1984). It is not surprising then that signed language linguists make statements such as the following (Valli and Lucas 1995: 7):
+It is probably true that the form of the sign SIT is an iconic representation of human legs sitting . . . [However,] focusing on its iconicity will not provide much insight into the interesting relationship between SIT and the noun CHAIR, and other noun-verb pairs.
+What Valli and Lucas are claiming is that, while the shape of the hands in SIT and CHAIR may iconically represent human legs and the seat of a chair, the relation between morphologically related nouns and verbs such as CHAIR and SIT is not iconically represented.
+A key claim of cognitive grammar is that nouns and verbs lend themselves to schematic semantic characterization. A noun proﬁles a region in some domain, given the technical term thing. Verbs comprise a series of stative relations distributed continuously through conceived time, the component states viewed serially rather than holistically (Langacker 1991b: 20–21). This relation is called a process. Cognitive grammar thus claims that the noun class proﬁles a thing and the verb class proﬁles a process (Figure 3).
+As symbolic structures, noun and verb classes also have phonological poles. In most cases the phonological poles of nouns and verbs are so schematic, consisting only of some phonological speciﬁcation, that they may be left unspeciﬁed, as indicated in Figure 3 by an ellipsis at the phonological pole. If there were a regular phonological distinction marking nouns and verbs, the phonological pole would reﬂect this.
+This is the case for ASL and many other signed languages, in which a systematic phonological pattern marks certain nouns and verbs (Supalla and Newport 1978). In ASL, for example, the noun BOOK is phonologically related to the verb OPEN-BOOK: BOOK is made with reduplicated, short movements, while OPEN-BOOK uses one long movement (Figure 4).
+Klima and Bellugi (1979: 295–296) note that, while both continuous and hold manner occur in the verb signs (a continuous sweep as opposed
+
+132 S. Wilcox
+
+(a)
+
+(b)
+
+Figure 3. Noun schema (a) and verb schema (b)
+
+to a noticeable stop at the end of the movement), the noun forms have reduplicated movement and a restrained manner. As a result, the nouns are typically made with smaller movements than their related verbs.
+Because these noun–verb pairs have schematic phonological speciﬁcations, they exhibit cognitive iconicity in two ways. First, these forms are often iconic for some aspect of their lexical meaning: SIT and CHAIR do iconically represent legs dangling o¤ of the ﬂat seat of a chair. These forms also iconically represent grammatical class. Because of their restrained manner and reduplicated movement, noun forms are articulated in a region of conceptual space occupied by things. Verb forms, because
+
+(a) The ASL noun BOOK
+
+(b) The ASL verb OPEN-BOOK
+
+Figure 4. Noun–verb pairs in ASL. (Reprinted with permission from Valli and Lucas 1995: 176, ﬁg. 21.)
+
+Cognitive iconicity and signed languages 133
+of their salient movement through space, reside in the region of conceptual space occupied by processes.
+Finally, note that this is a case where cognitive iconicity relies not on speciﬁcity at the semantic and phonological poles but on schematicity. The reason these noun–verb forms are iconic is precisely because they share highly schematic phonological characteristics with their respective schematic semantic pole.
+4.5. The iconicity of autonomous–dependent structures: Hand–face constructions
+Autonomy–dependency is deﬁned by Langacker (1987: 300) as a relation between two structures such that one structure, D, is dependent on the other, A, to the extent that A constitutes an elaboration of a salient substructure within D. We have already seen how conceptual autonomy– dependence relates to signs, noting that signs as objects are conceptually autonomous and movements as interactions are conceptually dependent. Autonomous–dependent (A/D) structure also extends beyond the realm of objects and interactions. When we turn our attention to motion, we see that type of motion is autonomous relative to the more conceptually dependent manner of motion. The same is true for phonological movement: while type of movement (e.g., linear, circular) is phonologically autonomous, manner of movement (e.g., fast, slow, accelerating) is phonologically dependent. This autonomous–dependent relation was mapped iconically in the ASL intensiﬁer morpheme. It also appeared in the iconic mapping of verb aspect discussed above: the conceptually dependent grammatical marking of aspect is expressed phonologically as manner of movement.
+Speciﬁc constellations of facial behaviors, such as gestures made with the mouth (tongue protruding as in the pronunciation of /th/), the eyes (squinting, open wide), eyebrows (furrowed brows), and so forth, serve as obligatory morphological marking and co-occur with the manual string over which they have scope (Reilly 2000: 416). When they occur in hand– face constructions, facial markings are phonologically dependent relative to the manual elements.9 Evidence for this claim is abundant. First, as Reilly notes, the facial behaviors co-occur with the manual elements over which they have scope. Second, facial markers in hand–face constructions are widely analyzed as bound morphology. Third, the hands are privileged for the coding of lexical morphemes. Lexical morphemes are so rarely coded solely by facial markers that the few attested instances are truly the exceptions that prove the rule.10
+Fourth, the phonological autonomous–dependent asymmetry of hands and faces is quite pronounced. Rarely if ever do we ﬁnd hand–face
+
+134 S. Wilcox
+constructions in which the lexical morpheme is coded on the face and bound morphology on the hands. This autonomous–dependent pattern approaches a universal for signed language morphology. Finally, the claim that facial marking is phonologically dependent on manual signs is graphically demonstrated in transcription: the common way of indicating facial marking is to diagram them over the written glosses of the manual signs they accompany—a sort of orthographic iconicity, if you will, of their phonological autonomous–dependent relation.
+One class of ASL hand–face constructions is of the type given in examples (1) and (2):11
+(1) [DRIVE]-th ‘Drive carelessly.’ (2) [STUDY]-mm ‘Study carefully.’
+In these constructions, the lexical stem is encoded on the hands and the adverbial morphology is encoded as a facial marker. Semantically, the lexical verb is autonomous while the adverbial modiﬁer is dependent. Thus, the autonomous–dependent relationship is iconic: the semantically autonomous structure is coded by the phonologically autonomous hands, and the semantically dependent structure is coded by the phonologically dependent face.
+A second class of hand–face constructions is of the type given in examples (3) and (4):
+(3) [HUNGRY]-y/n ‘Are you hungry?’ (4) [WHERE EAT]-q ‘Where are we eating?’
+In these constructions, the lexical material again is expressed on the hands and the facial marker indicates either a yes/no or a content question. Again, the lexical semantic structures in these sentences are autonomous and the facial markers dependent: yes/no and content questions presuppose the semantic structures that they ask about. The autonomous–dependent relationship is iconically mapped: the dependent semantic structure is coded by the phonologically dependent facial marker, and the autonomous semantic structure is coded by the phonologically autonomous hands.12
+5. Cognitive iconicity, meaning, and gesture in signed languages
+Attitudes towards signed languages such as those expressed by Giulio Tarra not only suppressed the exploration of iconicity, they had an even more oppressive e¤ect on the linguistic study of the relation between gesture and signed languages. The prevailing view among sign linguists is that gesture and signed language are categorically distinct, and any men-
+
+Cognitive iconicity and signed languages 135
+
+(a) ASL ‘future’ Figure 5. ASL ‘future’ and ‘depart’
+
+(b) ASL ‘depart’
+
+tion of a possible relation between the two is regarded as a challenge to the linguistic status of signed languages.
+We must admit, however, that linguistic material comes from somewhere. To posit a link between gesture and signed languages and to propose a route by which gesture becomes language does not deny that each is unique. It merely recognizes the remarkable family resemblances between signs and gestures, hinting at a common ancestor (Armstrong et al. 1995).
+Gesture follows at least two routes of incorporation into signed languages. The ﬁrst route begins with a gesture that is not a conventional unit in the linguistic system. This gesture becomes incorporated into a signed language as a lexical item. Over time, these lexical elements acquire grammatical function. An example comes from the development of futures. Using a corpus of historical and modern conversational data, Janzen and Sha¤er (2002) demonstrate that the grammatical morpheme marking future in ASL (Figure 5a) developed from a lexical morpheme ‘depart’ (Figure 5b).
+The source of the ‘depart’ morpheme appears to be a gesture described as early as de Jorio (2000); it is produced with the palm of the hand open and held edgewise, moved upwards several times. This gesture is still in use among hearing people in the Mediterranean region to signal departure-demand and departure-description (Morris et al. 1979), as shown in Figure 6 (note that Figure 6 is not a sign, it is a gesture made by a hearing person).
+This gesture also appears in nineteenth-century French Sign Language (LSF) as the lexical morpheme PARTIR ‘depart’ (Figure 7).
+
+136 S. Wilcox
+Figure 6. Departure-demand/description gesture (Wylie 1977)
+The second route proceeds along a di¤erent path. The source is not a free-standing gesture capable of being incorporated as a lexical item into a signed language. Rather, the source gesture may be one of several types, including
+i. a particular manner of movement such as that seen in the intensiﬁer morpheme and verb aspect,
+ii. a facial gesture such as the question markers and adverbials discussed above or the topic/conditional marker (Janzen et al. 2000),
+iii. various mouth and eye gestures (Cagle 2001).
+Figure 7. 1855 LSF lexical sign PARTIR ‘depart’ (Brouland 1855)
+
+Cognitive iconicity and signed languages 137
+As just described, these are clearly linguistic features. Support for the claim that they derive from gestural sources comes from their similarity to intonation and other verbal gestures (Bolinger 1983, 1986); the identiﬁcation of topic and conditional markers with nonlinguistic gestures marking surprise (Janzen and Sha¤er 2002); and the existence of gestures that occur in aspect-marked speech contexts (Parrill 2000, 2001; Duncan 2002) strikingly similar in form to those seen in ASL verb aspect.
+These gestural types di¤er along two axes: the degree of schematicity of their form and meaning, and their autonomous–dependent structure. The distinction parallels that between lexical and grammatical morphology. Langacker (1991a: 3) notes that the symbolic units generally analyzed as lexical items tend to be morphologically simple and quite speciﬁc in their semantic and phonological content. The units thought of as grammatical are more schematic semantically and often phonologically; grammatical morphemes typically have speciﬁc phonological shapes but schematic meanings.
+This description provides an explanation for these two routes of development from gesture to language. In the ﬁrst route, gestural elements that are fairly speciﬁc in their semantic and phonological content become incorporated into signed languages as lexical items; these grammaticize into units that are more schematic phonologically and semantically in ways much the same as that found for spoken languages (Janzen and Sha¤er 2002; Wilcox 2002b). In the second route, gestural elements that have schematic semantic content, though fairly speciﬁc phonological content, directly take on grammatical function as they become a part of the linguistic system.
+This description is entirely compatible with, and predictable from, the claims made here concerning cognitive iconicity. Visual articulators such as hands and faces come with inherent conceptual signiﬁcance. The conceptual import of these articulators is present not just when they are elements in the linguistic system, but extends outside of the linguistic system to gestures. This suggests that nonlinguistic gestures may serve as sources for morphemes in signed languages, and that the speciﬁc properties of these gestures will determine their developmental path as they enter the linguistic system.
+Further, we should not expect to ﬁnd a categorical distinction between meaningful gestures such as those described by Calbris (1985, 1990), McNeill (1992), and Duncan (2002) and incipient morphemes of a signed language. Although gestures and signs di¤er, they do so along dimensions common to both and in a continuous rather than categorical way. Dimensions along which symbolic structures for language vary are probably su‰cient to describe the graded development of gesture to language
+
+138 S. Wilcox
+(Langacker 2003): symbolic complexity, speciﬁcity/schematicity, psychological entrenchment, and conventionalization.
+We have already seen that speciﬁcity/schematicity is a primary factor determining the route taken as gesture is incorporated into signed languages. Symbolic complexity, the degree to which symbolic structures are decomposable into smaller symbolic elements, may also be a signiﬁcant factor. McNeill (1992: 21) notes that gestures lack internal complexity: ‘‘two gestures produced together don’t combine to form a larger, more complex gesture. There is no hierarchical structure of gestures made out of other gestures’’. We should also note, however, that when gestures occur in co-speech contexts they are component elements in composite (albeit cross-modal) symbolic structures.
+The primary factors distinguishing the symbolic structures of gesture and those of signed languages are psychological entrenchment and conventionality. Notably, frequency of use is a major force driving both of these factors, as it is in grammaticization.
+Once a form enters the linguistic system it can undergo grammaticization and lose its semanticity; this process can eventually erode all meaning until all that is left is meaningless form. Hopper (1994) describes this process as phonogenesis. Examples from ASL include the loss of semanticity when the LSF number handshapes became incorporated into certain ASL signs. In LSF, a closed handshape with extended thumb means ‘one’ and thumb plus index ﬁnger means ‘two’. The ‘one’ handshape appears in the ASL signs TOMORROW, YESTERDAY, and ACCOMPANY/WITH, where it has lost its morphemic value and now exists only as a phoneme.13 The ‘two’ handshape appears in TWENTY, TWENTYONE, and THEN in ASL but does not retain the meaning of ‘two’; in all ASL forms except these, ‘two’ is indicated by a V-handshape. Finally, we ﬁnd evidence for person marking in old LSF ‘I am mistaken’/‘you are mistaken’ where the ﬁrst-person/second-person distinction is indicated by location: ﬁrst-person ‘I am mistaken’ is signed near the chin, and secondperson ‘you are mistaken’ is signed at a neutral location in front of the signer (Figure 8).14 Location was morphemic in old LSF, as it is in many contemporary ASL signs marked for agreement. Only the ﬁrst-person monomorphemic form remains in ASL, meaning ‘wrong’; the chin location is a de-morphologized phoneme.
+Morphemes arise and disappear in signed languages, just as they do in spoken languages. What is striking about the process for signed languages is the source of grammatical morphemes. Meillet (1948: 131) claimed that lexical items are the only known source of grammatical morphemes. As we have seen, grammatical morphemes in signed languages arise directly from gestural sources. When gestures are the source, the articulators al-
+
+Cognitive iconicity and signed languages 139
+
+(a) ‘I am mistaken’
+
+(b) ‘You are mistaken’
+
+Figure 8. Location as morpheme in LSF (Brouland, 1855)
+
+ready possess a conceptual signiﬁcance which, along with their nascent semantic structure, partially determine their semantic value when they become part of the linguistic system.
+Further, even though old morphemes become meaningless phonemes through phonogenesis, they retain their inherent conceptual properties and can be recruited as meaningful again. Frozen classiﬁers can thaw, and poets can make creative, symbolic use of the inherent conceptual signiﬁcance of hands and their movements. Just as the categorical distinction between gesture and language cannot be maintained, so the distinction between phonology and morphology is a matter of degree. Morphemes arise in a gradual fashion and, for signed languages, not just from other morphemes. As Haiman (1998: 156–157) notes:
+With insigniﬁcant exceptions like ‘ouch’ and ‘boo hoo’, we cannot observe how words developed out of nonwords; however far back we go, it seems that all of our etymologies of words trace to nothing but other older words. But we may be able to observe the genesis of codiﬁcation in the stereotyping of intonation, which, as it has often been observed, lies at the border between paralinguistic and linguistic behavior. Although there is much stereotyping (codiﬁcation) in this realm, it is inherently less digitally coded than morpho-syntax, more inherently analogic and iconic . . . and more subject to personal variation.
+When we include data from signed languages we discover that gestures are a nonword source of lexical and grammatical morphemes.
+In discussing the second route by which gesture becomes incorporated into signed languages, I suggested that verb aspect is linked with gesture and intonation. I am not claiming that verb aspect derives directly from the type of gesture described by Duncan and Parrill. I do claim, however, that manner of movement, which is how aspect is indicated in co-speech
+
+140 S. Wilcox
+gestures as well as in ASL, varies along a continuum from paralinguistic to morphemic. Thus, the second route by which gesture becomes incorporated into signed languages is equivalent to the genesis of codiﬁcation.
+Finally, just as ‘‘creeping double articulation’’ (Haiman 1998: 149) from increasing codiﬁcation occurs in spoken languages, so too is duality of patterning an emergent and variable property of signed languages. Partly this is due to the same factors that lead to the emergence of double articulation in spoken languages: ‘‘as signs become emancipated from, and autonomous relative to, their extralinguistic real-world referents, they may be free to become more sensitive to their linguistic context, that is, the other signs with which they co-occur’’ (Haiman 1998: 149). For signed languages, however, this Saussurean systematicity is never devoid of the ever-present conceptual signiﬁcance of visible articulators. No matter how much a sign increases its valeur, its relationship to other signs in the linguistic system, its relationship to something in the world—its signiﬁance—can never be totally severed.
+6. Arbitrariness and iconicity revisited
+Arbitrariness and iconicity often are regarded as mutually exclusive properties of linguistic systems. The view of cognitive iconicity proposed here does not require such an opposition; on the contrary, it permits and even predicts that arbitrariness and iconicity can be simultaneously present.
+The view that arbitrariness and iconicity are mutually exclusive derives from the assumption that iconicity requires full predictability: if a form is iconic, some would claim, then we should be able to predict its form from its meaning, and vice versa. What this assumption does not take into consideration is the role of construal. Cognitive iconicity recognizes that construal operates on both poles of symbolic structures. Because of this double construal operation, a high degree of arbitrariness is always present, even when the symbolic structure is clearly iconic. As Janzen (this issue: 168) notes, ‘‘in a signed language, mapping the features of a highly subjective construal of an event onto spatial discourse features introduces a potential increase in arbitrariness in that certain aspects of the event may be proﬁled at the expense of others—it is the choice of what to proﬁle that is arbitrary’’.
+This fact was documented by Pietrandrea (2002) in the Italian Sign Language (LIS) lexicon. In a study of 1,944 signs, she found that ﬁfty percent of handshape occurrences and sixty-seven percent of body loca-
+
+Cognitive iconicity and signed languages 141
+tion occurrences had an iconic motivation. Alongside this pervasive iconicity, however, exists a deep arbitrariness in the LIS lexicon, because iconic signs exhibit arbitrary selection of di¤erent aspects of articulators and referents to convey di¤erent meanings.
+A second factor that permits iconicity and arbitrariness to coexist is the inherent conceptual signiﬁcance of signed language articulators. Even though symbolic structures necessarily increase in arbitrariness as they become part of the linguistic system, they nevertheless retain their inherent conceptual signiﬁcance. The balance between system-internal signiﬁcation versus inherent conceptual signiﬁcance may often tip in favor of the linguistic system, but a variety of factors can act to unleash the conceptual potential of a sign’s form.
+Iconicity and arbitrariness also wax and wane in another way. The erosion of iconicity in the lexicon is o¤set by the emergence of iconicity in the grammar, as seen in the ASL intensiﬁer morpheme. Moreover, when gestures serve as the source of lexical and grammatical morphology, this reintroduces new iconicity into the system.
+Iconicity is commonly identiﬁed as a motivation of linguistic form. Cognitive iconicity suggests an alternative view: iconicity is symptomatic of something more fundamental that unites both form and meaning. Haiman (1980: 537) says:
+Since the transformational revolution, it has been claimed that the structure of language reﬂects the structure of thought, and that its study provides a ‘‘window on the mind’’. In arguing, as I have done, for the iconicity of grammar in general, I contend that the structure of thought in its turn reﬂects the structure of reality to an extent greater than it is now fashionable to recognize.
+While we may question whether iconic mappings are truly reﬂections of reality—iconic mappings are always between construals of form and construals of reality—iconicity does reveal the structure of conception. Iconicity is symptomatic of the underlying unity of phonological and semantic space as domains within our conceptual space. The congruence of phonological and semantic structures in iconicity emanates from a common conceptual system that underlies and gives structure to both linguistic form and meaning.
+Signed languages, by using articulators that visibly manifest the same grounded archetypes that underlie our conceptual abilities—objects moving in space within our ﬁeld of vision—di¤er from spoken languages in that they have an enhanced potential for realizing these iconic mappings. This is a fact fully compatible with a cognitive view of language, but it is certainly not a new insight. Charles Hockett (1978: 274) regarded
+
+142 S. Wilcox
+
+this di¤erence between signed and spoken languages to be one of syntactic dimensionality, ‘‘that is, the geometry of the ﬁeld in which the constituents of a message are displayed, di¤erent arrangements often yielding di¤erent meanings’’. Hockett’s distinction between ‘‘signages’’ and ‘‘languages’’ in the following is unnecessary, and his mention of pantomiming unwittingly evokes the ghosts of Milan, but his point could be never more relevant as we apply the ﬁndings of cognitive linguistics to the study of signed languages:
+
+The di¤erence in dimensionality means that signages can be iconic to an extent to which languages cannot. . . . Now, while arbitrariness has its points, it also has its drawbacks, so that it is perhaps more revealing to put it the other way around, as a limitation of spoken languages. Indeed, the dimensionality of signing is that of life itself, and it would be stupid not to resort to picturing, pantomiming, or pointing whenever convenient. . . . But when a representation of some fourdimensional hunk of life has to be compressed into the single dimension of speech, most iconicity is necessarily squeezed out. In one-dimensional projection, an elephant is indistinguishable from a woodshed. Speech perforce is largely arbitrary; if we speakers take pride in that, it is because in 50,000 years or so of talking we have learned to make a virtue of necessity. (Hockett 1978: 274–275)
+
+In considerably less time, linguists have elevated features derived from the study of one type of language, spoken language, to the status of linguistic universals. In doing so, they have committed a cardinal scientiﬁc error: generalizing from a biased data sample. Upon reviewing the evidence from signed languages, Hockett discarded the design feature that all language is transmitted in the vocal-auditory channel. The data presented here suggest that it is time for linguists to re-examine the role of iconicity and gesture in the grammars of signed languages.
+
+Received 4 August 2003 Revision received 14 October 2003
+
+University of New Mexico
+
+Notes
+* Author’s e-mail address: hwilcox@unm.edui. 1. I cannot thank enough my many colleagues who have helped me with this paper: Larry
+Gorbet, Terry Janzen, Paola Pietandrea, Elena Pizzuto, Tommaso Russo, Phyllis Perrin Wilcox, and my anonymous reviewer. 2. Notable exceptions include Pizzuto et al. 1995, Cuxac 1996, Engberg-Pedersen 1996, Cuxac 2000, Pizzuto and Volterra 2000. 3. Ko˝vecses (2000) notes that one folk understanding of anger involves a cognitive model in which intensity of o¤ense outweighs intensity of retribution creating an imbalance that causes anger. As a result, a common cross-linguistic metaphorical expression of anger involves the conceptual metaphor an angry person is a pressurized container.
+
+Cognitive iconicity and signed languages 143
+4. The same iconic-metaphorical expression of intensity occurs in speech. Bolinger (1986: 19) describes what he calls a ‘‘vocalized gesture’’ of delayed release in which the initial consonant of a word is given extra length and the following vowel is cut short, as in I’d like to wring his n-n-n-neck! The e¤ect is clearly one of intensiﬁcation.
+5. The temporal dimension of location is quite a bit more complicated than discussed here. Path movement, for example, may be construed as a change in location (consider the sign GIVE) when it moves between two or more points. When the movement is circular (along a circular path), location may be construed as the setting for a movement viewed holistically rather than a change of location (e.g., ALWAYS). Location may also be construed as a setting not only in static cases where it is the location in which a handshape occurs or point towards, but also when a handshape rapidly changes due to reduplication (tremor or ﬂutter). In the latter case, location has a dynamic aspect. See Wilbur (1979: 81–84) for a phonological analysis along these lines.
+6. This description might seem to suggest that classiﬁer predicates are only used to express the motion of physical objects. In fact, these forms can be found in metaphorical and ﬁctive motion expressions (Taub 2001; Wilcox 2001).
+7. The conversation appears in the videotaped ASL series ‘‘ASL across America: Detroit (Vol. 2)’’ published by Sign Media, Burtonsville, MD, 1989.
+8. The reader should be careful not to depend on the grammatical class of the gloss. The sign is used here not as a full verb form ‘to change’ but as a stative ‘has changed’.
+9. The distinction between phonological and phonetic dependency is important. Clearly, these facial markers can be pronounced independently of the hands, just as the English plural morpheme -s can be pronounced independently of the stem to which it is bound. I am claiming only that facial markers are phonological and conceptually dependent.
+10. Dively (2001), for example, describes only eight such nonhanded ASL signs; all of them are highly constrained phonologically (consisting primarily of headnods or headshakes, some with torso movement and additional facial markers) and semantically, with meanings such as ‘yes’, ‘no’, and ‘oh I see’. In addition, her data came from only two Native American deaf informants, raising the possibility that even these signs are not widely used throughout the Deaf community.
+11. Although, as just noted, facial markings are typically transcribed with overbars, I here use brackets for typographic simplicity.
+12. Signiﬁcantly, this parallel iconic mapping of autonomous–dependent structure remains, whether the proﬁle determinant of the composite hand–face construction is the autonomous lexical material (as in examples [1–2]) or the dependent facial marker (examples [3–4]). The combination of proﬁle determinant and autonomous–dependent structure has been shown to account for the distinction between head-modiﬁer and head-complement constructions (Langacker 2000).
+13. Evidence that these ASL signs once contained the morpheme ‘one’ comes from two sources. First, the contemporary LSF signs HIER, DEMAIN, and AVEC are cognates of the ASL signs and include the morpheme (Cuxac 2000). Second, corresponding forms are attested in early to middle nineteenth-century LSF.
+14. Person-marked location is accompanied by di¤erent movement and hand orientation.
+
+References
+
+Armstrong, David F., William C. Stokoe, and Sherman Wilcox
+
+1995
+
+Gesture and the Nature of Language. Cambridge: Cambridge University
+
+Press.
+
+144 S. Wilcox
+
+Battison, Robbin
+
+1978
+
+Lexical Borrowing in American Sign Language. Silver Spring, MD: Linkstok
+
+Press.
+
+Bolinger, Dwight
+
+1983
+
+Intonation and gesture. American Speech 58 (2), 156–174.
+
+1986
+
+Intonation and Its Parts: Melody in Spoken English. Stanford, CA: Stanford
+
+University Press.
+
+Brouland, Jose´phine
+
+1855
+
+Langage mimique: Spe´cimen d’un dictionaire des signes. Washington, DC:
+
+Gallaudet Archives.
+
+Cagle, Keith
+
+2001
+
+1000 ASL Faces. [CD-ROM.] St. Louis, MO: Signs of Development, Ltd.
+
+Calbris, Genevie`ve
+
+1985
+
+Espace-temps: Expression gestuelle du temps. Semiotica 55 (1/2), 43–73.
+
+1990
+
+The Semiotics of French Gestures. Bloomington: Indiana University Press.
+
+Comrie, Bernard
+
+1976
+
+Aspect: An Introduction to the Study of Verbal Aspect and Related Problems.
+
+Cambridge: Cambridge University Press.
+
+Cuxac, Christian
+
+1996
+
+Fonctions et structures de l’iconicite´ des langues des signes. Unpublished
+
+doctoral thesis supervised by F. Franc¸ois, Universite´ Paris V.
+
+2000
+
+La Langue des Signes Franc¸aise; les Voies de l’Iconicite´. (Faits de Langues
+
+15–16). Paris: Ophrys.
+
+de Jorio, Andrea
+
+2000
+
+Gesture in Naples and Gesture in Classical Antiquity. A translation of La
+
+mimica degli antichi investigata nel gestire napoletano. With an introduction
+
+and notes by Adam Kendon. Bloomington and Indianapolis: Indiana Uni-
+
+vesity Press. Original edition, Fibreno: Naples, 1932.
+
+Dively, Valery L.
+
+2001
+
+Signs without hands: Nonhanded signs in American Sign Language. In
+
+Dively, V. L., M. Metzger, S. F. Taub, and A. M. Baer (eds.), Signed
+
+Languages: Discoveries from International Research. Washington, DC:
+
+Gallaudet University Press, 62–73.
+
+Duncan, Susan
+
+2002
+
+Gesture, verb aspect, and the nature of iconic imagery in natural discourse.
+
+Gesture 2 (2), 183–206.
+
+Engberg-Pedersen, Elisabeth
+
+1993
+
+Space in Danish Sign Language: The Semantics and Morphosyntax of the
+
+Use of Space in a Visual Language. Hamburg: Signum-Verlag.
+
+1996
+
+Iconic motivations in conﬂict: Language-speciﬁc structure and inﬂuence
+
+from the medium. In Engberg-Pedersen, E., F. Michael, P. Harder, L.
+
+Heltoft, and L. F. Jakobsen (eds.), Content, Expression and Structure: Studies
+
+in Danish Functional Grammar. Amsterdam: John Benjamins, 39–64.
+
+Frishberg, Nancy
+
+1975
+
+Arbitrariness and iconicity: Historical change in American Sign Language.
+
+Language 51, 676–710.
+
+Haiman, John
+
+1980
+
+The iconicity of grammar: Isomorphism and motivation. Language 56 (3),
+
+515–540.
+
+1983
+
+Iconic and economic motivation. Language 59 (4), 781–819.
+
+Cognitive iconicity and signed languages 145
+
+1998
+
+Talk is Cheap: Sarcasm, Alienation, and the Evolution of Language. Oxford:
+
+Oxford University Press.
+
+Haiman, John (ed.)
+
+1985
+
+Iconicity in Syntax. Amsterdam: John Benjamins.
+
+Hockett, Charles
+
+1978
+
+In search of Jove’s brow. American Speech 53, 243–315.
+
+Hopper, Paul
+
+1994
+
+Phonogenesis. In Pagliuca, W. (ed.), Perspectives on Grammaticization.
+
+Amsterdam: Benjamins, 29–45.
+
+Hopper, Paul J., and Sandra A. Thompson
+
+1984
+
+The discourse basis for lexical categories in universal grammar. Language 60
+
+(4), 703–752.
+
+Janzen, Terry and Barbara Sha¤er
+
+2002
+
+Gesture as the substrate in the process of ASL grammaticization. In Meier,
+
+R., D. Quinto, and K. Cormier (eds.), Modality and Structure in Signed and
+
+Spoken Languages. Cambridge: Cambridge University Press, 199–223.
+
+Janzen, Terry, Barbara Sha¤er, and Sherman Wilcox
+
+2000
+
+Signed language pragmatics. In Verschueren, J., J.-O. O¨ stman, J.
+
+Blommaert, and C. Bulcaen (eds.), Handbook of Pragmatics. Amsterdam/
+
+Philadelphia: Benjamins, 1–20.
+
+Klima, Edward and Ursula Bellugi
+
+1979
+
+The Signs of Language. Cambridge, MA: Harvard University Press.
+
+Ko˝vecses, Zoltan
+
+2000
+
+Metaphor and Emotion: Language, Culture, and Body in Human Feeling.
+
+Cambridge: Cambridge University Press.
+
+Lane, Harlan
+
+1984
+
+When the Mind Hears: A History of the Deaf. New York, NY: Random
+
+House.
+
+Langacker, Ronald W.
+
+1987
+
+Foundations of Cognitive Grammar, vol. 1: Theoretical Foundations. Stan-
+
+ford: Stanford University Press.
+
+1991a
+
+Foundations of Cognitive Grammar, vol. 2: Descriptive Application. Stanford:
+
+Stanford University Press.
+
+1991b
+
+Concept, Image, and Symbol: The Cognitive Basis of Grammar. Berlin:
+
+Mouton de Gruyter.
+
+2000
+
+Grammar and Conceptualization. Berlin, New York: Mouton de Gruyter.
+
+2003
+
+Construction grammars: Cognitive, radical, and less so. Paper presented at
+
+the Eighth International Cognitive Linguistics Conference, Logron˜ o, Spain,
+
+20–25 July.
+
+McNeill, David
+
+1992
+
+Hand and Mind: What Gestures Reveal about Thought. Chicago: University
+
+of Chicago Press.
+
+Meier, Richard
+
+1980
+
+Icons and Morphemes: Models of the Acquisition of Verb Agreement in
+
+ASL. Papers and Reports on Child Language Development 20 (Nov), 92–99.
+
+Meillet, Andre´
+
+1948 [1912] L’e´volution des formes grammaticales. Paris: Champion. [Originally pub-
+
+lished in Science 12.26 (Milan).]
+
+Morris, Desmond, Peter Collett, Peter Marsh, and Marie O’Shaughnessy
+
+1979
+
+Gestures: Their Origin and Distribution. New York: Stein and Day.
+
+146 S. Wilcox
+
+Newport, Elisa L., and Richard Meier
+
+1985
+
+The acquisition of American Sign Language. In Slobin, D. I. (ed.), The
+
+Crosslinguistic Study of Language Acquisition, vol. 1: The Data. Hillsdale,
+
+NJ: Lawrence Erlbaum Associates, 881–938.
+
+Parrill, Faye
+
+2000
+
+Hand to mouth: Linking spontaneous gesture and aspect. Unpublished
+
+paper, Department of Linguistics, University of California at Berkeley.
+
+2001
+
+Linguistic aspect and gestural cues to backstage cognition. Paper presented
+
+at the Seventh International Cognitive Linguistics Conference, Santa Bar-
+
+bara, CA.
+
+Pietrandrea, Paola
+
+2002
+
+Iconicity and arbitrariness in Italian Sign Language. Sign Language Studies
+
+2 (3), 296–321.
+
+Pizzuto, Elena, Elena Cameracanna, Serena Corazza, and Virginia Volterra
+
+1995
+
+Terms for spatio-temporal relations in Italian Sign Language (LIS).
+
+In Simone, R. (ed.), Iconicity in Language. Amsterdam: Benjamins, 237–
+
+256.
+
+Pizzuto, Elena and Virginia Volterra
+
+2000
+
+Iconicity and transparency in sign languages: A cross-linguistic, cross-
+
+cultural view. In Emmorey, K., and H. Lane (eds.), The Signs of Language
+
+Revisited: An Anthology to Honor Ursula Bellugi and Edward Klima. Mah-
+
+wah, NJ: Lawrence Erlbaum, 261–286.
+
+Reilly, Judy
+
+2000
+
+Bringing a¤ective expression into the service of language: Acquiring per-
+
+spective marking in narratives. In Emmorey, K. and H. Lane (eds.), The
+
+Signs of Language Revisited: An Anthology to Honor Ursula Bellugi and Ed-
+
+ward Klima. Mahwah, NJ: Lawrence Erlbaum, 415–422.
+
+Russo, Tommaso, Rosaria Giurana, and Elena Pizzuto
+
+2001
+
+Italian Sign Language (LIS) poetry: Iconic properties and structural regu-
+
+larities. Sign Language Studies 2 (1), 85–112.
+
+Simone, Ra¤aele (ed.)
+
+1995
+
+Iconicity in Language. Amsterdam: John Benjamins.
+
+Stokoe, William C.
+
+1960
+
+Sign Language Structure. Silver Spring, MD: Linstok Press.
+
+Supalla, Ted, and Elisa L. Newport
+
+1978
+
+How many seats in a chair? In Siple, P. (ed.), Understanding Language
+
+Through Sign Language Research. New York, NY: Academic Press, 91–
+
+132.
+
+Taub, Sarah
+
+2001
+
+Language in the Body: Iconicity and Metaphor in American Sign Language.
+
+Cambridge: Cambridge University Press.
+
+Valli, Clayton, and Ceil Lucas
+
+1995
+
+Linguistics of American Sign Language: An Introduction. Washington, DC:
+
+Gallaudet University Press.
+
+Wilbur, Ronnie B.
+
+1987
+
+American Sign Language: Linguistic and Applied Dimensions. Boston, MA:
+
+College-Hill Press.
+
+Wilcox, Phyllis P.
+
+2000
+
+Metaphor in American Sign Language. Washington, DC: Gallaudet Univer-
+
+sity Press.
+
+Cognitive iconicity and signed languages 147
+
+Wilcox, Sherman
+
+1993
+
+Language from the body: Iconicity in signed languages. Paper presented at
+
+the Conference of the International Cognitive Linguistics Association,
+
+Leuven, Belgium, July 1993.
+
+1998a
+
+Cognitive iconicity and signed language universals. Paper presented at the
+
+Cognitive Morphology Workshop, Ghent, Belgium, 1–4 July.
+
+1998b
+
+Cognitive iconicity and signed language universals. Paper presented at the
+
+Fourth Conference on Conceptual Structure, Discourse, and Language, 10–
+
+12 October 1998, Emory University, Atlanta, GA.
+
+2001
+
+Conceptual spaces and bodily actions. Paper presented at the Seventh Inter-
+
+national Conference of the International Cognitive Linguistics Association,
+
+22–27 July, Santa Barbara, CA.
+
+2002a
+
+The iconic mapping of space and time in signed languages. In Albertazzi, L.
+
+(ed.), Understanding Perceptual Continua. Amsterdam: Benjamins, 255–281.
+
+2002b
+
+The gesture-language interface: Evidence from signed languages. In Schul-
+
+meister, R. and H. Reinitzer (eds.), Progress in Sign Language Research: In
+
+Honor of Siegmund Prillwitz/Fortschritte in der Geba¨rdensprachforschung:
+
+Festschrift fu¨r Siegmund Prillwitz, Hamburg: SIGNUM-Verlag, 63–81.
+
+Wylie, Lawrence
+
+1977
+
+Beaux Gestes: A Guide to French Body Talk. Cambridge: The
+
+Undergraduate
+

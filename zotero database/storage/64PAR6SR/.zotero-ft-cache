@@ -1,0 +1,538 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/324993314
+
+A new technique for analyzing narrative prosodic effects in sign languages using motion capture technology
+
+Chapter · May 2018
+DOI: 10.1075/la.247.02wil
+CITATIONS
+4
+2 authors:
+Ronnie Wilbur Purdue University 163 PUBLICATIONS 2,283 CITATIONS
+SEE PROFILE
+
+READS
+82
+Evguenia Malaia University of Alabama 56 PUBLICATIONS 353 CITATIONS
+SEE PROFILE
+
+Some of the authors of this publication are also working on these related projects: NCS-FO: Neuroimaging to Advance Computer Vision, NLP, and AI View project Computational modeling of neural information processing in autism View project
+
+All content following this page was uploaded by Evguenia Malaia on 25 May 2018. The user has requested enhancement of the downloaded file.
+
+A new technique for analyzing narrative prosodic effects in sign languages using motion capture technology
+Ronnie B. Wilbur and Evie Malaia
+Purdue University
+The present paper addresses prosody at a sentence level analysis within short narratives, developing a novel method based on a combination of data. Our first objective, then, is to establish the validity of our new method by confirming the findings of previous reports on Phrase Final Lengthening. Our second objective is to further extend the validity of the new method by confirming a prior claim regarding the role of increased velocity for signs that are stressed in sentences. Finally, we report new results in the form of patterns across signs within sentences using our new method.
+1. Introduction
+This research program addresses a simple question: What is fluent signing? The answer to this question is, however, not at all simple to find. One problem that interferes with investigating the answer is the absence of technology and established analytical methodology comparable to what is available for speech (cf. PRAAT). Motion capture equipment and recording techniques are still in development, and there is no standard analytical procedure or software. The procedures that we will describe in this paper are unlike those used by anyone, including us, up to this point. Furthermore, these procedures are still in development, and we have taken the extra precaution of demonstrating that the results we obtain match those that have been reported by earlier methods. There are two main differences between present and prior methods: (1) prior methods have targeted measurements at the individual sign level even when the productions are obtained from carrier phrases or three-sign sentences, whereas present methods aim toward capturing the prosody of signs in more naturalistic sentences (sentence-effects) and sentences in narratives (narrative-effects); and (2) prior methods required multiple (usually five)
+doi 10.1075/la.247.02wil © 2018 John Benjamins Publishing Company
+
+16 Ronnie B. Wilbur and Evie Malaia
+productions of each stimuli by each signer in order to obtain measures of variability, whereas the present method obtains large numbers of short fluent scripted narratives (48 for the present report) produced only once by a single signer. The goal, then, is not to determine absolute values for any of the measurement variables but rather to identify the relationships between the variables and the prosodic behaviors of interest, from which a model can be built. 1 Subsequent testing of the model would be the target of future work.
+1.1 Perceptual studies of prosody and fluency
+Two types of perceptual studies relevant to prosody and fluency have been conducted so far. In one, judges are shown videos of signers and are asked either (1) to rate the fluency of signers on a variety of criteria or (2) to determine prosodic boundaries based on the cues produced by signers.
+With respect to signer fluency, Kantor (1978) began the study of sign fluency by asking the question of how well fluent signers could be separated from non-fluent signers, using the assumption that Deaf native signers were, by definition, fluent signers (assuming no obvious motoric disturbances). In contrast, the status of hearing native signers and both Deaf and hearing L2 (second language, post-puberty) signers was not known. At the same time, it was not known which groups of signers would be able to separate fluent from non-fluent signers, nor how much an effect there would be on ratings from the signers’ hearing status. The two groups that were most easily identified were the native Deaf signers and the L2 hearing signers. In contrast, Deaf L2 signers were correctly identified as deaf but rarely as L2. Kantor interpreted these results as indicators of Deaf community status (“in” vs. “out”). Among the criteria mentioned by judges were facial expression, use of mime, exaggerated mouthing (early oral training), and rhythm of signing, including speed, fluidity and use of space. The L2 deaf and hearing judges performed considerably below the native groups, suggesting that they were less attuned to the salient characteristics.
+Lupton (1998) followed up to try to determine more specifically what criteria contribute to fluent signing. She observed that raters valued how the signs were produced - smooth and steady instead of choppy, hesitant, and jerky. Other motoric aspects, such as rate of signing or movement amplitude, did not correlate with fluency ratings. She also reported that less fluent signers were more likely to use excessive mouth movements, and to show less eye contact, facial expression, and body movements. These latter aspects – eye contact, facial expression and body
+1. Techniques for normalizing sign data to permit absolute value comparison across signers are under development (Grosvald 2009; Russell et al. 2011).
+
+A new technique for analyzing narrative prosodic effects in sign languages 17
+movements – are correlated with syntactic abilities as well, and thus it is important to note that the concept of fluency is not simply a rhythmic/motoric notion.
+Attempts to capture sign language prosody have been for the most part based on video data (Brentari 1998; Boyes Braem 1999; Brentari & Crossley 2002; Weast 2008; Wilbur 1994, 1997, 2000, 2010, 2011a,b; Wilbur & Patschke 1998), and those that involve experimental tasks. Descriptively, of most relevance is the fact that the Prosodic Hierarchy holds for ASL (Brentari 1998; Sandler & Lillo-Martin 2006). However, this topic is outside of the focus of the current paper; summaries can be found in Tang et al. (2010), Sandler (2012), and Ormel & Crasborn (2012). 2 Experimental techniques to capture prosody have included tapping (Allen, Wilbur & Schick 1991), signing at different rates (Grosjean & Lane 1977; Wilbur 2009), and cue judgments (González 2011; Brentari et al. 2011; Brentari, Nadolske & Wolford 2012).
+González (2011) presented ASL signing to four groups of viewers: ASL signers, Hong Kong Sign Language (HKSL) signers, non-signers, and second language (L2) learners of ASL. Viewers were asked to identify prosodic boundaries. Differences were found across all four groups in terms of both accuracy and reaction times. Non-signers and L2 signers were more accurate when a broader range of boundary cues were available, and HKSL signers were more accurate than ASL signers, indicating that knowing the language can result in distraction due to language processing.
+Brentari, Nadolske, and Wolford (2012) also identified the relative strengths of various cues with respect to the perception of boundaries by native and L2 ASL signers and non-signers: sign duration, presence of holds, transition duration between signs, pause duration (hold plus transition), blinks, drop hands, brow position change, head position change, and torso position change. Of these, only sign duration has so far been investigated kinematically.
+1.2 Production studies of fluency and prosody
+With respect to fluency of production, it is often assumed that adult learners of a sign language already have the motor coordination needed to fluently produce signed sentences and that the primary challenge to fluid performance is getting the right signs in the right sentence position in the appropriate structure for the
+2. It should be noted however that in Sandler (2012), as well as in Nespor & Sandler (1999) and Sandler & Lillo-Martin (2006), the position is taken that intonation is carried by the upper face while the hands produce the text. In contrast, Wilbur (2009) argued that the presence of upper face articulators is driven by semantics (showing the restriction of dyadic operators or the scope of monadic operators) and that these facial articulations are, once present, subject to the same prosodic processes that affect the hands (rhythmic phrasing, lengthening, stress).
+
+18 Ronnie B. Wilbur and Evie Malaia
+context. However, Lupton and Zelaznik (1990) demonstrated that this is not the case. Normal young adult learners of ASL did not achieve appropriate bilateral coordination of their left and right hands in two-handed signs until about 12 weeks into their first semester course.
+Another common misconception is that speed of signing is critical to perceived fluency. It is true that there is good correspondence between syntactic and prosodic breaks (Grosjean & Lane 1977), and that pause duration and other prosodic markers depend on signing rate (Wilbur 2009), but ratings of fluency are not dependent on signing rate (Lupton 1998).
+1.3 Prior kinematic work
+1.3.1 Prior motion capture work showing sign lowering Previous motion capture work focuses on analysis at the single sign level, with the target sign placed inside of a carrier phrase in order to ensure that the target sign can be properly extracted from the motion capture stream. This procedure enabled investigation of lowering of the target sign’s place of articulation resulting from the height effects of the previous or following sign, as well as from signing rate (Mauk & Tyrone 2008, 2012; Tyrone & Mauk 2010). Other research has contributed to understanding the possible nature of motor disorders in sign language (Tyrone 2007; Tyrone, Atkinson, Marshall & Woll 2009).
+Tyrone et al. (2010) provides a task-dynamic analysis of sign production, as did Wilbur (1990) and McDonald et al. (2016), which aims at determining the relative temporal components of signs. Along similar lines, Ormel and Crasborn (2012), using CyberGloves, compare the transitions between signs with the lexical movements of signs and report lower velocity in the transitional movements. They suggest that this cue helps the viewer distinguish lexical from transitional movements of the hand (recall that the hand is always visible, whether making a sign or not).
+1.3.2 Prior motion capture work showing verb class differences Our own previous research at the single sign level varied from the standard procedures somewhat in each study (cf. Malaia et al. 2012ab). One study focused on verbs produced by four deaf ASL fluent signers, but unlike standard tasks, they did not produce each stimulus multiple times in the same condition (Malaia & Wilbur 2012). The study design derived analytical power from larger numbers of diverse stimuli (40 different signs) recorded once per signer in each of four conditions across four signers. This allowed us to report the kinematic differences across well-represented linguistically meaningful classes of signs rather than at the level of individual signs. Thus, signers produced each target sign once in four different conditions (isolation, carrier phrase, carrier sentence medial, and carrier sentence
+
+A new technique for analyzing narrative prosodic effects in sign languages 19
+final), and there were 40 different target verb signs chosen from two semantically distinct groups. As observed by Wilbur (2003, 2008, 2010), event structure differences in the meaning of the verbs, that is, whether the verb denotes a telic event (one with an end-state, such as HIT) or an atelic event (such as TRAVEL), are reflected in the formation of the verb signs, with telics having sharper end-marking than atelics. 3 The kinematic results show that the end-points of telic signs are marked by significantly greater deceleration than atelics and that this different is not affected by prosodic processes related to sentence position (Phrase Final Lengthening). 4 Thus, the analysis compared the two groups of diverse signs against each other across different conditions.
+To determine whether the recruitment of kinematic features occurs in other sign languages for the same purposes, we conducted another study with one native hearing signer of Croatian Sign Language (Hrvatskom Znakovnom Jeziku, HZJ) who produced translated stimuli in the same four conditions in separate sessions (Malaia, Wilbur & Milković 2013). Thus, the HZJ data represents one signer, albeit on five different days and over 240 productions per day. These studies are driven by the Event Visibility Hypothesis (Wilbur 2003, 2008), which proposes that such use of kinematic features should be universal to sign languages by the grammaticalization of physics and geometry for linguistic purposes.
+HZJ differs from ASL in how telic and atelic verbs signs are related. In ASL, they are simply different unrelated roots, although there are some signs which can have their movement modified to allow them to alternate between denoting telic and atelic events. In HZJ, there are also those types of signs, but HZJ has a systematic process that ASL lacks: although all verbs with telic meaning have the marking of deceleration, ASL has no regular morphological process to produce an alternation between two forms of a verb from one stem. In contrast, looking at 200 HZJ aspectual pairs of verbs (400 total verbs), Milković (2011) found that
+3. This end state marking could be thought of as being like a suffix that combines with the verb in the same way that the past tense shows up on English verb ‘walk’, which although written ‘walked’ is pronounced /walkt/, that is, as a single syllable. The addition of the end state suffix in telic verb forms does not make a second syllable, but simply joins the existing syllable at its end.
+4. As a reminder of the physics: velocity (v) = distance (d) divided by time/duration (t). Accelera­ tion is the change in velocity over time. Acceleration can be discussed in two ways: (1) technically, deceleration is negative acceleration, that is, change in velocity in the negative direction (meaning slowing down, not ‘changing direction of movement’); as such, deceleration is not used as a term; and (2) more generally, acceleration can be used to mean ‘speeding up’ and deceleration to mean ‘slowing down’. We will use acceleration in labeling our variable MinA, the minimum acceleration will be a negative number, and ‘greater minA’ will more negative. For ease of exposition, we will use deceleration as a general term when not specifically referring to the variable itself. The reader is also reminded that all of these variables are completely visible in signing.
+
+20 Ronnie B. Wilbur and Evie Malaia
+
+they formed three groups. The largest systematically altered the properties of sign movement: the same root would appear with shorter, sharper movement for telic as compared to atelic. The second group did not allow alternation of telic and atelic signs from the same roots but instead used phrasal sequences of several types: verb plus a separate aspectual sign, quantification of the internal argument, or use of verbal complements. These are comparable to expressions used in English, for example, atelic ‘to run’ in ‘Mary ran’ can be telic in ‘Mary ran to the store’. The third group displayed pairs using suppletive stems parallel to ASL. Our motion capture study focused on the alternating group, although data for the suppletive group have already been collected.
+Like ASL, HZJ also showed significant differences in deceleration between verb classes. This observation supports the EVH claim that the end-point in event structure is kinematically manifested as ‘end-marking’ in sign production, whether such marking is unique to each sign root (i.e. lexical), as in ASL, or used productively throughout the verbal paradigm, as in HZJ. One clear difference between the two languages is peak velocity. For HZJ, the peak velocity was greater in telic signs as compared to atelic ones, and the effect of position was not significant (Figure 1). In contrast, in ASL peak velocity is affected both by verb type and phrase position. One possible interpretation of this difference between the two sign languages is that grammaticalization of event structure in HZJ makes the parameter of peak velocity robust to prosodic effects. A related possibility is that in ASL, peak velocity is used to indicate stress (Wilbur 1999), whereas currently there is no information concerning the marking of stress in HZJ, which may use a different motion variable or other type of marking (face/head/body). Further research is required to fully understand this kinematic difference between the two languages. This is the first cross-linguistic motion capture confirmation that specific kinematic properties of articulator motion are grammaticalised in other sign languages to express linguistic features.
+
+Peak velocity, m/s
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+medial
+
+final
+
+Position
+
+Telic predicates Atelic predicates
+
+Figure 1.  HZJ peak velocity showing no effect of phrase final lengthening
+
+A new technique for analyzing narrative prosodic effects in sign languages 21
+
+1.3.3 Prior motion capture work showing phrase final lengthening It should also be noted that both of these prior studies establish sentence level kinematics insofar as the phrase position of the target signs compares final with non-final effects. In ASL, the variables of duration and peak velocity are both affected by Phrase Final Lengthening; duration is expected from the very name of the process. The fact that peak velocity is also affected makes it an unreliable candidate to mark telicity, leaving deceleration as the main marker for ASL. HZJ also shows Phrase Final Lengthening effects on duration; however peak velocity is unaffected, whereas deceleration is affected (Figure 2). This marks a sharp contrast between the two languages.
+
+Deceleration, m/s2
+
+-
+a) ASL
+
+medial
+
+final
+
+Position
+
+Telic predicates Atelic predicates
+
+Minimum acceleration, m/s
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+medial
+
+final
+
+Position
+
+b) HZJ
+Figure 2.  Deceleration values for telic and atelic signs in medial and final position (note differences in maximum value of deceleration on Y-axis)
+In Malaia, Wilbur, and Milkovic (2013), we introduced another calculated measure, the Ratio of the telic-atelic slopes. This gives an overall indication of how fast the movement is coming to a stop in the two types of signs. To be clear, MinA is the value of the greatest deceleration achieved during the production of a sign’s movement, that is, the fastest rate of change in velocity while slowing. The slope is a more general measure, as it is calculated as the average slowing from MaxV
+
+22 Ronnie B. Wilbur and Evie Malaia
+to MinV (the change in velocity divided by how long it takes to get from MaxV to MinV). In both languages, the slope for telics is larger than for atelics. However, a comparison of the Ratios of telic slope to atelic slope reveals that the HZJ telic slopes are close to twice those of atelics (final telic to atelic: −.016/ −.009 = 1.78; medial telic to atelic:  −.019/ −.010 = 1.9), whereas for ASL the difference is much smaller (final telic to atelic: −.011/ −.007 = 1.57; medial telic to atelic: −.010/ −.008 = 1.25). This shows that HZJ also uses deceleration as a marker, but that deceleration is secondary to peak velocity in this language.
+1.3.4 Prior motion capture work showing stress marking The final prosodic marking that has been investigated kinematically using single target sign methods is stress. Wilbur (1999) summarises results of a motion capture study of 13 ASL signers producing target signs in carrier phrases for four relevant contexts: target sign is (1) stressed and final, (2) stressed and medial, (3) unstressed and final, and (4) unstressed and medial. Given that ASL prefers prominence in final position (Wilbur 1999), these carrier phrases were necessarily artificial albeit acceptable ASL, requiring unsigned context to make them semantically coherent. For example, signers were willing to produce “you must read book” once it was agreed that typically one would add another must at the end but that it was possible without it, albeit “Englishy,” or ellen must read book, [not Susan]. Other examples took advantage of word order possibilities in ASL: you read book must versus you must read book. The results provided the earliest instrumental (non-video) documentation of significant Phrase Final Lengthening effects on duration. In addition, whether target signs were stressed or unstressed did not affect duration; only peak velocity was significantly affected by stress. This means that signers do not have to make a four-way distinction in duration, that is, a different average duration for each combination of stress and phrase position. Instead, position is shown by duration, and stress is shown by velocity. Furthermore, displacement (how far the hands travel) is not affected by either of these variables, meaning that it is available to vary as needed to permit the distinctions in duration and velocity (see again fn. 2).
+
+A new technique for analyzing narrative prosodic effects in sign languages 23
+
+2. The present study
+
+The present paper addresses prosody at a sentence level analysis within short narratives, developing a novel method based on a combination of data. Our first objective, then, is to establish the validity of our new method by confirming the findings of previous reports on Phrase Final Lengthening. Our second objective is to further extend the validity of the new method by confirming a prior claim regarding the role of increased velocity for signs that are stressed in sentences. Finally, we report new results in the form of patterns across signs within sentences using our new method.
+To understand the structure of the current study, it is necessary to review an earlier stress study that did not involve motion capture. Wilbur and Schick (1987) scripted 48 different narratives (3 sentences each) that put 24 target signs in stressed and unstressed positions. For example, the sign DIE is targeted as stressed in (1a) and unstressed in (1b).
+
+(1) a. 		b.
+
+shock me. discover good friend die. think heart-attack. notknow … seem sick he, not-know me. “I was shocked to discover that my good friend died. I think it was a heart attack but I’m not sure. Apparently he was sick but I didn’t know.” my friend marry again. wife first die long-ago. now have wife. “My friend married again. His first wife died a long time ago. Now he has a wife again.”
+
+Fourteen Deaf ASL signers produced the narratives, which were recorded. To confirm that the stress target signs were indeed stressed, two judges separately watched all 14 signers producing all narratives. Each judge circled the corresponding gloss on a judgment sheet for any sign that appeared to them to be stressed. The present study uses the same 48 narratives and the stress judgments but in novel ways to be described below.
+Before proceeding, we should report the results observed by Wilbur and Schick. When stressed signs were compared to their unstressed counterparts, the stressed signs were seen to be set off from the surrounding unstressed signs by ‘sharper transition boundaries’, to be higher in the signing space, and produced with apparent increased muscle tension. These differences in production were determined by skilled ASL linguists watching 30 fps videotape repeatedly. Subsequent instrumental studies have attempted to better understand what produces these visual effects.
+Turning now to the present study, we report one set of data recorded during an entire afternoon of motion capture recording of one Deaf ASL signer. During that time, none of the stimuli were repeated unless the signer felt that the previous production was not right. Our goal is to develop techniques and to demonstrate
+
+24 Ronnie B. Wilbur and Evie Malaia
+their validity and reliability that will permit us to analyse large quantities of data, such as collected that afternoon and on other occasions, representing fluent ASL in scripted as well as unscripted narratives and stories. Ideally we can characterise signing that is fluent as well as signing that is not fluent (for example, the few examples that were rejected and repeated during the recording sessions). To be able to deal with the small number of non-fluent examples, we need techniques that do not require multiple repetitions to obtain.
+For the present study, we analyse the kinematic data from one ASL signer in a motion capture suit who produced the same 48 narratives used for Wilbur and Schick (1987). We combine that data with a stress WEIGHT variable derived from the older study, as well as with additional linguistic variables describing the signs and sentences in which they occurred.
+2.1 Procedure
+2.1.1 Motion capture method for current report A Deaf fluent ASL signer was recorded producing the same 48 short narratives used in Wilbur and Schick (1987). The signer wore a Gypsy 3.0 motion capture suit, and the data about XYZ positions of all markers were collected at the rate of 60 fps by 6 specialty cameras mounted in a circle on the ceiling. With these cameras, no markers are ever occluded from recording, eliminating the recurrent problem of missing data in standard motion recording setups. A simultaneous video recording at 30 fps rate was made with an NTSC video camera on a tripod outside the motion capture recording field. The positional data from the marker on the right wrist, tracking the movement of the dominant signing hand, was used for the analysis. These procedures parallel those used in Malaia and Wilbur (2012a) and Malaia, Wilbur, and Milković (2013).
+2.1.2 Coding for non-kinematic linguistic and perceptual variables The video was imported into ELAN annotation software and aligned using audio markers and the T-pose (the signer standing with hands extended to the sides at shoulder level) at the beginning and end of each recording section. The video was then annotated in ELAN by a series of signers in the Purdue ASL Lab. The first round of annotation added the gloss of each sign and marked the beginning and end of each sign following procedures established by Green (1984), assuming the first frame of recognition of the sign-initial handshape as the beginning of each predicate, and either the point of contact, or maximal distance traveled by the hand, as the end of the sign. Thus, the onset and the ending of each sign were defined linguistically based solely on the video cues, without access to kinematic variables.
+
+A new technique for analyzing narrative prosodic effects in sign languages 25
+The remaining five rounds of annotations not only checked accuracy of the first round but also added additional information. Each sign was coded for the following variables: narrative number (Story), sentence number within each narrative (Sentence), gloss number within each sentence (Gloss), whether the sign was originally target to be stressed or not (Stress), and the position of each sign within its sentence/phrase (Position). For Position, each sign was coded (1or 0) for each possibility: Initial, Final, neither (Medial), or both (List). Our inclusion of List (as both Initial and Final in its phrase) is a novel contribution of this study; signs so coded can be either in an actual list or e.g. a single sign Topic. In (2) tap-shoulder is phrase final, ice-cream is both phrase initial and phrase final, as is pop.
+(2) always poss-1 daughter tap-shoulder, ice-cream, pop. ix-1 blew-up, tell-ix-3 later, don’t bother ix-1. “My daughter is always bothering me for ice cream, soda pop. I told her “Later! Don’t bother me.”
+In addition to these linguistic measures, we calculated a perceptual measure of stress called Weight through the following procedure. We started with the (archived) original stress judgments of the two judges from the Wilbur and Schick (1987) study; these judges had separately watched 14 signers producing the same 48 narratives. The judges had each circled the corresponding glosses printed on paper if the sign appeared to them to be stressed. We calculated a “stress score” by totaling the number of times each sign was judged to be stressed (2 judges × 14 signers) and converted the total for each sign to percent to yield the variable Weight.
+2.1.3 Coding for kinematic variables The beginning and end time points for each sign were exported from ELAN and processed in MATLAB to extract speed and acceleration profiles for each sign from the recorded kinematic files. The following kinematic metrics were identified or calculated for each sign following the procedure determined by Malaia and Wilbur (2012a):
+a. duration in milliseconds (DURation); b. peak instantaneous speed achieved (MaxV); c. the local minimum speed following the peak speed (MinV); d. the percent of sign movement elapsed to the moment where peak speed oc-
+curred (% elapsed dur), which is also the point at which deceleration starts; e. subsequent minimum deceleration (MinA) f. the slope from MaxV to MinV (Slope)
+
+26 Ronnie B. Wilbur and Evie Malaia
+
+displacement (mm)
+
+An example of each variable for the ASL sign hit is given in Figure 3 (from Malaia & Wilbur 2012a); the variables are labeled on the displacement, speed, and acceleration profiles for the sign.
+-
+
+velocity (m/s)
+
+d
+. b
+
+.
+
+f
+
+c
+
+acceleration (m/s )
+
+-
+
+-
+
+e
+
+-
+
+a frames
+
+Figure 3.  Kinematic variables for ASL hit. The variables are labeled on the displacement, velocity, and acceleration vectors: (a) sign duration; (b) maximal velocity (MaxV); (c) minimum velocity following peak velocity (MinV); (d) percent of sign elapsed to peak velocity (% elapsed); (e) minimal acceleration (MinA) following peak velocity; (f) overall slope of deceleration from peak velocity to the following minimum velocity (slope).
+
+2.2 Analyses
+Variables were combined from multiple sources: ELAN exported output, the calculated variable Weight, and kinematic measures derived from Matlab analyses of motion capture data. Several statistical analyses were performed using SPSS 20. These
+
+A new technique for analyzing narrative prosodic effects in sign languages 27
+
+included paired t-test for comparing the stressed and unstressed sign pairs and multiple analysis of variance (MANOVA) with regression and post-hoc analyses.
+Our analysis began with 694 signs in 144 sentences across the 48 paragraphs, or approximately 14.5 signs per narrative. Signs with maximal speed occurring on the last or next to last frame were discarded from analysis (21% of cases); these were the cases where contact occurred at the end of the sign, but both hands kept moving together briefly after contact; this situation resulted from using Green’s (1984) definition for determining the sign end, which perhaps cuts the end short. 5 This resulted in 548 signs being available for analysis.
+
+2.3 Results
+
+2.3.1 Kinematic analysis by sentence position The analysis by sentence position focused first on validating the procedure by determining whether the data provided evidence for Phrase Final Lengthening. Towards this end, the duration of signs (DUR) was analysed against position (Initial, Medial, Final, and List); means and standard deviations are given in Table 1 (Figure 4). Position had an overall effect on Duration (F(3,544) = 39.629, p < .001). The mean duration of Final signs is 69.6% longer than Initial signs and 52% longer than Medial signs. 6 These results indicate that there is Phrase Final Lengthening in our data, across 144 sentences and 48 narratives. This finding provides a measure of validity for this method.
+
+Table 1.  Sign duration by sentence position
+
+Position
+Initial Medial Final List Total
+
+Mean (ms)
+461.53 513.53 782.45 913.58 614.17
+
+Std. deviation
+
+N
+
+280.22
+
+157
+
+267.76
+
+178
+
+440.32
+
+167
+
+431.31
+
+ 46
+
+381.97
+
+548
+
+5. This exclusion was enforced by a filter in SPSS to prevent miscalculation of the slopes (avoiding division by 0 or 1). If each variable were analysed separately, these cases could have been omitted just for the slope analysis, but it was deemed preferable to begin by using a stable number of cases across all variables.
+6. Bear in mind that Initial signs here does not include Topic signs, which are included in the List position to be discussed.
+
+28 Ronnie B. Wilbur and Evie Malaia
+
+Duration (ms)
+
+Initial
+
+Medial
+
+Final
+
+List
+
+Position
+
+Figure 4.  Sign duration by sentence position
+
+In addition to Phrase Final Lengthening, there is also an interesting lengthening of signs in List condition. As indicated earlier, signs coded as List are those which are both Initial and Final in their phrases. 7 There were 48 signs in this group, which includes 14 that are also the first sign in their sentences, indicating that they are Topics. 8 These signs are 16.8% longer than those that are coded only as being in Final position. This extra length in List position is part of what accounts for their prosodic distinctiveness as reflected in the fact that their Weight score (how stressed they were perceived to be by the judges watching these narratives produced by 14 ASL signers not wearing motion capture suits) was, like Final position, significantly different from Initial and Medial positions (Bonferroni-adjusted post-hoc testing).
+Knowing what signs in List situations look like kinematically compared to those in regular sentence positions may lead the way to developing a procedure for characterizing non-fluent signing. Presumably, someone with Parkinson’s disease or other motor disfluencies might show list-like productions in greater number and in places inside sentences that would not be appropriate given their actual sentence position. This procedure needs to be developed further, but the goal is to be able to describe the difference between the prosody of natural sentences and simple lists of signs in a row. If we can capture this difference, and if it is based primarily on duration, we might be able to develop a measure that does not require motion capture equipment to calculate.
+
+7. List was not an option for coders however; they were only coding Initial and Final positions. Both List and Medial were subsequently calculated variables: List if both Initial and Final were equal to one, and Medial if both Initial and Final were zero.
+8. That is, they are sentence initial and also final in their own phrase. There are no sentences that consist of only one sign.
+
+A new technique for analyzing narrative prosodic effects in sign languages 29
+
+Our analysis by sentence position also reveals sentence position effects on some of the remaining variables. Both % elapsed to maxV and MinA were significantly affected (F(3,544) = 2.718, p < .05 for %elapsed to MaxV; 4.527, p < .005 for MinA). MaxV approached significance (F(3,544) = 2.387, p = .068). There were no other main effects for sentence position. Figures 5–9 display the individual variables mapped against sentence positions. The graphs illustrate that Final differs from Initial and Medial, and that sometimes List groups with Final and sometimes it is distinct. Our next planned study includes multiple lists of signs (in addition to natural narratives), so we will return to this problem in the future to get a better picture of the kinematics of list behavior.
+
+Max velocity (m/s)
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Initial
+
+Medial
+
+Final
+
+List
+
+Position
+
+Figure 5.  MaxV by sentence position
+
+% elapsed to MaxV
+
+Initial
+
+Medial
+
+Final
+
+List
+
+Position
+
+Figure 6.  Percent elapsed sign movement to MaxV by position
+
+30 Ronnie B. Wilbur and Evie Malaia
+
+Min velocity (m/s)
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Initial
+
+Medial
+
+Final
+
+List
+
+Position
+
+Figure 7.  Minimum velocity after MaxV
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Initial
+
+Medial
+
+Final
+
+List
+
+Position
+
+Figure 8.  Slope from MaxV to MinV by position
+
+Min A (m/s )
+
+-.
+
+-.
+
+-.
+
+-.
+
+-.
+
+-.
+
+-.
+
+Initial
+
+Medial
+
+Final
+
+List
+
+Position
+
+Figure 9.  MinA by position
+
+A new technique for analyzing narrative prosodic effects in sign languages 31
+2.3.2 Kinematic analysis of stress A particular advantage of the current data set is that the 48 narratives represent 24 pairs of signs which are targeted as stressed in one of the narratives and as unstressed in the other narrative. Given that the original scripting of the narratives was done long before motion capture was readily available, there was no concern in the scripting for trying to make the two narratives in the pair as similar as possible except for the target’s stress status. Given what is now known about stress and focus in ASL (Wilbur 1997, 1999), such scripting could not be accomplished beyond simple albeit manipulated carrier phrases. Thus we are analyzing data in which both the stressed and unstressed target signs are surrounded by different lexical items in different syntactic structures and possibly even in different sentence sequences in the narratives. In other words, we are looking at signing that is close to natural spontaneous signing which, even though scripted, was nonetheless scripted by a native ASL signer. Ideally, techniques developed to analyse this data set will eventually be generalizable to natural signing (at least as natural as can be achieved with motion capture sensors on and/or video cameras recording).
+Because we have pairs of signs, we are able to perform paired t-tests, which are the strongest tests for differences. 9 Each sign is tested against itself for each variable: Duration, MaxV, % Elapsed Duration, MinV, slope, and MinA (Table 2). We provide the data on Weight to show that indeed stressed signs were judged as stressed more often (giving a higher weight score) than unstressed signs.
+The only variable that differs significantly between stressed signs and their unstressed counterparts is MaxV, the peak velocity achieved during the sign’s movement. 10 This finding is consistent with the prior motion capture result reported by Wilbur (1999) and provides another measure of validity for our current method. Having said that, it is clear that unless the data is set up to permit this type of comparison, paired t-tests will not be of particular use in capturing generalizations about prosodic structure over narratives.
+Having looked at the stronger test, we proceed to investigate the contribution of each variable to stress marking using multiple variable analysis of variance
+9. If we wanted to find out if people generally have different size feet, we measure everyone’s left foot and right foot and determine if there is a difference between them (pair each left with each right foot), then analyse across individuals to get an average difference in size, rather than comparing the mean of everyone’s left feet with the mean of everyone’s right feet because this latter calculation is subject to greater variance (suppose there are many more taller people than shorter people, and perhaps taller people have a greater size difference than shorter people).
+10. Note that MinA came close to significance. As a kinematic variable, MinA was not studied prior to Malaia and Wilbur (2102), so this is its first appearance in a study related to stress.
+
+32 Ronnie B. Wilbur and Evie Malaia
+
+Table 2.  Paired t-test for stressed-unstressed targets*
+
+Paired differences
+
+Duration MaxV % elapsed to Max V MinV Slope MinA Weight
+
+Mean
+ 82.457   1.909 −13.206   0.947  −0.527  −0.031  −0.296
+
+SD
+559.462   2.862  52.912   3.619   1.413   0.070   0.245
+
+SE
+122.085   0.625  11.546   0.789   0.392   0.015   0.054
+
+t
+
+df
+
+ 0.675 20  3.056 20 −1.144 20  1.199 20 −1.346 12 −1.985 20  5.526 20
+
+Sig.
+0.507 0.006 0.266 0.245 0.203 0.061 0.000
+
+* Note the reduced number of degrees of freedom. Some of the unstressed targets were so unstressed that they were not produced by the signer at all, which eliminates that pair from processing. In addition, the restriction concerning where MaxV is found with respect to the end of the sign (not less than 2 frames from the end), eliminated several pairs from being analysed for that variable.
+
+(MANOVA) conducted through the generalised linear method (GLM). 11 The variables are tested against the two groups of signs: target stress signs or unstressed signs. This analysis revealed significant effects of Duration and MinA on stress, whereas MaxV only approached significance. 12 One problem with conducting analysis this way, however, is that we already know that position in the sentence significantly affects duration, and also that many of the signs that occur in final position were not targeted as stressed in the original narratives, but they are included in the unstressed group even if they were produced as stressed. A second problem is that there were originally only 24 signs that were targeted to be stressed, so the unstressed signs greatly outnumber the target stressed ones (524 to 24), creating a large imbalance in the numbers in each group. Two additional analyses could be proposed: (1) to include both Stress and Position in the analysis, which addresses the first problem, but not the second; and (2) to look at a different analysis altogether in which the Weight variable (judgments of stress productions) is used rather than the targeted (intended) stressed signs (Stress). This method addresses both problems because all signs have a Weight score. 13
+
+11. This is the analysis in which everyone’s left foot is analysed against everyone’s right foot rather than in pairs by individual.
+12. Slope also approaches significance.
+13. There are however many signs which have a Weight score of zero. This results from either (a) the judges never circled it when watching the original 14 signers producing it, or (b) the sign was not included in the original scripted narratives and therefore was not judged on the answer sheet if it was present or it was not produced then but was produced by the signer wearing the motion capture suit.
+
+A new technique for analyzing narrative prosodic effects in sign languages 33
+
+First we show that Weight addresses both the position contribution and the small number of stress targets problems. This discussion will also allow us to demonstrate the behavior of Weight, a perceptual measure, as a useful variable in motion capture analysis.
+We first conduct an analysis of variance of Weight against Stress and Position. As predicted, main effects are significant for both Stress (F(1,540) = 63.320, p < .001) and Position (F(3,540) = 3.103, p < .03), as is their interaction (F(3,540) = 2.645, p < .05). First, signs which were stress targets have a mean weight score of .708 (max = 1.00; SE .065), whereas those that were not have a mean weight score of .183 (SE .01). Thus, Weight clearly distinguishes those signs that were targeted for stress as a separate group from those that were not (recall that Weight was not determined for motion capture or this signer but from previous signers and from videorecordings). Second, different sentence positions showed different weight scores: Initial .490 (SE .101), Medial .457 (SE .059), Final .337 (SE .03), and List .496 (SE .053); post-hoc testing shows that the only significant difference is List compared to the other positions. These numbers at first appear surprising because they seem to decrease as we go from initial to medial to final in contrast to what we might expect given our knowledge of stress behavior in ASL (Wilbur 1999). That is why it is necessary to look at the interaction between Stress and Position. These data are given in Table 3.
+
+Table 3.  Weight scores by stress by position
+
+Position
+Initial Medial Final List
+
+Unstressed
+.124 SE .016 .128 SE .015 .157 SE .016 .323 SE .031
+
+Stressed
+.857 SE .202 .786 SE .117 .518 SE .058 .670 SE .101
+
+The question we then ask is what kinematic variables contribute to the perception of stress as reflected by the Weight score. For this we use a regression of Weight against the other kinematic variables. A linear regression analysis shows what we expect – Weight scores are most affected by whether the target sign is stressed or not (t = 8.967, p < .001), with position effects contributed by sign duration (t = 5.424, p < .001). When duration is removed using regression analysis (filtering out position effects), Weight is significantly correlated with MaxV, slope, and MinA. 14 The analysis also reveals that MaxV is significantly correlated with all the other variables except duration. Because of these correlations, MaxV does not appear as
+
+14. This provides a possible explanation for the appearance of MinA as a nearly significant variable in the paired t-test results.
+
+34 Ronnie B. Wilbur and Evie Malaia
+a significant predictor of Weight when duration is included in the mix. As one can see, unraveling the relationships among the kinematic variables requires careful planning, as well as multiple post-hoc analyses. Clearly establishing the relationships would not have been possible if we had not already conducted the paired t-test and the earlier controlled carrier phrase study.
+2.3.3 More general test of relationships among measured variables and weight Now we turn to what can be characterised beyond the single sign and single sentence level. As mentioned above, one goal is to be able to characterise the difference between natural signed sentences and simple lists of signs. Another goal is to be able to characterise narrative as contrasted with a simple list of sentences. As a step in that direction, we begin by looking for effects that are related to whether the sign occurs in the initial, medial or final sentence of each narrative (SentCount), in addition to preserving the information about the position where it occurs in its own sentence.
+We will report two illustrations that indicate the possibility that the medial sentence may be an environment where other processes may be occurring, or alternatively, where other processes are not occurring. From these, we can develop testable hypotheses: (1) In a narrative, initial sentences have different prosody from those that follow; and (2) In a narrative, the final sentence has different prosody from those that precede. Testing of these hypotheses requires narrative data with more than one medial sentence, thus, longer narratives than the current data set provides. One thing we see is a difference in Final and List duration in the middle sentence that does not occur in the first or last sentence (Figure 10). In the first and last sentence, the durations of Final and List signs are relatively close to each other, whereas in the second sentence, List appears to be much longer. Thus, we can say that there is no obvious effect of sentence sequence on sign duration overall, but there is a possible middle sentence effect on Final and List signs.
+Sentence Position Initial Medial Final List
+Sentence in Sequence
+Figure 10.  Sign duration by sentence position by sentence position in narrative
+
+Sign Duration (ms)
+
+A new technique for analyzing narrative prosodic effects in sign languages 35
+The second illustration of possible sentence sequence effects in narratives comes from analysis of MaxV (peak velocity), which as we have noted is a primary carrier of stress. We can rephrase the question as one of whether there is a difference in how stress is marked as a function of where the sentence is located in a narrative. This analysis looks at MaxV as a function of Position by Sentence in Sequence shown by whether the sign was targeted for stress or not. This analysis, displayed graphically in Figure 11, again shows that List is more variable than other positions. It also shows a larger variance in MaxV when the signs are stress targets. The MaxV patterns are also somewhat different for first, middle, and last sentences in sequence in the narratives. Perhaps the biggest point highlighted by this analysis is that analyzing natural signing (or at least naturalistic signing from native signer scripted stimuli) is not the same thing as analyzing carefully controlled constructed stimuli. Note that in the stress target column, there are no signs in initial position in the first sentence that were targeted for stress, that is, one does not start a narrative with the
+Unstress (0) - Stress (1) Targets
+
+Mean maxV
+
+Sentence in Sequence
+
+Initial Medial Final List
+
+Initial Medial Final List
+
+Position
+
+Figure 11.  MaxV by position by sentence in sequence by stress
+
+36 Ronnie B. Wilbur and Evie Malaia
+absolute first sign as stressed. Similarly, there were no signs in the last sentence of any of the narratives that were targets for stress, resulting in a blank graph. This tells us that when narratives are scripted to feel naturalistic (the original goal in Wilbur and Schick 1987), there are certain places where stressed signs do not feel natural: the beginning and the end of a narrative. In the case of the beginning, it is acceptable to have a sign be stressed in the initial sentence but not in the initial position of that sentence. In the case of the end, it appears that the entire last sentence may be off limits. These observations are suggestive, not definitive, and require different data and methods for subsequent analysis.
+2.4 Summary
+This study has used motion capture data to reconfirm previous analysis of linguistic stress as marked by increased peak velocity in ASL. The only variable that differs significantly between stressed signs and their unstressed counterparts is the peak velocity achieved during the sign’s movement. This finding then provided a measure of validity for development of our newer method, which relies only a large amount of data collected from a single signer with each signed utterance signed only once, rather than the traditional five times. Our newer analysis revealed a significant contribution of sign duration and minimum peak acceleration (deceleration) to linguistic stress, with peak velocity only approaching significance. Once the additional contribution of phrase final position (duration lengthening) was taken into consideration by using the Weight variable, a perceptual measure, we were able to show that Weight addresses both the position contribution and the small number of stress targets problems. Finally, we have taken first steps towards understanding the prosodic effects of signed utterances in narratives and contributed the notion of List position as a potentially separate prosodic category.
+3. Conclusion
+Prior kinematic work has established sentence-level effects such as Phrase Final Lengthening and stress marking, albeit in carrier phrase or single sentence stimuli. Larger narratives have rarely been addressed in production and not with kinematic analysis afforded by motion capture capabilities. The analyses provided in this paper have focused on demonstrating the potential of using different techniques for approaching motion capture data for linguistic purposes. Traditional techniques focus on analyzing variations in production across multiple repetitions per stimulus item across multiple signers. We have shown, with the analysis of duration and
+
+A new technique for analyzing narrative prosodic effects in sign languages 37
+Phrase Final Lengthening, that single productions of sufficient multiple stimuli by a single signer can be used to obtain comparable power and the same results as the traditional methods. We have also shown, using paired-t tests of target signs in stressed and unstressed contexts, that we can arrive at the same results as carrier phrases using traditional methods. In addition, our approach permits analysis of relatively more natural signing in longer narratives. From this, we are able to start the process of looking at the effects of sentence position within narratives as a possible way of capturing notions of fluent signing beyond single signs in carrier phrases or single sentences. An additional contribution of this approach has been the identification of “list” items, those which are the only sign in their phrase. Further characterization of this type of sign may enable us to develop measures of sentence prosody compared to ‘signs in a string’, and will also help to capture the difference between fluent signing and learner and movement-disrupted signing. Finally, the direction we are headed eventually will enable us to describe characteristics of different genres of signing – stories, instructions, explanations, spatial layouts, constructed actions, art-sign – as well as non-signing gesture. 15 We have previously suggested that sign language research can contribute techniques and models to gesture research (Wilbur & Malaia 2008; Malaia 2014, 2017), and have started to see more interaction in this domain (Pfeiffer 2013; Pfeiffer et al. 2013; Kroger et al. 2011; Malaia et al. 2016, 2017).
+Acknowledgements
+We would like to thank John Lestina for providing signing in the motion capture suit. Recording was conducted at the Envision Center for Data Visualization at Purdue University. This work was partially supported by NSF grant 0345314 and by NIH DC00935 to Ronnie Wilbur.
+15. However, we must end with some caveats. Our current analyses are across all narratives but ignore narrative structure effects that may occur in our scripted narratives – this is not the analysis we want to end up with. We also want our analysis to capture ‘within sentence within narrative’, that is 48 separate analyses of three sentences in a row (what we have now is the average of 48 sentences across narratives, not the same thing). That cannot be done by current methods, so new approaches must be identified. But we do have a snapshot of within-sentence and within-narrative position effects.
+
+38 Ronnie B. Wilbur and Evie Malaia
+References
+Allen, G. D., Wilbur, R. B. & Schick, B. 1991. Aspects of rhythm in American Sign Language. Sign Language Studies 72: 297–320.
+Boyes Braem, P. 1999. Rhythmic temporal patterns in the signing of deaf early and later learners of Swiss German Sign Language. Language & Speech 42: 177–208.
+Brentari, D. 1998. A Prosodic Model of Sign Language Phonology. Cambridge MA: The MIT Press. Brentari, D. & Crossley, L. 2002. Prosody on the hands and face: Evidence from American Sign
+Language. Sign Language & Linguistics 5: 105–130. Brentari, D., Nadolske, M. & Wolford, G. 2012. Can experience with co-speech gesture influ-
+ence the prosody of a sign language? Sign language prosodic cues in bimodal bilinguals. Bilingualism: Language and Cognition 15(2): 402–412. Brentari, D., González, C., Seidl, A. & Wilbur, R. B. 2011. Sensitivity to visual prosodic cues in signers and nonsigners. Language & Speech 54: 49–72. González, C. 2011. Perception of Prosody in American Sign Language. PhD dissertation, Purdue University. Green, K. 1984. Sign boundaries in American Sign Language. Sign Language Studies 42: 65–91. Grosjean, F. & Lane, H. 1977. Pauses and syntax in American Sign Language. Cognition 5: 101–117. Grosvald, M. A. 2009. Long-distance Coarticulation: A Production and Perception Study of English and American Sign Language. PhD dissertation, University of California at Davis. Kantor, R. 1978. Identifying native and second-language signers. In Sign Language Research, R. B. Wilbur (ed.), Special issue of Communication and Cognition 11(1): 39–55. Kröger, B. J., Birkholz, P., Kannampuzha, J., Kaufmann, E. & Mittelberg, I. 2011. Movements and holds in fluent sentence production of American Sign Language: The action-based approach. Cognitive Computation 3(3): 449–465. Liddell, S. K. 1977. An Investigation into the Syntactic Structure of American Sign Language. PhD dissertation, University of California, San Diego. Lupton, L. K. 1998. Fluency in American Sign Language. Journal of Deaf Studies and Deaf Education 3(4): 320–328. Lupton, L. K. & Zelaznik, H. 1990. Motor learning in sign language students. Sign Language Studies 67: 153–174. Malaia, E. 2014. It still isn’t over: Event boundaries in language and perception. Language and Linguistics Compass 8(3): 89–98. Malaia, E. 2017. Current and future methodologies for quantitative analysis of information transfer in sign language and gesture data. Behavioral and Brain Sciences 40. Malaia, E., Borneman, J. D. & Wilbur, R. B. 2016. Assessment of information content in visual signal: analysis of optical flow fractal complexity. Visual Cognition 24(3): 246–251. Malaia, E., Borneman, J. D. & Wilbur, R. B. 2017. Information transfer capacity of articulators in American Sign Language. Language and Speech. doi: 10.1177/0023830917708461. Malaia, E., Ranaweera, R., Wilbur R. B. & Talavage, T. M. 2012. Neural representation of event structure in American Sign Language: fMRI comparison of cortical activations in deaf signers and hearing non-signers. Neuroimage 59: 4094–4101. Malaia, E. & Wilbur, R. B. 2012a. Kinematic signatures of telic and atelic events in ASL predicates. Language & Speech 55(3): 407–421.
+
+A new technique for analyzing narrative prosodic effects in sign languages 39
+Malaia, E. & Wilbur, R. B. 2012b. Telicity expression in the visual modality. In Telicity, Change, and State: A Cross-categorial View of Event Structure, V. Demonte & L. McNally (eds), 122– 136. Oxford: OUP.
+Malaia, E., Wilbur, R. B. & Milković, M. 2013. Kinematic parameters of signed verbs at the morphophonology interface. Journal of Speech, Language and Hearing Research 56: 1677–1688.
+Malaia, E., Wilbur, R. B. & Weber-Fox, C. 2013. Event end-point primes the undergoer argument: Neurobiological bases of event structure processing. In Studies in the Composition and Decomposition of Event Predicates, B. Arsenijević, B. Gehrke & R. Marin (eds), 231–248. Dordrecht: Springer.
+Mauk, C. E. 2003. Undershoot in Two Modalities: Evidence from Fast Speech and Fast Signing. PhD dissertation, University of Texas at Austin.
+Mauk, C. E. & Tyrone, M. E. 2008. Sign lowering as phonetic reduction in American Sign Language. In Proceedings of the 2008 International Seminar on Speech Production, R. Sock, S. Fuchs & Y. Laprie (eds), 185–188. <http://issp2008.loria.fr/proceedings.html>
+Mauk, C. E. & Tyrone, M. E. 2012. Location in ASL: Insights from phonetic variation. Sign Language & Linguistics 15(1): 128–146.
+McDonald, J., Wolfe, R., Wilbur, R. B., Moncrief, R., Malaia, E., Fujimoto, S., Baowidan, S. & Stec, J. 2016. A new tool to facilitate prosodic analysis of motion capture data and a data-driven technique for the improvement of avatar motion. In Proceedings of the Seventh Workshop on the Representation and Processing of Sign Languages: Corpus Mining (LREC-2016), 153–158, Portorož, Slovenia.
+Milković, M. 2011. Verb classes in Croatian Sign Language (HZJ): Syntactic and semantic properties (Unpublished doctoral dissertation). University of Zagreb, Croatia.
+Nespor, M. & Sandler, W. 1999. Prosody in Israeli Sign Language. Language and Speech 42: 143–176.
+Ormel, E. & Crasborn, O. 2012. Prosodic correlates of sentences in signed languages: A literature review and suggestions for new types of studies. Sign Language Studies 12(2): 279–315.
+Pfeiffer, T. 2013. Documentation of gestures with motion capture. In Body – Language – Communication, C. Müller, A. Cienki, E. Fricke, H. S. Ladewig, D. McNeill & S. Tessendorf (eds), 857–868. Berlin: De Gruyter Mouton.
+Pfeiffer, T., Hofmann, F., Hahn, F., Rieser, H. & Röpke, I. 2013. Gesture semantics reconstruction based on motion capturing and complex event processing: A circular shape example. In Proceedings of the SIGDIAL 2013 Conference, Maxine Eskenazi, Michael Strube, Barbara Di Eugenio & Jason D. Williams (eds), 270–279. Metz: ACL. <https://aclanthology.info/ volumes/proceedings-of-the-sigdial-2013-conference>
+Russell, K., Wilkinson, E. & Janzen, T. 2011. ASL sign lowering as undershoot: A corpus study. Laboratory Phonology 2(2): 403–422.
+Sandler, W. 2012. Visual prosody. In Sign language, R. Pfau, M. Steinbach & B. Woll (eds), 55–76. Berlin: De Gruyter Mouton.
+Sandler, W. & Lillo-Martin, D. 2006. Sign Language and Linguistic Universals. Cambridge: CUP. Tang, G., Brentari, D., González, C., & Sze, F. 2010. Crosslinguistic variation in prosodic cues. In
+Sign languages, D. Brentari (ed.), 519–542. Cambridge: CUP. Tyrone, M. E. 2007. Simultaneity in atypical signers – Implications for the structure of signed lan-
+guage. In Simultaneity in Signed Language: Form and Function [Current Issues in Linguistic Theory 281], M. Vermeerbergen, L. Leeson & O. Crasborn (eds), 317–335. Amsterdam: John Benjamins.
+
+40 Ronnie B. Wilbur and Evie Malaia
+Tyrone, M. E., Nam, H., Saltzman, E., Mathur, G. & Goldstein, L. 2010. Prosody and movement in American Sign Language: A task-dynamics approach. In Speech Prosody 2010 Conference Proceedings. <http://speechprosody2010.illinois.edu/papers/100957.pdf>
+Tyrone, M. E., Atkinson, J. R., Marshall, J. & Woll, B. 2009. The effects of cerebellar ataxia on sign language production: A case study. Neurocase 15(5): 419–426.
+Tyrone, M. E. & Mauk, C. E. 2010. Sign lowering and phonetic reduction in American Sign Language. Journal of Phonetics 38(2): 317–328.
+Weast, T. 2008. Questions in American Sign Language: A quantitative analysis of raised and lowered eyebrows. Doctoral dissertation, University of Texas, Arlington, U.S.A.
+Wilbur, R. B. 1990. An experimental investigation of stressed sign production. International Journal of Sign Linguistics 1(1): 41–59.
+Wilbur, R. B. 1994. Eyeblinks and ASL phrase structure. Sign Language Studies 84: 221–240. Wilbur, R. B. 1997. A prosodic/pragmatic explanation for word order variation in ASL with typo-
+logical implications. In Lexical and Syntactic Constructions and the Construction of Meaning, Vol. 1 [Current Issues in Linguistic Theory 150], M. Verspoor, K. D. Lee & E. Sweetser (eds) 89–104. Amsterdam: John Benjamins. Wilbur, R. B. 1999. Stress in ASL: Empirical evidence and linguistic issues. Language & Speech 42: 229–250. Wilbur, R. B. 2000. Phonological and prosodic layering of non-manuals in American Sign Lan­ guage. In The Signs of Language Revisited: Festschrift for Ursula Bellugi and Edward Klima, H. Lane & K. Emmorey (eds), 213–241. Hillsdale NJ: Lawrence Erlbaum Associates. Wilbur, R. B. 2003. Representations of telicity in ASL. Chicago Linguistics Society 39, 354–368. Wilbur, R. B. 2009. Effects of varying rate of signing on ASL manual signs and non-manual markers. Language & Speech 52(2–3): 245–285. Wilbur, R. B. 2010. The semantics-phonology interface. In Sign languages, D. Brentari (ed.), 357–382. Cambridge: CUP. Wilbur, R. B. 2011a. Nonmanuals, semantic operators, domain marking, and the solution to two outstanding puzzles in ASL. Sign Language & Linguistics 14: 148–178. Wilbur, R. B. 2011b. Sign syllables. In The Blackwell Companion to Phonology, M. van Oostendorp, C. J. Ewen, E. Hume & K. Rice (eds), 1309–1334. Oxford: Blackwell. Wilbur, R. B. & Patschke, C. 1998. Body leans and marking contrast in ASL. Journal of Pragmatics 30: 275–303. Wilbur, R. B. & Malaia, E. 2008. Contributions of sign language research to gesture understanding: What can multimodal computational systems learn from sign language research. International Journal of Semantic Computing 2(1): 5–19. Wilbur, R. B. & Schick, B. S. 1987. The effects of linguistic stress on ASL signs. Language & Speech 30: 301–323.
+View publication stats
+

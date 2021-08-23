@@ -3,13 +3,13 @@
 	"translatorType": 4,
 	"label": "PKP Catalog Systems",
 	"creator": "Aurimas Vinckevicius and Abe Jellinek",
-	"target": "/(article|preprint|issue)/view/|/catalog/book/|/search/search",
+	"target": "/(article|preprint|issue)/view/|/catalog/book/|/search/search|/index\\.php/default",
 	"minVersion": "2.1.9",
 	"maxVersion": null,
 	"priority": 200,
 	"inRepository": true,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2021-08-16 15:30:00"
+	"lastUpdated": "2021-08-18 18:50:00"
 }
 
 /*
@@ -43,7 +43,8 @@ function detectWeb(doc, url) {
 	}
 	
 	if (generator.startsWith('Open ')
-		&& (url.includes('/search/search') || url.includes('/issue/view'))) {
+		&& (url.includes('/search/search')
+			|| doc.querySelector('.obj_issue_toc .cmp_article_list'))) {
 		if (getSearchResults(doc, true)) {
 			return "multiple";
 		}
@@ -1485,6 +1486,11 @@ var testCases = [
 	{
 		"type": "web",
 		"url": "https://kurdishstudies.net/journal/ks/issue/view/59",
+		"items": "multiple"
+	},
+	{
+		"type": "web",
+		"url": "https://jnp.journals.yorku.ca/index.php/default",
 		"items": "multiple"
 	}
 ]

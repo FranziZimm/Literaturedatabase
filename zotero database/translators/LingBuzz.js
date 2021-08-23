@@ -9,7 +9,7 @@
 	"priority": 100,
 	"inRepository": true,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2021-06-07 22:20:00"
+	"lastUpdated": "2021-08-19 17:10:00"
 }
 
 /*
@@ -109,13 +109,14 @@ function scrape(doc, url) {
 	}
 	newItem.abstractNote = abstract;
 	newItem.date = ZU.strToISO(date);
+	newItem.url = url;
 	newItem.attachments.push({ document: doc, title: "Snapshot" });
 	newItem.publisher = "LingBuzz";
 
 	newItem.complete();
 }
 
-function scrapeSA(doc, _url) {
+function scrapeSA(doc, url) {
 	var newItem = new Zotero.Item("report");
 	newItem.extra = "type: article\n"; // will map to preprint
 
@@ -148,6 +149,7 @@ function scrapeSA(doc, _url) {
 			Zotero.Utilities.cleanAuthor(authorLink.innerText, "author"));
 	}
 	newItem.date = ZU.strToISO(date);
+	newItem.url = url;
 	newItem.attachments.push({ document: doc, title: "Snapshot" });
 	newItem.publisher = "LingBuzz (SemanticsArchive)";
 
@@ -180,6 +182,7 @@ var testCases = [
 				"institution": "LingBuzz",
 				"libraryCatalog": "LingBuzz",
 				"shortTitle": "Verb height indeed determines prosodic phrasing",
+				"url": "https://ling.auf.net/lingbuzz/005988",
 				"attachments": [
 					{
 						"title": "LingBuzz Full Text PDF",
@@ -239,6 +242,7 @@ var testCases = [
 				"extra": "type: article",
 				"institution": "LingBuzz (SemanticsArchive)",
 				"libraryCatalog": "LingBuzz",
+				"url": "https://ling.auf.net/lingbuzz/repo/semanticsArchive/article/001471",
 				"attachments": [
 					{
 						"title": "LingBuzz (SemanticsArchive) Full Text PDF",
