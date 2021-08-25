@@ -1,0 +1,319 @@
+Applied Linguistics 27/4: 671–690 doi:10.1093/applin/aml032
+
+ß Oxford University Press 2006
+
+The Emergence of Metaphor in Discourse
+
+Downloaded from https://academic.oup.com/applij/article-abstract/27/4/671/156148 by RWTH Aachen, Hochschulbibliothek user on 28 August 2019
+
+LYNNE CAMERON1 and ALICE DEIGNAN2
+1The Open University, 2University of Leeds
+We show how emergence offers new explanations for the behaviour of metaphorically-used expressions. Analysis of metaphors in two types of natural language data are combined: detailed analysis of continuous discourse, which offers wealth of context and the possibility of monitoring emergent forms as the discourse unfolds, and computer-assisted corpus analysis, which enables the examination of large numbers of examples of speciﬁc words and phrases across a range of contexts. We ﬁnd that non-literal expressions with a relatively ﬁxed form and highly speciﬁc semantics and pragmatics are very frequent in our data but are not well accounted for by current cognitive metaphor theory. We term these non-literal expressions ‘metaphoremes’, and argue that they represent the coalescence of linguistic, semantic, affective, and pragmatic forces into attractor states in the discourse system, appearing in discourse as relatively stable bundles of patterns of use. We show a metaphoreme emerging in the course of a discourse event and another which appears to have emerged recently as a result of a changing social environment. We then combine analyses and data types to track the use of 5walk away from4 as a metaphoreme, showing its patterns of formal, semantic, affective, and pragmatic characteristics.
+INTRODUCTION
+The classical approach to metaphor concerned itself with the poetic and rhetorical function of strong, active metaphors, such as Juliet is the sun. Beginning with Aristotle and developed in the last century by, among others, Ricoeur (1975) and Black (1979), the production of metaphor is explained through the deliberate application of rhetorical skills, often ﬁnely honed. Comprehension is held to come about through a process of ‘interaction’ between the two parts of the metaphor (Black 1979) and the ‘emergence’ of new properties or features of the Topic through this interaction (Gineste et al. 2000), although these terms were used without the back-up apparatus of complex dynamic systems theory.
+In the 1980s, the focus shifted to the cognitive force of metaphor, with the publication of Lakoff and Johnson’s Metaphors We Live By (1980). Metaphor was seen as primarily a matter of mind, as a set of ﬁxed, stable mappings between two conceptual domains: the ‘source’, or literal, domain and the ‘target’ domain (Lakoff 1993; Lakoff and Johnson 1980). Target domains are the results of the mapping; they are metaphorically structured conceptual domains which are held to be embedded in language and culture, thereby
+
+Downloaded from https://academic.oup.com/applij/article-abstract/27/4/671/156148 by RWTH Aachen, Hochschulbibliothek user on 28 August 2019
+
+672 THE EMERGENCE OF METAPHOR IN DISCOURSE
+inﬂuencing and constraining people’s thinking. On metaphor in language, Ko¨ vecses writes:
+The particular pairings of source and target domains give rise to metaphorical linguistic expressions; linguistic expressions thus are derived from the connecting of two conceptual domains. (Ko¨ vecses 2005: 6)
+As an example of how cognitive metaphor theory connects linguistic expressions and conceptual domains, Lakoff and Johnson offer expressions such as:
+I see what you’re saying; It looks different from my point of view That was a brilliant remark (Lakoff and Johnson 1980: 48)
+as evidence for the conceptual mapping UNDERSTANDING IS SEEING. (Within the cognitive tradition, small capitals are used to indicate a conceptual mapping.) The cognitive turn thus deliberately shifted the attention away from language. While linguistic examples are cited throughout the central work in the ﬁeld, their importance is as evidence for cognitive links rather than in themselves. With this focus on shared conceptual systems, a cognitive explanation of metaphor use inevitably ignores the possible explanatory power of an individual’s previous experience with language.
+An accompanying shift in focus was away from novel metaphors. Cognitive linguists have focused on the many, conventionalised or ‘dead’ metaphors strewn throughout a language because these are held to realise the conceptual mappings that we use to make sense of our everyday experience. Cognitive metaphor theory explores the use of novel linguistic metaphor in literary and poetic works, arguing that most novel metaphors are creative extensions of existing conceptual mappings (Ko¨ vecses 2002; Lakoff 1993). Cognitive linguists do not generally seek to provide an account of novel metaphor use in non-literary discourse.
+A strand of metaphor research from the late 1990s and 2000 onwards places a renewed focus on the language of metaphors, through the development of discourse and corpus approaches (Cameron 2003; Deignan 2005; Ritchie 2003, 2004; Semino et al. 2004; Semino 2005). Our own research, separately and in collaboration, insists on the importance of language use in understanding metaphor, and draws on ﬁne-grained analysis of metaphor in spoken discourse (Cameron 2003; in press) and in corpora (Deignan 2005), and our combined methodology linking small and large corpora (Cameron and Deignan 2003). This discourse shift takes on board ideas from cognitive theory about metaphor in thinking and the widespread, conventionalized nature of much metaphor, but it also connects the conceptual with the linguistic, in theory and in empirical work.
+Work in the discourse tradition has shown that when metaphor in real language use is closely examined and when cognitive metaphor theory is
+
+Downloaded from https://academic.oup.com/applij/article-abstract/27/4/671/156148 by RWTH Aachen, Hochschulbibliothek user on 28 August 2019
+
+LYNNE CAMERON and ALICE DEIGNAN 673
+applied to empirical discourse data, difﬁculties and questions arise (Deignan 2005). The following are examples of the type of problems raised:
+1 Why are linguistic metaphors apparently subject to grammatical and lexical restrictions?
+2 If linguistic metaphors are the expression of a broad conceptual mapping, why are they so unevenly and inconsistently distributed?
+3 Why do different languages and cultures make different use of source domains?
+The ﬁrst question arises from work by Deignan (for example 2005), showing that many linguistic metaphors take a restricted range of forms. For instance, light and darkness are used to talk metaphorically about what is known and unknown, apparently realising a conceptual link KNOWING IS SEEING. However, the words dark and light only appear with this meaning in a limited set of ﬁxed expressions, which includes [be] in the dark, come/bring to light and shed light on. It is now known that words are far less freely combining than previously believed (Sinclair 1991; Sinclair 2004), and that words tend to be used in a limited number of grammatical structures or patterns (Hunston and Francis 2001). Our data further suggest that metaphorical uses of words appear to be a great deal more ﬁxed than literal uses, for which there is no explanation either within cognitive theory or within current descriptions of the lexicon.
+The second question concerns the extent and distribution of linguistic metaphors. Ko¨ vecses (2000) terms this the ‘scope’ of metaphor, and argues that for any given set of linguistic metaphors it can be explained by the underlying conceptual metaphors. He illustrates his argument using corpus examples showing the range of metaphorical meanings that can be expressed using the notion of FIRE and HEAT. Grady (1997) has developed the notion of primary metaphors, which can explain why some aspects of a literal notion are not metaphorically mapped. However, neither Ko¨ vecses’ nor Grady’s work appears to account satisfactorily for all the gaps in mappings that we have found in our corpus data, nor for the highly speciﬁc non-literal meanings which many expressions have. Following Ko¨ vecses (2000), Deignan analysed metaphors from the semantic area of FIRE using corpus data from the Bank of English, and found many uses that are not well explained by the notion of systematic conceptual mappings, even allowing for Ko¨ vecses and Grady’s extensions to the theory. For instance, the data show that while ﬂames are used to talk about anger and love, singular ﬂame is more likely to refer to faith or idealism, and only very rarely to anger. Fire is conventionally used only to talk about anger, usually in the plural, and very rarely about other emotions such as love. Burning most commonly describes wants and ambitions, and does not conventionally describe intense love or anger, while ignite is generally used in talk about collective, negative events such as war or riots, rather than positive emotions. Other groups of ﬁgurative expressions also show numerous gaps and highly speciﬁc
+
+Downloaded from https://academic.oup.com/applij/article-abstract/27/4/671/156148 by RWTH Aachen, Hochschulbibliothek user on 28 August 2019
+
+674 THE EMERGENCE OF METAPHOR IN DISCOURSE
+metaphorical meanings when examined in detail using corpus data (Deignan 2005).
+The third question emerges from cross-linguistic and cross-cultural studies, such as those by Maalej (2004), MacArthur Purdon (2005), and Ko¨ vecses (2005), which ﬁnd many differences in metaphorical mappings across languages. Some of these can be explained by differences in culture, but others cannot.
+In this paper, we will show that these questions cease to be problematic when metaphor is no longer viewed as a systematic web of mental connections, realized through language in a uni-directional relationship. We argue here and elsewhere that the relationship between language and thought is instead a two-way interaction within a single complex system. In this view, metaphor emerges from the dynamics of language and thinking, and is at the same time conceptual and linguistic. Furthermore, our data suggest that the affective—the beliefs, attitudes, values, and emotions of participants—plays a central, but often neglected, role in the emergence of particular forms of metaphor. We use an emergentist perspective to bring together the linguistic, conceptual, and socio-cultural aspects of metaphor in use. We also present a new unit of analysis, the metaphoreme. We show how metaphoremes combine speciﬁc lexical and grammatical form with speciﬁc conceptual content and with speciﬁc affective value and pragmatics. We argue that positing the metaphoreme as a unit of analysis and of learning can help to explain empirical ﬁndings and to answer questions such as those above.
+AN EMERGENTIST DISCOURSE APPROACH TO METAPHOR
+In order to qualify as emergentist, an account of language functioning must tell us where a language behaviour ‘comes from’. (MacWhinney 1999: xii)
+To understand metaphor, what it is and how it works, we start from its ‘behaviour’ in the dialogic dynamics of contextualised interaction: that is, as people talk with each other. Metaphor has always been seen as dynamic and adaptive. From Aristotle through Black’s interactional theory (Black 1979) to blending theory (Fauconnier and Turner 2002), a single metaphor is seen as bringing together two unlike ideas that interact and co-adapt in the mind to produce something new, emergent, greater than the sum of its parts. What we begin in this section is to develop a theoretical framework for metaphor that brings language into this picture, connecting language and thought, and taking account of what is now known about how metaphor is used in discourse.
+Discourse is seen as arising from the interaction of multiple complex dynamic systems, working on multiple timescales and levels (Cameron 2003, under review; Larsen-Freeman 1997; Larsen-Freeman and Cameron,
+
+Downloaded from https://academic.oup.com/applij/article-abstract/27/4/671/156148 by RWTH Aachen, Hochschulbibliothek user on 28 August 2019
+
+LYNNE CAMERON and ALICE DEIGNAN 675
+in press; Lemke 2000). The complex systems include minds/brains, language, and conceptual resources (Cameron 2003). Complex dynamic systems are systems of connected and interacting elements that are in constant ﬂux. In such systems, it is not only the elements that change with time, but also the relations between elements, and it is this that deﬁnes a system as ‘non-linear’. As a result of the non-linear dynamics, some changes in the system are sudden and dramatic, as the system undergoes what is called a ‘phase shift’ into a different pattern of activity (such patterns of activity are sometimes called ‘attractors’). At other times, the system changes continuously without phase shifts. As a system undergoes phase shifts, it appears to ‘self-organize’, with new patterns or attractors developing, stabilizing for a time and then changing again. Emergentist perspectives highlight the non-linear change and self-organizing behaviour of complex systems, and focus on the ‘emergence’ of new patterns of system activity after a phase shift. The process of emergence through non-linear interaction of system elements is very different from a change that can be explained through the interaction of elements held to be in ﬁxed relations to each other; this latter type of emergence is not amenable to a componential or reductionist explanation. (The term ‘emergence’ by Black, Gineste et al., and Fauconnier and Turner, referred to above, is used in a non-technical sense, rather than, as used in this paper, as a term within a complex, nonlinear, dynamic systems framework.)
+The ﬁrst step in building an emergentist framework for metaphor is to repair the link between language and thought that cognitive approaches to metaphor have pushed apart, and to see them as a single complex system in on-line talk. In a series of studies, Slobin develops the idea that there is a special kind of thinking carried out while speaking that is ‘intimately tied to language’ (Slobin 1996: 75). In this ‘thinking for speaking’, the grammar of the speciﬁc language inﬂuences how actions can be thought about while speaking. For example, the different grammars of Spanish and of English inﬂuence how temporal and spatial relations can be thought about and are expressed. We can extend this idea beyond grammar. People’s ﬁrst language orients them to how the world can be thought about through the whole repertoire of linguistic resources, including metaphorical expressions learnt through social interaction. Cameron extends thinking for speaking to ‘talking-and-thinking-in-interaction’ to describe the complex dynamic system of on-line spoken discourse (Cameron 2003: 35), in which language and thinking are interdependent. In the case of metaphor, we argue that the ideational content of a metaphor is not processed separately from its linguistic form, but the two are learnt together, stored together and produced together in on-line talk. Metaphorical language and metaphorical thinking are therefore interdependent, each affecting the other in the dynamic and dialogic processes of talkingand-thinking.
+
+Downloaded from https://academic.oup.com/applij/article-abstract/27/4/671/156148 by RWTH Aachen, Hochschulbibliothek user on 28 August 2019
+
+676 THE EMERGENCE OF METAPHOR IN DISCOURSE
+Having argued for the existence of a dynamic, recursive relationship between language and thinking, our next step in developing an emergentist perspective on metaphor is to add the socio-cultural dimension. Metaphor is part of our human ways of thinking and talking, it encodes cultural knowledge (Ko¨ vecses 2005) and is learnt through participation within particular socio-cultural groups. The dialogic aspect has often been ignored in metaphor studies, but metaphor, like most other uses of language, is designed for other people and for particular discourse purposes. An important dimension of the dialogics of metaphor is its use to express affect and attitude along with ideational content. On the timescale of a discourse event, the cumulative impact of metaphors contributes to the overall ‘affective climate’ of the interaction. On a more macro timescale, the dialogic use and re-use of metaphors leads to the conventionalization of attitudinal judgements attached to them.
+Our perspective on metaphor is that it evolves and changes in the dynamics of language use between individuals, and that this local adaptation leads to the emergence of certain stabilities of form, content, affect, and pragmatics that we have called ‘metaphoremes’. As the paper proceeds we ﬁll out the notion of metaphoreme as an emergent bundle of stabilities.
+In the following sections, we illustrate empirical ﬁndings with a series of examples, and show how pragmatic and affective factors in the use of metaphor are inseparable from their lexico-grammatical form and ideational content. Before that, we brieﬂy report our datasets and analytical methods.
+DATA AND METHODS
+The reported patterns of metaphor use in contextualised interaction draw on ﬁndings from two studies: classroom discourse between teachers and students in a primary/elementary school in the north of England (reported in Cameron 2003) and a series of conciliation meetings in the context of post-conﬂict Northern Ireland between a former IRA bomber and the daughter of one of his victims1 (Cameron in press). The discourse contexts differ in content, numbers of speakers involved, and ages (10/11 years and adults respectively), but share important similarities: (a) both have participants who come to know each other well through interaction over a long period, a school year in the ﬁrst instance and two and a half years in the second, and (b) in both contexts, the overall goal of the interaction is to increase understanding among participants.
+The corpus used for the investigations reported here is the Bank of English, owned by Collins publishers and held at the University of Birmingham. A 59 million word cross-section of the corpus was searched using a concordancing program (details in Deignan 2005: ch. 4). The corpus consists of whole texts, enabling the discourse context of metaphors to be explored.
+
+Downloaded from https://academic.oup.com/applij/article-abstract/27/4/671/156148 by RWTH Aachen, Hochschulbibliothek user on 28 August 2019
+
+LYNNE CAMERON and ALICE DEIGNAN 677
+On-line metaphor emergence: lollipop trees
+Our ﬁrst example captures the actual moment of on-line emergence of a shared metaphor within a particular group, and is used to demonstrate the idea of an emergent metaphoreme. The metaphorical expression lollipop trees occurred in the classroom discourse as the teacher was looking at drawings done by students, aged between 9 and 11 years, and giving them spoken feedback. One student had drawn some trees as circles on top of vertical lines, and the teacher commented on how these did not look like real trees:
+T: go back to your memory of the tree that you’re trying to draw because that’s tended to to look like a lollipop hasn’t it
+The teacher makes an explicit comparison between the drawing and a lollipop. A couple of seconds later, she changes the grammar and reduces the form:
+T: when I was a very young teacher and I kept on saying to a little girl will you please stop doing lollipop trees
+The change in form produces a metaphorical phrase lollipop trees, which not only refers to the drawings, but does so with a particular evaluative force and critical overtone. The emergence of metaphorical phrases is constrained by the grammatical affordances of the language and driven by the contingencies of the pedagogic interaction. Many such phrases may be used in talk but never heard again. However, there is evidence that the phrase lollipop trees stabilizes and enters the linguistic and conceptual repertoire of the class, at least in the short term. A student’s talk to herself was captured by the microphone as the teacher begins to comment on another picture:
+T: it’s lovely that one don’t spoil it the only thing that I’m going to criticise is
+S: lollipop trees
+The student speaks the phrase in a sing-song voice, as if to imply, ‘I know what the teacher’s going to say!’ The lexico-grammatical form operates in this utterance as shorthand for the ideational and evaluative content. Within the small discourse community of this class of students and teacher, the metaphoreme 5lollipop trees4 has emerged as the way to reference the unacceptability of trees drawn in a certain idealised manner, and becomes part of the group’s repertoire, even if only temporarily. The angular brackets are used to indicate that the metaphoreme is not just a stabilized
+
+Downloaded from https://academic.oup.com/applij/article-abstract/27/4/671/156148 by RWTH Aachen, Hochschulbibliothek user on 28 August 2019
+
+678 THE EMERGENCE OF METAPHOR IN DISCOURSE
+lexico-grammatical form, but also incorporates stabilities in affect, here attitudinal value, and use. Language form, meaning, or conceptual content and affective force have emerged together, from the online conversation on to the diachronic timescale.
+In cognitive terms, ‘lollipop trees’ would be characterized as an image metaphor, a kind of metaphor ‘that function[s] to map one conventional image onto another’ (Lakoff 1993: 229), in contrast to the more widely discussed mapping of conceptual domains. Cognitive linguists discuss the visual richness of image metaphors and their use in poetry and literature, and speculate as to why some images are more effective and evocative than others. Because it does not examine the linguistic detail of metaphor in use, nor its development over unfolding discourse, the cognitive approach does not offer an explanation for the adoption of the metaphor by the discourse group or for the indicators that it has become conventionalised within that setting, with particular evaluative and pragmatic values.
+A recently emerged metaphor: emotional baggage
+The next example uses the corpus to show a recently emerged metaphor, and how linguistic and conceptual constraints seem to be crystallising around it to form a stable metaphoreme attractor in the language and how the stability is accompanied by certain types and levels of ﬂexibility.
+(1) for once in your life you really must face the fact that you simply cannot afford the price of emotional excess baggage
+The use of baggage to refer to mental and emotional memories and entanglements is an example of a metaphor that we suggest is in the process of diachronic change, an expression becoming ﬁxed and a concept becoming delineated. In the 59 million word section of the Bank of English studied, there are 92 citations of this use, which suggests that it is now an established use. There is no generally agreed formula for calculating how many citations of a use indicate that it has been conventionalized, but a comparison with metaphors found in other studies is suggestive. Frequencies for three other metaphorical expressions (used in Lakoff 1993 and Gibbs 1994) are as follows: let/lets/letting off steam occurs 29 times in the same corpus, while blow/blows/blew/blowing one’s top occurs 41 times, and hot under the collar 19 times. These three expressions are deﬁned in two corpus-based dictionaries for language learners consulted (Rundell et al. 2002; Sinclair et al. 2001), as is this use of baggage. As was the case for the light and dark metaphors mentioned in the introductory section above, the metaphorical use is becoming relatively ﬁxed. A total of 58 citations are pre-modiﬁed with an adjective describing the type of entanglements referred to. The most frequent adjectives in this position are, in descending order with numbers
+
+Downloaded from https://academic.oup.com/applij/article-abstract/27/4/671/156148 by RWTH Aachen, Hochschulbibliothek user on 28 August 2019
+
+LYNNE CAMERON and ALICE DEIGNAN 679
+of citations, as follows:
+ emotional (12)  cultural (5)  ideological (4)  political (4)  historical (3)  psychological (3)
+This meaning of baggage often tends to follow quantiﬁers, such as a lot of (7 citations), much (2 citations), a great deal of (1 citation), and a load of (1 citation), as well as a lifetime of (1 citation). It also occurs with all, in expressions such as ‘. . . all the baggage he brings’ (8 citations), any (2 citations), and no (2 citations). Metaphorical baggage also collocates with verbs such as carry (21 citations), dump (3 citations), and get rid of (2 citations). These verbs are rarely used with the literal meaning of baggage, with the exception of the passive form of carry (5 literal citations), in citations such as ‘Baggage is carried at the owner’s risk’, and the expression carry-on baggage (6 citations). It appears that the stabilising pattern radiates outwards from the noun to its accompanying verbs. In three citations, baggage collocates with excess; obviously, the expression excess baggage is closely associated with the literal meaning of baggage, but is apparently exploited here for humorous effect. The literal meaning of excess baggage is one which has entered language and social life in the last few decades along with mass air travel. Current speakers will be very familiar with it, and it is thus very much available for exploitation. Pragmatically, metaphorical baggage is invariably used to express a negative view of past emotions and memories. If a speaker wants to talk about the enriching effects of past knowledge and experience, the corpus data suggest that they will not choose to talk about these as baggage.
+We posit that this use of baggage is becoming stable, and the stability can be seen in three aspects of use:
+ linguistically, the lexico-grammar tends to ﬁx as noun with pre-modiﬁer (e.g. emotional, excess, a lot of) and/or verb (e.g. carry, dump, get rid of);
+ conceptually, the metaphorical concept ﬁxes to LIFE IS A JOURNEY þ EMOTION/FEELINGS/HISTORY IS A BURDEN;
+ pragmatically, the expression has a distinct evaluative slant which expresses a culturally shared schema, and a speciﬁc context: the distribution of corpus data suggest that the expression is frequent in popular journalism and speech.
+A pattern or rules for using baggage as metaphor is emerging but there is also a degree of variation and ﬂexibility in use. The metaphoreme 5baggage4 is then the bundle of stabilizing linguistic, semantic, pragmatic, and affective patterns in the use of the word as metaphor, together with its possibilities for variation. In cognitive terms, baggage can be analysed as a linguistic realisation of the conceptual mapping DIFFICULTIES
+
+Downloaded from https://academic.oup.com/applij/article-abstract/27/4/671/156148 by RWTH Aachen, Hochschulbibliothek user on 28 August 2019
+
+680 THE EMERGENCE OF METAPHOR IN DISCOURSE
+ARE BURDENS, ‘a major conceptual metaphor for difﬁculty’ (Ko¨ vecses 2002: 58). The cognitive analysis explains the negative evaluative slant of the expression, but not the other aspects described above; it does not seem to account for its very speciﬁc semantics, denoting history rather than difﬁculty in general, nor its lexico-grammatical ﬁxedness.
+The Shorter Oxford English Dictionary (Little et al. 1973) shows that baggage has had negative connotations for several centuries, and there is a record of it being used to refer to ‘burdensome things’ from the eighteenth century. However, only recent dictionaries describe the speciﬁc use of it to refer to mental and emotional burdens brought from the past to the present, and it seems likely that this is a result of our current concerns with our emotional welfare, and recognition of mental well-being as an issue. Another meaning recorded in the dictionary, from the sixteenth century, ‘a good-for-nothing woman, strumpet’ is not evidenced in the corpus, although bag as a highly negative term for a woman is still current. The loss of this meaning may reﬂect another change in our cultural schemata. On the scale of a speech community, the 5baggage4 metaphoreme appears to be emerging and crystallising in language and as part of our affective and conceptual repertoires at this point in history.
+We suggest that metaphoremes found in the corpus have emerged at some stage through on-line processes similar to that of 5lollipop trees4 and 5baggage4, in which individuals in interaction choose and adapt their language resources to express and understand particular meanings. Through multiple on-line events, certain linguistic forms evolve to become the preferred ways of expressing metaphorical ideas across discourse communities. The language and the conceptual content stabilise, together and co-adaptively, into a particular restricted set of forms and ideas that become part of the resources of language and thinking available in the discourse community. An emergentist account, which recognises language experience and evolution as well as cognitive mappings, explains the linguistic, semantic, pragmatic, and affective qualities of metaphor in use more fully than a purely cognitive account.
+AN EMERGENT METAPHOREME: 5WALK AWAY FROM4
+In this section, we bring together data from situated interaction and from the corpus in an examination of a conventionalized metaphor. We describe its use and explain its form from the emergentist discourse perspective.
+5walk away from4in the conciliation talk
+The series of conciliation meetings from which these data are taken were initiated because Jo Berry, whose father was killed in the bombing of a Brighton hotel in 1984, wanted to understand the motivations of Pat Magee, who planted the bomb on behalf of the Irish Republican Army (IRA),
+
+LYNNE CAMERON and ALICE DEIGNAN 681
+
+Downloaded from https://academic.oup.com/applij/article-abstract/27/4/671/156148 by RWTH Aachen, Hochschulbibliothek user on 28 August 2019
+
+a political group that violently opposed British government policy in Northern Ireland. Extract 1 is taken from the ﬁrst recorded conversation between the two participants, on the occasion of their second meeting. In this extract, the bomber, Pat Magee, accepts responsibility for his action as an individual, not just as a member of the IRA at the time.
+
+Extract 1
+
+1425 Pat it was the republican movement,
+
+1426
+
+it was the republican struggle.
+
+1427 Jo . . hmh
+
+1428 Pat that caused your pain.
+
+1429
+
+but I can’t walk away from the fact that it was—
+
+1430
+
+. . . (1.0) I was directly,
+
+1431 Jo [hmh]
+
+1432 Pat [responsible] too for that.
+
+1433 Jo . . [[hmh]]
+
+1434 Pat [[I can’t]] hide behind the—
+
+1435
+
+you know the—
+
+1436
+
+. . . sort of,
+
+1437
+
+the bigger picture.
+
+We can note in the ﬁrst two lines metaphorical ways in which the IRA describe their group and their actions, as movement and as struggle respectively. Both have become conventionalized within that particular socio-cultural group of republicans. As found throughout the classroom discourse, multiple conventionalised metaphors are used in close proximity, as walk away from is re-lexicalized into hide behind the bigger picture. This second metaphor is marked with the ‘tuning device’ (the term is a dialogic alternative to ‘hedging’) sort of that we have found often signals deliberate uses of stronger linguistic metaphors (Cameron and Deignan 2003).
+Both hide behind and walk away from form part of a connected set of Vehicle domains around movement and journeys, although they appear to belong to scenarios that are not entirely compatible. The Topic of hide behind and walk away from is (something like) refusing to take responsibility, and the two metaphors share the idea that rejecting responsibility for an act is removing oneself from a place. They also share the form I can’t þ verb, and the connotations of walk away and hide produce a negative affective force, in which rejecting responsibility would be in some way negative and shameful. Cognitive metaphor theory would label the overall metaphor as ACCEPTING RESPONSIBILITY IS A JOURNEY, but, as in the examples discussed above, the discourse reality is more precise and speciﬁc than this, and, when we look at the use of walk away from across the conciliation conversations, and then across the corpus, we again ﬁnd restrictions in both lexico-grammatical and pragmatic features.
+
+682 THE EMERGENCE OF METAPHOR IN DISCOURSE
+
+Downloaded from https://academic.oup.com/applij/article-abstract/27/4/671/156148 by RWTH Aachen, Hochschulbibliothek user on 28 August 2019
+
+The phrase walk away from was used by Pat Magee four times in the discourse events: once more in their ﬁrst recorded conversation (Extract 2 below) and twice in their second recorded conversation (Extracts 3 and 4 below). By looking across the four uses in their immediate discourse context, we can see how it is not just the Vehicle domain that has stabilized but a cluster of linguistic and pragmatic features around the metaphorically-used words. In Extract 2, Pat uses the Vehicle walk away from with a different object or argument; here it is participating in the republican struggle that he could not walk away from, whereas in the previous use it was responsibility for Jo’s pain. Notice that, in neither case, does the walking away from actually happen. In Extract 1, Pat said I can’t walk away from (line 1429) and here he was prepared to walk away from the struggle, but evidently did not, since he went on to plant the bomb on behalf of the IRA.
+
+Extract 2
+
+2612
+2613 2614 2615 2616 2617 2618 2619
+
+. . I was at a pretty low ebb.
+. . . and I was actually at that stage— er, . . . (1.0) prepared to walk away from the struggle. simply because I was— er, . . . (1.0) what X— totally fatigued and mentally drained.
+
+In Extract 3, which occurs in the next recorded meeting three months later, the act of walking away from is again hypothetical, as republicans (we) realise that they can’t walk away from the Brighton bombing (job) to a comfortable life, since they will be hunted down by the British police. The metaphor here has been partly literalised, since it could refer to the context in the physical world in which, having planted the bomb, Pat walked away from the hotel. This real world sense did actually happen, in contrast with the hypothetical, abstract sense of ‘forget about’. The hyperbolic never in line 2808 emphasises the impossibility of the metaphorical act of walking away from in a similar way to the use of simply in Extract 2, 2616.
+
+Extract 3
+2807 2808 2809 2810 2811 2812
+
+. . we thought, they’re never going to forgive. . . (2.0) you know, this is one job, we’ll not be able to walk away from. and live a comfortable life again.
+
+LYNNE CAMERON and ALICE DEIGNAN 683
+
+Downloaded from https://academic.oup.com/applij/article-abstract/27/4/671/156148 by RWTH Aachen, Hochschulbibliothek user on 28 August 2019
+
+Extract 4 occurs about 15 minutes after Extract 3. Again, the metaphor is negative and hypothetical, can’t walk away from, and, as in Extract 2, the Object or argument (this) refers to the ‘struggle’. There is an overt contrast made with you have to carry on in line 3298.
+
+Extract 4
+
+3295
+3296 3297 3298 3299 3300 3301 3302 3303 3304 3305
+
+that sense of—
+er, obligation to, that you have to carry on. . . . you know, you can’t walk away from this. . . . (1.0) but there’s— there’s so many republicans. I know, that are carrying that pain. . . . (1.0) and er it’s—
+
+The extracts show that 5walk away from4 in use in this discourse context is subject to various conceptual, linguistic, and affective restrictions:
+
+ it is used hypothetically to talk about an action that could have been taken but was not;
+ the things that might have been walked away from were difﬁcult, traumatic and/or burdensome;
+ not walking away was the more difﬁcult option;  the verb was in each case not inﬂected, either because it was in the
+inﬁnitive form or because the modal can’t was used;  in two cases, adverbs (simply, never) used in close proximity added to the
+sense of burden and difﬁculty.
+
+The metaphor in the contextualised on-line discourse shows stability in linguistic form, conceptual content, and affective force, but sufﬁcient ﬂexibility to be open to negotiation, co-construction, and development as discourse participants shape their talk and work towards greater understanding. From a small corpus of talk, it is not possible to know whether all or some of these are characteristic of the language more widely, and so it is now investigated in the large corpus.
+
+5walk away from4 in the large corpus
+In the 59 million word corpus studied, there are 208 citations in which walk co-occurs with away and from, and 187 citations in which walk is followed by away and from in the same sentence. Of these, there are 17 citations where the three elements walk away and from are separated by another word
+
+Downloaded from https://academic.oup.com/applij/article-abstract/27/4/671/156148 by RWTH Aachen, Hochschulbibliothek user on 28 August 2019
+
+684 THE EMERGENCE OF METAPHOR IN DISCOURSE
+or words. In these cases the meaning is always literal:
+(2) His eyes followed Lenny as he walked with Pamela away from the building and towards the parking lot.
+In the eight citations where walk is a noun, the meaning is also literal:
+(3) Villa suites and studios have their own complex of bright, fragrant gardens, plus a pool and sauna just a 5-minute brisk walk away from the older accommodations.
+This is consistent with Hunston and Francis’ (2001) work on pattern grammar, a central tenet of which is that, for polysemous words, different grammatical forms coincide with different meanings.
+Of the remaining 162 citations where walk away from appears as a continuous expression, 92 have a metaphorical meaning of abandoning responsibility, as illustrated in the following four citations.
+(4) If anyone goes into a venture believing they can lose other people’s money and simply walk away from the responsibility, the community is sending them the wrong message.
+(5) No one should simply be able to walk away from the legal obligations of a wrecked marriage.
+(6) Radison admits his sacking 10 years ago was the only time he considered walking away from the game which has been his life. ‘I couldn’t see eye-to-eye with the Mets director of farm leagues on development of players,’ he said. ‘He didn’t like my ideas and ﬁred me.’
+(7) For me because we were best friends and I realised I felt more for her. It started getting in the way of us being friends and I realised I would have to tell her how I felt. It was either that or walk away from it all.
+In these citations, the evaluative meaning is negative: to 5walk away from4 these responsibilities is not the right thing to do. As in the conciliation data, the subject does not generally walk away; the action is considered as a possibility but one that should be resisted. In 22 further citations, what is walked away from is a temptation rather than a responsibility, and in these citations, the action is sometimes taken.
+(8) I’m able to walk away from having a bet.
+(9) Conran walked away from a chance of a lease at the top of the Oxo building overlooking the Thames.
+(10) He has voluntarily walked away from the golden opportunity of becoming not only a legendary hero in his own homeland but one of the major stars of the championship.
+
+Downloaded from https://academic.oup.com/applij/article-abstract/27/4/671/156148 by RWTH Aachen, Hochschulbibliothek user on 28 August 2019
+
+LYNNE CAMERON and ALICE DEIGNAN 685
+Generalising the affective force across these two types of citations, what is being walked away from exerts a tie on the agent, through obligation, responsibility or attraction, and a difﬁcult choice has to be made, sometimes resulting in a mistake. Each of the citations contains an element of modality in all uses; speakers allude in some way to the problematic choice of whether to walk away from something, and often to the negative consequences of doing so.
+There are 39 citations which are close in form to the metaphoreme 5walk away from4 but are literal and do not include modality, such as the following: (11) As we were walking away from the ofﬁce of the chief executive of
+the Football Association, the telephone rang.
+In a further nine citations, walk away from collocates with a word describing an accident involving a vehicle, typically a car, in citations such as: (12) Mrs Dixon walked away from the accident thinking she had only bruised
+her arm.
+This seems to be a further metaphoreme, where 5walk away from41 means something like ‘survive with no or few injuries’, and also conveys the information that this is surprising given the extent of the accident. Linguistically this is distinguishable from the other metaphoremes not only in collocating with accident or related lexis, but also in that it is rarely or never used in modal or negative constructions.
+As was the case with the metaphoremes 5baggage4 and 5lollipop trees4, we again ﬁnd a coalescence of linguistic form, semantic, pragmatic, and affective meanings around the metaphoreme 5walk away from4.
+Returning to the conciliation talk in the light of corpus ﬁndings, we can see that Pat talks of walking away from the struggle, from obligations, and from the act of placing the bomb, uses which are in line with the corpus data. However, one of his uses is less conventional; in the ﬁrst recorded conversation, he talks of walking away from a fact. There are no instances in the corpus of walk away from collocating with fact or a word with a similar meaning, and we therefore considered the use to be slightly unconventional. Reasons why Pat has stretched the usual pattern can be found both in the discourse environment and within the meanings he is expressing. During the recordings of his meetings with Jo, Pat must have been in an extraordinarily stressful situation. He was speaking to someone who suffered deeply as a consequence of his actions. He was under the additional strain of knowing that his words were being recorded, might be preserved for many years and heard by many people. In addition to these external strains, he was trying to communicate complex feelings to someone with a quite different perspective, and he was concerned to do this as
+
+Downloaded from https://academic.oup.com/applij/article-abstract/27/4/671/156148 by RWTH Aachen, Hochschulbibliothek user on 28 August 2019
+
+686 THE EMERGENCE OF METAPHOR IN DISCOURSE
+completely as possible. In terms of emergence, these factors could be seen as sufﬁcient to tilt the attractor, the metaphoreme 5walk away from4, slightly away from the stable position it had occupied in the discourse community up to this point. The metaphoreme is stable enough to cope with this variation, and may inﬂuence interpretation of the fact, as the argument of walk away from, as something towards which Pat has a responsibility and that exerts a tie on him.
+DISCUSSION
+An emergentist perspective on metaphor connects metaphor behaviour at the levels of the corpus and of on-line processing. The talk of individuals in interaction is seen as a prime locus of change in the language of a speech community. At the same time, one of the inﬂuences on on-line talk is what is currently available as part of the language repertoire for talking about a particular topic, and this is represented by the corpus. We have identiﬁed the metaphoreme as a ‘unit’ of analysis in an emergentist framework that combines the linguistic, the cognitive, the affective, and the socio-cultural. It is important to notice the scare quotes around ‘unit’—this term is itself a metaphor, bringing with it a sense of concreteness, solidity, and discreteness that may not be appropriate in a complex dynamic systems or emergentist framework. The metaphoreme is not a discrete entity condensed out of language that can be used as a ‘building block’ in a traditional linear systems view of language in use. Rather it is a bundle of relatively stable patterns of language use, with some variation, that, for the time being, describes how people are using the lexical items.
+We now return to the three questions posed in the introduction that capture some of the inadequacies of other metaphor theories, and discuss how an emergentist perspective can address them.
+(1) Why are linguistic metaphors apparently subject to grammatical and lexical restrictions?
+(2) If linguistic metaphors are the expression of a broad conceptual link, why are they unevenly and inconsistently distributed?
+(3) Why do different languages and cultures make different use of source domains?
+If we regard linguistic metaphors as reﬂecting/deriving from metaphoremes, questions 1 and 2 are answered. We no longer have any expectation that we will ﬁnd metaphorically used words, motivated by an underlying conceptual metaphor, combining freely with other words and in any grammatical pattern, with the only restriction being the semantics as determined by context. It is now expected that stability will emerge in terms of what we have called metaphoremes, appearing as metaphorically used words, or frequently, to judge by our preliminary research, as multi-word
+
+Downloaded from https://academic.oup.com/applij/article-abstract/27/4/671/156148 by RWTH Aachen, Hochschulbibliothek user on 28 August 2019
+
+LYNNE CAMERON and ALICE DEIGNAN 687
+expressions, which take a limited though variable form and have tightly restricted semantic and pragmatic meaning.
+Taking an emergentist perspective also enables us to tackle the third question, to speculate why even quite closely related cultures and languages sometimes generate very different metaphoremes. In complex systems, a single, small factor can impact on the system and produce changes out of proportion to its signiﬁcance. We consider all aspects of the environment to have a potential effect on the (temporarily) stable form taken by a metaphoreme, and thus relatively small differences of history, culture (in all senses: folk, high, and popular) and social values may lead to the emergence of different metaphoremes. As with complex systems more generally, it is not possible to predict which small differences will lead to phase shifts or emergent stabilities. The traditional expectation that an adequate account of a phenomenon must describe, explain, and predict has to be put to one side. Complex systems or emergentist accounts can describe, can explain but only at a general systems level, and cannot predict. Prediction and explanation are replaced by the comparison of descriptions of system behaviour and a search for patterns of change that may recur.
+The notion of the emergence of relatively stable metaphoremes from interaction between agents and the environment also has implications for learning languages. We have shown with a number of examples that metaphoremes are a stable meeting of a set of highly speciﬁc features: linguistic, conceptual, and pragmatic. This will pose problems for foreign language learners, who are often trying to develop formal generalisations through the grammar, and speciﬁc sets of meanings through learning the vocabulary and ‘idioms’ of the language. To fully use and accurately produce a metaphoreme, speakers need knowledge of its restricted yet to some extent variable linguistic form. They need to know its highly speciﬁc conceptual meaning. This can often be explained by an abstract conceptual metaphor, but the conceptual metaphor often over-generalises beyond what is used and rarely indicates the tight boundaries of the meaning of the metaphoreme. Finally, and possibly most demanding of all since they often encode culturally and temporally speciﬁc value judgements, they need knowledge of the pragmatics of the metaphoreme. Moon points to the role of ﬁxed expressions and idioms in encapsulating a culturally shared view of a referent (Moon 1998). It is difﬁcult to see how knowledge could be generalised from one metaphoreme to another, but learners are not helped at present by the lack of recognition of the importance of ﬁgurative language, collocation, and pragmatic meaning in almost all language teaching materials.
+CONCLUSION
+Emergentism, as used in an applied linguistics context, posits that language behaviour emerges from the interaction between the agent and the agent’s
+
+Downloaded from https://academic.oup.com/applij/article-abstract/27/4/671/156148 by RWTH Aachen, Hochschulbibliothek user on 28 August 2019
+
+688 THE EMERGENCE OF METAPHOR IN DISCOURSE
+environment. The ‘environment’ for us is the discourse environment or context of talking-and-thinking-in-interaction, with all its constraints and affordances (Gibson 1979). The discourse environment is inseparable from the talk, and includes the other people, the goals of the interaction, the situation with its particular pressures and possibilities, and the wider cultural context in which language is slowly but constantly evolving. We have suggested here that people’s use of metaphor (individual production and comprehension, and co-construction) can be explained as emerging from the interaction between the discourse environment and the discourse participants, who draw on their linguistic and cognitive resources for processing ideas and for ﬁnding the words to talk about them to their interlocutors.
+In this paper we have attempted to show that an emergent perspective suggests explanations for patterns we have found in naturally-occurring data that are not explained in other approaches to metaphor. The older view of metaphor was as poetic and decorative uses of language, in which the prototype metaphor was novel, strong, active, and usually nominal; this approach does not attempt to account for conventional ﬁgurative expressions, which are highly frequent. Cognitive metaphor theory does propose top-down explanations for ﬁgures that are conventional rather than novel, through the existence of conceptual metaphors, such as UNDERSTANDING IS SEEING. However, as we have shown, discourse evidence reveals that mappings are not as complete as cognitive theory suggests. Individual linguistic expressions have linguistic restrictions, as well as affective and pragmatic meanings that are not explained by the cognitive view of large scale systematic and stable mappings. The emergentist perspective that we have developed in this paper appears to offer a more satisfactory account of the linguistic evidence, by considering frequent metaphorical uses as metaphoremes, the coalescence of meanings and form. Our approach requires both the socio-cultural component (Gibbs 1999) and the notion of embodied, experiential correlation, developed within the cognitive school (Grady 1999), but it goes further than both by siting the development of metaphor, for individuals and for discourse communities, within the dynamics of situated language use.
+An emergentist perspective on metaphor is part of a somewhat broader agenda of a view of discourse as complex dynamic system(s), and using this to develop a procedure for metaphor analysis of discourse (Cameron in press). The analogy (or metaphor) of discourse as a complex dynamic system leads to new ways of seeing and understanding how people use metaphor as they engage in talk. Metaphor analysis in this perspective looks for evolving patterns of metaphor use across the talk: the development of systems of connected metaphors that frame and re-frame key ideas; clustering of multiple metaphors that signal points of intense interactional activity; the appropriation, negotiation, and co-construction of metaphors on various timescales of discourse (Cameron and Stelma 2004).
+
+Downloaded from https://academic.oup.com/applij/article-abstract/27/4/671/156148 by RWTH Aachen, Hochschulbibliothek user on 28 August 2019
+
+LYNNE CAMERON and ALICE DEIGNAN 689
+A perspective that sees stabilities emerging through the interaction of a number of factors helps to explain the ‘noise’ found in virtually every corpus search. Descriptions which force formal distinctions between grammar and lexis, word and idiom, ﬁgurative and literal meaning, and semantic and pragmatic meaning fail to cope with metaphoremes such as 5bear the weight of4, 5pay a high price4 and 5walk away from4. In our experience, almost every corpus search throws up a signiﬁcant percentage of such uses (Deignan 2005). They can be dismissed as noise, yet their frequency, and their affective value both suggest that they are of importance and should be placed at the centre of investigation rather than on the periphery.
+Final version received June 2006
+
+NOTE
+1 We thank the participants for their permission to use and publish the data, and for their co-operation in the research.
+
+We acknowledge the support of the Arts and Humanities Research Board, UK in carrying out the research project.
+
+REFERENCES
+Black, M. 1979. ‘More about metaphor’ in A. Ortony (ed.): Metaphor and Thought. Cambridge: Cambridge University Press.
+Cameron, L. 2003. Metaphor in Educational Discourse. London: Continuum.
+Cameron, L. in press. ‘Patterns of metaphor use in reconciliation talk,’ Discourse and Society.
+Cameron, L. under review. ‘Organizing the phenomena of metaphor: A discourse dynamics framework.’
+Cameron, L. and A. Deignan. 2003. ‘Using large and small corpora to investigate tuning devices around metaphor in spoken discourse,’ Metaphor and Symbol 18/3: 149–60.
+Cameron, L. and J. Stelma. 2004. ‘Metaphor clusters in discourse,’ Journal of Applied Linguistics 1/2: 7–36.
+Deignan, A. 2005. Metaphor and Corpus Linguistics. Amsterdam: John Benjamins.
+Fauconnier, G. and M. Turner. 2002. The Way We Think: Conceptual Blending and the Mind’s Hidden Complexities. New York: Basicbooks.
+Gibbs, R. 1999. ‘Taking metaphor out of our heads and putting it in the cultural world’ in R. Gibbs
+
+and G. Steen (eds): Metaphor in Cognitive Linguistics. Amsterdam: John Benjamins. Gibbs, R. and G. Steen (eds). 1999. Metaphor in Cognitive Linguistics. Amsterdam: John Benjamins. Gibson, J. J. 1979. The Ecological Approach to Visual Perception. Boston, MA: Houghton Mifflin. Gineste, M. D., B. Indurkya, and V. Scart. 2000. ‘Emergent features of metaphor comprehension,’ Metaphor and Symbol 15/3: 117–35. Grady, J. 1997. ‘‘‘Theories are buildings’’ revisited,’ Cognitive Linguistics 8/3: 267–90. Grady, J. 1999. ‘A typology of motivation for conceptual metaphor: Correlation vs. resemblance’ in R. Gibbs and G. Steen (eds): Metaphor in Cognitive Linguistics. Amsterdam: John Benjamins. Hunston, S. and G. Francis. 2001. Pattern Grammar: A Corpus-driven Approach to the Lexical Grammar of English. Amsterdam: John Benjamins. Ko¨ vecses, Z. 2000. ‘The scope of metaphor’ in A. Barcelona (ed.): Metaphor and Metonymy at the Crossroads: A Cognitive Perspective. Berlin: Mouton de Gruyter.
+
+690 THE EMERGENCE OF METAPHOR IN DISCOURSE
+
+Downloaded from https://academic.oup.com/applij/article-abstract/27/4/671/156148 by RWTH Aachen, Hochschulbibliothek user on 28 August 2019
+
+Ko¨ vecses, Z. 2002. Metaphor: A Practical Introduction. Oxford: Oxford University Press.
+Ko¨ vecses, Z., 2005. Metaphor in Culture: Universality and Variation. Cambridge: Cambridge University Press.
+Lakoff, G. 1993. ‘The contemporary theory of metaphor’ in A. Ortony (ed.): Metaphor and Thought 2nd edn. Cambridge: Cambridge University Press.
+Lakoff, G. and M. Johnson. 1980. Metaphors We Live By. Chicago: University of Chicago Press.
+Larsen-Freeman, D. 1997. ‘Chaos/complexity science and second language acquisition,’ Applied Linguistics 18/2: 141–65.
+Larsen-Freeman, D. and L. Cameron. in press. Complex Systems and Applied Linguistics. Oxford: Oxford University Press.
+Lemke, J. 2000. ‘Across the scales of time: Artifacts, activities, and meanings in ecosocial systems,’ Mind, Culture, and Activity 7/4: 273–90.
+Little, W., H. W. Fowler, and J. Coulson. 1973. The Shorter Oxford English Dictionary: On Historical Principles. Oxford: Clarendon Press.
+Maalej, Z. 2004. ‘Figurative language in anger expressions in Tunisian Arabic: An extended view of embodiment,’ Metaphor and Symbol 19/1: 51–75.
+MacArthur Purdon, F. 2005. ‘The competent horseman in a horseless world: Observations on a conventional metaphor in Spanish,’ Metaphor and Symbol 20/1: 71–94.
+MacWhinney, B. (ed.). 1999. The Emergence of Language. New York: Cambridge University Press.
+Moon, R. 1998. Fixed Expressions and Idioms: a Corpus-based Approach. Oxford: Clarendon Press.
+Ortony, A. 1979. Metaphor and Thought. Cambridge: Cambridge University Press.
+
+Ortony, A. 1993. Metaphor and Thought. 2nd edn. Cambridge: Cambridge University Press.
+Ricoeur P. 1975. The Rule of Metaphor: Multi-Disciplinary Studies in the Creation of Meaning in Language. London: Routledge with Kegan Paul (English translation).
+Ritchie, D. 2003. ‘Argument is war—Or is it a game of chess? Multiple meanings in the analysis of implicit metaphors,’ Metaphor and Symbol 18/2: 125–46.
+Ritchie, D. 2004. ‘Metaphors in conversational context: Toward a connectivity theory of metaphor interpretation,’ Metaphor and Symbol 19/4: 265–88.
+Rundell, M., G. Fox and M. Mayor. 2002. Macmillan English Dictionary for Advanced Learners. Oxford: Macmillan Education.
+Semino, E. 2005. ‘The metaphorical construction of complex domains: The case of speech activity in English,’ Metaphor and Symbol 20/1: 35–70.
+Semino, E., J. Heywood, and M. Short. 2004. ‘Methodological problems in the analysis of a corpus of conversations about cancer,’ Journal of Pragmatics 36/7: 1271–94.
+Sinclair, J. 1991. Corpus, Concordance, Collocation. Oxford: Oxford ‘University Press.
+Sinclair, J. 2004. Trust the Text: Language, corpus and discourse. London: Routledge.
+Sinclair, J., L. Sinclair Knight and M. Clari. 2001. Collins Cobuild English Dictionary for Advanced Learners. London: HarperCollins Publishers.
+Slobin, D. 1996. ‘From ‘‘Thought and Language’’ to ‘‘Thinking for Speaking’’ ’ in J. Gumperz and S. Levinson (eds): Rethinking Linguistic Relativity. New York: Cambridge University Press.
+
