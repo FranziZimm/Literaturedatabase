@@ -3,13 +3,13 @@
 	"translatorType": 4,
 	"label": "FAO Publications",
 	"creator": "Bin Liu <lieubean@gmail.com>",
-	"target": "^https?://www\\.fao\\.org/documents|publications/",
+	"target": "^https?://www\\.fao\\.org/(documents|publications)/",
 	"minVersion": "3.0",
 	"maxVersion": null,
 	"priority": 100,
 	"inRepository": true,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2021-06-09 13:20:00"
+	"lastUpdated": "2021-08-31 04:15:00"
 }
 
 /*
