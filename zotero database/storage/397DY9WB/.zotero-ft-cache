@@ -1,0 +1,273 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/278158946
+Aspect in the making: A corpus analysis of English aspect-making prepositions
+Chapter · January 2004
+
+CITATIONS
+6
+2 authors: Sally Rice University of Alberta 63 PUBLICATIONS 525 CITATIONS
+SEE PROFILE
+
+READS
+55
+John Newman University of Alberta 90 PUBLICATIONS 503 CITATIONS
+SEE PROFILE
+
+Some of the authors of this publication are also working on these related projects: EAT and DRINK View project Sub-Grouping of Athapaskan Languages View project
+
+All content following this page was uploaded by Sally Rice on 14 June 2015.
+The user has requested enhancement of the downloaded file.
+
+22
+Aspect in the Making: A Corpus Analysis of English Aspect-Marking Prepositions
+SALLY RICE AND JOHN NEWMAN
+Certain linguistic regularities are probably emergent rather than having direct cognitive representation (Langacker 1997:232).
+1 Introduction
+In many languages, certain relational predications (i.e. basic verbs, adpositions) are extremely susceptible to the effects of semantic extension, relexicalization, reanalysis, and ultimately grammaticalization. Adpositions, especially, have been the subject of intense focus in the functional and cognitive linguistics literature for over three decades.1 An assumption shared by most of these approaches is that synchronic polysemy patterns are the result of diachronic extensions, conflations, and syncretisms within constructions containing certain adpositions. This paper targets one area of heterosemous extension for some English prepositions: as emerging markers of aspect or Aktionsart.
+In a recent study investigating the collocational behavior of the cardinal English posture verbs sit, stand, and lie, we found a particularly revealing aspectual effect when these verbs are followed by the preposition around (Newman and Rice 2001; in press). Like the research reported here, this was a corpus-based study, relying chiefly on the ten-million-word spoken com-
+1 See Bolinger (1971), Bennett (1975), Brugman (1981), Lindner (1981), Talmy (1985), Radden (1985), Brinton (1988), Langacker (1992), O’Dowd (1998) for semantic extension patterns affecting English prepositions, and Genetti (1986); Heine, Güldemann, Kilian-Hatz, Lessau, Roberg, Schladt, and Stolz (1993); Svorou (1994); and Bybee, Perkins, and Pagliuca (1994) for a variety of studies tracing the development and subsequent grammaticalization of adpositions cross-linguistically.
+Language, Culture, and Mind. Michel Achard and Suzanne Kemmer (eds.). Copyright © 2004, CSLI Publications.
+313
+
+314 / SALLY RICE AND JOHN NEWMAN
+
+ponent of the British National Corpus (hereafter, sBNC). To illustrate those earlier findings, search queries on the frames sit around and and stand around and returned lemmatized examples like those shown in (1) and (2):
+
+(1) sit around and... …be depressed, …pray for a miracle, …wait for jobs, …bitch about them, …do nothing, …not make the investment, …watch TV
+(2) stand around and… …eat all the provisions, …not do anything to help, …not buy anything, …wait, …laugh, …listen, …twitch, …watch telly
+
+The presence of around not only forces a stative rather than active reading of sit and stand in these sBNC examples, the collocate verb phrase overwhelmingly denotes passivity, durativity, and negativity. The semantics of around coupled with inferences associated with the preferred collocate phrases contribute to the overall schema of what we might call a <sit/stand around and V> construction. In earlier work, we characterized these constructions as follows:
+
+(3) sit around and... a. favors PROGRESSIVE marking b. strongly suggests STATIVITY, PERSISTIVENESS, PASSIVITY,
+NEGATIVITY
+c. has relatively robust yet diverse collocate inventory (4) stand around and…
+a. favors PERFECTIVE marking b. suggests NEGATIVE ACTIVITY, PASSIVITY c. attracts collocates of social interaction
+
+These aspectual inferences and lexical preferences with around were reminiscent of aspectual properties associated with some other English prepositional expressions reported in Rice (1999). That study used an introspective methodology and was careful to characterize any aspectual force contributed by these items as minor or secondary since English already has a fully grammaticalized inflectional and auxiliary-based TAM system. Among the aspectual categories proposed and described in that earlier work were examples like those in (5):
+
+(5) a. b. c. d.
+
+CONTINUOUS away: He sang away at the top of his lungs. RESUMPTIVE on: She drove on while looking for an exit. SEMELITERATIVE/CORRECTIVE over: He took his turn over. EXTENDED DURATIVE on and on: She droned on and on.
+
+ASPECT IN THE MAKING / 315
+e. ITERATIVE over and over: He failed the exam over and over. f. HABITUAL again and again: I repeated myself again and again.
+While Rice (1999) did detail the interaction between these prepositions and the transitivity and telicity of their collocate verbs, this earlier study was not able to characterize the extent to which these prepositions’ emergent aspectual properties were diffused across the verbal lexicon and thus entrenched in the language. While it acknowledged that these inherently spatial terms had grammaticalized into nonspatial domains, it gave no indication of their frequency, pragmatic associations, preferred collocates, or other usage information about English again, around, away, on, and over when functioning adverbially. The present paper revisits the Rice (1999) findings in order to corroborate (or not) the intuitions of that earlier analysis with corpus data and to further illustrate and promote corpus-based techniques in cognitive linguistic analysis.
+2 Rival Methodologies
+In addition to overlooking key usage facts about constructions containing certain aspectualizing prepositions in English, Rice (1999) perpetuated a common misunderstanding about the grammaticalization of functional elements such as prepositions. That study focused narrowly on the target items rather than on the constructional and usage context. Critically, it is items in constructions which grammaticalize [viz. V around and V], not items in isolation [*around] (see Bybee, Perkins, and Pagliuca 1994: 297). As a case in point, Bybee et al. (ibid.: 136) provide a detailed account of how progressives have developed from locatives in a host of languages. For example, the Dutch expression in (6),
+(6) Ik ben aan het studeren. (lit. I’m at the studying) ‘I am studying.’
+conveys the component meanings that (a) an agent (b) is located spatially (c) in the midst of an activity (d) at reference time. However, the relative prominence of components (b) and (c) often get reversed diachronically, as suggested by the literal and free English glosses respectively. Thus the locative element gradually ceases to convey information about the agent’s spatial location as much as broader information about the temporal profile of the unfolding event.
+This seemingly natural shift of adpositions from marking space to marking time is well attested crosslinguistically and will not be revisited here in any detail. For English, however, we note a range of phenomena
+
+316 / SALLY RICE AND JOHN NEWMAN
+
+which can be taken as prerequisites or corequisites of prepositional grammaticalization: the pervasiveness of metaphors like TIME IS SPACE (e.g., Don’t eat that sandwich so close to dinner), STATES ARE LOCATIONS (e.g., She’s in
+love; He’s out of luck), UNFOLDING ACTIVITY IS MOTION ALONG A PATH (e.g., The
+program will keep running through the same analysis); the fact that preposi-
+tions display a tendency to particalize (e.g., They worked it out), conjunctiv-
+ize (e.g., I put the dog out before I left) or complementize (For you to quit
+would be a mistake); not to mention their natural proximity to verbs (e.g., Stop running around, Sit down, Shut up, What is he working on?).
+Indeed, Bybee and Dahl (1989) cite a range of symptoms of grammaticalization, shown in (7), which, frankly, are only detectable by looking at target items in situ and against the wider backdrop of their frequency distribution, the range of items they tend to collocate with, and the relative entrenchment in the language of the expressions (fixed or otherwise) in which they occur:
+
+(7) a. b. c. d. e. f. g. h.
+
+loss of lexical meaning loss of semantic autonomy increase in generality of meaning increase in pragmatic strengthening increased fixedness of position and distribution increase in frequency of occurrence (and diversity of usage contexts) increase in obligatoriness increase in redundancy
+
+The symptoms of full-blown grammaticalization are familiar, yet we would stress that the detection of incipient grammaticalization (a term Koops 2001 uses in his study of posture verb auxiliation) is best achieved through corpus techniques. These, rather than introspection alone, give a better sense of the syntactic ‘accumulations’ of target items (with respect to inflection and collocation) and any meaning components which inhere.
+While introspection can certainly set the cooccurrence boundaries of a linguistic phenomenon, indicating which lexical collocates make for an acceptable or unacceptable reading, the methodology is necessarily limited in scope (see Sandra and Rice 1995 and Sandra 1998 for general critiques). A linguist’s intuitions may be able to throw a relatively wide net, but they give no indication of the contour of the catch. Moreover, they tend to be subjective and item-centered and consequently miss patterns associated with large or discontinuous strings which do not readily spring to mind. Corpus techniques, on the other hand, are methodologically neutral, empirically verifiable, and wide in scope as well as deep in examples. They therefore allow for frequency of distribution facts to emerge without being filtered by
+
+ASPECT IN THE MAKING / 317
+the poverty of a linguist’s insights.2 In the rest of this paper we report on how speakers use select English prepositions aspectually as evidenced in the sBNC and how certain preposition-containing expressions may be assuming construction status in the language. First, a word about the methodology used in the study reported on here.
+In the present study we are concerned with certain prepositions and adverbs on the verge of or clearly signaling aspectual force, as illustrated in (1), (2), and (5) above and discussed in Rice (1999). The target items are on, away, over, again, and around. We extracted all (or up to 2000 randomized) usages of the target items tagged as adverbial (tagged as AV0 or AVP), not prepositional, from the spoken corpus of the BNC using the SARA search program. We felt that a spoken corpus would be less conservative or formal and more representative of everyday language use. The sBNC contains approximately ten million words and reflects the state of the language in the U.K. during the 1970s-1990s. We sorted the returns from our queries using MonoConc Pro™ and Wordsmith™ and extracted frequency information. We performed many of the more fine-grained counts by hand because the corpus is not semantically tagged. We were particularly concerned with two collocational contexts, V–particle and V–pronoun–particle, and the search results reported below are based on these two contexts alone. We also kept track of TAM marking on the collocate V as tagged in the sBNC: bare stem, infinitive, past, past participle, progressive participle, 3SG. We noted any recurring collocate items (e.g. same, all, just) and any recurring expressions or N-grams (e.g. start all over again). Figure 1 gives a sense of the relative frequency of the target items being used adverbially in the sBNC.
+3 Away and On
+Rice (1999: 233) associated away with CONTINUOUS aspect, that is, marking the continuation of an already ongoing activity. Among the other claims of that introspective study of away were those listed in (8):
+2 An illustration of such ‘poverty of the imagination’ was Rice’s (1999) complete overlook of an aspectualized and fully pragmatic use of again (cf. Section 4 below for the full account).
+
+318 / SALLY RICE AND JOHN NEWMAN
+
+12,000 10,000
+8,000 6,000 4,000 2,000
+0
+on
+
+again
+
+away
+
+over
+
+around
+
+Figure 1. Frequency by item being used adverbially in the sBNC
+
+(8) CONTINUOUS away a. indicates continuation of an already ongoing activity or process, especially effortless or purposeless continuation b. confined to intransitive verbs (unless accompanied by at or otherwise denoting some disintegrating activity) c. favors verbs denoting overt action d. is not used aspectually with verbs of motion e. favors verbs in the progressive
+Our sBNC search corroborated each of these claims while also yielding new insights. With respect to (8a-d), the most common collocate verbs of aspectual away included verbs of overt, repetitive action or disintegration. A representative sample is given in Table 1. The number of occurrences out of the 2000 we randomly downloaded is listed in parentheses, unless the incidence is one.
+The most common collocate verbs with adverbial away were verbs of translocation or dislocation. With these items, away maintains an almost exclusive directional interpretation. The search returns also revealed a collocate verb subclass with aspectual away overlooked by Rice (1999)––that of verbs denoting vocalization or other sound-producing activity. In all, three clearly identifiable collocate subclasses can be identified (yet they often blend together semantically: an overtly destructive event may involve repetitive action which produces noise). Finally, our sBNC study spectacularly supported claim (8e). A full 87% of the search returns featured collocate verbs with aspectual away inflected as a progressive participle (V-ing).
+
+ASPECT IN THE MAKING / 319
+
+lexical semantics of coverb
+
+lemmatized examples
+
+REPETITIVE OR OVERT MOTION
+
+work (9), boogie (3), slave (3), file (2), punch (2), rub (2), dance, hammer, parry, pat, play, potter, pout, print, pump, scribble, shag, shoot, sparkle, spin, type, wave, write
+
+DISINTEGRATION
+
+do [away with] (31), cut (4), wash (4), burn (2), crumble (2), eat (2), fade (2), blaze, boil, chomp, drain, dribble, excavate, hack, munch, rot, scrub, smoulder, trim, waste, wear, whittle
+
+VOCALIZATION OR chat (5), tick (4), explain (3), blare (2), chatter (2), chunSOUND-INDUCING ter (2), whinge (2), chug, click, giggle, hiss, jabber,
+moan, prattle, scream, shout, sneeze, snore, squeak, twitter, whirr
+
+TRANSLOCATION
+OR DISLOCATION
+(away not functioning aspectually)
+
+take (151), go (127), be (126), get (101), run (42), give (28), come (26), walk (21), throw (19), move (16), carry (15), send (13), turn (10), put (9), drive (8), stay (7), call (6), blow (5), pull (5), chuck (4), fly (4), sweep (4), head (3), hide (3), keep (3), break (2), clear (2), drift (2), fall, (2), lock (2), look (2), push (2), slip (2), accelerate, back, bounce, cast, cruise, float, gallop, knock, point, ride, sail, skip, smooth, snatch, stand, store, swim, swing, tiptoe, tow, transfer, tuck, wander, wave, whip
+
+Table 1. Collocate verbs from sBNC returns for adverbial away
+Rice (1999) described on as signaling RESUMPTIVE aspect and noted it collocates with more force-dynamic predicates than does away. That study characterized on as signaling perseverance in the face of disturbance or an expectation of stopping (236). Other attributes of aspectual on were those listed in (9):
+(9) RESUMPTIVE on a. indicates continued or resumed purposeful activity b. prefers simple tense inflection c. slightly disfavors progressive d. perfectly acceptable with verbs of motion
+Our sBNC query returned 1442 instances of adverbial on with intransitive verbs (with transitive verbs, on tends to convey a spatial sense as in verb-
+
+320 / SALLY RICE AND JOHN NEWMAN
+particle constructions like put it on, keep it on). Of these 1442 instances, a full 71% involve one of five verbs, all of which convey the continuation or resumption of a purposeful activity, including verbs of motion or position: go on (516), carry on (151), come on (145), hang on (122), and get on (95).3 This is in keeping with Deane’s (2002) observation that only a few verbs tend to supply the bulk of the instances of particular constructions.4 Some representative returns are shown in (10):
+(10) a. The strike at the coal mine in S. C. drags on and on. b. …then I’d leave him and he’d get on with his writing c. You can carry on analyzing your dreams at your leisure.
+Finally, in agreement with Rice’s (1999) observations about collocate verbs with aspectual on preferring simple tense inflection rather than progressive, our corpus study found only a 17% incidence of progressive participial forms (N=250). The raw TAM marking incidence for all the collocate verbs occurring with the target items is given in Table 2.
+
+BARE STEM
+
+V-over V-pro-over V-on V-pro-on V-away V-pro-away V-again V-pro-again V-around V-proaround
+
+193 (15) 74 (32) 520 (36) 19 (26) 239 (23) 62 (32) 64 (21) 108 (31) 112 (18) 18 (23)
+
+INF
+292 (23) 71 (31) 314 (22) 26 (36) 257 (24) 55 (29) 92 (29) 144 (42) 143 (23) 25 (32)
+
+SIMPLE PAST PART PROG PART
+
+PAST
+
+269 (22) 224 (18) 185 (15)
+
+49 (21) 12 (05) 18 (08)
+
+169 (12) 112 (08) 250 (17)
+
+11 (15)
+
+6 (08)
+
+8 (11)
+
+149 (14) 159 (15) 192 (18)
+
+21 (11) 17 (09) 18 (09)
+
+28 (09) 46 (15) 60 (18)
+
+32 (09) 22 (06) 28 (08)
+
+57 (09) 57 (09) 218 (35)
+
+8 (10)
+
+1 (01) 23 (29)
+
+3SG
+83 (07) 7 (03) 76 (05) 3 (04) 63 (06) 19 (10) 22 (07) 10 (03) 35 (06) 3 (04)
+
+Table 2. Raw incidence of different inflectional forms for collocate verbs accompanying target items in sBNC (percentages in parentheses)
+
+3 These examples reflect the count for the lemmatized verbs.
+4 Indeed, with the even more RESUMPTIVE construction <V on with>, just three collocate verbs (get, carry, and go) account for 90% of the 506 examples in the sBNC.
+
+ASPECT IN THE MAKING / 321
+Although quite dense, Table 2 nicely illustrates the differences among the various prepositions being used aspectually, as well as differences between intransitive and transitive usages of the verb-preposition collocates in terms of their TAM marking. The variation in inflectional distribution we find in this set of corpus searches and the ramifications such a finding has for lexicography and linguistic theory is echoed even more strongly in Newman and Rice (2003, to appear). In these subsequent corpus-based studies, we traced the inflectional and subcategorizational behavior of English eat and drink and concluded that not only do individual verbs have a lexico-syntactic life of their own (cf. Thompson and Hopper 2001: 44), but individual inflections of individual verbs do as well.
+Up to this point the corpus study findings have supported the claims of Rice (1999), a study based entirely on the analyst’s intuitions. Support for those earlier characterizations begins to unravel with the next search items.
+4 Over and Again
+The spatial preposition over has been intensively described in the cognitive linguistics literature, although most of these studies have addressed its spatial senses. Rice (1999: 239-41) associated over with SEMELITERATIVE or CORRECTIVE aspect, applying in the context of intentional activities being carried out a second time for corrective purposes or to achieve a different outcome. The aspectual use of over was characterized in terms given in (11):
+(11) SEMELITERATIVE/CORRECTIVE over a. indicates action ‘re-traversal’ b. verbs must be transitive and ‘semi-perfective’ c. suggests discernibly different outcome d. requires presence of volitional agent e. incompatible with iterative prefix re-
+Our search of the sBNC revealed the following returns:
+(12) a. …so I’m gonna dig it over and add some more soil b. I shouldn’t have started this over since he takes so long to… c. …and had to wipe that over.
+That is, out of 1473 (singleton) instances of adverbial over downloaded and analyzed, only these three (.002%) could be said to exemplify SEMELITERATIVE or CORRECTIVE force. On one hand, we could say that all of the claims in (11) were substantiated. On the other hand, the robustness of this aspectual usage in English is far from clear. In fact, both singleton uses of aspectual over
+
+322 / SALLY RICE AND JOHN NEWMAN
+and conjoined uses of what Rice (1999: 241) called ITERATIVE over and over were equally rare. There were only two instances in the sBNC:
+(13) a. I mean we’ve been going over and over that proposal. b. …it’s about us being used over and over.
+Rice (1999) also claimed that conjoined again and again marked a kind of HABITUAL aspect in English, but that it was otherwise indistinguishable or virtually interchangeable with ITERATIVE over and over. Because again has grammaticalized to the point of being unrecognizable with respect to its prepositional source, against, we did not include it in the present study. However, a corpus-based comparison of over and over and again and again would be worthwhile.
+The advantage of a corpus-based methodology is that the net can be thrown very wide and search returns can catch unintended and unexpected items. Although the incidence of aspectual over and over was dramatically low, a new targeted search of the whole sBNC revealed thirty-five instances of over and over again, an aspectualizing phrase ignored in Rice 1999. Typical usages are shown in (14):
+(14) a. I can just use these books over and over again. b. She asks the same question over and over again. c. …hurting you in the same way over and over again.
+Of the thirty-five instances in the sBNC, the word same was a close collocate of over and over again in thirteen cases (37%). This tight association leads us to posit that the semifixed word sequence, <the same X over and over again>, has become entrenched in the language. Comparably, a new query of the sBNC for adverbial over turned up thirty-eight instances of the string all over again. Representative returns are listed in (15):
+(15) a. It’s beginning to start all over again. b. You fall in love all over again with exactly the same type of person. c. I said to Sandra, it’s Ross all over again, init?
+The collocate verb start featured in twenty-two of these thirty-eight instances (58%), suggesting to us that <start (X) all over again> is an entrenched manifestation of the <V (X) all over again> construction—a collostruction (to use Stefanowitsch and Greis’s (2002) very apt term).
+Given the collocational affinity for over with again, we decided to examine singleton examples of again in the sBNC (an item not covered in Rice (1999) for the obvious reason that it has already fully grammaticalized
+
+ASPECT IN THE MAKING / 323
+as an adverbial in English and no longer shares morphological form with its prepositional counterpart, against). The most notable finding from our sBNC corpus study was that approximately 11% of all instances of again involve what we might call expressive rather than propositional usages (see Traugott 1982). These usages convey an iterative aspect of the speech act, signaling the speaker’s return to a previously mentioned or implied topic. We found 211 expressive uses of again from the 2000 random hits we were able to download from the on-line corpus. Representative examples are given in (16):
+(16) a. So, again, you might find that… b. That may be inevitable, but again, the more experience you’ve got… c. It must, again, be a matter of where you go… d. Well, there again, you see, it’s you you’re talking about...
+In keeping with its status as a fully grammaticalized adverbial particle, synchronically distinct from its prepositional source, again displays nearly all the characteristics of full-blown grammaticalization listed in (7), particularly (e) increased fixedness of position (in initial or near-initial position within a clause) and (f) increase in frequency of occurrence and diversity of usage contexts. Unarguably, its function in this usage is one of pragmatic strengthening (d).
+5 Around
+We began this paper with an account of the inactively persistive, passive, or otherwise negative force seemingly contributed by around in <sit/stand around and V> constructions. These minor aspectual categories are clearly conveyed by around with other collocate verbs as well. Our search of the sBNC returned a variety of posture verb and nonposture verb collocates. Example (17) gives an illustrative sample (note the preponderance of progressive participial forms for the collocate verb), while the full range of lemmatized collocates can be seen in Table 3:
+(17) a. …if you’re caught pissing around in the quad b. I was still slobbing around in my dressing gown c. …because I was messing around with the camera d. …when they start mucking around with outside issues e. He’s addicted to skiving around not doing very much f. …a drunken undergraduate hanging around in college bars
+
+324 / SALLY RICE AND JOHN NEWMAN
+
+With ‘translocational’ verbs (go, walk, etc.), the largest group of collocating verbs in the corpus, around imparts a sense of undirected motion. However, an equally dense though less frequent set of collocate verbs was also evident in the sBNC, that of useless activity. These blend to form an emergent subclass of goal-less motion, which by inference can be taken to be a type of useless activity. Based on the TAM marking preferences listed in Table 2, we suggest that <Ving around> is emerging as a construction in English, denoting undirected, purposeless activity.
+
+lexical seman- lemmatized examples tics of coverb
+
+USELESS ACTIVITY be (76), hang (20), mess (16), play (13), sit (11), fiddle (5), lie/lay (5), muck (3), potter (3), stay (3), fool (2), fuck (2), slob (2), stand (2), wait (2), bitch, faff, fart, fidget, flit, hack, hover, laze, lounge, mull, piss, skive, slob, tinker, twiddle
+
+blend: GOAL-LESS wander (11), float (9), roll (6), roam (3), stagger (2),
+
+MOTION
+
+bum, buzz, career, cast, clatter, crash, drift, ferret, grope,
+
+limp, nose, poke, scurry, shuffle, slouch, sniff, splash,
+
+swan, swerve, swing, swivel, tramp, wobble, wriggle
+
+TRANSLOCATION
+(PHYSICAL OR PERCEPTUAL)
+
+go (94), walk (38), look (31), turn (28), run (26), move (25), get (21), drive (17), come (14), jump (5), knock (4), rush (4), see (4), ask (3), fly (3), push (3), kick (2), leap (2), search (2), shop (2), swim (2), throw (2), travel (2), circulate, crawl, dash, dig, maneuver, ride, screech, spew, venture, whizz, zoom
+
+Table 3. Collocate verbs from sBNC returns for adverbial around
+6 Conclusion
+Whether any English prepositions have completely grammaticalized as aspect markers and would be recognized as such has not been our focus here. Instead, we have applied corpus techniques to help reveal incipient aspectualization of a set of English prepositions. We used Rice (1999) as a point of departure for the present study. We found some confirmatory evidence for that account, but we also were able to both refine some of those earlier claims and give a sense of the relative fixedness of certain constructions as well as the relative productiveness of certain aspectual usages (through the frequency and diversity of collocate verbs). The larger message is that certain patterns of interaction, such as between aspectualizing preposition and verb, are emergent in nature. Since grammaticalization happens in constructions,
+
+ASPECT IN THE MAKING / 325
+not in isolation, linguists who rely only on introspective and decontextualized or constructed data will likely fail to produce a full and empirically defensible account of a given linguistic phenomenon.
+As we stated in Section 2, introspection can only take an analysis so far. As a methodology, it is inherently vulnerable to a morpheme bias whose relative frequency is hard to intuit within full constructions. Introspection can reveal occurrence or nonoccurrence of an item in a construction (in the guise of its acceptability or ungrammaticality), but as our corpus study has demonstrated it is in actual collocations, in the context of real verbs, that we see aspectualization of former locatives. Moreover, corpus searches can yield a measure of collocational strength or the frequency with which certain prepositions and verbs collocate. Through queries of large corpora, substantial returns can allow fine-grained analyses that reveal which meaning components or pragmatic associations are accentuated in which constructional contexts. These associations are what initially trigger the grand march of grammaticalization. Such a strength measure is verifiable (or not) across corpora or speakers. The technique is, thus, more objective and less vulnerable to analytic oversight. While one cannot directly arrive at grammaticality judgments with corpus techniques––what we might want to call the ‘boundary’ of a linguistic phenomenon––one can achieve something far more compelling, based as it is on a spoken corpus: not where the grammar has been, but where it is going.
+References
+Bennett, D. C. 1975. Spatial and Temporal Uses of English Prepositions. London: Longman.
+Bolinger, D. 1971. The Phrasal Verb in English. Cambridge, MA: Harvard. Brinton, L. 1988. The Development of English Aspectual Systems. Cambridge:
+Cambridge University Press. Brugman, C. 1981. The story of OVER. MA thesis, University of California, Ber-
+keley. Bybee, J., and O. Dahl. 1989. The creation of tense and aspect systems in the
+languages of the world. Studies in Language 13: 51-103. Bybee, J., R. Perkins, and W. Pagliuca. 1994. The Evolution of Grammar: Tense,
+Aspect, and Modality in the Languages of the World. Chicago: University of Chicago Press. Deane, P. 2002. Zipf’s Law and the analogical induction of lexical properties. CSDL presentation, Rice University, October 11-14, 2002. Genetti, C. 1986. The development of subordinators from postpositions in Bodic languages. BLS 12: 387-400. Heine, B., T. Güldemann, C. Kilian-Hatz, D. Lessau, H. Roberg, M. Schladt, and T. Stolz. 1993. Conceptual Shift: A Lexicon of Grammaticalization Processes in African Languages. Köln: Institut für Afrikanistik.
+
+326 / SALLY RICE AND JOHN NEWMAN
+Koops, C. 2001. Emergent progressive aspect constructions: A study of presentday English from a cross-linguistic perspective. MA thesis, University of Hamburg.
+Langacker, R. W. 1997. The contextual basis of cognitive semantics. Language and Conceptualization, eds. J. Nuyts and E. Pederson, 229-52. Cambridge: Cambridge University Press.
+Langacker, R. W. 1992. Prepositions as grammatical(izing) elements. Leuvense Bijdragen 81: 287-309.
+Lindner, S. 1981. A lexico-semantic analysis of English VPCs with UP and OUT. Doctoral dissertation, University of California, San Diego.
+Newman, J., and S. Rice. 2003. Diathesis alternations and collocational schemas of English eat and drink in the BNC. Presentation at the 8th International Cognitive Linguistics Conference, University of La Rioja (Spain), July 22, 2003.
+Newman, J., and S. Rice. To appear. A corpus-based study of the transitivity of English EAT and DRINK. Corpora in Cognitive Linguistics. Vol. 2: The Syntax-Lexis Interface, eds. A. Stefanowitsch and S. Th. Gries. Amsterdam and Philadelphia: John Benjamins.
+Newman, J., and S. Rice. In press. Patterns of usage for English SIT, STAND, and LIE: A cognitively-inspired exploration in corpus linguistics. Cognitive Linguistics.
+Newman, J., and S. Rice. 2001. English SIT, STAND, and LIE in large and small corpora. ICAME Journal 25: 109-33.
+O’Dowd, E. 1998. Prepositions and Particles in English: A Discourse-Functional Account. Oxford: Oxford University Press.
+Radden, G. 1985. Spatial metaphors underlying prepositions of causality. The Ubiquity of Metaphor, eds. W. Paprotté and R. Dirven, 177-201. Amsterdam and Philadelphia: John Benjamins.
+Rice, S. 1999. Aspects of prepositions and prepositional aspect. Issues in Cognitive Linguistics: 1993 ICLC Proceedings, eds. L. de Stadler and C. Eyrich, 225-47. Berlin/New York: Mouton de Gruyter.
+Sandra, D. 1998. What linguists can and can’t tell you about the human mind: A reply to Croft. Cognitive Linguistics 9: 361-78.
+Sandra, D., and S. Rice. 1995. Network analyses of prepositional meaning: Mirroring whose mind–the linguist’s or the language user’s? Cognitive Linguistics 6: 89-130.
+Stefanowitsch, A., and S. Gries. 2002. Collostructions: On the interaction of verbs and constructions. CSDL presentation; Rice University; October 11-14, 2002.
+Svorou, S. 1994. The Grammar of Space. Amsterdam and Philadelphia: John Benjamins.
+Talmy, L. 1985. Lexicalization patterns: Semantic structure in lexical forms. Language Typology and Syntactic Description, Vol. III, ed. T. Shopen, 57149. Cambridge: Cambridge University Press.
+
+ASPECT IN THE MAKING / 327 Thompson, S., and P. Hopper. 2001. Transitivity, clause structure, and argument
+structure: Evidence from conversation. Frequency and the Emergence of Linguistic Structure, eds. J. Bybee and P. Hopper, 27-60. Amsterdam and Philadelphia: John Benjamins. Traugott, E. C. 1982. From propositional to textual and expressive meanings: Some semantic-pragmatic aspects of grammaticalization. Perspectives on Historical Linguistics, eds. W. P. Lehmann and Y. Malkiel, 245-71. Amsterdam and Philadelphia: John Benjamins.
+View publication stats
+
