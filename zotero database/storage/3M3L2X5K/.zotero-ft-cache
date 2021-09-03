@@ -1,0 +1,62 @@
+Evolang Workshop on Signals, Speech and Signs
+
+Vienna, April 14, 2014
+
+THE ROLE OF ICONICITY IN THE CULTURAL EVOLUTION OF COMMUNICATIVE SIGNALS
+MARK DINGEMANSE Language and Cognition department, Max Planck Institute for Psycholinguistics,
+6500 AH Nijmegen, The Netherlands (mark.dingemanse@mpi.nl)
+TESSA VERHOEF Center for Research in Language, University of California, San Diego
+La Jolla, CA 92093-0526 USA (tverhoef@ucsd.edu)
+SEAN ROBERTS Language and Cognition department, Max Planck Institute for Psycholinguistics,
+6500 AH Nijmegen, The Netherlands (sean.roberts@mpi.nl)
+1. Introduction The languages of the world vary in the extent to which they utilise iconic signals, in which there is a perceived resemblance between form and meaning. Sign languages make common use of iconicity, for instance by mapping motion in the world to motion in the signing space (Taub 2001). Spoken languages may also make extensive use of iconicity, for instance by depicting intensity or aspectual meanings in ideophones or sound-symbolic words, as in Japanese, Siwu, or Quechua (Dingemanse 2012). However, how iconicity emerges in a language, how it relates to the affordances of the medium of communication, or how it may bootstrap communication systems is unclear. One obvious suggestion is that the ease of mapping a semantic domain onto the signalling medium is a factor that affects the emergence of iconic signals. For example, mapping spatial relations in the world onto spatial relations in the sign space is easy to produce and to comprehend, whereas mapping spatial relations in speech is not so easy.
+Here we explore this suggestion using an artificial communication game. Pairs of participants were asked to communicate about a set of meanings using whistled signals. We designed the meaning space so that some meanings would be easy to map onto the medium of communication and some would be difficult to map. The communication game was iterated, so that a pair was trained on the signals used by the previous pair. In this way we could observe how the communication system evolved over time.
+We predicted that iconic signals would be more likely to emerge for the
+− 11 −
+
+Evolang Workshop on Signals, Speech and Signs
+
+Vienna, April 14, 2014
+
+easily mappable meanings, and that easily mappable meanings would be communicated with greater accuracy. In contrast, conventionalised and possibly compositional signals would be more likely to emerge for non-mappable meanings. What is less clear is how the two types of signal would interact. Iconic signs might form part of the building blocks for conventionalised signs, or perhaps a compositional system would eventually replace the iconic one. There may be founder effects that determine the amount of iconicity in a system, which might be analogous to the variation we see in spoken languages. It is also not clear how iconic signals would change over time. On the one hand, they should be easy to learn and easy to extrapolate, but there is also evidence that signals that combine iconic mappings with arbitrary features are less easy to learn than non-iconic signals (Ortega & Morgan, 2010). Iconic signals may not be subject to the same kind of drift as arbitrary signals because their transparent form-meaning mapping allows learners to regenerate them from scratch. This experiment explores some of these possibilities.
+2. Methods We use an iterated learning experiment with communication (e.g. Tamariz et al., 2012) to explore how iconicity affects the evolution of signals in a whistled language (e.g. Verhoef et al. 2012).
+Materials Participants communicated about artificial meanings. Each meaning was a picture of a well known animal facing either left or right (see figure 1). There were two ‘mappable’ animals and two ‘non-mappable’ animals. The mappable animals had shapes that were assumed to be easily mappable to the medium of communication (the slide whistle). The non-mappable animals had shapes that were assumed to be more difficult to map onto the medium of communication.
+
+Figure 1. The meanings in the artificial language, consisting of 4 animals in two orientations. Meanings 1 to 4 are difficult to map onto the slide whistle space. Meanings 5 to 8 are easy to map onto the slide whistle space. The suggested mapping from meaning to tone contour is given above meanings 5 to 8. Note that animal and orientation are conveyable in iconic ways.
+− 12 −
+
+Evolang Workshop on Signals, Speech and Signs
+
+Vienna, April 14, 2014
+
+Procedure Pairs of participants played a communication game via a touch-sensitive pad. In each round, one participant was chosen as the ‘speaker’ and the other as the ‘listener’. The speaker was presented with a target meaning to communicate to the listener. The pad allowed the participants to communicate using a digital slide whistle. Moving a finger across the pad from left to right made a signal going from a low tone to a high tone.
+The listener listened to the speaker’s signal and was presented with a randomly ordered array containing the target meaning and 5 distractor meanings. The listener then guessed the target meaning. The pair were told whether they were correct and shown the target and the guessed meaning. After each round the speaker and listener roles were switched. Participants completed 16 rounds (each meaning twice) in a random order.
+Pairs in later generations underwent a training phase before the guessing game where they saw meanings and heard the last signal used for that meaning by the previous pair in the previous generation. Participants only saw a random half of the previous meanings. This procedure differs from many iterated learning experiments because the initial input set of signals was not created by the experimenters but emerged in the interaction of the first pair.
+3. Preliminary results We ran a pilot experiment of 4 chains of between 8 and 10 generations. Participants were recruited at a museum in Utrecht and included children and adults. Easily mappable meanings were guessed correctly in 33% of trials, while non-easily mappable meanings were guessed in 22% of trials (t = 2.9, p = 0.003). We used a mixed effects logit model to predict communicative success based on the mappability of the target, the orientation, the generation, the age of the participant and the interaction between mappability and generation. The animal depicted in the meaning and the chain number were entered as random effects.
+We found no main effects, but there was a significant interaction between mappability and generation (z=2.4, p=0.02). This suggests that while bootstrapping a linguistic system may not be easier with easily mappable meanings, signals for easily mappable meanings evolve to fit the communicative needs faster than signals for meanings that are not easy to map (see figure 2).
+4. Discussion and future work We used an iterated learning paradigm to explore how iconic mappings between meanings and signals can be used during the initial stages of language emergence. The results suggested that how easy a meaning can be mapped to an articulation space can affect the cultural evolution of a language.
+Although in the beginning of a chain, there seems to be no difference in the proportion of correct responses for the two types of meanings, after some generations of transmission and use a clear effect appears. This is interesting,
+− 13 −
+
+Evolang Workshop on Signals, Speech and Signs
+
+Vienna, April 14, 2014
+
+since the possibility of using iconic signals was present from the beginning. In a further analysis of the data we want to explore possible reasons for the later emergence of success in communicating easily mappable meanings. It may take time for participants to coordinate on their strategy, leading to clashes in the earliest trials that are avoided only when participants converge on the same strategy. Participants in later chains have the advantages of a learning phase which serves to create the common ground required for quick strategic convergence. A possible iconic strategy may therefore need to be used more systematically and occur in a pattern before it actually makes learning and recall easier. Such systematic patterns in the use of strategies are expected to emerge through cultural evolution and social coordination. We are currently in the process of analysing the signals used in the experiment to assess to what extent iconic mappings were utilised. We will also analyse whether signals for easily mappable meanings are more similar across chains than signals for meanings that are difficult to map. A future version of this experiment will be conducted in a more controlled laboratory environment and will involve longer training and interaction sessions with a larger set of meanings and signals.
+
+Figure 2. Proportion of correct guesses for different types of meaning over generations.
+Acknowledgements Many thanks to Shawn Bird and Marisa Casillas for help with the experiment design and implementation. References Dingemanse, Mark. 2012. Advances in the cross-linguistic study of ideophones.
+Language and Linguistics Compass, 6 (10): 654–672. Ortega, G., & Morgan, G. (2010). Comparing child and adult development of a
+visual phonological system. Language interaction and acquisition, 1(1),
+− 14 −
+
+Evolang Workshop on Signals, Speech and Signs
+
+Vienna, April 14, 2014
+
+p.67-81. Taub, Sarah F. 2001. Language from the body: iconicity and metaphor in
+American Sign Language. Cambridge/NY: Cambridge University Press. Tamariz, M., Cornish, H., Roberts, S. & Kirby, S. (2012) The effect of generation
+turnover and interlocutor negotiation on linguistic structure. In T. C. Scott-Phillips, M. Tamariz, E.A. Cartmill & J.R. Hurford, The Evolution of Language: Proceedings of the 9th International Conference (EVOLANG9). World Scientific. p. 555 Verhoef, T., de Boer, B.G. & Kirby, S. (2012). Holistic or synthetic protolanguage: Evidence from iterated learning of whistled signals. In T.C. Scott-Phillips, M. Tamariz, E.A. Cartmill & J.R. Hurford (Eds.), The evolution of language: Proceedings of the 9th international conference (EVOLANG9) World Scientific. p. 368-375.
+
+− 15 −
+

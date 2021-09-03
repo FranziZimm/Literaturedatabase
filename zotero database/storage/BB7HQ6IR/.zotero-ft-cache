@@ -1,0 +1,1436 @@
+See discussions, stats, and author profiles for this publication at: http://www.researchgate.net/publication/228408596
+Holistic spatial semantics of Thai
+ARTICLE
+
+CITATIONS
+13
+
+DOWNLOADS
+137
+
+1 AUTHOR:
+Jordan Zlatev Lund University 41 PUBLICATIONS 380 CITATIONS
+SEE PROFILE
+
+VIEWS
+33
+
+Available from: Jordan Zlatev Retrieved on: 25 June 2015
+
+In G. Palmer and E. Casad (eds.) Cognitive Linguistics and Non-Indo European Languages, Berlin: Mouton de Gruyter, 2003.
+Holistic spatial semantics of Thai
+Jordan Zlatev
+Department of Linguistics Lund University, Sweden Jordan.Zlatev@lucs.lu.se
+
+1. Introduction
+A (generic) spatial utterance is an utterance which helps the listener determine the location of a given entity – if the described situation is static – or else the trajectory of its motion. Hence, it can be seen as an explicit or implicit answer to a where-question. The following are thus examples of prototypical English spatial utterances: The toothpaste is on the shelf. He is going to school. She comes from the South. The train will pass through the tunnel. An approach to spatial semantics that has the utterance (itself embedded in discourse and a background of practices) as its main unit of analysis, rather than the isolated word, may be characterized as dialogical (cf. Wold 1992) and more importantly for the present context – holistic. Such an approach aims to determine the semantic contribution of each and every element of the spatial utterance in relation to the meaning of the whole utterance – a desideratum for semantics that can be traced back to Frege’s (1953 [1884]) “context principle”. One major advantage of such an approach to more traditional (cognitive) spatial semantic theories1 is that by taking its point of departure from the whole, rather than from the parts, it does not limit the analysis to a particular linguistic form (e.g over, cf. Lakoff 1987), form class (e.g. prepositions, cf. Cuyckens 1991), or theoretically biased grammatical notion (e.g. “closed-class elements” cf. Talmy 1988).
+The conceptual framework of situated embodiment (Zlatev 1997) implies such a dialogical, holistic approach to spatial meaning, resulting in the theory of holistic spatial semantics (HSS), which has been applied to a diverse set of languages.2 In this paper, after a summary of the theoretical framework in Section 2, I will use this theory to analyze the structure and semantics of spatial utterances in Thai. I will try to show that HSS allows a perspicacious analysis of the complicated semantic and syntactic interdependencies between the members of a number of distinct form classes, exemplified in (1).
+
+(1) d´´n
+
+?ç$çk
+
+maa
+
+ca$ak kha^aN
+
+walk
+
+go-out
+
+come
+
+from side
+
+Manner-V Path-V
+
+Deictic-V Prep Class-N
+
+He/she is coming out (walking) from inside the cave.
+
+nay in
+Region-N
+
+tha^m cave
+LM-N
+
+1
+
+The word classes and their designations, shown in boldface below the glosses, are themselves a product of the analysis, and are defined on the basis of both semantic and syntactic criteria, as described in Section 3. Because of the wide empirical scope, however, I will of necessity be quite schematic with respect to the meaning of the individual lexical items. In conclusion, I will consider some theoretical implications of the study for linguistic typology and semantic theory.
+2. Theoretical framework
+2.1. Situated embodiment
+The conceptual framework of situated embodiment (Zlatev 1997, 2003a), incorporates the principle of embodiment (Johnson 1987) emphasized within cognitive semantics, but complementing it with Wittgenstein’s (1953) view of language as “forms of life” embedded, or situated, within socio-cultural practices. The major descriptive category is that of a minimal, differentiated language game (MDLG). An MDLG is minimal since it involves only a single utterance, which constitutes the minimal “move” in discourse and may be regarded as a minimal independently meaningful unit of language; it is differentiated because neither utterance nor situation are monolithic, but rather divided into categories of elements; it is a language game, since the utterance and the situation are interwoven as aspects of a given linguistic practice (e.g. asking for directions), where language is not simply “a picture of reality”. Figure 1 represents the notion of MDLG schematically.
+< FIGURE 1, HERE >
+As in cognitive grammar (Langacker 1987), this view implies that linguistic knowledge may be characterized as a mapping between a “phonological pole” and a “semantic pole”. However, the semantic pole is not thought of as an individual speaker’s conceptualization, but rather as an intersubjectively construed situation.3 Situations can be partially analyzed into semantic categories, which are are primed by languageindependent, sensorimotor categories, but are shaped throughout acquisition into language-specific ones (Bowerman 1996). Thus a balance between semantic universalism and particularism is to be anticipated. Furthermore, these categories are assumed not to be independent of each other, but to form aspects of meaningful wholes, in the manner of frame semantics, e.g. Fillmore (1982). The utterance itself can be analyzed into separate words and morphemes, falling into form classes that emerge as a result of semantic and distributional regularities. But since there are also suprasegmental and collocational structures (Pawley and Syder 1983) which span over the individual units, analyzability on the utterance level, as on the situation level, is only partial.
+The mapping between the semantic categories and the utterance units is not at all constrained to be one-to-one, but rather expected to be many-to-many. Talmy’s (1985) notion of lexicalization patterns focuses on the mapping of more than one semantic unit to a single lexical item (conflation), while the phenomenon of distributed spatial
+2
+
+semantics analyzed by Sinha and Kuteva (1995) highlights the reversed relationship (one semantic unit – several utterance units). Such cases are expected to be the rule rather than the exception from the standpoint of the proposed framework.
+Finally and importantly, the meaning of an utterance is fixed only relative to an assumed background, as pointed out by, for example, Dreyfus (1991, 1993) who calls it a “background of shared practices” and Searle (1983, 1992) who refers to it as “human capacities (abilities to engage in certain practices, know-how, ways of doing things etc.)” (Searle 1992: 179). This is the conception of the background “represented” in Figure 1 by the fact that the smaller utterance and situation ovals – gestalt-like in themselves – presuppose the larger oval of background practices.
+2.2. Holistic spatial semantics (HSS)
+Holistic spatial semantics (HSS) may be considered a theory of the linguistic expression of spatial meaning that stems from the conceptual framework of situated embodiment outlined above. It proposes that there exist 7 universal spatial semantic categories: Trajector, Landmark, Motion, Frame of Reference, Region, Path and Direction.
+• Trajector (TR) The entity (object, person or event) whose location or motion is of relevance. Similar uses of the term can be found in Langacker (1987), Lakoff (1987) and Regier (1996). Other terms referring to this category include Figure (Talmy 1975, 1983), Levinson (1996) and Referent (Miller and Johnson-Laird 1976), Levelt (1996).
+• Landmark (LM) The reference entity in relation to which the location or motion of the Trajector is determined (Langacker 1987, Lakoff 1987, Regier 1996). Other terms include Ground (Talmy 1975, 1983), Levinson (1996), Relatum (Miller and Johnson-Laird 1976), Levelt (1996). (It should be noted that Langacker extends the meaning of the terms “trajector” and “landmark” outside the spatial domain).
+• Motion A binary category indicating whether there is perceived motion or not. In most cases of so-called “virtual motion” (Talmy 1983), “abstract motion” Langacker (1987), and “fictive motion” (Talmy 1996) the value of this category is negative, while the value of Path is different from ZERO (see below).
+• Frame of Reference (FoR) The spatial disposition of the Trajector is also determined by situating it within a Frame of Reference (FoR) requiring one or more fixed Bearings, as well as Axes projecting from them. These can be defined (a) with respect to the Landmark in which case the frame is ALLOCENTRIC, (b) geo-cardinal positions, in which case the frame is GEOCENTRIC, or (c) according to a viewpoint, in which case the frame is DEICTIC. This division is a generalization of the Intrinsic/Absolute/Relative division proposed by
+3
+
+Levinson (1996) and Pedersen et al. (1998) which applies only to static projective relations on the horizontal plane.
+While almost all theories of spatial semantics acknowledge the importance of the category FoR, no two define it in the same way. Levelt (1996) uses the term Pespective System in a way similar to Levinson. Jackendoff (1996) distinguishes 8 different FoRs, by rather arbitrary criteria. Langacker (1987) subsumes FoR under his notion of Domain, but this fails to do justice to the special character of the category. Zlatev (1997) uses the same terms as the present account, but confounds FoR and Landmark type, while the present account is in accord with Levinson (1996), who points out that “[l]inguistic frames of reference cannot be defined with respect to the origin of the co-ordinate system” (ibid: 135). For example, (2a-b) both employ a DEICTIC FoR despite different kinds of origins, while (3a-b) use two different FoRs despite that in both cases the origin of the FoR is in the speaker.
+
+(2) a. b.
+(3) a. b.
+
+He is standing in front of the tree. FoR: DEICTIC
+He is standing in front of the tree from John’s point of view. FoR: DEICTIC
+Stand behind the tree. FoR: DEICTIC
+Stand behind me. FoR: ALLOCENTRIC
+
+• Region The category denotes a region of space always defined in relation to a Landmark. By
+specifying a value to the category Region (and a FoR), the Trajector is related not just in terms of vague proximity (though that is also possible), but is being located more
+specifically with respect to the Landmark’s INTERIOR, EXTERIOR, LATERAL, SUPERIOR, INFERIOR, ANTERIOR, POSTERIOR and other similar regions. Svorou (1994) uses the notion Region in a similar way. It should be noted that languages can differ substantially both on the extension of the regions which they express, and on whether they are defined on the
+basis of primarily functional or primarily perceptual properties of the landmark.
+
+• Path The most schematic characterization of the trajectory of actual or virtual motion in relation to a Region defined by the Landmark in terms of the components BEGINNING,
+MIDDLE and END, similar to the distinction Source/Medium/Goal (Slobin 1997). This notion is different from the notion of Path used by e.g. Talmy (1983) and Lakoff (1987)
+which is much more “imagistic”. Furthermore by including ZERO (no extension) among the values of Path, generalizations concerning e.g. locative case systems can be captured.
+HSS thus abstracts Path from Region and allows stating the fact that the spatial meaning of the Bulgarian sentences (4a-c) is identical apart from the value of the category Path.
+(The English translations also differ in terms of FoR, since (4a) and (4c), but not (4b) employ the DEICTIC frame in addition to the ALLOCENTRIC frame.)
+
+4
+
+(4) a. b. c.
+
+Toj iz-leze
+
+ot
+
+He out-move+PAST from
+
+‘He came out from the room.’
+
+Region: INTERIOR–Path: BEGINNING
+
+Toj mina
+
+prez
+
+He pass+PAST through
+
+‘He passed through the room.’
+
+Region: INTERIOR–Path: MIDDLE
+
+Toj v-leze
+
+v
+
+He in-move+PAST
+
+in
+
+‘He went into the room’.
+
+Region: INTERIOR–Path: END
+
+stajata. room+DEF
+stajata. room+DEF
+stajata. room+DEF
+
+• Direction When the trajectory of motion is not characterized in terms of its relation to the Region of a Landmark, it can be defined in terms of its Direction along the Axes provided by the different Frames of Reference (5a-b).
+
+(5) a. b.
+
+He went that way. FoR: DEICTIC, Direction: DISTAL
+The balloon is going up. FoR: GEOCENTRIC, Direction: UPWARD
+
+Following situated embodiment, HSS assumes that these semantic categories have their basis in categories of sensorimotor experience, but are not sensorimotor themselves: The latter are perceptually rich and language-independent while the semantic ones are schematic and language-dependent. This becomes obvious from the fact that the exact values of the category Region may vary considerably across languages. Languages also differ in the way the categories are expressed, though always through some combination of overt expression, covert expression and background specification.
+
+• Overt expression A semantic category is expressed overtly only if its values vary systematically with different expressions from a particular form class. There are three general patterns of overt expression: conflation, when more than one semantic category is expressed by the members of a single form-class; distributedness, when the same category is expressed by a set of different form classes, and complementarity, when different form-classes typically express different categories. The Japanese example (6) illustrates all three patterns:
+
+• conflation
+
+Path-V (deru) ´ Path + Region
+
+• distributedness Path-V (deru) + Post (ni) ´ Path
+
+• complementarity Region-N (soto) ´ Region, Post (ni) ´ Path
+
+5
+
+(6) sensei ga dojo no soto
+
+ni
+
+deta
+
+teacher SUBJ dojo GEN outside
+
+to
+
+go+PAST
+
+Region: EXTERIOR Path: END Path: BEGIN–Region: INTERIOR
+
+Path: END–Region: EXTERIOR
+
+The karate instructor left the dojo and went out.
+
+According to the present analysis the meaning of Path-expressing verbs such as deru is assumed to include (at least) two sets of Path-Region values, where the one underlined is
+thematized, or “foregrounded” according to Talmy’s (1997) theory of “the windowing of attention”.
+
+• Covert expression Covert expression implies that a word that primarily expresses one semantic category, participates in the expression of another. For example, the semantic category Region is usually not expressed by English verbs overtly – verbs of locomotion (e.g. go, run, fly, float) will typically express the category Manner-of-motion, rather than information pertaining to the Path and/or Region of the motion event. However, the use of particular verbs will constrain the value of Region, as shown by the contrast between (7a) and (7b) below. This covert expression of Region by certain verbs in English (the broken line between [C] and the ellipse in Figure 1) may be seen as an effect of the holistic relationship between concepts within situations.
+
+(7) a. b.
+
+John flew over the bridge. Region: SUPERIOR
+John walked over the bridge. Region: SURFACE
+
+• Background specification Background specification is involved in the Japanese example (6), albeit not in the domain of spatial semantics. Consider the translation of sensei (‘teacher’) as ‘karate instructor’ – it is the word dojo (‘dojo’, ‘place for practicing karate’) which strongly predisposes for a “karate training” background context, which constrains the interpretation of sensei. This also shows that covert expression and background specification are closely related, and it may not be determinate whether a word coexpresses a certain category or “triggers” a more general context for its interpretation. On the other hand, both may be said to correspond to pragmatic, as opposed to semantic, meaning (cf. Levinson 1983). Thus HSS maintains a weak form of the distinction between semantics and pragmatics – as opposed to e.g. cognitive grammar, which denies it.
+In the following two sections – corresponding to overt and covert/background expression – a large class of Thai spatial utterances will be described according to the theoretical framework here summarized. The major restriction will be that I will deal only with cases where the Trajector is identical with the grammatical subject, hence excluding transitive verb constructions. I will also ignore the category Aspect, though it is clearly relevant for the semantics of motion event expressions, as reflected in terminological distinctions such as “perfective path” vs. “imperfective path” (Hawkins 1993).
+
+6
+
+3. Overt expression of spatial meaning in Thai
+
+Thai possesses a rich and complex system for expressing spatial meaning. In terms of overt expression, at least six different form classes may be defined on the basis of semantic and distributional (structural) criteria: path verbs (Path-V), direction verbs (Dir-V), deictic verbs (Deictic-V), prepositions (Prep), region nouns (Region-N), and class nouns (Class-N). In the present section I will illustrate and define semantically and structurally each one of these 6 classes.
+
+3.1. Path verbs
+
+Thai has a number of verbs which primarily express the category Path and thus appear to place Thai in the “verb-framing” type of languages, according to Talmy’s well-known typological distinction (Talmy 1985), along with e.g. Romance, Korean and Japanese
+(Wienold 1995). A non-exhaustive list of these verbs includes: kha^w (‘enter’), ?ç$çk
+(‘exit’), l´ ´ y(‘go-beyond’), kla$p(‘return’), pha$an(‘pass’) and k ha ^ a m (‘cross’). Examples (8)-(13) show each one of these verbs in the context of a spatial utterance where they appear as main verbs, with an optional preceding progressive marker (PROG)
+kamlaN, and an obligatory Landmark nominal at the end. Between the path verb and the LM-NP it is sometimes possible to interpose a deictic verb (cf. 3.3) as shown by the “b” examples, but at least in (8b), (10b), (12b) and (13b) this is clearly problematic, and according to some (though not all) native speakers ungrammatical.4 Below each example is given a partial analysis of the meaning of the verbs in terms of the categories Path and Region (which is, recall, specified in relation to the Landmark).
+
+(8) a.
+
+cha&n I
+
+(kamlaN) PROG
+
+kha^w enter
+
+hç^çN room
+
+b. ??cha&n
+
+(kamlaN) kha^w
+
+pay hç^çN
+
+I
+
+PROG
+
+enter
+
+go room
+
+I am going into the room.
+
+Path: BEGIN–Region: EXTERIOR, Path: END–Region: INTERIOR
+
+(9) a.
+
+cha&n I
+
+(kamlaN) PROG
+
+?ç$çk ca$ak/*0 exit from
+
+hç^çN room
+
+b. cha&n
+
+(kamlaN) ?ç$çk pay ca$ak/*0
+
+I
+
+PROG
+
+exit go from
+
+I am going out from the room.
+
+Path: BEGIN–Region: INTERIOR, Path: END–Region: EXTERIOR
+
+hç^çN room
+
+7
+
+(10) a. kha&w
+
+(kamlaN) l´´y
+
+pa^ay
+
+he/she
+
+PROG
+
+go-beyond buss-stop
+
+b. ??kha&w he/she
+
+(kamlaN) PROG
+
+l´´y
+
+pay pa^ay
+
+go-beyond go buss-stop
+
+He/she is passing the buss-stop.
+
+Path: BEGIN–Region: DISTAL, Path: MIDDLE–Region: PROXIMATE Path: END–Region: ULTERIOR
+
+(11) a.
+
+kha&w he/she
+
+(kamlaN) PROG
+
+kla$p ba^an return home
+
+b. kha&w
+
+(kamlaN) kla$p pay ba^an
+
+he/she
+
+PROG
+
+return go home
+
+He/she is returning home.
+
+Path: BEGIN–Region: LM, Path: MIDDLE–Region: DISTAL
+
+Path: END–Region: LM
+
+(12) a.
+
+kha&w (kamlaN) he/she PROG
+
+pha$an go-through/pass
+
+(nay) su&an inside park
+
+b. ??kha&w (kamlaN) pha$an
+
+pay (nay) su&an
+
+he/she PROG
+
+go-through/pass
+
+go inside park
+
+He/she is going through the park.
+
+Path: BEGIN–Region: EXTERIOR, Path: MIDDLE–Region: INTERIOR/LATERAL Path: END–Region: EXTERIOR
+
+(13) a.
+
+kha&w he/she
+
+(kamlaN) PROG
+
+kha^am cross
+
+thano&n road
+
+b. ??kha&w
+
+(kamlaN) kha^am
+
+pay thano&n
+
+he/she
+
+PROG
+
+cross
+
+go road
+
+He/she is crossing the road.
+
+Path: BEGIN–Region: SIDE-A, Path: MIDDLE–Region: INTERIOR/SURFACE
+
+Path: END–Region: SIDE-B
+
+The semantic difference between kha^w and ?ç$çk in (8) and (9) is captured by stating that the verbs have converse Region values associated with the BEGINNING and END values for
+Path. But since ?ç$çk foregrounds the values Path: END–Region: EXTERIOR, without the
+preposition ca$ak (cf. 3.4) there would be a clash with the default region of the LM-NP
+hç^çN (‘room’): INTERIOR – resulting in ungrammaticality. ( A more detailed analysis of semantic constraints is deferred for Section 5.)
+The remaining 4 path verbs l´´y, kla$p, pha$an and k ha^am require the MIDDLE value of Path to be taken in consideration as well, where for the last two, it is the
+foregrounded value. Interestingly, pha$an has a value for Region which appears
+“ambiguous” from an English perspective: pha$an su&an could either mean ‘pass through the park’ or ‘pass by the park’ while adding the region noun nay (‘inside’) (cf. 3.5)
+
+8
+
+singles out the first interpretation. The case is rather similar with kha^am, but this seems less strange from an English perspective, since cross has a similar semantic vagueness:
+kha^am mEE^na^am means ‘cross the river’, and the action can be performed either on the surface (by boat), through its “interior” (by swimming), or walking over it on a bridge.
+What is important (unlike with pha$an)is thatthe path begins on one side of the Landmark and ends on the other, implying that the Landmark must be an entity that can be seen as having different sides.
+Apart from Path and Region, the ability of path verbs to express an ongoing activity when combined with the progressive marker indicates that they also express the category Motion. According to the analyses presented by Kita (1999) and Choi and Bowerman (1991) this is not the case for corresponding verbs in Japanese, e.g. hairu (‘enter’) and deru (‘exit’) and Korean, which simply express change of location when not combined with deictics. If this is indeed the case (the analyses are controversial) this would be captured in the present theory by stating that Japanese and Korean verbs express overtly only Path and Region, though not Motion. For Thai, however, there is no clear evidence for such an analysis.
+We also need to consider whether Thai path verbs express the category Frame of Reference. Utilizing the distinctions made available within HSS, I would propose the hypothesis that path verbs in Thai do not express FoR overtly, in contrast to their counterparts in e.g. English. The evidence for this is the following: As mentioned, the Landmark noun needs to be explicitly stated (when the verb complex consists only of a path verb), while this is not the case for the English translations, as shown in (14):
+
+(14) ??kha&w
+
+(kamlaN) kha^w/?ç$çk/l´´y/kla$p/pha$an/kha^am
+
+he/she
+
+PROG
+
+enter/exit/go-beyond/return/pass/cross
+
+He/she is entering/exiting/going beyond/returning/passing through/crossing
+
+However, this changes if the path verb is either followed by a deictic verb as in (15a), or preceded with a “manner verb” expressing the manner in which the motion is carried out as in (15b), or both as in (15c). In these cases it is not necessary to spell out the Landmark, which may remain implicit.
+
+(15) a. b. c.
+
+cha&n (kamlaN) kha^w pay
+
+I
+
+PROG
+
+enter go
+
+I am going in (there).
+
+cha&n (kamlaN) d´´n kha^w
+
+I
+
+PROG
+
+walk enter
+
+I am walking in.
+
+cha&n (kamlaN) d´´n kha^w pay
+
+I
+
+PROG
+
+walk enter go
+
+I am going in (there, walking).
+
+What could this difference – between path verbs as single verbs and when they appear
+following manner verbs – be attributed to? Focusing on kha^w and ?ç$çk (and similar verbs in Khmer) Sak-Humphry, Indambraya and Starosta (1997) argue that since the two sets
+
+9
+
+have somewhat different distributional properties, they should be analyzed as “homophonous” forms, belonging to two different categories – verbs and “deverbial adverbs”, respectively. However, their analysis does not make it clear what type of semantic difference, if any, would correspond to the distributional difference, making the separation into two classes less than convincing.
+According to the present analysis, the semantic difference between the two sets of “homophonous” verbs lies in the fact that the post-manner path verbs express a value for the category Frame of Reference (ALLOCENTRIC), but the single verbs do not. We may avoid postulating two different categories of homophonous forms, if we assume a possibility suggested by HSS: Even though neither the path verbs nor the manner verbs express FoR independently from each other, they do so in combination – a form of (covert) distributedness.
+Finally, either with or without a preceding manner verb, path verbs can take not only a “bare” Landmark nominal, but one preceded by a preposition as in (9), a region noun as in (12), or with both, as in (1). Using the notation suggested in Section 2 for the semantics, and a construction grammar-like (cf. Goldberg 1995) scheme for the syntax, with parentheses indicating optionality and ‘/’ indicating disjunction, the category path verb (Path-V) can be defined as in (16).
+
+(16) a.
+
+Path-V ´ Path + Region + Motion [TR-NP (PROG) __ Deictic-V / LM-NP / Deictic-V (Prep) LM-NP]
+
+b. Path-V ´ Path + Region + Motion + FoR: ALLOCENTRIC [TR-NP (PROG) Manner-V __ 0 / Deictic-V / LM-NP / Deictic-V (Prep) LM-NP]
+
+3.2. Direction verbs
+
+The next category of Thai spatial expressions includes the verbs khµ^n (‘go-up’), loN
+(‘go-down’) and t hç & ç y(‘go-back’)T. hese verbs are similar syntactically and semantically to the path verbs described above, but certain differences motivate their
+separation into a separate form class. First, the expressions with khµ^n (17a) and loN (18a) are better than those with path verbs without either a following deictic verb or a LM-NP,
+while thç&çy (19a) is entirely grammatical in this context. On the other hand, neither of the
+verbs is completely felicitous with a following LM-NP, thç&çy being ungrammatical (17b, 18b, 19b). Finally the combination direction verb + deictic verb + LM-NP is less subject to constraints than was the case with the path verbs (17c, 18c, 19c).
+
+(17) a. ?kha&w (kamlaN) khµ^n
+
+b. ??kha&w (kamlaN) khµ^n
+
+c. kha&w (kamlaN) khµ^n pay
+
+he/she PROG
+
+go-up go
+
+He/she is going up (to the second floor).
+
+FoR: GEOCENTRIC, Direction: UPWARD
+
+cha&n sç&çN
+cha&n sç&çN second floor
+
+10
+
+(18) a. ?kha&w (kamlaN) loN
+
+b. ??kha&w (kamlaN) loN
+
+c. kha&w (kamlaN) loN
+
+pay
+
+he/she PROG
+
+go-down go
+
+He/she is going down (to the second floor).
+
+FoR: GEOCENTRIC, Direction: DOWNWARD
+
+cha&n sçç& N
+cha&n sçç& N second floor
+
+(19) a. kha&w (kamlaN) thçç& y
+
+b.
+
+*kha&w (kamlaN)
+
+thçç& y
+
+c. ??kha&w (kamlaN) thçç& y
+
+pay
+
+he/she PROG
+
+go-back
+
+go
+
+He/she is going back to the door.
+
+FoR: ALLOCENTRIC, Direction: BACKWARD
+
+pratuu
+pratuu door
+
+The semantic difference between path and direction verbs may be summarized as follows. While the trajectory of motion expressed by the path verbs is determined via the categories Path and Region – which always need to be anchored in a Landmark – direction verbs express the trajectory through the bearings and axes of the particular Frame of Reference, which can be either GEOCENTRIC as in (17) and (18) or ALLOCENTRIC as in (19). The category may be defined more formally as in (20).
+
+(20) Dir-V ´ Direction + Motion + FoR: GEO / ALLOCENTRIC [TR-NP (PROG) (Manner-V) __ 0/Deictic-V/ Deictic-V (Prep) LM-NP]
+
+3.3. Deictic verbs
+
+As seen in most of the previous examples, the deictic verbs pay (‘go’) and maa (‘come’) can occur (if there are no constraints) as the last verb in the verb complexes, following the manner verb (if any) and path verb, in that order. But as shown in (21) and (22) they can also occur as the only verb in the sentence. Apart from the familiar by now optional progressive marker, the two examples below show that pay and maa can be followed by
+an optional preposition, (which is what thµ&N is in this context, cf. 3.4) and an optional LM-NP.
+
+(21) a. kha&w (kamlaN) pay
+
+b. kha&w (kamlaN) pay
+
+chieNma$y
+
+c. kha&w (kamlaN) pay thµ&N chieNma$y
+
+he/she PROG
+
+go to Chiang Mai
+
+He is going (to Chiang Mai).
+
+FoR: DEICTIC, Direction: DISTAL
+
+11
+
+(22) a. kha&w (kamlaN) ma
+
+b. kha&w (kamlaN) ma
+
+chieNma$y
+
+c. kha&w (kamlaN) ma thµ&N chieNma$y
+
+he/she PROG
+
+go to Chiang Mai
+
+He is coming (to Chiang Mai).
+
+FoR: DEICTIC, Direction: PROXIMAL
+
+The main meaning of these verbs (either when they occur alone or in combination with path and manner verbs) is motion away or towards the deictic center. This meaning is captured in the present theory through the categories Direction, Motion and FoR: DEICTIC. But what functions as a deictic center? As in most languages, in Thai the major deictic center may be identified with the speaker of the utterance. But as is well known (e.g. Fillmore 1966) the situation is not so simple, and in many cases the deictic center can be the addressee, or the location of the speaker or addressee in the situation of reference (rather than the current context). Is Thai an exception to this possibility for the deictic center not to coincide with the speaker at the moment of utterance? This seems to be the received view and is, for example, claimed by Rangkupan (1992) who defines the meaning of the verbs not in relation to a deictic center, but directly with respect to speaker: “pay ‘go’ denotes the movement away from the speaker’s location while, … maa ‘come’ denotes the movement toward the speaker’s location” (ibid: 1). Rangkupan also states that “when the speaker is the moving thing himself … he is obliged to use pay” (ibid: 50) – since of necessity he is moving away from his present location. However, this does not seem to be true, at least for colloquial Thai. As in English, the speaker may choose to use maa instead of pay when he (or a third party) moves in the direction of the addressee – thereby rendering the addressee as the deictic center, as in (23). It should be noted that this formulation implies a higher degree of intimacy between speaker and addressee, than if the speaker had used pay.
+
+(23) cha&n/kha&w ja$ maa thi^i ba^an th´´
+
+pruNni^i
+
+I/he
+
+FUT come at house you(INTIM) tomorrow
+
+I/he will come to your house tomorrow.
+
+One more complication needs to be commented upon. When the deictic verbs are followed by a LM-NP, as in (21b) and (22b), apart from specifying the trajectory in
+relation to the deictic center, there is also an implication that the trajectory is to end at a Region that is co-extensive with the Landmark, i.e. Path: END-Region: LM. This would
+help explain the unacceptability of examples (10b), (12b) and (13b), where pay occurs with a path verb focusing on a Region which is not identical with the Landmark.
+Summary of this double distributional and semantic pattern for the deictic verbs is presented in (24). It is possible that those Thai speakers who do accept sentences such as
+(10b) are willing to interpret them in terms of (24a), i.e. to neglect the Path:ENDRegion:END component.
+
+12
+
+(24) a.
+
+Deictic-V ´ Direction + Motion + FoR: DEICTIC
+[TR-NP (PROG) (Manner-V) (Path-V/Dir-V) __ (Prep LM-NP)]
+
+b. Deictic-V ´ Direction + Motion + FoR: DEI + Path: END-Region: LM
+[TR-NP (PROG) (Manner-V) (Path-V/Dir-V) __ LM-NP]
+3.4. Prepositions
+
+The category of prepositions in Thai is controversial since most of the forms that could be classed as prepositions may also be categorized otherwise. This should not be a problem, however, if a class with coherent semantic and distributional properties can be identified. I would argue that the forms appearing in boldface in example (25)-(32) constitute such a
+class. Beginning this time with the semantics, ca$ak (‘from’), taam (‘along’), thµ&N (‘to’)
+and khE^E (‘no-further-than’) express Path and Region, and thaaN (‘toward’) expresses Direction.
+
+(25) kha&w (kamlaN) maa ca$ak ba^an
+
+he/she PROG
+
+come from home
+
+He/she is coming from home.
+
+Path: BEGIN–Region: INTERIOR
+
+Path: END–Region: EXTERIOR
+
+(26) ro@t (kamlaN) pay taam thano&n
+
+car PROG
+
+go along road
+
+The car is going along the road.
+
+Path: MIDDLE–Region: ALONGSIDE
+
+(27) ro@t (kamlaN) pay thµ&N waN
+
+car PROG
+
+go to palace
+
+The car is going up to the palace.
+
+Path: BEGIN–Region: DISTAL
+
+Path: END–Region: CONTACT
+
+(28) kha&w (kamlaN) maa thaaN
+
+pratuu
+
+he/she PROG
+
+come toward
+
+door
+
+He is coming toward the door.
+
+FoR: DEICTIC/ALLOCENTRIC, Direction: TOWARD
+
+(29) ro@t (*kamlaN) pay khE^E
+
+car PROG
+
+go until
+
+The car goes (only) up to the palace.
+
+Path: BEGIN–Region: DISTAL
+
+Path: END–Region: CONTACT
+
+waNpalace
+
+13
+
+Unlike the path and direction verbs, however, these prepositions do not express the category Motion. In examples (25)-(28) the fact that there is motion involved is rather expressed by the deicic verb pay. Example (29), however, is impossible with a progressive marker, showing that there is no real motion in the scene; the sentence rather states the fact that the Trajector will not proceed further than the Landmark. This
+implication of “less than expected” is part of the semantics of khE^E, distinguishing it from
+thµ&N in other than purely spatial terms (cf. 27). Since the category Path, as defined in the present theory, is independent from the
+category Motion, the prepositions troN (‘exactly-at’), thii^ (‘at’) and thE&Ew (‘near’) can be shown to have the same kind of semantics as the others which express Path and Region, though with a ZERO value for Path. The fact that the situations described in (30)-(32) are
+static is expressed by the main verbs: yu$u (‘exist’), khççy (‘wait’) and mii (‘have’, ‘exist’).
+
+(30) man yu$u troN
+
+niî
+
+it exist exactly-at here
+
+It is right here.
+
+Path: ZERO–Region: CLOSE PROXIMAL
+
+(31) kha&w khççy yu$u
+
+thi^i na^a
+
+he/she wait IMPERF at front
+
+He is waiting in front of the house.
+
+Path: ZERO–Region: PROXIMAL
+
+ba^an house
+
+(32) mii y´? thE&Ew ba^an cha&n have many near house I There are many of them in my neighborhood. Path: ZERO–Region: LOOSE PROXIMAL
+Structurally, prepositions in Thai can be identified by the double criterion that they must occur prior to the LM-NP (by definition) and preceded by the last verb of the verb complex. As seen earlier, in spatial utterances this complex always comes in the order manner-V + path-V + deictic-V, where one or two of the classes may be missing. If all three are “missing” however, then what could be classed as a “preposition” according to
+the first criterion, can not be a preposition but must rather be a verb. Thus thµ&N (‘reach’) and ca$ak (‘leave’) are path verbs in (33) and (34), and the fact that they have more specific meanings than the “homophonous” prepositions is consistent with the predictions of gramaticalization theory (cf. Hopper and Traugott 1993).
+
+(33) kha&w thµ&N chieNma$y he/she reach Chiang Mai
+He reached Chiang Mai.
+
+14
+
+(34) cha&n ca$ak khrç^çpkhrua mµ^µA pii kç$çn
+
+I
+
+leave family
+
+when year before
+
+I left my family last year.
+
+To summarize, as represented in (35), spatial prepositions in Thai express a value for
+Path and Region (with the exception of thaaN which expresses Direction) like the path verbs, but unlike them, a value for FoR (ALLOCENTRIC) and no value for Motion. Their (basic) position is after the last verb of the verb complex, and before the Landmark NP, which may include a Region noun as we will see below.
+
+(35) Prep ´ Path + Region + FoR: ALLOCENTRIC
+[(TR-NP) (Manner-V) (Path-V/Dir-V) (Deictic-V)* __ LM-NP]
+* at least one verb from the Verb complex
+
+3.5. Region nouns
+
+The type of expressions that I here refer to as region nouns have rather indeterminate grammatical status. In Thai (and in typologically similar languages) such expressions have been called “prepositions” (Noss 1964), “locative nouns” (Sinha et al 1994), “relator nouns” (Indrambarya 1995), “relational nouns” (Wienold 1995), even the labels implying that they have both noun-like and adposition-like syntactic and semantic properties. The relevant forms in Thai are displayed in the leftmost column in Table 1.
+
+<TABLE 1, HERE>
+
+My choice of label for this class in dictated by the following considerations.
+Semantically, especially when they appear after the class noun kha^aN (‘side’) as in (36a) and (36b), but also when they are “bare” and precede a Landmark nominal as in (36c), they express the category Region and one or more values for FoR. As can be seen in the
+translations in the third column of Table 1, after kha^aN (or when possible any of the other class nouns, cf. 3.6 below), region nouns correspond semantically to place adverbs in English, which similarly allow the Landmark to remain implicit. Also similar to English
+(e.g. He is inside the house) it is possible to use kha^aN + region-noun expressions with explicit Landmarks, but this makes the expression of Region so over-emphasized that it is stilted outside of special, marked contexts.
+
+(36) a.
+b. c.
+
+man yu$u kha^aN ___
+
+?man yu$u kha^aN ___
+
+man yu$u
+
+___
+
+it exist side
+
+It is in / out of… the house.
+
+ba^an
+ba^an house
+
+15
+
+The unmarked way to express the respective Region (and FoR) values along with a
+following LM-NP is simply to omit kha^aN,as in (36c). This fact can make these expressions seem a lot like prepositions, and indeed most textbooks, as well as Noss (1964), treat them so. This, however would blur the distinction between them and the forms described in 3.4, while it is important to maintain the difference between the two classes: Region nouns express neither Path, nor Direction, and when they co-occur with prepositions they always follow, as shown in (37).
+
+(37) a. b.
+
+d´´n ?o$ok maa ca$ak nay thâm walk exit come from inside cave
+*d´´n ?o$ok maa nay ca$ak thâm walk exit come inside from cave It came out from inside the cave.
+
+On the other hand, if we regard region nouns as the heads of the noun phrases they appear in, then their semantic and semantic properties follow naturally. Their noun-like character fits with their meanings as different values of Region (most of the forms in Table 1 derive from concrete nouns) and since they are part of LM-NP, there is no way in which they could precede the prepositions. Thus, their distribution can be defined relative to LM-NP, while the place of the latter follows from the schemes provided earlier, cf. (16), (20), (24) and (35).
+
+(38) Region-N ´ Region + FoR
+LM-NP [Class-N __ ] LM-NP [(?Class-N) __ LM-N]
+3.6. Class nouns
+
+The final spatial form class has only two common members – kha^aN (‘side’), which was
+presented above, and thaaN (‘way’), as well as the less frequent
+d a ^ a n ,b µ ^ a N , anpdh a a y ,which are basically synonymous with kha^aNwhen used spatially, cf. (39).5 Some of the non-spatial uses of these terms are the following:
+da^an(‘aspect’, ‘direction’b)µ, ^aN( ‘ a s p e c t ’ ) , pahnaday na(‘af^uture’). Takahashi (1997b), who offers an analysis of the polysemy of these terms claims that while overlapping in their “extensions”, the central meanings of these expressions employ
+different Frames of Reference: “[T]he prototypical sense of kha^aN and da^an is intrinsic;
+that of bµ^aN is relative; and that of phaay is relative”. However, in failing to distinguish between lexical and grammatical uses, and employing a kind of speculative diachronic analysis motivating the synchronic analysis, the argument is not convincing.
+When thaaN combines with at least four of the expressions from Table 1: sa@ay,
+khwa&a, nµ&µa and ta^ay, the joint spatial meaning becomes one of Direction rather than
+Region, cf. (40). One may notice that thaaN nµ&µaand thaaN ta^aymean ‘North’ and ‘South’ respectively, rather than ‘upward’ and ‘downward’ as might be expected.6 The basic syntactic/semantic schema for class nouns is presented in (41).
+
+16
+
+(39) man yu$u
+
+kha^aN/ da^an / bµ^aN
+
+_
+
+it exist
+
+side
+
+_
+
+It is on the X side (of the house).
+
+Region: X (cf. Table 1)
+
+(40) man yu$u
+
+thaaN
+
+it exist
+
+way
+
+It is to the X (of the house).
+
+Region: X (cf. Table 1)
+
+_
+
+(?ba^an)
+
+_
+
+house
+
+(41) Class-N ´ Region / Direction
+LM-NP [ __ Region-N (?LM-N)]
+
+(?ba^an) house
+
+3.7. Summary of overt expression
+
+The six form classes defined and analyzed in this section with respect to their members’ participation in the overt expression of spatial meaning constitute a fairly complex system. As seen in the schemas defining the form classes at the end of each sub-section, all but class nouns participate in conflation patterns, i.e. their members express more than one spatial semantic category (cf. Figure 1). We may easily reverse the perspective and ask: By how many different forms in a single utterance may a single semantic category be expressed, i.e. what kind of patterns of distributedness are there? The answer is that 5 of the seven spatial semantic categories – apart from the Trajector and Landmark, which are mainly expressed complementarily via the TR-NP and the LM-N – are normally expressed with at least two, and sometimes up to five different form classes in the same spatial utterance. (42) summarizes the observed patterns.
+
+(42) a. b. c. d. e.
+
+Path ´ Path-V (+ Deictic-V)* + Prep Motion ´ Manner-V + Path-V / Dir-V + Deictic-V Region ´ Path-V + Prep + Region-N (+ Deictic-V) Direction ´ Dir-V + Deictic-V + Class-N FoR ´ Dir-V + Deictic-V + Prep + Region-N + LM-NP
+*only when there is LM-NP
+
+This obviously implies that there will be constraints on what kind of values may occur within the different “slots”, yielding semantic constraints on grammaticality. Some of
+these will be stated in Section 5, but before that the role of manner verbs in Thai needs to be made clearer.
+
+17
+
+4. The role of manner verbs for spatial meaning
+
+The six form classes analyzed in the previous section did not include the class of manner verbs, which nevertheless figured prominently in the definition of the contexts of the other classes, and at least in one case, in their meaning. To recall, that involved the seeming inability of path verbs to express Frame of Reference when occurring alone, but gaining this possibility in the context of either a following deictic verb (which is not surprising since these express a FoR anyway) – or a preceding manner verb. There is no motivation to attribute FoR to manner verbs when they occur on their own, and thus to count manner verbs as overt expressions of spatial meaning across the board (though there may be some cases for which this is the case as we will see below). The conclusion is that we should regard the distributed expression of FoR between manner and path verb as a form of covert expression.
+
+(43) Manner-V + Path-V - - - -> FoR: ALLO
+
+The schematization in (43) may seem surprising, since from the perspective of Talmy’s (1985) typological distinction between “verb framing languages (with verbs expressing Path, and adverb-like forms expressing Manner) and “satellite-framing” languages (with verbs typically expressing Manner and particles/adverbs expressing Path) one would not expect to find languages where both path verbs and manner verbs play a pivotal role, and even more so – to collaborate in the expression of a semantic category.
+But this surprising state of affairs nevertheless holds in Thai! We already saw that path (and direction) verbs play a central role, enough so to lead Wienold (1995) to treat Thai as a “path verb language” along with e.g. Japanese and Korean. With respect to
+manner verbs, we have so far only seen d´´n (‘walk’), but the category is much richer. Takahashi (1997a) lists 26 verbs which form a sub-class of manner-of-motion verbs, namely those which express “global locomotory body motion”:
+wi^N (‘run’), ka^aw (‘stride’), khaje$e (‘limp’) and so on. Furthermore, it is not difficult to find among this list verbs which participate in the covert expression of at least one more spatial semantic category, Direction, such as those listed in (44).
+
+(44) a. b.
+c.
+
+luy, (‘wade’) (kra)coon, (‘leap’)
+cho$op, (‘swoop’)
+
+Direction: FORWARD Direction: UP AND FORWARD
+Direction: DOWN AND FORWARD
+
+In some cases it is more natural to attribute the spatial meaning not to the lexical item, but to the background of practices. For example ram, glossed by Takahashi as ‘walk about gracefully or rhythmically’ (as in the traditional Thai ram dance) refers to an activity which simply can not be performed in either an upward or downward direction, but must rather have a HORIZONTAL orientation.
+For two manner verbs, one may even argue that their expression of Direction is overt, since a paradigmatic contrast is involved, albeit in the case of fairly marginal and
+certainly low-frequent forms: tha$t (‘more FORWARD little by little in a sitting position’)
+and tho$t (‘move BACKWARD little by little in a sitting position’).
+
+18
+
+In sum, manner-of-motion verbs are not only a strongly represented form class in Thai, but they participate (indirectly) in the expression of spatial meaning along with forms – the path verbs – with which they should hardly occur in the same language at all according to received wisdom. This obviously calls into question any strong form of the typological division “verb framing (path verb)” / “satellite framing (manner verb)” languages. It should be remarked, though, that there is a semantic complementarity between manner and path verbs – the semantic category being (indirectly) expressed by Thai manner verbs is Direction, and not Path, a generalization also made by Takahashi (1997a).
+
+5. Semantic constraints on grammaticality
+
+It is now time to reap the benefits of the analyses presented in the previous two sections. They allow us namely to account for the ungrammaticality of a number of types of spatial expressions which do not break purely distributional constraints, such as the precedence relation between manner verbs and path verbs (cf. Section 3.1), or between prepositions and region nouns (cf. Section 3.5). Consistent with one of the basic premises of cognitive and functional linguistics – that grammar is motivated, rather than purely formal and arbitrary – I will in this section show how the ungrammaticality (deviation) of certain types of spatial utterances can be accounted for on semantic grounds. Two kinds of semantically motivated ungrammaticality are observed: mismatches of values and underspecification.
+
+5.1. Mismatches between values expressed in different form classes
+
+Three of the semantic categories shown in (42) to be expressed distributedly may easily give rise to semantic conflicts: Path, Region and Direction. For example, in (45) the values for both Path and Region expressed in the path verb and preposition differ, resulting in an incoherent meaning (unless the sentence is understood as having an implicit Landmark, different from the specified ‘garden’).
+
+(45) *kha^w
+
+pay
+
+taam
+
+su&an
+
+enter
+
+go
+
+along
+
+garden
+
+Path: BEGIN–Region: EXTERIOR, Path: END–Region: INTERIOR
+
+Path: MIDDLE–Region: ALONGSIDE
+
+??enter and go along the garden (at the same time)
+
+In (46) the ungrammaticality results from a clash between the Region values of the path verb and the region noun.
+
+(46) *?ç$çk
+
+nay
+
+exit
+
+in
+
+Path: END –Region: EXTERIOR
+
+?? go out in the room
+
+hç^çN room Region: INTERIOR
+
+19
+
+As pointed out by (Takahashi 1997a), a clear indication that manner verbs may express Direction (even if only covertly) is that they can clash with the meaning of another direction verb, which has an inconsistent value, as in (47).
+
+(47) *cho$op
+Direction: DOWN AND FORWARD
+?? stoop backwards
+
+thç&çy
+Direction: BACKWORD
+
+On the other hand, while Frame of Reference is the most distributedly expressed category cf. (42e) it is hard to come up with “mismatches”, since the different values combine with each other to express a situation which is perspectivized from several different viewpoints, as in the rather contrived but grammatical example (48).
+
+(48) loN
+
+maa
+
+ca$ak
+
+na^a
+
+go-down come
+
+from
+
+front
+
+GEOCENTIC DEICTIC
+
+ALLO
+
+ALLO/DEICTIC
+
+He came down from the front of the house.
+
+ba^an house
+ALLO
+
+As a final instance of value mismatch, let us consider again the somewhat puzzling situation encountered earlier: In most cases (and for most Thai speakers) the combination
+path verb + deictic verb + LM-NP (49c) is ungrammatical, while path verb + deictic verb (49a) and path verb + LM-NP (49c) are unproblematic. Interposing an appropriate region
+noun between the deictic verb and the LM-NP also “cancels out” the ungrammaticality (49d).
+
+(49) a. b. c. d.
+
+kha^w pay
+
+kha^w
+
+hç^çN
+
+??kha^w
+
+pay hç^çN
+
+kha^w pay nay hç^çN
+
+enter go in room
+
+The explanation of this phenomenon was first suggested in Section 3.3 when we observed that when followed by a LM-NP, the deictic verbs not only express Direction in relation to the deictic center, but also express Path: END in relation to the LM-NP. This was codified in the second definition of the syntagmatic context and meaning of these verbs, (24b). Thus, in (49c) (and the other problematic cases), we have a clash of Region values for Path: END – the path verb tells us that the motion ends somewhere ‘inside’, or ‘beyond’ the Landmark, while pay tells us that it is identical with the Landmark. Perfectly consistent with this interpretation is the complete grammaticality of (11), here repeated as (50), where the path verb and the deictic verb have the same, or at least quite consistent, values.
+
+(50) kha&w
+
+kla$p pay
+
+he/she
+
+return go
+
+He/she is returning home.
+
+ba^an home
+
+20
+
+Similarly, interposing the region noun nay in (49d) resolves the contradiction between kha^w and pay, because now the Region at which the motion event ends according to pay is the “inside of the house”, which is exactly what kha^w states as well.
+
+5.2. Underspecification
+
+A somewhat different kind of ungrammaticality derives not from specifying incoherent values, but from underspecifying the spatial situation. For example, in (51a) the complement noun can not be integrated at all, and thus fails to serve as a Landmark.
+Since the direction verb thç&çy defines the direction of motion in relation to the intrinsic orientation of the Trajactor (i.e. the mover) the relation of pratuu to the motion event
+remains undefined. In (51b), on the other hand, the preposition thi^i introduces a new FoR which “frames” the noun phrase, making it clear that it is a LM-NP.
+
+(51) a. b.
+
+*thç&çy go-back
+FoR (TR): ALLOCENTRIC
+
+pratuu
+door ?
+
+thç&çy go-back
+
+pay thi^i go at
+
+FoR (TR): ALLOCENTRIC
+Go backwards to the door.
+
+FoR (LM): ALLOCENTRIC
+
+pratuu door
+LM
+
+Finally, let us recall example (10), here repeated as (52), showing that unassisted, Thai path verbs fail to anchor the spatial utterance, i.e. to express a value for Frame of
+Reference, while they do so in combination with either manner verbs, or other classes which do express FoR. Thus, we may formulate a general semantic condition on
+grammaticality: At least one FoR needs to be overtly expressed in the spatial utterance.
+
+(52) ??kha&w
+
+(kamlaN) kha^w/?ç$çk/l´´y/kla$p/pha$an/kha^am
+
+he/she
+
+PROG
+
+enter/exit/go-beyond/return/pass/cross
+
+He/she is entering/exiting/going beyond/returning/passing through/crossing
+
+6. Conclusions
+In this article, the theory of holistic spatial semantics (HSS) was applied to the analysis of spatial utterances in Thai. While many questions still remain, for example concerning the relation between the category Aspect and those described, about the possibility of formulating still more precise accounts etc, I hope to have shown that the analysis yields insights in a surprisingly complex system of spatial grammar and meaning. Let me conclude by highlighting some general theoretical implications of the present study.
+
+21
+
+First, it is clear that a theory of spatial semantics must consider the interaction between closed-class (grammatical) and open-class (lexical) expressions, rather than focus exclusively on the first. Contra the theories of Talmy (1988) and Svorou (1994), in Thai the typical closed classes of prepositions, region nouns and class nouns do not differ qualitatively from the open class of verbs with respect to their spatial semantics.
+Second, the widely-held typological distinction (cf. Talmy 1985) between “verb framing languages” – with Path being expressed by verbs and Manner by other means (e.g. Spanish) – and “satellite-framing languages” – with verbs expressing Manner and particles or prefixes Path (e.g. English) – is inadequate for at least some languages, and is therefore not a universal. Thai (as supposedly other serial verb languages) has classes of path verbs as well as manner verbs, and it is difficult to say which one should be considered dominant.
+Third, it is possible to combine a dialogical, holistic approach to language with rigorous grammatical and semantic analysis, giving rise to generalizations about form classes and their meanings. This requires, however, separating the more clearly semantic, (in the sense of conventionalized) from more “pragmatic” (in the sense of inferred) aspects of meaning. In holistic spatial semantics this corresponds to the division between overt expression and covert expression/background specification. Failing to make such a distinction is likely to conceal the systematic relationship between linguistic form and meaning which is the essence of grammar.
+Finally, an adequate characterization of word classes in particular, and grammar in general, needs to take both semantic and distributional/structural properties into consideration. While formalist approaches err in ignoring the semantic dimension, cognitive approaches tend to err by ignoring the distributional/structural dimension.
+22
+
+situation
+
+background of practices
+
+A
+
+B
+
+C
+
+D
+
+utterance
+
+Figure 1. A schematic illustration of a minimal, differentiated language game (MDLG) and holistic spatial semantics (cf. text)
+
+23
+
+Region-N Gloss
+
+nay
+
+‘inside’
+
+nç^çk
+
+‘outside’
+
+bon
+
+‘top’
+
+Translation of example (36a)
+It is inside. It is outside.
+It is on the top (upstairs).
+
+la^aN
+
+‘bottom’ It is at the bottom (downstairs).
+
+sa@ay
+
+‘left’
+
+It is on the left side.
+
+khwa&a
+
+‘right’
+
+It is on the right side.
+
+na^a
+
+‘front’
+
+It is at the front.
+
+la&N
+
+‘back’
+
+It is at the back.
+
+nµ&µa
+
+‘above’
+
+It is above.
+
+ta^ay
+
+‘below’
+
+It is below.
+
+kha^aN
+
+‘beside’
+
+It is beside.
+
+klaaN
+
+‘middle’ It is in the middle.
+
+Overt expression
+Region: INTERIOR, FoR: ALLO Region: EXTERIOR, FoR: ALLO
+Region: SUPERIOR+CONTACT FoR: GEO+ALLOCENTRIC Region: INFERIOR FoR: GEO+ ALLOCENTRIC Region: LEFT FoR: ALLOCENTRIC/DEICTIC Region: RIGHT FoR: ALLOCENTRIC/DEICTIC Region: FRONT FoR: ALLOCENTRIC/DEICTIC Region: BACK FoR: ALLOCENTRIC/DEICTIC Region: SUPERIOR FoR: GEO+ALLOCENTRIC Region: INFERIOR FoR: GEO+ALLOCENTRIC Region: LATERAL FoR: ALLOCENTRIC Region: MIDDLE FoR: ALLOCENTRIC
+
+Table 1. The most common region nouns, with glosses, one of their typical contexts of use, and their meanings in terms of the categories Region and FoR. The latter is on some occasions a combination of 2 values (X+Y) and on others is ambiguous between 2 values (X/Y).
+
+24
+
+References
+
+Bowerman, Mellisa
+
+1996
+
+Learning how to structure space for language–A cross-linguistic perspective. In P.
+
+Bloom, M. Peterson, L. Nadel & M. Garret (eds.), Language and space. Cambridge,
+
+Mass.: MIT Press.
+
+Choi, Sonya and Mellisa Bowerman
+
+Learning to express motion events in English and Korean: The influence of language-specific lexicalization
+
+patterns. Cognition 41: 83-121.
+
+Cuyckens, Hubert
+
+1991
+
+The semantics of spatial prepositions in Dutch: A cognitive-linguistic exercise. Ph.D.
+
+Dissertation, University of Anwerp.
+
+Dreyfus, Hubert
+
+1991
+
+Being-in-the-world. A commentary on Heidegger's "Being and Time, Division I”
+
+Cambridge, Mass.: MIT Press.
+
+1993[1972] What computers (still) can't do. A critique of artificial reason. Third
+
+revised edition. Cambridge, Mass.: MIT Press.
+
+Fillmore, Charles
+
+1966
+
+Deictic categories in the semantics of “come”. Foundations of Language 2: 219-227.
+
+1982
+
+Frame semantics. Linguistics in the morning calm. Seoul: Hanshin, 111-138.
+
+Frege, Gottlob
+
+1952 [1884] The Foundations of Arithmetic Translation by J.L. Austin of Die
+
+Grundlagen der Arithmetic, London: Blackwell.
+
+Goldberg, Adele
+
+1995
+
+Constuctions. A construction grammar approach to argument structure. Chicago:
+
+University of Chicago Press.
+
+Hawkins, Bruce
+
+1993
+
+On the universality and variability in the semantics of spatial adpositions. In C. Zelinsky-
+
+Wibbelt (ed.) The semantics of prepositions. New York: Mouton de Greyter.
+
+Hopper, Paul and Traugott, Elizabeth
+
+1993
+
+Grammaticalization. Cambridge: Cambridge University Press.
+
+Indrambarya, Kitima
+
+1995
+
+Are there prepositions in Thai? In M. Alves (ed.), Papers from the third annual meeting
+
+of the Southeast Asian Linguistics Society. Arizona: Arizona State University.
+
+Jackendoff, Ray
+
+1983
+
+Semantics and cognition. Cambridge, Mass.: MIT Press.
+
+1996
+
+The architecture of the linguistic-spatial interface. In P. Bloom, M. Peterson, L. Nadel &
+
+M. Garret (eds.), Language and space. Cambridge, Mass.: MIT Press.
+
+Johnson, Mark
+
+1987
+
+The body in the mind. Chicago: University of Chicago Press.
+
+Kita, Sotiro
+
+1999
+
+Japanese ENTER/EXIT verbs without motion semantics. Studies in Language 23:2 317-
+
+340.
+
+Lakoff, George
+
+1987
+
+W o m e n , f i rdea n g earnodutsh i n g sW: h a tc a t e g o r i erse v e aal b o u t h e m i n d . Chicago:
+
+University of Chicago Press.
+
+Langacker, Ronald
+
+1987
+
+Foundations of cognitive grammar I: Theoretical prerequisites. Stanford,
+
+CA: Stanford University Press.
+
+Levelt, Willem
+
+25
+
+1996
+
+Perspective taking and ellipsis in spatial description. In P. Bloom, M. Peterson, L. Nadel
+
+& M. Garret (eds.), Language and space. Cambridge, Mass.: MIT Press.
+
+Levinson, Steven
+
+1983
+
+Pragmatics. Cambridge: Cambridge University Press.
+
+1996
+
+Frames of reference and Malyneux’s question: Cross-linguistic evidence. In P. Bloom, M.
+
+Peterson, L. Nadel & M. Garret (eds.), Language and space. Cambridge, Mass.: MIT
+
+Press.
+
+Miller, George A. and Philip N. Johnson-Laird
+
+1976
+
+Language and perception. Cambridge, Mass.: Harvard University Press.
+
+Noss, Richard
+
+1964 Thai reference grammar. Washington: Foreign Service Institute. Pawley, Andrew and Frances H. Syder Two puzzles for linguistic theory: nativelike selection and nativelike fluency. In J. Richards and R. Schmidt (eds.) Language and Communication. London: Longman.
+
+Pedersen, Eric, Eve Danziger, David Wilkins, Stephen Levinson, Sotaro Kita and Gunter Senft
+
+1998 Semantic typology and spatial conceptualization. Language 74:3, 557-589.
+
+Rangkupan, Suda
+
+1992
+
+The subsidiary verbs pay (‘come’) and maa (‘go’) in Thai. MA disertation.
+
+Chulalongkorn University.
+
+Regier, Terry
+
+1996
+
+The human semantic potential: Spatial language and constrained connectionism.
+
+Cambridge, Mass.: MIT Press.
+
+Sak-Humphry, Chhany, Kitima Indambraya and Stanley Starosta
+
+1997
+
+Flying ‘in’and ‘out’ in Khmer and Thai. South Asian Linguistics Studies in Honour of
+
+Vichin Panupong. Bangkok: Chulalongkorn University Press.
+
+Searle, John
+
+1983
+
+Intentionality. An essay in the philosophy of mind. Cambridge: Cambridge University
+
+Press.
+
+1992
+
+The rediscovery of mind. Cambridge, Mass.: MIT Press.
+
+Sinha, Chris, Liz Thorseng, Mariko Hayashi and Kim Plunkett
+
+1994
+
+Comparative spatial semantics and language acquisition: Evidence from Danish, English
+
+and Japanese. Journal of Semantics 11: 253-287.
+
+Sinha, Chris and Tanya Kuteva
+
+1995
+
+Distributed spatial semantics. Nordic Journal of Linguistics. 18/2: 167-199.
+
+Slobin, Dan
+
+1997
+
+Two ways to travel: Verbs of motion in English and Spanish. In J. Nuts and E. Pedersen
+
+(eds.) Language and conceptualization. Cambridge: Cambridge University Press.
+
+Svorou, Staoria
+
+1994
+
+The grammar of space. Amsterdam: Benjamins Press.
+
+Takahashi, Kiyoko
+
+1997a
+
+Verbs of global locomotary body motion in Thai. In: Proceedings of the 16th
+
+1997b
+
+International Congress of Linguists, Paris, July 20-25 1997. Thai spatial concept SIDE. Paper presented at the 4th Seoul International Conference on
+
+Linguistics, Seoul, August 11-15 1997.
+
+Talmy, Leonard
+
+1975 Semantics and syntax of motion. In J. Kimball (ed.) Syntax and Semantics. Vol. 4, 181-238.
+
+New York: Academic Press.
+
+1983
+
+How language structures space. In H. Pick and L. Acredolo (eds.) Spatial orientation:
+
+theory, research, and application. New York: Plenum Press.
+
+1985
+
+Lexicalization patterns: semantic structure in lexical forms. In T. Shopen (ed.) Language
+
+typology and syntactic description, Vol. 3, Grammatical categories and the lexicon.
+
+Cambridge: Cambridge University Press.
+
+1988
+
+The relation of grammar to cogniton. In B. Rudska-Ostyn (ed.) Topics in cognitive
+
+linguistics. Amsterdam: Benjamins Press.
+
+26
+
+1996
+
+In P. Bloom, M. Peterson, L. Nadel & M. Garret (eds.), Language and space. Cambridge,
+
+1997
+
+Mass.: MIT Press. The windowing of attention in language. In J. Nuts and E. Pedersen (eds.) Language and
+
+conceptualization. Cambridge: Cambridge University Press.
+
+Wienold, Götz
+
+1995
+
+Lexical and conceptual structures in expression for movement and space. In U. Egli, P.
+
+Pause, C. Schwarze, A. Stechow and G. Wienold (eds.) Lexical knowledge in the
+
+organization of language. Amsterdam: Benjamins Press.
+
+Wittgenstein, Ludwig
+
+1953
+
+Philosophical investigations. Oxford: Basil Blackwell.
+
+Wold, Astri (ed.)
+
+1992
+
+The dialogical alternative: Towards a theory of language and mind. Oslo: Scandinavian
+
+University Press. Zlatev, Jordan
+
+1997 Siuated Embodiment. Studies in the emergence of spatial meaning. Stockholm: Gotab.
+
+2003a Polysemous or generality? Mu. , In H. Cuyckens, R. Dirven and J. Taylor (Eds.) Cognitive
+
+Approaches to Lexical Semantics , Berlin: Mouton de Greyter.
+
+Zlatev, Jordan and Peerapat Yangklang 2003b
+A Third Way to Travel: The Place of Thai in Motion Event Typology , In S. Stromqvist and L. Verhoeven (eds.) Relating Events in Narrative: Crosslinguistic and Cross-contextual perspectives , Mahwath, N.J.: Earlbaum
+
+Notes
+1 For example, Miller and Johnson-Laird (1976), Talmy (1983), Jackendoff (1983) and Lakoff (1987) and Svorou (1994).
+2 English, Swedish, Spanish, Italian, Serbo-Croatian and Bulgarian, and 3 non-IE languages: Finnish, Estonian and Japanese, supplemented with the analysis of secondary data from languages, whose spatial systems are reputedly difficult for universalist analyses: Archi (Dagestanian), Ewe (West-African) and Tzeltal (Mayan).
+3 This does not imply an “objectivist” semantics, since e.g. The tree is by the car and The car is by the tree correspond to different situations when these are understood as representing the lived world of human experience, rather than the “real world”.
+4 Thai informants vary immensely on their tolerance of e.g. (8b) – from acceptance to complete rejection, but even those who accept it, state that the sentence is better either without pay (8a) or with the Region noun nay (kha^w pay nay hç^çN). This fact will be addressed in Section 5.
+
+27
+
+5 In the Thai “forg story” corpus (Zlatev and Yangklang 2003b), constisting of 50 narratives and 23554 word tokens kha^aN occurs 40 times, thaaN 10 times (including lexical noun and preposition uses), da^an 2 times, bµ^aN 2 times and phaay only once. 6 The polysemy nµ&µa (‘North’, ‘above’) and ta^ay (‘South’, ‘below’) is probably due to the geography of Thailand, which is more mountainous in the North and more flat in the South, rather than the conventional directionality of maps, even though it seems to be synchronically reinforced by the current use of such maps in Thailand.
+28
+

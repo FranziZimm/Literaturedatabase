@@ -9,7 +9,7 @@
 	"priority": 100,
 	"inRepository": true,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2021-08-02 16:25:00"
+	"lastUpdated": "2021-09-02 22:10:00"
 }
 
 /*
@@ -36,7 +36,7 @@
 */
 
 
-const slugRe = /\/(?:rfc|pdf|id|doc(?:\/html)?)\/([^/.]+)/;
+const slugRe = /\/(?:rfc|pdf|id|doc|info(?:\/html)?)\/([^/.]+)/;
 
 function detectWeb(doc, url) {
 	if (getSearchResults(doc, true)) {
@@ -419,6 +419,33 @@ var testCases = [
 		"type": "web",
 		"url": "https://datatracker.ietf.org/doc/search/?name=tree&activedrafts=on&rfcs=on",
 		"items": "multiple"
+	},
+	{
+		"type": "web",
+		"url": "https://www.rfc-editor.org/info/rfc616",
+		"items": [
+			{
+				"itemType": "report",
+				"title": "LATEST NETWORK MAPS",
+				"creators": [],
+				"date": "1973-02",
+				"institution": "Internet Engineering Task Force",
+				"itemID": "rfc616",
+				"libraryCatalog": "IETF",
+				"reportNumber": "RFC 616",
+				"reportType": "Request for Comments",
+				"url": "https://datatracker.ietf.org/doc/rfc616/",
+				"attachments": [
+					{
+						"title": "Full Text PDF",
+						"mimeType": "application/pdf"
+					}
+				],
+				"tags": [],
+				"notes": [],
+				"seeAlso": []
+			}
+		]
 	}
 ]
 /** END TEST CASES **/

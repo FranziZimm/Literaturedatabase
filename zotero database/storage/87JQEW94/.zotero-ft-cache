@@ -1,0 +1,470 @@
+rstb.royalsocietypublishing.org
+Research
+Cite this article: Emmorey K. 2014 Iconicity as structure mapping. Phil. Trans. R. Soc. B 369: 20130301. http://dx.doi.org/10.1098/rstb.2013.0301
+One contribution of 12 to a Theme Issue ‘Language as a multimodal phenomenon: implications for language learning, processing and evolution’.
+Subject Areas: behaviour, cognition
+Keywords: structure mapping, metaphor, anaphora, sign language, iconicity, analogue-building model
+Author for correspondence: Karen Emmorey e-mail: kemmorey@mail.sdsu.edu
+
+Iconicity as structure mapping
+Karen Emmorey
+Laboratory for Language and Cognitive Neuroscience, School of Speech, Language, and Hearing Sciences, San Diego State University, 6495 Alvarado Road, San Diego, CA 92120, USA
+Linguistic and psycholinguistic evidence is presented to support the use of structure-mapping theory as a framework for understanding effects of iconicity on sign language grammar and processing. The existence of structured mappings between phonological form and semantic mental representations has been shown to explain the nature of metaphor and pronominal anaphora in sign languages. With respect to processing, it is argued that psycholinguistic effects of iconicity may only be observed when the task specifically taps into such structured mappings. In addition, language acquisition effects may only be observed when the relevant cognitive abilities are in place (e.g. the ability to make structural comparisons) and when the relevant conceptual knowledge has been acquired (i.e. information key to processing the iconic mapping). Finally, it is suggested that iconicity is better understood as a structured mapping between two mental representations than as a link between linguistic form and human experience.
+1. Introduction
+Traditionally, iconicity is referred to as the perceived (or potentially perceived) resemblance between a linguistic symbol (a sign or a word) and its referent [1]. More recently, iconicity has been defined as a mapping between meaning and a visual or auditory linguistic form [2–4]. Here, it is argued (following Taub [3]) that the resemblance between the form and its meaning must be captured by a structured mapping between two representations. First, to illustrate the role that such structured mapping plays in constraining linguistic processes, sign language evidence from two linguistic domains (metaphor and anaphora) is reviewed. However, this evidence is not embedded within a psycholinguistic account, and it is suggested that structure-mapping theory [5,6] provides a cognitive framework for explaining effects (and non-effects) of iconicity on both linguistic structure and online language processes. Finally, we review factors that may restrict or over-ride the role of iconicity in language processing and acquisition. Iconicity is arguably pervasive in sign languages, and the challenge is to identify and explain when and why iconicity matters.
+2. Iconicity impacts linguistic processes: metaphor and anaphora
+(a) Iconic constraints on metaphorical extensions
+Taub [3] proposed the analogue-building model of linguistic iconicity to account for how iconic forms are created in both signed and spoken languages (although we will focus here on signed language iconicity). Taub [3] observed that the resemblance between a form and its meaning is not an objective fact, but is a product of the cognitive processes of the individual who makes the comparison. Similarly, Wilcox [7] argued that ‘Iconicity is not a relation between the objective properties of a situation and the objective properties of the articulators. Rather, the iconic relation is between construals of real-world scenes and construals of form’ (p. 123). Taub [3] proposed that the cognitive process of comparison is key to understanding iconicity and that comparing two entities crucially involves creating structured correspondences between them. Figure 1 provides a diagram
+& 2014 The Authors. Published by the Royal Society under the terms of the Creative Commons Attribution
+License http://creativecommons.org/licenses/by/4.0/, which permits unrestricted use, provided the original author and source are credited.
+
+rstb.royalsocietypublishing.org Phil. Trans. R. Soc. B 369: 20130301
+
+2
+
+concept of bird — wings — beak — claw feet — feathers — lays eggs — etc.
+
+∑ head ∑ projection
+at mouth ∑ upper and
+lower parts can open
+∑ head ∑ side-body
+projections ∑ flapping
+motion
+
+1. image selection
+
+2. schematization
+
+3. encoding
+
+Figure 1. An example of analogue-building model process for the sign BIRD in American Sign Language (top) and in Turkish Sign Language (bottom). (Online version in colour.)
+
+Table 1. The double mapping for the ASL sign THINK-PENETRATE (ﬁgure 2a) adapted from [3].
+
+iconic mapping
+
+articulators
+1 handshape forehead location movement towards addressee 1 handshape inserted into the B handshape
+
+source domain
+an object head sending an object to someone penetration of a barrier
+
+metaphorical mapping
+target domain an idea mind; locus of thought communicating an idea to someone success in communication despite difﬁculty
+
+of Taub’s model as it applies to the signs denoting ‘bird’ in American Sign Language (ASL) and in Turkish Sign Language (Tu¨ rk I˙s¸aret Dili, T˙ID).
+According to the analogue-building model, an iconic sign is created through three processes: (i) image selection, (ii) schematization and (iii) encoding. Given that our sensory and conceptual knowledge of entities and actions within the world is rich and complex, it is necessary to select an image that represents the concept to be encoded linguistically. As illustrated in figure 1, different languages may select different representative images for a given concept. The selected image must then be schematized to fit the phonological categories available to the language. For example, the feathers and colour of the bird may be part of the original visual image (figure 1), but these features may not be easily mapped onto the linguistic articulators. Finally, the schema must be encoded into a linguistic form such that parts of the schematized representation map to phonetic properties of the language. It is important to note here that Taub explicitly states that this model is not intended to represent online language processes and is primarily a model for the creation of iconic forms. There is no claim that signers go through these processes each time they produce or comprehend an iconic sign.
+Like speakers, signers can use signs metaphorically, and metaphor, like iconicity, involves a mapping between two domains: a concrete source domain that draws on our sensory-motor experience with the world and a target domain that draws on conceptual knowledge [7,8]. For example, the conceptual metaphor COMMUNICATION IS SENDING
+
+can be seen in English sentences like the following: We tossed some ideas around; She put the idea into my head; I finally got my point across. For this metaphor, features of the concrete domain (e.g. objects, movement from a sender to a receiver) map to the target domain (e.g. ideas, originators and recipients of ideas). Taub [3] argued that there is a double mapping for metaphorical signs: an iconic mapping from the articulators to the source domain and a metaphorical mapping from the source domain to the target domain. This double mapping is illustrated in table 1 for the ASL sign glossed as THINK-PENETRATE, which means ‘to get through to someone’ (figure 2a).
+Drawing on Taub’s work, Meir [9] proposed a doublemapping constraint (DMC) to account for impossible metaphors in Israeli Sign Language (ISL), although the DMC likely holds for all sign languages. The DMC is formulated as follows:
+
+A metaphorical mapping of an iconic form should preserve the
+
+structural correspondences of the iconic mapping. Double
+
+mapping should be structure preserving.
+
+(Meir [9], p. 879)
+
+One example of an impossible metaphorical extension in both ISL and ASL is the use of the sign EAT (figure 2b) in expressions such as The acid ate through the metal or Facebook eats all my time—expressions that are fine in English and in many other spoken languages. Meir [9] argues that EAT cannot be metaphorically extended in these cases because there is a mismatch between the iconic mapping and the metaphorical mapping, as illustrated in table 2.
+
+rstb.royalsocietypublishing.org Phil. Trans. R. Soc. B 369: 20130301
+
+Table 2. The double mapping for the ASL sign EAT (ﬁgure 2b) if used in expressions such as The acid ate through the metal or Facebook eats all my time. 3 Adapted from [9].
+
+iconic mapping
+
+metaphorical mapping
+
+articulators
+ﬂat-O handshape mouth location movement to mouth Â
+
+source domain
+holding an object (food) mouth of the eater putting food into the mouth consumption of food
+
+target domain
+Â Â Â consumption of object
+
+(a)
+
+(b)
+
+Figure 2. Illustrations of the iconic metaphorical ASL sign (a) THINK-PENETRATE and the iconic sign (b) EAT.
+The concrete meaning of ‘eat’ is to put food in the mouth and swallow it, and thus food disappears and is consumed. Critically, the idea that food is consumed is not depicted iconically in the form of the sign EAT (see figure 2b and table 2). However, the metaphorical extension of ‘eat’ in the examples in table 2 is based on something being consumed, and the elements in the iconic mapping (holding an object, moving the hand to the mouth) are not present in the metaphor. Thus, the correspondences are not structure preserving across the iconic and metaphorical mappings (in contrast to the example in table 1).
+Meir [9] provides extensive examples of impossible metaphorical extensions that can be explained by the DMC, along with metaphorical extensions that are permitted and do not violate this constraint. Further, she provides strong evidence that the DMC has implications beyond the metaphorical use of individual signs. Specifically, owing to the pervasiveness of metaphors in everyday language [10], grammaticalization processes can be affected by the DMC. For example, the use of spatial morphemes (prepositions or locative affixes in spoken languages) to express change of state (e.g. The light went from green to red) may over time turn into morphemes that are used to mark another domain, such as causality (e.g. marking the source of change). Although sign languages have rich spatial resources, Meir [9] demonstrates that spatial mechanisms cannot be used to express change of state in ISL (rather temporal mechanisms must be used), and thus any grammatical changes that would arise from a spatial changeof-state metaphor are unavailable to ISL (and possibly other sign languages as well).
+In sum, the linguistic evidence indicates that the structure of iconic mappings must be taken into account in order to explain possible and impossible metaphorical extensions, and these
+
+facts have further ramifications for the possible grammatical devices that can emerge from metaphorical extensions.
+(b) The critical role of iconicity in interpreting
+pronominal reference in sign languages
+In a series of recent articles, Schlenker and co-workers [11 –14] have argued that iconicity plays a crucial role in the interpretation of anaphora in sign languages, proposing a formal semantic account that incorporates iconic constraints on interpretation. One example of an iconic constraint concerns plural pronouns in ASL, Langue des Signes Franc¸aise (LSF) and Lingua dei Segni Italiana. Plural pronouns in these languages (as in many sign languages) are realized by tracing a circular area (a locus) in signing space, and crucially, one circular area can be embedded within another (figure 3). Schlenker and co-workers argue that such embeddings give rise to cases of structural iconicity, whereby the iconic arrangement of the circular loci maps onto a semantic representation, and this mapping constrains how pronouns are interpreted. The following ASL example from Schlenker et al. [13] illustrates the phenomenon.
+First, it is important to note that sentences like (1b) are unacceptable in spoken languages:
+(1a) Most students came to class. They (intended: the students who came to class) asked good questions.
+(1b) #Most students came to class. They (intended: the students who did not come to class) stayed home.
+R. Nouwen [15] argues that no grammatical mechanisms exist that can make available the discourse referent that denotes a complement set, i.e. the students who did not come to class in example (1). This constraint also holds in ASL when a single default locus is used, i.e. a plural pronoun produced by tracing a small circular area in front of the signer; in this case, the ASL equivalent of (1b) is also judged as unacceptable. However, the complement set reading of (1b) is fully acceptable in ASL when the signer makes use of structured iconicity to create a locus that can denote the complement set, as illustrated in (2) and figure 3 (adapted1 from Schlenker et al. [13]). Following convention, signs are glossed in uppercase, and lowercase letters indicate the locations (loci) in signing space where pronouns and signs are directed.
+(2) MY STUDENT THEY-arc-ab. MOST THEY-arc-a CAME CLASS.
+‘Most of my students came to class’. a. THEY-arc-b b-STAY HOME. ‘They stayed home’.
+
+rstb.royalsocietypublishing.org Phil. Trans. R. Soc. B 369: 20130301
+
+4 large locus ab
+
+complement locus b
+
+embedded locus a
+
+students
+
+students that didn’t come to class
+
+students that came to class
+
+Figure 3. Illustration of the embedded loci in signing space for the examples in (2) in the text (§2b). Adapted from [12].
+
+b. THEY-arc-a a-ASK-ME GOOD QUESTION. ‘They asked me good questions’. c. THEY-arc-ab SERIOUS CLASS. ‘They are a serious class’. The initial sentence in (2) establishes a large locus— labelled as ‘ab’—that corresponds to all of the students in the class. The signer then indicates an embedded sublocus (‘a’) that corresponds to the group of students who came to class. Critically, although the complement locus ‘b’ was never explicitly introduced, it is nonetheless available for interpretation. Schlenker et al. [13] argue that the complement interpretation is available solely by virtue of the geometric properties of the locations traced in signing space. Namely, the fact that the small locus is contained within the larger locus allows the third (complement) locus to come into existence and to be available for reference. Schlenker et al. [13] suggest that there is a structured mapping between the geometric configuration of the circular loci traced in signing space and the semantic denotations of those loci. This type of structural iconicity is not available for spoken language. However, signed and spoken languages are not argued to be fundamentally different with respect to grammatical constraints—both disallow ‘complement set anaphora’ since (1b) is unacceptable in ASL (and LSF) with a default locus. The iconic properties of spatial loci and the structured mapping between those loci and their semantic representations are what account for the difference between spoken and signed languages. Based on these findings and additional cases of iconic effects on anaphor interpretation, Schlenker et al. [13] propose a ‘“formal semantics with iconicity” in which some geometric properties of signs must be preserved by the interpretation function’ ( p. 134). For Schlenker’s formal semantic analysis of anaphora, as well as for Meir’s analysis of metaphor, the constraints on linguistic expression arise explicitly from structure-preserving mappings between the form of a sign and its meaning. However, neither account is framed within a cognitive model, and no claims are made about the role of iconicity for language acquisition or processing. Next, we turn to a cognitive model of comparison processing that explicitly posits structured mappings between domains, and we examine whether this model can explain psycholinguistic and grammatical effects of iconicity.
+
+3. Structure-mapping theory and iconicity
+The basic idea of structure-mapping theory, developed by Gentner and co-workers [5,6,16], is that in comparison processes such as understanding analogies or noticing similarities, there is a structural alignment between two current mental representations. If iconicity is conceived of as a comparison process between a semantic representation and a visual or acoustic representation of a linguistic form, then structure-mapping theory can provide a cognitive framework for explaining effects of iconicity on linguistic structure and processing. Within the analogue-building model of iconicity, lexical-semantic representations may be best understood as schematic representations of sensory –motor experiences, such as perceptual symbols in Barsalou’s model of grounded cognition [17,18]. Perceptual symbols are not holistic representations of experience; rather, they are componential and structured representations that schematize multi-modal aspects of experience with entities or events in the world [17].
+Structure-mapping theory proposes that a comparison between mental representations involves an alignment of relational structure with psychological constraints on this alignment, e.g. for the purposes of simile and analogy or here, for iconicity. Specifically, there must be a one-to-one correspondence between the two representations, such that an element in the source domain must map to no more than one element in the target domain, and vice versa—no single element of the target domain can map to more than one element in the source domain. In addition, the alignment must exhibit parallel connectivity, which requires that relations map to relations such that the argument structure of the relations is preserved. When these conditions are met, the alignment is considered to be structurally consistent and interpretable.
+The one-to-one correspondence constraint clearly applies to both the DMC for the metaphorical extension of iconic signs and the analogue-building model of iconic form creation. In both cases, one-to-one correspondences are required to preserve the structured mapping between representations of form and meaning (see Taub [3] for further examples of one-to-one correspondences in iconic form mappings). In addition, the parallel connectivity constraint is apparent in Schlenker’s formal semantic account of anaphora interpretation because the structural relation between loci
+
+5
+
+rstb.royalsocietypublishing.org Phil. Trans. R. Soc. B 369: 20130301
+
+BOOK
+Figure 4. Illustrations of the ASL signs from [22].
+
+WRITE
+
+LIBRARY
+
+RAT
+
+traced in signing space (i.e. inclusion) maps to the structural relation between referents, and the inference about complement set anaphora can be made from the parallel alignment of this structural relation.
+Markman & Gentner [19] propose that differences within a comparison can be alignable or non-alignable, and this idea applies to iconic mappings, as noted by Taub [3, p. 23]. For example, in the form-meaning mapping for the ASL sign BIRD (figure 1), the extended fingers located at the signer’s mouth can be structurally aligned with an image of a bird’s head and beak—an alignable difference between the two domains (i.e. the signer’s articulators and an imagistic representation of a bird’s head). Non-alignable differences in this comparison include the closed fingers of the hand (no corresponding element in the image of the bird) and the colour of the bird (no corresponding element in the linguistic form). When making comparisons, individuals are more likely to encode and remember alignable differences than non-alignable differences [20].
+Structure-mapping theory and the notion of alignable differences provide a framework for explaining the iconic effects on sign recognition observed by Thompson et al. [21]. In this study, ASL signers performed a picture –sign matching task (does the picture correspond to the sign?), and decision times were faster when a property iconically represented in the sign was made salient in the picture. For example, reaction times to the ASL sign BIRD were faster when the preceding picture depicted the head of a bird with the beak in profile compared with a picture of a bird in flight, where the wings, rather than the beak, are prominent. Within structure-mapping theory, the iconically salient picture depicts alignable elements (the head and beak), and the control picture highlighted non-alignable elements (i.e. ‘wings’ for the ASL sign BIRD cannot be aligned because the hand already depicts the beak of the bird). Increased structural alignment between a picture and a sign is predicted to facilitate the comparison process, and therefore faster ‘match’ decisions should be observed for the aligned picture–sign pairs.
+In contrast to Thompson et al. [21], Bosworth & Emmorey [22] found no effect of iconicity on sign recognition, as assessed by lexical decision (i.e. decide whether a given form is an existing sign). Iconic ASL signs like BOOK were not recognized faster than non-iconic signs like RAT (see figure 4 for sign illustrations). However, lexical decision does not tap the structured mapping between a visual form and its semantic representation because the decision can be made on the basis of form alone (does the item match a stored phonological representation?) or on meaning alone (can a semantic representation be accessed?). If structured
+
+mapping is key to observing iconicity effects, then lexical decision may not be a particularly sensitive measure.
+Bosworth & Emmorey [22] also found that iconicity did not boost semantic priming. Iconic signs did not produce greater semantic priming than non-iconic signs, suggesting that iconicity in and of itself does not increase semantic priming. The iconic prime WRITE speeded recognition of the semantically related target sign BOOK to the same degree as the semantically related non-iconic prime LIBRARY (figure 4). However, the structure mapping between form and meaning representations was not consistent across prime and target signs. For example, for the prime –target pair WRITE and BOOK, the structural correspondences for the sign WRITE involve the action of writing: the dominant handshape maps to how a person holds a pen, the non-dominant hand maps to a sheet of paper and the movement maps to the left-to-right movement of writing (see figure 4 for sign illustrations). However, for the target sign BOOK, the structural correspondences involve the properties of an object: the hands correspond to the halves of a book when opened. A post hoc analysis by Bosworth & Emmorey [22] suggested that a general similarity in the type of structural overlap was not enough to increase priming. That is, prime –target pairs with a generally similar mapping (e.g. both iconic mappings were related to actions) did not produce increased priming compared with pairs with different mappings (e.g. the handshape in the target sign mapped to an object, but the handshape in the prime sign mapped to an action). Thus, if structured mappings are representations that can be primed, the overlap may need to be very precise and specific.
+Unlike lexical decision, semantic decisions can be designed such that they are specifically related to the structure mapping of a sign, and therefore such decisions should be affected by iconicity. To test this hypothesis, K. Emmorey and J. A. F. Petrich (2013, unpublished data) asked deaf participants (N ¼ 23) to decide whether an ASL sign referred to an object that ‘you can hold or grasp with your hand’. Two types of signs that required yes responses were presented: ‘handling’ signs in which the shape and movement of the hand maps to hand actions performed with the referent object (e.g. MOP) and ‘non-handling’ signs in which the shape of the hand did not map to this aspect of the referent object (e.g. BROOM) (see figure 5 for sign illustrations). Signs like SCHOOL or MUSIC required ‘no’ responses. Hearing non-signers (N ¼ 19) served as a control group and made the semantic decision to spoken English translations of the ASL signs. The results revealed that deaf signers made faster ‘yes’ decisions for signs in which the handshape mapped to how the referent object
+
+(a)
+
+(b)
+
+Figure 5. Illustration of the ‘handling’ sign (a) MOP and the ‘non-handling’ sign (b) BROOM.
+was held compared with signs without such mapping (t22 ¼ 2.083, p ¼ 0.049). However, significant facilitation occurred only for signs referring to larger objects that would not fit completely within the hand, e.g. saxophone versus harmonica (F1,22 ¼ 8.432, p ¼ 0.008, for the interaction between object size and sign type). This interaction may have occurred because participants primarily interpreted the instructions as a size decision (i.e. ‘can the object fit in my hand?’) rather than as a handling decision (‘can you hold/grasp the object?’). Thus, ‘yes’ decisions were facilitated for signers only in cases where consideration of handling was critical to the decision because simply determining object size was not sufficient to obtain the correct answer. For English, there was no difference between the relevant two sets of items (t18 ¼ 0.780, p ¼ 0.444), and there was no interaction between object size and sign-translation type (F1,18 ¼ 0.114, p ¼ 0.739). These results are consistent with the findings of Thompson et al. [21] and indicate that meaning-based sign recognition tasks are sensitive to the effects of iconic structure mapping, although the effects appear to be relatively specific, rather than pervasive (i.e. response facilitation was evident only when decisions based on size were insufficient to make the correct handling decision).
+Thompson et al. [23] further investigated whether cognitive effects of iconicity could be observed when meaning was irrelevant to the task. Deaf signers were asked to decide whether iconic and non-iconic British Sign Language signs were produced with straight or curved fingers—a decision based purely on the form of the sign. In this case, iconicity slowed rather than speeded decision times. Thompson et al. [23] suggest that response inhibition rather than facilitation occurred because activation of meaning was more automatic and robust for iconic signs due to stronger connections linking semantics and phonology, and this automatic activation of meaning led to interference for the form decision task. Here, we re-conceptualize this result in terms of structure-mapping theory and suggest that it is not the strength of the links between semantics and phonology that give rise to this result, but rather the inconsistent nature of the structure mapping from the handshape to the object form. Straight or curved fingers in signs do not always align with curved or straight elements of the referent object. For example, the BSL sign BELT is a two-handed sign in which the thumb and the index finger are curved and trace the outline of a belt at the signer’s waist. In this case, the fingers map to the width of the belt, e.g. the space between the thumb and index fingers can be manipulated to indicate a very narrow or a very wide belt. The BSL sign for KEY is
+
+another example used in the experiment, in which the 6 shape of the hand maps to an image of how a key is held, not to the shape of a key. An alternative explanation for the slowed responses in the handshape decision task is that misaligned or inconsistent mappings from the shape of the hand to shape information in the semantic representation slowed decisions that focused on handshape. The explanation proposed here assumes that iconic mappings are automatically (and perhaps unconsciously) available to signers, as argued by Thompson et al. [21], and that the nature of such structure mappings affects form-based decisions.
+Such an explanation also accounts for the movement decision results reported by Thompson et al. [24]. In that study, signers were asked to decide whether a BSL sign contained an upward or downward movement, but in this case, responses were faster for iconic than non-iconic signs. Under the structure-mapping account, this difference is explained by the parallel connectivity constraint. Movement direction is a relational construct and therefore should never be misaligned with movement properties of a referent. Thus, movement direction was either not aligned at all (likely for many of the non-iconic signs) or movement direction was consistently aligned with movement properties of a referent. For example, for the non-iconic BSL sign AFTERNOON used in the experiment, the downward motion of the hand does not align to the motion or to any attribute of the referent. By contrast, the upward motion of the hand in the BSL sign AIRPLANE maps to the upward motion of a plane taking off, and the downward motion of the hands in the BSL sign CRY (tracing tears on the cheek) maps to the downward direction of tears. Such consistently aligned structural mappings for the iconic signs are argued to facilitate movement direction decisions.
+In sum, structure-mapping theory appears to provide a useful framework for explaining effects of iconicity on both grammatical structure and cognitive processes. An important aspect of this framework is that it incorporates the observation that iconicity is not monolithic—there are many ways in which a sign can be iconic [1,3]. In particular, there are many different types of iconic structure mappings, and many different types of schematic images can be selected for a semantic concept; for example, metonymic images are often selected, as for the ASL sign PIRATE, which iconically maps to an eye patch (the hand covers one eye), and an eye patch metonymically stands for a pirate. Structure-mapping theory predicts that the type of iconic mapping will be crucial to understanding the effects of iconicity on cognitive processing for any given task.
+4. Factors that impact the role of iconicity
+It is increasing clear that iconicity is pervasive in signed languages and may also appear in spoken languages to a greater extent than previously supposed (see Perniss et al. [2] for an excellent review). The idea that languages (or language users) move specifically towards arbitrary mappings between form and meaning is likely to be incorrect (e.g. Aronoff et al. [25] hypothesized that morphological processes in sign languages will become more arbitrary over time and that ‘the arbitrariness of grammatical systems is a property of old languages’ ( p. 338)). Nonetheless, there are a number of factors that limit the role that iconicity plays in language processing and acquisition and that can cause
+
+rstb.royalsocietypublishing.org Phil. Trans. R. Soc. B 369: 20130301
+
+language to become less iconic. We discuss some possible constraining factors below.
+(a) Cognitive limits
+Adult novice or second-language learners of sign language have the cognitive resources to note and take advantage of structured iconic mappings when learning new vocabulary, and they remember iconic signs better than non-iconic signs [26,27]. Evidence regarding whether children more easily acquire iconic signs is mixed. Some studies report that iconic signs are not over-represented in the early vocabularies of young signing children [28,29]. However, recently Thompson et al. [30] reported that iconic signs were more prevalent than expected in the vocabularies of very young BSL signing children (aged 11–20 months) and that the proportion of iconic signs increased relatively rapidly for older children (aged 20–30 months). These effects were found even when phonological complexity, imageability and subjective frequency were taken into account. Thompson et al.’s [30] results are problematic for a structure-mapping approach to iconicity because this framework assumes that iconicity is a comparison process, which entails the cognitive ability to construct and appreciate relevant mappings between form and meaning. Such abilities are unlikely to be present for all but the oldest toddlers (26 –30 months) in the Thompson et al. [30] study.
+Although hearing infants and young toddlers are sensitive to cross-modal mappings between sounds and visual images, such as associating higher pitched sounds with brighter, smaller or higher objects [31,32], the ability to appreciate the structural mapping between a cognitive representation and the linguistic form of a sign requires comparison abilities and conceptual knowledge that very young children are unlikely to possess. For example, the ASL sign BIRD is one of the first 35 signs acquired by deaf children [33], but to appreciate the iconic mapping of this sign, an 11– 20-month-old child must be sensitive to the relational mapping between the thumb and index finger of the hand located at the signer’s mouth and the beak of a bird in a schematized mental representation of a typical bird. However, children in this age range are not yet able to appreciate iconic structural mappings, such as the iconic relational mapping between an object located in a picture of a room and the object located in the room itself [34]. In addition, Namy [35] has shown that before 26 months, children are unable to reliably recognize iconic gestures derived from actions, as would be needed to appreciate the iconicity of the early-acquired sign BABY, which mimics the rocking of an infant. Furthermore, MILK and DOG are also among the first 35 signs that ASL-learning children acquire, but the iconic mappings for these signs are metonymic and require an understanding of how cows are milked (squeezing a udder) and how dogs are sometimes called (slapping your thigh and/or snapping your fingers). Such cultural and conceptual knowledge is unlikely to have been acquired before children start producing or comprehending these signs.
+Magid & Pyers [36] suggested that Thompson et al.’s results [30] might reflect the frequency of parental input and/or the phonological density of early-acquired signs because neither factor was controlled in their study. Both factors are predictive of early vocabulary acquisition and may be confounded with iconicity (e.g. parents may over-represent or
+
+emphasize iconic signs in their input as a language-learning 7 aid). Magid & Pyers [36] argued that iconicity only comes into play in language learning after children are able to recognize iconic mappings (see also Namy [35]), and they suggest that some mappings may be more easily identified than others. In their study, 4-year-old, but not 3-year-old, hearing children were able to recognize iconic signs above chance and to ‘fast-map’ iconic signs better than arbitrary signs. Deaf signing children showed a similar pattern but exhibited earlier sensitivity to iconicity than hearing, non-signing children. Further, structure mappings based on how an object is handled were recognized earlier than mappings based on the shape of an object, possibly because children may more easily apprehend how their own body maps to the handling gesture. Similar results with hearing children were reported by Tolar et al. [37].
+Such cognitive constraints are predicted within a structuremapping framework of iconicity. If iconicity is conceptualized as a type of comparison process, then the cognitive ability to assess structural similarities across domains must be available to the child. In addition, the relevant conceptual knowledge must be in place. For example, to understand the iconic mapping for the ASL sign PIRATE, one has to know that pirates characteristically wear eye patches. To understand the ASL sign STIR, one simply has to know that stirring is accomplished with a closed fist and circular movement (the sign mimics the action). The structure-mapping framework can be used to generate specific hypotheses about when iconicity is likely to come into play during development (e.g. only when the child can accomplish the relevant structural comparison) and what types of iconic mappings are available during development (e.g. the relevant conceptual knowledge must first be acquired).
+(b) Articulatory constraints
+During language production, articulatory ease and phonological constraints can over-ride and disrupt the iconic mapping between form and meaning. For example, during casual signing, adults prefer a variant of the ASL sign HOUR that reduces the iconicity of the form, but increases ease of articulation [38]. In the more iconic form, the palm of the 1 handshape initially touches the palm of the non-dominant hand, and the index finger circles around mimicking the turning of the hands of a clock; however, this movement involves awkward wrist rotation. In fluent signing, the sign HOUR is often produced with the entire hand (index finger extended) moving in a circle around the palm (without wrist rotation). Such articulation breaks the structural correspondence between the extended index finger and the hand of the clock. Similarly, Sandler et al. [39] provide examples in which phonological constraints (such as the symmetry constraint) trump iconic mappings in an emerging sign language. With respect to language acquisition, Meir et al. [40] show that children are more likely to produce sign errors that increase ease of articulation but decrease iconicity, e.g. producing the ASL sign COW with the simpler ‘S’ handshape (a closed fist) at the head, rather than with the target ‘Y’ handshape; this substitution eliminates the mapping between the extended fingers and the horns of a cow. These articulatory effects do not arise from the structure-mapping process, but rather they emerge from within one domain of the mapping construction, i.e. sign phonology.
+
+rstb.royalsocietypublishing.org Phil. Trans. R. Soc. B 369: 20130301
+
+rstb.royalsocietypublishing.org Phil. Trans. R. Soc. B 369: 20130301
+
+(c) ‘Dead’ iconicity and historical change
+Over time, either the phonological or semantic representation within an iconic mapping can change and thus reduce or eliminate the structural correspondences between representations. For example, several ASL signs related to emotions such as FEEL, LIKE and LOVE were originally made by touching the left side of the chest at the location of the heart [41] and thus contained an iconic mapping between the part of the body that we typically associate with emotion and the emotional concepts denoted by these signs. However, the modern forms have lost this mapping because they are made with contact at the middle of the chest, reflecting a historical shift towards more centralized locations along the midline of the body [41]. Other iconic mappings may be particularly salient and resist centralization. For example, the signs HEART and HEART-BEAT have not shifted location and are still made with contact at the left of the chest. Similarly, Taub [3] noted that some iconic words resist phonological change, e.g. the English word peep (a soft highpitched sound) resisted the Great Vowel Shift and did not change to pipe.
+Shifts that eliminate or reduce the salience of iconic mappings can also happen within the semantic domain. For example, the ASL sign HOSPITAL is made by tracing a cross on the left shoulder, which metonymically maps to an image of the Red Cross armband historically worn by hospital workers [1]. However, today such armbands are not strongly associated with hospitals, and the iconic mapping may not be appreciated. Similarly, the canonical image of the telephone has changed from a two-part device with one part held at the mouth and one at the ear to an image of single device that is held to both ear and mouth. The old ASL sign TELEPHONE reflected the early image and was made with two ‘S’ handshapes placed at the ear and the mouth. The old sign has been replaced by the modern sign made with a ‘Y’ handshape positioned with the thumb near the ear and the pinky near the mouth, which provides a better map to the canonical image of a modern phone (even cell phones, since these are held to the ear and angled towards the mouth).
+As proposed by the analogue-building model, iconic forms are created by selecting and schematizing an image that represents a concept in need of lexicalization. Over time, the image may change, and iconicity can be lost (as in HOSPITAL) or replaced (as in TELEPHONE). Similarly, phonological and articulatory pressures can reduce or eliminate structured mappings that originally encoded the image into phonological form, resulting in loss of iconicity (as in FEEL and several other ASL examples presented in Frishberg [41]). Just as metaphors can change over time and become ‘dead’ or highly conventional (e.g. kick the bucket; he’s a snake), iconic mappings can also change and become ‘dead’ or less salient (see Bowdle & Gentner [42] for a structure-mapping account of how metaphors change over time from novel to conventional).
+
+5. Conclusion
+
+8
+
+Perniss et al. [2] suggested that ‘there may be processing benefits (both in comprehension and production) for words that map more directly onto our perceptual and motor experiences of the world’ ( p. 7). Similarly, Thompson et al. [30] proposed that ‘iconicity may help strengthen the link between linguistic form and human experience, and thereby aid learnability’ ( p. 1443). By contrast, it is suggested here that iconicity is better viewed as a structured mapping between two mental representations, rather than as a link between linguistic form and experience. A word or sign does not link directly to the world or to our experience of the world. Rather, the phonological form of a lexicalized concept maps to a mental representation (a schematization) that may be grounded in sensory –motor experiences. In addition, the mappings between linguistic forms and experiencederived mental representations (e.g. perceptual symbols) can be a relatively complete or ‘direct’, as with the ASL signs STIR and MOP in which the form itself depicts a canonical action with the hands (and the form can be altered to reflect alterations in the action). Or the mappings can be relatively indirect, requiring additional cultural and conceptual knowledge to process the mapping, such as for the ASL signs PIRATE and DOG, where an associated element stands in for the concept itself (i.e. an eye patch worn by pirates and the action used to call a dog).
+One key aspect of a structure-mapping approach to iconicity is that the type of iconicity (i.e. the nature of the structural correspondences between phonological form and the representative mental image of a concept) can be used to predict when and whether iconicity aids learnability or affects cognitive processes. In addition, the theoretical constructs of alignable and non-alignable differences may be useful in exploring the nature of iconic effects on both linguistic structure and processing. Finally, it has been shown that effects of iconicity do not require strategic or overt awareness (e.g. Thompson et al. [21]). Similarly, several studies indicate that structure-mapping is not necessarily a conscious or strategic process, and sometimes cannot be avoided [43,44].
+In sum, there is growing evidence that iconicity can affect the grammar of language, as well as how words or signs are learned, comprehended and produced. The next step is to place these effects within an explicit theoretical framework that can explain when and why iconicity matters.
+
+Funding statement. This work was supported by grants from the
+National Institutes of Health (R01 DC010997 and HD047736) awarded to K.E. and San Diego State University.
+
+Endnote
+1MY replaces POSS-1, THEY replaces IX and ASK-ME replaces ASK-1 in the original glosses. Video numbers and judgment ratings are omitted.
+
+References
+
+1. Mandel M. 1977 Iconic devices in American Sign Language. In On the other hand: new perspectives on American Sign Language (ed. LA Friedman), pp. 57 –107. New York, NY: Academic Press.
+
+2. Perniss P, Thompson T, Vigliocco G. 2010 Iconicity as a general property of language: evidence from spoken and signed languages. Front. Psychol. 1, 1–15. (doi:10.3389/fpsyg.2010. 00227)
+
+3. Taub SF. 2001 Language from the body: iconicity and metaphor in American Sign Language. Cambridge, UK: Cambridge University Press.
+4. Thompson RL. 2011 Iconicity in language processing and acquisition: what signed languages reveal.
+
+Lang. Linguist. Compass 5, 603– 616. (doi:10.1111/j. 20. Markman AB, Gentner D. 1997 The effects of
+
+correspondences. Psych. Sci. 21, 21 –25. (doi:10. 9
+
+1749-818X.2011.00301.x)
+
+alignability on memory. Psychol. Sci. 8, 363–367.
+
+1177/0956797609354734)
+
+rstb.royalsocietypublishing.org Phil. Trans. R. Soc. B 369: 20130301
+
+5. Gentner D. 1983 Structure-mapping: a theoretical
+
+(doi:10.1111/j.1467-9280.1997.tb00426.x)
+
+32. Mondloch CJ, Maurer D. 2004 Do small white balls
+
+framework for analogy. Wiley Interdiscip. Rev. Cogn. 21. Thompson RL, Vinson DP, Vigliocco G. 2009 The link
+
+squeak? Pitch–object correspondences in young
+
+Sci. 7, 155–170.
+
+between form and meaning in American Sign Language:
+
+children. Cogn. Affect. Behav. Neurosci. 4, 133 –136.
+
+6. Gentner D, Markman AB. 1997 Structure mapping
+
+lexical processing effects. J. Exp. Psychol. Learn. Mem.
+
+(doi:10.3758/CABN.4.2.133)
+
+in analogy and similarity. Am. Psychol. 52, 45– 56.
+
+Cogn. 35, 550–557. (doi:10.1037/a0014547)
+
+33. Anderson D, Reilly J. 2002 The MacArthur
+
+(doi:10.1037/0003-066X.52.1.45)
+
+22. Bosworth R, Emmorey K. 2010 Effects of iconicity and
+
+communicative development inventory: normative
+
+7. Wilcox S. 2004 Cognitive iconicity: conceptual spaces,
+
+semantic relatedness on lexical access in American Sign
+
+data from American Sign Language. J. Deaf Stud.
+
+meaning, and gesture in signed language. Cogn.
+
+Language. J. Exp. Psychol. Learn. Mem. Cogn. 36,
+
+Deaf Educ. 7, 83 –106. (doi:10.1093/deafed/7.2.83)
+
+Linguist. 15, 119–147. (doi:10.1515/cogl.2004.005)
+
+1573–1581. (doi:10.1037/a0020934)
+
+34. Deloache JS. 1991 Symbolic functioning in very
+
+8. Wilcox P. 2004 A cognitive key: metonymic and 23. Thompson RL, Vinson DP, Vigliocco G. 2010 The link
+
+young children: understanding of pictures and
+
+metaphorical mappings in ASL. Cogn. Linguist. 15,
+
+between form and meaning in British Sign
+
+models. Cogn. Dev. 62, 736 –752.
+
+197–222. (doi:10.1515/cogl.2004.008)
+
+Language: effect of iconicity for phonological
+
+35. Namy LL. 2008 Recognition of iconicity doesn’t
+
+9. Meir I. 2010 Iconicity and metaphor: constraints on
+
+decisions. J. Exp. Psychol. Learn. Mem. Cogn. 36,
+
+come for free. Dev. Sci. 11, 841–846. (doi:10.1111/
+
+metaphorical extension of iconic forms. Language
+
+1017–1027. (doi:10.1037/a0019339)
+
+j.1467-7687.2008.00732.x)
+
+86, 865–896. (doi:10.1353/lan.2010.0044)
+
+24. Thompson RL, Skinner R, Vinson D, Fox N, Vigliocco 36. Magid R, Pyers J. 2014 Iconicity lends a hand in
+
+10. Lakoff G, Johnson M. 1980 Metaphors we live by.
+
+G. 2010 When meaning permeates form: iconicity
+
+language learning only after children know it’s there.
+
+Chicago, IL: The University of Chicago Press.
+
+effects in British Sign Language. In Paper presented 37. Tolar TD, Lederberg AR, Gokhale S, Tomasello M.
+
+11. Schlenker P. 2011 Iconic agreement. Theor. Linguist.
+
+at theoretical issues in Sign Language Research 10.
+
+2008 The development of the ability to recognize
+
+37, 223–234. (doi:10.1515/thli.2011.017)
+
+30 September –2 October 2010, West Lafayette,
+
+the meaning of iconic signs. J. Deaf Stud. Deaf Educ.
+
+12. Schlenker P. 2012 Complement set anaphora and
+
+IN, USA. Purdue University, IN. See http://www.
+
+13, 225 –240. (doi:10.1093/deafed/enm045)
+
+structural iconicity in ASL. Snippets 25, 15 –17.
+
+purdue.edu/tislr10/pdfs/Thompson-Iconicity.pdf.
+
+38. Napoli DJ, Sanders N, Wright R. 2014 A drive
+
+13. Schlenker P, Lamberton J, Santoro M. 2013 Iconic 25. Aronoff M, Meir I, Sandler W. 2005 The paradox of
+
+toward articulatory ease for spoken and sign
+
+variables. Linguist. Phil. 36, 91 –149. (doi:10.1007/
+
+sign language morphology. Language 81,
+
+languages. Language 36, 424–456. (doi:10.1353/
+
+s10988-013-9129-1)
+
+301 –344. (doi:10.1353/lan.2005.0043)
+
+lan.2014.0026)
+
+14. Schlenker P, Lamberton J. 2012 Formal indices and 26. Baus C, Carreiras M, Emmorey K. 2013 When does 39. Sandler W, Aronoff M, Meir I, Padden C. 2011 The
+
+iconicity in ASL. In Logic, language and meaning:
+
+iconicity in sign language matter? Lang. Cogn. Process.
+
+gradual emergence of phonological form in a new
+
+18th Amsterdam colloquium (eds M Aloni,
+
+28, 261–271. (doi:10.1080/01690965.2011.620374)
+
+language. Nat. Lang. Linguist. Theory 29, 503 –543.
+
+V KimmelmanF Roelofsen, GW Sassoon, K Schulz, 27. Campbell R, Martin P, White T. 1992 Forced choice
+
+(doi:10.1007/s11049-011-9128-2)
+
+M Westera), pp. 1–11. Amsterdam, The
+
+recognition of sign in novice learners of British Sign 40. Meir RP, Mauk CE, Cheek A, Moreland CJ. 2008 The
+
+Netherlands: Springer.
+
+Language. Appl. Linguist. 13, 185 –201. (doi:10.
+
+form of children’s early signs: iconic or motoric
+
+15. Nouwen RWF. 2003 Plural pronominal anaphora in
+
+1093/applin/13.2.185)
+
+determinants? Lang. Learn. Dev. 4, 63 –98. (doi:10.
+
+context: dynamic aspects of quantification. LOT
+
+28. Folven RJ, Bonvillian JD. 1991 The transition from
+
+1080/15475440701377618)
+
+Dissertation Series 84, University of Utrecht.
+
+nonreferential to referential language in children 41. Frishberg N. 1975 Arbitrariness and iconicity:
+
+16. Falkenhainer B, Forbus KD, Gentner D. 1989 The
+
+acquiring American Sign Language. Dev. Psychol.
+
+historical change in American Sign Language.
+
+structure-mapping engine: algorithm and examples.
+
+27, 806– 816. (doi:10.1037/0012-1649.27.5.806)
+
+Language 51, 696– 719. (doi:10.2307/412894)
+
+Artif. Intell. 41, 1–63. (doi:10.1016/0004-
+
+29. Orlansky MD, Bonvillian JD. 1984 The role of
+
+42. Bowdle BF, Gentner D. 2005 The career of
+
+3702(89)90077-5)
+
+iconicity in early sign language acquisition.
+
+metaphor. Psychol. Rev. 112, 193 –216. (doi:10.
+
+17. Barsalou LW. 1999 Perceptual symbol systems. Brain
+
+J. Speech Hear. Disord. 49, 287–292.
+
+1037/0033-295X.112.1.193)
+
+Behav. Sci. 22, 577– 660.
+
+30. Thompson RL, Vinson DP, Woll B, Vigliocco G. 2012 43. Day SB, Gentner D. 2007 Nonintentional analogical
+
+18. Barsalou LW. 2008 Grounded cognition. Annu. Rev.
+
+The road to language learning is iconic: evidence
+
+inference in text comprehension. Mem. Cognit. 35,
+
+Psychol. 59, 617 –645. (doi:10.1146/annurev.psych.
+
+from British Sign Language. Psychol. Sci. 23, 1443–
+
+39– 49. (doi:10.3758/BF03195940)
+
+59.103006.093639)
+
+1448. (doi:10.1177/0956797612459763)
+
+44. Perrott DA, Gentner D, Bodenhausen GV. 2005
+
+19. Markman AB, Gentner D. 1993 Structural alignment 31. Walker P, Bremmer JG, Mason U, Spring J, Mattock
+
+Resistance is futile: the unwitting insertion of
+
+during similarity comparisons. Wiley Interdiscip. Rev.
+
+K, Slater A, Johnson SP. 2010 Preverbal infants’
+
+analogical inferences in memory. Psychon. Bull. Rev.
+
+Cogn. Sci. 25, 431–467.
+
+sensitivity to synaesthetic cross-modality
+
+12, 696 –702. (doi:10.3758/BF03196760)
+
