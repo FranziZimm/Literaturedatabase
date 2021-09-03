@@ -1,0 +1,1583 @@
+PDF hosted at the Radboud Repository of the Radboud University Nijmegen
+The following full text is a publisher's version.
+For additional information about this publication click this link. http://hdl.handle.net/2066/41103
+Please be advised that this information was generated on 2021-09-03 and may be subject to change.
+
+Cultural Constraints on Grammar and Cognition in Pirahã Another Look at the Design Features of Human Language Author(s): Daniel L. Everett Reviewed work(s): Source: Current Anthropology, Vol. 46, No. 4 (August/October 2005), pp. 621-646 Published by: The University of Chicago Press on behalf of Wenner-Gren Foundation for Anthropological Research Stable URL: http://www.jstor.org/stable/10.1086/431525 . Accessed: 06/02/2013 08:05 Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at . http://www.jstor.org/page/info/about/policies/terms.jsp . JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org. .
+The University of Chicago Press and Wenner-Gren Foundation for Anthropological Research are collaborating with JSTOR to digitize, preserve and extend access to Current Anthropology.
+http://www.jstor.org
+This content downloaded on Wed, 6 Feb 2013 08:05:39 AM All use subject to JSTOR Terms and Conditions
+
+C u r r e n t A n t h r o p o l o g y Volume 46, Number 4, August–October 2005 ᭧ 2005 by The Wenner-Gren Foundation for Anthropological Research. All rights reserved 0011-3204/2005/4604-0006$10.00
+
+Cultural Constraints on Grammar and Cognition in Piraha˜
+
+It does not seem likely . . . that there is any direct relation between the culture of a tribe and the language they speak, except in so far as the form of the language will be moulded by the state of the culture, but not in so far as a certain state of the culture is conditioned by the morphological traits of the language.
+f r a n s b o a s , 1911
+
+Another Look at the Design Features of Human Language
+by Daniel L. Everett
+
+In the early days of American descriptive linguistics, language was seen as an emergent property of human culture and psychology.1 Except for small pockets of researchers here and there, for various reasons both so-called formal and functional linguistics abandoned the investigation of culture-language connections.2 In recent years there has been a welcome revival of interest in the inﬂuence of language on culture and cognition, especially in more sophisticated investigations of the linguistic-relativity/determinism hypothesis (e.g., Lucy
+
+The Piraha˜ language challenges simplistic application of Hockett’s nearly universally accepted design features of human language by showing that some of these features (interchangeability, displacement, and productivity) may be culturally constrained. In particular, Piraha˜ culture constrains communication to nonabstract subjects which fall within the immediate experience of interlocutors. This constraint explains a number of very surprising features of Piraha˜ grammar and culture: the absence of numbers of any kind or a concept of counting and of any terms for quantiﬁcation, the absence of color terms, the absence of embedding, the simplest pronoun inventory known, the absence of “relative tenses,” the simplest kinship system yet documented, the absence of creation myths and ﬁction, the absence of any individual or collective memory of more than two generations past, the absence of drawing or other art and one of the simplest material cultures documented, and the fact that the Piraha˜ are monolingual after more than 200 years of regular contact with Brazilians and the Tupi-Guarani-speaking Kawahiv.
+d a n i e l l . e v e r e t t is Professor of Phonetics and Phonology in the Department of Linguistics at the University of Manchester (Manchester M13 9PL, U.K. [dan.everett@manchester.ac.uk]). Born in 1951, he received a Sc.D. from the State University of Campinas, Brazil, in 1983 and has taught linguistics there (1981–86) and at the University of Pittsburgh (1988–99). His publications include A lingua piraha˜ e a teoria da sintaxe (Campinas: Editora da UNICAMP, 1992), (with Barbara Kern) Wari’ Descriptive Grammar (London: Routledge, 1997), and “Coherent Fieldwork,” in Linguistics Today, edited by Piet van Sterkenberg (Amsterdam: John Benjamins, 2004). The present paper was submitted 12 iv 04 and accepted 4 iii 05.
+[Supplementary material appears in the electronic edition of this issue on the journal’s web page (http://www.journals.uchicago. edu/CA/home.html).]
+
+1. I thank the Piraha˜ for their friendship and help for more than half of my life. Since 1977 the people have taught me about their language and way of understanding the world. I have lived for over six years in Piraha˜ villages and have visited the people every year since 1977. I speak the language well and can say anything I need to say in it, subject to the kinds of limitations discussed in this paper. I have not published on Piraha˜ culture per se, but I have observed it closely for all of these years and have discussed most of my observations, including those reported on here, with the Piraha˜ themselves. My wife, Keren, is the only non-Piraha˜ to have lived longer among the Piraha˜ than I. She has offered invaluable help, strong criticism, and inspiration in my studies of the Piraha˜ language over the years. Peter Gordon’s enthusiasm for studying Piraha˜ counting experimentally has challenged me to consider the absence of Piraha˜ numerals in a wider cultural and linguistic context. I thank David Gil of the Max Planck Institute for Evolutionary Anthropology in Leipzig for organizing the “Numerals” conference there (March 28 and 29, 2004) and the Institute’s Linguistics Department for offering me ideal circumstances in which to rough out the bulk of this paper. I also thank (in no particular order) Ray Jackendoff, Lila Gleitman, Timothy Feist, Bill Poser, Nigel Vincent, Keren Everett, Arlo Heinrichs, Steve Sheldon, Pattie Epps, Tony Woodbury, Brent Berlin, Tom Headland, Terry Kaufman, Grev Corbett, Peter Gordon, Sally Thomason, Alec Marantz, Donca Steriade, Craige Roberts, Mary Beckman, Peter Culicover, and Iris Berent for comments of varying detail on this paper and Paul Kay for asking challenging questions about my statements on color terms that helped me sharpen my thinking about this enormously. Tom Headland deserves special mention for giving me detailed help on how to make my ethnographic summary more intelligible to anthropologists. This paper supersedes any other published or unpublished statement by me on those aspects of Piraha˜ grammar here addressed. No one should draw the conclusion from this paper that the Piraha˜ language is in any way “primitive.” It has the most complex verbal morphology I am aware of and a strikingly complex prosodic system. The Piraha˜ are some of the brightest, pleasantest, most fun-loving people that I know. The absence of formal ﬁction, myths, etc., does not mean that they do not or cannot joke or lie, both of which they particularly enjoy doing at my expense, always good-naturedly. Questioning Piraha˜ ’s implications for the design features of human language is not at all equivalent to questioning their intelligence or the richness of their cultural experience and knowledge. 2. It is ironic that linguists of the “functional” persuasion should ignore culture’s potential impact on grammar, given the fact that functional linguistics inherited from generative semantics the view that form is driven largely by meaning (and, more recently, by general cognitive constraints as well) because the locus and source of meaning for any human are principally in the culture.
+621
+
+This content downloaded on Wed, 6 Feb 2013 08:05:39 AM All use subject to JSTOR Terms and Conditions
+
+622 F c u r r e n t a n t h ro p o l o g y Volume 46, Number 4, August–October 2005
+
+1992a, b; Gumperz and Levinson 1996; Gentner and Goldin-Meadow 2003). However, there has been insufﬁcient work on the constraints that culture can place on major grammatical structures in a language, though Pawley (1987) and the contributors to Enﬁeld (2002), among others, have produced some important results.
+This paper looks in detail at various aspects of the culture and language of the Piraha˜ of Brazil that suggest that Piraha˜ culture severely constrains Piraha˜ grammar in several ways, producing an array of otherwise inexplicable “gaps” in Piraha˜ morphosyntax. These constraints lead to the startling conclusion that Hockett’s (1960) design features of human language, even more widely accepted among linguists than Chomsky’s proposed universal grammar, must be revised. With respect to Chomsky’s proposal, the conclusion is severe—some of the components of so-called core grammar are subject to cultural constraints, something that is predicted not to occur by the universal-grammar model. I argue that these apparently disjointed facts about the Piraha˜ language—gaps that are very surprising from just about any grammarian’s perspective—ultimately derive from a single cultural constraint in Piraha˜ , namely, the restriction of communication to the immediate experience of the interlocutors.
+Grammar and other ways of living are restricted to concrete, immediate experience (where an experience is immediate in Piraha˜ if it has been seen or recounted as seen by a person alive at the time of telling), and immediacy of experience is reﬂected in immediacy of information encoding—one event per utterance.3 Less explicitly, the paper raises the possibility, subject to further research, that culture constrains cognition as well. If the assertion of cultural constraint is correct, then it has important consequences for the enterprise of linguistics.
+Before beginning in earnest, I should say something about my distinction between “culture” and “language.” To linguists this is a natural distinction. To anthropologists it is not. My own view of the relationship is that the anthropological perspective is the more useful, but that is exactly what this paper purports to show. Therefore, although I begin with what will strike most anthropologists as a strange division between the form of communication (language) and the ways of meaning (culture) from which it emerges, my conclusion is that the division is not in fact a very useful one and that Sapir, Boas, and the anthropological tradition generally have this right. In this sense, this paper may be taken as an argument that anthropology and linguistics are more closely aligned than most modern linguists (whether “functional” or “formal”) suppose.
+This study began as a description of the absence of numerals, number, and counting in Piraha˜ , the only sur-
+3. The notion of “event” used in this paper—a single logical predicate—comes from the standard literature on lexical semantics. Such predicates can be modiﬁed but are represented as solitary events (see Van Valin and LaPolla 1997 for one model). This is not to say that a single event cannot be expressed by more than one utterance but merely that multiple events are not expressed in a single utterance/sentence.
+
+viving member of the Muran language family. However, after considering the implications of this unusual feature of Piraha˜ language and culture, I came to the conclusion defended in this paper, namely, that there is an important relation between the absence of number, numerals, and counting, on the one hand, and the striking absence of other forms of precision quantiﬁcation in Piraha˜ semantics and culture, on the other. A summary of the surprising facts will include at least the following: Piraha˜ is the only language known without number, numerals, or a concept of counting. It also lacks terms for quantiﬁcation such as “all,” “each,” “every,” “most,” and “some.” It is the only language known without color terms. It is the only language known without embedding (putting one phrase inside another of the same type or lower level, e.g., noun phrases in noun phrases, sentences in sentences, etc.). It has the simplest pronoun inventory known, and evidence suggests that its entire pronominal inventory may have been borrowed. It has no perfect tense. It has perhaps the simplest kinship system ever documented. It has no creation myths—its texts are almost always descriptions of immediate experience or interpretations of experience; it has some stories about the past, but only of one or two generations back. Piraha˜ in general express no individual or collective memory of more than two generations past. They do not draw, except for extremely crude stick ﬁgures representing the spirit world that they (claim to) have directly experienced.
+In addition, the following facts provide additional overt evidence for ways in which culture can be causally implicated in the linguistic structure of the language: The phonemic inventory of Piraha˜ women is the smallest in the world, with only seven consonants and three vowels, while the men’s inventory is tied with Rotokas and Hawaiian for the next-smallest inventory, with only eight consonants and three vowels (Everett 1979). The Piraha˜ people communicate almost as much by singing, whistling, and humming as they do using consonants and vowels (Everett 1985, 2004). Piraha˜ prosody is very rich, with a well-documented ﬁve-way weight distinction between syllable types (Everett 1979, 1988; Everett and Everett 1984).
+A ﬁnal fascinating feature of Piraha˜ culture, which I will argue to follow from the above, is that Piraha˜ continue to be monolingual in Piraha˜ after more than 200 years of regular contact with Brazilians and other nonPiraha˜ . What we will see as the discussion progresses is that Portuguese grammar and communication violate the Piraha˜ cultural constraint on grammar and living, a profound cultural value, leading to an explanation for this persistent monolingualism.
+Any of these properties is sufﬁciently unusual in itself to demand careful consideration, but their manifestation in a single language suggests the existence of a common unifying generalization behind them. They are sufﬁciently disparate formally (i.e., in terms of potential phrase-structure realizations) that any unifying principle is almost certainly to be found in their meaning, and that in the broadest sense of a constraint on cultural
+
+This content downloaded on Wed, 6 Feb 2013 08:05:39 AM All use subject to JSTOR Terms and Conditions
+
+e v e r e t t Cultural Constraints on Piraha˜ Grammar F 623
+
+function. What I propose, again, is that Piraha˜ culture avoids talking about knowledge that ranges beyond personal, usually immediate experience or is transmitted via such experience. All of the properties of Piraha˜ grammar that I have listed will be shown to follow from this. Abstract entities are not bound by immediate personal experience, and therefore Piraha˜ people do not discuss them.
+In developing the arguments to support these theses, I also argue against the simple Whorﬁan idea that linguistic relativity or determinism alone can account for the facts under consideration. In fact, I also argue that the unidirectionality inherent in linguistic relativity offers an insufﬁcient tool for language-cognition connections more generally in that it fails to recognize the fundamental role of culture in shaping language. In what follows I describe the properties of Piraha˜ grammar mentioned above, consider the facts in light of Piraha˜ cultural values, and discuss the lessons to be drawn from the case of Piraha˜ for linguistic theory. I do not claim that my thesis or its relation to the facts has been proven; rather, I suggest that the relation has been supported and that there is no other obvious relation. Any other approach would render the above-mentioned observations coincidental.
+
+Number, Numerals, and Counting
+
+There is no grammatical number in Piraha˜ (Everett 1983, 1986; Corbett 2000). There are therefore no number contrasts on nouns, pronouns, verbs, or modiﬁers for number (´ p high tone; no mark over vowel p low tone; ’ p glottal stop):
+
+1. hiaitı´ihı´
+
+hi
+
+kaoa´ ı´bogi bai
+
+-aaga´
+
+Piraha˜ people he
+
+evil spirit fear
+
+-be
+
+“The Piraha˜ are afraid of evil spirits,” “A Piraha˜ is
+
+afraid of an evil spirit,” “The Piraha˜ are afraid of an
+
+evil spirit,” or “ A Piraha˜ is afraid of evil spirits.”
+
+2. ko´ ’oı´, ko´ hoibiı´hai, hi pı´ai,
+
+name name
+
+he also,
+
+hi
+
+pı´ai,
+
+hi koaba´ ipı´
+
+he
+
+also,
+
+he die
+
+“Ko´ ’oı´, Ko´ hoibiı´hai, and ’aa´ ibigaı´ died.”
+
+’aa´ ibı´gaı´, name
+
+3. ko´ ’oı´
+
+hi
+
+name
+
+he
+
+“Ko´ ’oı´ died.”
+
+koaba´ ipı´ die
+
+4. ba´ igipo´ hoaa´
+
+’i ’o´ ooı´
+
+kobai -baaı´
+
+name:feminine she tarantula watch -intently
+
+“Ba´ igipo´ hoaa´ watched the tarantula[s] closely.” (This
+
+can refer to one woman named “Ba´ igipo´ hoaa´ ” or
+
+several.)
+
+This feature of Piraha˜ is itself very rare (see Corbett 2000:50). There may be no other language that lacks the grammatical category of number.
+
+There are three words in Piraha˜ that are easy to confuse with numerals because they can be translated as numerals in some of their uses:4 ho´ i ‘small size or amount’, hoı´ ‘somewhat larger size or amount’, and ba´ a gi so lit. ‘cause to come together’ (loosely ‘many’). Some examples which show how Piraha˜ expresses what in other cultures would be numerical concepts are as follows:
+
+5. a. tı´ ’ı´tı´i’isi ho´ i hii
+
+’aba’a´ ı´gio ’oogabagaı´
+
+I ﬁsh small predicate only
+
+want
+
+“I only want [one/a couple/a small] ﬁsh.” (This
+
+could not be used to express a desire for one
+
+ﬁsh that was very large except as a joke.)
+
+b. tioba´ hai ho´ i
+
+hii
+
+child
+
+small
+
+predicate
+
+”small child/child is small/one child”
+
+6. a. b. c.
+
+tı´ ’ı´tı´i’isi hoı´
+
+hii
+
+’oogabagaı´
+
+I ﬁsh
+
+larger predicate want
+
+“I want [a few/larger/several] ﬁsh.”
+
+tı´ ’ı´tı´i’isi ba´ agiso
+
+’oogabagaı´
+
+I ﬁsh many/group
+
+want
+
+“I want [a group of/many] ﬁsh.”
+
+tı´ ’ı´tı´i’isi ’ogiı´ ’oogabagaı´
+
+I ﬁsh
+
+big
+
+want
+
+“I want [a big/big pile of/many] ﬁsh.”
+
+Interestingly, in spite of its lack of number and numerals, Piraha˜ superﬁcially appears to have a count-versus-mass distinction (examples preceded by an asterisk are ungrammatical, and those preceded by a question mark would be considered strange):
+
+7. a. ’aoo´ i
+
+’aaı´ba´ i ’ao’aaga´ ’oı´
+
+kapio´ ’io
+
+foreigner
+
+many exist jungle other
+
+“There are many foreigners in another jungle.”
+
+b. ∗/? ’aoo´ i
+
+’apagı´ ’ao’aaga´ ’oı´
+
+kapio´ ’io
+
+foreigner
+
+much exist jungle other
+
+?”There are much foreigners in another jungle.”
+
+8. a. ’agaı´si
+
+’apagı´ ’ao’aaga´ ’oı´
+
+kapio´ ’io
+
+manioc meal much exist jungle other
+
+“There is a lot of manioc meal in another jungle.”
+
+b. ∗’agaı´si
+
+’aaı´ba´ i ’ao’aaga´ ’oı´
+
+kapio´ ’io
+
+manioc meal many exist jungle other
+
+∗“There is many manioc meal in another jungle.”
+
+This distinction is more consistently analyzed, however, as the distinction between things that can be individuated and things that cannot, thus independent of the notion of counting.
+There are likewise no ordinal numbers in Piraha˜ . Some of the functions of ordinals are expressed via body parts, in a way familiar to many languages:
+
+4. The “translation fallacy” is well-known, but ﬁeld linguists in particular must be ever-vigilant not to be confused by it. Bruner, Brockmeier, and Harre´ (2001:39) describe it as the supposition that there is only one human reality to which all “narratives”—be they ﬁction or linguistic theories, say—must in effect conform. Throughout this paper I will urge the reader to be on guard against this—the mistake of concluding that language X shares a category with language Y if the categories overlap in reference.
+
+This content downloaded on Wed, 6 Feb 2013 08:05:39 AM All use subject to JSTOR Terms and Conditions
+
+624 F c u r r e n t a n t h ro p o l o g y Volume 46, Number 4, August–October 2005
+
+9. ti
+
+’apaı´ ka´ obı´i
+
+’ahaigı´
+
+I
+
+head fall
+
+same generation
+
+hi
+
+tı´ohio´ ’ı´o/gaaba
+
+ka´ obı´i
+
+he towards me/there stay
+
+fall
+
+“I was born ﬁrst then my sibling was born.” (lit.
+
+“I head fall sibling to me/there at fall.”)
+
+The expressions tı´ohio´ ’ı´o and gaaba here are interchangeable in most contexts. They refer both to intermediate points in a succession of participants, events, etc., or to the ﬁnal position. But the word “head” does not really mean “ﬁrst,” not if we assume that “ﬁrst” derives its meaning partially in opposition to “second,” “third,” etc., but overlaps with “ﬁrst” in referring to something at the beginning of a spatial or temporal sequence.5
+The Piraha˜ language has no words for individual ﬁngers (e.g., “ring ﬁnger,” “index ﬁnger,” “thumb,” etc.). Piraha˜ occasionally refer to their ﬁngers collectively as “hand sticks,” but only when asked by an insistent linguist. By the same reasoning, there is no word for “last.” Moreover, they tend not to point with individual ﬁngers, at least when talking to me. Commonly, if they use any part of their arms for pointing, they tend to extend a ﬂat hand turned sideways or an open palm facing up or down. More often, they point, as is common around the world, with their lower lip or jaw or a motion of the head. When discussing a large quantity/number of objects, they do not make tallying motions on individual appendages. If they use gestures, they hold the ﬂat hand out, palm down, varying the distance between hand and ground to indicate the size of the “pile” or amount under discussion. However, a seated Piraha˜ man or woman (though women rarely do this) will occasionally extend both feet and hands, with toes and ﬁngers also extended, to indicate a large number of individual items (they would do this in my experience not for a nonindividuated quantity such as manioc ﬂour but rather for bags of manioc ﬂour, etc.). Other than these gestures, there is no use of body parts, objects, or anything to indicate a concept of “tallying.”
+There are no quantiﬁer terms like “all,” “each,” “every,” “most,” and “few” in Piraha˜ . There are also no “WH (information question)-quantiﬁers” per se.6 The following examples show the closest expressions Piraha˜ can muster to these quantiﬁers:
+
+10. hiaitı´ihı´ Piraha˜ people -o´ -direction
+
+hi he pi water
+
+’ogi big -o´ -direction
+
+-’a´ aga -be (permanence) kaobı´i entered
+
+5. Part of the conclusion of this paper, agreeing with Gordon (2004), is that much of Piraha˜ is largely incommensurate with English and therefore translation is simply a poor approximation of Piraha˜ intentions and meaning, but we do as well as we can do. 6. One reviewer has suggested that these Piraha˜ words are quantiﬁer words but have different truth conditions from their English counterparts. But having different truth conditions simply means having different meanings in this context, and therefore if they have different truth conditions then they are different words.
+
+“All the people went to swim/went swimming/are swimming/bathing, etc.”
+
+11. ti
+
+’ogi
+
+-’a´ aga
+
+I
+
+big
+
+-be (permanence)
+
+-o´
+
+’ı´tii’isi
+
+’ogi
+
+-direction
+
+ﬁsh
+
+big
+
+-o´
+
+’i
+
+kohoai-baaı´,
+
+-direction
+
+she
+
+eat -intensive
+
+koga
+
+ho´ i
+
+hi
+
+nevertheless small amount intensive
+
+hi
+
+-i
+
+kohoi
+
+intensive
+
+-be
+
+eat
+
+-hiaba
+
+-not
+
+“We ate most of the ﬁsh.” (lit. “My bigness ate
+
+[at] a bigness of ﬁsh, nevertheless there was a
+
+smallness we did not eat.”)
+
+The following is the closest I have ever been able to get to a sentence that would substitute for a quantiﬁer like “each,” as in “Each man went to the ﬁeld.”
+
+12. ’igihı´
+
+hi
+
+’ogia´ agao´ ’oga
+
+man
+
+he
+
+bigness
+
+ﬁeld
+
+ha´ piı´;
+
+’aika´ ibaı´si, ’ahoa´ a´ pati pı´o,
+
+went
+
+name,
+
+name
+
+also,
+
+tı´igi
+
+hi
+
+pı´o,
+
+’ogia´ agao´
+
+name
+
+he
+
+also
+
+bigness
+
+“The men all went to the ﬁeld, ’aika´ ibaı´si, ’ahoa´ a´ -
+
+pati, tı´igi all went.”
+
+13. ga´ ta
+
+-hai
+
+ho´ i
+
+hi
+
+-i
+
+can
+
+-foreign object small
+
+intensive -be
+
+’aba
+
+-’a´
+
+-ı´gi
+
+-o
+
+remain -temporary -associative -location
+
+’ao
+
+-aaga´
+
+’agaoa ko -o´
+
+possession -be (temporary) canoe gut -direction
+
+“There were [a] few cans in the foreigner’s canoe.”
+
+(lit. “Smallness of cans remaining associated was
+
+in the gut of the canoe.”) (’aba’a´ ı´gio can often be
+
+translated as “only,” but the full morphological
+
+breakdown shows that it is not really equivalent in
+
+meaning to “only,” nor does it share the full range
+
+of meanings of “only.”)
+
+There are, however, two words, usually occurring in reference to an amount eaten or desired, ba´ aiso ‘whole’ and gı´ia´ i ‘part’, which by their closest translation equivalents might seem to be quantiﬁers:
+
+14. a. tı´oba´ hai hi
+
+ba´
+
+-a
+
+child
+
+he
+
+touch
+
+-causative
+
+-i
+
+-so
+
+kohoai
+
+-connective -nominalizer eat
+
+-so´ og
+
+-ab
+
+-agaı´
+
+-desiderative -stay
+
+-thus
+
+“The child wanted/s to eat the whole thing.” (lit.
+
+“Child muchness/fullness eat is desiring.”)
+
+b. tı´oba´ hai hi
+
+gı´i
+
+-a´ i
+
+This content downloaded on Wed, 6 Feb 2013 08:05:39 AM All use subject to JSTOR Terms and Conditions
+
+e v e r e t t Cultural Constraints on Piraha˜ Grammar F 625
+
+child
+
+he
+
+that
+
+-there
+
+kohoai
+
+-so´ og
+
+-ab
+
+-agaı´
+
+eat
+
+-desiderative -stay
+
+-thus
+
+“The child wanted/s to eat a piece of the thing.”
+
+(lit. “Child that there eat is desiring.”)
+
+Here ba´ aiso and gı´ia´ i are used as nouns, but they can also appear as postnominal modiﬁers:
+
+15. a. tioba´ hai hi
+
+poogaı´hiaı´ ba´ aiso
+
+child
+
+he
+
+banana
+
+whole
+
+kohoai -so´ og
+
+-ab
+
+-agaı´
+
+eat
+
+-desiderative -stay
+
+-thus
+
+“The child wanted/s to eat the whole banana.”
+
+(lit. “Child banana muchness/fullness eat is
+
+desiring.”)
+
+b. tı´oba´ hai hi
+
+poogaı´hiaı´ gı´ia´ i
+
+child
+
+he
+
+banana
+
+piece
+
+kohoai -so´ og
+
+-ab
+
+-agaı´
+
+eat
+
+-desiderative -stay
+
+-thus
+
+”The child wanted/s to eat part of the banana.”
+
+(lit. “Child banana piece eat is desiring.”)
+
+Aside from their literal meanings, there are important reasons for not interpreting these two words as quantiﬁers. First, their truth conditions are not equivalent to those of real quantiﬁers. In the following examples someone has just killed an anaconda and upon seeing it, utters 16a. Someone takes a piece of it, and after the purchase of the remainder the content of 16a is reafﬁrmed as 16b:
+
+16. a. ’a´ oo´ i
+
+hi
+
+pao´ hoa’ai
+
+’isoı´
+
+foreigner he
+
+anaconda
+
+skin
+
+ba´ aiso
+
+’oaboi -haı´
+
+“whole” buy
+
+-relative certainty
+
+“The foreigner will likely buy the entire ana-
+
+conda skin.”
+
+b. ’aio´
+
+hi
+
+ba´ aiso
+
+’oaob
+
+afﬁrmative he
+
+“whole”
+
+buy
+
+-a´ ha´
+
+hi
+
+’ogio´
+
+-complete certainty he
+
+bigness
+
+’oaob
+
+-a´ ha´
+
+buy
+
+-complete certainty
+
+“Yes, he bought the whole thing.”
+
+In the English equivalent, where the same context is assumed, when the statement “He will likely buy the whole anaconda skin” is followed by the removal of a piece in full view of interlocutors, it would simply be dishonest and a violation of the meaning of “whole” to say, “He bought the whole anaconda skin,” but this is not the case in Piraha˜ .
+Next, there is no truly quantiﬁcational-abstraction usage of ba´ aiso ‘whole’:
+
+17. ∗Ti
+
+’ı´si
+
+ba´ aiso
+
+’ogabagai
+
+I
+
+animal
+
+“whole” want,
+
+gı´ia´ i
+
+’ogi
+
+-hiaba
+
+piece
+
+want
+
+-negative
+
+“I prefer whole animals to portions of animals.” (lit.
+
+“I desire [a] whole animal[s], not piece[s].”)
+
+Sentences like this one cannot be uttered acceptably in the absence of a particular pair of animals or instructions about a speciﬁc animal to a speciﬁc hunter. In other words, when such sentences are used, they are describing speciﬁc experiences, not generalizing across experiences. It is of course more difﬁcult to say that something does not exist than to show that it does exist, but facts like those discussed here, in the context of my nearly three decades of regular research on Piraha˜ , lead me to the conclusion that there is no strong evidence for the existence of quantiﬁers in Piraha˜ .
+Given the lack of number distinctions, any nominal is ambiguous between singular, plural, and generic interpretation. This can lead to interpretations which seem quantiﬁcational:
+
+18. tı´
+
+’iı´bisi
+
+hi
+
+baiai
+
+-hiaba
+
+I
+
+blood-one he
+
+fear
+
+-negative
+
+“I am not afraid of beings with blood.”
+
+19. kaoa´ ı´bogi
+
+hi
+
+sabı´
+
+evil spirit
+
+he
+
+mean
+
+“Evil spirits are mean.”
+
+’a´ agaha´ is (permanent)
+
+On the surface it looks as if these were quantiﬁcational phrases. They are of course ambiguous between singular reading (e.g., “I am not afraid of that being with blood”) and plural readings (“Those evil spirits are mean”) in addition to the generic, more quantiﬁcational readings given here. Although there is no word “all” in Piraha˜ , it could be countered that perhaps it is the construction itself that produces the universal quantiﬁer reading. Superﬁcially this is appealing, but I think that it is another manifestation of the translation fallacy. Even though there is a certain “quantiﬁcational smell” here, the truth conditions are not the same for generics as for quantiﬁcational readings (see, e.g., Krifka et al. 1995). In fact, I and others who have visited the Piraha˜ have misunderstood statements like these and/or their literal translations because we do translate them into Western languages as generic, universal quantiﬁcation. These never mean that all beings with blood, for example, fail to inspire fear. That there are always exceptions is understood by the utterer and the hearer. It seems, though, that such sets conform to the postulate of cultural constraint on grammar and living because they are bounded by immediate experience (e.g., “evil spirits I know about”) and thus are not fully intensional. Rather, each member of the set has to be inspected to see whether it is an evil spirit or being with blood and, if so, whether it is like other such beings.
+In 1980, at the Piraha˜ ’s urging, my wife and I began a series of evening classes in counting and literacy. My entire family participated, with my three children (9, 6, and 3 at that time) sitting with Piraha˜ men and women and working with them. Each evening for eight months my wife would try to teach Piraha˜ men and women to count to ten in Portuguese. They told us that they wanted to learn this because they knew that they did not understand nonbarter economic relations and
+
+This content downloaded on Wed, 6 Feb 2013 08:05:39 AM All use subject to JSTOR Terms and Conditions
+
+626 F c u r r e n t a n t h ro p o l o g y Volume 46, Number 4, August–October 2005
+
+wanted to be able to tell whether they were being cheated. After eight months of daily efforts, without ever needing to call them to come for class (all meetings were started by them with much enthusiasm), the people concluded that they could not learn this material, and classes were abandoned. Not one learned to count to ten, and not one learned to add 3 ϩ 1 or even 1 ϩ 1 (if regularly responding “2” to the latter is evidence of learning)— only occasionally would some get the right answer. This seemed random to us, as indeed similar experiences were shown to be random in Gordon’s (2004) research.
+Riverboats come regularly to the Piraha˜ villages during the Brazil nut season. This contact has probably been going on for more than 200 years. Piraha˜ men collect Brazil nuts and store them around their village for trade. They know all the traders by name and consider some more honest than others (their judgments in this regard always agreeing with judgments I formed later on my own) on the basis of the quantity of items they receive for the nuts they trade. A Piraha˜ man will present whatever it is that he has to “sell,” whether Brazil nuts, raw rubber, sorva, or wood, to the owner of the riverboat. The Brazilian will ask in Portuguese, “What do you want, my son?” The Piraha˜ responds in Portuguese, “Only Father [i.e., the riverboat owner] knows.” The Piraha˜ call all riverboat owners Papai, “Father,” when directly addressing them but use Piraha˜ names for them (which are usually pejorative, e.g., “No Balls”) when discussing them.7 It is not clear that the Piraha˜ understand even most of what they are saying in such situations. None of them seems to understand that this exchange involves relative prestige. Their Portuguese is extremely poor, again, but they can function in these severely circumscribed situations. They will point at goods on the boat until the owner says that they have been paid in full.8 They will remember the items they received (but not exact quantities) and tell me and other Piraha˜ what transpired, looking for conﬁrmation that they got a good deal. There is little connection, however, between the amount they bring to trade and the amount they ask for. For example, someone can ask for an entire roll of hard tobacco in exchange for a small sack of nuts or a small piece of tobacco for a large sack. Whiskey is what the Piraha˜ men prefer to trade for, and they will take any amount in exchange for almost anything. For a large quantity (but usually after they are drunk) they will also “rent” their wives or daughters to the riverboat owner and crew (though, whatever transpires, the riverboat owner should not leave with any women). In this “trade
+7. Traders enjoy telling me how the Piraha˜ call them Papai and love them like a father, but the Piraha˜ understand it quite differently. For one thing, in Piraha˜ “Father” can be used in reference to someone one is dependent on, as in this case, where there is dependency for trade items. Ultimately, to the Piraha˜ , a foreigner with goods seems to be seen as something like a fruit tree in the forest. One needs to know the best way to get the fruit from it without hurting oneself. There is no question of pride or prestige involved. 8. This is the patron-client system common in Latin America. The trader always tells the Piraha˜ that they have overspent, with the result that they are constantly indebted to him.
+
+relationship” there is no evidence whatsoever of quantiﬁcation or counting or learning of the basis of trade values. Piraha˜ living near the Trans-Amazon Highway are far from Brazil nut groves, so they trade ﬁsh to passing truck drivers and some settlers. In these cases they tend to be much more aggressive because they know that they are feared, and if they are not satisﬁed with the exchange (and they never are in this situation, in my experience) they simply return at night to steal produce from the settler’s ﬁelds or any possessions not locked away.
+It should be underscored here that the Piraha˜ ultimately not only do not value Portuguese (or American) knowledge but oppose its coming into their lives. They ask questions about outside cultures largely for the entertainment value of the answers. If one tries to suggest (as we originally did, in a math class, for example) that there is a preferred response to a speciﬁc question, they will likely change the subject and/or show irritation. They will “write stories,” just random marks, on paper I give them and then “read” the stories back to me— telling me something random about their day, etc. They may even make marks on paper and say random Portuguese numbers while holding the paper for me to see. They do not understand at all that such symbols should be precise (for examples, when I ask them to draw a symbol twice, it is never replicated) and consider their “writing” exactly the same as the marks that I make. In literacy classes, we were never able to train Piraha˜ even to draw a straight line without serious “coaching,” and they were never able to repeat the feat in subsequent trials without more coaching (partially because they saw the entire process as fun and enjoyed the interaction but also because the concept of a “correct” way to draw was profoundly foreign).9
+Finally, I agree that Piraha˜ and English are incommensurate in several ways and that numbers and counting are one very obvious manifestation of this incommensurability, but it is not clear that linguistic determinism provides the explanation we need. The reason is that the absence of counting is simply one unexpected absence in Piraha˜ language and culture. There are various others, partially enumerated above, that, when considered together, appear to result from a higherlevel cultural constraint or constraints. The constraint(s) must be cultural, it seems to me, because, while there does not seem to be any linguistic or cognitive commonality between the items, there is a cultural value that they share, namely, the value of referring only to immediate experience. If we accept this as a strong cul-
+9. The end of the literacy classes, begun at the Piraha˜ ’s request (and separate from the math classes already described), was as follows. After many classes, the Piraha˜ (most of the village we were living in, about 30 people) read together, out loud, the word bigı´ ‘ground/ sky’. They immediately all laughed. I asked what was so funny. They answered that what they had just said sounded like their word for ‘sky’. I said that indeed it did because it was their word. They reacted by saying that if that is what we were trying to teach them, they wanted us to stop: “We don’t write our language.” The decision was based on a rejection of foreign knowledge; their motivation for attending the literacy classes turned out to be, according to them, that it was fun to be together and I made popcorn.
+
+This content downloaded on Wed, 6 Feb 2013 08:05:39 AM All use subject to JSTOR Terms and Conditions
+
+e v e r e t t Cultural Constraints on Piraha˜ Grammar F 627
+
+tural constraint in Piraha˜ , then the list of items is greatly reduced because each involves quantiﬁcation, which entails abstract generalizations that range in principle beyond immediate experience, rather than qualiﬁcation, which entails judgments about immediate experience.10
+
+forms. Three are not even words, as is shown by the following morphological divisions and glosses:11
+
+20. bii
+
+-o3pai2
+
+blood
+
+-dirty/opaque
+
+“Blood is dirty.”
+
+ai3 be/do
+
+Color Terms
+According to the entry for Piraha˜ in Kay et al. (n.d.), based on work by Steve Sheldon,
+
+21. k object “It sees.”
+
+-o3bi -see
+
+ai3 be/do
+
+Mu´ ra-Piraha˜ presents a stable stage IIIG/Bu system. All four terms for black, white, red/yellow, and green/blue are used by all speakers with clearly deﬁned ranges and very high consensus (100% maximum in all cases) in the term maps. There is also considerable uniformity in the individual naming arrays. No other terms were recorded in the naming task.
+The term for black, bio3pai2ai3 [Kay et al.’s footnote reads “The raised numerals following each syllable indicate tone”] extends strongly into brown and more weakly into purple, which may represent the vestiges of an earlier black/green/blue range for this term. The white term bio3pai2ai3 [the term meant is ko3biai3] and red/yellow term bi3i1sai3 (the latter focused in red and extended into purple) are of interest in that they show signs of coextension in yellow, both in the aggregate naming arrays and in their ranges on the term maps. While focal yellow (C9) is named bi3i1sai3 in the aggregates, both terms include it in their ranges, as seen in the term maps. Individual speakers vary in preference between these two terms for inclusion of yellow. Grue is named a3hoa3saa3ga1. Its term map indicates a focus in green, and is extended into yellow by some speakers.
+The proposed Piraha˜ color terms of Sheldon are given in table 1. In fact, these are not morphologically simple
+10. Now, of course, human cognition must be able to range beyond immediate experience, and therefore my claim is not that the Piraha˜ cannot do this. I have no basis for such a claim (though experiments to test this ability should be conducted). My claim is rather that they do not express quantiﬁcation in nearly as wide a range of lexical or syntactic devices as in other languages.
+
+22. bi3i1 blood “bloodlike”
+
+-sai3 -nominalizer
+
+23. a3hoa3s
+
+aa3ga1
+
+immature
+
+be:temporary
+
+“temporarily being immature”
+
+There are no color terms in Piraha˜ . This conclusion is not intended as an indictment of Sheldon’s claims. When one is armed with a set of categories (e.g., the Berlin and Kay [1969] model for color terms) and no other, it is understandable that one ﬁnds what one can talk about— that is, that a degree of linguistic relativity colors the research of linguists. Also, because linguistics research among the Piraha˜ is monolingual, there is no way to get translations of any precision whatsoever for color terms, number words, verb sufﬁxes, etc. All meaning has to be worked out by correlating context with utterance (in the most extreme form of Quine’s [1960] gavagai-confronting ﬁeld researcher) and by simply learning enough of the culture and language oneself to develop incipient intuitions that guide further testing and reasoning.12
+There is, however, a possible objection to the conclusion that there are no color terms in Piraha˜ . Paul Kay (personal communication) suggests that if the Piraha˜ use these phrases regularly in normal speech to describe ex-
+
+11. Sheldon analyzes Piraha˜ as having three underlying tones. I have argued elsewhere (Everett 1979) that it should be analyzed as having only two tones, and I follow this analysis throughout the paper except for this section. For these examples, taken from Sheldon’s work, I use his tones. 12. This of course means that what I say about Piraha˜ semantics is largely unreplicable unless the “replication” linguist learns to speak the language.
+
+table 1 World Color Survey Chart of Piraha˜ Color Terms
+
+Symbol
+
+Term
+
+Gloss
+
+#
+
+bio3pai2ai3
+
+black (extended)
+
+–
+
+ko3biai3
+
+white (extended)
+
+ϩ
+
+bi3i1sai3
+
+red/yellow
+
+o
+
+a3hoa3saa3ga1
+
+green/blue (green-
+
+focused)
+
+Users
+25 25 25 25
+
+Basic Color Term
+ϩ ϩ ϩ ϩ
+
+This content downloaded on Wed, 6 Feb 2013 08:05:39 AM All use subject to JSTOR Terms and Conditions
+
+628 F c u r r e n t a n t h ro p o l o g y Volume 46, Number 4, August–October 2005
+
+actly these colors and the related color “space,” then the phrases themselves count as color terms. This is a different concept of color term from the one I had in mind (namely, morphologically simple terms for colors), but even if we grant Kay’s point mine remains the same: not only are these phrases not simple color words but there is no use of color quantiﬁcation in Piraha˜ (e.g., “I like red” or “I like red things.” At the very least, this absence of morphologically simple color words and of quantiﬁcation (as in generalized quantiﬁer theory, where noun phrases may be used to denote sets of properties) using color indicates that Piraha˜ color description is a very different kind of thing from what our experience with other languages would lead us to expect.
+There have been no controlled experiments to show whether the Piraha˜ distinguish colors as do speakers of languages with color terms. However, I have asked them about different colors on many occasions, and I have not noticed any inability to offer distinct descriptive phrases for new colors. Therefore, I expect that, in contrast to the situation with numbers, the Piraha˜ would show good ability to distinguish colors under controlled circumstances. This is likely because color is different from number cognitively and culturally. But since neither color nor number terms are found in Piraha˜ , it is reasonable to ask what color terms have in common with numbers. Both are used to quantify beyond immediate, spatio-temporally bound experience. If one has a concept of “red” as opposed to immediate, nonlexicalized descriptions, one can talk about “red things” as an abstract category (e.g., “Don’t eat red things in the jungle” [good advice]). But Piraha˜ refer to plants not by generic names but by species names, and they do not talk about colors except as describing speciﬁc objects in their own experience.
+Pronouns
+Piraha˜ has the simplest pronoun inventory known. Moreover, it appears that all its pronouns were borrowed recently from a Tupi-Guarani language, either the Lingua Geral or Kawahiv (Tenharim or Parintintin) (see also Nimuendaju´ 1925). [The argument for borrowing may be found in the electronic edition of this issue on the journal’s web page.] Somehow the grammar seems to have gotten by without them,13 but even their current use shows that they do not have the full range of uses normally associated with pronouns in other languages. For example, Piraha˜ pronouns function very differently in discourse from most pronouns. In a narrative about the killing of a panther, the word for “panther” is repeated
+13. It is possible that tones were used rather than free-form pronouns, though the only use of tones currently on pronouns is to distinguish “ergative” from “absolutive” in the ﬁrst person (ti p absolutive; tı´ p ergative). One reader of this paper found it “inconceivable” that there would have been no ﬁrst-versus-secondperson distinction in the language at any point in its history. In fact, however, Wari (Everett n.d.) is a language that currently lacks any ﬁrst-versus-second-person distinction.
+
+in almost every line of the text. Only when the panther dies is it replaced completely by the “pronoun” s-/is-, which is simply the ﬁrst syllable (s- is how it comes out in rapid speech, like English “snot either” for “It is not either”) of the word ’ı´si ’animal/meat’, which is what it has become after death. This is strange in light of most work (e.g., Givon 1983) on topic continuity in discourse, and it is the common, perhaps exclusive pattern of pronoun-versus-proper-noun occurrence in Piraha˜ discourse. The Piraha˜ prefer not to use a pronoun to refer to an entity, since this is using something ambiguous or vague in place of a proper name. Pronouns are used relatively little for marking the activities of discourse participants. They are also not used as variables bound by quantiﬁers. There is, for example, no Piraha˜ equivalent to a “donkey sentence” (“Everyone who owns a donkey beats it”). This reduced role for pronouns is striking. Not only does it follow from the cultural constraint on grammar but the absence of pronouns prior to their borrowing seems likely. What “pronouns” in Piraha˜ are mainly used for is verb agreement (Everett 1987).
+In spite of my claim that variables play no active role in quantiﬁcation or the grammar of pronominals, one reader has suggested that verbs and nouns are variables because they are place-holders for large sets of objects. In fact, although this proposal might work for other languages, it does not work for Piraha˜ . First, there are only 90 verb roots in the Piraha˜ lexicon. In other words, verbs are a closed lexical class, and this means that, rather than learn them as variables, the Piraha˜ can learn them as constants, one by one. Moreover, the combination of verbs is largely constrained by culture. Further, it is unnecessary to consider nouns variables, since there is no nominal morphology and since the appearance of nouns in the syntax can be determined semantically rather than morphologically, meaning that the behavior of nouns could be determined by their individual meanings rather than their role as variables. Thus both nouns and verbs behave more like constants than variables in Piraha˜ .
+Lack of Embedding
+One more unusual feature of Piraha˜ , perhaps the strangest of all, is the absence of clear evidence for embedding. Indeed, the evidence suggests that Piraha˜ lacks embedding altogether. Let us begin by considering how the function of clausal complements is expressed in Piraha˜ without embedding. English expresses the content of verbs such as “to say,” “to think,” and “to want” as clausal complements (here the use of a subscript s labels the embedded clauses as theory-neutral): “I said that [sJohn will be here],” “I want [syou to come],” “I think [sit’s important].” In Piraha˜ the contents of such verbs, to the degree that equivalent verbs exist at all, are expressed without embedding:
+
+This content downloaded on Wed, 6 Feb 2013 08:05:39 AM All use subject to JSTOR Terms and Conditions
+
+e v e r e t t Cultural Constraints on Piraha˜ Grammar F 629
+
+24. ti ga´ i -sai
+
+ko´ ’oı´ hi kaha´ p -iı´
+
+I say -nominative name he leave -intention
+
+“I said that Ko´ ’oı´ intends to leave.” (lit. “My saying
+
+Ko´ ’oı´ intend-leaves.”)
+
+The verb “to say” (ga´ i) in Piraha˜ is always nominalized. It takes no inﬂection at all. The simplest translation of it is as a possessive noun phrase “my saying,” with the following clause interpreted as a type of comment. The “complement clause” is thus a juxtaposed clause interpreted as the content of what was said but not obviously involving embedding. Piraha˜ has no verb “to think,” using instead (as do many other Amazonian languages [see Everett 2004]) the verb “to say” to express intentional contents. Therefore “John thinks that . . .” would be expressed in Piraha˜ as “John’s saying that. . . .” English complement clauses of other types are handled similarly in Piraha˜ , by nominalizing one of the clauses:
+
+25. a. hi ob -a´ a’a´ ı´
+
+kahai kai -sai
+
+he see -attractive arrow make -nominative
+
+b. kahaı´ kai -sai
+
+hi
+
+arrow make -nominative he
+
+ob
+
+-a´ a’a´ ı´
+
+see -attractive
+
+c. ∗hi
+
+kahaı´ kai -sai
+
+he
+
+arrow make -nominative
+
+ob
+
+-a´ a’a´ ı´
+
+see attractive
+
+“He knows how to make arrows well.” (lit. “He
+
+sees attractively arrow-making.”)
+
+There are two plausible analyses for this construction. The ﬁrst is that there is embedding, with the clause/verb phrase “arrow make” nominalized and inserted in directobject position of the “matrix” verb “to see/know well.” The second is that this construction is the paratactic conjoining of the noun phrase “arrow-making” and the clause “he sees well.” The latter analysis seems to ﬁt the general grammar of Piraha˜ better. This is because as an object the phrase “arrow-making” should appear before the verb, whereas here it follows it. And, whereas normally there is optional clitic agreement available with any direct object, there is never any clitic agreement with such “object complement clauses” in Piraha˜ (Everett 1988). Further, although the order of “complement” and “matrix” clauses can be reversed, the “embedded” clause can never appear in direct-object position.
+Further evidence of the analysis is the corresponding interrogative form:
+
+26. hi go´
+
+’igı´
+
+-ai
+
+he information question associate -do/be
+
+kai -sai
+
+hi
+
+’ob
+
+-a´ a’a´ ı´
+
+make -nominative he
+
+see
+
+-attractive
+
+“What [thing/kind of] making [does he] know
+
+well?” (lit. “He what associated making sees
+
+well?”)
+
+27. ∗hi go´ ’igi -ai ’ob -a´ a’a´ ı´ kai -sai “What thing [does he] know well to make?” (lit. “What associated thing he knows well to make/ making?”)
+
+In a question about 25, the order of the clauses must be that in 26. This follows if there is no embedding, because the interrogative word must always be initial in the phrase and because the appearance of the entire clause/phrase at the front of the construction means that the question of extraction from within an embedded or other phrase does not arise. We can, indeed should, interpret 26 as the questioning of a constituent of the initial clause “arrow-making” and not of an embedded constituent of the clause “he knows x well.”
+Some readers may still ﬁnd it difﬁcult to accept the idea of analyzing nominalized clauses of the type just mentioned apart from embedding because the two are so closely associated in many languages (see Koptjevskaja Tamm 1993). Nominalization is, however, neither a necessary nor a sufﬁcient condition for embedding, and an embedding analysis fails to account for multiple embeddings (why can’t multiple nominalized or other types of subordination occur in any sentence?) and for the extraction and word-order facts. At the same time, a close semantic unit is formed by certain juxtaposed clauses, and the nominalization is accounted for by the principle of immediacy of information encoding, which is stated in terms of utterances rather than clauses.
+Other “subordinate” clauses similarly show no evidence of embedding:
+
+28. ti
+
+kobai -baı´
+
+’a´ oo´ i
+
+hi
+
+I
+
+see
+
+-intensive foreigner he
+
+’ı´kao -ap
+
+-a´ p
+
+-iig
+
+-a´
+
+mouth -pull -up
+
+-continuative -declarative
+
+“I really watch[ed] the foreigner ﬁshing [with line
+
+and hook].” (lit. “I watch the foreigner intently.
+
+He was pulling [ﬁsh] out by [their] mouths.”)
+
+29. ∗hi go´
+
+’igı´
+
+he information question
+
+associate
+
+-ai hi
+
+’ı´kaoapa´ piiga´ hi
+
+-do/be he
+
+ﬁsh
+
+he
+
+kobai -baı´
+
+’a´ oo´ i
+
+see -intensive
+
+foreigner
+
+“What did he pull out by the mouth you watched
+
+intently?”
+
+30. hi
+
+go´
+
+’igı´
+
+he
+
+information question
+
+associate
+
+-ai
+
+hi
+
+kobai
+
+-baı´
+
+-do/be
+
+he
+
+see
+
+-intensive
+
+’a´ oo´ i
+
+foreigner
+
+“What did he see the foreigner do?/Why did he
+
+watch the foreigner?”
+
+Example 29 is ungrammatical because there is no relation that can be understood to obtain between the two clauses. It is asking a question about one clause and mak-
+
+This content downloaded on Wed, 6 Feb 2013 08:05:39 AM All use subject to JSTOR Terms and Conditions
+
+630 F c u r r e n t a n t h ro p o l o g y Volume 46, Number 4, August–October 2005
+
+ing a statement with the other. Since they are not in the same sentence, however, they just come across as unrelated, at least to judge by the looks of incomprehension and lack of interpretation that native speakers face in such elicited constructions. In contrast, 30 is acceptable because it is simply asking about what someone watched; the answer could be a clause or a noun phrase.
+Now consider how temporal clauses are handled:
+
+31. kohoai -kaba´ ob -a´ o
+
+ti
+
+eat
+
+-ﬁnish
+
+-temporal
+
+I
+
+gı´
+
+’ahoai
+
+-soog
+
+you
+
+speak
+
+-desiderative
+
+-abagaı´
+
+-frustrated initiation
+
+“When [I] ﬁnish eating, I want to speak to you.”
+
+(lit. “When eating ﬁnishes, I speak-almost want.”)
+
+There is almost always a detectable pause between the temporal clause and the “main clause.” Such clauses may look embedded from the English translation, but I see no evidence for such an analysis. Perhaps a better translation would be “I ﬁnish eating, I speak to you.” The similar conditional that follows uses nominalization:
+
+32. pii
+
+-boi
+
+-sai
+
+ti
+
+water vertically move -nominalizer I
+
+kahapi -hiab
+
+-a
+
+go
+
+-negative
+
+-declarative
+
+“If it rains, I will not go.” (lit. “Raining I go not.”)
+
+Both 31 and 32 are best analyzed as simple juxtaposition of two clauses. There is a clear semantic dependency, but this does not necessarily translate into a syntactic relation. The only ways I know to ask questions about them are “When will you want to speak to me?” and “Why won’t you go?”
+Piraha˜ has no relative clauses proper. However, it does have a co-relative clause (Everett 1986, 1992):
+
+33. ti I hi he
+
+bao´ sa cloth goo´ what
+
+-a´ pisı´ -arm bag sell
+
+’ogabagaı´. want. -a´ oba -completive
+
+Chico name
+
+Here there is a full sentence pause between the verb ’ogabagaı´ ‘want’ and the next clause. The two sentences are connected contextually, but this is not embedding. Each is an independent, well-formed sentence. The second sentence, on its own, would be a question, “What did Chico sell?” In this context, however, it is the corelative.
+Finally, “want”-like embeddings are handled in Piraha˜ by a desiderative sufﬁx on the verb, with no evidence of biclausality:
+
+34. ’ipo´ ihiı´ ’ı´ gı´ kobai -soog
+
+woman she you see
+
+-want
+
+-abagaı´
+
+-frustrated initiation
+
+“The woman wants to see you.”
+
+Let us now consider two other potential cases of embedding in Piraha˜ , possession and modiﬁcation:
+
+35. ∗ko´ ’oı´
+
+hoagı´
+
+kai
+
+ga´ ihiı´ ’ı´ga
+
+name
+
+son
+
+daughter that
+
+true
+
+“That is Ko´ ’oı´ ‘s son’s daughter.”
+
+36. ∗kao´ oı´ ’igı´ai hoagi kai
+
+ga´ ihiı´ ’ı´ga
+
+who
+
+son
+
+daughter that true
+
+“Whose son’s daughter is that?”
+
+Neither the declarative (35) nor the interrogative (36) form of recursive possession is acceptable. No more than one possessor per noun phrase is ever allowed. Removing one of the possessors in either sentence makes it grammatical. A cultural observation here is, I believe, important for understanding this restriction. Every Piraha˜ knows every other Piraha˜ , and they add the knowledge of newborns very quickly. Therefore one level of possessor is all that is ever needed. If further identiﬁcation is called for, say, in the case of a foreign family, then an extra phrase is juxtaposed:
+
+37. ’ı´saabi
+
+kai
+
+ga´ ihiı´
+
+’ı´ga
+
+name
+
+daughter that
+
+true
+
+ko´ ’oı´
+
+hoagı´
+
+’aisigı´
+
+-aı´
+
+name
+
+son
+
+the same -be
+
+“That is ’ı´saabi ‘s daughter. Ko´ ’oı´’s son being the
+
+same.”
+
+Here the juxtaposition makes it clear that ’ı´saabi is Ko´ ’oı´’s son.
+Very rarely, one encounters multiple modiﬁcation in natural discourse and elicited material. A typical example is as follows:
+
+38. gahio´ o
+
+’ogiı´
+
+biı´sai
+
+hoı´
+
+airplane
+
+big
+
+red
+
+two
+
+-hio
+
+’ao
+
+-’aaga´
+
+there
+
+possess
+
+-be
+
+“There are two big red airplanes.”
+
+There seems no need to analyze this as embedding, however. It is merely, as in previous cases, juxtaposition, stringing out a small number of adjectives in a speciﬁed order (e.g., size ϩ color ϩ quantity). There is no ambiguous modiﬁcation resulting from multiple “attachment” possibilities as in English “old men and women.” The ambiguity here is usually understood as the result of attaching “old” to either the noun phrase containing “men and women” or the lower noun phrase containing only “men.” Since there is no way for “old” to be attached uniquely to “women,” the third ambiguity (in which only women would be old) is ruled out. However, Piraha˜ never allows such conjunction of noun phrases with modiﬁers. Rather, the equivalent in Piraha˜ would be:
+
+39. ’ogi big -’aaga´ -be
+
+-a´ ag -be ’igihı´ man
+
+-ao´ -thus ’ipo´ ihiı´ woman
+
+toı´o old pı´aii also
+
+This content downloaded on Wed, 6 Feb 2013 08:05:39 AM All use subject to JSTOR Terms and Conditions
+
+e v e r e t t Cultural Constraints on Piraha˜ Grammar F 631
+
+“Everyone (lit. “people bigness”) is old. Men and women too.”
+
+Once again, 39 involves juxtaposition. This is further supported by the ability to repeat the modiﬁer “old” in the following construction:
+
+40. ’ogia´ agao´ toı´o’aaga´ ’igihı´
+
+toı´o’aaga´
+
+big
+
+old
+
+man
+
+old
+
+’ipo´ ihiı´
+
+toı´o’aaga´ pı´aii
+
+woman
+
+old
+
+also
+
+“Everyone (lit. “people bigness”) is old. Men and
+
+women too.”
+
+There is likewise no evidence for embedding in Piraha˜ morphological structure. Although the complexity of the verb is very high, with perhaps more than 16 sufﬁx classes, there is nothing about its semantic composition, stress, or morphological attachment that requires recourse to the notion of embedding to account for Piraha˜ morphology. The system, however complex, can be accounted for by a “position class” analysis along the lines of Everett (1986), in which individual morphemes occupy linearly arranged, semantically distinguished slots.
+If indeed there is no embedding in Piraha˜ , how might this lack be related to cultural constraint? Embedding increases information ﬂow beyond the threshold of the principle of immediacy of information encoding. Although Piraha˜ most certainly has the communicative resources to express clauses that in other languages are embedded, there is no convincing evidence that Piraha˜ in fact has embedding, and, as we have seen, positing it would complicate our understanding of question formation. This would follow from the principle of immediacy of information encoding, which I take to be the iconic principle constraining the grammar’s conformity to cultural constraint.14
+
+Tense
+I have argued elsewhere (1993) that Piraha˜ has no perfect tense and have provided a means for accounting for this fact formally within the neo-Reichenbachian tense model of Hornstein (1990). This is an argument about the semantics of Piraha˜ tense, not merely the morphosyntax of tense representation. In other words, the claim is that there is no way to get a perfect tense meaning in Piraha˜ , not merely an absence of a formal marker for it. Piraha˜ has two tenselike morphemes, -a ‘remote’ and -i ‘proximate’. These are used for either past or present events and serve primarily to mark whether an event is in the immediate control or experience of the speaker (“proximate”) or not (“remote”).
+In fact, Piraha˜ has very few words for time. The complete list is as follows: ’ahoapio´ ‘another day’ (lit. ‘other at ﬁre’), pi’ı´ ‘now’, so’o´ a´ ‘already’ (lit. ‘time-wear’), hoa ‘day’ (lit. ‘ﬁre’), ahoa´ i ‘night’ (lit. ‘be at ﬁre’), piia´ iso ‘low
+14. Peter Culicover (personal communication) suggests that Piraha˜ ’s lack of embedding is a kind of linguistic “fossil.”
+
+water’ (lit. ‘water skinny temporal’), piibigaı´so ‘high water’ (lit. ‘water thick temporal’), kahai’aı´i ’ogiı´so ‘full moon’ (lit. ‘moon big temporal’), hiso´ ‘during the day’ (lit. ‘in sun’), hiso´ ogia´ i ‘noon’ (lit. ‘in sun big be’), hibigı´baga´ ’a´ iso ‘sunset/sunrise’ (lit. ‘he touch comes be temporal’), ’ahoakohoaihio ‘early morning, before sunrise’ (lit. ‘at ﬁre inside eat go’).
+Absolute tenses are deﬁned relative to the moment of speech, which is represented as “S” in the HornsteinReichenbach system (see also Comrie 1985). The event or state itself is shown as “E.” Relative tenses are represented by the linear arrangment of S and E with respect to the point of R(eference) for E. Thus, for example, the tenses of English can be represented in this system as follows (where a comma p simultaneous and __ p precedes [see Hornstein 1990 and Everett 1993 for details]): S, R, E p present tense; S__R, E p future tense; E, R__S p past tense; E__R__S p past perfect; S__E__R p future perfect; E__S, R p present perfect.
+To account for Piraha˜ ’s lack of the perfect, I have suggested that [R] is parameterized, with [-R] as the default value. Children would set it at [ϩR] just in case they heard a perfect-tense utterance or, perhaps, a perfecttense interpretation. I have also pointed to the connection between the absence of an R-point in the semantics of Piraha˜ tense system and the lack of concern with quantifying time in Piraha˜ culture. I have argued that formal grammars require that any noncoincidental connection in this regard be Whorﬁan; language must inﬂuence culture, since otherwise children would have to learn their culture in order to learn their grammar, an order of acquisition proscribed in Chomskyan models. However, in the context of the present exploration of culture-grammar interactions in Piraha˜ , it is possible to situate the semantics of Piraha˜ tense more perspicaciously by seeing the absence of precise temporal reference and relative tenses as one further example of the cultural constraint on grammar and living. This would follow because precise temporal reference and relative tenses quantify and make reference to events outside of immediate experience and cannot, as can all Piraha˜ time words, be binarily classiﬁed as “in experience” and “out of experience.”
+When the Piraha˜ hear a boat coming, they will line up on the riverbank and wait for it to come into sight. They will say, “The boat ’ibipı´o (‘arrived’).” They will watch a boat disappear around the corner and say, “The boat ’ibipı´o (‘left’).” When a match is lit, they say that the match ’ibipı´ai (where -ai is the verb form and -o the incorporated form).15 They will repeat the same expression when the match goes out. They especially use this for a ﬂickering match and love to watch one, saying “Keep on ’ibipı´ai.” After discussions and checking of many examples of this, it became clearer that the Piraha˜
+15. Verbal events are also culturally restricted in Piraha˜ , but verbal “incorporation” (the stringing together of several verb roots [Everett 1986: section 18] to form another verb), is quite common. For “arrival” and some other events, there are always multiple verb roots incorporated. For “match ﬂicker,” however, there is only the single verb ’ibipiai.
+
+This content downloaded on Wed, 6 Feb 2013 08:05:39 AM All use subject to JSTOR Terms and Conditions
+
+632 F c u r r e n t a n t h ro p o l o g y Volume 46, Number 4, August–October 2005
+
+are talking about liminality—situations in which an item goes in and out of the boundaries of their experience. This concept is found throughout Piraha˜ culture. Piraha˜ ’s excitement at seeing a canoe go around a river bend is hard to describe; they see this almost as traveling into another dimension. It is interesting, in light of the postulated cultural constraint on grammar, that there is an important Piraha˜ term and cultural value for crossing the border between experience and nonexperience.
+Kinship Terms
+Piraha˜ ’s kinship system may be the simplest yet recorded. An exhaustive list of the kinship terms is the following (unless speciﬁcally mentioned, there are no gender distinctions): ’ahaigı´ ‘ego’s generation’, tioba´ hai ‘any generation below ego’, baı´’i ‘any generation above ego/someone with power over ego,’16 ’ogiı´ ‘any generation above ego/someone with power over ego’ (lit. ‘big’), ’ibı´gaı´ ‘usually two generations above ego or more but overlaps with baı´’i and ’igiı´’ (lit. ‘to be thick’), hoagı´ ‘biological son’ (lit. ‘come next to’), hoı´sai ‘biological son’ (lit. ‘going one’),17 kaai ‘biological daughter’ (a house is a kaaiı´i ‘daughter thing’), piihı´ ‘child of at least one dead parent/favorite child’.18
+Is it a coincidence—another one—that this kinship system is found in Piraha˜ , given the other facts we have been discussing? Or could it be of a piece with all that we have seen, another effect of the cultural constraint on grammar and living? The latter seems the most economical and satisfying explanation. Kinship terms refer only to known relatives; one never refers to relatives who died before one was born. During one four-week period in 1995 I worked exclusively on trying to build a genealogy for an entire village. I could not ﬁnd anyone who could give the names of his/her great-grandparents, and very few could remember the names of all four grandparents. Most could only remember (or would only give) the names of one or two grandparents. I was able to include names back four generations for my main informant, but that was only because there were two unusually old Piraha˜ (both women) in the village who could remember two grandparents each. The simple fact is that the kinship terms conform exactly to the principle of immediacy of experience.
+Since kinship and marriage constraints are closely related in most societies, it is worth mentioning the effects of this simple kinship system on Piraha˜ marriage relations. Not surprisingly, in light of this system, mar-
+16. Whether this is related to the use of Portuguese Papai ‘father’ in dealing with traders I do not know, though I suspect that it is. I am not sure which came ﬁrst. 17. These two terms for “son” appear to be synonyms; I have never been able to discover any difference between them in texts, direct questions, indirect observations, etc., and they seem to be used with equal frequency. 18. It seems to have both of these meanings simultaneously, though different people use it in different ways, some favoring the former, some the latter.
+
+riage is relatively unconstrained. Piraha˜ can marry close relatives. I have seen adults I knew to share a biological parent marry and have been told that this is not rare, but I have never seen a marriage between full biological siblings.
+This raises the additional question of how the Piraha˜ distinguish between just anyone at their generation and biological siblings, which they seem to do pretty well despite the fact that children not uncommonly switch families and are occasionally (especially orphans) raised by the village. The nominal sufﬁx gı´i ‘real’ or ‘true’ can be added to most nouns, including kinship terms: ’a´ oo´ i ‘foreigner’, ’a´ oo´ i-gı´i ‘Brazilian’ (lit. ‘real foreigner’—the ones they knew ﬁrst), ’ahaigı´ ‘same generation’, ’ahaigı´–gı´i ‘biological sibling’ (lit. ‘real sibling’).
+Absence of Creation Myths and Fiction
+The Piraha˜ do not create ﬁction, and they have no creation stories or myths. This contrasts with information that we have on the related language, Mura. Nimuendaju´ (1948) is not the only one to have observed that the Mura people have a rich set of texts about the past. All of this ﬁeld research, however, was carried out in Portuguese and is therefore difﬁcult to evaluate. If we had texts in the Mura language, it would be easier in principle to verify (e.g., by grammatical and topical devices) the authenticity of the texts or whether they might have in fact been borrowed. In any case, it seems unavoidable that Mura, a dialect closely related to Piraha˜ , had texts about the distant past, perhaps fables, some legends, and other ﬁction (and, in Portuguese, according to some anthropologists [see Oliveira 1978], it still has such texts).19
+I have attempted to discuss cosmology, the origin of the universe, etc., with the Piraha˜ innumerable times. They themselves initiate many of these discussions, so there is no question of any reluctance to discuss the “true story” with me as an outsider. In the early days, before I spoke Piraha˜ , I would occasionally try to use Portuguese to elicit the information. Often this or that
+19. The quality of anthropological research on Piraha˜ varies. Several anthropologists (see esp. Gonc¸ alves 1990, 2001; Oliveira 1978; Oliveira and Rodrigues 1977; Roppa 1977) have done a reasonable job of describing aspects of Piraha˜ culture, but a previous description of the kinship system (Oliveira 1978), weakened by the researcher’s inability to speak the language, contains confusions between cliticized possessive forms of a particular kinship term and distinct kinship terms. The longer-term studies of Piraha˜ cosmology and naming by Gonc¸ alves are the most reliable ever done by an anthropologist, but one simply cannot come to the best conclusions about Piraha˜ meanings working through the medium of the very poor Portuguese of Piraha˜ informants. Gonc¸ alves based much of his research on work with two Piraha˜ informants whose Portuguese was somewhat better than that of most Piraha˜ because they had been taken away from the village as boys and lived for several years with Brazilians along the Madeira River until they were discovered and restored to their people, but even their Portuguese was insufﬁcient for getting at the meanings of terms as they emerge both from the culture and especially from the very complex morphological structure of Piraha˜ .
+
+This content downloaded on Wed, 6 Feb 2013 08:05:39 AM All use subject to JSTOR Terms and Conditions
+
+e v e r e t t Cultural Constraints on Piraha˜ Grammar F 633
+
+Piraha˜ informant would tell me (in Portuguese) that they had stories like this and would even tell me bits and pieces, which I thought were similar to Christian stories or Tupi legends common in that part of Brazil (e.g., the widespread beliefs about river porpoises and dolphins, especially the pink dolphin, emerging from the rivers at night to take on human form and go in search of women to marry, rape, and so on). Indeed, now that I speak Piraha˜ , I know that even among themselves the Piraha˜ repeat and embellish these stories. But there are no indigenous creation myths or ﬁction any longer, if indeed they ever existed, and there is not a single story about the ancient past told by any Piraha˜ other than bits and pieces of Tupi and Portuguese stories (not always acknowledged as such). When pressed about creation, for example, Piraha˜ say simply, “Everything is the same,” meaning that nothing changes, nothing was created. Their talking about the stories of other cultures can be best understood, it seems to me, as “mentioning” texts that they have experienced qua texts rather than “using” them to discuss or explain anything in the world around them or the ancient world. They are like oral-literary theorists in their telling and discussion of the texts of others. Nimuendaju´ (1948), though easily collecting myths from the Mura, was unable to collect them from the Piraha˜ . No one ever refers to a mythical ﬁgure, story, or concept in normal conversation, and when questioned directly about creation Piraha˜ claim that the way things are is the way they have always been.
+Discussion
+We have seen that the gaps observed in Piraha˜ —the absence of number, numerals, or a concept of counting and of terms for quantiﬁcation, the absence of color terms and embedding, the extreme simplicity of the pronoun inventory, the lack of a perfect tense, the simplicity of the kinship system, the absence of creation myths, the lack of individual or collective memory of more than two generations past, and the absence of drawing except for extremely crude stick ﬁgures representing the spirit world claimed to have been directly experienced follow from the postulate of the cultural value of immediacy of experience that constrains grammar and living. Piraha˜ thus provides striking evidence for the inﬂuence of culture on major grammatical structures, contradicting Newmeyer’s (2002:361) assertion (citing “virtually all linguists today”), that “there is no hope of correlating a language’s gross grammatical properties with sociocultural facts about its speakers.” If I am correct, Piraha˜ shows that gross grammatical properties are not only correlated with sociocultural facts but may be determined by them.
+What does this mean for the nature of human language or, at least, for Piraha˜ as a normal human language? It is useful in this regard to review the well-known design features of human language proposed by Hockett (1960): vocal-auditory channel, broadcast transmission and di-
+
+rectional reception, rapid fading, interchangeability, total feedback, specialization, semanticity, arbitrariness, discreteness, displacement, productivity, duality of patterning, traditional transmission. The three features that stand out in particular here are interchangeability, displacement, and productivity.
+To the degree that Piraha˜ lacks a concept of counting, it is incommensurate in that semantic or cognitive domain with languages that have such a concept. I suspect that there are other domains of Piraha˜ in which interchangeability is also absent, but in the domain of counting the lack of interchangeability can be considered established (see Gordon 2004). I submit that the evidence is sufﬁcient in this case to conclude that this design feature is not uniformly inviolable.
+With regard to displacement, I believe that the facts above show that it is severely restricted in Piraha˜ as a cultural principle. Piraha˜ of course exhibits displacement in that people regularly talk about things that are absent from the context at the time of talking about them, but this is only one degree of displacement. The inability in principle to talk about things removed from personal experience (for example, abstractions of the type represented by counting, numbers, quantiﬁcation, multigenerational genealogies, complex kinship, colors, and other semantic/cultural domains discussed above) shows that displacement in Piraha˜ grammar and language is severely constrained by Piraha˜ culture.
+Productivity is also shown to be severely restricted by Piraha˜ culture, since there are things that simply cannot be talked about, for reasons of form and content, in Piraha˜ in the current state of its grammar.
+The implications of all this for the enterprise of linguistics are as follows:
+1. If culture is causally implicated in grammatical forms, then one must learn one’s culture to learn one’s grammar, but then, contra Chomsky (2002), a grammar is not simply “grown.”
+2. Linguistic ﬁeldwork should be carried out in a cultural community of speakers, because only by studying the culture and the grammar together can the linguist (or ethnologist) understand either.
+3. Studies that merely look for constructions to interact with a particular thesis by looking in an unsophisticated way at data from a variety of grammars are fundamentally untrustworthy because they are too far removed from the original situation. Grammars, especially those of little-studied languages, need an understanding of the cultural matrix from which they emerged to be properly evaluated or used in theoretical research.
+4. Particulars can be as important as universals. This is so because each culture-grammar pair could in principle produce tensions and interactions found nowhere else, each case extending our understanding of the interaction of culture and grammar.
+Now let us consider a ﬁnal unusual feature of Piraha˜ —that the Piraha˜ continue to be monolingual in Piraha˜ after more than 200 years of regular contact with Brazilians and other non-Piraha˜ . New light is shed on this question by the preceding discussion,
+
+This content downloaded on Wed, 6 Feb 2013 08:05:39 AM All use subject to JSTOR Terms and Conditions
+
+634 F c u r r e n t a n t h ro p o l o g y Volume 46, Number 4, August–October 2005
+
+conforming to many of the Piraha˜ ’s own narrative explanations of this fact. Simply, Portuguese is incommensurate with Piraha˜ in many areas and culturally incompatible, like all Western languages, in that it violates the immediacy-of-experience constraint on grammar and living in so many aspects of its structure and use. The Piraha˜ say that their heads are different. In fact, the Piraha˜ language is called ’apaitı´iso ‘a straight head’, while all other languages are called ’apaga´ iso ‘a crooked head’. Our discussion here, I believe, helps us to understand this as more than a parochial ethnocentrism. Given the connection between culture and language in Piraha˜ , to lose or change one’s language is to lose one’s identity as a Piraha˜ —hiaitı´ihı´, ‘a straight one/he is straight’.
+Conclusion
+Though Piraha˜ is an extreme case, it teaches us something about the deep loss inherent in the death of any language, even if the people survive. When Portuguese-speaking Muras visit the Piraha˜ today, the Piraha˜ do not envy them. They see them as simply second-rate, false Brazilians. The Piraha˜ say, “We are not Brazilians. We are Piraha˜ .” Without their language or their culture, they would fail to be Piraha˜ . Their language is endangered because they themselves are endangered by the ever more intrusive presence of settlers, Western diseases, alcohol, and the inexorably changing world that we live in. This beautiful language and culture, fundamentally different from anything the Western world has produced, have much to teach us about linguistic theory, about culture, about human nature, about living for each day and letting the future take care of itself, about personal fortitude, toughness, love, and many other values too numerous to mention here. And this is but one example of many other endangered languages and cultures in the Amazon and elsewhere with “riches” of a similar nature that we may never know about because of our own shortsightedness. The need is more urgent than ever for ﬁeld researchers to document these languages and for more individuals and foundations to follow the lead of the Hans Rausing Endangered Languages Document Project and donate to support research on them.
+For advocates of universal grammar the arguments here present a challenge—defending an autonomous linguistic module that can be affected in many of its core components by the culture in which it “grows.” If the form or absence of things such as recursion, sound structure, word structure, quantiﬁcation, numerals, number, and so on is tightly constrained by a speciﬁc culture, as I have argued, then the case for an autonomous, biologically determined module of language is seriously weakened.
+An alternative view that has been suggested by some readers of this paper, namely, that the gaps in Piraha˜ discussed above are a result of a lack of “conceptual structure”—in other words, that the Piraha˜ are sub-
+
+standard mentally—is easily disposed of. The source of this collective conceptual deﬁcit could only be genetics, health, or culture. Genetics can be ruled out because the Piraha˜ people (according to my own observations and Nimuendaju´ ’s have long intermarried with outsiders. In fact, they have intermarried to the extent that no well-deﬁned phenotype other than stature can be identiﬁed. Piraha˜ s also enjoy a good and varied diet of ﬁsh, game, nuts, legumes, and fruits, so there seems to be no dietary basis for any inferiority. We are left, then, with culture, and here my argument is exactly that their grammatical differences derive from cultural values. I am not, however, making a claim about Piraha˜ conceptual abilities but about their expression of certain concepts linguistically, and this is a crucial difference.
+As I mentioned in the beginning, the constraint against discussing things outside of immediate experience could have cognitive as well as grammatical effects. For example, cognition is directly implicated in the claims of Gordon (2004) regarding the lack of counting in Piraha˜ , and one could argue that cognition might be further implicated in each of the “gaps” and unusual features of Piraha˜ grammar. One might also investigate the possibility that culture affects the cognitive abilities and/or schemas available to members of Piraha˜ society. Pending future research, I am prepared to make only two very modest claims about Piraha˜ cognition. First, if I am correct that the Piraha˜ cannot count (something that will require much more experimentation to determine), then it is likely that this is due to the long-term effects of the cultural constraints discussed above. Gordon (2004) alludes to a Whorﬁan approach to the matter by claiming that Piraha˜ ’s lack of counting might derive from their lack of number words, but many societies in the Amazon and elsewhere have borrowed number words as they develop economic ties that require numerical abilities. The hypothesis of this paper, which explains both the lack of counting and the lack of borrowing, is that Piraha˜ ’s counting “deﬁciency” and their failure to borrow number words (in spite of commercial contact with Brazilians and in spite of borrowing their pronouns) are due to cultural constraints. Second, if the Piraha˜ show additional cognitive deviations from Western expectations with regard to, for example, color identiﬁcation, ability to interpret multiply embedded structures, or relative tense concepts (all matters that require careful, culturally appropriate psychological experimentation), then these would seem most economically understood in terms of cultural constraints as well. Thus what the paper has labored most intensely to establish, namely, that Piraha˜ culture constrains Piraha˜ grammar, also predicts that the effect of this constraint could eventually affect cognition as well.
+
+This content downloaded on Wed, 6 Feb 2013 08:05:39 AM All use subject to JSTOR Terms and Conditions
+
+e v e r e t t Cultural Constraints on Piraha˜ Grammar F 635
+
+Comments
+brent berlin Laboratories of Ethnobiology, Department of Anthropology, University of Georgia, Athens, GA 30602, U.S.A. (obberlin@arches.uga.edu). 21 iv 05
+Everett argues that Piraha˜ violates three of Hockett’s (1960) universal design features of language—interchangeability, displacement, and productivity. As important as this suggestion might be, the major thrust of his article is that “culture can be causally implicated in the linguistic structure of the language.” Seen in this light, his paper is the most recent contribution to a growing literature that challenges the dogma that there is no causal correlation of “a language’s gross grammatical properties with sociocultural facts about its speakers” (Newmeyer 2002:361).
+The sociocultural facts in this case are drawn from the Piraha˜ , a small indigenous society that exhibits one of the simplest cultures reported for lowland South America. This cultural simplicity, Everett proposes, is manifest linguistically by what he calls “gaps” in the Piraha˜ language—for example, absence of a concept for counting and terms for quantiﬁcation, of linguistically simple terms for color of syntactic subordination, and of perfect tense. These features, among others, are commonly marked in the languages of societies considered culturally complex in terms of standard measures such as those of Carneiro (1970), Murdock and Provost (1973), Naroll (1956), Hays (2000), and Marsh (1956). However, Everett is careful to point out that “no one should draw the conclusion from this paper that the Piraha˜ language is in any way ‘primitive,’” calling attention to its highly complex verbal morphology and prosody (features that he fails to note are also typical of the languages of small, local societies with simple cultures).
+Everett’s proposals make his paper one of the most controversial to be published in anthropological linguistics in many years, perhaps since the appearance of Swadesh’s The Origin and Diversiﬁcation of Language (1971). However, his general hypothesis has a long history that can be traced to much of the nineteenth- and twentieth-century literature on the languages of socalled primitive peoples. Le´ vy-Bruhl’s chapter on numeration in How Natives Think, for example, opens with the observation that “in a great many primitive peoples . . . the only names for numbers are one and two, and occasionally three. Beyond these, the native says ‘many, a crowd, a multitude’” (1926:181). The multiple cases he cites closely mirror the system described by Everett for Piraha˜ and conﬁrmed by Gordon (2004). Thus, Everett’s claim that “Piraha˜ is the only language known without number, numerals, or a concept of counting” is probably an overstatement. What is important is that Everett’s and Gordon’s research is sure to lead to ﬁeld studies aimed at replicating it, providing new experimental (ver-
+
+sus anecdotal) evidence on numerical cognition in preliterate societies.
+Piraha˜ is also not the only language known without embedding. Foley (1986:177) describes the absence of recursion in Iatmul (New Guinea), where verbs “do not function as embedded parts within a whole, but are linked to a fully inﬂected verb in a linear string, much like beads on a necklace. . . . Linking of clauses is at the same structural level [nonhierarchical] rather than as part within whole.” This grammatical feature has also been noted to be correlated with cultural complexity. The best-known work is Givo´ n’s proposal of “pragmatic” and “syntactic” modes of speech that reﬂect changing functions of language with cultural evolution, leading him to conclude that “certain types of languages—those which have only coordination (‘clause chaining’) but no subordination—are found only in preliterate ‘societies of intimates’” (Givo´ n 1979:306; for detailed discussion see Kay 1972; Mithun 1984; Kalma´ r 1985; Pawley 1987; Desalles 2004; Newmeyer 2002, 2004; Wray and Grace n.d.).
+A ﬁnal example of research that ﬁrmly supports Everett’s conclusions on the correlation of cultural complexity and speciﬁc properties of grammar is Perkins’s (1992) important work on deixis. In a wide-ranging crosslinguistic study, Perkins demonstrates conclusively that languages spoken in simpler societies commonly mark deictic distinctions by complex internal grammatical processes while languages spoken by more complex societies mark deictic distinctions syntactically.
+The concrete speciﬁcity of obligatory deictic distinctions is also a distinguishing characteristic of the grammars of the languages of nonliterate societies. Examples are seen in the Piraha˜ evidentials for speciﬁc knowledge -hı´ai ‘hearsay’, -xa´ agaua´ ‘observed’, -sibiga ‘deduced’, -a´ ti ‘uncertain’, -haı´ ‘relatively certain’, -ha´ ‘certain’ (Everett 1986) and in Wari spatial demonstratives cwa’ ‘this: m/f’, ca’ ‘this:n’, ma’ ‘that:prox:hearer’, cwain ‘that:m/ f:distal’, cain ‘that:n:distal’ (Everett and Kern 1997, Everett n.d.).
+Everett’s paper will stimulate ﬁeldwork on littleknown languages spoken by societies with simple cultures. It will serve as a catalyst for new research that will contribute to nonuniformitarianist approaches of language evolution (see Newmeyer 2002, 2004; Christiansen and Kirby 2003; Hurford, Studdert-Kennedy, and Knight 1998; Knight, Studdert-Kennedy, and Hurford 2000; Wray 2002; Carstairs-McCarthy 1999) Perhaps it will also lead those engaged in investigations of the linguistic relativity-determinism hypothesis to add an evolutionary dimension to their efforts at demonstrating the constraints of culture on the grammatical properties of language. As Hymes has stated, “Only the renewal . . . of an evolutionary perspective can enable linguistic theory to connect languages and lives in a way that satisﬁes the concerns among linguists for relevance of their intellectual work and that satisﬁes the needs of mankind” (1971:v–vi).
+
+This content downloaded on Wed, 6 Feb 2013 08:05:39 AM All use subject to JSTOR Terms and Conditions
+
+636 F c u r r e n t a n t h ro p o l o g y Volume 46, Number 4, August–October 2005
+
+m a r c o a n t o n i o g o n c¸ a l v e s Programa de Po´ s-Graduac¸ a˜ o em Sociologia e Antropologia, Universidade Federal de Rio de Janeiro, Largo do Sa˜ o Francisco de Paula, 1, sala 420, Rio de Janeiro, Brazil (marcoantonio@ifcs.ufrj.br). 25 iv 05
+Pursuing the issues of “cultural constraint,” “universals,” and “absences” would draw attention away from what I take to be the central question in Everett’s article, that of the role of experience in the construction of grammar and its possible transpositions to the Amazonian cultural and cosmological context. I shall seek to engage with this question.
+Seeger (1981:21), inspired by Le´ vi-Strauss’s Mythologiques (especially 1964:chap. 1), identiﬁed the basis of an Amazonian cosmology as follows: “A cosmology is expressed in more than the abstract thought of idle minds; material things and human relations are also expressions of principles that may be expressed elsewhere as abstract thoughts.” Viveiros de Castro (1986:252, 253; 1992) also calls attention to a possible conceptualization of cosmology speciﬁc to the Amazon, emphasizing that “cosmology” does not necessarily imply a balanced and harmonious system saturated with meaning. Therefore, the idea of “absolute postulates” that would engender ﬁelds of perception and modes of acting in and conceptualizing the world or that presuppose existence without experience would not be applicable to Amazonian culture and cosmology. Overing (1996), in translating the concept of “performative” to the Amazonian universe, proposes the term “generative” to accentuate the importance of experience for those ontologies, given that it is the appropriate act that generates relations. This is a particular mode of constructing social relations and ways of thinking about the world that is based on a speciﬁc capacity—always personalized, that is, derived from experience—to produce culturally acceptable things. Basso (1995:149) pointed out that the importance of stories for the Kalapalo consisted not in their representing collectively accepted images that animate social life but, on the contrary, in their describing the experiences of individuals exploring alternatives for their lives. Even in narratives that seem ﬁxed, such as myths and songs, one can discern an important process of individualization that accentuates experience as the basis of this perception, frequently reﬂected in the ﬁrst-person telling of the narrative. Other writings, such as those of Oakdale (2002: 165–66) and Lagrou (1998), demonstrate that for the Kayabi and the Cashinahua understanding of the meaning of songs depends upon a contextualized interpretation of the metaphors used in them. Urban (1989:40) points out that for the Xavante the ﬁrst-person narratives of myths produce a trancelike state in which the narrator begins to experience the narrative in an individualized way. My research on the Piraha˜ highlights the importance of experience in the way that the Piraha˜ represent the world. My book Unﬁnished World: Action and Creation in an Amazonian Cosmology seeks to demonstrate that the world is constituted through action and creation, depending structurally upon experience for its construc-
+
+tion. For the Piraha˜ , experience “is fundamental to constituting a perception of the cosmos because it is that which describes, links words and objects, observations and their explanations, thought and act. Within this conception, to gain the status of an organized discourse the cosmos depends upon someone who lives it, who experiences it” (Gonc¸ alves 2001:32). The importance of experience in the constitution of Amazonian “culture” was summarized very well by Gow (1991:151): “I take literally what native people say about distant ascendant kin, which is that they do not know anything about them because they never saw them. This is noted by numerous other ethnographers of Native Amazonian culture, but usually thought to show the ‘shallow time frame’ of these societies. . . . The shallow time frame of these societies is not a product of their failure to accumulate information in deep genealogies, but rather a result of their stress on personal experience in epistemology.” If the Piraha˜ are not a cultural exception within the Amazonian context, they most likely are not a linguistic exception either. It is up to Amazonian linguists to engage with Everett’s provocative argument and to rethink the grammar of Amazonian languages in terms of the value that experience assumes in its deﬁnition.
+paul kay International Computer Science Institute, 1947 Center St., Berkeley, CA 94704, U.S.A. (kay@cogsci.berkeley. edu). 2 v 05
+Despite the very broad interest of this paper, I must restrict my comments to a single aspect, color terminology. I will suggest (1) that although not all languages have a set of color terms that jointly name all the colors (Lyons 1995, Kay and Mafﬁ 1999, Levinson 2000), given the Piraha˜ concern with concrete, immediate experience we might expect Piraha˜ to do so and (2) that Piraha˜ may. Thus, although I ﬁnd reason to doubt Everett’s conclusion that Piraha˜ has no color terms, I believe that their actual presence would support his broader claims regarding Piraha˜ predilection for immediate experience.
+1. Experience of color is about as direct as experience gets. I refer here not to reiﬁed color concepts such as that ﬁguring in a sentence like “Red is exciting” but to directly perceived color sensation, as expressed in a sentence like “I want the red apple.” Everett (personal communication) states that Piraha˜ color expressions are used in the latter way and not the former—that is, that they are used as modiﬁers or predicates but not as substantives. Hence, I claim, Piraha˜ color expressions convey immediate sensations, not abstract concepts. Linguistically, color terms exemplify a rare, arguably unique lexical ﬁeld in that its distinctions are directly traceable to complex peripheral neural structures—in the retina. Human color vision is probably shared throughout the catarrhine primates (De Valois et al. 1974, Sandell, Gross, and Bornstein 1979), and it is generally held that the trichromatic system of the catarrhines coevolved with red or orange ripe fruit (Mollon 1989, Regan et al. 2001).
+
+This content downloaded on Wed, 6 Feb 2013 08:05:39 AM All use subject to JSTOR Terms and Conditions
+
+e v e r e t t Cultural Constraints on Piraha˜ Grammar F 637
+
+Humans’ immediate experience of color is in all likelihood the same as that of apes and Old World monkeys. Color sensations would appear to qualify as exemplifying “direct, concrete experience” if anything does.
+2. Everett’s conclusion of “no color words” is based in part on the formal complexity of the Piraha˜ color expressions and in part on his impression that Piraha˜ color naming is highly variable. With regard to syntactic complexity, an example is a3hoa3s aa3ga1, literally ‘immature be.temporary’, which the World Color Survey ﬁeld linguist Stephen Sheldon found to be a widely shared term meaning “green-or-blue with a focus in green.” It is fairly common in the world’s languages for a word meaning “green” (or “green-or-blue”) to be closely related to a word meaning “immature” or “unripe” (for example, English and all the Celtic languages), but this pattern is not universal. One cannot predict that an expression meaning “immature” will also mean “green” or “grue.” Everett writes a3hoa3s aa3ga1 as two words; Sheldon writes it without a space, indicating that he sees it as a single word like forget-me-not, jack-in-the- pulpit, or burnt sienna. The ﬁrst two examples are English plant terms and the third is an English color term, their internal syntactic complexity (and the vagaries of orthography) notwithstanding.
+With regard to possible variability of Piraha˜ color expressions, Everett cites “interspeaker variation in naming colors” in partial support for his view that the color expressions in question are “fully compositional phrases” (personal communication). Given the long and intimate experience of Dan and Keren Everett with every aspect of Piraha˜ life and language, this opinion merits respect. At the same time, it runs directly counter to the systematic work of Sheldon in exposing 25 Piraha˜ speakers to 330 colored stimuli for naming in a ﬁxed random order and then eliciting their best-example judgments from a palette showing all the colors at once. Sheldon’s results show strong consensus on the roster of Piraha˜ color names and equally strong consensus on the speciﬁc ranges of colors they name and on their judgments of best examples, although he notes that “there was discussion [during color-naming sessions] among everyone . . . even though I asked them to do it individually with me” (personal communication).
+In deciding whether the Piraha˜ color expressions are proper color terms, the issues are just two: (A) Are the color meanings consensual and applicable to unfamiliar objects that exhibit the color property (as well as familiar objects)? (B) Are the color meanings not predictable from the meanings of the words or morphemes that make up the expressions and the rules of the language? If both answers are yes, then these expressions are color terms. The results of Sheldon’s investigation apparently yield a yes answer to question A. Everett plans to repeat Sheldon’s ﬁeld experiment to see whether the consensual result can be replicated (personal communication). With regard to question B, it is clear from the analytical glosses that Everett gives to the four Piraha˜ color expressions that the color meanings of these expressions do not follow from their compositional meanings: “temporarily
+
+being immature” doesn’t mean “green-or-blue,” although ﬁnding a word meaning “green or blue” that is based on an expression that originally means “immature” or “unripe” is not uncommon.
+Piraha˜ has color terms if the Sheldon results can be replicated under better-controlled conditions. Presence of true color terms would not be surprising in view of the Piraha˜ preference for linguistic encoding only of direct, concrete experience.
+stephen c. levinson Max-Planck-Institut fu¨ r Psycholinguistik, Postbus 310, 6500 AH Nijmegen, The Netherlands (stephen. levinson@mpi.nl). 22 iv 05
+There is a growing interest in human diversity throughout the human sciences, but unequivocally establishing the facts is a difﬁcult and delicate business. Everett has neither established the facts nor handled the rhetorical delicacies that would be essential to establishing a bridgehead for studies of linguistic and cultural diversity among the universalizing sciences. In a nutshell, here are the main criticisms:
+1. The central proposition, roughly “Piraha˜ live in the present,” is too vague to be supported by the ad hoc collection of cultural features adduced. Nor does the argumentation remotely approach the standard of the classic anthropology on cultural coherence (e.g., Benedict 1934, Geertz 1960), let alone those set in modern linguistic discussions (e.g., Enﬁeld 2002).
+2. Most of the features listed are not sufﬁciently well established to satisfy the sceptics who should be the targets of this article. One simply has to take or leave the various assertions, admitted to be “largely unreplicable,” even though many of them have the weak logical character of statements of non-occurrence. Further, Everett casts doubt on the ﬁeldworking capacities of the only other researchers who might have been marshalled in defence of his claims. If something can be known, it can be shown, and the duty of the researcher is to document it.
+3. It is far from clear that Piraha˜ is the only language without a counting system (cf. Aboriginal languages of Australia [Dixon 2002:67]) or the only language without colour terms (cf. the controversies with, e.g., Saunders and van Brackel 1997, Levinson 2000) or the only language without embedding (cf. again Australian languages [Hale 1976, Dixon 1995, Austin and Bresnan 1996] and Nicaraguan sign language [Pyers n.d.]). That cultures may systematically lack genealogical depth or visual art has also long been noted (Goody 1993). What is meant to count as further attestation only reveals further reason for doubt: for example, earlier-documented colour terms among the Piraha˜ are dismissed because the expressions are compositional (e.g., “bloodlike”), but the current work on colour terms does not treat this as exceptional (see, e.g., Kay and Mafﬁ 1999). The danger is that by oversimplifying and claiming the uniqueness of individ-
+
+This content downloaded on Wed, 6 Feb 2013 08:05:39 AM All use subject to JSTOR Terms and Conditions
+
+638 F c u r r e n t a n t h ro p o l o g y Volume 46, Number 4, August–October 2005
+
+ual Piraha˜ cultural features the value of genuine observations about a unique complex of features will be lost.
+4. Blatant inconsistencies likewise do nothing to reassure the reader. For example, we are told that the Piraha˜ are monolingual, but we ﬁnd that “often this or that Piraha˜ informant would tell me (in Portuguese) that . . .” and that Piraha˜ “have long intermarried with outsiders,” suggesting sustained bilingualism. Elsewhere it is stated that there are bilingual informants, although their Portuguese is poor.
+5. Having made the Piraha˜ sound like the mindless bearers of an almost subhumanly simple culture, Everett ends with a paean to “this beautiful language and culture” with “so much to teach us.” As one of the few spokespersons for a small, unempowered group, he surely has some obligation to have presented a more balanced picture throughout.
+All this is a pity, as I have little doubt that, due allowances made, this human group lacks some of the complexities that we think of as distinctive of the species. One of the dubious truisms enshrined in the textbooks is that all human languages are equally complex and equally expressive. Recently there has been extensive discussion of what we should mean by complexity in language and what the sources of variable complexity might be (e.g., McWhorter 2001, Trudgill 2004). Embedding the Piraha˜ case in this wider discussion raises the question whether Piraha˜ , represented (according to the Ethnologue) by just 150 individuals, is not a creolized, stripped-down remnant of some earlier, more complex set of systems (as discussed in the literature on language attrition and death [e.g., Sasse 1992]). Everett tries to head off this interpretation but notes that the Piraha˜ were once part of a powerful “Mura nation,” and the idea that the pronoun system is borrowed indeed suggests some intensive contact or language-shift situation.
+Everett suggests that his analysis undercuts the neoWhorﬁan emphasis on the importance of language in cognition (as in Lucy 1992b, Levinson 2003a, Majid et al. 2004, and Gordon 2004), since he prefers an account in terms of the causal efﬁcacy of culture, but no one interested in language diversity would make a simple dichotomy between language and culture: a language of course is a crucial part of a culture and is adapted to the rest of it (see Levinson 2003a:316–25). The question that neo-Whorﬁans are interested in is how culture gets into the head, so to speak, and here language appears to play a crucial role: it is learnt far earlier than most aspects of culture, is the most highly practiced set of cultural skills, and is a representation system that is at once public and private, cultural and mental. It is hard to explain nonecologically induced uniformities in cognitive style without invoking language as a causal factor (see Levinson 2003a:chap. 7; 2003b).
+Everett has missed an opportunity here to follow up on interest generated by Gordon’s (2004) persuasive analysis of the Piraha˜ absence of numeracy: only with a sober catalogue of carefully documented features would we be in a position to ask whether they formed a larger pattern and what the origins of that pattern might be.
+
+andrew pawley Department of Linguistics, RSPAS, Australian National University, Canberra, ACT 0200, Australia (apawley@coombs.anu.edu.au). 21 iv 05
+Everett’s thought-provoking paper makes several strong claims. I will ﬁrst address those that seem to me to have little merit and then turn to those to which I am more sympathetic.
+I don’t think Piraha˜ is a serious threat to Hockett’s universal design features. Everett has misinterpreted two of Hockett’s key terms. He takes “interchangeability” to mean “intertranslatability”—that what can said in one language can be said in any other. However, Hockett (1958:578) deﬁnes “interchangeability” as a relation between speakers and hearers: any speaker of language X can understand what someone else says in X and can say the same things. Intertranslatability was not one of Hockett’s universals. The point has been made very forcefully by Grace (1987) and others that natural languages are far from fully intertranslatable. People cannot readily talk about a subject matter when they do not have the words, formulas, etc., that deﬁne the substance of discourse about that subject matter. The more different two cultures are, the fewer subject matters they will have in common.
+By “productivity” Hockett means being able to say things that have never been said before. Piraha˜ clearly has productivity in this sense. But Everett uses “productivity” in a way that links it to full intertranslatability (“Productivity is also shown to be severely restricted by Piraha˜ culture, since there are simply things that cannot be talked about, for reasons of form and content”), and languages are not fully intertranslatable.
+Piraha˜ speech is said to exhibit only one degree of displacement. The arguments for this claim are problematic. It would seem that Piraha˜ has considerable apparatus for talking about non-immediate experience but that there is a strong cultural preference not to do so. To assess the linguistic basis of the one-degree-of-displacement claim would require a well-founded scale of abstractness and careful examination of polysemy and various kinds of discourses by various speakers.
+I am sympathetic to the view that parts of a language are shaped by cultural values and practices. This is uncontroversial when it comes to lexical semantics, metaphor, pragmatics, and discourse structure but harder to demonstrate in morpho-syntax (Enﬁeld 2002). It is not clear that the lexico-grammatical properties of Piraha˜ that Everett refers to are due speciﬁcally to the immediacy-of-experience constraint. The stock of Piraha˜ verbs can be extended by combining verb roots but only if the sequence refers to a culturally accepted event. This constraint seems to be true of verb compounding and serialization in all languages. It reﬂects a universal culturalcum-linguistic tendency for conventional concepts to get lexicalized; people develop streamlined ways of saying familiar things. Whether constraints on what it is conventional to say are a matter of grammar, lexicon, or
+
+This content downloaded on Wed, 6 Feb 2013 08:05:39 AM All use subject to JSTOR Terms and Conditions
+
+e v e r e t t Cultural Constraints on Piraha˜ Grammar F 639
+
+idiomaticity depends on how one chooses to deﬁne these constructs (Pawley 1986).
+Some other languages, for example, Warlpiri, have very limited counting systems (one, two, many) and/or only two basic color terms (light, dark), and/or no clear cases of embedding, but in such cases there has been no suggestion of an immediate-experience constraint (as speakers have rich mythologies, easily learn European counting systems, and so on). It is usual to give a utilitarian explanation of these limitations. Here we run into the perennial problem of functionalist explanations: How to falsify them? How to avoid the suggestion of teleology?
+If Piraha˜ behavior and thought are as Everett says— and one craves a detailed ethnography of Piraha˜ speech and social psychology, including documentation of individual variation—it may well be that something like the immediate-experience constraint does underlie the absence of myths, lack of interest in remote things, etc. Compare the mind-set that makes many urban dwellers indifferent to the plant species of their vicinity: a sample of San Francisco Bay area residents had a range of from just 10 to 34 tree/shrub names (Witkowski and Burris 1981) even though many more species were present. Why do some people pay close attention to certain parts of their environment and others not? It is too easy to say, in this case, that “people attend to what is useful.” Typically, tribal peoples (and some others) know the salient attributes not only of useful species but also of many that are not useful. Established expertise in a domain gives people a mind-set to be curious about many things in that domain (see Berlin 1991 and Hays 1991 on “utilitarian” versus “intellectualist” explanations of folk taxonomies).
+Everett’s claims about the connections between culture, subject matter preferences, and linguistic resources raise a cluster of important issues of conceptual framework and method. One conclusion of his I agree with entirely. If linguists want reliable descriptions of ordinary spoken languages, they need to do extended ﬁeldwork and immerse themselves in the cultural contexts of language use.
+a l e x a n d r e s u r r a l l e´ s Laboratoire d’Anthropologie Sociale (CNRS), Colle` ge de France, 52 rue du Cardinal Lemoine, 75005 Paris, France (alexandre.surralles@college-de-france.fr). 15 iv 05
+Everett’s article conﬁrms loud and clear what many anthropologists believe: to study language in isolation from the context in which it is produced poses a high risk of simpliﬁcation. The most common is the projection of categories alien to the language under study. For example, to address colour-term systems or other classiﬁcatory systems without previously questioning the conﬁguration or even the relevance of these categories for a given society is a practice (far too common in anthropology for us to overlook when it appears in linguistic studies) that leads to the fallacy of demonstrating the
+
+reality of these categories for that society. Everett’s article illustrates that this and other universalistic reductionisms do not survive rigorous testing against the reality of the practical usage of a given language. Although I mostly agree with Everett’s critical work, I have some reservations about the way it is formulated and especially about his alternative proposal. My main objection is that he stresses the deﬁciencies of the Piraha˜ language (the only positive feature of the language is a very rich prosody developed only in an appendix) and says little about how the users of this language communicate.
+This could lead us to believe that the Piraha˜ do not have developed communication because their language does not permit it. However, I doubt that Everett believes this in view of the way he defends himself against the embarrassing impression of primitivism that his description of the Piraha˜ conveys. We could therefore conceive that, far from lying in the structure of the language, the problem arises from the historical conditions endured by this community. In this respect the text is somewhat contradictory. On the one hand it argues against the possibility of the language’s deﬁciencies’ constituting a faux archaism, a consequence of the demographic weakness and other traumas inﬂicted by an aggressive colonial environment, by asserting (although failing to demonstrate) that the 200 years of contact were not especially incisive. On the other hand, it presents as an argument for culture’s determining role on language the fact that the Piraha˜ are monolingual despite all these years of regular contact with Brazilians. If indeed this contact failed to be inﬂuential, the Piraha˜ ’s monolingualism may mean not that they were unable to learn Portuguese but that they did not need to.
+If Everett believes that the Piraha˜ have a high level of communication despite the simplicity of their language, he should demonstrate how they communicate. He provides us with a clue when he asserts the primacy of culture over language and adds that the Piraha˜ “restrict communication to the immediate experience of the interlocutors.” However, he does not go into all the consequences of his assertions, leaving his alternative proposal to be vaguely intuited. He fails to tell us, for instance, whether in the end the language exists for him or, as Ingold (2000:392–93), believes, that it is only because of the reiﬁcation of speech, made possible through writing, that the idea of language as an entity (a collection of rules and signiﬁers with a generative potential) exists in Western thought. If he does not agree with this radical position, he should illustrate the use that the Piraha˜ make of grammatical language, the meaning that they give to it, and how they include it in other communication practices such as the body language of feeling and other sensory, polysensory, or synaesthetic forms of nonverbal communication as some of us are attempting to do in the Amazon (Surralle´ s 2003). These constitute ways of communication related to the notion of “immediate experience” that Everett suggests, that is, experience that can be directly perceived.
+These silences can be related to a general lack of ethnographic contextualization of the Piraha˜ linguistic data
+
+This content downloaded on Wed, 6 Feb 2013 08:05:39 AM All use subject to JSTOR Terms and Conditions
+
+640 F c u r r e n t a n t h ro p o l o g y Volume 46, Number 4, August–October 2005
+
+that is surprising coming from a linguist who seeks to build bridges with anthropology. Everett devotes a number of paragraphs to the Piraha˜ ethnographic background, but only as an introduction. Moreover, anthropologists today work collectively on groups of societies rather than on isolated units. Everett should consider in more depth the ethnographic and linguistic descriptions of other scholars working among the Piraha˜ and related groups to convince us that his theses are not the result of a personal bias in his data gathering, given that he offers only his own data as evidence. In short, ethnographic and linguistic analyses should require more scrupulous integration. This void may be due to a slightly anachronistic view of anthropology and of the notion of culture associated with the discipline. Indeed, it seems that for Everett “culture” encompasses everything but language. He should bear in mind the decade of work that anthropology, particularly in the Amazon (e.g., Descola 1994, Viveiros de Castro 1998), has dedicated to criticizing the notion of culture and the dichotomy that it establishes with the notion of nature.
+michael tomasello Department of Developmental and Comparative Psychology, Max Planck Institute for Evolutionary Anthropology, Deutscher Platz 6, D-04103 Leipzig, Germany (tomas@eva.mpg.de). 17 iii 05
+The best-kept secret in modern linguistics is that we actually know where grammar comes from. Virtually all of the so-called function words in a language have their origin in content words such as nouns and verbs (demonstratives are an exception [Diessel 1999]). Case markers and agreement markers most often originate in freestanding words such as spatial prepositions, pronouns, and even nouns and verbs. The English future markers will and gonna are both derived from freestanding verbs, and the deﬁnite article the is derived from a demonstrative. Something similar can happen on the level of whole syntactic constructions as loose discourse sequences such as He pulled the door and it opened become more tightly organized syntactic constructions such as He pulled the door open (see Traugott and Heine 1991, Hopper and Traugott 1993, Bybee, Perkins, and Pagliuca 1994).
+Basically, as people communicate about content, content words need to be “glued together” to make coherent messages ﬁtting the cognitive and attentional capacities and predispositions of human beings: such things as force dynamic scenes (with agents and patients) to ﬁt with human causal/intentional cognition, topic-comment structure to ﬁt with human attentional needs, and pragmatic grounding to help identify and locate objects and actions in space and time. In other words, particular things get grammaticalized in the way that they do because human cognition and communication work the way that they do. The starting point of the process, of course, is the particular content that people choose to talk about in a particular linguistic community. And so
+
+from the point of view of this functional-typologicalhistorical approach to language, Everett’s ﬁndings and hypotheses make perfect sense. If members of a speech community do not talk about events remote in time and space, then there is no raw material to be transformed into grammatical markers for such things as tense and aspect.
+I am no expert on the facts of the matter here. Perhaps Everett’s speciﬁc analyses need revising in some particular ways. But the question is: from a large-scale theoretical point of view, what is the alternative? And the answer is, as Everett notes, universal grammar. In my experience, what normally happens when proponents of universal grammar hear reports like Everett’s is that they simply do not believe them. The nonembedded Piraha˜ sentence structures reported, for example, really do have embedding, they will claim; it is just at an underlying level where we can’t see it. The evidence for this claim is that one could translate these nonembedded structures into embedded structures in, for example, English. But this is just “the Latin fallacy.” Sensible people stopped analyzing other European languages by analogy to Latin many years ago, and we should stop analyzing the structures of non-European languages by analogy to European languages now. One of the most thoughtful analyses along these lines is that of Comrie (1998), who argues that what we translate from Japanese as relative clauses really do not have the same structure and work quite differently. Therefore, without arguing the particularities of the case Everett presents, it is perfectly reasonable that the structures of the Piraha˜ language are very different from those of other languages. Because they talk about different things, different things get grammaticalized.
+In light of the fact that we know that languages differ greatly in their syntactic structures and we know how grammaticalization takes place in many speciﬁc instances in particular languages, how can anyone maintain the hypothesis of a universal grammar? The answer is to make the concept immune to falsiﬁcation. Thus, in universal grammar analyses, the most common practice is to invoke universal grammar without specifying precisely what is intended, as if we all knew what it was. Here are examples of what is said to be in universal grammar from people who are bold enough to be speciﬁc: O’Grady (1997) proposes that it includes both lexical and functional categories. Jackendoff (2002) includes x-bar syntax and the linking rules NP p object and VP p action. Pinker (1994) agrees and adds “subject” and “object,” movement rules, and grammatical morphology. Crain and Lillo-Martin (1999) list wh- movement, island constraints, the subset principle, head movement, ccommand, the projection principle, and the empty-category principle. Hauser, Chomsky, and Fitch (2002) point to the computational procedure of recursion and Chomsky (2004) to the syntactic operation of “merge.” Baker (2001), Fodor (2003), and Wunderlich (2004) all present very different lists of features and parameters. There seems to be no debate about which of these or other accounts of universal grammar should be preferred and
+
+This content downloaded on Wed, 6 Feb 2013 08:05:39 AM All use subject to JSTOR Terms and Conditions
+
+e v e r e t t Cultural Constraints on Piraha˜ Grammar F 641
+
+why. This problem is particularly acute in the study of language acquisition, where there is no evidence that children begin with the abstract linguistic categories characteristic of most accounts of universal grammar (Tomasello 2003).
+Universal grammar was a good try, and it really was not so implausible at the time it was proposed, but since then we have learned a lot about many different languages, and they simply do not ﬁt one universal cookie cutter. Everett’s case is extreme, but there are others that create similar problems for the theory. In science, when theory and facts conﬂict, given a large enough body of reliable facts, theory loses, and we must come up with something new.
+anna wierzbicka School of Language Studies, Australian National University, Canberra, ACT 0200, Australia (anna.wierzbicka@anu.edu.au). 1 iv 05
+Because I fully agree with Everett’s general claim that to a considerable degree culture shapes language and that meaning is central to the understanding of both languages and cultures, I deplore all the more his extravagant and unsubstantiated speciﬁc claims, which are based on deeply ﬂawed methodology and which ignore the wide-ranging and methodologically rigorous studies reported in Meaning and Universal Grammar (Goddard and Wierzbicka (2002)—studies which have led to the discovery of 65 universal semantic primes lying at the heart of all languages.
+Many of Everett’s claims about Piraha˜ are in fact entirely consistent with the universals we have posited. At the same time, some of these universals are alleged by Everett to be absent from Piraha˜ . For reasons of space, I will focus here on “all,” whose alleged absence from Australian languages I have discussed in detail (Wierzbicka (1996). The alleged absence of a word for “all” in Piraha˜ is clearly refuted by the material cited by Everett himself, and the failure to recognize its presence is a glaring example of the weakness of the semantic analysis in his paper.
+Can one say things like “All the men went swimming” in Piraha˜ ? The answer is clearly yes, as Everett’s examples (10) and (12) show. Concepts such as “every,” “most,” and “few” are far from universal, but “all” does occur in all languages, and Piraha˜ is evidently no exception. Everett does not see this: his interlineal gloss for hiaitı´ihı´ hi ’ogi ‘all the [Piraha˜ ] people’ is “Piraha˜ people he big.” The fact that the same segment used in one syntactic frame can mean “big” and in another “all” misleads him into thinking that there is no word for “all” in Piraha˜ —a conclusion clearly contradicted by his own data. The concept of polysemy is a basic tool in semantic analysis, and rejecting it altogether leads to ludicrous results such as the following “literal” gloss: “My bigness ate [at] a bigness of ﬁsh, nevertheless there was a smallness we did not eat.” In using such glosses, Everett exoticizes the language rather than identifying its genu-
+
+inely distinctive features. To say that ti ’ogi means, literally, “my bigness” (rather than “we”) is like saying that in English to understand means, literally, “to stand under.” To deny that hi ’ogi means “all” is to make a similar mistake.
+In claiming that Piraha˜ has no word for “all,” Everett is joining the long tradition of “primitive-thought” scholars such as Hallpike (1979), who also claimed that, for example, Australian Aborigines had no word for “all” and, accordingly, were not capable of making generalizations. Everett insists that the Piraha˜ language is not in any way “primitive,” but the fact of the matter is that without a word (or wordlike element) meaning “all” speakers could not make generalizations. Accordingly, despite his protestations, Everett is presenting Piraha˜ as “primitive” language.
+Despite the sensational tone of Everett’s paper, most of the other “gaps” that he sees in Piraha˜ are insigniﬁcant. Many languages lack numerals, and, as the Australian experience shows, their speakers can readily borrow or develop them when they need them. What matters is that the language does have words for the universal semantic primes “one,” “two,” and “many.” Out of these (and some other primes clearly present in Piraha˜ ), all other numerals, quantiﬁers, and counting practices can be developed. All the pronouns currently used in Piraha˜ “were borrowed recently from a TupiGuarani language,” but all languages have identiﬁable exponents of “I” and “you,” and, whatever the source of the current inventory, Piraha˜ is clearly no exception in this regard. Piraha˜ has no colour words, but countless other languages lack colour words, and the concept of “colour” itself is culture-speciﬁc (cf. Wierzbicka 1996, n.d.). What matters is that they all have the concept of “see.” Again, as the Australian experience shows, speakers of such languages can quickly build such concepts when they become interested in the relevant technologies and practices.
+Piraha˜ is no doubt “largely incommensurate with English,” but it is not fundamentally so: on the available evidence, it has the same set of semantic primes, out of which all other, culture-dependent, meanings can be constructed. Boas and Sapir got it right: languages can differ enormously in their semantic systems, but all evidence points to what Boas called “the psychic unity of mankind.” The universal semantic primes provide the bedrock of that unity and a touchstone for linguistic semantics.
+Reply
+daniel l. everett1 Manchester, U.K. 18 v 05
+The most important point of my paper is that evidence for language evolution can be found in living languages,
+1. I thank Brent Berlin, George Grace, Paul Kay, Alison Wray, Sally
+
+This content downloaded on Wed, 6 Feb 2013 08:05:39 AM All use subject to JSTOR Terms and Conditions
+
+642 F c u r r e n t a n t h ro p o l o g y Volume 46, Number 4, August–October 2005
+
+and therefore hypotheses such as universal grammar are inadequate to account for the Piraha˜ facts because they assume that language evolution has ceased to be shaped by the social life of the species (e.g., Newmeyer 2002: 361). At the same time, this does not warrant labeling different evolutionary paths more or less “primitive.”
+I agree with Tomasello’s assessment of the issues and Piraha˜ ’s place in the universal-grammar debate.
+Berlin claims that other languages are known that lack numbers and embedding, but I must disagree. Some languages have been claimed to have only “one,” “two,” and “many,” but those are numbers.
+Neither Hale (1976), Dixon (1995), nor any of the other references cited by Pawley, Berlin, and Levinson claim that any language lacks recursion, although Australian, Papuan, and other languages often use nonsubordinating clause-joining strategies where English, say, might use recursion. Rachel Nordlinger’s work in progress supports my point.
+Gonc¸ alves, who has spent roughly 18 months over a period of several years living among the Piraha˜ and written two books on Piraha˜ culture, accepts my claim that experience guides culture and grammar in Piraha˜ and connects it to more general work, initiated by Seeger (1981), on Amazonian worldview. His remarks in this regard are suggestive and useful.
+Surralle´ s’s principal objection to my paper is that it appears to portray the Piraha˜ as communicatively deﬁcient. He rightly points out that there is a need for a systematic ethnography of communication for Piraha˜ , but his objection (shared by Levinson) that I have portrayed the Piraha˜ as primitive in thought is ethnocentric. That the language does not avail itself of grammatical resources used in other languages neither renders it inferior to other languages nor, as Levinson claims, makes its speakers “mindless.” Surralle´ s warns me against dichotomizing culture and nature, but I have tried to establish the opposite, namely, that cultural values shape the language that ultimately emerges from them. My paper should be taken as an argument for his position, not against it.
+Kay claims that Sheldon’s experiments, if accurate and replicable, establish the existence of color terms in Piraha˜ and that, in fact, the existence of color terms is harmonious with my proposal that grammar is constrained by experience. Sheldon (personal communication, April 2005) says the following about his experiments: “The Piraha˜ like to participate together. I tried to keep things separate, but even with the small study behind the house, others come by to listen. The topic becomes of immediate interest to everyone, and there was discussion among everyone of what was being done, etc. I am quite sure they discussed things among themselves even though I asked them to do it individually with me.” He adds that he agrees with the conclusion that I draw from his work, namely, that the poor experimental control raises potential problems with the interpretation of his
+Thomason, Peter Ladefoged, Nigel Vincent, Ted Gibson, and Jeanette Sakel for comments on this reply.
+
+results because we are unable to say to what degree the agreement on the color terms is the result of consensus achieved through group discussion versus repeated individual use of the same terms independently. Therefore, the experiments are contaminated and need to be rerun.
+Further, Keren Everett has conducted informal tests on Piraha˜ ability to name colors and has observed (personal communication, 2005) that speakers frequently disagree on the description of colors. I have observed this variation independently. Moreover, different phrases can be used by the same speaker to describe the same color in the same situation. For example, the particle ’igia´ biı´ ‘like’ is often used: pii ’igia´ biı´ ‘blue’ (like water); bii ’igia´ biı´ ‘red’ (like blood), etc. In addition, color terms can vary according to what they describe, so that different descriptions may be used for different objects, rather than generalized color terms (e.g., black for animals, for humans, for inanimates): biopaı´ai ‘black’ (for a human; lit. ‘dirty blood’); kopaı´ai ‘black’ (for an animal; lit. ‘dirty eye’); hoigii ’igia´ biı´ ‘black/dark’ (usually for inanimates; lit. ‘like dirty’).
+I agree with Kay that color is an immediate sensation. But the naming of it is not. A property name that generalizes over immediate expressions is an abstraction, a variable. My claim is, again, that the Piraha˜ avoid this (hence the near absence of adjectives and adverbs). Color terms are abstractions; the descriptions of colors are not. Abstractions violate the proposed principle of immediacy; phrasal descriptions do not. My account predicts that in Piraha˜ colors will be described by phrases according to each experience rather than given variablelike names (the latter might be possible, but only in violation of the proposed constraint).
+Pawley says that I have misunderstood Hockett’s inerchangeability design feature, but what Hockett (1958: 578) says it means is
+that any participating organism equipped for the transmission of messages in the system is also equipped to receive messages in the same system, and vice versa. For language, any speaker of a language is in principle also a hearer, and is theoretically capable of saying anything he is able to understand when someone else says it. Bee dancing and gibbon calls also involve interchangeability, but our other animal systems do not. In the courtship signalling of sticklebacks, for example, it is obvious that the male and the female cannot change roles. Nor can one imagine gazelles roaring and lions ﬂeeing.
+Hockett’s gazelle-and-lion example doesn’t ﬁt Pawley’s understanding. What is at issue is a system of communication across species, not within a species.
+Pawley’s understanding of Hockett pivots on the meaning of “same system.” He thinks that it means “same language.” I claim that it means “same-species communication system.” This difference of opinion may be due to Hockett’s tendency to shift between properties of “Language” and “A language.” The function of inter-
+
+This content downloaded on Wed, 6 Feb 2013 08:05:39 AM All use subject to JSTOR Terms and Conditions
+
+e v e r e t t Cultural Constraints on Piraha˜ Grammar F 643
+
+changeability and his other design features is to identify something speciﬁc about Homo sapiens. To do that it must entail something at the species level rather than at the individual language level. The evolutionarily interesting understanding of interchangeability is therefore just this: anything one can understand from a conspeciﬁc one should be able to say to another conspeciﬁc. Bicultural, bilingual individuals will in principle (though perhaps not in practice) be able to communicate anything they hear in either language, since they have fully understood it. But Hockett’s interchangeability, under my interpretation, must be abandoned if Piraha˜ has followed its own evolutionary path. Thus a Portuguese-ﬂuent Piraha˜ could not communicate perfect tenses in Piraha˜ . This limitation is connected to the question I raise regarding borrowing. Why are the Piraha˜ unlike other groups in not borrowing number words? Further, why are they still monolingual? Because their “core grammar” lacks the resources to express certain concepts and their culture prohibits certain ways of talking. My conclusion is thus a stronger argument against intertranslatability than even Grace’s (1987), which was based on general principles.
+Pawley also objects to my understanding of productivity. According to Hockett (1958:576) productivity means that “a speaker may say something he has never said nor heard before and be understood perfectly by his audience, without either speaker or hearer being in the slightest aware of the novelty.” On one level, this refers strictly to combinatorics, but Hockett’s formulation itself must be revised, as I have argued, because it fails to consider the vast variation in resources for productivity available to individual languages. Piraha˜ shows that there are severe limitations on “novelty” that are not shared between languages. Although productivity is not intertranslatability per se, the inadequacy of Hockett’s conception of productivity is shown by the speciﬁc restrictions on intertranslatability that we see in my paper. Interestingly, however, this reconsideration of productivity implies that there are multiple kinds of human grammars.
+Wierzbicka’s comments revolve around two assertions: (1) her theory requires all languages to have the quantiﬁer “all” and (2) Piraha˜ does in fact have the word “all.” Nothing she says, however, is relevant to determining whether Piraha˜ has “all” or not. All semanticists know that the quantiﬁcational properties of a word are revealed by its truth conditions. I have pointed out that Piraha˜ has no word with the truth conditions of universal quantiﬁcation. Unless Wierzbicka can show that I am wrong about the truth conditions, she has no case. The same applies to her assertions on the Piraha˜ pronominals. Further, her assertion that I have “primitivized” or “exoticized” the Piraha˜ is based only on the idea that if the properties of the language do not agree with her theory it is primitive. But this is a nonsequitur. Finally, her point about “all” is not unique to her. From a much older tradition, Davidson says (2001[1997]:134–35) that the “last stage” in language development
+
+requires a leap; it introduces quantiﬁcation, the concepts expressed by the words “some” and “all.” Once we advance to this stage, we have arrived at languages that match, or begin to match, our own in complexity. . . . It is here, in my opinion, that we reach the degree of expressive sophistication that we associate with thought, for it is only at this level that there is positive evidence that the speaker of the language can predicate properties of objects and events.
+By the Piraha˜ evidence both Davidson and Wierzbicka are wrong. Thought need not be reﬂected directly in language. The fact that the Piraha˜ lack the word “all,” using instead, say, generics, means simply that their syllogistic reasoning will nearly though not quite match our own, giving them the ability to deal well with the world around them but not to teach Western logic at this time in their cultural history.
+Levinson displays deep misunderstanding of my proposed experience principle, claiming that it limits talk to the present. As I have said, this principle includes experiences over several generations. He further says that the list of properties adduced in support of the principle of immediate experience is disjointed. Whether any list coheres is a matter not of taste but of argumentation. Each feature listed is one that is highly unusual or unique to Piraha˜ . One can simply say that there is no link between them, or one can consider them as sharing the property that they avoid violations of the experience principle. This property creates an intensional, non-disjunctive set. Claims for disjointedness of the set of properties discussed must engage the evidence in favor of the common property. Since Levinson fails to marshal a single counterargument, his commentary makes no substantive contribution on this point.
+Next, Levinson claims that my statement about the Whorf hypothesis and formal theories is incoherent, namely, that it is forced on formal theories just in case a culture-language connection like Piraha˜ tenses is discovered. Again, he does not say why. In fact, as I have established in some detail (1993), according to universal grammar children’s core grammar is insulated from cultural inﬂuence, and therefore only a Whorﬁan hypothesis is acceptable.
+Levinson goes on to suggest that there is sustained bilingualism among the Piraha˜ , based on the statement in my paper that there has long been intermarriage between the Piraha˜ and outsiders. Here he misunderstands my point, but this is surely my fault for not explaining “intermarriage” clearly enough. In the Piraha˜ case, intermarriage does not imply cohabitation; it in fact implies only sexual relations. There is no off-the-shelf anthropological term that I am aware of for sexual relations that are partly casual and partly intended to produce children with non-Piraha˜ fathers (children of non-Piraha˜ women are never raised among the Piraha˜ , only children of Piraha˜ women). In such cases the name of the Brazilian father—but a Piraha˜ name, not a Portuguese name—is remembered. Sometimes, jokingly, the Brazilian may be
+
+This content downloaded on Wed, 6 Feb 2013 08:05:39 AM All use subject to JSTOR Terms and Conditions
+
+644 F c u r r e n t a n t h ro p o l o g y Volume 46, Number 4, August–October 2005
+
+referred to as the Piraha˜ woman’s husband, though he receives no loyalty, no favors, no relationship at all. There is not and never has been any sustained cohabitation between Piraha˜ and Brazilians or other ethnic groups. There is certainly no bilingualism, sustained or otherwise. Readers need not take my unsupported word for this; Peter Ladefoged, who visited the Piraha˜ s with me in 1995 to conduct phonetic research, had this to say about them, after conducting ﬁeld research on at least 50 other languages from around the world (Ladefoged 2005:154):
+The only completely monolingual community I have ever known are the speakers of Piraha˜ , a small group of about 300 people who live in the Amazonian rain forest. They ignore strangers and have as little to do with the outside world as possible. You have to learn their language to speak to them, a tedious and difﬁcult process involving hours of patient observation and trial and error.
+Levinson closes by asserting the persuasiveness of Gordon’s (2004) results. Here again I think that perhaps my argument was insufﬁciently clear. Without wishing to be unfair to Gordon, who certainly made a serious effort to overcome the difﬁculties inherent in research with a monolingual community, I must emphasize one crucial point: on the videotape he made of his experimental setting, the Piraha˜ s say repeatedly that they do not know what he wants them to do, and they have repeated these comments since Gordon’s visits. Gordon did not realize that they were confused because he was unable to communicate with them directly, and he did not request help in interpreting the Piraha˜ s’ comments on his experiments. In addition, his experimental design was culturally insensitive. Even aside from methodological ﬂaws, there is an additional serious problem with Gordon’s interpretation of his results: he does not attempt to account for the fact that the Piraha˜ can and do ﬁll other gaps in their lexicon by borrowing words from other languages.
+Levinson takes me to task for not discussing the work of McWhorter (2001) and Trudgill (2004). Trudgill (2004) was not available at the time I submitted my manuscript, but now that I have read it, I can report that Trudgill’s thesis and McWhorter’s where it is relevant are falsiﬁed by the Piraha˜ data. Trudgill claims that simpliﬁcation (e.g., the Piraha˜ phonemic system) is more likely in “communities involved in large amounts of language contact.” This would mean, for example, that Piraha˜ ’s unusual features could be due to disintegration through contact. However, since Piraha˜ ﬁts Trudgill’s (2004:306) description of a “small, isolated, low-contact community with tight social network structures,” it should have more rather than less complexity. What this means is that Trudgill is wrong. Better reasons for the simplicity of Piraha˜ grammar and phonology have been presented above.
+Finally, Levinson exclaims that there is not enough detail to assess my claims and that my claims are unreplicable. First, almost all these claims have been in-
+
+dependently established in publications listed in the paper. Second, the claims are replicable—but only through the Piraha˜ language.
+References Cited
+a u s t i n , p . , a n d j . b r e s n a n . 1996. Non-conﬁgurationality in Australian Aboriginal languages. Natural Language and Linguistic Theory 14:215–68. [scl]
+b a k e r , m . 2001. The atoms of language. New York: Basic Books. [mt]
+b a s s o , e l l e n . 1995. The last cannibals: A South American oral history. Austin: University of Texas Press. [mag]
+b e n e d i c t , r . 1934. Patterns of culture. Boston: Houghton Mifﬂin. [scl]
+b e r l i n , b r e n t . 1991. “The chicken and the egghead revisited: Further evidence for the intellectualist bases of ethnobiological classiﬁcation,” in Man and a half: Essays in Paciﬁc anthropology and ethnobiology in honour of Ralph Bulmer. Edited by A. Pawley, pp. 57–66. Auckland: Polynesian Society. [ap]
+b e r l i n , b r e n t , a n d p a u l k a y. 1969. Basic color terms, their universality and evolution. Berkeley: University California Press.
+bruner, jerome, jens brockmeier, and rom h a r r e´ . 2001. “Narrative: Problems and promises of an alternative paradigm,” in Narrative and identity: Studies in autobiography, self, and culture. Edited by J. Brockmeier and D. Carbaugh, pp. 39–58. Amsterdam: John Benjamins.
+b y b e e , j . , r . p e r k i n s , a n d w. p a g l i u c a . 1994. The evolution of grammar. Chicago: University of Chicago Press. [mt]
+c a r n e i r o , r o b e r t l . 1970. “Scale analysis: Evolutionary sequences in the rating of cultures,” in A handbook of method in cultural anthropology. Edited by Raoul Naroll and R. Cohen, pp. 834–71. New York: Columbia University Press. [bb]
+c a r s t a i r s - m c c a r t h y, a n d r e w. 1999. The origins of complex language: An inquiry into the evolutionary beginnings of sentences, syllables, and truth. Oxford: Oxford University Press. [bb]
+c h o m s k y, n o a m . 2002. On nature and language. Cambridge: Cambridge University Press.
+———. 2004. Address to the Linguistic Society of America, Boston, January. [mt]
+c h r i s t i a n s e n , m o r t e n h . , a n d s i m o n k i r b y. Editors. 2003. Language evolution. Oxford: Oxford University Press. [bb]
+c o m r i e , b e r n a r d . 1985. Tense. Cambridge: Cambridge University Press.
+———. 1998. Rethinking the typology of relative clauses. Language Design 1:59–86. [mt]
+c o r b e t t , g r e v i l l e g . 2000. Number. Cambridge: Cambridge University Press.
+c r a i n , s . , a n d d . l i l l o - m a r t i n . 1999. An introduction to linguistic theory and language acquisition. Oxford: Blackwell. [mt]
+d a v i d s o n , d o n a l d . 2001 (1997). “The emergence of thought,” in Subjective, intersubjective, objective. Edited by Donald Davidson. Oxford: Oxford University Press.
+d e s a l l e s , j e a n - l o u i s . 2004. About the adaptiveness of syntactic recursion. http://www.interdisciplines.org/coevolution/papers/3/5/1. [bb]
+d e s c o l a , p h i l i p p e . 1994. In the society of nature: A native ecology in Amazonia. Translated by N. Scott. Cambridge: Cambridge University Press. [as]
+de valois r., h. c. morgan, m. c. polson, w. r. m e a d , a n d e . m . h u l l . 1974. Psychophysical studies of
+
+This content downloaded on Wed, 6 Feb 2013 08:05:39 AM All use subject to JSTOR Terms and Conditions
+
+e v e r e t t Cultural Constraints on Piraha˜ Grammar F 645
+
+monkey vision. 1. Macaque luminosity and color vision tests. Vision Research 14:53–67. [pk] d i e s s e l , h . 1999. Demonstratives: Form, function, and grammaticalization. Amsterdam: John Benjamins. [mt] d i x o n , r . m . w. 1995. “Complement clauses and complementation strategies,” in Grammar and meaning. Edited by F. Palmer, pp. 175–220. Cambridge: Cambridge University Press. [scl] ———. 2002 Australian languages. Cambridge: Cambridge University Press. [scl] e n f i e l d , n i c k . Editor. 2002. Ethnosyntax: Explorations in grammar and culture. Oxford: Oxford University Press. e v e r e t t , d a n i e l l . 1979. Aspectos da fonologia do Piraha˜ . M.A. thesis, Universidade Estadual de Campinas, Campinas, Brazil. ———. 1983. A lingua piraha˜ e a teoria da sintaxe. Sc.D. diss., Universidade Estadual de Campinas, Campinas, Brazil. ———. 1985. “Syllable weight, sloppy phonemes, and channels in Piraha˜ discourse,” in Proceedings of the Berkeley Linguistics Society 11. Edited by Mary Niepokuj et al., pp. 408–16. ———. 1986. “Piraha˜ ,” in Handbook of Amazonian languages, vol. 1. Edited by D. Derbyshire and G. Pullum, pp. 200–326. Berlin: Mouton de Gruyter. ———. 1987. Piraha˜ clitic doubling. Natural Language and Linguistic Theory 5:245–76. ———. 1988. On metrical constituent structure in Piraha˜ phonology. Natural Language and Linguistic Theory 6:20–46. ———. 1992. A lingua piraha˜ e a teoria da sintaxe. Campinas: Editora da UNICAMP. ———. 1993. Sapir, Reichenbach, and the syntax of tense in Piraha˜ . Journal of Pragmatics and Cognition 1:89–124. ———. 2004. “Coherent ﬁeldwork,” in Linguistics today. Edited by P. van Sterkenberg, pp. 141–62. Amsterdam: John Benjamins. ———. n.d. Periphrastic pronouns in Wari’. International Journal of American Linguistics. In press. e v e r e t t , d a n i e l l . , a n d k e r e n e v e r e t t . 1984. On the relevance of syllable onsets to stress placement. Linguistic Inquiry 15:5–11. e v e r e t t , d a n i e l l . , a n d b a r b a r a k e r n . 1997. Wari’: The Pacaas-Novos language of western Brazil. London: Routledge. [bb] f o d o r , j . 2003. Evaluating models of parameter setting. MS. [mt] f o l e y, w i l l i a m a . 1986. The Papuan languages of New Guinea. Cambridge: Cambridge University Press. [bb] g e e r t z , c . 1960. The religion of Java. Chicago: University of Chicago Press. [scl] g e n t n e r , d e d r e , a n d s u s a n g o l d i n - m e a d o w. Editors. 2003. Language in mind: Advances in the study of language and thought. Cambridge: MIT Press. g i v o´ n , t a l m y. 1979. On understanding grammar. New York: Academic Press. [bb] ———. Editor. 1983. Topic continuity in discourse: A quantitative cross-language study. Amsterdam: John Benjamins. g o d d a r d , c l i f f , a n d a n n a w i e r z b i c k a . Editors. 2002. Meaning and universal grammar: Theory and empirical ﬁndings. 2 vols. Amsterdam: John Benjamins. [aw] g o o d y, j . 1993. The culture of ﬂowers. Cambridge: Cambridge University Press. [scl] g o n c¸ a l v e s , m a r c o a n t oˆ n i o t e i x e i r a . 1990. Nomes e cosmos: Onoma´ stica entre os Mura-Piraha˜ . Rio de Janeiro: UFRJ/Museu Nacional. ———. 2001. O mundo inacabado: Ac¸ a˜ o e criac¸ a˜ o em uma cosmologia amazoˆ nica. Rio de Janeiro: UFRJ. g o r d o n , p e t e r . 2004. Numerical cognition without words: Evidence from Amazonia. Science 306 (5695):496–99. g o w, p e t e r . 1991. Of mixed blood: Kinship and history in Peruvian Amazonia. Oxford: Clarendon Press. [mag] g r a c e , g e o r g e w. 1987. The linguistic construction of reality. London, New York, and Sydney: Croom Helm. [ap] g u m p e r z , j o h n l . , a n d s t e p h e n l e v i n s o n . Editors. 1996. Rethinking linguistic relativity. Cambridge: Cambridge University Press.
+
+h a l e , k . l . 1976. “The adjoined relative clause in Australia,” in Grammatical categories in Australian languages. Edited by R. M. W. Dixon, pp. 78–105. Canberra: Australian Institute of Aboriginal Studies. [scl]
+h a l l p i k e , c h r i s t o p h e r . 1979. The foundations of primitive thought. Oxford: Clarendon. [aw]
+h a u s e r , m . d . , n . c h o m s k y, a n d w. t . f i t c h . 2002. The faculty of language: What is it, who has it, and how did it evolve? Science 298:1569–79. [mt]
+h a y s , d a v i d g . 2000. The measurement of cultural evolution in the non-literate world: Homage to Raoul Naroll. New York: Metagram Press CD. [bb]
+h a y s , t e r e n c e , 1991. “Interest, use, and interest in uses in folk biology,” in Man and a half: Essays in paciﬁc anthropology and ethnobiology in honour of Ralph Bulmer. Edited by A. Pawley, pp. 109–14. Auckland: Polynesian Society. [ap]
+h o c k e t t , c . f . 1958. A course in general linguistics. New York: Macmillan. [ap]
+———. 1960. The origin of speech. Scientiﬁc American 203:88–96. h o p p e r , p . j . , a n d e . c . t r a u g o t t . 1993. Grammati-
+calization. Cambridge: Cambridge University Press. [mt] h o r n s t e i n , n o r b e r t . 1990. As time goes by: Tense and
+universal grammar. Cambridge: MIT Press. hurford, james, michael studdert-kennedy,
+a n d c h r i s k n i g h t . Editors. 1998. Approaches to the evolution of language. Cambridge: Cambridge University Press. h y m e s , d e l l . 1971. “Foreword,” in The origin and evolution of language, by Morris Swadesh. Chicago and New York: Aldine Atherton. i n g o l d , t i m . 2000. The perception of the environment: Essays in livelihood, dwelling, and skill. London and New York: Routledge. [as] j a c k e n d o f f , r . 2002. Foundations of language: Brain, meaning, grammar, evolution. New York: Oxford University Press. [mt] k a l m a´ r , i v a n . 1985. “Are there really no primitive languages?” in Literacy, language, and learning. Edited by David Olson, Nancy Torrance, and Angela Hildyard, pp. 148–65. Cambridge: Cambridge University Press. [bb] k a y, p a u l . 1972. “Language evolution and speech style,” in Sociocultural dimensions of language use. Edited by Ben Blount and Mary Sanches. New York: Academic Press. [bb] kay, paul, brent berlin, luisa maffi, and will i a m m e r r i ﬁ e l d . n.d. World color survery. Chicago: University of Chicago Press. k a y, p a u l , a n d l u i s a m a f ﬁ . 1999. Color appearance and the emergence and evolution of basic color lexicons. American Anthropologist 101:743–60. [pk, scl] knight, chris, michael studdert-kennedy, and j a m e s h u r f o r d . Editors. 2000. The evolutionary emergence of language: Social function and the origins of linguistic form. Cambridge: Cambridge University Press. [bb] k o p t j e v s k a j a - t a m m , m a s h a . 1993. Nominalizations. London: Routledge. krifka, manfred, francis jeffry pelletier, gregory carlson, alice ter meulen, gennaro c h i e r c h i a , a n d g o d e h a r d l i n k . 1995. “Genericity: Introduction,” in The generic book. Edited by Gregory N. Carlson and Francis Jeffry Pelletier. Chicago: University of Chicago Press. l a d e f o g e d , p e t e r . 2005. Vowels and consonants. Oxford: Blackwell. l a g r o u . e l s . 1998. Cashinahua cosmovision: A perspectival approach to identity and alterity. Ph.D. diss., University of St. Andrews, St. Andrews, U.K. [mag] l e v i n s o n , s . 2000. Ye´ lıˆ dnye and the theory of basic color terms. Journal of Linguistic Anthropology 10(1):1–53. [pk, scl] ———. 2003a. Space in language and cognition. Cambridge: Cambridge University Press. [scl] ———. “Language and mind: Let’s get the issues straight!” in Language in mind. Edited by D. Gentner and S. GoldenMeadow. Cambridge: MIT Press. [scl]
+
+This content downloaded on Wed, 6 Feb 2013 08:05:39 AM All use subject to JSTOR Terms and Conditions
+
+646 F c u r r e n t a n t h ro p o l o g y Volume 46, Number 4, August–October 2005
+
+l e´ v i - s t r a u s s , c l a u d e . 1964. Mythologiques 1: Le cru e le cuit. Paris: Plon. [mag]
+l e´ v y - b r u h l , l u c i e n . 1926. How natives think. New York: Humanities Press. [bb]
+l u c y, j o h n . 1992a. Language diversity and thought: A reformulation of the linguistic relativity hypothesis. Cambridge: Cambridge University Press.
+———. 1992b. Grammatical categories and cognition: A case study of the linguistic relativity hypothesis. Cambridge: Cambridge University Press.
+l y o n s , j o h n a . 1995. “Colour in language,” in Colour: Art and science. Edited by T. Lamb and J. Bourriau, pp. 194–224. Cambridge: Cambridge University Press. [pk]
+m c w h o r t e r , j . h . 2001. The world’s simplest grammars are creole grammars. Linguistic Typology 5:125–66. [scl]
+majid. a., m. bowerman, s. kita, d. haun, and s. l e v i n s o n . 2004. Can language restructure cognition? The case for space. Trends in Cognitive Sciences 8(3):108–14. [scl]
+m a r s h , r . 1956. Comparative sociology. New York: Harcourt, Brace and World. [bb]
+m i t h u n , m a r i a n n e . 1984. How to avoid subordination. Berkeley Linguistics Society 10:493–523. [bb]
+m o l l o n , j o h n d . 1989. “Tho’ she kneel’d in that place where they grew”: The uses and origins of primate colour vision. Journal of Experimental Biology 146:21–38. [pk]
+m u r d o c k , g e o r g e p e t e r , a n d c . p r o v o s t . 1973. Measurement of cultural complexity. Ethnology 8:329–92. [bb]
+n a r o l l , r a o u l . 1956. A preliminary index of social development. American Anthropologist 58:687–715. [bb]
+n e w m e y e r , f r e d e r i c k j . 2002. “Uniformitarian assumptions and language evolution research,” in The transition to language. Edited by Alison Wray, pp. 359–75. Oxford: Oxford University Press.
+———. 2004. Cognitive and functional factors in the evolution of grammar: Interdisciplines. http://www.interdisciplines.org/coevolution/papers/3/5/1. [bb]
+n i m u e n d a j u´ , c u r t . 1925. As tribus do alto Madeira. Journal de la Socie´ te´ des Ame´ ricanistes 17:137–72.
+———. 1948. “The Mura and Piraha˜ ,” in Handbook of South American Indians. Edited by J. Steward, pp. 255–69. Washington, D.C.: Bureau of American Ethnology.
+o a k d a l e , s u z a n n e . 2002. Creating a continuity between self and other: First-person narration in an Amazonian ritual context. Ethos 30:158–75. [mag]
+o ’ g r a d y, w. 1997. Syntactic development. Chicago: University of Chicago Press. [mt]
+o l i v e i r a , a d e l i a e n g r a c i a d e . 1978. A terminologia de parentesco Mura-Piraha˜ . Boletim do MPEG, Serie Antropologia 66.
+oliveira, adelia engracia de, and ivelise rod r i g u e s . 1977. Alguns aspects da ergologia Mura-Piraha˜ . Boletim do MPEG, Serie Antropologia 65.
+o v e r i n g , j o a n n a . 1996. Elogio do cotidiano: A conﬁanc¸ a e a arte da vida social em uma comunidade amazoˆ nica. Mana 5(1):81–107. [mag]
+p a w l e y, a n d r e w. 1986. “Lexicalization,” in Georgetown University round table in languages and linguistics 1985: Languages and linguistics: the interdependence of theory, data, and application. Edited by D. Tannen and J. Alatis, pp. 98–120. Washington, D.C.: Georgetown University. [ap]
+———. 1987. “Encoding events in Kalam and English: Different logics for reporting experience,” in Coherence and grounding in discourse. Edited by R. Tomlin, pp. 329–60. Amsterdam: John Benjamins.
+p e r k i n s , r e v e r e d . 1992. Deixis, grammar, and culture. Amsterdam: John Benjamins. [bb]
+p i n k e r , s . 1994. The language instinct: How the mind creates language. New York: Morrow Press. [mt]
+
+p y e r s , j . n.d. “Language liberating the mind: The acquisition of false-belief understanding in learners of an emerging sign language,” in Roots of human sociality: Culture, cognition, and interaction. Edited by N. Enﬁeld and S. Levinson. Oxford: Berg. [scl]
+q u i n e , w i l l a r d v a n o r m a n . 1960. Word and object. Cambridge: MIT Press.
+regan, b. c., c. julliot, b. simmen, f. vienot, p. c h a r l e s - d o m i n i q u e , a n d j . d . m o l l e n . 2001. Fruits, foliage, and the evolution of color vision. Philosophical Transactions of the Royal Society, London B 356:229–83. [pk]
+r o p p a , s a v i a n o . 1978. Os Mura-Piraha˜ . Arquivo Instituto Anatomia e Antropologia do Instituto de Antropologia Souza Marques 3:411–33.
+sandell, j. h., c. g. gross, and m. h. bornstein. 1979. Color categories in macaques. Journal of Comparative and Physiological Psychology 93:626–35. [pk]
+s a s s e , h - j . 1992. “Theory of language death,” in Language death. Edited by Mathias Brenzinger, pp. 7–30. Berlin: Mouton. [scl]
+s a u n d e r s , b . a . c . a n d l . v a n b r a k e l . 1997. Are there nontrivial constraints on colour categorization? Behavioral and Brain Sciences 20:167–228. [scl]
+s e e g e r , a n t h o n y. 1981. Nature and society in Central Brazil: The Suya Indians of Mato Grosso. Cambridge: Harvard University Press. [mag]
+s u r r a l l e´ s , a l e x a n d r e . 2003. Face to face: Meaning, feeling, and perception in Amazonian welcoming ceremonies. Journal of the Royal Anthropological Institute, n.s., 9:775–91. [as]
+s w a d e s h , m o r r i s . 1971. The origin and diversiﬁcation of language. Chicago and New York: Aldine Atherton. [bb]
+t o m a s e l l o , m . 2003. Constructing a language: A usagebased theory of language acquisition. Cambridge: Harvard University Press. [mt]
+t r a u g o t t , e . , a n d b . h e i n e . 1991. Approaches to grammaticalization. 2 vols. Amsterdam: John Benjamins. [mt]
+t r u d g i l l , p . 2004. Linguistic and social typology: The Austronesian migrations and phoneme inventories. Linguistic Typology 8:305–20. [scl]
+u r b a n , g r e g . 1989. “The ‘I’ of discourse in Shokleng,” in Semiotics, self, and society. Edited by B. Lee and G. Urban, pp. 27–51. Berlin: Mouton de Gruyter. [mag]
+v a n v a l i n , r o b e r t , j r . , a n d r a n d y l a p o l l a . 1997. Syntax. Cambridge: Cambridge University Press.
+v i v e i r o s d e c a s t r o , e d u a r d o . 1986. Arawete´ : Os deuses canibais. Rio de Janeiro: Jorge Zahar Editor. [mag]
+———. 1992. From the enemy’s point of view: Humanity and divinity in an Amazonian society. Chicago: University of Chicago Press. [mag]
+———. 1998. Cosmological deixis and Amerindian perspectivism. Journal of the Royal Anthropological Institute, n.s., 4:469–88. [as]
+w i e r z b i c k a , a n n a . 1996. Semantics: Primes and universals. Oxford: Oxford University Press. [aw]
+———. n.d. “The semantics of colour: A new paradigm,” in Progress in colour studies. Edited by Carole Biggam and Christian Kay. Amsterdam: John Benjamins. [aw]
+witkowski, stanley r, and harold w. burris. 1981. Societal complexity and lexical growth. Behavior Science Research 1 & 2:143–59. [ap]
+w r a y, a l l i s o n . Editor. 2002. The transition to language. Oxford: Oxford University Press. [bb]
+w r a y, a l l i s o n , a n d g e o r g e w. g r a c e . n.d. The consequences of talking to strangers: Evolutionary corollaries of socio-cultural inﬂuences on linguistic form. MS. [bb]
+w u n d e r l i c h , d . 2004. Why assume UG? Studies in Language 28:642–45.
+
+This content downloaded on Wed, 6 Feb 2013 08:05:39 AM All use subject to JSTOR Terms and Conditions
+
