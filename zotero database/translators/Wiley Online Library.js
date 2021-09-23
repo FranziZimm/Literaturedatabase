@@ -9,12 +9,12 @@
 	"priority": 100,
 	"inRepository": true,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2021-06-07 18:00:00"
+	"lastUpdated": "2021-09-22 19:10:00"
 }
 
 /*
    Wiley Online Translator
-   Copyright (C) 2011 CHNM, Avram Lyon and Aurimas Vinckevicius
+   Copyright (C) 2011-2021 CHNM, Avram Lyon and Aurimas Vinckevicius
 
    This program is free software: you can redistribute it and/or modify
    it under the terms of the GNU Affero General Public License as published by
@@ -29,10 +29,6 @@
    You should have received a copy of the GNU Affero General Public License
    along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
-
-// attr()/text() v2
-// eslint-disable-next-line
-function attr(docOrElem,selector,attr,index){var elem=index?docOrElem.querySelectorAll(selector).item(index):docOrElem.querySelector(selector);return elem?elem.getAttribute(attr):null}function text(docOrElem,selector,index){var elem=index?docOrElem.querySelectorAll(selector).item(index):docOrElem.querySelector(selector);return elem?elem.textContent:null}
 
 
 function fixCase(authorName) {
@@ -218,15 +214,17 @@ function scrapeBibTeX(doc, url) {
 	// Use the current domain on Wiley subdomains (e.g., ascpt.) so that the
 	// download works even if third-party cookies are blocked. Otherwise, use
 	// the main domain.
-	var host = doc.location.host;
-	if (!host.endsWith('.onlinelibrary.wiley.com')) {
-		host = 'onlinelibrary.wiley.com';
+	let postUrl;
+	if (doc.location.host.endsWith('.onlinelibrary.wiley.com')) {
+		postUrl = 'https://onlinelibrary.wiley.com/action/downloadCitation';
 	}
-	var postUrl = `https://${host}/action/downloadCitation`;
+	else {
+		postUrl = '/action/downloadCitation';
+	}
 	var body = 'direct=direct'
 				+ '&doi=' + encodeURIComponent(doi)
 				+ '&downloadFileName=pericles_14619563AxA'
-				+ '&format=bibtex' // '&format=ris' +
+				+ '&format=bibtex'
 				+ '&include=abs'
 				+ '&submit=Download';
 
@@ -246,15 +244,6 @@ function scrapeBibTeX(doc, url) {
 		translator.setString(text);
 
 		translator.setHandler('itemDone', function (obj, item) {
-			// BibTeX throws the last names and first names together
-			// Therefore, we prefer creators names from EM (if available)
-			var authors = doc.querySelectorAll('meta[name="citation_author"]');
-			if (authors && authors.length > 0) {
-				item.creators = [];
-				for (let i = 0; i < authors.length; i++) {
-					item.creators.push(ZU.cleanAuthor(authors[i].content, 'author'));
-				}
-			}
 			// fix author case
 			for (let i = 0, n = item.creators.length; i < n; i++) {
 				item.creators[i].firstName = fixCase(item.creators[i].firstName);
@@ -673,7 +662,7 @@ var testCases = [
 				"libraryCatalog": "Wiley Online Library",
 				"pages": "173-182",
 				"publicationTitle": "PROTEOMICS",
-				"url": "https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/pmic.201100327",
+				"url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/pmic.201100327",
 				"volume": "12",
 				"attachments": [
 					{
@@ -743,7 +732,7 @@ var testCases = [
 				"libraryCatalog": "Wiley Online Library",
 				"pages": "173-182",
 				"publicationTitle": "PROTEOMICS",
-				"url": "https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/pmic.201100327",
+				"url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/pmic.201100327",
 				"volume": "12",
 				"attachments": [
 					{
@@ -813,7 +802,7 @@ var testCases = [
 				"libraryCatalog": "Wiley Online Library",
 				"pages": "173-182",
 				"publicationTitle": "PROTEOMICS",
-				"url": "https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/pmic.201100327",
+				"url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/pmic.201100327",
 				"volume": "12",
 				"attachments": [
 					{
@@ -883,8 +872,7 @@ var testCases = [
 				"libraryCatalog": "Wiley Online Library",
 				"pages": "173-182",
 				"publicationTitle": "PROTEOMICS",
-				"rights": "Copyright © 2012 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim",
-				"url": "https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/pmic.201100327",
+				"url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/pmic.201100327",
 				"volume": "12",
 				"attachments": [
 					{
@@ -924,8 +912,8 @@ var testCases = [
 				"title": "β-Rezeptorenblocker",
 				"creators": [
 					{
-						"firstName": "L. von",
-						"lastName": "Meyer",
+						"firstName": "L.",
+						"lastName": "von Meyer",
 						"creatorType": "author"
 					},
 					{
@@ -944,7 +932,6 @@ var testCases = [
 				"libraryCatalog": "Wiley Online Library",
 				"pages": "365-370",
 				"publisher": "John Wiley & Sons, Ltd",
-				"rights": "Copyright © 2002 Wiley-VCH Verlag GmbH",
 				"url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/3527603018.ch17",
 				"attachments": [
 					{
@@ -1151,7 +1138,6 @@ var testCases = [
 				"libraryCatalog": "Wiley Online Library",
 				"pages": "875-885",
 				"publicationTitle": "Journal of Heterocyclic Chemistry",
-				"rights": "Copyright © 1983 Journal of Heterocyclic Chemistry",
 				"url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/jhet.5570200408",
 				"volume": "20",
 				"attachments": [
@@ -1213,6 +1199,72 @@ var testCases = [
 				],
 				"tags": [],
 				"notes": [],
+				"seeAlso": []
+			}
+		]
+	},
+	{
+		"type": "web",
+		"url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JC016068",
+		"items": [
+			{
+				"itemType": "journalArticle",
+				"title": "Labrador Sea Water Transport Across the Charlie-Gibbs Fracture Zone",
+				"creators": [
+					{
+						"firstName": "Afonso",
+						"lastName": "Gonçalves Neto",
+						"creatorType": "author"
+					},
+					{
+						"firstName": "Jaime B.",
+						"lastName": "Palter",
+						"creatorType": "author"
+					},
+					{
+						"firstName": "Amy",
+						"lastName": "Bower",
+						"creatorType": "author"
+					},
+					{
+						"firstName": "Heather",
+						"lastName": "Furey",
+						"creatorType": "author"
+					},
+					{
+						"firstName": "Xiaobiao",
+						"lastName": "Xu",
+						"creatorType": "author"
+					}
+				],
+				"date": "2020",
+				"DOI": "10.1029/2020JC016068",
+				"ISSN": "2169-9291",
+				"abstractNote": "Labrador Sea Water (LSW) is a major component of the deep limb of the Atlantic Meridional Overturning Circulation, yet LSW transport pathways and their variability lack a complete description. A portion of the LSW exported from the subpolar gyre is advected eastward along the North Atlantic Current and must contend with the Mid-Atlantic Ridge before reaching the eastern basins of the North Atlantic. Here, we analyze observations from a mooring array and satellite altimetry, together with outputs from a hindcast ocean model simulation, to estimate the mean transport of LSW across the Charlie-Gibbs Fracture Zone (CGFZ), a primary gateway for the eastward transport of the water mass. The LSW transport estimated from the 25-year altimetry record is 5.3 ± 2.9 Sv, where the error represents the combination of observational variability and the uncertainty in the projection of the surface velocities to the LSW layer. Current velocities modulate the interannual to higher-frequency variability of the LSW transport at the CGFZ, while the LSW thickness becomes important on longer time scales. The modeled mean LSW transport for 1993–2012 is higher than the estimate from altimetry, at 8.2 ± 4.1 Sv. The modeled LSW thickness decreases substantially at the CGFZ between 1996 and 2009, consistent with an observed decline in LSW volume in the Labrador Sea after 1994. We suggest that satellite altimetry and continuous hydrographic measurements in the central Labrador Sea, supplemented by profiles from Argo floats, could be sufficient to quantify the LSW transport at the CGFZ.",
+				"issue": "8",
+				"itemID": "doi:10.1029/2020JC016068",
+				"language": "en",
+				"libraryCatalog": "Wiley Online Library",
+				"pages": "e2020JC016068",
+				"publicationTitle": "Journal of Geophysical Research: Oceans",
+				"url": "https://onlinelibrary.wiley.com/doi/abs/10.1029/2020JC016068",
+				"volume": "125",
+				"attachments": [
+					{
+						"title": "Snapshot",
+						"mimeType": "text/html"
+					},
+					{
+						"title": "Full Text PDF",
+						"mimeType": "application/pdf"
+					}
+				],
+				"tags": [],
+				"notes": [
+					{
+						"note": "<p>e2020JC016068 10.1029/2020JC016068</p>"
+					}
+				],
 				"seeAlso": []
 			}
 		]

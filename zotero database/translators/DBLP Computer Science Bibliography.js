@@ -9,7 +9,7 @@
 	"priority": 100,
 	"inRepository": true,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2021-08-10 17:15:00"
+	"lastUpdated": "2021-09-20 19:55:00"
 }
 
 /*
@@ -129,20 +129,6 @@ function scrapeMainPart(firstDataText, secondDataItem) {
 	trans.translate();
 }
 
-function doWeb(doc, url) {
-	if (detectWeb(doc, url) == "multiple") {
-		Zotero.selectItems(getSearchResults(doc, false), function (items) {
-			if (!items) {
-				return;
-			}
-			ZU.processDocuments(Object.keys(items), scrape);
-		});
-	}
-	else {
-		scrape(doc, url);
-	}
-}
-
 function getSearchResults(doc, checkOnly) {
 	var items = {};
 	var found = false;
@@ -168,7 +154,6 @@ function doWeb(doc, url) {
 		scrape(doc, url);
 	}
 }
-
 
 
 /** BEGIN TEST CASES **/
