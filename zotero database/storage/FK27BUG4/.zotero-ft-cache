@@ -1,0 +1,103 @@
+Review
+
+TRENDS in Cognitive Sciences Vol.7 No.3 March 2003
+
+141
+
+The cognitive revolution: a historical perspective
+George A. Miller
+Department of Psychology, Princeton University, 1-S-5 Green Hall, Princeton, NJ 08544, USA
+
+Cognitive science is a child of the 1950s, the product of a time when psychology, anthropology and linguistics were redeﬁning themselves and computer science and neuroscience as disciplines were coming into existence. Psychology could not participate in the cognitive revolution until it had freed itself from behaviorism, thus restoring cognition to scientiﬁc respectability. By then, it was becoming clear in several disciplines that the solution to some of their problems depended crucially on solving problems traditionally allocated to other disciplines. Collaboration was called for: this is a personal account of how it came about.
+Anybody can make history. Only a great man can write it.
+Oscar Wilde’s aphorism is appropriate. At the time, the suggestion that we were making history would have been presumptuous. But anybody can make history; writing history is another matter. I know something of the scholarship required and nothing approaching it has gone into the story I will tell here. But I offer this personal account in the hope that it might interest and help the real historians of science.
+At the time it was happening I did not realize that I was, in fact, a revolutionary, and two different stories became intertwined in my life. They unfolded concurrently but I will tell the psychological story ﬁrst.
+The cognitive revolution in psychology The cognitive revolution in psychology was a counterrevolution. The ﬁrst revolution occurred much earlier when a group of experimental psychologists, inﬂuenced by Pavlov and other physiologists, proposed to redeﬁne psychology as the science of behavior. They argued that mental events are not publicly observable. The only objective evidence available is, and must be, behavioral. By changing the subject to the study of behavior, psychology could become an objective science based on scientiﬁc laws of behavior.
+The behavioral revolution transformed experimental psychology in the US. Perception became discrimination, memory became learning, language became verbal behavior, intelligence became what intelligence tests test. By
+Corresponding author: George A. Miller (geo@clarity.princeton.edu).
+
+the time I went to graduate school at Harvard in the early 1940s the transformation was complete. I was educated to study behavior and I learned to translate my ideas into the new jargon of behaviorism. As I was most interested in speech and hearing, the translation sometimes became tricky. But one’s reputation as a scientist could depend on how well the trick was played.
+In 1951, I published Language and Communication [1], a book that grew out of four years of teaching a course at Harvard entitled ‘The Psychology of Language’. In the preface, I wrote: ‘The bias is behavioristic – not fanatically behavioristic, but certainly tainted by a preference. There does not seem to be a more scientiﬁc kind of bias, or, if there is, it turns out to be behaviorism after all.’ As I read that book today it is eclectic, not behavioristic. A few years later B.F. Skinner published Verbal Behavior [2], a truly behavioral treatment of language and communication. By Skinner’s standards, my book had little or nothing to do with behavior.
+In 1951, I apparently still hoped to gain scientiﬁc respectability by swearing allegiance to behaviorism. Five years later, inspired by such colleagues as Noam Chomsky and Jerry Bruner, I had stopped pretending to be a behaviorist. So I date the cognitive revolution in psychology to those years in the early 1950s.
+Limitations of information theory During those years I personally became frustrated in my attempts to apply Claude Shannon’s theory of information to psychology. After some initial success I was unable to extend it beyond Shannon’s own analysis of letter sequences in written texts. The Markov processes on which Shannon’s analysis of language was based had the virtue of being compatible with the stimulus –response analysis favored by behaviorists. But information measurement is based on probabilities and increasingly the probabilities seemed more interesting that their logarithmic values, and neither the probabilities nor their logarithms shed much light on the psychological processes that were responsible for them.
+I was therefore ready for Chomsky’s alternative to Markov processes. Once I understood that Shannon’s Markov processes could not converge on natural language, I began to accept syntactic theory as a better account of the cognitive processes responsible for the structural aspects of human language. The grammatical rules that govern phrases and sentences are not behavior. They are
+
+http://tics.trends.com 1364-6613/03/$ - see front matter q 2003 Elsevier Science Ltd. All rights reserved. doi:10.1016/S1364-6613(03)00029-9
+
+142
+
+Review
+
+TRENDS in Cognitive Sciences Vol.7 No.3 March 2003
+
+mentalistic hypotheses about the cognitive processes responsible for the verbal behaviors we observe.
+The end of behaviorism Behaviorism was an exciting adventure for experimental psychology but by the mid-1950s it had become apparent that it could not succeed. As Chomsky remarked, deﬁning psychology as the science of behavior was like deﬁning physics as the science of meter reading. If scientiﬁc psychology were to succeed, mentalistic concepts would have to integrate and explain the behavioral data. We were still reluctant to use such terms as ‘mentalism’ to describe what was needed, so we talked about cognition instead.
+Whatever we called it, the cognitive counter-revolution in psychology brought the mind back into experimental psychology. I think it is important to remember that the mind had never disappeared from social or clinical psychology. It was only experimentalists in the US who really believed that behaviorism would work. In my own case, when I became dissatisﬁed at Harvard between B.F. Skinner’s strict behaviorism and S.S. Stevens’ psychophysics, I turned to Jerry Bruner’s social psychology, and in 1960 that led to the creation at Harvard of the Center for Cognitive Studies. Bruner’s group at Bow Street had been calling themselves the ‘Cognition Project’ for some time, so we simply changed it from a project to a center. Bruner obtained a grant from the Carnegie Corporation of New York and Dean Bundy gave us space to house the enterprise. We assembled a group of bright young graduates and a few senior scholars who shared our interests. Peter Wason, Nelson Goodman and Noam Chomsky had the most inﬂuence on my thinking at that time.
+Behaviorism ﬂourished primarily in the US and this cognitive revolution in psychology re-opened communication with some distinguished psychologists abroad. In Cambridge, UK, Sir Frederic Bartlett’s work on memory and thinking had remained unaffected by behaviorism. In Geneva, Jean Piaget’s insights into the minds of children had inspired a small army of followers. And in Moscow, A.R. Luria was one of the ﬁrst to see the brain and mind as a whole. None of these three spent time at the Center but we knew their work well. Whenever we doubted ourselves we thought of such people and took courage from their accomplishments.
+I’m happy to say the Harvard Center for Cognitive Studies was a success. The bright young graduates grew up to become important psychologists unafraid of words like mind and expectation and perception and memory. So that was how I experienced the cognitive revolution in psychology.
+The cognitive revolution and cognitive science While experimental psychologists were rethinking the deﬁnition of psychology, other important developments were occurring elsewhere. Norbert Wiener’s cybernetics was gaining popularity, Marvin Minsky and John McCarthy were inventing artiﬁcial intelligence, and Alan Newell and Herb Simon were using computers to simulate cognitive processes. Finally, Chomsky was single-handedly redeﬁning linguistics.
+http://tics.trends.com
+
+In the Historical Addendum to Newell and Simon’s Human Problem Solving [3] they say: ‘1956 could be taken as the critical year for the development of information processing psychology’ (p. 878). This is not difﬁcult to justify. 1956 was the year that McCarthy, Minsky, Shannon and Nat Rochester held a conference on artiﬁcial intelligence at Dartmouth that was attended by nearly everyone working in the ﬁeld at that time. In 1956 Shannon and McCarthy edited Automata Studies [4], and Minsky circulated a technical report that, after many revisions, and 5 years later, became his inﬂuential article, ‘Steps toward artiﬁcial intelligence’ [5].
+It was also in 1956 that Jerry Bruner, Jackie Goodenough and George Austin published A Study of Thinking [6], which took seriously the notion of cognitive strategies. In 1956 signal-detection theory was applied to perception by Tanner, Swets, Birdsall and others at Michigan. I published an article entitled ‘The magical number seven, plus or minus two’ [7] describing some limits on our human capacity to process information. In 1956 Ward Goodenough and Floyd Lounsbury published several articles on componential analysis that became models for cognitive anthropology, and J.B. Carroll edited a collection of papers by Benjamin Lee Whorf on the effects of language on thought.
+In short, 1956 was a good year for those interested in theories of the mind, but it was only slightly better than the years just preceding and following. Many were riding the waves that began during World War II: those of servo theory, information theory, signal-detection theory, computer theory and computers themselves.
+Moment of conception Newell and Simon were right to put a ﬁnger on 1956, which was not only crucial in their own development but for all of us. Indeed, I can narrow it down even further. I date the moment of conception of cognitive science as 11 September, 1956, the second day of a symposium organized by the ‘Special Interest Group in Information Theory’ at the Massachusetts Institute of Technology [8]. At the time, of course, no one realized that something special had happened so no one thought that it needed a name; that came much later.
+The chairman of the organizing committee was Peter Elias, who had only recently arrived at MIT from a Junior Fellowship at Harvard. The ﬁrst day, 10 September, was devoted to coding theory, but it is the second day of the symposium that I take to be the moment of conception for cognitive science. The morning began with a paper by Newell and Simon on their ‘logic machine’. The second paper was from IBM: Nat Rochester and collaborators had used the largest computer then available (an IBM 704 with a 2048-word core memory) to test Donald Hebb’s neuropsychological theory of cell assemblies. Victor Yngve then gave a talk on the statistical analysis of gaps and its relation to syntax.
+Noam Chomsky’s contribution used information theory as a foil for a public exposition of transformational generative grammar. Elias commented that other linguists had told him that language has all the precision of mathematics but Chomsky was the ﬁrst linguist to back
+
+Review
+
+TRENDS in Cognitive Sciences Vol.7 No.3 March 2003
+
+143
+
+up the claim. His 1956 paper contained the ideas that he expanded a year later in his monograph, Syntactic Structures [9], which initiated a cognitive revolution in theoretical linguistics.
+To complete the second day, G.C. Szikali described some experiments on the speed of perceptual recognition, I talked about how we avoid the bottleneck created by our limited short-term memory, and Swets and Birdsall explained the signiﬁcance of signal-detection theory for perceptual recognition. The symposium concluded on the following day.
+I left the symposium with a conviction, more intuitive than rational, that experimental psychology, theoretical linguistics, and the computer simulation of cognitive processes were all pieces from a larger whole and that the future would see a progressive elaboration and coordination of their shared concerns.
+The birth of cognitive science By 1960 it was clear that something interdisciplinary was happening. At Harvard we called it cognitive studies, at Carnegie-Mellon they called in information-processing psychology, and at La Jolla they called it cognitive science. What you called it didn’t really matter until 1976, when the Alfred P. Sloan Foundation became interested.
+The Sloan Foundation had just completed a highly successful program of support for a new ﬁeld called ‘neuroscience’ and two vice-presidents of the Foundation, Steve White and Al Singer, were thinking that the next step would be to bridge the gap between brain and mind. They needed some way to refer to this next step and they selected ‘cognitive science.’ They created a Sloan Special Program in Cognitive Science in order to explore the possibilities.
+I learned of the Foundation’s interest in 1977 from Kenneth A. Klivington, who was on the staff at the Foundation. My recollection is that Ken had talked to Marvin Minsky and others at MIT and was considering a recommendation that the Foundation invest in artiﬁcial intelligence. Shamelessly, I argued that in that case the Foundation’s money would be spent buying computers. I claimed that AI was merely part of a much larger movement. At that time the Sloan Foundation was sensitive to the charge that it had become part of the MIT endowment, so my lobbying for a broader constituency was well received.
+Interdisciplinary activities I argued that at least six disciplines were involved: psychology, linguistics, neuroscience, computer science, anthropology and philosophy. I saw psychology, linguistics and computer science as central, the other three as peripheral. These ﬁelds represented, and still represent, an institutionally convenient but intellectually awkward division. Each, by historical accident, had inherited a particular way of looking at cognition and each had progressed far enough to recognize that the solution to some of its problems depended crucially on the solution of problems traditionally allocated to other disciplines.
+The Sloan Foundation accepted my argument and a committee of people from the several ﬁelds was assembled
+http://tics.trends.com
+
+to summarize the state of cognitive science in 1978, and to write a report recommending appropriate action. The committee met once, in Kansas City. It quickly became apparent that everyone knew his own ﬁeld and had heard of two or three interesting ﬁndings in other ﬁelds. After hours of discussion, experts in discipline X grew unwilling to make any judgments about discipline Y, and so forth. In the end, they did what they were competent to do: each summarized his or her own ﬁeld and the editors – Samuel Jay Keyser, Edward Walker and myself – patched together a report (Keyser, S.J., Miller, G.A., and Walker, E., Cognitive Science in 1978. An unpublished report submitted to the Alfred P. Sloan Foundation, New York).
+Our report had one ﬁgure, which is reproduced here (Fig. 1). The six ﬁelds are connected in a hexagon. Each line in the ﬁgure represented an area of interdisciplinary inquiry that was well deﬁned in 1978 and that involved the tools of the two disciplines it linked together. Thus, cybernetics used concepts developed by computer science to model brain functions elucidated in neuroscience. Similarly, computer science and linguistics were already linked through computational linguistics. Linguistics and psychology are linked by psycholinguistics, anthropology and neuroscience were linked by studies of the evolution of the brain, and so on. Today, I believe, all ﬁfteen possible links could be instantiated with respectable research, and the eleven links we saw as existing in 1978 have been greatly strengthened.
+The report was submitted, reviewed by another committee of experts, and accepted by the Sloan Foundation. The program that was initiated provided grants to several universities with the condition that the funds be used to promote communication between disciplines. One of the smaller grants went to Michael Gazzaniga, then at the Cornell Medical School, and enabled him to initiate what has since become cognitive neuroscience. As a consequence of the Sloan program, many scholars became familiar with and tolerant of work in other disciplines. For several years, interdisciplinary seminars, colloquia and symposia ﬂourished.
+
+Psychology
+
+Philosophy
+
+Linguistics
+
+Computer science
+
+Anthropology
+
+Neuroscience
+
+TRENDS in Cognitive Sciences
+
+Fig. 1. Cognitive science in 1978. Each line joining two disciplines represents interdisciplinary inquiry that already existed in 1978.
+
+144
+
+Review
+
+TRENDS in Cognitive Sciences Vol.7 No.3 March 2003
+
+Cognitive sciences today Unfortunately, the Alfred P. Sloan Foundation did not follow up this initiative, but the interactions stimulated in the early 1980s have left their mark. Some veterans of those days question whether the program was successful, and whether there really is something now that we can call ‘cognitive science’. For myself, I prefer to speak of the cognitive sciences, in the plural. But the original dream of a uniﬁed science that would discover the representational and computational capacities of the human mind and their structural and functional realization in the human brain still has an appeal that I cannot resist.
+
+References 1 Miller, G.A. (1951) Language and Communication, McGraw-Hill 2 Skinner, B.F. (1957) Verbal Behavior, Appleton-Century-Crofts 3 Newell, A. and Simon, H.A. (1972) Human Problem Solving, Prentice-Hall 4 Shannon, C.E., McCarthy, J. eds (1956) Automata Studies, Annals of
+Mathematics Studies (Vol. 34) Princeton University Press 5 Minsky, M. (1961) Steps toward artiﬁcial intelligence. Proc. IRE 49,
+8 – 29 6 Bruner, J.S. et al. (1956) A Study of Thinking, John Wiley 7 Miller, G.A. (1956) The magical number seven, plus or minus two.
+Psychol. Rev. 63, 81 – 97 8 Elias, P. et al. (1956) Information theory. IRE Trans. Information
+Theory, IT-2(3) 9 Chomsky, N. (1957) Syntactic Structures, Mouton
+
+Do you want to reproduce material from a Trends journal?
+This publication and the individual contributions within it are protected by the copyright of Elsevier Science. Except as outlined in the terms and conditions (see p. ii), no part of any Trends journal can be reproduced, either in print or electronic form, without written permission from Elsevier Science. Please address any permission requests to:
+Rights and Permissions, Elsevier Science Ltd,
+PO Box 800, Oxford, UK OX5 1DX.
+http://tics.trends.com
+

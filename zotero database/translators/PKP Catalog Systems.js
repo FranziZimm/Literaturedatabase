@@ -9,7 +9,7 @@
 	"priority": 200,
 	"inRepository": true,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2021-09-19 22:05:00"
+	"lastUpdated": "2021-09-24 00:10:00"
 }
 
 /*
@@ -113,7 +113,7 @@ function scrape(doc, url) {
 		}
 		
 		if (!item.title) {
-			item.title = doc.getElementById('articleTitle');
+			item.title = text(doc, '#articleTitle');
 		}
 		
 		if (item.creators.length == 0) {
