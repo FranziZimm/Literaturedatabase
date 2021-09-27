@@ -1,0 +1,363 @@
+Navajo Classification and Coercion* Theodore B. Fernald & MaryAnn Willie Swarthmore College & University of Arizona
+Navajo classificatory verbs in express meaning on two tiers: a classification tier and an event type tier. The event type tier is always stage-level in nature while the classification tier is usually individual-level but it can have a coerced stage-level interpretation. A formal analysis of the coercion process is presented and interactions between the semantic tiers and presupposition are explored.
+1. Introduction
+Willie (2000) proposed that Navajo classificatory verbs entail information that is both individualand stage-level for a single argument. Under coercion, the individual-level information can receive a stage-level interpretation. This article investigates these claims further, developing analyses consistent with two theories of the distinction between individual- and stage-level predicates. Section 2 provides background on analyses of the individual-/stage-level distinction. Section 3 presents background on Navajo classificatory verbs. The analysis of Willie (2000) is presented in section 4. Fernald’s (1994, 2000) discussion of coercion involving the individual/stage-level distinction is presented in section 5 along with an analysis of coerced Navajo verbs. The interaction of presupposition with classification is taken up in section 6. Section 7 considers the conflation of the meanings on the two tiers, and section 8 makes a quick comparison of Navajo to classification systems of other languages.
+
+2. Individual- and Stage-level Predicates
+
+Carlson (1977) and Kratzer (1988) and Diesing (1992) make different assumptions about the logical type of predicates in their analyses of the distinction between individual- and stage-level predicates. Carlson (1977) assumes that the type entity is sorted into stages, objects, and kinds (with individual as the name of the sort that is the union of the sets of objects and kinds). Individual- and stage-level predicates, then, are both of type <e,t>, but they differ with respect to the sort of entity they have as arguments. Below are the sorted type-theoretic distinctions Carlson assumes:
+
+1. stage-level predicates:
+
+<es,t>
+
+individual -level predicates: <ei,t>
+
+kind-level predicates:
+
+<ek,t>
+
+* We would like to thank the participants of SULA for comments on this paper. Special thanks are due to Ken Hale and Ellavina Perkins for helpful discussion.
+
+Realization relations: Generalization relations:
+
+R: stages and individuals R': objects and kinds G: SLPs to ILPs G': OLPs to KLPs
+
+Kind-level predicates will not figure in our discussion. Together with the realization and generalization relations shown, the sorted ontology allows Carlson’s analysis to capture the semantic distinctions between the bare plural examples shown in (2) and (3):
+
+2. Surfers are nervous. ∃y[R(y,s) & nervous´(y)] G(^nervous´)(s)
+
+3. Surfers are neurotic. G´(^neurotic´)(d)
+
+Kratzer (1988) and Diesing (1992), on the other hand, assume that stage-level predicates have a spatiotemporal argument that is lacking in individual-level predicates:
+
+4. Stage-level predicates dance hit
+
+<e,<l,t>> <e,<e,<l,t>>>
+
+5. Individual-level predicates
+
+be intelligent
+
+<e,t>
+
+own
+
+<e,<e,t>>
+
+In their analyses, the bare plural examples are interpreted as follows:
+
+6. Surfers are nervous. ∃x[surfer’(x) &nervous´(x, l)]
+Gx,l[surfer’(x)][nervous´(x, l)] Gl[l] ∃x [surfer’(x) & nervous´(x, l)]
+
+7. Surfers are neurotic. Gx[surfer’(x)][neurotic´(x)]
+
+The discussions in Carlson (1977), Kratzer (1988), and Diesing (1992), and others including Fernald (2000) appear to assume that a single lexical item will contribute information to the interpretation that is individual-level or stage-level, but not both for the same argument. Carlson (1977) analyses predicates like seek and owe as having stage-level subjects and individual-level objects, but he does not (as far as we recall) discuss the idea that a particular predicate might simultaneously entail different pieces of information about a stage of an argument and the individual whose stage it is. Willie (2000) proposes that classificatory verbs in Navajo contribute information about their theme arguments that can be, by nature, both
+
+individual- and stage-level. Once we consider the possibility that this could happen, it does not seem so surprising; it simply has not been noteworthy until now.
+
+3. Navajo Classificatory Verbs
+
+Navajo classificatory verbs have been described in numerous places (recently in Young & Morgan 1987, Young, Morgan, & Midgette 1992, and Young 2000). Below are some simple examples of Navajo sentences containing classificatory verbs:
+
+8. a naaltsoos dz¶dz¡¡¬tsooz
+
+paper
+
+3sgACC.1sgNOM.put-into-fire-flat-flexible-object
+
+‘I put the paper into the fire.’
+
+b. n¡st¡¡n
+
+¬a’ dz¶dz¡¡t£
+
+log
+
+INDEF3sgACC.1sgNOM.put-into-fire- stick-like object
+
+‘I put a log into the fire.’
+
+9. a naaltsoos dz¶dz¡¡’ah
+
+paper
+
+3sgACC.1sgNOM.toss-into-fire-flat-flexible-object
+
+‘I tossed the paper into the fire.’
+
+b. n¡st¡¡n ¬a’
+
+dz¶dz¡¡¬t’e’
+
+log INDEF 3sgACC.1sgNOM.toss-into-fire- stick-like object
+
+‘I tossed a log into the fire.’
+
+(Young & Morgan 1987:129)
+
+Any of these verbs can be a sentence all by itself by omitting the nominal expression. (8a) without the nominal would mean ‘I put it (FFO) into the fire’, where the part of the meaning glossed ‘it (FFO)’ means that the theme argument is a flat flexible object. The prefix complex dz¶dz¡¡- conveys the information ‘into fire’ in these examples. The root of the verb is the final syllable. Note that the root in each of the examples above is different. The examples in (8) both describe events of putting, and the examples in (9) describe events of tossing, but the theme arguments belong to different classes, so the roots are distinct. Both the (a) examples involve flat flexible objects, and the (b) examples involve stick-like objects, but the event types differ, so again the roots are distinct. The roots, thus, contain information both about event type and about the physical characteristics of the theme argument.
+Navajo classificatory verbs make use of up to thirteen classifications:
+
+10. Primary Object classes (Young, Morgan, & Midgette 1992) 1. Single Solid Roundish Object (SRO) 2. Non-Compact Matter (NCM)
+3. Open Container (OC) 4. Slender Flexible Object (SFO) 5. Slender Stiff Object (SSO) 6. Animate Object (AnO) 7. Mushy Matter (MM)
+8. Load, Pack, Burden (LPB) 9. Plural Objects1 (PlO1) several large objects 10. Plural Objects2 (PlO2) profusion of small objects
+
+11. Flat Flexible Object (FFO) 12. Anything carried on one’s back (LUG) 13. Anything moved by streaming or pouring (STREAM)
+
+There are sets of classificatory verb roots for handling, independent or conveyed motion or propulsion, chewing or eating, and for statives dealing with positions or postures (see Young, Morgan 1987g:251-263 and Young, Morgan, & Midgette 1992:1097-1101; for a discussion of the classification system of a related language, see Poser 1996).
+The examples below show that the same noun phrase can be used with more than one classificatory verb as long as the interpretation of the noun phrase is malleable enough to satisfy the classification entailed by the verb:
+
+11. a. b.
+
+b¢eso `dii¬tsoos. money 3sgACC:1sgNOM:paper-like-found ‘A ($5) bill, I found it/picked it up.’ b¢eso `diinil. money 3sgACC:1sgNOM:plural-found ‘Coins, I found them/picked them up.’
+
+12. a. b.
+
+ts¢ shizhood rock 3sgNOM:singular-large object-sits ‘The rock/boulder, there it is./ There is a large rock/boulder.’ ts¢ shijaa’ rock 3NOM:plural-objects-sit ‘The rock pile, there it is. / There are pebbles.’
+
+Because of examples like these, Willie (2000) concludes that the relationship between the verb and the nominal expression “is not simply agreement, the matching of identical features.” Rather, “the verb often assigns (Willie’s emphasis) properties to the object (Willie 2000:40)” by means of selectional restrictions.
+
+4. Tiers of Meaning
+
+Willie (2000) noticed that a classificatory verb can include information that is both individuallevel and stage-level. For example, (13) includes the stage-level information that the theme is sitting along with the individual-level information that the theme is animate.
+
+13. ashkii sid¡ Tier 1: Stage Level: Tier 2: Individual Level:
+
+The boy, he is sitting. he is sitting he is animate
+
+In Carlson’s (1977) terms, sitting is an activity performed by a stage of an object sort of entity, whereas being animate is a characteristic of the object itself. In terms of Kratzer (1988) and Diesing (1992), sitting is the sort of predicate that is intrinsically located in space and time, but
+
+being animate crucially is not. Example (14), below, is just like (13) except that the stage-level information is different.
+
+14. nahasht’e’ii sitª Tier 1: Stage Level: Tier 2: Individual Level:
+
+There’s a kangaroo rat. it is lying it is animate
+
+Willie proposes to consider the meaning of the verbs divided into two tiers as follows (2000:44):
+
+15. The Navajo classificatory verbs have two levels or tiers of semantic structure at which distinct predications occur:
+Tier 1. Specifies the position or movement of an object. Tier 2. Assigns certain properties to the object by virtue of the verb’s classificatory features.
+
+Using the assumptions of Kratzer’s (1988) and Diesing’s (1992) theories for concreteness, the examples in (11) can be analyzed as shown in (16). For the sake of greater clarity, we now refer to Tier 1 the Event type tier, and Tier 2 the Classification tier:
+
+16. a. b.
+
+b¢eso `dii¬tsoos. money 3sgACC:1sgNOM:FFO-found ‘A ($5) bill, I found it/picked it up.’
+Event type: [money (x) & found(I, x, l)] Classification: FFO(x) b¢eso `diinil. money 3sgACC:1sgNOM:PlO-found ‘Coins, I found them/picked them up.’ Event type: [money(x) & found(I, x, l)] Classification: PlO(x)
+
+Here, the x and l arguments are assumed to be indexical (of course the I, representing the speaker, is too): naturally, the x and the l arguments could be bound by an existential quantifier (or some other quantifier if the sentence is embedded).
+Thus far we have considered only cases in which nothing unusual happens. Willie (2000) notes, however, that classificatory verbs can be used in ways that violate their selectional restrictions. When this happens, the result is not necessarily ungrammatical. Rather, the meaning of the verb or the nominal is altered to make the two compatible. The effect of this alteration is often humorous or metaphorical. Below are some examples from Willie (2000):
+
+17. a. b.
+
+gish sit£
+
+cane 3sgNOM:inanimate-rigid-object-lay
+
+‘There is a/the cane.’
+
+k’ad eii ¬¢¢ch™™’¶ tºº sit£
+
+now that dog
+
+too 3sgNOM:stick-like object-lay
+
+‘That dog is just too skinny now.’/ ‘The dog is dead.’
+
+18. a. b.
+
+eii ’atoo’ ¬a’ sh¡
+
+han¶kaah
+
+that soup some 1sgBEN 3sgACC.2sgNOM:dip-out-liquid
+
+‘Dip me out some of that soup.’
+
+eii ’atoo’ ¬a’ sh¡
+
+han¶t¬eeh
+
+that soup some 1sgBEN 3sgACC.2sgNOM:dip-out-mushy-matter
+
+‘Slop me out some of that soup.’
+
+19. a. b.
+
+ashkii sid¡ boy 3sgNOM:animate object-sit The boy, he is sitting. ashkii sit¬¢¢’ boy 3sgNOM:mushy matter-sit The boy, he is sitting like a lump (being obstinate).
+
+The (a) examples in (17) to (19) are normal cases in which the selectional restrictions are not violated. It is the (b) examples that are of interest because they involve violations. (17b) involves referring to a dog as a stick-like object. The utterance is perfectly interpretable as long as one can imagine how a dog can be like a stick. In (18b), the meaning of ’atoo’ (‘soup’) is affected since the verb indicates that the soup is mushy matter instead of liquid. In (19b), the boy is referred to as mushy matter. Interpreting the utterance, then, requires the hearer to think of a way a boy could meet that description. The most obvious way to Navajo speakers is to extend the verb’s meaning metaphorically to mean that the boy is being obstinate.
+Willie (2000) points out that, in these cases, the event type meaning is not being altered. Only the classification is. This, then, is the motivation behind separating the verb’s information into two tiers; what is altered is exactly the information contained on the classification tier.
+In addition, Willie points out that when no selectional restrictions are violated, the classification tier contains individual-level information. However, when its meaning is altered, the result is stage-level. Willie makes the following statements (2000:44):
+
+20. Tier 1. [Event type tier] The predication concerning the position or motion of the entity is always Stage Level. The entity is described as being at rest or in motion. When it is at rest, its location is being specified, and this location is spatially bounded. When it is described as in motion, this movement is temporally bounded.
+
+Tier 2. [Classifying tier] The predication concerning the physical attributes of the entity may be either Stage or Individual Level. When the verb is used in accordance with its selection restrictions—for example, when the root selected indicates whether the agent is picking up paper money or coins, the verb is assigning an Individual Level property (flat flexible or collection of small solid objects) to the entity. When a classificatory verb is being used in violation of its selectional restrictions, in an unexpected context, it may be used to assign an attribute to the entity that is novel or unexpected. The speaker typically uses the verb in this way for humorous or pejorative purposes.
+
+Willie provides the following examples of how the representations are affected by the unexpected usage of a classificatory verb:
+
+21. a. b.
+
+ashkii sid¡ Tier 1: Stage Level: Tier 2: Individual Level: ashkii sit¬¢¢’ Tier 1: Stage Level: Tier 2: Stage Level:
+
+The boy, he is sitting.
+
+he is sitting
+
+he is animate
+
+(Expected usage)
+
+The boy, he is sitting like a lump (being obstinate).
+
+he is sitting
+
+he is behaving lump-like (Unexpected usage)
+
+22. a. b.
+
+nahasht’e’ii sitª Tier 1: Stage Level: Tier 2: Individual Level: nahasht’e’ii si’£ Tier 1: Stage Level: Tier 2: Stage Level:
+
+There’s a kangaroo rat.
+
+it lying
+
+it is animate
+
+(Expected usage)
+
+There’s a balled-up kangaroo rat.
+
+there it is (LOC)
+
+it is curled up
+
+(Unexpected usage)
+
+As Willie points out, the (b) examples are cases of coercion that are similar to what Fernald (1994, 2000) discussed. The individual-level meaning on the classification tier is coerced into a stage-level meaning. We now propose to formalize these observations.
+
+5. Coercion
+The literature on individual- and stage-level predicates is full of examples in which one sort of predicate can “be used”, so to speak, as a predicate of a different sort. Probably this is behind Kratzer’s caveat, “If a distinction between stage-level and individual-level predicates is operative in natural language, it cannot be a distinction that is made in the lexicon of a language once and for all” (1988:2). Despite this caveat, Kratzer’s analysis takes lexical categorization as an assumption, positing differing argument structures for the two sorts of predicates. Fernald (1994, 2000) follows this assumption and claims that those cases in which context affects interpretations are due to the pragmatic effects of coercion. Assuming, then, that predicates are categorized in the lexicon as individual- or stage-level (kind-level predicates aside), coercion must shift the interpretation of a predicate in a way that is consistent with the theoretical assumptions about the distinction between the predicates. The cases of coercion identified by Willie (2000) involve an individual-level predicate being construed as a stage-level predicate. In Carlson’s terms, this means that coercion must saturate the individual-level predicate with an individual sort argument, abstract over a stage-sort of entity, and relate the two entities with the realization relation, R. In Kratzer’s and Diesing’s terms, the individual-level eventuality must somehow be associated with a spatiotemporal argument, and that argument will need to be abstracted over.
+Fernald (1994, 2000) includes a discussion of what he calls “Evidential Coercion”. This term was adopted because the coercion under consideration, in which an individual-level predicate is construed as a stage-level predicate, involved the subject of the predicate providing evidence, at some point in space and time, of having an individual-level characteristic.1 Fernald (2000) offers the following formulations of this idea:
+
+1 The term ‘evidential’ has other uses in literature that are unrelated to this.
+
+23. Evidential Coercion [Carlson-style]: Let α be an ILP with interpretation α’. α can be used as a SLP with the following interpretation: λxs ∃Q[Q(x) & Gys,zi(Q(y) & R(y,z)) [α´(z)] ]
+
+24. Evidential Coercion [Kratzer/Diesing-style]: Let α be an ILP with interpretation α´. α can be used as a SLP with the following interpretation: λlj λx∃Q [Q(x,lj) & Gy,l(Q(y,l))[(α´(y))]
+
+By each of these formulations, the coerced predicate has the meaning that its subject is involved in a stage-level eventuality such that, in general if an entity is involved in such an eventuality, that entity would have the individual-level property α´. Notice that, by these formulations, the coerced predicate (when used in a proposition) will entail that the entity gives evidence supporting the generalization that the entity has α´. The proposition would not entail that the entity actually has α´.
+Putting these ideas together with Willie’s tiered analysis of Navajo verbs, we have the following:
+
+25. a.
+b. c.
+
+k’ad eii ¬¢¢ch™™’¶ tºº sit£
+
+now that dog
+
+too 3sgNOM:SSO-lay
+
+‘That dog is just too skinny now.’/ ‘The dog is dead.’
+
+## Event type: [dog (x) & lie(x, li)] Classification: SSO(x)
+
+Coerced interpretation:
+
+Event type: [dog(x) & lie(x, li)] Classification: ∃Q [Q(x,li) & Gy,l[Q(y,l)][SSO(y)]]
+
+26. a.
+b. c.
+
+ashkii sit¬¢¢’ boy 3NOM-MM-sit ‘The boy, he is sitting like a lump (being obstinate).’ ## Event type: [boy(x) & sit(x, li)]
+Classification: MM(x) Coerced interpretation:
+Event type: [boy(x) & sit(x, li)] Classification: ∃Q [Q(x,li) & Gy,l[Q(y,l)][MM(y)]]
+
+The ## in the (b) examples indicates that the uncoerced meanings of these utterances are not well-formed because the selectional restrictions of the verbs have been violated. This illformedness is what triggers coercion. In the cases Fernald (1994, 2000) considered, the triggers were due to different violations. The examples in (27) violate the plurality condition on adverbs of quantification of de Hoop & de Swart (1989):
+
+27. a. b. c. d.
+
+Nancy is rarely clever. Laura is often pedantic. Max is sometimes intelligent. Karen is often Bohemian.
+
+In the examples below, coercion is triggered by the logical type of see, which requires it to
+compose with an eventuality that is situated in space and time (according to the analysis of Fernald 2000):2
+
+28. a. b. c. d.
+
+I have seen Lyle clever (on several occasions). We have seen Laura pedantic (on several occasions). You have seen Max intelligent (on several occasions). Robin has seen Karen Bohemian (on several occasions).
+
+In these cases, as with the Navajo classificatory verbs, coercion is a process that must be triggered by a semantic mismatch. Given this conclusion, the examples in (11) and (12) (involving money and stones) are not cases of coercion. No semantic mismatch was involved. These are simply cases in which the nominal descriptions are flexible enough to refer to entities of differing physical characteristics.
+
+6. Presupposition
+
+We have seen that the tiers posited by Willie (2000) separate individual-level information (in the uncoerced cases) from stage-level information. It is useful to have these sorts of information separate because coercion operates on only one tier. It is very tempting to imagine that the two tiers correspond to a difference of presuppositional status. Might it be that the classification tier is always presupposed and the event type tier is at issue? This certainly is often the case. Consider a scenario in which one person stoops to pick up a flat piece of paper on the sidewalk. A second person says the sentence in (29).
+
+29. n¶dii’aah l¡go!
+
+‘Don’t pick it (SRO) up!’
+
+Because the verb n¶dii’aah classifies the object as a solid round one, the command does not make sense. The only response the addressee can make is to say something like, “But I wasn’t going to pick up a SRO! I was picking up a FFO!” What is negated in (29), then, is the stage-level information of the verb, the part about ‘picking up something’. The individual-level information is not negated. This information is entailed by an affirmation or a negation. Therefore, the individual-level, classification information seems to be presupposed, and the stage-level, event type information is at issue.
+Negation in Navajo is normally done by placing doo and da around the verb thus:
+
+30. doo dz¶dz¡¡¬tsooz da.
+
+‘I didn’t put it (FFO) into the fire.’
+
+The effect of this, as with (29), is to negate the event type and not the classification. With an overt nominal in the sentence, we get the following:
+
+31. naaltsoos doo dz¶dz¡¡¬tsooz da. ‘I didn’t put the paper into the fire.’
+
+2 Since individual-level predicates are not situated in this way, coercion is triggered. The result of coercion is a stage-level predicate that is situated in space and time.
+
+The nominal is interpreted as a definite description, as is nearly always the case with overt nominals that have no determiners or particles accompanying them (see Willie 1991, Fernald et al. 2000). Definite descriptions are normally taken to presuppose their referents.
+An additional case in which the classification tier is presupposed involves hanii, a constituent negator that appears after its focus. The particle ga is an affirmative counterpart to hanii, and it also applies focus to the constituent that immediately precedes it. Hanii is discussed extensively in Perkins (1978), and seems to always result in metalinguistic negation (see Horn 1985). Since metalinguistic negation focuses certain parts of a proposition, it has the effect of presupposing everything else in the proposition. This is the case with (32): in the main clause only ‘the paper’ is negated, and everything else is presupposed.
+32. naaltsoos hanii dz¶dz¡¡¬tsooz, n¡st¡¡n ga. ‘It wasn’t the paper that I put in the fire, *it was the log. √it was the bag of logs.
+The effect of adding n¡st¡¡n ga (‘the log GA’) in this sentence is of particular interest. Note that n¡st¡¡n ga cannot be interpreted as ‘it was the log’. This is because the main verb, dz¶dz¡¡¬tsooz, requires its theme argument to be construed as a flat flexible object. When speakers were asked for judgments about (32), their initial reactions were that the sentence was not acceptable. A short time later they usually said, “Well, it would be okay if you were talking about a bag of logs.” This reading would be acceptable because bags are flat and flexible. We take it that this is another example of coercion that has been triggered by a selectional restriction violation. This is a clear indication that the classification was presupposed. Note, however, that the event type tier is presupposed as well in (32). Naturally, metalinguistic negation should be able to have this effect on constituent meanings: anything that can be focused by a metalinguistic negation operator should be at issue, and everything left over in the proposition would be presupposed. This is significant for our conjecture that the classification tier is presupposed and the event type tier is at issue, but it only shows that other elements in the sentence may exert influence independent of the verb.
+The example in (30) illustrated cases containing a definite description. If we add an indefinite particle along with negation, the result is ambiguous:
+33. naaltsoos l¢i’ doo dz¶dz¡¡¬tsooz da. ‘I didn’t put any paper/a certain paper into the fire.’
+The interpretation represented by the gloss ‘a certain paper’ certainly entails the existence of paper despite the presence of negation. The other interpretation does not, however. That interpretation, in fact, does not seem to presuppose anything about the existence of a flat flexible object.
+The data judgments are subtle with examples like these, and we intend to pursue this further. Tentatively, then, based on (33), we conclude that the classification need not be presupposed. However, as we have seen repeatedly, the classification frequently is presupposed independent of the event type. For this reason, we feel justified in separating the verbal meanings into two tiers as Willie (2000) proposed.
+
+7. Conflating the Tiers
+
+At some point the information on the two tiers will need to be conflated to allow variables to be bound. The results for (34) are shown in (35) and (36) for Kratzer/Diesing and Carlson, respectively:
+
+34. n¶dii¬tsooz. ‘I picked it (FFO) up.’ Event Type: picked-up(I, x, l) Classification: FFO(x)
+
+35. Kratzer/Diesing
+
+[FFO(x) & picked-up(I, x, l)]
+
+(I, x, and l are indexical)
+
+36. Carlson
+
+∃x,y[R(x,I) & R(y,z) & picked-up (x, y) & FFO(z)]
+
+(a stage of the speaker picked up a stage of the object; I and z are indexical)
+
+The conflated formulas shown here use conjunction to assemble the meanings from the two tiers. As we have seen, this is not the only possibility since frequently the classifying tier is presupposed. Conjunction would not adequately represent the distinction between presupposed and at issue entailments.
+From (35) and (36), it seems that neither the Kratzer/Diesing approach nor the Carlson approach has difficulty dealing with the fact that Navajo classificatory verbs express meaning that is both individual- and stage-level with respect to a single argument.
+
+8. Other Languages
+
+There are languages in which nominal classification seems to be quite arbitrary—a mere grammatical phenomenon with no semantic significance. If there is really no semantic significance to the classification, we would not want to claim that the classification corresponds to a semantic tier. In Navajo and, to pick another example, American Sign Language, the meaning that underlies the classification is much more obvious. In languages like these, the classification system clearly does contribute to the interpretations of sentences.
+Willie (2000) compares Navajo classification with the following English examples:
+
+37. a. b.
+
+He folded the money into his pocket. He poured the money into the cash-box.
+
+These examples have the same nominal expression indicating the theme. The difference arises with the verbs, one describing an action that can only be performed on foldable objects, and the other, an action that can only be performed on pourable objects. Willie’s main point was to show that English does something like what Navajo does. There is a difference, however. Although there are many other English verbs that display selectional restrictions, English does not seem to
+have the same systematic classification that Navajo has. Thus, Navajo has thirteen roots for handling an entity,3 and the choice of the root is determined by the nominal classification of the
+
+3 The kind of handling involved is specified by derivational prefixes.
+
+entity. That same classification is used for verbs of being in a certain position, and a proper subset of those classifications is used for the other classificatory verbs. This system is significantly more thorough than the cases involving selectional restriction in English.
+References Carlson, Gregory N. 1977. Reference to Kinds in English. University of Massachusetts, Amherst,
+Ph.D. dissertation in Linguistics. [published 1980 by Garland]. Diesing, Molly. 1992. Indefinites. Cambridge, Mass.: MIT Press. Fernald, Theodore B. 1994. On the Nonuniformity of the Individual- and Stage-level Effects.
+University of California, Santa Cruz, Ph.D. dissertation in Linguistics. Fernald, Theodore B. 2000. Predicates and Temporal Arguments. Oxford & New York: Oxford
+University Press. Fernald, Theodore B., Lorene Legah, Alyse Neundorf, Ellavina Perkins, and Paul Platero.
+Forthcoming. ‘Definite and Indefinite Descriptions in Navajo’. In T. Fernald & K. Hale, eds. Diné Bizaad Naalkaah: Navajo Language Investigations. MIT Working Papers in Linguistics. Cambridge, Mass. de Hoop, Helen & Henriette de Swart. 1989. Over indefinite objecten en de relatie tussen syntaxis en semantiek. Glot 12:19–35. Horn, Laurence R. 1985. Metalinguistic Negation and Pragmatic Ambiguity. Language 61:121–174. Kratzer, Angelika. 1988. Stage-level and Individual-level Predicates. Genericity in Natural Language, ed. by M. Krifka, 247–284, University of Tübingen. [Published in Carlson & Pelletier. 125-175.] Perkins, Ellavina Tsosie. 1978. The Role of Word Order and Scope in the Interpretation of Navajo Sentences. Ph.D. dissertation, University of Arizona. Poser, William J. 1996. ‘Noun classification in Carrier’. Paper presented at the Society for the Study of the Indigenous Languages of the Americas, January 5, San Diego. [Unpublished manuscript, Yinka Diné Language Institute and the University of Northern British Columbia.] Willie, Mary Ann. 1991. Navajo Pronouns and Obviation. Ph. D. dissertation, University of Arizona. Willie, MaryAnn. 2000. ‘Individual and Stage Level Predication and the Navajo Classificatory Verbs’. In Andrew Carnie, Eloise Jelinek, and MaryAnn Willie, eds. Papers in Honor of Ken Hale. Massachusetts Institute of Technology Working Papers in Endangered and Less Familiar Languages 1:39-50. Young, Robert W. & William Morgan, Sr. 1987. The Navajo Language: A Grammar and Colloquial Dictionary. Albuquerque: University of New Mexico. Young, Robert W., William Morgan, Sr., and Sally Midgette 1992. Analytical Lexicon of Navajo. New Mexico. Albuquerque. Young, Robert W. 2000. The Navajo Verb System: an Overview. Albuquerque: University of New Mexico.
+
