@@ -1,15 +1,15 @@
 {
 	"translatorID": "a30274ac-d3d1-4977-80f4-5320613226ec",
-	"translatorType": 4,
 	"label": "IMDb",
 	"creator": "Philipp Zumstien and Abe Jellinek",
 	"target": "^https?://www\\.imdb\\.com/",
 	"minVersion": "3.0",
-	"maxVersion": null,
+	"maxVersion": "",
 	"priority": 100,
 	"inRepository": true,
+	"translatorType": 4,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2021-07-26 18:30:00"
+	"lastUpdated": "2022-03-08 00:59:08"
 }
 
 /*
@@ -106,7 +106,9 @@ function scrape(doc, _url) {
 	var creatorsMapping = {
 		director: "director",
 		creator: "scriptwriter",
-		actor: "castMember"
+		actor: ZU.fieldIsValidForType("castMember", item.itemType)
+			? "castMember"
+			: "contributor"
 	};
 	for (var role in creatorsMapping) {
 		if (!json[role]) continue;

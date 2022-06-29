@@ -2,14 +2,14 @@
 	"translatorID": "03d1aac2-bee2-43f4-8d9c-b96ef31e8c61",
 	"label": "ASCO Meeting Library",
 	"creator": "Sebastian Karcher",
-	"target": "^https?://meetinglibrary\\.asco.\\org/(content|search)",
+	"target": "^https?://meetinglibrary\\.asco\\.org/(content|search)",
 	"minVersion": "3.0",
 	"maxVersion": "",
 	"priority": 100,
 	"inRepository": true,
 	"translatorType": 4,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2016-11-01 18:07:21"
+	"lastUpdated": "2021-06-07 16:47:39"
 }
 
 /*********************** BEGIN FRAMEWORK ***********************/

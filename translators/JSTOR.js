@@ -9,13 +9,14 @@
 	"inRepository": true,
 	"translatorType": 4,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2020-12-12 08:54:18"
+	"lastUpdated": "2022-05-10 22:26:12"
 }
 
 /*
 	***** BEGIN LICENSE BLOCK *****
 
-	Copyright © 2019 Simon Kornblith, Sean Takats, Michael Berkowitz, Eli Osherovich, czar
+	Copyright © 2019-2022 Simon Kornblith, Sean Takats, Michael Berkowitz,
+	                      Eli Osherovich, czar
 
 	This file is part of Zotero.
 
@@ -35,18 +36,18 @@
 	***** END LICENSE BLOCK *****
 */
 
-// attr()/text() v2
-// eslint-disable-next-line
-function attr(docOrElem,selector,attr,index){var elem=index?docOrElem.querySelectorAll(selector).item(index):docOrElem.querySelector(selector);return elem?elem.getAttribute(attr):null;}function text(docOrElem,selector,index){var elem=index?docOrElem.querySelectorAll(selector).item(index):docOrElem.querySelector(selector);return elem?elem.textContent:null;}
 
 function detectWeb(doc, url) {
 	// See if this is a search results page or Issue content
-	if (doc.title == "JSTOR: Search Results") {
-		return getSearchResults(doc, true) ? "multiple" : false;
-	}
-	else if (/stable|pss/.test(url) // Issues with DOIs can't be identified by URL
-		&& getSearchResults(doc, true)) {
-		return "multiple";
+	// Issues with DOIs can't be identified by URL
+	if (doc.title == "JSTOR: Search Results" || /stable|pss/.test(url)) {
+		if (getSearchResults(doc, true)) {
+			return "multiple";
+		}
+		else {
+			Z.monitorDOMChanges(doc.body,
+				{ attributeFilter: ['style'] });
+		}
 	}
 	
 	// If this is a view page, find the link to the citation
@@ -54,6 +55,11 @@ function detectWeb(doc, url) {
 	if ((favLink && getJID(favLink.href)) || getJID(url)) {
 		if (ZU.xpathText(doc, '//li[@class="book_info_button"]')) {
 			return "book";
+		}
+		else if (text(doc, 'script[data-analytics-provider]').includes('"chapter view"')) {
+			// might not stick around, but this is really just for the toolbar icon
+			// (and tests)
+			return "bookSection";
 		}
 		else {
 			return "journalArticle";
@@ -65,13 +71,13 @@ function detectWeb(doc, url) {
 function getSearchResults(doc, checkOnly) {
 	var resultsBlock = doc.querySelectorAll('.media-body.media-object-section');
 	if (!resultsBlock.length) {
-		resultsBlock = doc.querySelectorAll('.search-result-item-grid');
+		resultsBlock = doc.querySelectorAll('.result');
 	}
 	if (!resultsBlock.length) return false;
 	var items = {}, found = false;
-	for (let i = 0; i < resultsBlock.length; i++) {
-		let title = text(resultsBlock[i], '.title, .small-heading').trim();
-		let jid = getJID(attr(resultsBlock[i], 'a', 'href'));
+	for (let row of resultsBlock) {
+		let title = text(row, '.title, .small-heading');
+		let jid = getJID(attr(row, 'a', 'href'));
 		if (!jid || !title) continue;
 		if (checkOnly) return true;
 		found = true;
@@ -204,6 +210,7 @@ function processRIS(text, jid) {
 		// add any other jid for DOI because they are only internal.
 		
 		if (maintitle && subtitle) {
+			maintitle[1] = maintitle[1].replace(/:\s*$/, '');
 			item.title = maintitle[1] + ": " + subtitle[1];
 		}
 		// reviews don't have titles in RIS - we get them from the item page
@@ -704,6 +711,42 @@ var testCases = [
 				"shortTitle": "Review of The Communards of Paris, 1871; The Paris Commune of 1871",
 				"url": "https://www.jstor.org/stable/40401968",
 				"volume": "40",
+				"attachments": [
+					{
+						"title": "JSTOR Full Text PDF",
+						"mimeType": "application/pdf"
+					}
+				],
+				"tags": [],
+				"notes": [],
+				"seeAlso": []
+			}
+		]
+	},
+	{
+		"type": "web",
+		"url": "https://www.jstor.org/stable/j.ctt19jcg63.12",
+		"items": [
+			{
+				"itemType": "bookSection",
+				"title": "“OUR CLIMATE AND SOIL IS COMPLETELY ADAPTED TO THEIR CUSTOMS”: Whiteness, Railroad Promotion, and the Settlement of the Great Plains",
+				"creators": [
+					{
+						"lastName": "Pierce",
+						"firstName": "Jason E.",
+						"creatorType": "author"
+					}
+				],
+				"date": "2016",
+				"ISBN": "9781607323952",
+				"abstractNote": "Dr. William A. Bell, a transplanted English physician and promoter for the Denver and Rio Grande Western Railway, observed in his 1869 book <i>New Tracks in North America</i>  that the West offered unlimited potential for creating prosperous new towns and generating profits for discerning investors, but its development would require men of vision, courage, and capital to make dreams a reality. The West stood forth as a vast region “where continuous settlement is impossible, where, instead of navigable rivers, we find arid deserts, but where, nevertheless, spots of great fertility and the richest prizes of the mineral kingdom tempt men",
+				"bookTitle": "Making the White Man's West",
+				"libraryCatalog": "JSTOR",
+				"pages": "151-178",
+				"publisher": "University Press of Colorado",
+				"series": "Whiteness and the Creation of the American West",
+				"shortTitle": "“OUR CLIMATE AND SOIL IS COMPLETELY ADAPTED TO THEIR CUSTOMS”",
+				"url": "https://www.jstor.org/stable/j.ctt19jcg63.12",
 				"attachments": [
 					{
 						"title": "JSTOR Full Text PDF",

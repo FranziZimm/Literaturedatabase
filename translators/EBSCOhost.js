@@ -1,15 +1,15 @@
 {
 	"translatorID": "d0b1914a-11f1-4dd7-8557-b32fe8a3dd47",
-	"translatorType": 4,
 	"label": "EBSCOhost",
 	"creator": "Simon Kornblith, Michael Berkowitz, Josh Geller",
 	"target": "^https?://[^/]+/(eds|bsi|ehost)/(results|detail|folder|pdfviewer)",
 	"minVersion": "3.0",
-	"maxVersion": null,
+	"maxVersion": "",
 	"priority": 100,
 	"inRepository": true,
+	"translatorType": 4,
 	"browserSupport": "gcsib",
-	"lastUpdated": "2021-03-11 17:35:00"
+	"lastUpdated": "2021-10-11 01:07:25"
 }
 
 /*
@@ -43,8 +43,7 @@ function detectWeb(doc, url) {
 		return "multiple";
 	}
 
-	var persistentLink = doc.getElementsByClassName("permalink-link");
-	if (persistentLink.length && persistentLink[0].nodeName.toUpperCase() == 'A') {
+	if (doc.querySelector("a.permalink-link")) {
 		return "journalArticle";
 	}
 	else if (ZU.xpathText(doc, '//section[@class="record-header"]/h2')) {
@@ -83,6 +82,25 @@ function downloadFunction(text, url, prefs) {
 	// hopefully EBCSOhost doesn't use this for anything useful
 	text = text.replace(/^M3\s\s?-.*/gm, '');
 	
+	// we'll save this for later, in case we have to throw away a subtitle
+	// from the RIS
+	let subtitle;
+	
+	// EBSCOhost uses nonstandard tags to represent journal titles on some items
+	// no /g flag so we don't create duplicate tags
+	let journalRe = /^(JO|JF|J1)/m;
+	if (journalRe.test(text)) {
+		let subtitleRe = /^T2\s\s?-\s?(.*)/m;
+		let subtitleMatch = text.match(subtitleRe);
+		if (subtitleMatch) {
+			// if there's already something in T2, store it and erase it from the RIS
+			subtitle = subtitleMatch[1];
+			text = text.replace(subtitleRe, '');
+		}
+		
+		text = text.replace(journalRe, 'T2');
+	}
+	
 	// Let's try to keep season info
 	// Y1  - 1993///Winter93
 	// Y1  - 2009///Spring2009
@@ -109,6 +127,10 @@ function downloadFunction(text, url, prefs) {
 			
 			if (item.title.toUpperCase() == item.title) {
 				item.title = ZU.capitalizeTitle(item.title, true);
+			}
+			
+			if (subtitle) {
+				item.title += `: ${subtitle}`;
 			}
 		}
 
@@ -210,6 +232,11 @@ function downloadFunction(text, url, prefs) {
 
 				ZU.processDocuments(pdf,
 					function (pdfDoc) {
+						if (!isCorrectViewerPage(pdfDoc)) {
+							Z.debug('PDF viewer page doesn\'t appear to be serving the correct PDF. Skipping PDF attachment.');
+							return;
+						}
+						
 						var realpdf = findPdfUrl(pdfDoc);
 						if (realpdf) {
 							item.attachments.push({
@@ -337,6 +364,21 @@ function urlToArgs(url) {
 	}
 
 	return args;
+}
+
+// given a PDF viewer document, returns whether it appears to be displaying
+// the correct PDF corresponding to the requested item. EBSCO sometimes returns
+// the PDF for a previously viewed item when the current item doesn't have an
+// associated PDF, but it won't serve metadata on the PDF viewer page in these
+// cases.
+function isCorrectViewerPage(pdfDoc) {
+	let citationAmplitude = attr(pdfDoc, 'a[name="citation"][data-amplitude]', 'data-amplitude');
+	if (!citationAmplitude || !citationAmplitude.startsWith('{')) {
+		Z.debug('PDF viewer page structure has changed - assuming PDF is correct');
+		return true;
+	}
+	
+	return !!JSON.parse(citationAmplitude).result_index;
 }
 
 // given a pdfviewer page, extracts the PDF url
@@ -541,5 +583,5 @@ function doDelivery(doc, itemInfo) {
 }
 
 /** BEGIN TEST CASES **/
-
+var testCases = []
 /** END TEST CASES **/

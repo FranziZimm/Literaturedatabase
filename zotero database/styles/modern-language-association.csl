@@ -12,7 +12,7 @@
     <category citation-format="author"/>
     <category field="generic-base"/>
     <summary>This style adheres to the MLA 9th edition handbook. Follows the structure of references as outlined in the MLA Manual closely</summary>
-    <updated>2021-07-30T13:26:51+00:00</updated>
+    <updated>2022-04-24T13:59:40+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -138,6 +138,7 @@
         </else>
       </choose>
       <text variable="version"/>
+      <text variable="medium"/>
     </group>
   </macro>
   <macro name="volume-lowercase">
@@ -193,14 +194,18 @@
     </group>
   </macro>
   <macro name="publisher">
-    <text variable="publisher"/>
+    <choose>
+      <if type="article-magazine article-newspaper article-journal" match="none">
+        <text variable="publisher"/>
+      </if>
+    </choose>
   </macro>
   <macro name="publication-date">
     <choose>
       <if type="book chapter paper-conference motion_picture" match="any">
         <date variable="issued" form="numeric" date-parts="year"/>
       </if>
-      <else-if type="article-journal article-magazine" match="any">
+      <else-if type="article-journal" match="any">
         <date variable="issued" form="text" date-parts="year-month"/>
       </else-if>
       <else-if type="speech" match="none">

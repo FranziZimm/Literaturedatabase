@@ -1,15 +1,15 @@
 {
 	"translatorID": "fce388a6-a847-4777-87fb-6595e710b7e7",
-	"translatorType": 4,
 	"label": "ProQuest",
 	"creator": "Avram Lyon",
 	"target": "^https?://(www|search)\\.proquest\\.com/(.*/)?(docview|pagepdf|results|publicationissue|browseterms|browsetitles|browseresults|myresearch/(figtables|documents))",
 	"minVersion": "3.0",
-	"maxVersion": null,
+	"maxVersion": "",
 	"priority": 100,
 	"inRepository": true,
+	"translatorType": 4,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2021-08-25 17:25:00"
+	"lastUpdated": "2022-01-04 09:11:57"
 }
 
 /*
@@ -73,7 +73,7 @@ function getTextValue(doc, fields) {
 function initLang(doc) {
 	var lang = ZU.xpathText(doc, '//a[span[contains(@class,"uxf-globe")]]');
 	if (lang && lang.trim() != "English") {
-		lang = lang.trim();
+		lang = lang.trim().split(',')[0];
 
 		// if already initialized, don't need to do anything else
 		if (lang == language) return;
@@ -168,7 +168,7 @@ function detectWeb(doc, url) {
 
 	// there is not much information about the item type in the pdf/fulltext page
 	let titleRow = text(doc, '.open-access');
-	if (titleRow && !text(doc, '.ol-login-link')) {
+	if (titleRow && doc.getElementById('docview-nav-stick')) { // do not continue if there is no nav to the Abstract, as the translation will fail
 		if (getItemType([titleRow])) {
 			return getItemType([titleRow]);
 		}
@@ -219,10 +219,9 @@ function doWeb(doc, url, noFollow) {
 		});
 	}
 	else {
-		var abstractTab = doc.getElementById('tab-AbstractRecord-null') // Seems like that null is a bug and it might change at some point
-			|| doc.getElementById('tab-Record-null'); // Shown as Details
-		if (!(abstractTab && !abstractTab.classList.contains('active'))) {
-			Zotero.debug("On Abstract page, scraping");
+		var abstractTab = doc.getElementById('addFlashPageParameterformat_abstract') || doc.getElementById('addFlashPageParameterformat_citation');
+		if (abstractTab && abstractTab.classList.contains('active')) {
+			Zotero.debug("On Abstract tab and scraping");
 			scrape(doc, url, type);
 		}
 		else if (noFollow) {
@@ -230,12 +229,12 @@ function doWeb(doc, url, noFollow) {
 			scrape(doc, url, type);
 		}
 		else {
-			var link = abstractTab.getElementsByTagName('a')[0];
+			var link = abstractTab.href;
 			if (!link) {
 				throw new Error("Could not find the abstract/metadata link");
 			}
 			Zotero.debug("Going to the Abstract tab");
-			ZU.processDocuments(link.href, function (doc, url) {
+			ZU.processDocuments(link, function (doc, url) {
 				doWeb(doc, url, true);
 			});
 		}
@@ -244,17 +243,17 @@ function doWeb(doc, url, noFollow) {
 
 function scrape(doc, url, type) {
 	var item = new Zotero.Item(type);
-
+	
 	// get all rows
 	var rows = doc.getElementsByClassName('display_record_indexing_row');
-
+	
 	let label, value, enLabel;
 	var dates = [], place = {}, altKeywords = [];
 
 	for (let i = 0, n = rows.length; i < n; i++) {
 		label = rows[i].childNodes[0];
 		value = rows[i].childNodes[1];
-
+		
 		if (!label || !value) continue;
 
 		label = label.textContent.trim();
@@ -360,6 +359,7 @@ function scrape(doc, url, type) {
 				item.thesisType = value;
 				break;
 			case 'Publisher':
+			case 'Printer/Publisher':
 				item.publisher = value;
 				break;
 
@@ -469,7 +469,8 @@ function scrape(doc, url, type) {
 
 	var date = ZU.xpathText(byline, './text()');
 	if (date) date = date.match(/]\s+(.+?):/);
-	if (date) date = date[1];
+	// Convert date to ISO to make sure we don't save random strings
+	if (date) date = ZU.strToISO(date[1]);
 	// add date if we only have a year and date is longer in the byline
 	if (date
 		&& (!item.date
@@ -662,6 +663,7 @@ var fieldNames = {
 		School: 'المدرسة',
 		Degree: 'الدرجة',
 		Publisher: 'الناشر',
+		"Printer/Publisher": 'جهة الطباعة/الناشر',
 		"Place of publication": 'مكان النشر',
 		"School location": 'موقع المدرسة',
 		"Country of publication": 'بلد النشر',
@@ -695,6 +697,7 @@ var fieldNames = {
 		School: 'Sekolah',
 		Degree: 'Gelar',
 		Publisher: 'Penerbit',
+		"Printer/Publisher": 'Pencetak/Penerbit',
 		"Place of publication": 'Tempat publikasi',
 		"School location": 'Lokasi sekolah',
 		"Country of publication": 'Negara publikasi',
@@ -728,6 +731,7 @@ var fieldNames = {
 		School: 'Instituce',
 		Degree: 'Stupeň',
 		Publisher: 'Vydavatel',
+		"Printer/Publisher": 'Tiskař/vydavatel',
 		"Place of publication": 'Místo vydání',
 		"School location": 'Místo instituce',
 		"Country of publication": 'Země vydání',
@@ -761,6 +765,7 @@ var fieldNames = {
 		School: 'Bildungseinrichtung',
 		Degree: 'Studienabschluss',
 		Publisher: 'Herausgeber',
+		"Printer/Publisher": 'Drucker/Verleger',
 		"Place of publication": 'Verlagsort',
 		"School location": 'Standort der Bildungseinrichtung',
 		"Country of publication": 'Publikationsland',
@@ -794,6 +799,7 @@ var fieldNames = {
 		School: 'Institución',
 		Degree: 'Título universitario',
 		Publisher: 'Editorial',
+		"Printer/Publisher": 'Imprenta/publicista',
 		"Place of publication": 'Lugar de publicación',
 		"School location": 'Lugar de la institución',
 		"Country of publication": 'País de publicación',
@@ -824,9 +830,11 @@ var fieldNames = {
 		"Publication year": 'Année de publication',
 		Year: 'Année',
 		Pages: 'Pages',
+		"First page": 'Première page',
 		School: 'École',
 		Degree: 'Diplôme',
 		Publisher: 'Éditeur',
+		"Printer/Publisher": 'Imprimeur/Éditeur',
 		"Place of publication": 'Lieu de publication',
 		"School location": "Localisation de l'école",
 		"Country of publication": 'Pays de publication',
@@ -860,6 +868,7 @@ var fieldNames = {
 		School: '학교',
 		Degree: '학위',
 		Publisher: '출판사',
+		"Printer/Publisher": '인쇄소/출판사',
 		"Place of publication": '출판 지역',
 		"School location": '학교 지역',
 		"Country of publication": '출판 국가',
@@ -893,6 +902,7 @@ var fieldNames = {
 		School: 'Istituzione accademica',
 		Degree: 'Titolo accademico',
 		Publisher: 'Casa editrice',
+		"Printer/Publisher": 'Tipografo/Editore',
 		"Place of publication": 'Luogo di pubblicazione:',
 		"School location": 'Località istituzione accademica',
 		"Country of publication": 'Paese di pubblicazione',
@@ -926,6 +936,7 @@ var fieldNames = {
 		School: 'Iskola',
 		Degree: 'Diploma',
 		Publisher: 'Kiadó',
+		"Printer/Publisher": 'Nyomda/kiadó',
 		"Place of publication": 'Publikáció helye',
 		"School location": 'Iskola helyszíne:',
 		"Country of publication": 'Publikáció országa',
@@ -959,6 +970,7 @@ var fieldNames = {
 		School: '学校',
 		Degree: '学位称号',
 		Publisher: '出版社',
+		"Printer/Publisher": '印刷業者/出版社',
 		"Place of publication": '出版地',
 		"School location": '学校所在地',
 		"Country of publication": '出版国',
@@ -992,6 +1004,7 @@ var fieldNames = {
 		School: 'Skole',
 		Degree: 'Grad',
 		Publisher: 'Utgiver',
+		"Printer/Publisher": 'Trykkeri/utgiver',
 		"Place of publication": 'Utgivelsessted',
 		"School location": 'Skolested',
 		"Country of publication": 'Utgivelsesland',
@@ -1025,6 +1038,7 @@ var fieldNames = {
 		School: 'Uczelnia',
 		Degree: 'Stopień',
 		Publisher: 'Wydawca',
+		"Printer/Publisher": 'Drukarnia/wydawnictwo',
 		"Place of publication": 'Miejsce publikacji',
 		"School location": 'Lokalizacja uczelni',
 		"Country of publication": 'Kraj publikacji',
@@ -1058,6 +1072,7 @@ var fieldNames = {
 		School: 'Escola',
 		Degree: 'Graduação',
 		Publisher: 'Editora',
+		"Printer/Publisher": 'Editora/selo',
 		"Place of publication": 'Local de publicação',
 		"School location": 'Localização da escola',
 		"Country of publication": 'País de publicação',
@@ -1091,6 +1106,7 @@ var fieldNames = {
 		School: 'Escola',
 		Degree: 'Licenciatura',
 		Publisher: 'Editora',
+		"Printer/Publisher": 'Editora/selo',
 		"Place of publication": 'Local de publicação',
 		"School location": 'Localização da escola',
 		"Country of publication": 'País de publicação',
@@ -1124,6 +1140,7 @@ var fieldNames = {
 		School: 'Учебное заведение',
 		Degree: 'Степень',
 		Publisher: 'Издательство',
+		"Printer/Publisher": 'Типография/издатель',
 		"Place of publication": 'Место публикации',
 		"School location": 'Местонахождение учебного заведения',
 		"Country of publication": 'Страна публикации',
@@ -1157,6 +1174,7 @@ var fieldNames = {
 		School: 'สถาบันการศึกษา',
 		Degree: 'ปริญญาบัตร',
 		Publisher: 'สำนักพิมพ์',
+		"Printer/Publisher": 'ผู้ตีพิมพ์/ผู้เผยแพร่',
 		"Place of publication": 'สถานที่พิมพ์',
 		"School location": 'สถานที่ตั้งของสถาบันการศึกษา',
 		"Country of publication": 'ประเทศที่พิมพ์',
@@ -1190,6 +1208,7 @@ var fieldNames = {
 		School: 'Okul',
 		Degree: 'Derece',
 		Publisher: 'Yayıncı',
+		"Printer/Publisher": 'Basımevi/Yayınc',
 		"Place of publication": 'Basım yeri',
 		"School location": 'Okul konumu',
 		"Country of publication": 'Yayınlanma ülkesi',
@@ -1223,6 +1242,7 @@ var fieldNames = {
 		School: '学校',
 		Degree: '学位',
 		Publisher: '出版商',
+		"Printer/Publisher": '印刷商/出版商',
 		"Place of publication": '出版物地点',
 		"School location": '学校地点',
 		"Country of publication": '出版物国家/地区',
@@ -1256,6 +1276,7 @@ var fieldNames = {
 		School: '學校',
 		Degree: '學位',
 		Publisher: '出版者',
+		"Printer/Publisher": '印刷者/出版者',
 		"Place of publication": '出版地',
 		"School location": '學校地點',
 		"Country of publication": '出版國家/地區',
@@ -1264,6 +1285,7 @@ var fieldNames = {
 		"Journal subject": '期刊主題'
 	}
 };
+
 
 /** BEGIN TEST CASES **/
 var testCases = [

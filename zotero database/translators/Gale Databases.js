@@ -1,15 +1,15 @@
 {
 	"translatorID": "e3748cf3-36dc-4816-bf86-95a0b63feb03",
-	"translatorType": 4,
 	"label": "Gale Databases",
 	"creator": "Abe Jellinek and Jim Miazek",
 	"target": "^https?://[^?&]*(?:gale|galegroup|galetesting|ggtest)\\.com(?:\\:\\d+)?/ps/",
 	"minVersion": "3.0",
-	"maxVersion": null,
+	"maxVersion": "",
 	"priority": 100,
 	"inRepository": true,
+	"translatorType": 4,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2021-07-29 22:50:00"
+	"lastUpdated": "2021-12-21 04:18:59"
 }
 
 /*
@@ -96,6 +96,8 @@ function doWeb(doc, url) {
 function scrape(doc, url) {
 	let citeData = doc.querySelector('input.citationToolsData');
 	let documentUrl = citeData.getAttribute('data-url');
+	// Value is URL-encoded when loaded via processDocuments()
+	documentUrl = decodeURIComponent(documentUrl);
 	let mcode = citeData.getAttribute('data-mcode');
 	let productName = citeData.getAttribute('data-productname');
 	let docId = mcode ? undefined : citeData.getAttribute('data-docid');

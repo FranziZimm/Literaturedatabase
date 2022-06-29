@@ -1,15 +1,15 @@
 {
 	"translatorID": "951c027d-74ac-47d4-a107-9c3069ab7b48",
-	"translatorType": 4,
 	"label": "Embedded Metadata",
 	"creator": "Simon Kornblith and Avram Lyon",
-	"target": null,
+	"target": "",
 	"minVersion": "3.0.4",
-	"maxVersion": null,
+	"maxVersion": "",
 	"priority": 320,
 	"inRepository": true,
+	"translatorType": 4,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2021-08-16 19:25:00"
+	"lastUpdated": "2022-01-03 16:51:36"
 }
 
 /*
@@ -405,43 +405,15 @@ function addHighwireMetadata(doc, newItem, hwType) {
 	if (authorNodes.length == 0) {
 		authorNodes = getContent(doc, 'citation_authors');
 	}
+
+	var editorNodes = getContent(doc, 'citation_editor');
+	if (editorNodes.length == 0) {
+		editorNodes = getContent(doc, 'citation_editors');
+	}
 	// save rdfCreators for later
 	var rdfCreators = newItem.creators;
-	newItem.creators = [];
-	for (var i = 0, n = authorNodes.length; i < n; i++) {
-		var authors = authorNodes[i].nodeValue.split(/\s*;\s*/);
-		if (authors.length == 1 && authorNodes.length == 1) {
-			var authorsByComma = authors[0].split(/\s*,\s*/);
-			
-			/* If there is only one author node and
-			we get nothing when splitting by semicolon, there are at least two
-			words on either side of a comma, and it doesn't appear to be a
-			two-word Spanish surname, we split by comma. */
-			
-			let lang = getContentText(doc, 'citation_language');
-			let twoWordName = authorsByComma.length == 2
-				&& ['es', 'spa', 'Spanish', 'español'].includes(lang)
-				&& authorsByComma[0].split(' ').length == 2;
-			if (authorsByComma.length > 1
-				&& authorsByComma[0].includes(" ")
-				&& authorsByComma[1].includes(" ")
-				&& !twoWordName) authors = authorsByComma;
-		}
-		for (var j = 0, m = authors.length; j < m; j++) {
-			var author = authors[j].trim();
+	newItem.creators = processHighwireCreators(authorNodes, "author", doc).concat(processHighwireCreators(editorNodes, "editor", doc));
 
-			// skip empty authors. Try to match something other than punctuation
-			if (!author || !author.match(/[^\s,-.;]/)) continue;
-
-			author = ZU.cleanAuthor(author, "author", author.includes(","));
-			if (author.firstName) {
-				// fix case for personal names
-				author.firstName = fixCase(author.firstName);
-				author.lastName = fixCase(author.lastName);
-			}
-			newItem.creators.push(author);
-		}
-	}
 
 	if (!newItem.creators.length) {
 		newItem.creators = rdfCreators;
@@ -466,7 +438,7 @@ function addHighwireMetadata(doc, newItem, hwType) {
 		}
 
 		/* This may introduce duplicates
-		//if there are leftover creators from RDF, we should use them
+		// if there are leftover creators from RDF, we should use them
 		if(rdfCreators.length) {
 			for(var i=0, n=rdfCreators.length; i<n; i++) {
 				newItem.creators.push(rdfCreators[i]);
@@ -493,11 +465,24 @@ function addHighwireMetadata(doc, newItem, hwType) {
 
 	// sometimes RDF has more info, let's not drop it
 	var rdfPages = (newItem.pages) ? newItem.pages.split(/\s*-\s*/) : [];
+	
+	// matches hyphens and en-dashes
+	let dashRe = /[-\u2013]/g;
 	var firstpage = getContentText(doc, 'citation_firstpage');
 	var lastpage = getContentText(doc, 'citation_lastpage');
-	if (firstpage && firstpage.includes("-")) {
-		firstpage = firstpage.split(/\s*-\s*/)[0];
-		lastpage = lastpage || firstpage.split(/\s*-\s*/)[1];
+	if (firstpage) {
+		firstpage = firstpage.replace(dashRe, '-');
+		if (firstpage.includes("-")) {
+			firstpage = firstpage.split(/\s*-\s*/)[0];
+			lastpage = lastpage || firstpage.split(/\s*-\s*/)[1];
+		}
+	}
+	if (lastpage) {
+		lastpage = lastpage.replace(dashRe, '-');
+		if (lastpage.includes('-')) {
+			firstpage = firstpage || lastpage.split(/\s*-\s*/)[0];
+			lastpage = lastpage.split(/\s*-\s*/)[1];
+		}
 	}
 	firstpage = firstpage || rdfPages[0];
 	lastpage = lastpage || rdfPages[1];
@@ -582,6 +567,47 @@ function addHighwireMetadata(doc, newItem, hwType) {
 	}
 }
 
+// process highwire creators; currently only editor and author, but easy to extend
+function processHighwireCreators(creatorNodes, role, doc) {
+	let itemCreators = [];
+	for (let creatorNode of creatorNodes) {
+		let creators = creatorNode.nodeValue.split(/\s*;\s*/);
+		if (creators.length == 1 && creatorNodes.length == 1) {
+			var authorsByComma = creators[0].split(/\s*,\s*/);
+	
+			/* If there is only one author node and
+			we get nothing when splitting by semicolon, there are at least two
+			words on either side of a comma, and it doesn't appear to be a
+			two-word Spanish surname, we split by comma. */
+			
+			let lang = getContentText(doc, 'citation_language');
+			let twoWordName = authorsByComma.length == 2
+				&& ['es', 'spa', 'Spanish', 'español'].includes(lang)
+				&& authorsByComma[0].split(' ').length == 2;
+			if (authorsByComma.length > 1
+				&& authorsByComma[0].includes(" ")
+				&& authorsByComma[1].includes(" ")
+				&& !twoWordName) creators = authorsByComma;
+		}
+		
+		for (let creator of creators) {
+			creator = creator.trim();
+
+			// skip empty authors. Try to match something other than punctuation
+			if (!creator || !creator.match(/[^\s,-.;]/)) continue;
+
+			creator = ZU.cleanAuthor(creator, role, creator.includes(","));
+			if (creator.firstName) {
+				// fix case for personal names
+				creator.firstName = fixCase(creator.firstName);
+				creator.lastName = fixCase(creator.lastName);
+			}
+			itemCreators.push(creator);
+		}
+	}
+	return itemCreators;
+}
+
 function addOtherMetadata(doc, newItem) {
 	// Scrape parsely metadata http://parsely.com/api/crawler.html
 	var parselyJSON = ZU.xpathText(doc, '(//x:meta[@name="parsely-page"]/@content)[1]', namespaces);
@@ -645,12 +671,13 @@ function addLowQualityMetadata(doc, newItem) {
 
 	if (!newItem.creators.length) {
 		// the authors in the standard W3 author tag are safer than byline guessing
-		var w3authors = ZU.xpath(doc, '//meta[@name="author" or @property="author"]');
-		if (w3authors.length > 0) {
-			for (var i = 0; i < w3authors.length; i++) {
-				// skip empty authors. Try to match something other than punctuation
-				if (!w3authors[i].content || !w3authors[i].content.match(/[^\s,-.;]/)) continue;
-				newItem.creators.push(ZU.cleanAuthor(w3authors[i].content, "author"));
+		var w3authors = new Set(
+			Array.from(doc.querySelectorAll('meta[name="author" i], meta[property="author" i]'))
+				.map(authorNode => authorNode.content)
+				.filter(content => content && /[^\s,-.;]/.test(content)));
+		if (w3authors.size) {
+			for (let author of w3authors) {
+				newItem.creators.push(ZU.cleanAuthor(author, "author"));
 			}
 		}
 		else if (tryOgAuthors(doc)) {
@@ -662,13 +689,13 @@ function addLowQualityMetadata(doc, newItem) {
 	}
 	// fall back to "keywords"
 	if (!newItem.tags.length) {
-		newItem.tags = ZU.xpathText(doc, '//x:meta[@name="keywords"]/@content', namespaces);
+		newItem.tags = attr(doc, 'meta[name="keywords" i]', 'content');
 	}
 
 	// We can try getting abstract from 'description'
 	if (!newItem.abstractNote) {
 		newItem.abstractNote = ZU.trimInternal(
-			ZU.xpathText(doc, '//x:meta[@name="description"]/@content', namespaces) || '');
+			attr(doc, 'meta[name="description" i]', 'content'));
 	}
 
 	if (!newItem.url) {
@@ -676,7 +703,7 @@ function addLowQualityMetadata(doc, newItem) {
 	}
 	
 	if (!newItem.language) {
-		newItem.language = ZU.xpathText(doc, '//x:meta[@name="language"]/@content', namespaces)
+		newItem.language = attr(doc, 'meta[name="language" i]', 'content')
 			|| ZU.xpathText(doc, '//x:meta[@name="lang"]/@content', namespaces)
 			|| ZU.xpathText(doc, '//x:meta[@http-equiv="content-language"]/@content', namespaces)
 			|| ZU.xpathText(doc, '//html/@lang')
@@ -824,7 +851,7 @@ function getAuthorFromByline(doc, newItem) {
 		else {
 			byline = byline.split(/\bby[:\s]+/i);
 			byline = byline[byline.length - 1].replace(/\s*[[(].+?[)\]]\s*/g, '');
-			var authors = byline.split(/\s*(?:(?:,\s*)?and|,|&)\s*/i);
+			var authors = byline.split(/\s*(?:(?:,\s*)?\band\b|,|&)\s*/i);
 			if (authors.length == 2 && authors[0].split(' ').length == 1) {
 				// this was probably last, first
 				newItem.creators.push(ZU.cleanAuthor(fixCase(byline), 'author', true));
@@ -1265,7 +1292,7 @@ var testCases = [
 	},
 	{
 		"type": "web",
-		"url": "http://volokh.com/2013/12/22/northwestern-cant-quit-asa-boycott-member/",
+		"url": "https://volokh.com/2013/12/22/northwestern-cant-quit-asa-boycott-member/",
 		"items": [
 			{
 				"itemType": "blogPost",
@@ -1281,7 +1308,7 @@ var testCases = [
 				"abstractNote": "Northwestern University recently condemned the American Studies Association boycott of Israel. Unlike some other schools that quit their institutional membership in the ASA over the boycott, Northwestern has not. Many of my Northwestern colleagues were about to start urging a similar withdrawal. Then we learned from our administration that despite being listed as in institutional …",
 				"blogTitle": "The Volokh Conspiracy",
 				"language": "en-US",
-				"url": "http://volokh.com/2013/12/22/northwestern-cant-quit-asa-boycott-member/",
+				"url": "https://volokh.com/2013/12/22/northwestern-cant-quit-asa-boycott-member/",
 				"attachments": [
 					{
 						"title": "Snapshot",
@@ -1336,14 +1363,14 @@ var testCases = [
 	},
 	{
 		"type": "web",
-		"url": "https://olh.openlibhums.org/article/10.16995/olh.46/",
+		"url": "https://olh.openlibhums.org/article/id/4400/",
 		"items": [
 			{
 				"itemType": "journalArticle",
 				"title": "Opening the Open Library of Humanities",
 				"creators": [
 					{
-						"firstName": "Martin",
+						"firstName": "Martin Paul",
 						"lastName": "Eve",
 						"creatorType": "author"
 					},
@@ -1353,17 +1380,13 @@ var testCases = [
 						"creatorType": "author"
 					}
 				],
-				"date": "2015-09-28",
+				"date": "2015-09-28 00:00",
 				"DOI": "10.16995/olh.46",
-				"ISSN": "2056-6700",
-				"abstractNote": "Article: Opening the Open Library of Humanities",
 				"issue": "1",
 				"language": "en",
 				"libraryCatalog": "olh.openlibhums.org",
-				"pages": "e1",
 				"publicationTitle": "Open Library of Humanities",
-				"rights": "Authors who publish with this journal agree to the following terms:    Authors retain copyright and grant the journal right of first publication with the work simultaneously licensed under a  Creative Commons Attribution License  that allows others to share the work with an acknowledgement of the work's authorship and initial publication in this journal.  Authors are able to enter into separate, additional contractual arrangements for the non-exclusive distribution of the journal's published version of the work (e.g., post it to an institutional repository or publish it in a book), with an acknowledgement of its initial publication in this journal.  Authors are permitted and encouraged to post their work online (e.g., in institutional repositories or on their website) prior to and during the submission process, as it can lead to productive exchanges, as well as earlier and greater citation of published work (See  The Effect of Open Access ).  All third-party images reproduced on this journal are shared under Educational Fair Use. For more information on  Educational Fair Use , please see  this useful checklist prepared by Columbia University Libraries .   All copyright  of third-party content posted here for research purposes belongs to its original owners.  Unless otherwise stated all references to characters and comic art presented on this journal are ©, ® or ™ of their respective owners. No challenge to any owner’s rights is intended or should be inferred.",
-				"url": "http://olh.openlibhums.org/article/10.16995/olh.46/",
+				"url": "https://olh.openlibhums.org/article/id/4400/",
 				"volume": "1",
 				"attachments": [
 					{
@@ -1414,7 +1437,7 @@ var testCases = [
 	},
 	{
 		"type": "web",
-		"url": "http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A766397&dswid=3874",
+		"url": "http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A766397&dswid=334",
 		"items": [
 			{
 				"itemType": "conferencePaper",
@@ -1482,7 +1505,7 @@ var testCases = [
 					}
 				],
 				"date": "2013",
-				"abstractNote": "DiVA portal is a finding tool for research publications and student theses written at the following 49 universities and research institutions.",
+				"abstractNote": "DiVA portal is a finding tool for research publications and student theses written at the following 50 universities and research institutions.",
 				"conferenceName": "Netmob 2013 - Third International Conference on the Analysis of Mobile Phone Datasets, May 1-3, 2013, MIT, Cambridge, MA, USA",
 				"language": "eng",
 				"libraryCatalog": "www.diva-portal.org",
@@ -1680,6 +1703,223 @@ var testCases = [
 				"attachments": [
 					{
 						"title": "Snapshot"
+					}
+				],
+				"tags": [],
+				"notes": [],
+				"seeAlso": []
+			}
+		]
+	},
+	{
+		"type": "web",
+		"url": "https://www.cambridge.org/core/books/conservation-research-policy-and-practice/22AB241C45F182E40FC7F13637485D7E",
+		"items": [
+			{
+				"itemType": "webpage",
+				"title": "Conservation Research, Policy and Practice",
+				"creators": [
+					{
+						"firstName": "William J.",
+						"lastName": "Sutherland",
+						"creatorType": "editor"
+					},
+					{
+						"firstName": "Peter N. M.",
+						"lastName": "Brotherton",
+						"creatorType": "editor"
+					},
+					{
+						"firstName": "Zoe G.",
+						"lastName": "Davies",
+						"creatorType": "editor"
+					},
+					{
+						"firstName": "Nancy",
+						"lastName": "Ockendon",
+						"creatorType": "editor"
+					},
+					{
+						"firstName": "Nathalie",
+						"lastName": "Pettorelli",
+						"creatorType": "editor"
+					},
+					{
+						"firstName": "Juliet A.",
+						"lastName": "Vickery",
+						"creatorType": "editor"
+					}
+				],
+				"date": "2020/04",
+				"abstractNote": "Conservation research is essential for advancing knowledge but to make an impact scientific evidence must influence conservation policies, decision making and practice. This raises a multitude of challenges. How should evidence be collated and presented to policymakers to maximise its impact? How can effective collaboration between conservation scientists and decision-makers be established? How can the resulting messages be communicated to bring about change? Emerging from a successful international symposium organised by the British Ecological Society and the Cambridge Conservation Initiative, this is the first book to practically address these questions across a wide range of conservation topics. Well-renowned experts guide readers through global case studies and their own experiences. A must-read for practitioners, researchers, graduate students and policymakers wishing to enhance the prospect of their work 'making a difference'. This title is also available as Open Access on Cambridge Core.",
+				"extra": "DOI: 10.1017/9781108638210",
+				"language": "en",
+				"url": "https://www.cambridge.org/core/books/conservation-research-policy-and-practice/22AB241C45F182E40FC7F13637485D7E",
+				"websiteTitle": "Cambridge Core",
+				"attachments": [
+					{
+						"title": "Snapshot",
+						"mimeType": "text/html"
+					}
+				],
+				"tags": [],
+				"notes": [],
+				"seeAlso": []
+			}
+		]
+	},
+	{
+		"type": "web",
+		"url": "https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4468",
+		"items": [
+			{
+				"itemType": "journalArticle",
+				"title": "A Robin Hood approach to forced alignment: English-trained algorithms and their use on Australian languages",
+				"creators": [
+					{
+						"firstName": "Sarah",
+						"lastName": "Babinski",
+						"creatorType": "author"
+					},
+					{
+						"firstName": "Rikker",
+						"lastName": "Dockum",
+						"creatorType": "author"
+					},
+					{
+						"firstName": "J. Hunter",
+						"lastName": "Craft",
+						"creatorType": "author"
+					},
+					{
+						"firstName": "Anelisa",
+						"lastName": "Fergus",
+						"creatorType": "author"
+					},
+					{
+						"firstName": "Dolly",
+						"lastName": "Goldenberg",
+						"creatorType": "author"
+					},
+					{
+						"firstName": "Claire",
+						"lastName": "Bowern",
+						"creatorType": "author"
+					}
+				],
+				"date": "2019/03/15",
+				"DOI": "10.3765/plsa.v4i1.4468",
+				"ISSN": "2473-8689",
+				"abstractNote": "Forced alignment automatically aligns audio recordings of spoken language with transcripts at the segment level, greatly reducing the time required to prepare data for phonetic analysis. However, existing algorithms are mostly trained on a few well-documented languages. We test the performance of three algorithms against manually aligned data. For at least some tasks, unsupervised alignment (either based on English or trained from a small corpus) is sufficiently reliable for it to be used on legacy data for low-resource languages. Descriptive phonetic work on vowel inventories and prosody can be accurately captured by automatic alignment with minimal training data. Consonants provided significantly more challenges for forced alignment.",
+				"issue": "1",
+				"language": "en",
+				"libraryCatalog": "journals.linguisticsociety.org",
+				"pages": "3-12",
+				"publicationTitle": "Proceedings of the Linguistic Society of America",
+				"rights": "Copyright (c) 2019 Sarah Babinski, Rikker Dockum, J. Hunter Craft, Anelisa Fergus, Dolly Goldenberg, Claire Bowern",
+				"shortTitle": "A Robin Hood approach to forced alignment",
+				"url": "https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4468",
+				"volume": "4",
+				"attachments": [
+					{
+						"title": "Full Text PDF",
+						"mimeType": "application/pdf"
+					},
+					{
+						"title": "Snapshot",
+						"mimeType": "text/html"
+					}
+				],
+				"tags": [],
+				"notes": [],
+				"seeAlso": []
+			}
+		]
+	},
+	{
+		"type": "web",
+		"url": "https://www.swr.de/wissen/1000-antworten/kultur/woher-kommt-redensart-ueber-die-wupper-gehen-100.html",
+		"items": [
+			{
+				"itemType": "webpage",
+				"title": "Woher kommt \"über die Wupper gehen\"?",
+				"creators": [
+					{
+						"firstName": "",
+						"lastName": "SWRWissen",
+						"creatorType": "author"
+					}
+				],
+				"abstractNote": "Es gibt eine Vergleichsredensart: &quot;Der ist über den Jordan gegangen.“ Das heißt, er ist gestorben. Das bezieht sich auf die alten Grenzen Israels. In Wuppertal jedoch liegt jenseits des Flusses das Gefängnis.",
+				"language": "de",
+				"url": "https://www.swr.de/wissen/1000-antworten/kultur/woher-kommt-redensart-ueber-die-wupper-gehen-100.html",
+				"websiteTitle": "swr.online",
+				"attachments": [
+					{
+						"title": "Snapshot",
+						"mimeType": "text/html"
+					}
+				],
+				"tags": [],
+				"notes": [],
+				"seeAlso": []
+			}
+		]
+	},
+	{
+		"type": "web",
+		"url": "https://www.azatliq.org/a/24281041.html",
+		"items": [
+			{
+				"itemType": "webpage",
+				"title": "Татар яшьләре татарлыкны сакларга тырыша",
+				"creators": [
+					{
+						"firstName": "гүзәл",
+						"lastName": "мәхмүтова",
+						"creatorType": "author"
+					}
+				],
+				"abstractNote": "Бу көннәрдә “Идел” җәйләвендә XXI Татар яшьләре көннәре үтә. Яшьләр вакытларын төрле чараларда катнашып үткәрә.",
+				"language": "tt",
+				"url": "https://www.azatliq.org/a/24281041.html",
+				"websiteTitle": "Азатлык Радиосы",
+				"attachments": [
+					{
+						"title": "Snapshot",
+						"mimeType": "text/html"
+					}
+				],
+				"tags": [],
+				"notes": [],
+				"seeAlso": []
+			}
+		]
+	},
+	{
+		"type": "web",
+		"url": "https://www.hackingarticles.in/windows-privilege-escalation-kernel-exploit/",
+		"items": [
+			{
+				"itemType": "blogPost",
+				"title": "Windows Privilege Escalation: Kernel Exploit",
+				"creators": [
+					{
+						"firstName": "Raj",
+						"lastName": "Chandel",
+						"creatorType": "author"
+					}
+				],
+				"date": "2021-12-30T17:41:33+00:00",
+				"abstractNote": "As this series was dedicated to Windows Privilege escalation thus I’m writing this Post to explain command practice for kernel-mode exploitation. Table of Content What",
+				"blogTitle": "Hacking Articles",
+				"language": "en-US",
+				"shortTitle": "Windows Privilege Escalation",
+				"url": "https://www.hackingarticles.in/windows-privilege-escalation-kernel-exploit/",
+				"attachments": [
+					{
+						"title": "Snapshot",
+						"mimeType": "text/html"
 					}
 				],
 				"tags": [],

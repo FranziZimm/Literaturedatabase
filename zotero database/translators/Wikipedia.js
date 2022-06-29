@@ -1,15 +1,15 @@
 {
 	"translatorID": "e5dc9733-f8fc-4c00-8c40-e53e0bb14664",
-	"translatorType": 4,
 	"label": "Wikipedia",
 	"creator": "Aurimas Vinckevicius",
 	"target": "^https?://[^/]*wikipedia\\.org/",
 	"minVersion": "2.1.9",
-	"maxVersion": null,
+	"maxVersion": "",
 	"priority": 100,
 	"inRepository": true,
+	"translatorType": 4,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2021-09-19 22:05:00"
+	"lastUpdated": "2022-01-14 11:56:51"
 }
 
 /**
@@ -137,7 +137,7 @@ function scrape(doc, url) {
 	}
 
 	item.attachments.push({
-		url: item.url,
+		url: url,
 		title: 'Snapshot',
 		mimeType: 'text/html',
 		snapshot: true

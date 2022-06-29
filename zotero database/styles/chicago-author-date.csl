@@ -33,7 +33,7 @@
     <category citation-format="author-date"/>
     <category field="generic-base"/>
     <summary>The author-date variant of the Chicago style</summary>
-    <updated>2021-09-19T07:19:26+00:00</updated>
+    <updated>2022-02-06T02:20:47+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
@@ -43,6 +43,30 @@
       <term name="translator" form="verb-short">trans.</term>
       <term name="editortranslator" form="verb">edited and translated by</term>
       <term name="translator" form="short">trans.</term>
+    </terms>
+  </locale>
+  <locale xml:lang="pt-PT">
+    <terms>
+      <term name="accessed">acedido a</term>
+    </terms>
+  </locale>
+  <locale xml:lang="pt">
+    <terms>
+      <term name="editor" form="verb">editado por</term>
+      <term name="editor" form="verb-short">ed.</term>
+      <term name="container-author" form="verb">por</term>
+      <term name="translator" form="verb-short">traduzido por</term>
+      <term name="translator" form="short">trad.</term>
+      <term name="editortranslator" form="verb">editado e traduzido por</term>
+      <term name="and">e</term>
+      <term name="no date" form="long">s.d</term>
+      <term name="no date" form="short">s.d.</term>
+      <term name="in">em</term>
+      <term name="at">em</term>
+      <term name="by">por</term>
+      <!-- PUNCTUATION -->
+      <term name="open-quote">"</term>
+      <term name="close-quote">"</term>
     </terms>
   </locale>
   <macro name="secondary-contributors">
