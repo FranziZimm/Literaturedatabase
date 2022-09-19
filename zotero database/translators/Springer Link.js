@@ -1,15 +1,15 @@
 {
 	"translatorID": "d6c6210a-297c-4b2c-8c43-48cb503cc49e",
+	"translatorType": 4,
 	"label": "Springer Link",
 	"creator": "Aurimas Vinckevicius",
 	"target": "^https?://link\\.springer\\.com/(search(/page/\\d+)?\\?|(article|chapter|book|referenceworkentry|protocol|journal|referencework)/.+)",
 	"minVersion": "3.0",
-	"maxVersion": "",
+	"maxVersion": null,
 	"priority": 100,
 	"inRepository": true,
-	"translatorType": 4,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2022-04-11 21:24:58"
+	"lastUpdated": "2022-08-15 19:55:00"
 }
 
 /*
@@ -82,6 +82,9 @@ function getResultList(doc) {
 	// https://link.springer.com/journal/10344/volumes-and-issues/66-5
 	if (!results.length) {
 		results = ZU.xpath(doc, '//li[@class="c-list-group__item"]//h3/a');
+	}
+	if (!results.length) {
+		results = doc.querySelectorAll('h3.c-card__title > a');
 	}
 	return results;
 }
@@ -401,52 +404,52 @@ var testCases = [
 				],
 				"tags": [
 					{
-						"tag": " ANOVA "
+						"tag": "ANOVA"
 					},
 					{
-						"tag": " AUC "
+						"tag": "AUC"
 					},
 					{
-						"tag": " Central Limit Theorem "
+						"tag": "Central Limit Theorem"
 					},
 					{
-						"tag": " Confidence limits "
+						"tag": "Confidence limits"
 					},
 					{
-						"tag": " Correlation "
+						"tag": "Correlation"
 					},
 					{
-						"tag": " Enrichment "
+						"tag": "Enrichment"
 					},
 					{
-						"tag": " Error bars "
+						"tag": "Error bars"
 					},
 					{
-						"tag": " Propagation of error "
+						"tag": "Propagation of error"
 					},
 					{
-						"tag": " ROC curves "
+						"tag": "ROC curves"
 					},
 					{
-						"tag": " Standard deviation "
+						"tag": "Standard deviation"
 					},
 					{
-						"tag": " Student’s t-test "
+						"tag": "Statistics"
 					},
 					{
-						"tag": " Variance "
+						"tag": "Student’s t-test"
 					},
 					{
-						"tag": " Virtual screening "
+						"tag": "Variance"
 					},
 					{
-						"tag": " logit transform "
+						"tag": "Virtual screening"
 					},
 					{
-						"tag": " p-Values "
+						"tag": "logit transform"
 					},
 					{
-						"tag": "Statistics "
+						"tag": "p-Values"
 					}
 				],
 				"notes": [],
@@ -522,7 +525,23 @@ var testCases = [
 						"mimeType": "application/pdf"
 					}
 				],
-				"tags": [],
+				"tags": [
+					{
+						"tag": "Analytical solutions"
+					},
+					{
+						"tag": "Coastal aquifers"
+					},
+					{
+						"tag": "Elastic storage"
+					},
+					{
+						"tag": "Submarine outlet-capping"
+					},
+					{
+						"tag": "Tidal loading efficiency"
+					}
+				],
 				"notes": [],
 				"seeAlso": []
 			}
