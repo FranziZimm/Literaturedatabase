@@ -1,0 +1,663 @@
+The Language of Perspective How to Cite: Eekhof, L S, et al. 2020 VPIP: A Lexical Identification Procedure for Perceptual, Cognitive, and Emotional Viewpoint in Narrative Discourse. Open Library of H­ umanities, 6(1): 18, pp. 1–38. DOI: https://doi. org/10.16995/olh.483 Published: 03 June 2020
+Peer Review:
+This article has been peer reviewed through the double-blind process of Open Library of Humanities, which is a journal published by the Open Library of Humanities.
+Copyright:
+© 2020 The Author(s). This is an open-access article distributed under the terms of the C­ reative ­Commons Attribution 4.0 International License (CC-BY 4.0), which permits unrestricted use, ­distribution, and reproduction in any medium, provided the original author and source are credited. See http://creativecommons.org/licenses/by/4.0/.
+Open Access:
+Open Library of Humanities is a peer-reviewed open access journal.
+Digital Preservation:
+The Open Library of Humanities and all its journals are digitally preserved in the CLOCKSS scholarly archive service.
+
+Lynn S. Eekhof, et al., ‘VPIP: A Lexical Identification Procedure for Perceptual, Cognitive, and Emotional Viewpoint in Narrative Discourse’ (2020) 6(1): 18 Open Library of Humanities. DOI: https://doi.org/10.16995/olh.483
+THE LANGUAGE OF PERSPECTIVE
+VPIP: A Lexical Identification Procedure for Perceptual, Cognitive, and Emotional Viewpoint in Narrative Discourse
+Lynn S. Eekhof, Kobie van Krieken and José Sanders
+Centre for Language Studies, Radboud University Nijmegen, NL Corresponding author: Lynn S. Eekhof (l.eekhof@let.ru.nl)
+Although previous work on viewpoint techniques has shown that viewpoint is ubiquitous in narrative discourse, approaches to identify and analyze the linguistic manifestations of viewpoint are currently scattered over different disciplines and dominated by qualitative methods. This article presents the ViewPoint Identification Procedure (VPIP), the first systematic method for the lexical identification of markers of perceptual, cognitive and emotional viewpoint in narrative discourse. Use of this step-wise procedure is facilitated by a large appendix of Dutch viewpoint markers. After the introduction of the procedure and discussion of some special cases, we demonstrate its application by discussing three types of narrative excerpts: a literary narrative, a news narrative, and an oral narrative. Applying the identification procedure to the full news narrative, we show that the VPIP can be reliably used to detect viewpoint markers in long stretches of narrative discourse. As such, the systematic identification of viewpoint has the potential to benefit both established viewpoint scholars and researchers from other fields interested in the analytical and experimental study of narrative and viewpoint. Such experimental studies could complement qualitative studies, ultimately advancing our theoretical understanding of the relation between the linguistic presentation and cognitive processing of viewpoint. Suggestions for elaboration of the VPIP, particularly in the realm of pragmatic viewpoint marking, are formulated in the final part of the paper.
+
+2
+
+Eekhof et al: VPIP
+
+1. Introduction
+During the long ride to the subway station, she and her husband did not exchange a word, and every time she glanced at his old hands, clasped and twitching upon the handle of his umbrella, and saw their swollen veins and brown-spotted skin, she felt the mounting pressure of tears. (Nabokov, 1948)
+Stories allow us to do what seems to be impossible in real life: to get a glimpse inside someone else’s mind (Cohn, 1978; Palmer, 2004). As we read the short excerpt of Nabokov’s Signs and Symbols (1948) above, we gain access to the perceptions, thoughts and feelings of one of the story’s characters, an older woman whose son has just tried to take his own life. Through the use of perceptual verbs like glanced and saw we come to see what she sees: the hands of her seemingly agitated husband. And in the last clause, we get an impression of her sadness through the use of the verb felt. These types of verbs are characteristic of narrative discourse and are considered viewpoint (or perspective) techniques, i.e., linguistic elements that grant us access to the internal and subjective viewpoints of characters within a narrative.
+Viewpoint refers to the expression of a subject’s position in relation to objects and scenes. In this conceptualization, viewpoint has two aspects: a vantage point from which an object or scene is presented or viewed, and an orientation, i.e., the resulting depiction of the object or scene from that specific point (Langacker, 1987). If the vantage point changes, so does the orientation. This implies that viewpoint is by its very nature subjective, and that its manifestation in language creates a personalized – and therefore restricted – account of an object or scene.
+In discourse studies, viewpoint is typically conceptualized as a multidimensional concept. Vandelanotte (2017), for instance, distinguishes deictic viewpoint from cognitive viewpoint: whereas deictic viewpoint refers to the spatiotemporal position from which a subject views an object or situation (that is, the vantage point), cognitive viewpoint captures all of the subject’s mental states and activities such as thoughts and attitudes (see also Farner, 2014; and Uspensky, 1973, for similar views). Additional dimensions that have been put forward include perceptual, emotional, and moral viewpoint (Sanford and Emmott, 2012; Van Krieken, Hoeken, and Sanders, 2017). The
+
+Eekhof et al: VPIP
+
+3
+
+emotional and moral dimensions overlap with the concept of stance, which refers to ‘the linguistic means by which speakers and writers convey their personal attitudes and emotions, their evaluations and assessments, and their level of commitment towards propositions’ (Gray and Biber, 2014: 219). Lexical stance markers are expressions of personal feelings, attitudes, value judgments, or assessments, such as evaluative adjectives (beautiful, angry) and adverbials (surprisingly, unfortunately; see for example Pearce, 2005). Such markers give expression to a subject’s emotional or moral experience of something and, therefore, to the subject’s viewpoint. The difference between stance and viewpoint is that the latter concept includes more categories than stance alone, such as the sensory perceptions of a subject which do not necessarily mark the subject’s stance towards an object (e.g., He saw an orange tree). Thus, while stance markers are typically also (moral or emotional) viewpoint markers, not all viewpoint markers are stance markers.
+The study of viewpoint in narrative discourse has a long tradition in both literary studies and linguistics. A central aim of these studies is to elucidate how language is exploited in narrative discourse to describe events and situations from the subjective viewpoints of characters, and how this language use contributes to the aesthetic, rhetorical, functional, affective, and cognitive effects of narratives. The linguistic manifestation of viewpoint is studied both at a text-wide level, with a focus on the use of grammatical person (first, second, or third), and at lower levels of the discourse, with a focus on linguistic phenomena at lexical and sentence levels. Studies of this latter category have mainly adopted qualitative methods to analyze viewpoint in stretches of fictional as well as nonfictional narrative discourse, including the use of verb tense and free indirect discourse (e.g., Dancygier and Vandelanotte, 2009; Dancygier, 2017; Nikiforidou, 2010; Van Duijn, Sluiter, and Verhagen, 2015). The present article aims to foster quantitative research on local-level viewpoint phenomena in narrative discourse, by developing an identification procedure for lexical viewpoint markers.
+Thus far, relatively few studies have employed quantitative methods to study narrative viewpoint. These studies have identified a range of linguistic manifestations of viewpoint, at multiple levels of analysis and in different types of narratives. For example, Habermas (2006) and Habermas and Diel (2010) examined non-fictional
+
+4
+
+Eekhof et al: VPIP
+
+oral narratives on the propositional level for the presence of viewpoint by analyzing the use of mental verbs, direct and indirect speech, and the historic present. Other studies have analyzed viewpoint techniques in journalistic narratives by examining speech and thought representations (e.g., Sanders, 2010; Van Krieken and Sanders, 2016a), referential expressions and grammatical roles (Van Krieken, Sanders, and Hoeken, 2015; Van Krieken and Sanders, 2016b), and tense and temporal adverbs (Van Krieken and Sanders, 2019). Similar analyses have also been applied to literary fiction (e.g., Ikeo, 2014).
+General conclusions to be drawn from these quantitative studies are, first, that the expression of viewpoint is constitutive in narrative discourse and that linguistic markers indicating such viewpoints are ubiquitous in narrative discourse. Second, the linguistic manifestation of viewpoint in narrative discourse is highly diverse, which can be explained by the multidimensional nature of viewpoint (e.g., Farner, 2014; Uspensky, 1973). A Linguistic Cues Framework was recently presented that establishes connections between specific linguistic viewpoint markers on the one hand and the viewpoint dimension they give expression to on the other, distinguishing between spatiotemporal viewpoint, perceptual viewpoint, cognitive viewpoint, emotional viewpoint, moral viewpoint, and embodied viewpoint (Van Krieken et al., 2017). A central premise of the framework is that these six dimensions are independently regulated by the use of particular linguistic cues. For example, verbs of perception (e.g., see, hear) are argued to indicate that a character’s perceptual viewpoint is represented, while verbs of cognition (e.g., think, want) are argued to indicate that a character’s cognitive viewpoint is represented. Each of these markers is thus, in its own way, an instruction to interpret a particular part of the discourse from a subjective viewpoint.
+Taking the Linguistic Cues Framework (Van Krieken et al., 2017) as an anchor, a lexical identification procedure can be developed for the identification of these viewpoint markers in narratives. Such a procedure could help establish a unified approach to the study of viewpoint in narrative, which currently appears to be scattered across disciplines and methods, and advance quantitative analyses of
+
+Eekhof et al: VPIP
+
+5
+
+viewpoint markers. This may in turn benefit experimental research on the effects and processing of viewpoint by providing a ground for the identification and manipulation of viewpoint markers in narrative stimuli. This is important, because previous empirical research on viewpoint has often exclusively focused on text-wide viewpoint manipulations, comparing first-, second-, and third-person narration (i.e., grammatical viewpoint, e.g., Brunyé et al., 2016; Brunyé et al., 2011; Brunyé et al., 2009; Child, Oakhill, and Garnham, 2018; Ditman et al., 2010; Mulcahy and Gouldthorp, 2018). Studies on intra-textual viewpoint markers remain scarce, although there is evidence that these markers play a pivotal role in readers’ experience and interpretation of narrative discourse (Van Krieken and Sanders, 2017; Sanders and Redeker, 1993). For example, Van Krieken (2018) has shown that the presence of viewpoint markers, such as perception verbs like look, guides readers’ interpretations of ambiguous perceptions such that these perceptions are represented as coming from the story character rather than the narrator. Similar effects are to be expected for narrative processes such as narrative engagement, transportation and persuasion (see Van Krieken et al., 2017, for example).
+In this article, we therefore introduce the ViewPoint Identification Procedure, ‘VPIP’, a method for identifying the presence of perceptual, cognitive, and emotional viewpoint in narrative discourse. The VPIP was developed with three important goals in mind: 1) user-friendliness: the VPIP should be easy to use for both established viewpoint researchers as well as researchers from other fields (e.g., psychologists, cognitive neuroscientists, and psycholinguists) who wish to study viewpoint in an experimental context; 2) replicability: in order to be able to replicate experiments and analyses studying viewpoint across researchers and texts, the VPIP should be as straightforward and consistent as possible; and 3) implementability: the output of the VPIP should ideally align with the most detailed measures of linguistic processing (e.g., online measures like eye-tracking) that can be used in viewpoint experiments. This means that our procedure aims at analyzing narrative discourse on the lexical level, which is also the smallest level on which viewpoint information can be conveyed (see Krippendorff, 2018). For now, the VPIP
+
+6
+
+Eekhof et al: VPIP
+
+focuses on perceptual, cognitive, and emotional viewpoint. The reason for this is threefold: first of all, we believe these levels can be unequivocally and meaningfully identified on the lexical level, contrary to, for example, spatiotemporal viewpoint, which is also expressed through grammatical relations and choices that transcend the word level. Secondly, we believe these three dimensions of viewpoint are of relevance to a broad range of researchers who wish to study the processing and effects of viewpoint, as they have clear correlates in cognition and behavior (e.g., mental imagery, mindreading, and empathy). Finally, at least for moral viewpoint, analytical approaches are already available (that is, in terms of evaluation: Hunston and Thompson, 2000; appraisal: Martin and White, 2007; and stance: Biber et al., 1999).
+We hope that the resulting procedure presented here will prove to be as useful and important for a broad range of scholars as recent lexical identification procedures for the presence of other prevalent language phenomena such as metaphor (Metaphor Identification Procedure (MIP), Pragglejaz Group, 2007; and Metaphor Identification Procedure VU (MIPVU), Steen et al., 2010), irony (Verbal Irony Procedure (VIP), Burgers, van Mulken, and Schellens, 2011), subjectivity and stance (Vis, Sanders, and Spooren 2012), and hyperbole (Hyperbole Identification Procedure (HIP), Burgers et al., 2016).
+In what follows, we will first introduce the procedure. We will then discuss some special cases before illustrating the use of the procedure by applying it to three short Dutch examples (a literary narrative, a news narrative, and an oral narrative). The reliability of the procedure will be tested on a full-length Dutch news narrative. Finally, we will describe the possible applications, optional extensions, and limitations of our procedure in the discussion.
+2. Procedure
+The procedure for identifying perceptual, cognitive, and emotional viewpoint markers is graphically represented in Figure 1, below. In what follows, we will discuss the steps in more detail.
+
+Eekhof et al: VPIP
+
+7
+
+Figure 1: The ViewPoint Identification Procedure (VPIP).
+Step 1) Read the text Raters should first read the text thoroughly to get a global impression of its meaning and use of viewpoint techniques.
+
+8
+
+Eekhof et al: VPIP
+
+Step 2) Divide the text into lexical units For the purposes of the present identification procedure, all words can be considered lexical units. The only special cases that deviate from this rule are (complex) phrasal verbs (e.g., Dutch opmerken (‘to notice’), as in hij merkte het lawaai op (lit. ‘he noticed the noise up’); see also Steen et al., 2010), which should be considered single lexical units. We used the electronic version of the Van Dale Groot woordenboek der Nederlandse taal (Den Boon and Geeraerts, 2005) to identify phrasal verbs.
+Repeat the following steps for every lexical unit: Step 3) Determine the word type Although viewpoint can be expressed by both function words and content words, perceptual, cognitive, and emotional viewpoint are almost exclusively expressed through content words.1 Function words usually give rise to other dimensions of viewpoint. For example, interjections like Gee! or Wow! express a moral evaluation or attitude (i.e., stance), while determiners play a role in spatiotemporal viewpoint (Van Krieken et al., 2017). As the VPIP is concerned with perceptual, cognitive, and emotional viewpoint, the remainder of the procedure is solely applied to content words:
+a. If the lexical unit is a content word (nouns, verbs, adjectives, adverbs), continue to step 4.
+b. If the lexical unit is a function word (interjections, determiners, prepositions, complementizers, pronouns), mark it as not a perceptual, cognitive, or emotional viewpoint marker and go back to step 3 for the next lexical unit.
+Step 4) Determine the viewpoint dimension Is the lexical unit related to:
+a. …the perceptions by one of the senses (visual, auditory, tactile, olfactory, taste) and/or bodily sensations of one of the characters or narrators of the story? If yes, continue to step 5a. If not, continue to step 4b.
+1 An example of an exception to this rule is the complementizer om (‘in order to’), which could be argued to express a character’s intention (see Sanders, 1994, for a discussion).
+
+Eekhof et al: VPIP
+
+9
+
+b. …the thoughts, beliefs, intentions, and/or desires of one of the characters or narrators of the story? If yes, continue to step 5b. If not, continue to step 4c.
+c. …the emotions of one of the characters or narrators of the story? If yes, continue to step 5c. If not, score the lexical unit as not a perceptual, cognitive, or emotional viewpoint marker and go back to step 3 for the next lexical unit.
+Step 5) Determine whether the lexical unit is a viewpoint marker for that dimension
+a. Perceptual dimension I. Is the lexical unit a verb of perception or a content word morphologically related to such a verb? If yes, score the lexical unit as a perceptual viewpoint marker. If not, continue to step 5a.II. II. Is the lexical unit a verb of bodily sensation or a content word morphologically related to such a verb? If yes, score the lexical unit as a perceptual viewpoint marker. If not, score the lexical unit as not a perceptual, cognitive, or emotional viewpoint marker and go back to step 3 for the next lexical unit.
+b. Cognitive dimension I. Is the lexical unit a verb of cognition or a content word morphologically related to such a verb? If yes, score the lexical unit as a cognitive viewpoint marker. If not, continue to step 5b.II. II. Is the lexical unit an epistemic modal adverb? If yes, score the lexical unit as a cognitive viewpoint marker. If not, score the lexical unit as not a perceptual, cognitive, or emotional viewpoint marker and go back to step 3 for the next lexical unit.
+c. Emotional dimension I. Is the lexical unit a verb of emotion or a content word morphologically related to such a verb? If yes, score the lexical unit as an emotional viewpoint marker. If not, continue to step 5c.II.
+
+10
+
+Eekhof et al: VPIP
+
+II. Is the lexical unit an adjective of emotion or a content word morphologically related to such an adjective? If yes, score the lexical unit as an emotional viewpoint marker. If not, score the lexical unit as not a perceptual, cognitive, or emotional viewpoint marker and go back to step 3 for the next lexical unit.
+The different viewpoint markers in step 5 can be identified using the definitions and examples in Table 1. In case of uncertainty when determining whether a lexical unit meets these definitions, an additional paraphrase test can be done: if the lexical unit under investigation can be replaced by or paraphrased with the use of one of the basic forms of a particular dimension, it is a viewpoint marker for that dimension. For example, in the sentence Hij snakte naar een avondje rust (‘He craved a quiet evening’), the verb snakken (‘to crave’) can be replaced by the basic form willen (‘to want’): Hij wilde een avondje rust (‘He wanted a quiet evening’). Therefore snakte can be considered a cognitive viewpoint marker. Paraphrase tests have proven useful and reliable for the detection of similar linguistic phenomena.2
+Table 1 shows an overview of the markers and their definitions by viewpoint dimension and provides the basic forms and examples. Note that all content words morphologically related to (but not necessarily derived from) any of the categories of viewpoint markers are also considered to be viewpoint markers (see the column on the right of the table).
+To further facilitate the viewpoint identification process, we have compiled a list of Dutch verbs of perception and bodily sensation (steps 5a.I and 5a.II), verbs of cognition and epistemic modal adverbs (steps 5b.I and 5b.II), and verbs and adjectives of emotion (step 5c.I and 5c.II) that can be found in the Appendix. The list was developed as follows. For the four types of verbs, verb classes from work by Levin (1993) were identified that satisfied the definitions from Table 1. These can be found in Table 2.
+2 For paraphrase testing of discourse perspective type, see Bekker (2006); for paraphrase testing of causal connective categories, see Sanders (1997).
+
+Eekhof et al: VPIP
+
+Table 1: Definitions and examples of different types of perceptual, cognitive, and emotional viewpoint markers.
+
+Dimension Perceptual
+Cognitive
+
+Viewpoint
+
+Definition
+
+Basic forms
+
+Examples
+
+marker Verb of
+
+A verb that denotes
+
+Zien (‘to see’), horen (‘to Bezichtigen
+
+perception
+
+experiences by one of the five hear’), voelen (‘to feel’), (‘to inspect’)
+
+senses: visual, auditory, tactile, ruiken (‘to smell’),
+
+Waarnemen
+
+Verb of bodily
+
+olfactory, or taste.
+
+proeven (‘to taste’)
+
+A verb that denotes an internal Pijn doen (‘to hurt’)
+
+(‘to perceive’) Duizelen
+
+sensation
+
+bodily state experienced by a
+
+(‘to grow dizzy’)
+
+body part.
+
+Jeuken
+
+Verb of cognition A verb that represents
+
+Denken (‘to think’),
+
+(‘to itch’) Wantrouwen
+
+thoughts, beliefs, intentions, geloven (‘to believe’), (‘to distrust’)
+
+and/or desires.
+
+willen (‘to want’)
+
+Overwegen
+
+(‘to consider’)
+
+Morphologically related words Bezichtiging (‘inspection’) Waarneembaar (‘perceptible’) Duizelig (‘dizzy’) Jeuk (‘itch’) Wantrouwig (‘distrustful’) Overweging (‘consideration’)
+
+(Contd.)
+
+11
+
+Dimension Emotional
+
+Viewpoint
+
+Definition
+
+marker
+
+Epistemic modal An adverb that indicates a
+
+adverb
+
+subject’s certainty about a
+
+claim or description of reality
+
+(see Klein, 1998; Salverda,
+
+2003). Verb of emotion A verb that denotes the
+
+experience of emotion.
+
+Basic forms Waarschijnlijk (‘probably’), zeker (‘definitely’)
+Voelen (‘to feel’)
+
+Adjective of emotion
+
+An adjective that denotes the experience of emotion.
+
+Boos (‘angry’), blij (‘happy’)
+
+Examples
+Wellicht (‘perhaps’) Ongetwijfeld (‘undoubtedly’)
+Schamen (‘to feel ashamed’) Enthousiasmeren (‘to enthuse’) Jaloers (‘jealous’) Blij (‘happy’)
+
+Morphologically related words Not applicable
+Schaamte (‘shame’) Enthousiasme (‘enthusiasm’) Jaloezie (‘jealousy’) Blijdschap (‘happiness’)
+
+Eekhof et al: VPIP
+
+12
+
+Eekhof et al: VPIP
+
+13
+
+Table 2: Verb types and the verb classes from Levin (1993) that were used to create the lists of viewpoint markers.
+
+Verb type Verbs of perception
+Verbs of bodily sensation Verbs of cognition
+Verbs of emotion
+
+Verb classes from Levin (1993) Verbs of perception3 See verbs Sight verbs Peer verbs Stimulus subject perception verbs Verbs of bodily state and damage to the body Verbs of desire Want verbs Long verbs Verbs with predicative complements Appoint verbs Characterize verbs Declare verbs Conjecture verbs Verbs of assessment Verbs of psychological states4 Amuse verbs Admire verbs Marvel verbs Appeal verbs
+
+The verbs of these verb classes were then translated into Dutch, taking only those English meanings and Dutch translations into consideration that were related to the perceptual, cognitive, and emotional viewpoint dimensions and satisfied the definitions given in Table 1. In addition, the closed class of epistemic modal
+
+3 This verb class contains verbs of perception by all of the five different senses (i.e., visual, auditory, tactile, olfactory, and taste).
+4 This verb class contains verbs of both positive (e.g., admire) and negative valence (e.g., deplore).
+
+14
+
+Eekhof et al: VPIP
+
+verbs was added to the list of verbs of cognition. With these verbs, speakers indicate commitment to the validity of a proposition on the basis of their estimation of the probability that a particular state of affairs is the case (Sanders, 1994: 146). Such estimates are subjective by nature and thus express subjective viewpoints (see also Sanders and Spooren, 1996, 1997).
+The class of emotion adjectives was compiled based on work by Hevner (1936) on emotional adjectives used to describe music, a revised version of Hevner’s adjective list (Schubert, 2003), and Dutch translations of the adjectives used in the Multifaceted Empathy Test (Dziobek et al., 2008; Eekhof, van Krieken, Sanders, and Willems, in preparation). All translations were made using the electronic version of Van Dale: Groot Woordenboek der Nederlandse Taal (Den Boon and Geeraerts, 2005). The epistemic modal adverbs were taken from Salverda (2003) and the electronic version of Van Dale.
+3. Special Cases
+In general, application of the identification procedure should be straightforward. However, there are a few special cases that require extra attention. These are described below and illustrated with examples from news narratives. Viewpoint scores are marked in superscript (PVP = perceptual viewpoint marker, CVP = cognitive viewpoint marker, EVP = emotional viewpoint marker).
+3.1. Ambiguity
+In some cases, words with multiple meanings can receive different viewpoint scores depending on the meaning that is intended given the context. For example, the Dutch word zullen (‘shall/will’) can either be used as a temporal auxiliary when forming the future tense (see Example 1), or to signal epistemic modality. Only when the verb is used in an epistemic modal sense, is it considered a cognitive viewpoint marker (see Example 2). Another example is the verb vinden (‘to maintain’ or ‘to find’), which can either signal cognitive viewpoint (see Example 3), when it is used to express an opinion (see also Vis, Sanders, and Spooren, 2015), or perceptual viewpoint (see Example 4), when it is used in the sense of discovering something. Similarly, the verb moeten (‘to need/to have to/should’) can have multiple meanings including a deontic and epistemic interpretation. Only in those occurrences with an epistemic
+
+Eekhof et al: VPIP
+
+15
+
+interpretation, related to the thoughts, beliefs, intentions, and/or desires of one of the characters of the story, should these be considered cognitive viewpoint markers (see Examples 3 and 5). Deontic interpretations, characterized by the presence of an external or objective force, as in Example 6, are not part of the cognitive viewpoint dimension (see Sanders and Spooren, 1996, 1997).
+
+Example 1) Hun huisarts heeft beloofdCVP dat hij Hans zal helpen Their G.P. has promised that he Hans will help
+Their G.P. has promised that he will help Hans. (Volkskrant, 2017)
+
+Example 2) Deze keer zouCVP het, moestCVP het eindelijk lukkenCVP This time would it, should it finally succeed
+This time, it finally had to succeed. (HP/De Tijd, 2013)
+
+Example 3) Een arts moetCVP in de eerste plaats helpen, vindtCVP ze A doctor should in the first place help, maintains she
+A doctor should primarily help, she maintains. (Volkskrant, 2017)
+
+Example 4) Ze staat op uit hun hoge bed met wieltjes en vindtPVP haar She stands up from their high bed with wheels and finds her man op de bank husband on the couch
+She stands up from their high bed with wheels and finds her husband on the couch.
+(Volkskrant, 2017)
+
+Example 5)
+
+Hij nam de pillen die hem in coma moestenCVP brengen
+
+He took the pills that him in coma must
+
+induce
+
+He took the pills that had to induce him into a coma. (HP/De Tijd, 2013)
+
+Example 6)
+
+Toen de oude dame toch
+
+naar het verpleeghuis moest…
+
+When the old lady nevertheless to the nursing home must…
+
+When the old lady nevertheless had to go to the nursing home […]. (Volkskrant, 2017)
+
+16
+
+Eekhof et al: VPIP
+
+3.2. Collocations, Fixed Expressions, and Idioms
+As our procedure identifies viewpoint at the lexical level, collocations, fixed expressions, idioms, and other multi-word units whose meaning transcends the lexical level are nevertheless scored for their individual lexical subparts. As a result, only those subparts that are content words and refer to one of the viewpoint dimensions (see step 4), are potential viewpoint markers. This might mean that in cases where the viewpointed meaning solely arises at the supralexical level, none of the lexical subparts are scored as viewpoint markers (see Example 7). In other cases, some of the subparts do carry a viewpointed meaning, in which case a viewpoint score is assigned to these individual subparts. For instance, in Example 8, twijfel (‘doubt’) is part the expression de twijfel slaat toe (‘the doubt kicks in’) and is scored as a cognitive viewpoint marker, because it is morphologically related to twijfelen (‘to doubt’), a verb of cognition. We will further elaborate on this issue in the discussion.
+Example 7) Ik was in de zevende hemel I was in the seventh heaven
+I was on cloud nine. (Volkskrant, 2008)
+Example 8) Maar bijna drie weken na kerst slaat de twijfelCVP toe But almost three weeks after Christmas kicks the doubt in
+But almost three weeks after Christmas, doubt kicks in. (Volkskrant, 2017)
+3.3. Adjectives in Combination with Copular Verbs or Verbs of Emotion
+Adjectives that function as viewpoint markers can appear with a variety of verbs, only some of which are also considered viewpoint markers. Verbs of emotion are always considered emotional viewpoint markers. The copular verbs, zijn (‘to be’) and worden (‘to become’) however, are not considered viewpoint markers, because their function is only grammatical. Other copular verbs that have a viewpointed meaning because they refer to the beliefs of characters or narrators, such as lijken (‘to seem’) or schijnen (‘to appear’), are considered cognitive viewpoint markers. See the examples below.
+
+Eekhof et al: VPIP
+
+17
+
+Example 9)
+
+Hij had zich als jochie beschadigdEVP gevoeld,EVP waardeloos,EVP
+
+He had himself as little lad hurt
+
+felt,
+
+worthless,
+
+schuldigEVP ook.
+
+guilty
+
+as well.
+
+As a little lad, he had felt hurt, worthless, and guilty as well. (HP/De Tijd, 2013)
+
+Example 10)
+Ze is blijEVP met de euthanasiewet She is happy with the euthanasia law
+
+She is happy with the euthanasia legislation. (Volkskrant, 2017)
+
+Example 11)
+Haar man lijktCVP vastbeslotenCVP Her man seems determined
+
+Her husband seems determined. (Volkskrant, 2017)
+
+3.4. Inanimate Subjects
+There are instances in which something inanimate, rather than one of the characters, is the subject in a sentence with a viewpoint marker, as in the examples below. If, in these cases, the viewpoint is nevertheless to be understood as coming from one of the characters or narrators, the lexical unit should still be considered a viewpoint marker. In the first example above, the intention that is expressed by the verb must is to be understood as coming from the he that is taking the pills. Hence, although the pills are the subject of must, the verb is still a cognitive viewpoint marker as it signals the intention of the character. Similarly, in the second example, the feeling that the time had been lonely and grim is experienced by the character. Therefore, these two adjectives should be considered emotional viewpoint markers.
+Note that in more extreme cases, something inanimate might be the main character of a story, as in the Dutch novel Specht en Zoon (‘Woodpecker and Son’) by Willem Jan Otten, in which the main character and narrator is a painting canvas (see Trompenaars, 2018; Trompenaars et al., 2018). Our identification procedure does not differentiate between animate and inanimate characters and narrators, and so lexical
+
+18
+
+Eekhof et al: VPIP
+
+elements that express the viewpoint of inanimate characters or narrators should still be considered viewpoint markers.
+
+Example 12) (= Example 5)
+
+Hij nam de pillen die hem in coma moestenCVP brengen
+
+He took the pills that him in coma must
+
+induce
+
+He took the pills that had to induce him into a coma. (HP/De Tijd, 2013)
+
+Example 13)
+
+Een andere tijd was het, die ook eenzaamEVP was en naarEVP
+
+A different time was it, that also lonely
+
+was and grim
+
+It was a different time, that had also been lonely and grim. (Volkskrant, 2017)
+
+4. Three Sample Narratives
+To illustrate the identification procedure, we will now discuss three sample narratives. The first sample is an excerpt from a literary story by the Dutch literary author A. F. Th. van der Heijden (2008). The second is an excerpt of a news story, published in a national Dutch broadsheet newspaper (NRC Handelsblad, 2011). Finally, we will look at an excerpt from an oral conversational narrative, taken from the Corpus of Spoken Dutch (Corpus Gesproken Nederlands; CGN, 2000).
+Below, we present the sample narratives divided into lexical units with content words in bold and the viewpoint scores marked in superscript. Multi-word units are marked with brackets. We will only discuss application of the procedure to viewpoint markers and complex cases. Note that in practice the full procedure is applied to all lexical units of the text: functions words are rejected after step 3, other content words may be rejected in step 4 and 5 if they are not related to the viewpoint dimensions relevant to the VPIP or if they do not meet the definitions of the viewpoint markers in Table 1.
+4.1. Literary Fiction: The Byzantine Cross by A. F. Th. van der Heijden (2008)
+The Byzantine Cross is a short story about a person with an obsession for scissors, which he uses to break into cars. The following passage describes a scene in the store where the man usually buys his scissors. He is afraid that the woman at the till will recognize him from his frequent visits to the store.
+
+Eekhof et al: VPIP
+
+19
+
+De / volgende / keer / probeerdeCVP / ik / bij / een / andere / kassa / [af] / te / [rekenen]. / Maar / ik / werd / doorgestuurd. / Ik / overwoogCVP / nog / het / ding / [terug] / te / [leggen], / maar / dat / leekCVP / me / helemaal / verdacht.CVP / Overal / vandaan / voeldePVP / ik / camera’s / op / me / gericht.5
+The next time I tried to pay at a different till. But I was referred to her. I considered putting the thing back, but that struck me as really suspicious. I felt cameras directed at me from every direction. (translation from Van der Heijden, 2016)
+Probeerde (tried) = cognitive viewpoint marker This lexical unit is related to the intentions of the main character, which falls under the cognitive dimension (step 4b). In step 5b.I, we see that the verb is not on the list of verbs of cognition in the appendix, but it does satisfy the definition of a verb of cognition given in Table 1: it is a verb that represents intention. As a result, this lexical unit is scored as a cognitive viewpoint marker.
+Overwoog (considered) = cognitive viewpoint marker This lexical unit is related to the thoughts of the main character about his course of action, which falls under the cognitive dimension (step 4b). In step 5b.I, we see that the verb overwegen (‘to consider’) is on the list of verbs of cognition in the appendix. As a result, this lexical unit is scored as a cognitive viewpoint marker.
+Leek (seemed) = cognitive viewpoint marker This lexical unit is related to the beliefs of the main character about the suspiciousness of putting the scissors back. In step 5b.I, we see that the verb lijken (‘to seem’) is on
+
+5 Literal translation: 		The / next / time / tried / I / at / an / other / till / particle / to / pay. / But / I / was / referred.
+/ I / considered / still / the / thing / back / to / put, / but / that / seemed / me / completely / suspicious. / Everywhere / away / felt / I / cameras / on / me / pointed.
+
+20
+
+Eekhof et al: VPIP
+
+the list of verbs of cognition in the appendix. As a result, this lexical unit is scored as a cognitive viewpoint marker.
+Verdacht (suspicious) = cognitive viewpoint marker This lexical unit is related to the (hypothetical) thoughts of one of the characters of the story, namely the cashier referred to as haar (‘her’). In step 5b.I, we see that this adjective is morphologically related to the verb verdenken, which is on the list of verbs of cognition in the appendix. As a result, this lexical unit is scored as a cognitive viewpoint marker.
+Voelde (felt) = perceptual viewpoint marker The verb voelen (‘to feel’) can either refer to a physical sensation (e.g., I feel the sun on my skin), which falls under the perceptual dimension, or the experience of emotion (e.g., I feel bad), which falls under the emotional dimension. In this case, the perceptual dimension is evoked (step 4a), but with a hyperbolic interpretation: the man’s perception of the cameras is probably affected by his anxious state, as it is unlikely that there are cameras pointed at him from every direction. In sum, the perceptual meaning of voelen (‘to feel’) is metaphorically projected on the emotional domain, providing an instance of subjectification (Kissine, 2010; Traugott, 1989). However, because the VPIP is concerned with viewpoint rather than metaphor, we decided to code the semantically primary meaning. Based on these considerations, this lexical unit is scored as a perceptual viewpoint marker.
+4.2. News Narrative: Crime Report (NRC Handelsblad, 2011)
+This news narrative describes a shooting that took place in April 2011 in a shopping mall in the Dutch city of Alphen aan den Rijn. In this passage, a shop owner is interviewed about the aftermath of the incident.
+Later / [gaan] / ze / [terug]. / ‘Iedereen / was / in / shock’,EVP / zegt / Charradi. / ‘Schuin / tegenover / ons / is / ook / een / modezaak. / De / eigenares / daarvan / is / overleden. / Verschrikkelijk.EVP / Een / collega / die / je / iedere / dag / ziet.PVP / Je / gelooftCVP / het / niet. / Je / hebt
+
+Eekhof et al: VPIP
+
+21
+
+/ het / gevoelEVP / dat / je / in / een / film / bent / waarin / je / niet / wiltCVP/ zijn.’6
+Later on, they go back. ‘Everyone was in shock’, says Charradi. ‘There is another fashion store diagonally opposite to us. The female owner of that store has died. Horrible. A colleague you see every day. You don’t believe it. You have the feeling that you are in a movie you do not want to be in.’
+Shock (shock) = emotional viewpoint marker This lexical unit is related to the emotional dimension (step 4c) as it expresses the emotion that main character Charradi and others felt when they went back to the crime scene. In step 5c.I, we see that although the verb (to) shock, which is the English loan verb from which this noun is derived, is not on the list of verbs of emotion in the appendix, the Dutch counterpart schokken (‘to shock’) is. As a result, this lexical unit is scored as an emotional viewpoint marker.
+Verschrikkelijk (horrible) = emotional viewpoint marker This lexical unit refers to the emotions that main character Charradi experiences when she learns one of her colleagues has died. In step 5c.II, we see that the lexical unit matches the definition of an adjective of emotion given in Table 1: it is an adjective that denotes the emotion of horror. As a result, this lexical unit is scored as an emotional viewpoint marker.
+Ziet (see) = perceptual viewpoint marker This lexical unit is related to the visual perception of the main character, which falls under the perceptual dimension (step 4a). In step 5a.I we see that the verb zien (‘to
+
+6 Literal translation: Later / go / they / back. / ‘Everyone / was / in / shock’, / says / Charradi. / ‘Diagonally / opposite to / us / is / also / a / fashion store. / The / (female) owner / there of / has / died. / Horrible. / A / colleague / that / you / every / day / see. / You / believe / it / not. / You / have / the / feeling / that / you / in / a / movie / are / in which / you / not / want / be’.
+
+22
+
+Eekhof et al: VPIP
+
+see’) is on the list of verbs of perception in the appendix. As a result, this lexical unit is scored as a perceptual viewpoint marker.
+Gelooft (believe) = cognitive viewpoint marker This lexical unit is related to the (dis)belief of the main character about the tragic situation, which falls under the cognitive dimension (step 4b). In step 5b.I we see that the verb geloven (‘to believe’) is on the list of verbs of cognition in the appendix. As a result, this lexical unit is scored as a cognitive viewpoint marker.
+Gevoel (feeling) = emotional viewpoint marker This lexical unit refers to the emotions of the main character (step 4c). In step 5c.I we see that this noun is morphologically related to the verb voelen (‘to feel’), which is on the list of verbs of emotion in the appendix. As a result, this lexical unit is scored as an emotional viewpoint marker.
+Wil (want) = cognitive viewpoint marker This lexical unit is related to the desire of the main character to not be in the situation she found herself in, which falls under the cognitive dimension (step 4b). In step 5b.I, we see that the verb willen (‘to want’) is on the list of verbs of cognition in the appendix. As a result, this lexical unit is scored as a cognitive viewpoint marker.
+4.3. Oral Narrative: The Road Trip (CGN, 2000)
+In this excerpt, taken from the Spoken Dutch Corpus (CGN, 2000), three friends reminisce about their youth. One of the friends then proceeds to tell a short story about one of their road trips. Please note that names and place names have been removed for the sake of anonimity.
+– God / wat / nog / een / keer / eens / gelachenEVP / in / in / zo’n / bussie – toen / moest / ik / rijden – w aren / we / naar / PLACE NAME / of / PLACE NAME / weetCVP / ik /
+veel / waar / we / waren – hadden / we / eerst / NAME / enorm / z’n / bek / gehouden – die / wouCVP / niks / meer / zeggen
+
+Eekhof et al: VPIP
+
+23
+
+– z aten / we / op / ‘t / terras / en / NAME / raakte / met / een / meisje / aan / de / praat / en / z’n / eerste / vraag / was / wat / studeer / jij
+– nou / dat / heb / ie / de / hele / hele / dag / moeten / horenPVP – hij / zegt / van / als / ‘t / zo / moetCVP / dan / gaan / dan / ga / ik / naar
+/ huis7
+God on another occasion we laughed so much in such a van. That time I was the driver. We went to PLACE NAME or PLACE NAME, well I don’t know where we were. We had first shut NAME’s mouth so much. He didn’t want to say anything anymore. We were sitting at an outdoor café and NAME started talking to this girl and his first question was ‘what do you study?’ Well, he has had to hear it from us all day long. He says like: if it has to go like this, then I’ll go home.
+Gelachen (laughed) = emotional viewpoint marker This lexical unit is related to the emotion of the main characters, including the narrator (step 4c). In step 5c.I we see that lachen (‘to laugh’) is on the list of verbs of emotion in the appendix. As a result, this lexical unit is scored as an emotional viewpoint marker.
+Moest (had) It is clear that this lexical unit is not related to the perceptions or bodily sensations (step 4a) of one of the characters. When judging whether it is related to the cognitive dimension (step 4b), we should keep in mind that only epistemic interpretations of
+7 Literal translation: – God / what / still / one / time / once / laughed / in / in / such a / van – then / needed / I / drive – were / we / to / PLACE NAME / or / PLACE NAME / know / I / much / where / we / were – had / we / first / NAME / tremendously / his / mouth / kept – he / wanted / nothing / anymore / say – sat / we / on / the / terrace / and / NAME / got / with / a / girl / on / the / chat / and / his / first / question / was / what / study / you – well / that / has / he / the / whole / whole / day / must / hear – he / says / like / if / it / so / must / then / go / then / go / I / to / home
+
+24
+
+Eekhof et al: VPIP
+
+the verb moeten (‘to have to’) are considered to be related to this dimension. In this case, the interpretation is deontic: there is an (undisclosed) external force such that the narrator was the one who ‘had to’ drive. So, the lexical unit is not related to the cognitive dimension, nor to the emotional dimension, and is discarded after step 4c. This lexical unit is not a viewpoint marker of the perceptual, cognitive, or emotional dimension.
+Weet (know) = cognitive viewpoint marker This lexical unit refers to the beliefs of the narrator about the destination of the road trip, which falls under the cognitive dimension (step 4b). In step 5b.I, we see that the verb weten (‘to know’) is on the list of verbs of cognition in the appendix. As a result, this lexical unit is scored as a cognitive viewpoint marker.
+Wou (wanted) = cognitive viewpoint marker This lexical unit refers to the desire of one of the characters to not speak anymore, which falls under the cognitive dimension (step 4b). In step 5b.I, we see that the verb willen (‘to want’) is on the list of verbs of cognition in the appendix. As a result, this lexical unit is scored as a cognitive viewpoint marker.
+Moeten (had) Again, we have to analyze the interpretation of the verb moeten (‘to have to’) before we can rate it. Although not as straightforward as the previous occurrence of moest, this case can also be seen as having a deontic meaning by virtue of the presence of an external force: his friends’ constant talking about the incident leads to the fact that Bert-Jan ‘had to’ listen to them all day. So, the lexical unit is not related to the cognitive dimension, nor to the emotional dimension, and is discarded after step 4c. This lexical unit is not a viewpoint marker of the perceptual, cognitive, or emotional dimension.
+Horen (hear) = perceptual viewpoint marker This lexical unit is related to the auditory perception of the narrator, which falls under the perceptual dimension (step 4a). In step 5a.I we see that the verb zien
+
+Eekhof et al: VPIP
+
+25
+
+(‘to see’) is on the list of verbs of perception in the appendix. As a result, this lexical unit is scored as a perceptual viewpoint marker.
+Moet (must) = cognitive viewpoint marker For this final occurrence of moeten (‘to have to’) the context does not present any external forces that would justify a deontic interpretation. Rather, it is the character who internally reaches the conclusion that things will probably go a certain way. So the lexical unit, in its epistemic interpretation, is related to the thoughts and beliefs of a character, which falls under the cognitive dimension (step 4b). In step 5b.I, we see that the verb moeten (‘to have to’) is on the list of verbs of cognition in the appendix. As a result, this lexical unit is scored as a cognitive viewpoint marker.
+5. Reliability Analysis
+The full news story from section 4.2 was used to test the reliability of our procedure. First, the text was divided into 1145 lexical units by the first author. Then, the first and second author independently applied the VPIP to the story (see Table 3 for the results). Raters agreed on scores for 1128 of the 1145 lexical units, making interrater agreement almost perfect (98.52%, κ = 0.87; Landis and Koch, 1977). There were 17 cases of disagreement. In most of these cases (n = 14), one of the raters scored the lexical units as a viewpoint marker whereas the other did not. In the three remaining cases, raters agreed on the viewpoint marking nature of the lexical unit, but disagreed on the dimension. In total, 63 lexical units (5.50% of the text) were
+
+Table 3: Descriptive statistics for the distribution of viewpoint scores by rater.
+
+Score
+Not a perceptual, cognitive, or emotional viewpoint marker Viewpoint marker
+Perceptual Cognitive Emotional
+
+Rater #1
+
+n
+
+%
+
+1078 94.15
+
+Rater #2
+
+n
+
+%
+
+1072 93.63
+
+67
+
+5.85
+
+26
+
+2.27
+
+29
+
+2.53
+
+12
+
+1.05
+
+73
+
+6.38
+
+24
+
+2.10
+
+33
+
+2.88
+
+16
+
+1.40
+
+26
+
+Eekhof et al: VPIP
+
+identified unanimously as being a viewpoint marker. The results of this analysis show that, firstly, the VPIP can be used reliably by multiple raters on longer stretches of narrative discourse, and that, secondly, the frequency with which perceptual, cognitive, and emotional viewpoint markers occur is very similar to the frequency of metaphor related words identified with lexical identification procedures (see e.g., De Vries, Reijnierse, and Willems, 2018).
+6. Discussion 6.1. Contributions and Applications
+In this article, we presented the VPIP, a lexical identification procedure for perceptual, cognitive, and emotional viewpoint in narrative discourse. The VPIP uses a detailed step-wise procedure to identify the lexical elements that signal the perceptual, cognitive, and emotional viewpoints of story characters and narrators. Application of the procedure is further facilitated by a large appendix of Dutch viewpoint markers. We have demonstrated that the VPIP can be applied to a wide variety of narratives, ranging from spontaneous, oral narratives to stylized, literary narratives. In addition, the good results of the reliability analysis indicate that the procedure can be used by multiple raters with substantial agreement.
+We believe the VPIP can be used by a broad and diverse group of scholars ranging from literary scholars to cognitive neuroscientists. As such, the VPIP can be a stepping stone towards interdisciplinary studies of viewpoint, as well as new experimental paradigms that are not yet available in the field of viewpoint studies. In addition, a quantified and easy to implement procedure like the VPIP can be used across researchers and texts, facilitating comparisons between studies. Crucially, this also allows for the replication of viewpoint experiments or analyses by other researchers (direct replications) or for other texts (replications with different stimuli; for the importance of replication in the humanities, see Peels, 2019).
+Besides use of the VPIP as a tool for quantitative, descriptive analyses of the manifestation of perceptual, cognitive, and emotional viewpoint in narratives, another essential area of application is in experimental studies of viewpoint.
+
+Eekhof et al: VPIP
+
+27
+
+Because the VPIP identifies viewpoint markers on the lexical level, its output aligns with many types of (online) experimental measurements. For example, researchers interested in the online processing of viewpoint could use the VPIP to track the effect of viewpoint markers on various psychophysiological measures such as eye movements, skin conductance or EEG. The systematic identification of viewpoint markers is also crucial for the design of stimuli in experiments investigating the effect of viewpoint markers on readers. For example, researchers studying the role of perceptual simulation or mental imagery during story reading might be interested to use the VPIP to design or evaluate their stimuli (e.g., a text high in perceptual viewpoint markers might elicit more mental imagery than a text that lacks perceptual viewpoint markers; see also Mak and Willems, 2019). On the other hand, cognitive and emotional viewpoint markers might elicit processes such as theory of mind or mentalizing during reading that could be measured using functional Magnetic Resonance Imaging (fMRI; see Mar, 2011). As previous research has already shown the effect of viewpoint markers on readers’ interpretations of narratives (Van Krieken, 2018), researchers interested in the role of viewpoint markers with respect to processes such as emotional engagement, transportation, comprehension and persuasion might be interested to use the VPIP to manipulate stimuli texts (e.g., create a version with and without viewpoint markers; see De Graaf et al., 2012; Hoeken, Kolthoff, and Sanders, 2016; Mak and Willems, 2019). Importantly, the experimental work that the VPIP incites can in turn inform our theories by furthering our understanding of the cognitive processing of viewpoint.
+6.2. Limitations and Optional Extensions
+As has become clear from the examples above, the aim of the VPIP is mostly methodological, rather than conceptual. We do not intend to present the procedure as a single, complete definition of what viewpoint is, and how it is manifested linguistically. Obviously, a lexical identification procedure will not suffice to capture instances of viewpoint that arise on other levels of analysis. For example, the VPIP does not take into account from what grammatical viewpoint a (particular part of
+
+28
+
+Eekhof et al: VPIP
+
+the) narrative is narrated. By implication, the procedure does not consider instances of reported speech and thought that are embedded within the narrative, either. In the news narrative discussed in section 4.2 several instances can be pointed out:
+a) Later they go back. b) ‘Everyone was in shock’, says Charradi. c) ‘There is another fashion store diagonally opposite to us. d) The female owner of that store has died. e) Horrible. f) A colleague you see every day. g) You don’t believe it. h) You have the feeling that you are in a movie you do not want to be in.’
+Sentence (b) represents an utterance spoken by Charradi, which is indicated by the explicit embedding through the reporting verb says, as well as by quotation marks. This entails that the validity of these particular words, both in content and wording, is limited to this subjective viewpoint. In addition, sentences (f–h) are pragmatically embedded as impressions of what Charradi and her colleagues exchanged when they went back (a) and found the horrible (e) news that the owner of the shop across the street had died (c–d). In (b), Charradi explicitly describes in a past tense sentence how they all felt: Everybody was in shock. In sentences (f–h), by contrast, she shows how they all felt by representing their impressions in present tense with a generic you, blending her own voice with the voices of the others. The present tense with you demarcates a shift to a free indirect speech representation mode (Sanders, 2010), which is embedded within the direct quote. A pragmatic analysis of viewpoint would allow for an analysis of such embedded viewpoints, and the different internal and external voices and viewpoints involved and intertwined in the narration, which could elucidate how linguistic perspective manifests itself and functions at different layers of the narrative. Hence, for researchers interested in these phenomena, the VPIP could be extended with a qualitative, more pragmatic analysis.
+Researchers working with literary or otherwise stylized narratives in which multi-word units like idioms play an important role may wish to extend the VPIP to also include collocations, fixed expressions, and idioms (e.g., I am at my wits’ end). One way this could be achieved is by adding another paraphrase test at the end of the identification procedure. After applying the VPIP to the full narrative,
+
+Eekhof et al: VPIP
+
+29
+
+raters could look for multi-word viewpoint markers by checking whether any multi-world units present in the text can be replaced by a single-word viewpoint marker of one of the three relevant categories (e.g., I am at my wits’ end can be rephrased as I am worried, justifying an emotional viewpoint marker rating; she feasted her eyes on the beautifully decorated cupcakes can be rephrased as she looked at the beautifully decorated cupcakes, justifying a perceptual viewpoint marker rating).
+Finally, at present our procedure does not take into account the spatiotemporal, moral, and embodied dimensions of viewpoint as described in Van Krieken et al. (2017). Spatiotemporal viewpoint is expressed by syntax and anaphora (Kuno, 1987; see also Van Krieken et al., 2015). Moral viewpoint is interpreted on the basis of evaluations in the narrative that underpin the rhetorical intentions of telling the story. Research in this tradition can be traced back to studies of oral storytelling by Labov and Waletzky (1967) and Tannen (1982), and to studies of story plots and narrative archetypes, rooted in Propp (1928) and Campbell (1949; see also Sanders & Van Krieken, 2018). Among others, Martin and White (2007) have described how evaluations, attitudes or stance are expressed linguistically and how they can be analyzed in narrative discourse. Embodied viewpoint is an aspect of mental simulation of narrative as evoked by expressions of shape, orientation, and movement, and is studied in neuroimaging studies of sensory and motor simulation such as Zwaan (1999, 2009). In the future, the VPIP could be extended to also include these dimensions.
+To conclude, we believe that in its current form the VPIP can be a helpful tool to systematically identify perceptual, cognitive, and emotional viewpoint markers. For researchers interested in the experimental and analytic study of these manifestations of viewpoint, the VPIP opens many horizons for the study of viewpoint.
+Additional File
+The additional file for this article can be found as follows: • Appendix. List of Dutch markers of perceptual, cognitive, and emotional viewpoint. DOI: https://doi.org/10.16995/olh.483.s1
+
+30
+
+Eekhof et al: VPIP
+
+Funding Information
+This research was supported by an Innovational Research Incentives Scheme VENI grant from the Netherlands Organization for Scientific Research (NWO; project number 275-89-038) awarded to Kobie van Krieken.
+Competing Interests
+The author has no competing interests to declare.
+Source Materials
+CGN, 2000: Oostdijk, N. (2000). Het Corpus Gesproken Nederlands. Nederlandse Taalkunde 5: 280–284.
+HP/De Tijd, 2013: Van Dijk, T. (2013). Eén moment van onbedachtzaamheid. HP/De Tijd. https://www.verhalendejournalistiek.nl/een-moment-vanonbedachtzaamheid/ [Accessed 13 May 2020].
+Nabokov, 1948: Nabokov, V. (1948). Signs and Symbols. The New York Times. 15 May. https://www.newyorker.com/magazine/1948/05/15/symbols-and-signs [Accessed 13 May 2020].
+NRC Handelsblad, 2011: Funnekotter, B., & Mat, J. (2011). Bij de groenteafdeling ligt een man. Hij bloedt uit zijn zij. NRC Handelsblad. 11 April. https://www. nrc.nl/nieuws/2011/04/11/bij-de-groenteafdeling-ligt-een-man-hij-bloedt-uit12010093-a867089 [Accessed 13 May 2020].
+Van der Heijden, 2008: van der Heijden, A. F. Th. (2008). Gentse Lente. Amsterdam: De Bezige Bij.
+Van der Heijden, 2016: van der Heijden, A. F. Th. (2016). The Byzantine Cross (trans. P. Vincent). In J. Zwagerman (ed.), Penguin Book of Dutch Short Stories. London: Penguin Books. 404–416.
+Volkskrant, 2008: Sligter, A. (2008). Vrijbuiter in het oog van vele orkanen. De Volkskrant. 9 September. https://www.volkskrant.nl/nieuws-achtergrond/ vrijbuiter-in-het-oog-van-vele-orkanen~b5072fc4/ [Accessed 13 May 2020].
+Volkskrant, 2017: Blanken, N., & Blanken H. (2017). Als arts was ze voorstander van euthanasie. Toen wilde haar man dood. De Volkskrant. 22 April. https://www.volkskrant.nl/wetenschap/als-arts-was-ze-voorstandervan-euthanasie-toen-wilde-haar-man-dood~bace783d/ [Accessed 13 May 2020].
+
+Eekhof et al: VPIP
+
+31
+
+References
+Bekker, B. (2006). De feiten verdraaid: Over tekstvolgorde, talige markering en sprekerbetrokkenheid. Doctoral dissertation, Tilburg University, Tilburg, The Netherlands. https://research.tilburguniversity.edu/en/publications/de-feitenverdraaid-over-tekstvolgorde-talige-markering-en-spreke [Accessed 13 May 2020].
+Biber, D., Johansson, S., Leech, G., Conrad, S., and Finegan, E. (1999). The grammatical marking of stance. In D. Biber, S. Johansson, G. Leech, S. Conrad, and E. Finegan (eds.), Longman Grammar of Spoken and Written English. London: Longman. 966–986.
+Brunyé, T. T., Ditman, T., Giles, G. E., Holmes, A., and Taylor, H. A. (2016). Mentally simulating narrative perspective is not universal or necessary for language comprehension. Journal of Experimental Psychology: Learning, Memory, and Cognition 42(10): 1592–1605. DOI: https://doi.org/10.1037/ xlm0000250
+Brunyé, T. T., Ditman, T., Mahoney, C. R., Augustyn, J. S., and Taylor, H. A. (2009). When You and I Share Perspectives. Psychological Science 20(1): 27–32. DOI: https://doi.org/10.1111/j.1467-9280.2008.02249.x
+Brunyé, T. T., Ditman, T., Mahoney, C. R., and Taylor, H. A. (2011). Better you than I: Perspectives and emotion simulation during narrative comprehension. Journal of Cognitive Psychology 23(5): 659–666. DOI: https://doi.org/10.1080/2044591 1.2011.559160
+Burgers, C., Brugman, B. C., Renardel de Lavalette, K. Y., and Steen, G. J. (2016). HIP: A Method for Linguistic Hyperbole Identification in Discourse. Metaphor and Symbol 31(3): 163–178. DOI: https://doi.org/10.1080/10926488.2016.118 7041
+Burgers, C., van Mulken, M., and Schellens, P. J. (2011). Finding Irony: An Introduction of the Verbal Irony Procedure (VIP). Metaphor and Symbol 26(3): 186–205. DOI: https://doi.org/10.1080/10926488.2011.583194
+Campbell, J. (1949). The Hero with a Thousand Faces. Novato, CA: New World Library.
+
+32
+
+Eekhof et al: VPIP
+
+Child, S., Oakhill, J., and Garnham, A. (2018). You’re the emotional one: the role of perspective for emotion processing in reading comprehension. Language, Cognition and Neuroscience 33(7): 878–889. DOI: https://doi.org/10.1080/23 273798.2018.1431397
+Cohn, D. C. (1978). Transparent Minds: Narrative Modes for Presenting Consciousness in Fiction. Princeton: Princeton University Press.
+Dancygier, B. (2017). Viewpoint phenomena in constructions and discourse. Glossa: a journal of general linguistics 2(1): 37. DOI: https://doi.org/10.5334/gjgl.253
+Dancygier, B., and Vandelanotte, L. (2009). Judging distances: Mental spaces, distance, and viewpoint in literary discourse. In G. Brône & J. Vandaele (Eds.), Cognitive poetics: Goals, gains and gaps. 319–370. Berlin: Mouton de Gruyter. DOI: https://doi.org/10.1515/9783110213379.3.319
+De Graaf, A., Hoeken, H., Sanders, J., and Beentjes, J. W. (2012). Identification as a mechanism of narrative persuasion. Communication research 39(6): 802–823. DOI: https://doi.org/10.1177/0093650211408594
+Den Boon, T., and Geeraerts, D. (2005). Van Dale: Groot Woordenboek van de Nederlandse Taal. Utrecht: Van Dale Lexicografie.
+De Vries, C., Reijnierse, W. G., and Willems, R. (2018). Eye movements reveal readers’ sensitivity to deliberate metaphors during narrative reading. Scientific Study of Literature 8(1): 135–164. DOI: https://doi.org/10.1075/ssol.18008. vri
+Ditman, T., Brunyé, T. T., Mahoney, C. R., and Taylor, H. A. (2010). Simulating an enactment effect: Pronouns guide action simulation during narrative comprehension. Cognition 115(1): 172–178. DOI: https://doi.org/10.1016/j. cognition.2009.10.014
+Dziobek, I., Rogers, K., Fleck, S., Bahnemann, M., Heekeren, H. R., Wolf, O. T., and Convit, A. (2008). Dissociation of Cognitive and Emotional Empathy in Adults with Asperger Syndrome Using the Multifaceted Empathy Test (MET). Journal of Autism and Developmental Disorders 38(3): 464–473. DOI: https:// doi.org/10.1007/s10803-007-0486-x
+
+Eekhof et al: VPIP
+
+33
+
+Eekhof, L. S., van Krieken, K., Sanders, J., and Willems, R. M. (in preparation). Unraveling the social cognitive potential of narratives using eye-tracking: the case of viewpoint markers.
+Farner, G. (2014). Literary Fiction: The Ways We Read Narrative Literature. New York: Bloomsbury. DOI: https://doi.org/10.5040/9781628926996
+Gray, B., and Biber, D. (2014). Stance markers. In K. Aijmer and C. Rühlemann (eds)., Corpus Pragmatics: A Handbook. Cambridge: Cambridge University Press. 219–248. DOI: https://doi.org/10.1017/CBO9781139057 493
+Habermas, T. (2006). Who speaks? Who looks? Who feels? Point of view in autobiographical narratives. The International Journal of Psychoanalysis 87(2): 497–518. DOI: https://doi.org/10.1516/AXWM-QRNF-H69K-9K3C
+Habermas, T., and Diel, V. (2010). The emotional impact of loss narratives: Event severity and narrative perspectives. Emotion 10(3): 312–323. DOI: https://doi. org/10.1037/a0018001
+Hevner, K. (1936). Experimental Studies of the Elements of Expression in Music. The American Journal of Psychology 48(2): 246. DOI: https://doi. org/10.2307/1415746
+Hoeken, H., Kolthoff, M., and Sanders, J. (2016). Story perspective and character similarity as drivers of identification and narrative persuasion. Human Communication Research 42(2): 292–311. DOI: https://doi.org/10.1111/ hcre.12076
+Hunston, S., and Thompson, G. (2000). Evaluation in text: Authorial stance and the construction of discourse. Oxford: Oxford University Press.
+Ikeo, R. (2014). Connectives ‘but’ and ‘for’ in viewpoint shifting in Woolf’s To the Lighthouse. Language and Literature 23(4): 331–346. DOI: https://doi. org/10.1177/0963947014534125
+Kissine, M. (2010). Metaphorical projection, subjectification and English speech act verbs. Folia linguistica 44(2): 339–370.​DOI: https://doi.org/10.1515/ flin.2010.013
+
+34
+
+Eekhof et al: VPIP
+
+Klein, H. (1998). Adverbs of Degree in Dutch and Related Languages. Amsterdam: John Benjamins Publishing. DOI: https://doi.org/10.1075/la.21
+Krippendorff, K. (2018). Content Analysis: An Introduction to its Methodology. 4th ed. Los Angeles: SAGE.
+Kuno, S. (1987). Functional syntax: Anaphora, discourse and empathy. University of Chicago Press.
+Labov, W., and Waletzky, J. (1967). Narrative analysis: oral versions of personal experience. In: J. Helm (Ed.), Essays on the Verbal and Visual Arts. Seattle: University of Washington Press. 12–44.
+Landis, J. R., and Koch, G. G. (1977). The measurement of observer agreement for categorical data. Biometrics 33(1): 159–174. DOI: https://doi. org/10.2307/2529310
+Langacker, R. W. (1987). Foundations of Cognitive Grammar, Vol. I: Theoretical Prerequisites. Stanford: Stanford University Press.
+Levin, B. (1993). English Verb Classes and Alternations: A Preliminary Investigation. Chicago: The University of Chicago Press.
+Mak, M., and Willems, R. M. (2019). Mental simulation during literary reading: Individual differences revealed with eye-tracking. Language, Cognition and Neuroscience 34(4): 511–535. DOI: https://doi.org/10.1080/23273798.2018.1 552007
+Mar, R. A. (2011). The Neural Bases of Social Cognition and Story Comprehension. Annual Review of Psychology 62(1): 103–134. DOI: https://doi.org/10.1146/ annurev-psych-120709-145406
+Martin, J. R., and White, P. R. R. (2007). The language of evaluation: Appraisal in English. Basingstoke: Palgrave Macmillan.
+Mulcahy, M., and Gouldthorp, B. (2018). Positioning the reader: the effect of narrative point-of-view and familiarity of experience on situation model construction. Language and Cognition 8: 96–123. DOI: https://doi.org/10.1017/langcog.2014.45
+Nikiforidou, K. (2010). Viewpoint and construction grammar: The case of past + now. Language and Literature 19(3): 265–284. DOI: https://doi. org/10.1177/0963947010370253
+
+Eekhof et al: VPIP
+
+35
+
+Palmer, A. (2004). Fictional Minds. Lincoln: University of Nebraska Press. Pearce, M. (2005). Informalization in UK party election broadcasts
+1966–97. Language and Literature 14(1): 65–90. DOI: https://doi. org/10.1177/0963947005046285 Peels, R. (2019). Replicability and replication in the humanities. Research Integrity and Peer Review 4(1): 2. DOI: https://doi.org/10.1186/s41073-018-0060-4 Pragglejaz Group. (2007). MIP: A Method for Identifying Metaphorically Used Words in Discourse. Metaphor and Symbol 22(1): 1–39. DOI: https://doi. org/10.1080/10926480709336752 Propp, V. (1928). The Morphology of the Folk Tale. Saint Petersburg: Academia. Salverda, R. (2003). De Elektronische ANS. Nederlandse Taalkunde 8(3): 255–261. Sanders, J. (1994). Perspective in Narrative Discourse. Doctoral dissertation: Tilburg University. Sanders, T. (1997). Semantic and pragmatic sources of coherence: On the categorization of coherence relations in context. Discourse Processes 24(1): 119– 147. DOI: https://doi.org/10.1080/01638539709545009 Sanders, J. (2010). Intertwined voices: Journalists’ modes of representing source information in journalistic subgenres. English Text Construction 3(2): 226–249. DOI: https://doi.org/10.1075/etc.3.2.06san Sanders, J., and Redeker, G. (1993). Linguistic perspective in short news stories. Poetics 22(1): 69–87. DOI: https://doi.org/10.1016/0304-422X(93)90021-8 Sanders, J., and Spooren, W. (1996). Subjectivity and certainty in epistemic modality: A study of Dutch epistemic modifiers. Cognitive Linguistics 7(3): 241– 264. DOI: https://doi.org/10.1515/cogl.1996.7.3.241 Sanders, J., and Spooren, W. (1997). Perspective, subjectivity, and modality from a cognitive linguistics point of view. In W. Liebert, G. Redeker, & L. Waugh (eds.), Discourse and Perspective in Cognitive Linguistics. Amsterdam: John Benjamins. 85–112. DOI: https://doi.org/10.1075/cilt.151.08san Sanders, J., and Van Krieken, K. (2018). Exploring narrative structure and hero enactment in brand stories. Frontiers in Psychology 9: 1645. DOI: https://doi. org/10.3389/fpsyg.2018.01645
+
+36
+
+Eekhof et al: VPIP
+
+Sanford, A. J., and Emmott, C. (2012). Mind, Brain and Narrative. Cambridge: Cambridge University Press. DOI: https://doi.org/10.1017/CBO9781139084321
+Schubert, E. (2003). Update of the Hevner Adjective Checklist. Perceptual and Motor Skills 96: 1117–1122. DOI: https://doi.org/10.2466/pms.2003.96.3c.1117
+Steen, G., Dorst, A. G., Herrmann, J. B., Kaal, A. A., Krennmayr, T., and Pasma, T. (2010). A Method for Linguistic Metaphor Identification: From MIP to MIPVU. Amsterdam/Philadelphia: John Benjamins Publishing Company. DOI: https:// doi.org/10.1075/celcr.14
+Tannen, D. (1982). Oral and literate strategies in spoken and written narratives. Language 58(1): 1–21. DOI: https://doi.org/10.2307/413530
+Traugott, E. C. (1989). On the rise of epistemic meanings in English: An example of subjectification in semantic change. Language 65(1): 31–55. DOI: https://doi. org/10.2307/414841
+Trompenaars, T. (2018). Empathy for the inanimate. Linguistics in the Netherlands 35(1): 125–138. DOI: https://doi.org/10.1075/avt.00009.tro
+Trompenaars, T., Hogeweg, L., Stoop, W., and de Hoop, H. (2018). The language of an inanimate narrator. Open Linguistics 4(1): 707–721. DOI: https://doi. org/10.1515/opli-2018-0034
+Uspensky, B. (1973). A Poetics of Composition. Berkeley: University of California Press.
+Vandelanotte, L. (2017). Viewpoint. In B. Dancygier (Red.), The Cambridge Handbook of Cognitive Linguistics. Cambridge: Cambridge University Press. DOI: https:// doi.org/10.1017/9781316339732.011
+Van Duijn, M. J., Sluiter, I., and Verhagen, A. (2015). When narrative takes over: The representation of embedded mindstates in Shakespeare’s Othello. Language and Literature 24(2): 148–166. DOI: https://doi. org/10.1177/0963947015572274
+Van Krieken, K. (2018). Ambiguous perspective in narrative discourse: Effects of viewpoint markers and verb tense on readers’ interpretation of represented perceptions. Discourse Processes 55(8): 771–786. DOI: https://doi.org/10.1080 /0163853X.2017.1381540
+
+Eekhof et al: VPIP
+
+37
+
+Van Krieken, K., Hoeken, H., and Sanders, J. (2015). From reader to mediated witness: The engaging effects of journalistic crime narratives. Journalism & Mass Communication Quarterly 92(3): 580–596. DOI: https://doi. org/10.1177/1077699015586546
+Van Krieken, K., Hoeken, H., and Sanders, J. (2017). Evoking and measuring identification with narrative characters – A linguistic cues framework. Frontiers in Psychology 8: 1190. DOI: https://doi.org/10.3389/fpsyg.2017.01190
+Van Krieken, K., and Sanders, J. (2016a). Diachronic changes in forms and functions of reported discourse in news narratives. Journal of pragmatics 91: 45–59. DOI: https://doi.org/10.1016/j.pragma.2015.11.002
+Van Krieken, K., and Sanders, J. (2016b). Gruwelijke moorden, meeslepende verhalen: Gebruik en ontwikkeling van narratieve technieken in journalistieke teksten (1850–1939) [Gruesome murders, compelling stories: Use and development of narrative techniques in journalistic texts (1850–1939)]. In D. van de Mieroop, L. Buysse, and R. Coesemans (eds.), De Macht van de Taal: Taalbeheersingsonderzoek in Nederland en Vlaanderen. Leuven: ACCO. 117–130.
+Van Krieken, K., and Sanders, J. (2017). Engaging doctors and depressed patients: Effects of referential viewpoint and role similarity in health narratives. International Journal of Communication 11: 1–18.
+Van Krieken, K., and Sanders, J. (2019). Smoothly moving through mental spaces: Linguistic patterns of viewpoint transfer in news narratives. Cognitive linguistics 30(3): 499–529. DOI: https://doi.org/10.1515/cog-2018-0063
+Van Krieken, K., Sanders, J., and Hoeken, H. (2015). Viewpoint representation in journalistic crime narratives: An analysis of grammatical roles and referential expressions. Journal of pragmatics 88: 220–230. DOI: https://doi.org/10.1016/j. pragma.2014.07.012
+Vis, K., Sanders, J., and Spooren, W. (2012). Diachronic changes in subjectivity and stance–A corpus linguistic study of Dutch news texts. Discourse, Context & Media 1(2–3): 95–102. DOI: https://doi.org/10.1016/j.dcm.2012.09.003
+Vis, K., Sanders, J., and Spooren, W. (2015). Quoted Discourse in Dutch News Narratives. In A. Lardinois, S. Levie, H. Hoeken, & C. Lüthy (Eds.), Texts,
+
+38
+
+Eekhof et al: VPIP
+
+Transmissions, Receptions: Modern Approaches to Narratives. Leiden: Brill. 152– 172. DOI: https://doi.org/10.1163/9789004270848_010 Zwaan, R. A. (1999). Embodied cognition, perceptual symbols, and situation models. Discourse Processes 28(1): 81–88. DOI: https://doi. org/10.1080/01638539909545070 Zwaan, R. A. (2009). Mental simulation in language comprehension and social cognition. European Journal of Social Psychology 39: 1142–1150. DOI: https:// doi.org/10.1002/ejsp.66
+
+How to cite this article: Eekhof, L S, van Krieken, K and Sanders, J 2020 VPIP: A Lexical Identification Procedure for Perceptual, Cognitive, and Emotional Viewpoint in Narrative Discourse. Open Library of Humanities, 6(1): 18, pp. 1–38. DOI: https://doi.org/10.16995/ olh.483
+
+Published: 03 June 2020
+
+Copyright: © 2020 The Author(s). This is an open-access article distributed under the terms of the Creative Commons Attribution 4.0 International License (CC-BY 4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. See http://creativecommons.org/licenses/by/4.0/.
+
+Open Library of Humanities is a peer-reviewed open access journal published by Open Library of Humanities.
+
+OPEN ACCESS
+

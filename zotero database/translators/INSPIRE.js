@@ -9,7 +9,7 @@
 	"priority": 100,
 	"inRepository": true,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2021-07-23 03:35:00"
+	"lastUpdated": "2023-04-07 08:45:00"
 }
 
 /*
@@ -88,7 +88,7 @@ function scrape(doc, url) {
 				item.tags.push({ tag: tag.textContent.trim() });
 			}
 			
-			for (let action of doc.querySelectorAll('.__ListItemAction__ a')) {
+			for (let action of doc.querySelectorAll('.__UserAction__ a')) {
 				if (/\bpdf\b/i.test(action.textContent)) {
 					item.attachments.push({
 						title: 'Full Text PDF',
@@ -115,6 +115,7 @@ var testCases = [
 	{
 		"type": "web",
 		"url": "https://inspirehep.net/literature/1284987",
+		"defer": true,		
 		"items": [
 			{
 				"itemType": "journalArticle",
@@ -186,6 +187,7 @@ var testCases = [
 	{
 		"type": "web",
 		"url": "https://inspirehep.net/literature/1282171",
+		"defer": true,
 		"items": [
 			{
 				"itemType": "journalArticle",

@@ -1,14 +1,14 @@
 {
 	"translatorID": "de0eef58-cb39-4410-ada0-6b39f43383f9",
+	"translatorType": 8,
 	"label": "K10plus ISBN",
 	"creator": "Philipp Zumstein",
-	"target": "",
+	"target": null,
 	"minVersion": "4.0",
-	"maxVersion": "",
+	"maxVersion": null,
 	"priority": 99,
 	"inRepository": true,
-	"translatorType": 8,
-	"lastUpdated": "2022-06-10 06:34:45"
+	"lastUpdated": "2023-04-17 11:00:00"
 }
 
 /*

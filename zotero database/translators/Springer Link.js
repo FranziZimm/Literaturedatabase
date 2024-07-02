@@ -9,7 +9,7 @@
 	"priority": 100,
 	"inRepository": true,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2022-08-15 19:55:00"
+	"lastUpdated": "2024-05-09 16:45:00"
 }
 
 /*
@@ -32,6 +32,7 @@
 
 function detectWeb(doc, url) {
 	var action = getAction(url);
+	// Z.debug(action)
 	if (!action) return false;
 	if (!doc.head || !doc.head.getElementsByTagName('meta').length) {
 		Z.debug("Springer Link: No head or meta tags");
@@ -83,8 +84,19 @@ function getResultList(doc) {
 	if (!results.length) {
 		results = ZU.xpath(doc, '//li[@class="c-list-group__item"]//h3/a');
 	}
+	// e.g. https://link.springer.com/book/10.1007/978-3-031-04248-5 -- Springer uses both h3 and h4 and sometimes
+	// the h3 link actually points to other volumes, so we're making sure we're in the right li element first
 	if (!results.length) {
-		results = doc.querySelectorAll('h3.c-card__title > a');
+		results = doc.querySelectorAll('li[data-test="chapter"] h4.c-card__title > a, li[data-test="chapter"] h3.c-card__title > a');
+	}
+	// https://link.springer.com/book/10.1007/978-3-476-05742-6
+	// https://link.springer.com/book/10.1007/978-3-319-63324-4
+	if (!results.length) {
+		results = doc.querySelectorAll('li[data-test="chapter"] [data-test^="chapter-title"] > a');
+	}
+	// https://link.springer.com/journal/11192/volumes-and-issues/129-1
+	if (!results.length) {
+		results = doc.querySelectorAll('section ol article.c-card-open h3 > a');
 	}
 	return results;
 }
@@ -95,7 +107,7 @@ function doWeb(doc, url) {
 		var list = getResultList(doc);
 		var items = {};
 		if (getAction(url) == 'book') {
-			items[url] = '[Full Book] ' + text(doc, 'main h1');
+			items[url] = '[Full Book] ' + text(doc, 'header h1');
 		}
 		for (var i = 0, n = list.length; i < n; i++) {
 			items[list[i].href] = list[i].textContent;
@@ -624,6 +636,31 @@ var testCases = [
 	{
 		"type": "web",
 		"url": "https://link.springer.com/journal/10344/volumes-and-issues/66-5",
+		"items": "multiple"
+	},
+	{
+		"type": "web",
+		"url": "https://link.springer.com/book/10.1007/978-3-031-04248-5",
+		"items": "multiple"
+	},
+	{
+		"type": "web",
+		"url": "https://link.springer.com/journal/11192/volumes-and-issues/129-1",
+		"items": "multiple"
+	},
+	{
+		"type": "web",
+		"url": "https://link.springer.com/journal/10473/volumes-and-issues/44-3",
+		"items": "multiple"
+	},
+	{
+		"type": "web",
+		"url": "https://link.springer.com/book/10.1007/978-3-319-63324-4",
+		"items": "multiple"
+	},
+	{
+		"type": "web",
+		"url": "https://link.springer.com/book/10.1007/978-3-476-05742-6",
 		"items": "multiple"
 	}
 ]

@@ -3,13 +3,13 @@
 	"translatorType": 12,
 	"label": "PubMed",
 	"creator": "Philipp Zumstein",
-	"target": "^https?://([^/]+\\.)?(www|preview)\\.ncbi\\.nlm\\.nih\\.gov[^/]*/(m/)?(books|pubmed|labs/pubmed|myncbi|sites/pubmed|sites/entrez|entrez/query\\.fcgi\\?.*db=PubMed|myncbi/browse/collection/?|myncbi/collections/)|^https?://pubmed\\.ncbi\\.nlm\\.nih\\.gov/(\\d|\\?|searches/)",
+	"target": "^https?://([^/]+\\.)?(www|preview)\\.ncbi\\.nlm\\.nih\\.gov[^/]*/(m/)?(books|pubmed|labs/pubmed|myncbi|sites/pubmed|sites/entrez|entrez/query\\.fcgi\\?.*db=PubMed|myncbi/browse/collection/?|myncbi/collections/)|^https?://pubmed\\.ncbi\\.nlm\\.nih\\.gov/(\\d|\\?|searches/|clipboard|collections/)",
 	"minVersion": "3.0",
 	"maxVersion": null,
 	"priority": 100,
 	"inRepository": true,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2020-12-16 03:50:00"
+	"lastUpdated": "2023-01-10 14:15:00"
 }
 
 /*
@@ -1240,6 +1240,7 @@ var testCases = [
 				"journalAbbreviation": "Elife",
 				"language": "eng",
 				"libraryCatalog": "PubMed",
+				"pages": "e51710",
 				"publicationTitle": "eLife",
 				"volume": "9",
 				"attachments": [
@@ -1251,13 +1252,40 @@ var testCases = [
 				],
 				"tags": [
 					{
+						"tag": "Animals"
+					},
+					{
 						"tag": "D. melanogaster"
+					},
+					{
+						"tag": "Drosophila Proteins"
+					},
+					{
+						"tag": "Drosophila melanogaster"
+					},
+					{
+						"tag": "Imaginal Discs"
+					},
+					{
+						"tag": "Larva"
+					},
+					{
+						"tag": "Muscles"
 					},
 					{
 						"tag": "Myoglianin"
 					},
 					{
 						"tag": "Myostatin"
+					},
+					{
+						"tag": "Signal Transduction"
+					},
+					{
+						"tag": "Smad Proteins, Receptor-Regulated"
+					},
+					{
+						"tag": "Transforming Growth Factor beta"
 					},
 					{
 						"tag": "developmental biology"

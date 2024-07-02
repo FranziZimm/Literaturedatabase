@@ -8,7 +8,7 @@
 	"maxVersion": null,
 	"priority": 100,
 	"inRepository": true,
-	"lastUpdated": "2020-10-14 17:35:00"
+	"lastUpdated": "2024-03-18 16:20:00"
 }
 
 /*
@@ -112,7 +112,7 @@ function glueTogether(part1, part2, delimiter) {
 		return part1 + ' ' + part2;
 	}
 	// we only add the delimiter, if part1 is not ending with a punctation
-	if (part1.search(/[?:,.!;]\s*$/) > -1) {
+	if (/[?:,.!;]\s*$/.test(part1)) {
 		return part1 + ' ' + part2;
 	}
 	return part1 + delimiter + part2;
@@ -409,7 +409,7 @@ record.prototype.translate = function (item) {
 			let authorTab = this.getFieldSubfields(i);
 			for (let j in authorTab) {
 				if (authorTab[j].a) {
-					item.creators.push({ lastName: authorTab[j].a, creatorType: "contributor", fieldMode: true });
+					item.creators.push({ lastName: authorTab[j].a, creatorType: "contributor", fieldMode: 1 });
 				}
 			}
 		}
@@ -533,7 +533,7 @@ record.prototype.translate = function (item) {
 						authorTab[j].a = authorTab[j].a.replace(/^[\s\u00A0.,/[\]:]+/, '')
 							.replace(/[\s\u00A0.,/[\]:]+$/, '')
 							.replace(/[\s\u00A0]+/, ' ');
-						creatorObject = { lastName: authorTab[j].a, creatorType: "contributor", fieldMode: true };
+						creatorObject = { lastName: authorTab[j].a, creatorType: "contributor", fieldMode: 1 };
 					}
 					// some heuristic for the default values:
 					// in a book without any person as a main entry (no 100 field)

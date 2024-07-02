@@ -9,7 +9,7 @@
 	"priority": 100,
 	"inRepository": true,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2021-06-24 21:35:00"
+	"lastUpdated": "2024-01-27 09:20:00"
 }
 
 /*
@@ -79,7 +79,7 @@ function scrape(doc, _url) {
 	let bib = JSON.parse(jsonText).bib;
 	
 	// it's easiest we get MARC, but some items don't have it
-	if (bib.annotatedMarc.bib.fields.length) {
+	if (bib.annotatedMarc && bib.annotatedMarc.bib.fields.length) {
 		scrapeMARC(bib.annotatedMarc.bib.fields);
 	}
 	else {

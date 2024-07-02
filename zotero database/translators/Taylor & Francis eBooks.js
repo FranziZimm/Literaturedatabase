@@ -9,7 +9,7 @@
 	"priority": 100,
 	"inRepository": true,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2022-07-13 18:50:00"
+	"lastUpdated": "2024-03-07 16:00:00"
 }
 
 /*
@@ -102,8 +102,8 @@ function scrape(doc, url, itemType) {
 	if (itemType == 'bookSection') {
 		item.bookTitle = text(doc, 'a.product-book-link');
 	}
-	
-	for (let creator of text(doc, '.product-banner-author-name').split(", ")) {
+
+	for (let creator of text(doc, '.product-banner-author-name').split(",")) {
 		let creatorType = text(doc, '.product-banner-author').includes('Edited')
 			? 'editor'
 			: 'author';

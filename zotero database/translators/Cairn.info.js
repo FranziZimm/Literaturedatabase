@@ -1,15 +1,15 @@
 {
 	"translatorID": "f46cc903-c447-47d6-a2cf-c75ed22dc96b",
+	"translatorType": 4,
 	"label": "Cairn.info",
 	"creator": "Sebastian Karcher, Sylvain Machefert and Nicolas Chachereau",
 	"target": "^https?://www\\.cairn\\.info/",
 	"minVersion": "3.0",
-	"maxVersion": "",
+	"maxVersion": null,
 	"priority": 100,
 	"inRepository": true,
-	"translatorType": 4,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2022-05-31 18:42:02"
+	"lastUpdated": "2023-10-24 17:55:00"
 }
 
 /*
@@ -80,11 +80,9 @@ function getSearchResults(doc, checkOnly) {
 async function doWeb(doc, url) {
 	if (await detectWeb(doc, url) == 'multiple') {
 		let items = await Zotero.selectItems(getSearchResults(doc, false));
-		if (items) {
-			await Promise.all(
-				Object.keys(items)
-					.map(url => requestDocument(url).then(scrape))
-			);
+		if (!items) return;
+		for (let url of Object.keys(items)) {
+			await scrape(await requestDocument(url));
 		}
 	}
 	else {
@@ -125,7 +123,7 @@ async function scrape(doc) {
 
 		if (pdfLink) {
 			item.attachments.push({
-				url: pdfLink.href,
+				url: pdfLink,
 				title: 'Full Text PDF',
 				mimeType: 'application/pdf'
 			});

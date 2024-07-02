@@ -9,7 +9,7 @@
 	"priority": 100,
 	"inRepository": true,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2022-07-10 17:15:00"
+	"lastUpdated": "2024-02-18 04:00:00"
 }
 
 /*
@@ -71,9 +71,13 @@ function getTextValue(doc, fields) {
 
 // initializes field map translations
 function initLang(doc) {
-	var lang = ZU.xpathText(doc, '//a[span[contains(@class,"uxf-globe")]]');
-	if (lang && lang.trim() != "English") {
-		lang = lang.trim().split(',')[0];
+	let lang = text(doc, '.gaMRLanguage');
+	if (!lang) lang = ZU.xpathText(doc, '//a[span[contains(@class,"uxf-globe")]]');
+	lang = lang.replace(/\u200e/g, ''); // Remove stray left-to-right markers
+	Z.debug('Full language label: ' + JSON.stringify(lang));
+	if (lang && lang != "English") {
+		lang = lang.split(',')[0].trim();
+		Z.debug('Trimmed language label: ' + JSON.stringify(lang));
 
 		// if already initialized, don't need to do anything else
 		if (lang == language) return;
@@ -279,8 +283,8 @@ function scrape(doc, url, type) {
 				creatorType = (enLabel == 'Author') ? 'author' : 'editor';
 				
 				// Use titles of a tags if they exist, since these don't include
-				// affiliations
-				value = ZU.xpathText(rows[i].childNodes[1], "a/@title", null, "; ") || value;
+				// affiliations; don't include links to ORCID profiles
+				value = ZU.xpathText(rows[i].childNodes[1], "a[not(@id='orcidLink')]/@title", null, "; ") || value;
 
 				value = value.replace(/^by\s+/i, '')	// sometimes the authors begin with "By"
 							.split(/\s*;\s*|\s+and\s+/i);
@@ -494,10 +498,11 @@ function scrape(doc, url, type) {
 		item.tags = altKeywords.join(',').split(/\s*(?:,|;)\s*/);
 	}
 	
-	if (doc.getElementById('downloadPDFLink')) {
+	let pdfLink = doc.querySelector('[id^="downloadPDFLink"]');
+	if (pdfLink) {
 		item.attachments.push({
 			title: 'Full Text PDF',
-			url: doc.getElementById('downloadPDFLink').href,
+			url: pdfLink.href,
 			mimeType: 'application/pdf',
 			proxy: false
 		});
@@ -580,6 +585,11 @@ function getItemType(types) {
 		else if (testString.includes("letter") || testString.includes("cable")) {
 			guessType = "letter";
 		}
+	}
+
+	// We don't have localized strings for item types, so just guess that it's a journal article
+	if (!guessType && language != 'English') {
+		return 'journalArticle';
 	}
 
 	return guessType;
@@ -1223,7 +1233,7 @@ var fieldNames = {
 		Subject: 'Konu',
 		"Journal subject": 'Dergi konusu'
 	},
-	'中文(简体)‎': {
+	'中文(简体)': {
 		"Source type": '来源类型',
 		"Document type": '文档类型',
 		// "Record type"

@@ -1,21 +1,21 @@
 {
 	"translatorID": "850f4c5f-71fb-4669-b7da-7fb7a95500ef",
+	"translatorType": 4,
 	"label": "Cambridge Core",
 	"creator": "Sebastian Karcher",
 	"target": "^https?://www\\.cambridge\\.org/core/(search\\?|journals/|books/|.+/listing?)",
 	"minVersion": "3.0",
-	"maxVersion": "",
+	"maxVersion": null,
 	"priority": 100,
 	"inRepository": true,
-	"translatorType": 4,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2021-10-09 00:36:31"
+	"lastUpdated": "2024-02-18 18:30:00"
 }
 
 /*
 	***** BEGIN LICENSE BLOCK *****
 
-	Copyright © 2016-2020 Sebastian Karcher
+	Copyright © 2016-2024 Sebastian Karcher
 
 	This file is part of Zotero.
 
@@ -53,7 +53,7 @@ function detectWeb(doc, url) {
 		}
 		else return "book";
 	}
-	
+
 	// now let's check for multiples again, just to be sure. this handles some
 	// rare listing page URLs that might not be included in the multiples
 	// regex above.
@@ -68,7 +68,7 @@ function getSearchResults(doc, checkOnly) {
 	var items = {};
 	var found = false;
 	var rows = doc.querySelectorAll(
-		'li.title a[href*="/article/"], li.title a[href*="/product/"], li.title a[href*="/books/"]'
+		'li.title a[href*="/article/"], li.title a[href*="/product/"], li.title a[href*="/books/"], div.results .product-listing-with-inputs-content a[href*="/books/"]'
 	);
 	for (let row of rows) {
 		var href = row.href;
@@ -82,28 +82,24 @@ function getSearchResults(doc, checkOnly) {
 }
 
 
-function doWeb(doc, url) {
-	if (detectWeb(doc, url) == "multiple") {
-		Zotero.selectItems(getSearchResults(doc, false), function (items) {
-			if (!items) {
-				return;
-			}
-			var articles = [];
-			for (let i in items) {
-				articles.push(i);
-			}
-			ZU.processDocuments(articles, scrape);
-		});
+async function doWeb(doc, url) {
+	if (detectWeb(doc, url) == 'multiple') {
+		let items = await Zotero.selectItems(getSearchResults(doc, false));
+		if (!items) return;
+		for (let url of Object.keys(items)) {
+			await scrape(await requestDocument(url));
+		}
 	}
 	else {
-		scrape(doc, url);
+		await scrape(doc, url);
 	}
 }
 
-function scrape(doc, url) {
+
+async function scrape(doc, url = doc.location.href) {
 	// Book metadata is much better using RIS
 	if (detectWeb(doc, url) == "book" || detectWeb(doc, url) == "bookSection") {
-		let productID = url.replace(/[#?].+/, "").match(/\/([^/]+)$/)[1];
+		let productID = url.replace(/[#?].*/, "").match(/\/([^/]+)$/)[1];
 		let risURL
 			= "/core/services/aop-easybib/export?exportType=ris&productIds="
 			+ productID + "&citationStyle=apa";
@@ -113,38 +109,39 @@ function scrape(doc, url) {
 			'//meta[contains(@name, "citation_pdf_url")]/@content'
 		);
 		// Z.debug("pdfURL: " + pdfURL);
-		ZU.doGet(risURL, function (text) {
-			var translator = Zotero.loadTranslator(
-				"import");
-			translator.setTranslator(
-				"32d59d2d-b65a-4da4-b0a3-bdd3cfb979e7");
-			translator.setString(text);
-			translator.setHandler("itemDone", function (obj,
-				item) {
-				if (pdfURL) {
-					item.attachments.push({
-						url: pdfURL,
-						title: "Full Text PDF",
-						mimeType: "application/pdf"
-					});
-				}
+		var text = await requestText(risURL);
+		var translator = Zotero.loadTranslator(
+			"import");
+		translator.setTranslator(
+			"32d59d2d-b65a-4da4-b0a3-bdd3cfb979e7");
+		translator.setString(text);
+		translator.setHandler("itemDone", function (obj,
+			item) {
+			if (pdfURL) {
 				item.attachments.push({
-					title: "Snapshot",
-					document: doc
+					url: pdfURL,
+					title: "Full Text PDF",
+					mimeType: "application/pdf"
 				});
-				// don't save Cambridge Core to archive
-				item.archive = "";
-				item.complete();
+			}
+			item.attachments.push({
+				title: "Snapshot",
+				document: doc
 			});
-			translator.translate();
+			// don't save Cambridge Core to archive
+			item.archive = "";
+			item.complete();
 		});
+		await translator.translate();
 	}
 	// Some elements of journal citations look better with EM
 	else {
-		var translator = Zotero.loadTranslator('web');
+		let translator = Zotero.loadTranslator('web');
 		// Embedded Metadata
 		translator.setTranslator('951c027d-74ac-47d4-a107-9c3069ab7b48');
-		translator.setHandler('itemDone', function (obj, item) {
+		translator.setDocument(doc);
+		
+		translator.setHandler('itemDone', (_obj, item) => {
 			item.url = url;
 			var abstract = ZU.xpathText(doc,
 				'//div[@class="abstract"]');
@@ -152,22 +149,28 @@ function scrape(doc, url) {
 				item.abstractNote = abstract;
 			}
 			item.title = ZU.unescapeHTML(item.title);
+			item.publisher = ""; // don't grab the publisher
 			item.libraryCatalog = "Cambridge University Press";
 			if (item.date.includes("undefined")) {
 				item.date = attr('meta[name="citation_online_date"]', "content");
 			}
+			// remove asterisk or 1 at end of title, e.g. https://www.cambridge.org/core/journals/american-political-science-review/article/abs/violence-in-premodern-societies-rural-colombia/A14B0BB4130A2BA6BE79E2853597526E
+			const titleElem = doc.querySelector("#maincontent h1");
+			if (titleElem.querySelector('a:last-child')) {
+				item.title = titleElem.firstChild.textContent;
+			}
+
 			item.complete();
 		});
-
-		translator.getTranslatorObject(function (trans) {
-			if (url.includes("/books")) {
-				trans.itemType = "book";
-			}
-			else {
-				trans.itemType = "journalArticle";
-			}
-			trans.doWeb(doc, url);
-		});
+		let em = await translator.getTranslatorObject();
+		// TODO map additional meta tags here, or delete completely
+		if (url.includes("/books")) {
+			em.itemType = "book";
+		}
+		else {
+			em.itemType = "journalArticle";
+		}
+		await em.doWeb(doc, url);
 	}
 }
 
@@ -203,10 +206,6 @@ var testCases = [
 					{
 						"title": "Full Text PDF",
 						"mimeType": "application/pdf"
-					},
-					{
-						"title": "Snapshot",
-						"mimeType": "text/html"
 					}
 				],
 				"tags": [],
@@ -253,10 +252,6 @@ var testCases = [
 					{
 						"title": "Full Text PDF",
 						"mimeType": "application/pdf"
-					},
-					{
-						"title": "Snapshot",
-						"mimeType": "text/html"
 					}
 				],
 				"tags": [
@@ -446,13 +441,90 @@ var testCases = [
 	},
 	{
 		"type": "web",
-		"url": "https://www.cambridge.org/core/journals/ajs-review/firstview",
+		"url": "https://www.cambridge.org/core/journals/ajs-review/latest-issue",
 		"items": "multiple"
 	},
 	{
 		"type": "web",
-		"url": "https://www.cambridge.org/core/journals/ajs-review/latest-issue",
+		"url": "https://www.cambridge.org/core/journals/american-political-science-review/article/abs/violence-in-premodern-societies-rural-colombia/A14B0BB4130A2BA6BE79E2853597526E",
+		"items": [
+			{
+				"itemType": "journalArticle",
+				"title": "Violence in Pre-Modern Societies: Rural Colombia",
+				"creators": [
+					{
+						"firstName": "Richard S.",
+						"lastName": "Weinert",
+						"creatorType": "author"
+					}
+				],
+				"date": "1966/06",
+				"DOI": "10.2307/1953360",
+				"ISSN": "0003-0554, 1537-5943",
+				"abstractNote": "Violence is a common phenomenon in developing polities which has received little attention. Clearly a Peronist riot in Buenos Aires, a land invasion in Lima, and a massacre in rural Colombia are all different. Yet we have no typology which relates types of violence to stages or patterns of economic or social development. We know little of the causes, incidence or functions of different forms of violence. This article is an effort to understand one type of violence which can occur in societies in transition.Violence in Colombia has traditionally accompanied transfers of power at the national level. This can account for its outbreak in 1946, when the Conservative Party replaced the Liberals. It cannot account for the intensity or duration of rural violence for two decades. This article focuses primarily on the violence from 1946 to 1953, and explains its intensification and duration as the defense of a traditional sacred order against secular modernizing tendencies undermining that order. We shall discuss violence since 1953 in the concluding section.",
+				"issue": "2",
+				"language": "en",
+				"libraryCatalog": "Cambridge University Press",
+				"pages": "340-347",
+				"publicationTitle": "American Political Science Review",
+				"shortTitle": "Violence in Pre-Modern Societies",
+				"url": "https://www.cambridge.org/core/journals/american-political-science-review/article/abs/violence-in-premodern-societies-rural-colombia/A14B0BB4130A2BA6BE79E2853597526E",
+				"volume": "60",
+				"attachments": [
+					{
+						"title": "Full Text PDF",
+						"mimeType": "application/pdf"
+					}
+				],
+				"tags": [],
+				"notes": [],
+				"seeAlso": []
+			}
+		]
+	},
+	{
+		"type": "web",
+		"url": "https://www.cambridge.org/core/journals/journal-of-public-policy/article/abs/when-consumers-oppose-consumer-protection-the-politics-of-regulatory-backlash/2C8E6B9BB6881A233B8936D9AD2C6305",
+		"items": [
+			{
+				"itemType": "journalArticle",
+				"title": "When Consumers Oppose Consumer Protection: The Politics of Regulatory Backlash",
+				"creators": [
+					{
+						"firstName": "David",
+						"lastName": "Vogel",
+						"creatorType": "author"
+					}
+				],
+				"date": "1990/10",
+				"DOI": "10.1017/S0143814X00006085",
+				"ISSN": "1469-7815, 0143-814X",
+				"abstractNote": "This article examines a neglected phenomenon in the existing literature on social regulation, namely political opposition to regulation that comes not from business but from consumers. It examines four cases of successful grass-roots consumer opposition to government health and safety regulations in the United States. Two involve rules issued by the National Highway Traffic Safety Administration, a 1974 requirement that all new automobiles be equipped with an engine-interlock system, and a 1967 rule that denied federal highway funds to states that did not require motorcyclists to wear a helmet. In 1977, Congress overturned the Food and Drug Administration's ban on the artificial sweetener, saccharin. Beginning in 1987, the FDA began to yield to pressures from the gay community by agreeing to streamline its procedures for the testing and approval of new drugs designed to fight AIDS and other fatal diseases. The article identifies what these regulations have in common and examines their significance for our understanding the politics of social regulation in the United States and other industrial nations.",
+				"issue": "4",
+				"language": "en",
+				"libraryCatalog": "Cambridge University Press",
+				"pages": "449-470",
+				"publicationTitle": "Journal of Public Policy",
+				"shortTitle": "When Consumers Oppose Consumer Protection",
+				"url": "https://www.cambridge.org/core/journals/journal-of-public-policy/article/abs/when-consumers-oppose-consumer-protection-the-politics-of-regulatory-backlash/2C8E6B9BB6881A233B8936D9AD2C6305",
+				"volume": "10",
+				"attachments": [
+					{
+						"title": "Full Text PDF",
+						"mimeType": "application/pdf"
+					}
+				],
+				"tags": [],
+				"notes": [],
+				"seeAlso": []
+			}
+		]
+	},
+	{
+		"type": "web",
+		"url": "https://www.cambridge.org/core/journals/american-political-science-review/firstview",
 		"items": "multiple"
 	}
 ]
+
 /** END TEST CASES **/

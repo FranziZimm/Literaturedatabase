@@ -1,17 +1,20 @@
 {
 	"translatorID": "897a81c2-9f60-4bec-ae6b-85a5030b8be5",
+	"translatorType": 2,
 	"label": "Note HTML",
 	"creator": "Martynas Bagdonas",
 	"target": "html",
 	"minVersion": "5.0.97",
-	"maxVersion": "",
+	"maxVersion": null,
 	"priority": 50,
+	"inRepository": true,
 	"configOptions": {
 		"noteTranslator": true
 	},
-	"inRepository": true,
-	"translatorType": 2,
-	"lastUpdated": "2022-03-16 12:00:00"
+	"displayOptions": {
+		"includeAppLinks": false
+	},
+	"lastUpdated": "2024-04-24 15:05:00"
 }
 
 /*
@@ -61,6 +64,106 @@ function doExport() {
 			}
 			container.append(div);
 		}
+	}
+
+	if (Zotero.getOption("includeAppLinks")) {
+		// Insert a PDF link for highlight and image annotation nodes
+		doc.querySelectorAll('span[class="highlight"], img[data-annotation]').forEach(function (node) {
+			try {
+				var annotation = JSON.parse(decodeURIComponent(node.getAttribute('data-annotation')));
+			}
+			catch (e) {
+			}
+
+			if (annotation) {
+				// annotation.uri was used before note-editor v4
+				let uri = annotation.attachmentURI || annotation.uri;
+				let position = annotation.position;
+				if (typeof uri === 'string' && typeof position === 'object') {
+					let openURI;
+					let uriParts = uri.split('/');
+					let libraryType = uriParts[3];
+					let key = uriParts[uriParts.length - 1];
+					if (libraryType === 'users') {
+						openURI = 'zotero://open-pdf/library/items/' + key;
+					}
+					// groups
+					else {
+						let groupID = uriParts[4];
+						openURI = 'zotero://open-pdf/groups/' + groupID + '/items/' + key;
+					}
+
+					let linkText;
+					if (position.type === 'FragmentSelector') {
+						openURI += '?cfi=' + encodeURIComponent(position.value);
+						linkText = 'epub';
+					}
+					else if (position.type === 'CssSelector') {
+						openURI += '?sel=' + encodeURIComponent(position.value);
+						linkText = 'snapshot';
+					}
+					else {
+						openURI += '?page=' + (position.pageIndex + 1);
+						linkText = 'pdf';
+					}
+					if (annotation.annotationKey) {
+						openURI += '&annotation=' + annotation.annotationKey;
+					}
+
+					let a = doc.createElement('a');
+					a.href = openURI;
+					a.append(linkText);
+					let fragment = doc.createDocumentFragment();
+					fragment.append(' (', a, ') ');
+
+					let nextNode = node.nextElementSibling;
+					if (nextNode && nextNode.classList.contains('citation')) {
+						nextNode.parentNode.insertBefore(fragment, nextNode.nextSibling);
+					}
+					else {
+						node.parentNode.insertBefore(fragment, node.nextSibling);
+					}
+				}
+			}
+		});
+
+		// Transform citations to links
+		doc.querySelectorAll('span[class="citation"]').forEach(function (span) {
+			try {
+				var citation = JSON.parse(decodeURIComponent(span.getAttribute('data-citation')));
+			}
+			catch (e) {
+			}
+
+			if (citation && citation.citationItems && citation.citationItems.length) {
+				let uris = [];
+				for (let citationItem of citation.citationItems) {
+					let uri = citationItem.uris[0];
+					if (typeof uri === 'string') {
+						let uriParts = uri.split('/');
+						let libraryType = uriParts[3];
+						let key = uriParts[uriParts.length - 1];
+						if (libraryType === 'users') {
+							uris.push('zotero://select/library/items/' + key);
+						}
+						// groups
+						else {
+							let groupID = uriParts[4];
+							uris.push('zotero://select/groups/' + groupID + '/items/' + key);
+						}
+					}
+				}
+
+				let items = Array.from(span.querySelectorAll('.citation-item')).map(x => x.textContent);
+				// Fallback to pre v5 note-editor schema that was serializing citations as plain text i.e.:
+				// <span class="citation" data-citation="...">(Jang et al., 2005, p. 14; Kongsgaard et al., 2009, p. 790)</span>
+				if (!items.length) {
+					items = span.textContent.slice(1, -1).split('; ');
+				}
+
+				span.innerHTML = '(' + items.map((item, i) => `<a href="${uris[i]}">${item}</a>`).join('; ') + ')';
+			}
+		});
 	}
 
 	// Remove annotation and citation data

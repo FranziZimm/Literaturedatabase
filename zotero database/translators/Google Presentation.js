@@ -9,7 +9,7 @@
 	"priority": 100,
 	"inRepository": true,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2021-08-02 17:00:00"
+	"lastUpdated": "2024-02-29 20:30:00"
 }
 
 /*
@@ -64,7 +64,7 @@ function doWeb(doc, url) {
 	urlparts.splice(6);
 	var baseUrl = urlparts.join('/');
 	item.url = baseUrl;
-	var pdfUrl = baseUrl + '/export/pdf?id=' + id;
+	var pdfUrl = baseUrl + '/export?format=pdf';
 	//Z.debug(pdfUrl);
 	item.attachments.push({
 		url: pdfUrl,

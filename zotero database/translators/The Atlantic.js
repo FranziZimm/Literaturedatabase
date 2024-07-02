@@ -1,649 +1,21 @@
 {
 	"translatorID": "575ba37f-c871-4ee8-8bdb-3e7f954e4e6a",
+	"translatorType": 4,
 	"label": "The Atlantic",
 	"creator": "Sebastian Karcher",
-	"target": "^https?://www\\.theatlantic\\.com",
-	"minVersion": "2.1.9",
-	"maxVersion": "",
+	"target": "^https://www\\.theatlantic\\.com/.+",
+	"minVersion": "5.0",
+	"maxVersion": null,
 	"priority": 100,
 	"inRepository": true,
-	"translatorType": 4,
-	"browserSupport": "gcsib",
-	"lastUpdated": "2016-12-27 20:33:39"
+	"browserSupport": "gcsibv",
+	"lastUpdated": "2023-09-26 16:55:00"
 }
-
-/*********************** BEGIN FRAMEWORK ***********************/
-/**
-    Copyright (c) 2010-2013, Erik Hetzner
-
-    This program is free software: you can redistribute it and/or
-    modify it under the terms of the GNU Affero General Public License
-    as published by the Free Software Foundation, either version 3 of
-    the License, or (at your option) any later version.
-
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
-    Affero General Public License for more details.
-
-    You should have received a copy of the GNU Affero General Public
-    License along with this program.  If not, see
-    <http://www.gnu.org/licenses/>.
-*/
-
-/**
- * Flatten a nested array; e.g., [[1], [2,3]] -> [1,2,3]
- */
-function flatten(a) {
-    var retval = new Array();
-    for (var i in a) {
-        var entry = a[i];
-        if (entry instanceof Array) {
-            retval = retval.concat(flatten(entry));
-        } else {
-            retval.push(entry);
-        }
-    }
-    return retval;
-}
-
-var FW = {
-    _scrapers : new Array()
-};
-
-FW._Base = function () {
-    this.callHook = function (hookName, item, doc, url) {
-        if (typeof this['hooks'] === 'object') {
-            var hook = this['hooks'][hookName];
-            if (typeof hook === 'function') {
-                hook(item, doc, url);
-            }
-        }
-    };
-
-    this.evaluateThing = function(val, doc, url) {
-        var valtype = typeof val;
-        if (valtype === 'object') {
-            if (val instanceof Array) {
-                /* map over each array val */
-                /* this.evaluate gets out of scope */
-                var parentEval = this.evaluateThing;
-                var retval = val.map ( function(i) { return parentEval (i, doc, url); } );
-                return flatten(retval);
-            } else {
-                return val.evaluate(doc, url);
-            }
-        } else if (valtype === 'function') {
-            return val(doc, url);
-        } else {
-            return val;
-        }
-    };
-
-    /*
-     * makeItems is the function that does the work of making an item.
-     * doc: the doc tree for the item
-     * url: the url for the item
-     * attachments ...
-     * eachItem: a function to be called for each item made, with the arguments (doc, url, ...)
-     * ret: the function to call when you are done, with no args
-     */
-    this.makeItems = function (doc, url, attachments, eachItem, ret) {
-        ret();
-    }
-
-};
-
-FW.Scraper = function (init) { 
-    FW._scrapers.push(new FW._Scraper(init));
-};
-
-FW._Scraper = function (init) {
-    for (x in init) {
-        this[x] = init[x];
-    }
-
-    this._singleFieldNames = [
-        "abstractNote",
-        "applicationNumber",
-        "archive",
-        "archiveLocation",
-        "artworkMedium",
-        "artworkSize",
-        "assignee",
-        "audioFileType",
-        "audioRecordingType",
-        "billNumber",
-        "blogTitle",
-        "bookTitle",
-        "callNumber",
-        "caseName",
-        "code",
-        "codeNumber",
-        "codePages",
-        "codeVolume",
-        "committee",
-        "company",
-        "conferenceName",
-        "country",
-        "court",
-        "date",
-        "dateDecided",
-        "dateEnacted",
-        "dictionaryTitle",
-        "distributor",
-        "docketNumber",
-        "documentNumber",
-        "DOI",
-        "edition",
-        "encyclopediaTitle",
-        "episodeNumber",
-        "extra",
-        "filingDate",
-        "firstPage",
-        "forumTitle",
-        "genre",
-        "history",
-        "institution",
-        "interviewMedium",
-        "ISBN",
-        "ISSN",
-        "issue",
-        "issueDate",
-        "issuingAuthority",
-        "journalAbbreviation",
-        "label",
-        "language",
-        "legalStatus",
-        "legislativeBody",
-        "letterType",
-        "libraryCatalog",
-        "manuscriptType",
-        "mapType",
-        "medium",
-        "meetingName",
-        "nameOfAct",
-        "network",
-        "number",
-        "numberOfVolumes",
-        "numPages",
-        "pages",
-        "patentNumber",
-        "place",
-        "postType",
-        "presentationType",
-        "priorityNumbers",
-        "proceedingsTitle",
-        "programTitle",
-        "programmingLanguage",
-        "publicLawNumber",
-        "publicationTitle",
-        "publisher",
-        "references",
-        "reportNumber",
-        "reportType",
-        "reporter",
-        "reporterVolume",
-        "rights",
-        "runningTime",
-        "scale",
-        "section",
-        "series",
-        "seriesNumber",
-        "seriesText",
-        "seriesTitle",
-        "session",
-        "shortTitle",
-        "studio",
-        "subject",
-        "system",
-        "thesisType",
-        "title",
-        "type",
-        "university",
-        "url",
-        "version",
-        "videoRecordingType",
-        "volume",
-        "websiteTitle",
-        "websiteType" ];
-    
-    this._makeAttachments = function(doc, url, config, item) {
-        if (config instanceof Array) {
-            config.forEach(function (child) { this._makeAttachments(doc, url, child, item); }, this);
-        } else if (typeof config === 'object') {
-            /* plural or singual */
-            var urlsFilter = config["urls"] || config["url"];
-            var typesFilter = config["types"] || config["type"];
-            var titlesFilter = config["titles"] || config["title"];
-            var snapshotsFilter = config["snapshots"] || config["snapshot"];
-
-            var attachUrls = this.evaluateThing(urlsFilter, doc, url);
-            var attachTitles = this.evaluateThing(titlesFilter, doc, url);
-            var attachTypes = this.evaluateThing(typesFilter, doc, url);
-            var attachSnapshots = this.evaluateThing(snapshotsFilter, doc, url);
-
-            if (!(attachUrls instanceof Array)) {
-                attachUrls = [attachUrls];
-            }
-            for (var k in attachUrls) {
-                var attachUrl = attachUrls[k];
-                var attachType;
-                var attachTitle;
-                var attachSnapshot;
-                if (attachTypes instanceof Array) { attachType = attachTypes[k]; }
-                else { attachType = attachTypes; }
-
-                if (attachTitles instanceof Array) { attachTitle = attachTitles[k]; }
-                else { attachTitle = attachTitles; }
-
-                if (attachSnapshots instanceof Array) { attachSnapshot = attachSnapshots[k]; }
-                else { attachSnapshot = attachSnapshots; }
-
-                item["attachments"].push({ url      : attachUrl,
-                                           title    : attachTitle,
-                                           mimeType : attachType,
-                                           snapshot : attachSnapshot });
-            }
-        }
-    };
-
-    this.makeItems = function (doc, url, ignore, eachItem, ret) {
-        var item = new Zotero.Item(this.itemType);
-        item.url = url;
-        for (var i in this._singleFieldNames) {
-            var field = this._singleFieldNames[i];
-            if (this[field]) {
-                var fieldVal = this.evaluateThing(this[field], doc, url);
-                if (fieldVal instanceof Array) {
-                    item[field] = fieldVal[0];
-                } else {
-                    item[field] = fieldVal;
-                }
-            }
-        }
-        var multiFields = ["creators", "tags"];
-        for (var j in multiFields) {
-            var key = multiFields[j];
-            var val = this.evaluateThing(this[key], doc, url);
-            if (val) {
-                for (var k in val) {
-                    item[key].push(val[k]);
-                }
-            }
-        }
-        this._makeAttachments(doc, url, this["attachments"], item);
-        eachItem(item, this, doc, url);
-        ret();
-    };
-};
-
-FW._Scraper.prototype = new FW._Base;
-
-FW.MultiScraper = function (init) { 
-    FW._scrapers.push(new FW._MultiScraper(init));
-};
-
-FW._MultiScraper = function (init) {
-    for (x in init) {
-        this[x] = init[x];
-    }
-
-    this._mkSelectItems = function(titles, urls) {
-        var items = new Object;
-        for (var i in titles) {
-            items[urls[i]] = titles[i];
-        }
-        return items;
-    };
-
-    this._selectItems = function(titles, urls, callback) {
-        var items = new Array();
-	Zotero.selectItems(this._mkSelectItems(titles, urls), function (chosen) {
-	    for (var j in chosen) {
-		items.push(j);
-	    }
-	    callback(items);
-	});
-    };
-
-    this._mkAttachments = function(doc, url, urls) {
-        var attachmentsArray = this.evaluateThing(this['attachments'], doc, url);
-        var attachmentsDict = new Object();
-        if (attachmentsArray) {
-            for (var i in urls) {
-                attachmentsDict[urls[i]] = attachmentsArray[i];
-            }
-        }
-        return attachmentsDict;
-    };
-
-    /* This logic is very similar to that used by _makeAttachments in
-     * a normal scraper, but abstracting it out would not achieve much
-     * and would complicate it. */
-    this._makeChoices = function(config, doc, url, choiceTitles, choiceUrls) {
-        if (config instanceof Array) {
-            config.forEach(function (child) { this._makeTitlesUrls(child, doc, url, choiceTitles, choiceUrls); }, this);
-        } else if (typeof config === 'object') {
-            /* plural or singual */
-            var urlsFilter = config["urls"] || config["url"];
-            var titlesFilter = config["titles"] || config["title"];
-
-            var urls = this.evaluateThing(urlsFilter, doc, url);
-            var titles = this.evaluateThing(titlesFilter, doc, url);
-
-            var titlesIsArray = (titles instanceof Array);
-            if (!(urls instanceof Array)) {
-                urls = [urls];
-            }
-            for (var k in urls) {
-                var myUrl = urls[k];
-                var myTitle;
-                if (titlesIsArray) { myTitle = titles[k]; }
-                else { myTitle = titles; }
-                choiceUrls.push(myUrl);
-                choiceTitles.push(myTitle);
-            }
-        }
-    };
-
-    this.makeItems = function(doc, url, ignore, eachItem, ret) {
-        if (this.beforeFilter) {
-            var newurl = this.beforeFilter(doc, url);
-            if (newurl != url) {
-                this.makeItems(doc, newurl, ignore, eachItem, ret);
-                return;
-            }
-        }
-        var titles = [];
-        var urls = [];
-        this._makeChoices(this["choices"], doc, url, titles, urls);
-        var attachments = this._mkAttachments(doc, url, urls);
-        
-	var parentItemTrans = this.itemTrans;
-	this._selectItems(titles, urls, function (itemsToUse) {
-	    if(!itemsToUse) {
-		ret();
-	    } else {
-	        var cb = function (doc1) {
-		    var url1 = doc1.documentURI;
-		    var itemTrans = parentItemTrans;
-		    if (itemTrans === undefined) {
-			itemTrans = FW.getScraper(doc1, url1);
-		    }
-		    if (itemTrans === undefined) {
-			/* nothing to do */
-		    } else {
-			itemTrans.makeItems(doc1, url1, attachments[url1],
-                                            eachItem, function() {});
-		    }
-		};
-	        Zotero.Utilities.processDocuments(itemsToUse, cb, ret);
-	    }
-	});
-    };
-};
-
-FW._MultiScraper.prototype = new FW._Base;
-
-FW.WebDelegateTranslator = function (init) { 
-    return new FW._WebDelegateTranslator(init);
-};
-
-FW._WebDelegateTranslator = function (init) {
-    for (x in init) {
-        this[x] = init[x];
-    }
-    this.makeItems = function(doc, url, attachments, eachItem, ret) {
-        // need for scoping
-        var parentThis = this;
-
-        var translator = Zotero.loadTranslator("web");
-        translator.setHandler("itemDone", function(obj, item) { 
-            eachItem(item, parentThis, doc, url);
-        });
-        translator.setDocument(doc);
-
-        if (this.translatorId) {
-            translator.setTranslator(this.translatorId);
-            translator.translate();
-        } else {
-            translator.setHandler("translators", function(obj, translators) {
-                if (translators.length) {
-                    translator.setTranslator(translators[0]);
-                    translator.translate();
-                }
-            });
-            translator.getTranslators();
-        }
-        ret();
-    };
-};
-
-FW._WebDelegateTranslator.prototype = new FW._Base;
-
-FW._StringMagic = function () {
-    this._filters = new Array();
-
-    this.addFilter = function(filter) {
-        this._filters.push(filter);
-        return this;
-    };
-
-    this.split = function(re) {
-        return this.addFilter(function(s) {
-            return s.split(re).filter(function(e) { return (e != ""); });
-        });
-    };
-
-    this.replace = function(s1, s2, flags) {
-        return this.addFilter(function(s) {
-            if (s.match(s1)) {
-                return s.replace(s1, s2, flags);
-            } else {
-                return s;
-            }
-        });
-    };
-
-    this.prepend = function(prefix) {
-        return this.replace(/^/, prefix);
-    };
-
-    this.append = function(postfix) {
-        return this.replace(/$/, postfix);
-    };
-
-    this.remove = function(toStrip, flags) {
-        return this.replace(toStrip, '', flags);
-    };
-
-    this.trim = function() {
-        return this.addFilter(function(s) { return Zotero.Utilities.trim(s); });
-    };
-
-    this.trimInternal = function() {
-        return this.addFilter(function(s) { return Zotero.Utilities.trimInternal(s); });
-    };
-
-    this.match = function(re, group) {
-        if (!group) group = 0;
-        return this.addFilter(function(s) { 
-                                  var m = s.match(re);
-                                  if (m === undefined || m === null) { return undefined; }
-                                  else { return m[group]; } 
-                              });
-    };
-
-    this.cleanAuthor = function(type, useComma) {
-        return this.addFilter(function(s) { return Zotero.Utilities.cleanAuthor(s, type, useComma); });
-    };
-
-    this.key = function(field) {
-        return this.addFilter(function(n) { return n[field]; });
-    };
-
-    this.capitalizeTitle = function() {
-        return this.addFilter(function(s) { return Zotero.Utilities.capitalizeTitle(s); });
-    };
-
-    this.unescapeHTML = function() {
-        return this.addFilter(function(s) { return Zotero.Utilities.unescapeHTML(s); });
-    };
-
-    this.unescape = function() {
-        return this.addFilter(function(s) { return unescape(s); });
-    };
-
-    this._applyFilters = function(a, doc1) {
-        for (i in this._filters) {
-            a = flatten(a);
-            /* remove undefined or null array entries */
-            a = a.filter(function(x) { return ((x !== undefined) && (x !== null)); });
-            for (var j = 0 ; j < a.length ; j++) {
-                try {
-                    if ((a[j] === undefined) || (a[j] === null)) { continue; }
-                    else { a[j] = this._filters[i](a[j], doc1); }
-                } catch (x) {
-                    a[j] = undefined;
-                    Zotero.debug("Caught exception " + x + "on filter: " + this._filters[i]);
-                }
-            }
-            /* remove undefined or null array entries */
-            /* need this twice because they could have become undefined or null along the way */
-            a = a.filter(function(x) { return ((x !== undefined) && (x !== null)); });
-        }
-        return flatten(a);
-    };
-};
-
-FW.PageText = function () {
-    return new FW._PageText();
-};
-
-FW._PageText = function() {
-    this._filters = new Array();
-
-    this.evaluate = function (doc) {        
-        var a = [doc.documentElement.innerHTML];
-        a = this._applyFilters(a, doc);
-        if (a.length == 0) { return false; }
-        else { return a; }
-    };
-};
-
-FW._PageText.prototype = new FW._StringMagic();
-
-FW.Url = function () { return new FW._Url(); };
-
-FW._Url = function () {
-    this._filters = new Array();
-
-    this.evaluate = function (doc, url) {        
-        var a = [url];
-        a = this._applyFilters(a, doc);
-        if (a.length == 0) { return false; }
-        else { return a; }
-    };
-};
-
-FW._Url.prototype = new FW._StringMagic();
-
-FW.Xpath = function (xpathExpr) { return new FW._Xpath(xpathExpr); };
-
-FW._Xpath = function (_xpath) {
-    this._xpath = _xpath;
-    this._filters = new Array();
-
-    this.text = function() {
-        var filter = function(n) {
-            if (typeof n === 'object' && n.textContent) { return n.textContent; }
-            else { return n; }
-        };
-        this.addFilter(filter);
-        return this;
-    };
-
-    this.sub = function(xpath) {
-        var filter = function(n, doc) {
-            var result = doc.evaluate(xpath, n, null, XPathResult.ANY_TYPE, null);
-            if (result) {
-                return result.iterateNext();
-            } else {
-                return undefined;               
-            }
-        };
-        this.addFilter(filter);
-        return this;
-    };
-
-    this.evaluate = function (doc) {
-        var res = doc.evaluate(this._xpath, doc, null, XPathResult.ANY_TYPE, null);
-        var resultType = res.resultType;
-        var a = new Array();
-        if (resultType == XPathResult.STRING_TYPE) {
-            a.push(res.stringValue);
-        } else if (resultType == XPathResult.BOOLEAN_TYPE) {
-            a.push(res.booleanValue);
-        } else if (resultType == XPathResult.NUMBER_TYPE) {
-            a.push(res.numberValue);
-        } else if (resultType == XPathResult.ORDERED_NODE_ITERATOR_TYPE ||
-                   resultType == XPathResult.UNORDERED_NODE_ITERATOR_TYPE) {
-            var x;
-            while ((x = res.iterateNext())) { a.push(x); }
-        } 
-        a = this._applyFilters(a, doc);
-        if (a.length == 0) { return false; }
-        else { return a; }
-    };
-};
-
-FW._Xpath.prototype = new FW._StringMagic();
-
-FW.detectWeb = function (doc, url) {
-    for (var i in FW._scrapers) {
-	var scraper = FW._scrapers[i];
-	var itemType = scraper.evaluateThing(scraper['itemType'], doc, url);
-	var v = scraper.evaluateThing(scraper['detect'], doc, url);
-        if (v.length > 0 && v[0]) {
-	    return itemType;
-	}
-    }
-    return undefined;
-};
-
-FW.getScraper = function (doc, url) {
-    var itemType = FW.detectWeb(doc, url);
-    return FW._scrapers.filter(function(s) {
-        return (s.evaluateThing(s['itemType'], doc, url) == itemType)
-		&& (s.evaluateThing(s['detect'], doc, url));
-    })[0];
-};
-
-FW.doWeb = function (doc, url) {
-    var scraper = FW.getScraper(doc, url);
-    scraper.makeItems(doc, url, [], 
-                      function(item, scraper, doc, url) {
-                          scraper.callHook('scraperDone', item, doc, url);
-                          if (!item['title']) {
-                              item['title'] = "";
-                          }
-                          item.complete();
-                      },
-                      function() {
-                          Zotero.done();
-                      });
-    Zotero.wait();
-};
-
-/*********************** END FRAMEWORK ***********************/
-
 
 /*
 	***** BEGIN LICENSE BLOCK *****
 
-	The Atlantic Translator
-	Copyright © 2011 Sebastian Karcher
+	Copyright © 2011 Sebastian Karcher and contributors
 
 	This file is part of Zotero.
 
@@ -663,61 +35,210 @@ FW.doWeb = function (doc, url) {
 	***** END LICENSE BLOCK *****
 */
 
-function detectWeb(doc, url) { return FW.detectWeb(doc, url); }
-function doWeb(doc, url) { return FW.doWeb(doc, url); }
- 
-/** Magazine */
-FW.Scraper({
-itemType         : 'magazineArticle',
-detect           : FW.Xpath('//article[@id="article"]//h1[@class="hed"]'),
-title            : FW.Xpath('//article[@id="article"]//h1[@class="hed"]').text().trim(),
-attachments      : [{ url: FW.Url(),
-  title:  "The Atlantic Snapshot",
-  type: "text/html" }],
-creators         : FW.Xpath('//div[@class="article-cover-extra"]//ul[@class="metadata"]/li[@class="byline"]').text().cleanAuthor("author"),
-date             : FW.Xpath('//div[@class="article-cover-extra"]//ul[@class="metadata"]/li[@class="date"]').text(),
-abstractNote     : FW.Xpath('//article//p[@class="dek"]').text().trim(),
-publicationTitle : "The Atlantic",
-ISSN             : "1072-7825"
-}); 
-  
- 
-/** Magazine Features */
-FW.Scraper({
-itemType         : 'magazineArticle',
-detect           : FW.Xpath('//article[@class="article"]//h1[@class="hed"]'),
-title            : FW.Xpath('//article[@class="article"]//h1[@class="hed"]').text().trim(),
-attachments      : [{ url: FW.Url(),
-  title:  "The Atlantic Snapshot",
-  type: "text/html" }],
-creators         : FW.Xpath('//header//address[@class="byline"]/a').text().cleanAuthor("author"),
-date             : FW.Xpath('//header/time[@class="date"]').text(),
-abstractNote     : FW.Xpath('//article//p[@class="dek"]').text().trim(),
-publicationTitle : "The Atlantic",
-ISSN             : "1072-7825"
-}); 
-  
- /** Search Results */
-FW.MultiScraper({
-itemType         : 'multiple',
-detect           : FW.Url().match(/search\/\?q=/),
-choices          : {
-  titles :  FW.Xpath('//a[@class="gs-title"]').text().trim(),
-  urls    :  FW.Xpath('//a[@class="gs-title"]').key("href").text()
-}
-}); 
- 
+// path at /[type]/archive/yyyy/mm/...
+const SINGLE_ITEM_URL_RE = /^https:\/\/[^/]+\/(.+)\/archive\/\d{4}\/\d{2}\/.+/;
 
- /**Blog Landing page*/
-FW.MultiScraper({
-itemType         : 'multiple',
-detect           : FW.Xpath('//div[@id="landing"]//li[contains(@class, "article")]'),
-choices          : {
-  titles :  FW.Xpath('//li[contains(@class, "article")]/a').text().trim(),
-  urls    :  FW.Xpath('//li[contains(@class, "article")]/a').key("href").text()
+function detectWeb(doc, url) {
+	let singleItemMatch = url.match(SINGLE_ITEM_URL_RE);
+
+	if (!singleItemMatch) {
+		return getSearchResults(doc, true) && "multiple";
+	}
+
+	switch (singleItemMatch[1]) {
+		// articles from print issues
+		case "magazine":
+			return "magazineArticle";
+		case "podcasts":
+			return "podcast";
+		default:
+			// see, e.g. https://www.theatlantic.com/category/fiction/
+			// and look at the class list of the li elements; the
+			// non-magazineArticle items have "blog-article" as one of its
+			// classes
+			return "blogPost"; // TODO: consider this
+	}
 }
-}); 
- 
+
+function getSearchResults(doc, checkOnly) {
+	let items = {};
+	let found = false;
+	// "li.article" selector: see https://www.theatlantic.com/category/fiction/
+	let rows = doc.querySelectorAll("li.article > a, a[data-action~='title']");
+	for (let row of rows) {
+		let href = row.href;
+		let title = ZU.trimInternal(row.textContent);
+		if (!title || !SINGLE_ITEM_URL_RE.test(href)) continue;
+		if (checkOnly) return true;
+		found = true;
+		items[href] = title;
+	}
+	return found ? items : false;
+}
+
+async function doWeb(doc, url) {
+	if (detectWeb(doc, url) == 'multiple') {
+		let items = await Zotero.selectItems(getSearchResults(doc, false));
+		if (!items) return;
+		for (let url of Object.keys(items)) {
+			await scrape(await requestDocument(url));
+		}
+	}
+	else {
+		await scrape(doc, url);
+	}
+}
+
+async function scrape(doc, url = doc.location.href) {
+	let type = detectWeb(doc, url);
+	let translator = Zotero.loadTranslator('web');
+	// Embedded Metadata
+	translator.setTranslator('951c027d-74ac-47d4-a107-9c3069ab7b48');
+	translator.setDocument(doc);
+
+	translator.setHandler('itemDone', (_obj, item) => {
+		item.publicationTitle = "The Atlantic";
+		item.libraryCatalog = "The Atlantic";
+
+		// get rid of trailing "- The Atlantic" in some titles
+		item.title = item.title.replace(/\s+-\s+The Atlantic$/i, "");
+
+		// tags from EM is rarely helpful for The Atlantic; they're from the
+		// meta[name='keywords'] tags, and are either redundant with "Section"
+		// (in the extra) or spam.
+		item.tags = [];
+
+		// fix multiple authors; metadata give us one comma-separated string
+		item.creators = [];
+		// latter selector for legacy layout
+		for (let element of doc.querySelectorAll('#byline a[href*="/author/"], .byline span[itemprop="author"]')) {
+			item.creators.push(
+				ZU.cleanAuthor(
+					ZU.trimInternal(element.textContent),
+					"author"
+				)
+			);
+		}
+
+		// keep only the date part of the datetime
+		if (item.date) {
+			item.date = ZU.strToISO(item.date);
+		}
+
+		if (type === "magazineArticle") {
+			let issueTitle = text(doc, 'div[class*="ArticleMagazineIssueNav_title"]')
+				.replace(/\s+Issue$/i, "");
+			if (issueTitle) {
+				if (!item.extra) {
+					item.extra = "";
+				}
+				else {
+					item.extra += "\n";
+				}
+				item.extra += `Volume Title: ${issueTitle}`;
+			}
+
+			item.ISSN = "2151-9463";
+		}
+		else if (type === "podcast") {
+			item.seriesTitle = text(doc, "#rubric");
+			let podcasters = []; // plain name strings, "First Last"
+			for (let creator of item.creators) {
+				creator.creatorType = "podcaster";
+				podcasters.push([creator.firstName, creator.lastName].join(" "));
+			}
+			for (let creator of getPodcastCreators(doc)) {
+				if (!podcasters.includes(creator)) {
+					item.creators.push(ZU.cleanAuthor(creator, "guest"));
+				}
+			}
+		}
+
+		item.complete();
+	});
+
+	let em = await translator.getTranslatorObject();
+	em.itemType = type || "webpage";
+	await em.doWeb(doc, url);
+}
+
+// Get podcast participants from the transcript (paragraph-leading text in
+// <strong>). The assumption is that the first mention of anyone is the
+// person's full name, and that the further mentions of any particular person
+// is a substring of the full name, and they're used consistently in the
+// transcripts.
+function getPodcastCreators(doc) {
+	// transcript paragraphs
+	let containers = doc.querySelectorAll('p[class*="ArticleParagraph_root"], div[class*="ArticleLegacyHtml_root"]');
+
+	let namesInQuotes = new Set();
+	let creatorNames = [];
+	let skip = new Set();
+	Z.debug(`total paragraphs: ${containers.length}`);
+	let i = 0; // NOTE: debug only
+	for (let containerElement of containers) {
+		// Contributor name in bold (<strong> tag), leading a paragraph in the
+		// transcript
+		let element = containerElement.querySelector("strong");
+
+		// if no <strong> tag, or if the first <strong> tag contains all the
+		// text of the paragraph or div, it's not a name string.
+		if (!element) continue;
+
+		let elementText = element.textContent;
+		let nameString = ZU.trimInternal(elementText).replace(/\s*:$/, "");
+		if (skip.has(nameString) || !nameString) continue;
+		if (elementText === containerElement.textContent) continue;
+
+		// Quotes may contain participant's first mentions but also irrelevant
+		// names (e.g. from newsreels) for context. Stash these names for
+		// further processing.
+		if (element.querySelector("em")) {
+			namesInQuotes.add(nameString);
+			continue;
+		}
+
+		i++; // NOTE: debug only
+		// only if a name string is a not a substring of any other name we've
+		// kept, add it to the array of name we keep (creatorNames)
+		// NOTE: nested substring test
+		if (!creatorNames.filter(keptName => keptName.includes(nameString)).length) {
+			creatorNames.push(nameString); // keep this string
+		}
+		skip.add(nameString); // skip further appearances
+	}
+
+	Z.debug(`names contributing to substring test cost ${i}`);
+	// Process names in quoted content (text lines in <em> tags). Take a string
+	// X from quotes, and check 1) if no kept creator name is a substring of X,
+	// X is discarded because it's irrelevant; 2) if a string Y from the kept
+	// names is a substring of X, Y is discarded, X is kept.
+	Z.debug(`kept names from main paragraphs ${creatorNames.length}`);
+	creatorNames = new Set(creatorNames);
+	i = 0; // NOTE: debug only
+	Z.debug(`names from quotation paragraphs ${namesInQuotes.size}`);
+	for (let str of namesInQuotes) {
+		if (skip.has(str)) continue;
+		i++; // NOTE: debug only
+
+		let keepStr = false;
+		for (let keptName of creatorNames) { // NOTE: nested substring test
+			if (str.includes(keptName)) {
+				creatorNames.delete(keptName);
+				skip.add(keptName);
+				keepStr = true;
+			}
+		}
+		if (keepStr) {
+			creatorNames.add(str);
+		}
+		skip.add(str);
+	}
+	Z.debug(`names from quotation contributing to substring test cost ${i}`);
+
+	return creatorNames;
+}
+
 /** BEGIN TEST CASES **/
 var testCases = [
 	{
@@ -730,7 +251,7 @@ var testCases = [
 		"url": "https://www.theatlantic.com/politics/archive/2011/06/jon-stewart-challenges-fox-news-to-correct-its-errors/240900/",
 		"items": [
 			{
-				"itemType": "magazineArticle",
+				"itemType": "blogPost",
 				"title": "Jon Stewart Challenges Fox News to Correct Its Errors",
 				"creators": [
 					{
@@ -739,15 +260,14 @@ var testCases = [
 						"creatorType": "author"
 					}
 				],
-				"date": "Jun 23, 2011",
-				"ISSN": "1072-7825",
+				"date": "2011-06-23",
 				"abstractNote": "In the same segment, the comedian apologized for saying its viewers are always found to be the most misinformed",
-				"libraryCatalog": "The Atlantic",
-				"publicationTitle": "The Atlantic",
+				"blogTitle": "The Atlantic",
+				"language": "en",
 				"url": "https://www.theatlantic.com/politics/archive/2011/06/jon-stewart-challenges-fox-news-to-correct-its-errors/240900/",
 				"attachments": [
 					{
-						"title": "The Atlantic Snapshot",
+						"title": "Snapshot",
 						"mimeType": "text/html"
 					}
 				],
@@ -771,15 +291,17 @@ var testCases = [
 						"creatorType": "author"
 					}
 				],
-				"date": "July/August 2011 Issue",
-				"ISSN": "1072-7825",
+				"date": "2011-06-07",
+				"ISSN": "2151-9463",
 				"abstractNote": "How a German scientist is using test data to revolutionize global learning",
+				"extra": "Volume Title: July/August 2011",
+				"language": "en",
 				"libraryCatalog": "The Atlantic",
 				"publicationTitle": "The Atlantic",
 				"url": "https://www.theatlantic.com/magazine/archive/2011/07/the-worlds-schoolmaster/308532/",
 				"attachments": [
 					{
-						"title": "The Atlantic Snapshot",
+						"title": "Snapshot",
 						"mimeType": "text/html"
 					}
 				],
@@ -800,7 +322,7 @@ var testCases = [
 		"url": "https://www.theatlantic.com/health/archive/2014/03/the-toxins-that-threaten-our-brains/284466/",
 		"items": [
 			{
-				"itemType": "magazineArticle",
+				"itemType": "blogPost",
 				"title": "The Toxins That Threaten Our Brains",
 				"creators": [
 					{
@@ -809,15 +331,197 @@ var testCases = [
 						"creatorType": "author"
 					}
 				],
-				"date": "Mar 18, 2014",
-				"ISSN": "1072-7825",
+				"date": "2014-03-18",
 				"abstractNote": "Leading scientists recently identified a dozen chemicals as being responsible for widespread behavioral and cognitive problems. But the scope of the chemical dangers in our environment is likely even greater. Why children and the poor are most susceptible to neurotoxic exposure that may be costing the U.S. billions of dollars and immeasurable peace of mind.",
-				"libraryCatalog": "The Atlantic",
-				"publicationTitle": "The Atlantic",
+				"blogTitle": "The Atlantic",
+				"language": "en",
 				"url": "https://www.theatlantic.com/health/archive/2014/03/the-toxins-that-threaten-our-brains/284466/",
 				"attachments": [
 					{
-						"title": "The Atlantic Snapshot",
+						"title": "Snapshot",
+						"mimeType": "text/html"
+					}
+				],
+				"tags": [],
+				"notes": [],
+				"seeAlso": []
+			}
+		]
+	},
+	{
+		"type": "web",
+		"url": "https://www.theatlantic.com/podcasts/archive/2023/09/ba-286-covid-variant-future/675248/",
+		"items": [
+			{
+				"itemType": "podcast",
+				"title": "Our First ‘Nonemergency’ COVID Season",
+				"creators": [
+					{
+						"firstName": "Hanna",
+						"lastName": "Rosin",
+						"creatorType": "podcaster"
+					},
+					{
+						"firstName": "Katie",
+						"lastName": "Wu",
+						"creatorType": "guest"
+					},
+					{
+						"firstName": "Sarah",
+						"lastName": "Zhang",
+						"creatorType": "guest"
+					}
+				],
+				"abstractNote": "A new wave. A new variant. A new vaccine. Do we know COVID’s annual pattern yet?",
+				"language": "en",
+				"seriesTitle": "Radio Atlantic",
+				"url": "https://www.theatlantic.com/podcasts/archive/2023/09/ba-286-covid-variant-future/675248/",
+				"attachments": [
+					{
+						"title": "Snapshot",
+						"mimeType": "text/html"
+					}
+				],
+				"tags": [],
+				"notes": [],
+				"seeAlso": []
+			}
+		]
+	},
+	{
+		"type": "web",
+		"url": "https://www.theatlantic.com/podcasts/archive/2023/08/trans-texas/675188/",
+		"items": [
+			{
+				"itemType": "podcast",
+				"title": "When the State Has a Problem With Your Identity",
+				"creators": [
+					{
+						"firstName": "Hanna",
+						"lastName": "Rosin",
+						"creatorType": "podcaster"
+					},
+					{
+						"firstName": "Ethan",
+						"lastName": "Brooks",
+						"creatorType": "podcaster"
+					},
+					{
+						"firstName": "",
+						"lastName": "Teenager",
+						"creatorType": "guest"
+					},
+					{
+						"firstName": "",
+						"lastName": "Mom",
+						"creatorType": "guest"
+					},
+					{
+						"firstName": "",
+						"lastName": "Dad",
+						"creatorType": "guest"
+					}
+				],
+				"abstractNote": "Inside one family’s decision to move from Texas to California to protect their transgender teenager",
+				"language": "en",
+				"seriesTitle": "Radio Atlantic",
+				"url": "https://www.theatlantic.com/podcasts/archive/2023/08/trans-texas/675188/",
+				"attachments": [
+					{
+						"title": "Snapshot",
+						"mimeType": "text/html"
+					}
+				],
+				"tags": [],
+				"notes": [],
+				"seeAlso": []
+			}
+		]
+	},
+	{
+		"type": "web",
+		"url": "https://www.theatlantic.com/podcasts/archive/2023/06/buying-house-with-friends-family/674343/",
+		"items": [
+			{
+				"itemType": "podcast",
+				"title": "How to Talk to People: What Makes a House a Home",
+				"creators": [
+					{
+						"firstName": "Julie",
+						"lastName": "Beck",
+						"creatorType": "podcaster"
+					},
+					{
+						"firstName": "Rebecca",
+						"lastName": "Rashid",
+						"creatorType": "podcaster"
+					},
+					{
+						"firstName": "Deborah",
+						"lastName": "Tepley",
+						"creatorType": "guest"
+					},
+					{
+						"firstName": "Bethany",
+						"lastName": "Fleming",
+						"creatorType": "guest"
+					},
+					{
+						"firstName": "Luke",
+						"lastName": "Jackson",
+						"creatorType": "guest"
+					},
+					{
+						"firstName": "T. J.",
+						"lastName": "Fleming",
+						"creatorType": "guest"
+					}
+				],
+				"abstractNote": "Two married couples who bought a home together have found that expanding their household led to a deeper sense of community.",
+				"language": "en",
+				"seriesTitle": "Podcasts",
+				"shortTitle": "How to Talk to People",
+				"url": "https://www.theatlantic.com/podcasts/archive/2023/06/buying-house-with-friends-family/674343/",
+				"attachments": [
+					{
+						"title": "Snapshot",
+						"mimeType": "text/html"
+					}
+				],
+				"tags": [],
+				"notes": [],
+				"seeAlso": []
+			}
+		]
+	},
+	{
+		"type": "web",
+		"url": "https://www.theatlantic.com/projects/new-rules/",
+		"items": "multiple"
+	},
+	{
+		"type": "web",
+		"url": "https://www.theatlantic.com/projects/ideas-2010/archive/2010/06/reading-writing-and-thinking-online-an-interview-with-alan-jacobs/57807/",
+		"items": [
+			{
+				"itemType": "blogPost",
+				"title": "Reading, Writing, and Thinking Online: An Interview With Alan Jacobs",
+				"creators": [
+					{
+						"firstName": "Conor",
+						"lastName": "Friedersdorf",
+						"creatorType": "author"
+					}
+				],
+				"date": "2010-06-08",
+				"abstractNote": "An accomplished author, essayist and academic on how he successfully navigates the Web, why English students should be forced to recite poems from memory, and why it's a bad idea to read your child Goodnight Moon on a Kindle.",
+				"blogTitle": "The Atlantic",
+				"language": "en",
+				"shortTitle": "Reading, Writing, and Thinking Online",
+				"url": "https://www.theatlantic.com/projects/ideas-2010/archive/2010/06/reading-writing-and-thinking-online-an-interview-with-alan-jacobs/57807/",
+				"attachments": [
+					{
+						"title": "Snapshot",
 						"mimeType": "text/html"
 					}
 				],
