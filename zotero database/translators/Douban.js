@@ -3,13 +3,13 @@
 	"translatorType": 4,
 	"label": "Douban",
 	"creator": "Ace Strong<acestrong@gmail.com>",
-	"target": "^https?://(www|book)\\.douban\\.com/(subject|doulist|people/[a-zA-Z._]*/(do|wish|collect)|.*?status=(do|wish|collect)|group/[0-9]*?/collection|tag)",
+	"target": "^https?://(www|book)\\.douban\\.com/(subject|doulist|people/[a-zA-Z0-9._]*/(do|wish|collect)|.*?status=(do|wish|collect)|group/[0-9]*?/collection|tag)",
 	"minVersion": "2.0rc1",
 	"maxVersion": null,
 	"priority": 100,
 	"inRepository": true,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2020-07-01 03:30:00"
+	"lastUpdated": "2024-08-08 19:00:00"
 }
 
 /*
@@ -189,7 +189,7 @@ function scrapeAndParse(doc, url) {
 // #########################
 
 function detectWeb(doc, url) {
-	var pattern = /subject_search|doulist|people\/[a-zA-Z._]*?\/(?:do|wish|collect)|.*?status=(?:do|wish|collect)|group\/[0-9]*?\/collection|tag/;
+	var pattern = /subject_search|doulist|people\/[a-zA-Z0-9._]*?\/(?:do|wish|collect)|.*?status=(?:do|wish|collect)|group\/[0-9]*?\/collection|tag/;
 
 	if (pattern.test(url)) {
 		return "multiple";

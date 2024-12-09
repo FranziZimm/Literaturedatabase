@@ -1,0 +1,565 @@
+This is an electronic reprint of the original article. This reprint may differ from the original in pagination and typographic detail.
+Author(s): De Weerdt, Danny
+
+Title:
+
+Existential sentences in Flemish Sign Language and Finnish Sign Language
+
+Year:
+
+2016
+
+Version:
+
+Please cite the original version:
+De Weerdt, D. (2016). Existential sentences in Flemish Sign Language and Finnish Sign Language. SKY Journal of Linguistics, 29, 7-38. Retrieved from http://www.linguistics.fi/julkaisut/SKY2016/SKYJoL29_DeWeerdt.pdf
+
+All material supplied via JYX is protected by copyright and other intellectual property rights, and duplication or sale of all or part of any of the repository collections is not permitted, except that material may be duplicated by you for your research use or educational purposes in electronic or print form. You must obtain permission for any other use. Electronic or print copies may not be offered, whether for sale or otherwise to anyone who is not an authorised user.
+
+Existential sentences in Flemish Sign Language and Finnish Sign Language
+Danny De Weerdt University of Jyväskylä
+Abstract
+This paper presents a descriptive and comparative study of existential sentences in Flemish Sign Language and Finnish Sign Language. Existential sentences are used to express the existence or presence of something or someone. This study investigates how expressions of existence or presence are constructed and what the order of Figure and Ground is in existential sentences in both languages. Existential sentences can be formed around the lexical signs HEEFT (‘have’) in Flemish Sign Language and OLLA (‘have’) in Finnish Sign Language or the lexical signs can be omitted from the construction. The number of existential sentences with an overt HEEFT/OLLA is higher in Finnish Sign Language than Flemish Sign Language, while the omission of such lexical signs appears more in Flemish Sign Language than Finnish Sign Language. This sentence type exhibits the specific order of Ground preceding Figure in both languages. The Ground is often omitted from the construction when it can be retrieved from the context. Adposition signs, depicting signs and localized lexical signs are used in both sign languages to mark the spatial relationship between Figure and Ground. Flemish Sign Language uses adposition signs more often than does Finnish Sign Language.
+Keywords: existential sentence, syntax, discourse, functionalism, Flemish Sign Language, Finnish Sign Language
+1 Introduction
+This paper presents a descriptive and comparative study of existential sentences (e.g. There is a book on the table) in two different sign languages: Flemish Sign Language (VGT, or Vlaamse Gebarentaal) and
+SKY Journal of Linguistics 29 (2016), 7–38
+
+8
+
+DANNY DE WEERDT
+
+Finnish Sign Language (FinSL, or suomalainen viittomakieli)1. The term existential sentence refers to a specialized or non-canonical construction which expresses a proposition about the existence or the presence of something or someone (McNally 2011: 1830). In terms of its composition, this sentence type is specialized in that it does not have the canonical subject-predicate structure (McNally 2011: 1830). Existential sentences not only indicate the location of an entity but can also be used to identify an entity present at a certain location (Creissels 2014). In terms of their function, existential sentences act primarily to introduce a novel referent within the discourse (Givón 2001b; McNally 2011: 1832).
+Research on existential sentences in spoken languages around the world has been conducted in many in-depth or typological studies and within different theoretical frameworks. One of the earliest studies was Lyons (1967; 1968), who proposed that existential sentences are semantically related to locative sentences and possessive sentences. This locative approach was followed by Clark (1978), who showed that in many languages the word order in existential sentences resembles the word order in possessive sentences but is often reversed in locative sentences. Clark (1978) also showed that most languages use one verb to express these three sentence types and that in most languages the locative phrase precedes the nominal. Overall, to date, existential sentences have been discussed both as an independent sentence type (e.g. Francez 2007; McNally 2011) and as a type of sentence that is semantically and structurally connected with locative and possessive sentences (e.g. Freeze 1992; Kristoffersen 2003).
+The notions of Figure and Ground have been used to analyse existential sentences and to distinguish them from other sentence types, especially from locative sentences. The Figure entity is a concrete entity conceived as movable (Talmy 2000; Creissels 2014) and should be interpreted as having an unknown spatial property (Talmy 2000). The Ground entity is a concrete entity which is less easily movable and occupies a fixed position in space (Talmy 2000; Creissels 2014). Using this analytical distinction, Creissels (2014) has proposed that the difference between existential sentences and locative sentences lies in the difference of perspectivization of the relationship between Figure and Ground. This
+
+1 Flemish Sign Language is the language signed in Flanders, the northern part of Belgium. Finnish Sign Language is signed in Finland, as is Finland-Swedish Sign Language.
+
+EXISTENTIAL SENTENCES IN VGT AND FINSL
+
+9
+
+prototypical Figure-Ground relationship expresses an episodic spatial relationship between a Figure entity and a Ground entity.
+Concerning sign languages, Kristoffersen (2003) has used the notions of Figure and Ground to investigate the order of constituents in existential, possessive and locative sentences in Danish Sign Language. Her study showed that there is a clear syntactic relationship between these sentence types and that each sentence type uses the same verb. Similarly to the findings of typological studies in spoken languages, Kristoffersen (2003) found that in existential sentences in Danish Sign Language the Ground typically precedes the Figure. The typological study of sign languages carried out by Zeshan & Perniss (2008) showed that other sign languages also use a certain verb, such as HAVE, to express existence, although other mechanisms (elaborated in §2.2) to express existence have also been found (see also Pichler et al. 2008; De Weerdt 2008).
+The goal of this study is to describe and compare existential sentences in VGT and FinSL. This descriptive work aims to gain basic insights into how existential sentences in two different sign languages are constructed by looking at the order of Figure and Ground when the existence or presence of something is expressed. The analyses of existential sentences in both sign languages are compared in order to identify the similarities and/or differences. On the basis of previous studies, I suspect that existential sentences in both sign languages share similar syntactic properties such as the order of Ground preceding Figure, and that the Ground can be omitted from the construction. The major difference may have to do with the use of adposition signs to mark the spatial relationship between Figure and Ground in an existential sentence.
+Theoretically, this study is situated in a functional framework because it views expressing existence or presence as ‘a functional domain within the context of a cross-language typology’ (Givón 1981: 163). With a typological approach to grammar, Givón (2001a: 25) notes that languages can code the same functional domain by more than one structural means. This research also follows the main insights of the theoretical framework called Basic Linguistic Theory (Dryer 2001; 2006). This framework is widely used to describe and compare languages, especially in the grammatical description of entire languages (Dryer 2001; 2006). Dryer (2001; 2006) also notes that descriptive work cannot be completed without theories: descriptive theory differs from explanatory theory in that the former describes what languages are like while the latter explains why a language looks the way it does.
+
+10
+
+DANNY DE WEERDT
+
+The data for this study comprise about 80 minutes of videotaped data from four VGT signers and four FinSL signers. The data were elicited with stimulus material used in Zeshan & Perniss’s (2008) typological study on possessive and existential constructions across sign languages. The videotaped data were transcribed with the ELAN annotation tool. Utterances carrying the function of expressing the existence or presence of an object as a novel referent within discourse were extracted from the data and their constructions were functionally analysed.
+This paper is organized as follow. Section 2 describes the function of an existential sentence, the locative approach towards this sentence type and its structural properties across both spoken and signed languages. Section 3 presents the methodology and data for this study. Section 4 deals with the description and analysis of existential sentences in VGT and FinSL. The final sections, 5 and 6, include the discussion and conclusion, respectively.
+2 Existential sentences
+2.1 On research into existential sentences in spoken languages
+Lyons (1967; 1968) initially distinguished existential sentences in English, as in (1a), below, from locative sentences and possessive sentences, exemplified in (1b) and (1c) respectively. He argued that these three sentence types are semantically related as they all express a certain object (a book/the book) located in a certain place (on the table/John).
+(1) a. There is a book on the table. b. The book is on the table. c. John has a book. / The book is John’s. (Lyons 1968: 390–391)
+From the perspective of semantics, Lyons (1968: 390) suggested that existential sentences as in (1a) above could be treated as implicitly locative. His argument was that if an object exists, it must be located in a certain time and place. In addition to the semantic relationship between existential and locative sentences, Heine (1997) identified that possessive sentences are derived from existential sentences. Prototypical possessive sentences are existential sentences whose locative elements are prototypically human (Wang & Xu 2013). This also confirms Lyons’s (1968) claim that existential sentences are semantically related to possessive ones; Examples
+
+EXISTENTIAL SENTENCES IN VGT AND FINSL
+
+11
+
+(1a) and (1c) both express the location (on the table/John) of an object (a book/the book).
+Adopting the locative approach, typological studies have shown that there is also a syntactic relationship between these three sentence types (e.g. Clark 1978; Freeze 1992). Clark (1978) found, with a sample of approximately 40 languages, that in many languages the word order in existential sentences resembles the word order in possessive sentences but is reversed in locative sentences. Comparing existentials with locatives, Clark (1978) observed that where a language has, for example, the order of locative phrase (Loc; cf. Ground in this study) preceding the nominal (Nom; cf. Figure), with the verb (V) in various positions in an existential sentence, in locative sentences it has the opposite order of nominal preceding locative phrase.2 Table 1 gives an overview of word order in existential sentences and locative sentences, as found by Clark (1978).
+
+Table 1. Word order in existential and locative sentences, as found by Clark (1978)
+
+Existential sentence Loc Nom V Loc V Nom Pro-Loc V Nom Loc V Nom Loc
+
+Locative sentence Nom Loc V Nom V Loc Nom V Loc Nom V Loc
+
+Examples of languages Turkish, Eskimo, Swahili Finnish, Mandarin Chinese English, French, Spanish Hebrew, Hungarian
+
+Due to their syntactic relationship, Clark (1978) claimed there should be a relationship in the verbs used in these sentence types. She showed that 26 out of 40 languages use one verb to express all three sentence types – existential, locative and possessive. For example, Finnish uses the verb olla and Mundari uses menaq. However, there are some languages that use 2 different verbs; for example, avoir or être, and to have or to be, for French and English respectively. Despite the fact that an existential verb is an essential unit in many existential sentences, from a cross-linguistic perspective this unit is optional and its presence varies from language to language (Francez 2007).
+Freeze (1992) exemplified the relationship in word order and the use of one verb in existential, locative and possessive sentences from Russian in his typological work, as shown in the following examples, (2a), (2b) and (2c) respectively.
+
+2 As this study focuses only on the syntactic properties of existential sentences, it should be noted that there are also other features that affect the structure of this sentence type, such as morphology, which distinguishes existential sentences from locative sentences.
+
+12
+
+DANNY DE WEERDT
+
+(2) a. na stole
+
+byla kniga
+
+on table.LOC was book.NOM.FEM
+
+‘There was a book on the table.’
+
+b. kniga
+
+byla na stole
+
+book.NOM.FEM was on table.LOC
+
+‘The book was on the table.’
+
+c. u menja byla sestra at 1SG.GEN was sister.NOM ‘I had a sister.’ (Freeze 1992: 553–554)
+
+Concerning existential and locative sentences, similarly to Clark (1978), Freeze (1992) showed that the existential sentence in (2a) and the locative sentence in (2b) both include a theme argument (cf. Figure in this study) kniga (‘book’) and a locative argument (cf. Ground) na stole (‘on the table’). The existential sentence in (2a) has the order of locative argument preceding theme argument while the locative sentence in (2b) has the opposite order of theme argument preceding locative argument. Similar word order alternation was also found for Chamorro, Tagalog and Hindi. In addition, Russian uses one verb, byt`, in these three sentence types.
+Clark (1978) observed in her typological studies that existential sentences in 27 out of 35 languages have the order of locative phrase (Loc) expressing the Ground preceding the nominal (Nom) expressing the Figure (the position of the verb can vary). For example, Turkish and Finnish both have the order of Loc preceding Nom, but the verb in Turkish appears after the nominal while in Finnish the verb precedes the nominal. A few languages follow the order Nom Loc, giving relatively little importance to the placement of the verb. Table 2, following Clark (1978; for a full overview see Clark 1978: 93), shows the word order in existential sentences and the number of languages in which this word order applies.
+
+Table 2. Word order in existential sentences, as found by Clark (1978)
+
+Location preceding Nominal Loc Nom V Loc V Nom Loc Nom Pro-Loc V Nom Loc Nominal preceding Location V Nom Loc Nom V Loc Nom Loc V
+
+Number of languages 13 languages (e.g. Japanese, Swahili, Turkish) 10 languages (e.g. Finnish, German, Panjabi) 1 language (Tagalog) 3 languages (English, French, Spanish) Number of languages 4 languages (e.g. Hebrew, Hungarian) 6 languages (e.g. Yoruba, Twi) 3 languages (e.g. Nasque, Mundari)
+
+EXISTENTIAL SENTENCES IN VGT AND FINSL
+
+13
+
+Following Creissels (2014), existential sentences such as There is a book on the table (see 1a) are sentences that have the ability to encode a prototypical Figure-Ground relationship similar to that in locative sentences such as The book is on the table (see 1b) in English. Existential sentences can be distinguished from locative ones by the difference in the perspectivization of the Figure-Ground relationship. The Ground is the concept acting as a reference point, while the Figure is the concept that needs anchoring. This pair of concepts can refer to the spatial relation of two objects in an event of motion or location. For example, in the following sentence, There is a book on the table, ‘book’ is the Figure and ‘table’ is the Ground, and Ground acts as the reference point in relation to the Figure, which needs anchoring.
+The concepts of Figure and Ground are widely explored in Talmy’s (2000) cognitive semantics, and he also puts forward the theory called the windowing of attention. The windowing of attention is a cognitive process that includes both windowing and gapping. Windowing is foregrounding portion(s) of the referent scene by explicitly mentioning that portion(s). Gapping refers to backgrounding portion(s) of the referent scene by omitting sentence constituent(s), as the portion(s) is/are generally provided by the context or by convention.
+2.2 Existential sentences in signed languages
+Although there have been studies on existential sentences in spoken languages, in sign languages this theme has not yet been studied widely or in depth. Early comments on the subject come from Deuchar (1984), who noted that British Sign Language (BSL) uses one lexical item, HAVE3, to express both existence and possession. Hughes et al. (1984) investigated the issue further and found a small group of signs in BSL, including HAVE, whose primary function was to express both existence and possession. Other researchers have also found that some sign languages use the lexical sign HAVE in existential sentences, but other mechanisms are also possible.
+Kristoffersen (2003) studied the order of constituents in existential, possessive and locative sentences in Danish Sign Language (DTS). The dataset for this study consisted of 1½ hours of videotaped monologues produced by Deaf native signers. 28 constructions were found that included the sign EXISTENTIAL with a mouth pattern similar to /ar/. According to
+3 It is the tradition in sign language linguistics to gloss a sign with small capital letters.
+
+14
+
+DANNY DE WEERDT
+
+Kristoffersen, this sign is used in DTS to express existential, locative and possessive sentences, as shown below in Examples (3a), (3b) and (3c) respectively.
+
+(3) a. REASON HOTEL+fl NEXT-TO+fr / EXISTENTIAL+fr DISCO
+
+Ground
+
+Figure
+
+‘The reason was there was a disco next to the hotel.’
+
+b. MAYBE METTE / EXISTENTIAL PRON+l / KC
+
+Figure
+
+Ground
+
+‘Maybe Mette is at KC.’
+
+c. 1.p EXISTENTIAL / PILLOW /
+
+Ground
+
+Figure
+
+‘I had a pillow.’ (Kristoffersen 2003: 134–136)
+
+In her analysis of the order of constituents, Kristoffersen (2003) used the notions of Figure and Ground. In line with the trend found in Clark (1978), she observed that the word order in existential sentences resembled the word order in possessive sentences, while locative sentences had a different word order. The sign EXISTENTIAL was generally positioned between Figure and Ground in all three kinds of constructions, regardless of their actual word order. This is also shown in these examples.
+In Kristoffersen’s dataset, only half of the existential sentences were expressed with both Ground and Figure overt, as in Example (3a) above. In the remaining sentences, only one of the units – typically the Figure – was expressed. According to Kristoffersen, the omission of the Ground depends on a context which makes the referent of the missing element retrievable (see Engberg-Pedersen 1993; Jantunen 2013).
+According to Kristoffersen (2003), the omission can affect the otherwise relatively invariant order of Ground EXISTENTIAL Figure. For example, when the Figure’s existence is unexpected, as in (4) below, the constituents do not follow the typical order: In (4), the Figure precedes the verb EXISTENTIAL and the Ground (‘bus’) is retrieved from the context. The sign EXISTENTIAL is produced with raised eyebrows.
+
+(4) SECOND TOILET / EXISTENTIAL / ‘[and] secondly there was even a toilet [on the bus].’ (Kristoffersen 2003: 134)
+
+EXISTENTIAL SENTENCES IN VGT AND FINSL
+
+15
+
+Since Kristoffersen (2003), De Weerdt (2008) has described the different ways of expressing the function of existence in VGT. His analysis has shown that VGT can express existence not only by means of the lexical sign HEEFT4 (‘have’), but also with a verb construction, a localized lexical sign, pointing, or a combination of the previous ways, all of which localize a sign or a referent somehow in the space. The term ‘verb construction’ is not a term that is used widely in the sign language literature – ‘classifier construction’ or ‘depicting sign’ are much more common. In this study, the term ‘depicting signs’ is used to refer to complex signs that contain a classifier handshape and possibly a varying place of articulation, orientation, and a movement (Vermeerbergen 1996). The choice of the handshape in these signs varies according to the salient characteristics of the referent (Schembri 2003: 3). Localized lexical signs are signs produced in a non-neutral articulation place to connect a referent to its locus (Vermeerbergen 1996). Pointings are signs produced with a closed handshape with stretched index finger, and a movement or orientation towards a certain place.
+Existential sentences in De Weerdt’s (2008) study, as in Kristoffersen’s (2003) study of DTS, were mainly ordered as Ground preceding Figure. The Ground was the only argument that could be omitted from the construction; the Figure was always explicitly mentioned. In addition, the verb sign HEEFT was frequently found to be omitted from the construction.
+As a part of the typological study conducted by Zeshan & Perniss (2008), De Weerdt & Vermeerbergen (2008) observed that, in VGT, the sign HEEFT can be used to express both existence and possession. When used to express existence, some sentences, such as in Example (5), may still carry a possessive meaning:
+(5) MOUNTAIN HEEFT HOTEL ON ‘There is a hotel on the mountain.’ or ‘The mountain has/possesses a hotel.’ (De Weerdt & Vermeerbergen 2008: 209)
+
+4 Glosses are labels referring to specific signs. As the lexical signs HEEFT/OLLA are important in existential sentences in both VGT and FinSL, and in line with my practice in the rest of this article, I would like to emphasize the difference in both sign languages between the gloss and the lexical sign by using HEEFT (‘have’) for VGT and OLLA (‘have’) for FinSL (see also later in §4 for FinSL) instead of HAVE.
+
+16
+
+DANNY DE WEERDT
+
+On the use of nonmanual markers, that is, linguistic elements that are not expressed by the hands (Pfau & Quer 2010: 381), in VGT existential sentences, De Weerdt & Vermeerbergen (2008) pointed out that the idea of existence is also incorporated in nonmanual topic marking in order to show that something is the theme or the issue to be discussed later in the discourse. This is exemplified in Example (6), in which the sign HOUSE is nonmanually produced with raised eyebrows to mark the topic of the sentence; this is followed by a small pause and TREE BEHIND, which fill the rest of the sentence. Some signers also use the existential HEEFT in initial position to mark the topic, as in Example (7).
+(6) _____t HOUSE / TREE BEHIND ‘There is a tree behind the house.’ [author’s translation] (De Weerdt & Vermeerbergen 2008: 210)
+(7) HEEFT HOUSE TREE BEHIND ‘There is a house with a tree behind it.’ (De Weerdt & Vermeerbergen 2008: 210)
+Concerning FinSL, no research into existential sentences has yet been published. However, some work was done in connection with answering the questionnaire in the Zeshan & Perniss (2008) project. The main findings of this work (De Weerdt & Takkinen 2006) are included in the present study.
+3 Methodology and data
+This study is based on videotaped data involving four VGT signers and four FinSL signers. The data were elicited with stimulus material from the typological investigation of possessive and existential constructions across sign languages conducted by Zeshan & Perniss (2008). The data for VGT in this study came from De Weerdt’s (2008) study on expressing existence in VGT.
+The stimulus material is a picture comparison game whose aim is to create conversations between two signers. The material includes four pairs of pictures, i.e. a total of eight pictures. Each of the two pictures in a pair is basically similar to the other, but there are some differences between the two: a missing or different object (e.g. in one picture there are two vases on the table while in the other picture there is only one) or different colours
+
+EXISTENTIAL SENTENCES IN VGT AND FINSL
+
+17
+
+(e.g. the man in one picture is wearing a blue sweater while in the other picture he is wearing a green one). As the signers cannot see their interlocutor’s picture, the aim is to jointly discuss what differences there are in their pictures. At the end of each conversation, one of the signers was asked to make a kind of report saying what differences they had found. The position of the informants during the data collection is shown in the top left-hand corner in Figure 15:
+
+Figure 1. A screenshot from the ELAN annotation tool used to transcribe the videotaped data.
+This activity led to 8 different video clips and a total length of approximately 40 minutes of videotaped material per language, i.e. a total of 16 video clips of about 80 minutes. The videotaped conversations were transcribed with the ELAN6 annotation tool. A screenshot of the transcription work in ELAN is shown in Figure 1, above. Eight tiers were created for the transcription of each existential sentence that was found: the dominant (or active) and the non-dominant (or passive) hands of each signer (4 tiers), the nonmanual elements from each signer (2 tiers), comments (1 tier) and finally the syntactic analysis of the construction (1 tier). In the first four tiers, the active and passive hands were separated in order to take simultaneity into account, as it might be important for
+5 Copyright by the author. 6 http://www.lat-mpi.eu/tools/elan/elan-description
+
+18
+
+DANNY DE WEERDT
+
+marking the spatial relationship between the focus information (Figure) and its location (Ground).
+The following steps were taken to extract the existential sentences from the data. Following Francez’ (2007: 4) view, the analysis of existential sentences in both sign languages in this study starts from their context dependence and is functionally approached. Therefore, first of all, every videotaped conversation was watched twice in order to understand the discourse and the context. Bearing in mind the discursive function of an existential sentence, every utterance a) that expresses existence or the presence of an object or a person and b) in which the object or person is a novel referent within the conversation, was considered to be an existential sentence. The discursive function of each existential sentence was first described, and then followed an analysis of the order of Ground and Figure.
+4 Existential sentences in VGT and FinSL
+This section presents a descriptive and comparative analysis of existential sentences in VGT and FinSL based on this study’s data, described in the previous section. To start with, the lexical signs HEEFT (‘have’) for VGT and OLLA (‘have’) for FinSL are introduced first together with a quantitative approach to the number of existential sentences formed around these signs in both sign languages. Then the results are presented in terms of five categories or groups. The first group uses the lexical signs HEEFT for VGT and OLLA for FinSL. The second group is characterized by the omission of HEEFT/OLLA in the existential sentences in both languages. The third group centres around the omission phenomena affecting the Ground. The fourth group concerns the omission of both HEEFT/OLLA and the Ground, and the fifth group focuses on sign language-specific or modalityspecific mechanisms, including both simultaneity and the use of space. Mittelberg (2013: 769) has done some work on existential constructions in co-speech gestures. A list of the notational conventions used in the transcriptions in this study can be found at the end of the article.
+The main findings are that existential sentences in both VGT and FinSL invariably have the order of Ground preceding Figure regardless of whether the sentence is formed around HEEFT in VGT and OLLA in FinSL or not. Both HEEFT and OLLA are mainly positioned between the Ground and Figure in an existential sentence.
+
+EXISTENTIAL SENTENCES IN VGT AND FINSL
+
+19
+
+4.1 The use of HEEFT/OLLA
+
+The lexical sign HEEFT in VGT has the function of expressing possession or existence (De Weerdt & Vermeerbergen 2008). This sign is produced with a Y-handshape, the thumb pointing to the signer’s chest with a repeated movement towards the chest. The mouth pattern resembles the Dutch word /heef/. The lexical sign OLLA in FinSL is formed with a B-handshape and the palm facing downwards. The fingers are oriented to the side and produced with a single movement towards the upper-left torso (for a righthanded signer). Two other phonological varieties of this sign were found in the data: the handshape can be a G-hand (a closed handshape with stretched index-finger) or a 5-hand (an open handshape with all fingers stretched) with similar hand and finger orientation and movement. The mouth pattern resembles the Finnish /on/.
+In terms of outcomes, looking quantitatively at the data reveals some interesting facts concerning the presence or omission of HEEFT and OLLA in existential sentences. A total of 40 existential sentences were found in VGT and 51 in FinSL. The number of existential sentences formed in VGT around HEEFT (n=14) was much lower than the number of FinSL existential sentences constructed around OLLA (n=38). Conversely, the number of VGT existential sentences where HEEFT was omitted (n=26) was higher than the number of FinSL existential sentences with the omission of OLLA (n=13). These numbers are summarized in Table 3.
+
+Table 3. Number of existential sentences with overt or omitted HEEFT/OLLA in VGT and FinSL
+
+Existential sentences overt HEEFT/OLLA omitted HEEFT/OLLA TOTAL
+
+VGT 14 26 40
+
+FinSL 38 13 51
+
+4.2 Existential sentences with an overt HEEFT/OLLA
+
+Existential sentences constructed around the signs HEEFT and OLLA in both languages invariably show the order of Ground HEEFT/OLLA Figure, as shown in Examples (8) for VGT and (9) for FinSL.
+
+20
+
+DANNY DE WEERDT
+
+(8) ______t
+
+______________ed
+
+OUTSIDE LOOK-LIKE HEEFT GRASS GREEN
+
+Ground
+
+Figure
+
+‘It looks like there is green grass outside.’
+
+The utterance in (8) was followed by a whole conversation about the inside of the house that was shown in their pictures. Once both interlocutors thought they had finished with that part, one of the signers wanted to move on to discuss what was present outside the house. The existential sentence in (8) occurred when the signer wanted to introduce a new referent (‘green grass’) into the conversation, resulting in a construction expressing existence or presence. The Ground (‘outside’) is uttered first, followed by the lexical sign HEEFT, and the Figure (‘green grass’) appears in final position in the construction: Ground HEEFT Figure. The Ground is nonmanually marked as a topic with raised eyebrows while the rest of the construction takes place with eyebrows down, as the signer was a little doubtful. Like VGT, FinSL also exhibits the order of Ground OLLA Figure to express existence or presence, as shown in Example (9), below.
+
+(9) RIVER OLLA TWO-PIECES FISH TWO-PIECES FISH TWO FISH Ground Figure ‘There are two fishes in the river.’
+In (9), the fishes are introduced as new referents that are present in the river. The construction starts with the Ground (‘river’), as being less movable and having a fixed position in space, followed by the sign OLLA, with the Figure (‘two fishes’), as being more movable and with unknown spatial property, appearing in final position in the construction. The Figure is repeated twice at the end of the utterance while the interlocutor is checking his own picture.
+Adposition7 signs occur within existential sentences for both VGT and FinSL, although the number of occurrences is higher in VGT than in FinSL. In VGT, 15 out of a total of 40 existential sentences were found with adposition signs, while for FinSL it has 7 out of 51 existential sentences. For VGT, 5 of the examples were found in the 14 existential sentences with an overt HEEFT, and 10 in the 26 existential sentences with the omission of HEEFT. In contrast, in FinSL, 5 of the existential sentences
+
+7 I will use the general term adpositions as it is not clear whether both sign languages do have pre- or postpositions.
+
+EXISTENTIAL SENTENCES IN VGT AND FINSL
+
+21
+
+with adposition signs were found in the 38 constructions with an overt OLLA, and 2 in the 13 sentences with the omission of OLLA. The reason for discussing adposition signs here is to show that this is also important not only in sentences with the omission of HEEFT in VGT (discussed later in §4.3) but also in cases with omission phenomena affecting the Ground (discussed later in §4.4).
+Adposition signs mainly appear after the Ground and mark the spatial relationship between Figure and Ground in an existential sentence. The order remains invariably Ground HEEFT/OLLA Figure, as shown in Examples (10b) for VGT and (11b) for FinSL.
+
+(10) a. DH C-A-C-T-U-S ds-(cactus) […] IX-1 TWO ds-(cactus) ds-(cactus)-a
+
+NDH
+
+ds-(cactus) […]
+
+ds-(cactus) ds-(cactus)-b
+
+b. _______________t nod
+
+ON-THE-RIGHT-SIDE / CACTUS NEXT-a HEEFT STONE ds-(stone) ENORMOUS
+
+Ground
+
+Figure
+
+‘The cactus on the right, there is an enormous stone next to it.’
+
+In (10a), the presence of two cacti in the picture had been discussed earlier, as was confirmed by the other interlocutor. After this confirmation, the informant noted the presence of an enormous stone next to the cactus on the right-hand side of the picture. The existential sentence (10b) started with the Ground (‘cactus’), which is less movable and has a fixed position in space. The nonmanual nod appearing during a short break between ONTHE-RIGHT-SIDE and CACTUS functions as asking for confirmation from the interlocutor that they both know what they are talking about. The sign CACTUS is followed by the adposition NEXT-a, with locus a referring to the exact location of the Figure entity. This part is followed by HEEFT and the Figure (‘stone’), which is more movable and has unknown spatial property. In addition, in this utterance I perceive ‘cactus’ as less movable than ‘stone’ because the cactus in the picture is fixed in the ground and it is bigger than the stone itself.
+The FinSL example in (11b) shows a similar structure, i.e., it also includes an adposition in the construction. The presence of the ‘door’ in the picture had already been discussed earlier and was known by both informants. One of them asked whether their interlocutor’s picture included a door somewhere in between, as shown in (11a), followed by a confirmation on the part of the interlocutor. Later on, the other interlocutor
+
+22
+
+DANNY DE WEERDT
+
+expressed an existential sentence as in Example (11b) below, to announce the presence of a painting, which is introduced as a new referent.
+
+(11) a. _____________polar-question DOOR IN-BETWEEN OLLA PNT-2
+
+b. DOOR BEHIND-a OLLA SOMETHING SEEM-SO PAINTING ds-(painting)-a
+
+Ground
+
+Figure
+
+‘There is a painting, or something like that, hanging behind the door.’
+
+In (11b), the Ground (‘door’) comes in initial position and is followed by the adposition BEHIND-a. The signs OLLA and the Figure (‘painting’) complete the construction. Note that the signs STONE and PAINTING, which denote the Figure in (10b) and (11b), respectively, are both followed by depicting signs glossed as ds-(stone) and ds-(painting). Depicting signs are complex signs that, according to the view most typically held nowadays (Schembri 2003; Takkinen 2008), contain a classifier handshape and a possibly varying place of articulation, orientation and movement (Vermeerbergen 1996). Schembri (2003: 3) noted that the handshape in these signs is generally described as a classifier morpheme because the choice of handshape varies according to the referent’s most salient characteristics.
+The classifier handshape in ds-(stone) in (10b) is a claw-hand, which is used to refer to the characteristics of a stone as a single, complete entity. The classifier handshape in (11b) is a C-hand, which also denotes the painting as a whole. In addition, the data for both languages show that depicting signs such as ds-(painting) in (11b), for example, are produced with a short directional movement and a final hold to express the presence of an object in a certain location. Part of the inherent nature of depicting signs is to describe an event in a certain spatial location and thus they also introduce locational information about (new) referents in a discourse. Since there is an inherent relationship between location and existence (Lyons 1967; 1968; also see §2), utterances with depicting signs are also found quite frequently in the present data.
+
+4.3 The omission of HEEFT/OLLA
+
+Although most researchers of both spoken and signed languages have mentioned the use of a specific verb when expressing existence or
+
+EXISTENTIAL SENTENCES IN VGT AND FINSL
+
+23
+
+presence, the analysis in this study has shown examples of existential sentences that do not include either HEEFT or OLLA (see also Table 3 above). The order in existential sentences with the omission of HEEFT/OLLA remains mainly Ground preceding Figure for both VGT and FinSL.
+Existential sentences in VGT with the construction Ground Figure mostly contain two special features. Firstly, the Ground entity is expressed nonmanually with a quick head nod that functions as asking for confirmation from the interlocutor that the Ground entity refers to a known referent within the discourse for both interlocturs. Secondly, an adposition sign always appears immediately after the Ground. An example of this is shown in (12c) for VGT:
+
+(12) a. WOMAN BEHIND-a […] GREEN ds-(cover)
+
+b. OF LAMP OF LAMP
+
+c. _nod
+
+LAMP / NEXT-a PAINTING
+
+Ground
+
+Figure
+
+‘There is a painting next to the lamp.’
+
+Previously, the presence of a lamp behind the woman in the picture had been discussed, as shown in (12a), which was confirmed by the interlocutor with ‘it’s a lamp’ as in (12b). After a short break, this discussion is followed by an existential sentence in (12c). The Ground (‘lamp’) is expressed first simultaneously with a quick repeated head nod, followed by the adposition sign ‘next’, which is produced at a certain locus in the signing space to mark the specific location (called a, next to the lamp) of the Figure in relation to the Ground. The sentence ends with the Figure (‘painting’), which is the focus of attention in the existential sentence.
+In such structures the use of space is important. The Figure entity, as shown in (13), also for VGT, is produced with a lexical sign signed at a certain locus in the signing space. The sign order remains Ground Figure.
+
+(13) _________________nod
+
+GREEN ds-(lamp-shade)-a / FRAME-b
+
+Ground
+
+Figure
+
+‘There is a frame next to the green lamp.’
+
+24
+
+DANNY DE WEERDT
+
+In utterance (13), the ‘green lamp’ had been discussed earlier and when the signer wanted to come back to it he started the construction with the Ground, referring to ‘the lamp’, which was located at a locus called a, and giving a short nod to ask for confirmation. This is followed by the Figure ‘frame’, which is signed at locus b, which is next to the Ground and marks the spatial relationship between ‘lamp’ and ‘frame’.
+There is no example of such a structure being found in FinSL. However, FinSL does also show existential sentences with the ommission of OLLA, but in these cases the Figure is mainly produced by means of the simultaneous production of depicting signs (discussed in §4.6) or localized lexical signs (discussed in §4.5).
+4.4 Omission phenomena affecting the Ground
+The Ground can be omitted from existential sentences in both sign languages when it can be retrieved from the context. When this is the case, the sentence can have an adposition sign in initial position of the construction followed by HEEFT or OLLA and Figure: adposition sign HEEFT/OLLA Figure. This type of structure is shown in Examples (14) for VGT and (15b) for FinSL, below.
+(14) ____eg _____t NEXT-a HEEFT TABLE NEXT-a Figure ‘There is a table next to [the stove].’
+The Ground (‘stove’) in (14), whose presence had been discussed earlier in the conversation, is omitted from the construction as it can be retrieved from the context for both signers. In order to express the presence of a table next to it, the signer produces an existential sentence starting with an adposition sign NEXT-a followed by HEEFT and the Figure entity (‘table’). NEXT-a is repeated at the end of the sentence. The first NEXT-a is produced while the signer has eye contact with his interlocutor and nonmanually marks a topic that sets a spatial framework (Jantunen 2008: 163). This is not the case for the second adposition sign. Both adoposition signs are produced in locus a to mark the spatial relationship between the focus information ‘table’ and its location. Whereas adposition signs frequently appear in VGT, they occur much less frequently in FinSL.
+
+EXISTENTIAL SENTENCES IN VGT AND FINSL
+
+25
+
+Similarly to VGT, the existential sentence in (15b) below, for FinSL, comes at the end of a description of a woman lying down in bed; the signer says that she is wearing something black around her head, as shown in (15a). Immediately after the final sign HEADWEAR, produced at a locus called a, which is around the head in (15a), the signer goes on to report the presence of a pillow behind her head, as shown in (15b).
+(15) a. SOMEONE ILL ds-(lie-down-in-bed) […] BLACK HEADWEAR-a
+b. BEHIND-a OLLA ds-(some-shape)-a / SOMETHING /// PILLOW Figure
+‘There is a pillow, or something, behind [the head of the woman].’
+The existential sentence (15b) starts with an adposition sign, BEHIND-a, produced behind the signer’s head and referring to the woman’s head in the picture. The woman’s head as location, or Ground, is not explicitly expressed but is retrieved from the context. The construction therefore starts with the adposition sign BEHIND-a, followed by OLLA, and the Figure completes the sentence.
+There are cases where the sentence has the order of HEEFT/OLLA Figure without an adposition sign, and the Ground is retrieved from the context. This is shown in Examples (16) for VGT and (17) for FinSL, below.
+(16) HEEFT MAN HEEFT POCKET Figure
+‘There is a man who has a pocket.’
+The first HEEFT in Example (16) introduces a man as a new referent within the conversation while the second HEEFT expresses possession. A similar construction has also been found in other studies of existentials and possessives in VGT (De Weerdt & Vermeerbergen 2008). One example in FinSL shows the structure presented in (17) below.
+(17) OLLA FEW ds-(spots)-distr Figure
+‘There are a few spots [on the vase].’
+
+26
+
+DANNY DE WEERDT
+
+In utterance (17), the Ground (‘vase’) is retrieved from the context and the Figure is expressed by means of depicting sign that refer to the few spots on the vase. Both (16) and (17) have the order HEEFT/OLLA Figure.
+4.5 The omission of Ground and HEEFT/OLLA
+The omission of both the Ground and HEEFT/OLLA is also possible. An existential sentence can start with an adposition sign to mark the spatial relationship between Ground and Figure as shown in (18), below, for VGT.
+(18) NEXT-a PAINTING-a Figure
+‘There is a painting next [to the lamp].’
+In (18), the Ground (‘lamp’) is retrieved from the context and the sentence starts with an adposition sign NEXT-a followed by the Figure (‘painting’), which is produced in the place where the ‘next’ ended, i.e. the locus called a, resulting in the order adposition sign Figure.
+The Figure itself can also stand alone in an existential sentence, in which case the use of signing space is relatively important. In the next two examples, (19) for VGT and (20b) for FinSL, both Ground and HEEFT or OLLA are ommitted from the construction.
+(19) DRAWER-a DRAWER-b TWO Figure ‘There are drawers [on the stove].’
+In (19), the signer expresses the presence of two drawers on the stove by producing DRAWER-a DRAWER-b in two different loci, a and b, marking the specific locations of these drawers in relation to the stove (as Ground). This sentence appears after both interlocutors have provided descriptions of the mother standing in front of the stove. Once they think they have finished with the descriptions, one of the signers went on to utter this existential sentence.
+In the existential sentence in (20b), below, for FinSL, the signer expresses the presence of ‘tiles’ next to the hood of the stove and produces ‘tiles’ with both hands in two different loci called a and b.
+
+EXISTENTIAL SENTENCES IN VGT AND FINSL
+
+27
+
+(20) a. OLLA HOOD OLLA ds-(hood) […]
+
+b. TILE-a TILE-b Figure ‘There are tiles on the left and the right of the hood.’
+The loci a and b refer to the left and the right-hand sides of the hood respectively, and here the Ground is retrieved from the context (as shown in (20a)). This type of occurrence of simultaneity frequently appears in existential sentences and will be discussed in the next section.
+
+4.6 Depicting signs and simultaneity
+
+As mentioned earlier in this paper, part of the inherent nature of depicting signs is that they describe an event in a certain spatial location and thus also introduce the locational information of (new) referents into a discourse. Since there is an inherent relationship between location and existence (Lyons 1967; 1968), utterances without HEEFT and OLLA and with the Figure expressed by means of depicting signs also occur in the present data.
+Vermeerbergen et al. (2007) noted that manual simultaneity occurs in sign languages by using two hands simultaneously, each hand conveying different information. It can take the form of ‘full simultaneity’, when the two different lexical items are produced simultaneously. Alternatively, one hand may hold a sign’s position in the signing space while the other hand continues. For the latter, Vermeerbergen et al. (2007) noted the simultaneous production of classifiers, i.e. the handshape of depicting signs, as a way to express the relative location between actors in an event of motion. Each hand’s classifier handshape represents the actors.
+The existential sentences in (21) and (22) below, both for VGT, are examples in which depicting signs representing Ground and Figure are produced simultaneously to show the spatial relationship.
+
+(21) DH NDH
+
+nod
+
+TABLE BROWN / VASE ds-(vase-on-table)
+
+ds-(table) ---------
+
+Ground
+
+Figure
+
+‘There is a vase on the table.’
+
+28
+
+DANNY DE WEERDT
+
+The sentence in (21) starts with the Ground (‘brown table’), whose presence is already known, followed by a short break and a head nod to request confirmation from the interlocutor. Next come the Figure (‘vase’) and the simultaneous occurrence of two depicting signs in final position in the construction. The depicting sign produced with the dominant hand (DH) has the classifier handshape of a C-hand representing the Figure (‘vase’) and the non-dominant hand is a flat hand representing the Ground (‘table’). Interestingly, this simultaneous production is combined with mouthing /op/, which is equivalent to the Dutch ‘on’.
+In addition, as seen earlier in Example (11b), the sign depicting the Figure (‘vase’) is produced with a short downward movement and a final hold. Liddell (2003) claims that this movement is a lexically fixed aspect of depicting verbs which occurs frequently in American Sign Language, where the placement of the hand depicts the location. This movement with a final hold can be analysed as carrying the meaning of existence but implying location.
+In (22) below, also for VGT, we see another way of simultaneous production. Here the Ground (‘curvy river’) was produced with a depicting sign on the dominant hand in initial position. The presence of the river had already been discussed. This depicting sign remained configurated in the signing space, and the non-dominant hand went on to point to the exact location of the Figure. The depicting sign referring to ‘mountain’ was produced in the location where the pointing sign (IX-a(river-curve)) ended. Producing both depicting signs in space marks the spatial relationship between Ground and Figure. In contrast with Example (21), the depicting sign ds-(mountain) did not show a short movement with a final hold but depicted a mountain-like shape.
+
+(22) DH NDH
+
+ds-(river-curve) -------------------------------------------------
+
+IX-a(river-curve) WHITE ds-(mountain)-a
+
+Ground
+
+Figure
+
+‘There is a white mountain beyond the end of the river.’
+
+Another form of full simultaneity appearing in initial position in the sentence is shown in Example (23), below, for FinSL.
+
+EXISTENTIAL SENTENCES IN VGT AND FINSL
+
+29
+
+(23) DH NDH
+
+nod ds-(pot) / FISH ds-(fish-swimming-in-pot) ds-(pot) / -------------------------------------Ground Figure ‘There is a fish in the pot.’
+
+The Ground entity ‘pot’ in this sentence has been mentioned before and both signers know there is a person holding a pot filled with water. One of the interlocutors wishes to introduce a new referent, (‘fish’), which is present in the pot, by expressing the Ground (‘pot’) first; this is done by means of a two-handed depicting sign with two C-handshapes referring to the shape of the pot. The non-dominant hand, formed with a C-handshape, remains stationary, while ‘fish’ is produced by the dominant hand as the Figure. Taking final position in the construction, the depicting sign for ‘a fish swimming in the pot’ is produced right next to the non-dominant Chand to show the spatial relationship. The order here is Ground preceding Figure.
+Finally, an adposition can appear in both languages. An example for FinSL is given in (24), below.
+
+(24) DH NDH
+
+BEHIND-a BLACK ds-(mountain)-a BLACK ds-(mountain) ds-(bush)-b -----------------------------------------------------Ground Figure ‘There is a black mountain behind the bush.’
+
+This existential sentence (24) shows the simultaneous production of Ground and Figure with both expressed as depicting signs. As mentioned earlier, adposition signs appear rarely in FinSL, but this construction starts with the simultaneous production of the adposition sign ‘behind’ with the dominant hand and a depicting sign for ‘bush’ with the non-dominant hand. The bush, here functioning as the Ground, has been discussed earlier, and this depicting sign remains in the signing space till the end of the construction. Immediately following the dominant hand’s ‘behind’ comes the Figure, which occupies the rest of the construction: ‘black mountain’, produced in a particular space. These depicting signs and their simultaneous production are sufficient to mark the spatial relationship between Ground and Figure, but the adposition sign is apparently used for this purpose too.
+
+30
+
+DANNY DE WEERDT
+
+4.7 Summary
+
+The main findings on the similarities and differences between existential sentences in both VGT and FinSL are summarized in Table 4.
+
+Table 4. Main findings of the similarities and differences between existential sentences in VGT and FinSL
+
+Comparisons of existential sentences in VGT and FinSL
+
+Similarities
+
+Differences
+
+ Use of a certain verb, HEEFT/OLLA
+
+ Number of existential sentences with
+
+ Ground precedes Figure
+
+overt HEEFT/OLLA is higher in FinSL
+
+ HEEFT/OLLA can be omitted
+
+than in VGT
+
+ Ground can be omitted
+
+ Number of existential sentences with
+
+ Simultaneous occurrence of Ground and Figure
+
+the omission of HEEFT/OLLA is higher in VGT than FinSL
+
+ The use of signing space
+
+ VGT uses adposition signs more frequently than FinSL
+
+5 Discussion
+
+Until now, there has been no single in-depth research focusing solely on existential sentences in any sign language. This research aims to fill this gap by focusing on existential sentences in two sign languages: VGT and FinSL. This study will contribute significantly to the understanding of the interface between syntax and discourse in signed languages. The outcomes of this investigation will lead to new theory building about the syntax of both sign languages, which, by extension, will further our understanding not only of the typological status of signed languages but also of the typology of natural languages worldwide.
+This paper has presented a descriptive and comparative study of existential sentences in VGT and FinSL. An existential sentence is a sentence that is used to express the existence or presence of an object or person. This sentence type has the primary function of introducing a new, important referent within a discourse. This study aimed to gain some basic insights into the order of Figure and Ground in existential sentences in both these sign languages and into what differences and similarities there are between the sentences in the two languages.
+The analysis showed that existential sentences in both sign languages can be grouped according to whether the sentence is formed around the sign HEEFT for VGT and OLLA for FinSL or without them; both these signs
+
+EXISTENTIAL SENTENCES IN VGT AND FINSL
+
+31
+
+carry the meaning of ‘have’. The reason for this kind of grouping is that most studies show that existential sentences use one specific verb in this sentence type (e.g. Clark 1978, Kristoffersen 2003). This is not always the case in the data in this study, which has produced several noteworthy results.
+To start with, a quantitative approach to the data in this study shows a difference in the numbers of existential sentences in the two sign languages. In FinSL, 38 out of 51 existential sentences were formed around the existential sign OLLA. In 13 sentences this sign was omitted. In VGT, only 14 out of 40 existential sentences were formed around the sign HEEFT and in 26 sentences the verb was not explicitly expressed.
+By viewing existential sentences as a functional domain within the context of cross-language typology, this study has shown that existential sentences in both sign languages can be encoded in different syntactic structures. This means that, for example, besides the signs HEEFT and OLLA, the Ground can also be omitted from the construction. Adposition signs can have an important function, and simultaneity and the use of space are other important mechanisms used to express existence or presence in both sign languages.
+Existential sentences in VGT and FinSL both invariably have the order Ground preceding Figure, regardless of whether the sentence is formed around HEEFT/OLLA or not. This order resembles the most common pattern found in typological studies into spoken languages (Clark 1978; Freeze 1992) as well as in Danish Sign Language (Kristoffersen 2003).
+In existential sentences that are formed around the signs HEEFT/OLLA in both sign languages, Ground mainly takes initial position in the construction, followed by HEEFT/OLLA, with Figure appearing in final position: Ground HEEFT/OLLA Figure. Adposition signs, which mark the spatial relationship between Ground and Figure, can appear in existential sentences in both languages, though the number is higher in VGT than in FinSL. Adposition signs are mainly placed immediately after the Ground.
+The order in existential sentences that are not formed around HEEFT/OLLA is Ground preceding Figure in both sign languages. VGT typically shows structures with the Ground in sentence-initial position and produced nonmanually with a short, quick head nod. This is followed by a short break while the signer waits for confirmation from the interlocutor that they both know what they are talking about. An adposition sign produced in a specific location in the signing space and then the Figure complete the sentence. No such structure was found in FinSL. However
+
+32
+
+DANNY DE WEERDT
+
+there are sentences with the omission of OLLA, though fewer in number, which use different mechanisms, i.e., the use of depicting signs. This type of structure, with the omission of HEEFT/OLLA, contrasts with previous research that mentions the use of a specific verb. Additionally, the studies on spoken languages presented in §2 do not take into account the possibility of the omission of the Ground from existential sentences. As this study proceeds from function to form, it stands in contrast to Kristoffersen’s (2003) study, as she starts from the form, i.e. sentences that include the verb EXISTENTIAL.
+As was found in Kristoffersen’s (2003) study of Danish Sign Language, the Ground can be omitted from the construction when it can be retrieved from the context. In addition, Jantunen (2013; 2016) states that thematic elements are constantly omitted in FinSL. This also links well with Talmy’s (2000) theory of windowing of attention, where parts of sentences are either foregrounded, to draw attention to them (windowing), or backgrounded, by omitting parts (gapping) from the construction when the meaning of the missing parts can be retrieved from the context. In such cases, both languages show the use of either an adposition sign in initial position followed by HEEFT/OLLA and the Figure, or just HEEFT/OLLA followed by the Figure. The higher appearance of adposition signs in the VGT data can perhaps be ascribed to language contact, on the one hand between VGT and Dutch, and on the other hand between FinSL and Finnish, as a natural phenomenon between languages which are used in the same community. Spoken Dutch has prepositions while spoken Finnish has postpositions. Although FinSL does use adposition signs in natural conversations, more investigation is needed to understand the use of such signs in both FinSL and VGT. The use of an elicitation task in this study may have affected the amount of use of adposition signs in both languages.
+Where structures do show the omission of both Ground and HEEFT/OLLA, the use of space is very important. In VGT, the sentence can start with an adposition sign followed by the Figure as long as both are produced at a place in the signing space that marks the specific location of the Figure in relation to the Ground, which is then retrieved from the context. FinSL did not produce any examples with adposition signs but, as in VGT, in FinSL the Figure can stand alone in the construction when it is produced at a certain locus in the signing space in relation to the Ground that will be retrieved from the context. In contrast with Kristoffersen’s (2003) study, no examples were found where the Figure is omitted from the sentence.
+
+EXISTENTIAL SENTENCES IN VGT AND FINSL
+
+33
+
+Finally, sign language-specific, or modality-specific, mechanisms appear frequently in the data with simultaneity and depicting signs. Depicting signs are produced immediately after the Figure to mark the spatial relationship, and the classifier handshape denotes the salient properties of the entity that is the Figure. This type of sign does appear frequently in simultaneous productions of Ground and Figure, following various patterns. Sometimes the Ground can be produced first, followed by the Figure and then the simultaneous production of two depicting signs, with the dominant hand referring to the Figure and the non-dominant hand to the Ground. At other times the dominant hand can produce the Ground with a depicting sign and then remain stationary in the signing space, followed by a depicting sign denoting the Figure on the non-dominant hand. Finally, when the Ground is produced with a two-handed depicting sign in initial position, the non-dominant hand remains in the space followed by the Figure produced as a depicting sign marking its location in relation to the Ground. An adposition can also be used here to mark the spatial relationship.
+In order to fully understand the semantics and syntax of existential sentences in VGT and FinSL, more in-depth research is needed, for example into how the location of objects or persons that are hearer-new or hearer-old is expressed, as it is claimed that a different word order is used in each case. Also, existential sentences need to be investigated in relation to possessive sentences, as most studies (e.g. Clark 1978, Kristoffersen 2003) have shown that the word order in both sentence types is very similar. These studies also showed that existential, locative and possessive sentences are expressed by means of one verb. This is most probably not the case in VGT, as HEEFT is only used to express existence and possession (De Weerdt & Vermeerbergen 2008). Equally, BSL uses only one verb, HAVE, to express both existence and possession (Deuchar 1984) while BSL also has other signs to express existence (Hughes et. al 1984). Finally, the utterances in this study were elicited and textual; it will also be necessary to study isolated utterances, as these will provide basic understanding of the structure of existential sentences, and spontaneous expressions from corpus data. Indeed, researchers (e.g. Jantunen 2008) have shown that word order in isolated utterances can differ from word order in textual utterances.
+This study only focuses on concrete referents in elicited conversations and cannot generalize about existential sentences in either or both sign languages. However, on the basis of previous studies and the method used in this study, it is possible to say that existential sentences in both sign
+
+34
+
+DANNY DE WEERDT
+
+languages typically have the order of Ground preceding Figure and that Ground and the lexical signs HEEFT/OLLA can be omitted from the construction. The production of adposition signs, which appears more in VGT than in FinSL, could be a result of the elicitation task. Research on the presence and use of adposition signs is needed to understand their form and function. Adposition signs are, along with depicting signs and localized lexical signs, a way to mark the spatial relationship between Ground and Figure. More investigation is needed to understand the expressions of spatial relationship and the use of these markers in both VGT and FinSL. The influence of spoken Dutch and spoken Finnish on the use of adposition signs in VGT and FinSL respectively is another possible field for further investigation.
+6 Conclusion
+To conclude, this study shows syntactic variations in the expression of the function of existence or presence of an object or a person in VGT and FinSL. Existential sentences can be schematized as (Ground) (HEEFT) Figure for VGT and (Ground) (OLLA) Figure for FinSL. Both Ground and HEEFT/OLLA can be omitted from the construction in both sign languages, and the use of adposition signs may be important. In both languages Ground invariably precedes Figure. Due to the visual-manual modality of both sign languages, the use of space and simultaneity are also quite important.
+This study contributes to the field of sign language linguistics a better understanding of the form and function of existential sentences, taking into account their discursive functions. Despite the fact that both sign languages use the same visual-manual modality, this study also shows that both sign languages express the function of existence in more than one way and that there are differences between the two sign languages. The phenomenon of ellipsis occurs frequently in such sentence types when they appear in a discourse or when they are contextualized. As for language typology in general, this study also shows that existential sentences in VGT and FinSL have a similar structure to that found in most spoken languages around the world. However, this study has also shown that, due to sign languagespecific or modality-specific characteristics, sign languages also have other mechanisms to do with simultaneity or the use of the signing space.
+
+EXISTENTIAL SENTENCES IN VGT AND FINSL
+
+35
+
+Acknowledgements
+
+The author wishes to thank Tommi Jantunen, Ritva Takkinen and Myriam Vermeerbergen for reading and commenting on the various drafts of the manuscript. The author also wishes to thank the eight informants for their participation in this study. Special thanks are also due to the anonymous reviewers of the journal as well as to Eleanor Underwood for checking the English of the article.
+
+Notational conventions used for transcriptions
+
+HOUSE
+NEXT-a
+IX
+ds-(xxx) DH NDH DH ds-(cactus) NDH ds-(cactus) ONE pot ---------
+BROWN
+-distr ____ ___eg ___t ___nod ___ed / ///
+
+gloss in small capital letters representing a sign in VGT or FinSL -a refers to the locus in the signing space called a pointing sign depicting sign dominant hand non-dominant hand both signs are produced simultaneously
+simultaneity: final sign of dominant hand is hold in space distributed marking the nonmanual production during the sign(s) eye gaze topic marking head nod eyebrows down short pause long pause
+
+References
+
+Clark, Eve V. 1978. Locationals: existential, locative, and possessive constructions. In Greenberg, Joseph H. & Ferguson, Charles A. & Moravcsik, Edith A. (eds.), Universals of Human Language, vol. 4: Syntax, 85–126. Stanford: Stanford University Press.
+Creissels, Denis. 2014. Existential predication in typological perspective. (Paper presented on the Workshop Space, Time and Existence: Typological, cognitive
+
+36
+
+DANNY DE WEERDT
+
+and philosophical viewpoints. 46th Annual Meeting of the Societas Linguistica Europaea, Split, Croatia, 18–21 September 2013.) (http://www.deniscreissels.fr/public/Creissels-Exist.Pred.pdf) (accessed 2016-03-18.) De Weerdt, Danny. 2008. Expressing existence in Flemish Sign Language. Jyväskylä: University of Jyväskylä. (Master thesis.) De Weerdt, Danny & Takkinen, Ritva. 2006. Different ways of expressing existence in Finnish Sign Language and Flemish Sign Language. (Presentation at the Sign Language Typology Workshop on Cross-Linguistic Research and Internal Cooperation in Sign Language Linguistics, Nijmegen, The Netherlands, January 10, 2006.) De Weerdt, Danny & Vermeerbergen, Myriam. 2008. Observations on possessive and existential constructions in Flemish Sign Language. In Zeshan, Ulrike & Perniss, Pamela (eds.), Possessive and existential constructions in sign languages, 195– 212. Sign Language Typology Series No. 2. Nijmegen: Ishara Press. Deuchar, Margaret. 1984. British Sign Language. London: Routledge. Dryer, Matthew S. 2001. What is Basic Linguistic Theory? (http://linguistics.buffalo.edu/people/faculty/dryer/dryer/blt) (Accessed 2016-03-18.) —— 2006. Descriptive theories, explanatory theories, and Basic Linguistic Theory. In Ameka, Felix & Dench, Alan & Evans, Nicholas (eds.), Catching language: Issues in rammar writing, 207–234. Berlin: Mouton de Gruyter. Engberg-Pedersen, Elisabeth. 1993. Space in Danish Sign Language. Hamburg: Signum-Verlag. Francez, Itamar. 2007. Existential propositions. Stanford: Stanford University. (Doctoral dissertation.) Freeze, Ray. 1992. Existentials and other locatives. Language 68. 553–595. Givón, Talmy. 1981. Typology and functional domains. Studies in Language 52. 163– 193. —— 2001a. Syntax, vol. 1. Amsterdam: John Benjamins. —— 2001b. Syntax, vol. 2. Amsterdam: John Benjamins. Heine, Bernd. 1997. Possession: Cognitive sources, forces, and grammaticalization. Cambridge: Cambridge University Press. Hughes, Gerry & Colville, Martin & Brennan, Mary. 1984. Talking about ‘existence’ in British Sign Language (BSL). In Loncke, Filip & Boyes Braem, Penny & Lebrun, Yvan (eds.), Recent research on European sign languages, 5–18. Lisse: Swets & Zeitlingen. Jantunen, Tommi. 2008. Tavu ja lause. Tutkimuksia kahden sekventiaalisen perusyksikön olemuksesta suomalaisessa viittomakielessä [Syllable and sentence: Studies on the nature of two sequential basic units in FinSL]. Jyväskylä: University of Jyväskylä. (Doctoral dissertation.) —— 2013. Ellipsis in Finnish Sign Language. Nordic Journal of Linguistics 36(3). 303–332. —— 2016. Clausal coordination in Finnish Sign Language. Studies in Language 40(1). 204–234. Kristoffersen, Jette H. 2003. Existence, location and possession and the order of constituents in Danish Sign language. In Baker, Anne & van den Bogaerde,
+
+EXISTENTIAL SENTENCES IN VGT AND FINSL
+
+37
+
+Beppie & Crasborn, Onno (eds.), Cross-linguistic perspectives in sign language research: Selected Papers from TISLR 2000, 131–139. Hamburg: Signum Verlag. Liddell, Scott. 2003. Grammar, Gesture, and Meaning in American Sign Language. Cambridge: Cambridge University Press. Lyons, John. 1967. A note on possessive, existential and locative sentences. Foundations of Language 3. 390–396. —— 1968. Introduction in theoretical linguistics. Cambridge: Cambridge University Press. McNally, Louise 2011. Existential sentences. In von Heusinger, Klaus & Maienborn, Claudia & Portner, Paul (eds.), Semantics: an international handbook of natural language meaning, Vol. 2. 1829–1848. Berlin: Mouton de Gruyter. Mittelberg, Irene. 2013. The Exbodied Mind: Cognitive-Semiotic Principles as Motivating Forces in Gesture. In Müller, Cornelia & Cienki, Alan & Fricke, Ellen & Ladewig, Silva & McNeill, David & Tessendorf, Sedinha (eds.), Body – Language – Communication: An International Handbook on Multimodality in Human Interaction. Handbooks of Linguistics and Communication Science (38.1). 755–784. Berlin: Mouton de Gruyter. Pfau, Roland & Quer, Josep. 2010. Nonmanuals: their grammatical and prosodic roles. In Brentari, Diane (ed.), Sign languages: a Cambridge language survey, 381–402. Cambridge: Cambridge University Press. Pichler, Chen & Schalber, Katharina & Hochgesang, Julie & Milković, Marina & Wilbur, Ronnie B. & Vulje, Martina & Pribanić, Ljubica. 2008. Possession and existence in three sign languages. In Müller de Quadros, Ronice (ed.), Sign languages: spinning and unraveling the past, present, and future from TISLR9, 440–458. Petropolis: Editorar Arara Azul. Schembri, Adam. 2003. Rethinking ‘classifiers’ in signed languages. In Emmorey, Karen (ed.), Perspectives on classifier constructions in sign languages, 3–34. London: Lawrence Erlbraum Associates. Takkinen, Ritva. 2008. Kuvailevat verbit suomalaisessa viittomakielessä [Depicting verbs in Finnish Sign Language]. Puhe ja kieli 28(1). 17–40. Talmy, Leonard. 2000. Toward a cognitive semantics. Volume 1: Concept structuring system. Cambridge, MA: MIT Press. Vermeerbergen, Myriam. 1996. ROOD KOOL TIEN PERSOON IN. Morfosyntactische aspecten van gebarentaal [RED CABBAGE TEN PERSON IN. Morpho-syntacic aspects of sign language]. Brussels: Free University of Brussels. (Doctoral dissertation.) Vermeerbergen, Myriam & Leeson, Lorraine & Crasborn, Onno (eds.). 2007. Simultaneity in sign languages: Form and function. Amsterdam: John Benjamins. Wang, Yong & Xu, Jie. 2013. A systemic typology of existential and possessive constructions. Functions of Language 20(1). 1–30. Zeshan, Ulrike & Perniss, Pamela (eds.). 2008. Possessive and existential constructions in sign languages. Sign Language Typology Series No. 2. Nijmegen: Ishara Press.
+
+38
+
+DANNY DE WEERDT
+
+Contact information:
+Danny De Weerdt Finnish Sign Language Department of Languages P.O. BOX 35 (F) 40014 University of Jyväskylä Finland e-mail: danny(dot)deweerdt(at)jyu(dot)fi
+

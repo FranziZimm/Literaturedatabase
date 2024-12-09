@@ -1,0 +1,458 @@
+LANGUAGE AND THE
+CREATIVE MIND
+edited i?Y MIKE BORKENT, BARBARA DANCYGIER,
+and JENNIFER HINNELL
+�CSLI
+PUBLICATIONS Center for the Study of
+Language and Information Stanford, California
+
+Copyright © 2013
+CSLI Publications Center for the Study of Language and Information
+Leland Stanford Junior University Printed in the United States 17 16 15 14 13 1 2 3 4 5
+( ) ISBN 978-1-57586-671-0 cloth: alk. paper ISBN 978-1-57586-670-3 (pbk. : alk. paper) ISBN 978-1-57586-672-7 (electronic)
+00 The acid-free paper used in this book meets the minimum requirements of the American National Standard for Information Sciences-Permanence
+of Paper for Printed Library Materials, ANSI Z39.48-1984.
+eSLI was founded in 1983 by researchers from Stanford University, SRI
+International, and Xerox PARe to further the research and development of integrated theories of language, information, and computation. eSLI headquarters
+and eSLI Publications are located on the campus of Stanford University. eSLI Publications reports new developments in the study of language, information, and computation. Please visit our web site at
+http://cslipublications.stanford.ed u/
+for comments on this and other titles, as well as for changes and corrections by the author and publisher.
+
+Contents
+
+Acknowledgments
+
+viii
+
+Contributors
+
+ix
+
+'Language and the Creative Mind': New Directions in Cognitive
+
+Linguistics
+
+xiii
+
+MIKE BORKENT, BARBARA DANCYGIER, AND JENNIFER HINNELL
+
+Creativity versus Conventionality
+
+1 Development of Metaphorical Thinking: The Role of Language 3 DANIEL CASASANTO
+
+2 Conventional but Not Dead: The Role of Metaphorically-
+
+Based Connections in the On-Line Processing of Prepositional
+
+Meaning
+
+19
+
+MICHELE 1. FEIST AND BROOKE O. BREAUX
+
+3 Creativity and the Sensorimotor Grounding of Mathematics
+
+37
+
+BODO WINTER AND TEENIE MATLOCK
+
+4 How Creativity Strains Conventionality in the Use of
+
+Idiomatic Expressions
+
+49
+
+PATRICK J. DUFFLEY
+
+Constructions and Frames
+
+5 The Indefinite Article in Complex Quantifiers
+
+65
+
+RONALD W. LANGACKER
+
+6 'Leap' or 'Continuum'?: Grammaticalization Pathways from
+
+Conjunctions to Sentence-Final Particles
+
+83
+
+MITSUKO NARlTA IZUTSU AND KATSUNOBU IZUTSU
+
+v
+
+vi ! CONTENTS
+
+7 Negative Affect Conditionality in Korean -taka
+
+101
+
+JrsupHONG
+
+8 Favorable and Unfavorable Effects: A Typology of Benefactive and Adversative Constructions in Japanese, Korean, and Ainu 119 KATSUNOBU IZUTSU AND TAKESHI KOGUMA
+
+9 A Multi-Frame Analysis of Separation Verbs
+
+137
+
+SEIKO FUJII, PAULA RADETZKY, AND EVE SWEETSER
+
+Creativity and Discourse
+
+10 Creative Reading, World, and Style in Ben Jonson's 'To Celia' 157 PETER STOCKWELL
+
+11 What is Literary 'Atmosphere'? The Role of Fictive Motion
+
+in Understanding Ambience in Fiction
+
+173
+
+MARK DEGGAN
+
+12 Motion Metaphors in Political Races
+
+193
+
+TEENIE MATLOCK
+
+13 Think ofit as: Spacebuilders and Grounding in Public
+
+Science Discourse
+
+203
+
+CAROL LYNN MODER
+
+14 Conceptual Blending in Allegorical Political Rhetoric: Creativity in Managalase (Papua New Guinea) Oral Tradition 219 WILLIAM H. MCKELLIN
+
+Viewpoint, Language, and the Body
+
+15 Creativity Across Modalities in Viewpoint Construction
+
+239
+
+EVE SWEETSER
+
+16 Multimodal Construction Grammar
+
+255
+
+FRANCIS STEEN AND MARK TURNER
+
+17 Thinking with the Body: Conceptual Integration through
+
+Gesture in Multi-Viewpoint Model Construction
+
+275
+
+DAVID DELrEMA AND FRANCIS STEEN
+
+18 Metaphors for Sensorimotor Experiences: Gestures as
+
+Embodied and Dynamic Conceptualizations of Balance in
+
+Dance Lessons
+
+295
+
+CORNELIA MOLLER AND SILVA H. LADEWIG
+
+CONTENTS / vii
+
+19 Balancing Acts: Image Schemas and Force Dynamics as
+
+Experiential Essence in Pictures by Paul Klee and their
+
+Gestural Enactments
+
+325
+
+IRENE MITTELBERG
+
+20 Where Do Cognitive Biases Fit Into Cognitive Linguistics?
+
+An Example from the 'Curse of Knowledge'
+
+347
+
+VERA TOBIN
+
+Sound, Image, and Communicative Modalities
+
+21 Wiggle Room: How Gestural Parameters Affect Singer and
+
+Audience Cognition in Art Song Performance
+
+367
+
+RENA SHARON, LAUREL FAIS, AND ERIC VATIKIOTIs-BATESON
+
+22 Iconic Pitch Expresses Vertical Space
+
+393
+
+NATHANIEL CLARK, MARCUS PERLMAN, AND MARLENE
+
+JOHANSSON FALCK
+
+23 Convergence in Music and Language Syntactic
+
+Representations
+
+411
+
+CHRISTINA GALEANO
+
+24 Elastic Anchors for Imaginative Conceptual Blends: A
+
+Framework for Analyzing Animated Computer Interfaces
+
+427
+
+KENNY K. N. CHOW AND D. Fox HARRELL
+
+324 / MOLLER AND LADEWIG
+Wilcox, Shennan. 2007 . Routes from gesture to language. In Pizzuto, Elena, Paola Pietrandrea and Simone Raffaele (eds), Verbal and signed languages: Compar­ ing structures, constructs and methodologies . Berlin! New York: Mouton de Gruyter: 1 07-l3l .
+Wilson, Nicole L. and Raymond W. Gibbs. 2007 . Real and Imagined Body Move­ ment Primes Metaphor Comprehension. Cognitive Science 3 1 : 721-73 1 .
+Wittenburg, Peter, Hennie Brugman, Albert Russel, Alex Klassmann and Han Slo­ etjes. 2006. ELAN: a Professional Framework for Multimodality Research. Proceedings ofLREC 2006, 5th International Conference on Language Re­ source and Evaluation. URL: http://www.mpi .nl/people/wittenburg­ peter/publications .
+Wundt, Wilhelm . 1 900- 1 920 . Vdlkerpsychologie: Eine Untersuchung der Entwick­ lungsgesetze von Sprache, Mythus und Sitte. Erster und Zweiter Band. Die Sprache. Leipzig: Engelmann.
+Zanotto, Mara S ., Lynne Cameron and Marilda C. Cavalcanti . 2008. Confronting Metaphor in Use. An applied linguistic approach . Amsterdam! Philadelphia: John Benjamins.
+
+19
+Balancing Acts: Image Schemas and Force Dynamics as Experiential Essence in Pictures by Paul Klee and their Gestural Enactments
+IRENE MITTELBERG
+1 Movement and Balance in Artworks and Gesture
+Our sense of balance is essential to functioning in the world. Entrenched through bodily interactions with the environment-such as moving on une­ ven grounds or being exposed to physical forces-it enables us to perceive (im)balance in various physical and cultural domains of experience. These include life balance, physical and emotional well-being, power relations, ecological systems, but also arguments, models, and mathematical equa­ tions (Johnson 1987: 74ff.). Balance is an integral part of what Gallagher (2005) subsumes under the notion of body schema, which posits tactile and sensorimotor capacities as central to the physical, social and cognitive be­ ing-in-the-world of a unified body and mind. The upright and stable posture of the torso or full body is a precondition for many basic physical activities: e.g. standing, sitting, walking, riding a bike, and performing coordinated manual actions such as eating, writing, drawing, or playing an instrument.
+More artful bodily balancing acts comprise dance and certain kinds of acrobatic performances (examples of which are captured in the pictures discussed below). 50 naturally balance is also a constitutive aspect of aes­ thetics regarding both nature and culture (Amheim 1974; 5tebbing and
+Language and the Creative Mind.
+Mike Borkent, Barbara Dancygier, and Jennifer Hinnell (eds). Copyright © 2013, CSLI Publications.
+325
+
+326 / IRENE MITTELBERG
+Heim 2011). It influences the way we experience topographic gestalts such as landscapes or architectural space, as well as works of fine art such as music, drawings, paintings, or sculptures. One is usually able to tell, for instance, whether a given statue or pictorial composition is well-balanced or not, regardless of its being highly referential or highly abstract. What is decisive here is a perceived (un)equal distribution of physical forces and weight (Johnson 1987). In ancient cultures, too, balance and proportion be­ long to the universal organizing principles of aesthetic composition (Conkey and Hastorf 1990). Recent neuroscience studies examining the role of edges, contrasts, lines, and contours in human object recognition indicate that balance, for example symmetry, in visual stimuli evokes neural activa­ tion in higher visual processing areas, leading to what and where paths in the brain (van der Helm and Treder 2009). In light of these observations, the goal of this paper is to offer multimodal evidence for the idea that the em­ bodied image schema BALANCE, as originally proposed by cognitive lin­ guists (e.g. Johnson 1987; Lakoff 1987; Lakoff and Johnson 1999; Talmy 1988), can be assumed to constitute, together with other basic schemas, the bodily and conceptual basis for the broad range of experiential domains and their metaphorical elaborations, in which balance is of central significance.l
+Exploring the structuring functions of image schemas, it will be argued that depictions in both paintings and 'descriptive gestures, those forerunners of line drawing' (Arnheim 1969: 117), compel their interpreters to relate to the bodily postures and actions performed in front of them in ways that seem to be pre-structured by internalized patterns of cognitive, physical and cultural experience. In the moment of contemplation, one's own sense of balance may align and resonate, or not, with a pictorial composition due to sensorial responses feeding into embodied processes of association and meaning-making (Friedberg and Gallese 2007; Gibbs 2006). Movement and its significance for our understanding of ourselves, others, and cultural arti­ facts take center stage here (De Preester 2013; Foolen et al. 2012; Johnson 2007). Drawing on Krois' (2011: 273ff.) insights into the connection be­ tween embodiment and enactivism in the visual arts, the intent is to demon­ strate how pragmatic links between physical action, social interaction and communicative behavior may create strong embodied correlations, which in tum have the capacity to dissolve the distinction between active movement and still images (Varela, Thompson and Rosch 1991). Among the art histo-
+I See Johnson ( 1987: 75; italics in the original): '... the meaning of balance begins to emerge through our acts of balancing and through our experience of systemic processes and states within our bodies. I shall argue that the meaning of balance is tied to such experiences and, in particular, to the image-schematic structures that make those experiences and activities coher­ ent and significant for us'.
+
+BALANCING ACTS / 327
+rians and philosophers who, as Krois, integrate embodied cognition into their theory of the image, Bredekamp's (2010) conception of 'picture acts' succinctly captures the practical, cognitive and affective dimensions of what pictures do and what onlookers do with pictures (see also Brandt 2006). The participants of the present study do something with pictures in that they carefully observe and describe them multimodally, employing words, ges­ tures, and their entire body, often fully reenacting the postures and actions of the figures portrayed in the pictures.
+Due to limits of space, this paper cannot provide a comprehensive over­ view of the current discussions in the various scholarly fields that interlace here. Nor can the analyses offered below do justice to the noteworthy his­ torical and theoretical aspects of the fine artworks at hand. Focusing on the idea of balance and related schemas, it will be suggested that by analyzing corporeal descriptions of visual art we may find further support for Krois' (2011: 218) thesis that images are not simply visual, but transmodal phe­ nomena. The paper evolves as follows: after laying out the theoretical foun­ dation, image-schema analyses of three artworks by Paul Klee are provided and related to video and motion data recordings of participants describing the same artworks inside a motion capture lab. Among the strategies used in the multimodal descriptions, aspects of balance, full-body enactments, and viewpoint are of particular interest. Overall, this paper aims to offer glimpses at 'felt qualities' of meaning (Johnson 2005: 31), hoping to shed light on people's cross-modal understanding of artworks, that is, 'exemplary cases of embodied, immanent meaning' (Johnson 2007: 234).2
+2 Image Schemas and Force Dynamics in Gesture and Art
+The guiding assumption of this paper is that image-schematic and force­ dynamic structures may motivate not only the compositional structure of artworks, but also underpin cognitive, physical, emotional and communica­ tive responses on the side of the beholder. Before delving into the analyses, a brief overview of previous work on images schemas and force gestalts in multimodal communication is provided.
+2.1 Cross-modal Conceptualization through Image and Force Schemas
+Embodied image and force schemas are central to experiential accounts of meaning. In light of Johnson's (1987: xiv) definition of image schemas as 'recurring, dynamic patterns of our perceptual interactions and motor pro­ grams that give coherence and structure to our experience', we can expect
+2 For cognitive approaches to visual art see also Brandt (2006); Bundgaard (2009); Krois et al. (2007); Lakoff (2006); Sonesson (2007); and Turner (2006).
+
+328 / IRENE MITTELBERG
+gestures and artworks to provide additional evidence for their 'semiotic reality' (Danaher 1998: 190). The PATH schema is an example of a perva­ sive image schema,consisting of a beginning (SOURCE), a vector constitut­ ing a PATH, and an end point (GOAL). It gets instantiated, for instance, by traveling from A to B, walking up a winding staircase, a bridge connecting two river shores, or by the timeline of a project (Johnson 2007: 136).
+In addition to recent work on image schemas in language (e.g. Hampe 2005),there is a growing literature on the functions such patterns perform in other semiotic systems and multimodal communication (e.g. Forceville and Jeulink 20 1 1; Turner 2006). Gesture research, for instance,could show that communicative body posture and movements may indeed reflect a range of basic schemas such as PATH, OBJECT, CONTAINER, LINK, BALANCE, CYCLE, STRAIGHT, CENTER-PERIPHERY, and FORCE (e.g. Cienki 1998a!b,2005,2012; Ladewig 201 1; Mittelberg 2006, 20 1Ob; Zlatev 2005). Given the visuo­ spatial mediality of gestures, spatial-relations schemas (Lakoff and Johnson 1999) are of particular interest for our purposes. Providing means to project conceptual structure into gesture space, they may underpin systematic, often metaphoric, uses of its different segments to reify discourse items or high­ light relations between ideas, locations, or moments in time (e.g. LEFT/RIGHT; CENTER/PERIPHERY; FRONT/BACK UP/DOWN; e.g. Calbris 2003; Evola 20 10; Mittelberg 20 l 0b; Nufiez and Sweetser 2006; Sweetser 1998).
+Regardless of the medium in which they materialize,image schemas are assumed to be dynamic,multimodal conceptual gestalts that drive concep­ tualizations and construal operations, but do not necessarily get fully instan­ tiated. In gesture, salient qualities of a posture, hand configuration or an ephemeral line drawing sketched in the air also tend to lend only minimal support to the evocation of the entire schemas. However, due to their own embodied experience with physical actions, tactile explorations of the world, and a broad range of semiotic processes, interlocutors are able to infer sensorimotor, haptic, pragmatic, as well as cognitive entailments.3 These may trigger multimodal associations guided by,for instance,frames (Fillmore 1982), metonymy (Mittelberg 2006, 2013), and/or metaphor (e.g. Cienki and Muller 2008; Mittelberg and Waugh 2009; Muller 2008; Parrill and Sweetser 2004).
+Force-dynamics also play an important role in structuring our physical and cognitive experience (Talmy 1988,2000). Though we are not necessari­ ly consciously aware that 'our bodies are clusters of forces and that every event of which we are a part consists, minimally, of forces in interaction'
+3 These observations align with Popova's (2005) suggestion to examine in more depth the cross-modal nature of image schemas; see also Johnson (2007: 136ff.).
+
+BALANCING ACTS / 329
+(Johnson 1987: 42; italics in the original). Basic experiences include exert­ ing force on objects or people, e.g. by pulling or pushing, and forces felt on one's own body such as GRAVITY, BLOCKAGE, or REPULSION. Through imi­ tating actions using manual gestures or their entire bodies, speakers can easily (re)enact physical activities such as walking against the wind, carry­ ing heavy items, or, as we will see below, staying balanced on a tightrope (Mittelberg 2010, 2013). Metaphorical extensions of force gestalts may not only mediate the feeling of social pressure and emotional burden, but also guide, as the present study exemplifies, our perception and interpretation of visual art (Johnson 1987, 2005).
+2.2 The BALANCE Schema in Acts of Perception and Expression
+The BALANCE schema situates itself at the juncture of image schemas and force dynamics. It belongs, as pointed out in the introduction to this paper, to the elementary structures that 'operate in our bodily movements, percep­ tual acts and orientational awareness' (Johnson 1987: 75). In its most basic sense, balancing is a bodily activity 'that requires an ordering of forces and weights relative to some point, axis or plane' (ibid., 98-9). In order to stand and walk without falling, humans need to learn how to balance themselves around their vertical axis and to sustain an upright posture. Anchored in the speaker' s body, gestures are intimately linked to body balance and the relat­ ed metaphorical projections, for example using both hands as though one were weighing ideas (McNeil11992).
+As for visual perception, Amheim (1954) revealed a 'structural skele­ ton' (Figure 1 below) underlying the dynamic forces that allow us to sense (im)balance in arrangements of abstract figures and other elements in visual configurations. This hidden structure is assumed to support our grasp of the distribution of weight and force vectors within an image.
+.. ..
+
+FIGURE 1. Balance pattern (Arnheim 1954: 13)
+
+FIGURE 2. Axis balance (Johnson 1987: 86)
+
+330 / IRENE MITTELBERG
+Based on analyses of masks, statues and paintings, Johnson concluded that the prototypical axis BALANCE schema (see Figure 2) functions as the pri­ mary schema, that is, the structural core of all its variants and elaborations. Crucial for our purposes is the insight that '[b]alance in visual perception already involves a metaphorical projection of schematic structure from the realm of physical and gravitational forces and weights to a domain of visual forces and weight in "visual space'" (99; italics in the original). By the same token, art appreciation involves active perception; balance or imbal­ ance is something we may sense and not something residing within the pic­ ture itself (e.g. differences in weight emanating from particular colors).
+According to Lakoff (2006: 154), 'image schemas [... ] give form to art': our embodied, enacting mind imposes image schemas onto a visual scene or other kinds of multimodal streams of sensory information. In this way, orientational and spatial relations, as well as motor control schemas are assumed to link perceptual to conceptual structure, and form to mean­ ing. As Krois (20 1 1: 222f.) pointed out, image schemas can be considered as a specific kind of logic of visual images, contributing to their transmodal functions (see also Krois et al. 2007). These theoretical aspects will now be explored through analyzing specific instances of visual artworks and bodily performances.
+3 Enacting Embodied Structure: BALANCE in Three Klee Pictures and their Multimodal Descriptions
+At first sight, the visuo-spatial modalities of interest here appear quite dif­ ferent: carefully composed, static and silent two-dimensional paintings are related to spontaneously performed, ephemeral three-dimensional coverbal gestures. However, from a performance point of view, paintbrush strokes and line drawings are, just like gestural movements, manual practices of meaningful expression (Arnheim 1969; Taylor et al. 2012). Accordingly, they share a number of properties, especially regarding techniques of sign creation (Miiller 1998) and the cognitively and culturally prestructured na­ ture of picture and gesture spaces. Since semiotic representation tends to be partial, abstracting salient elements from a witnessed or imagined scene, or some other complex sensorial experience, is central to expression in both media. For bodily semiotics, metonymy has been shown to be a key princi­ ple in indexically anchored ad hoc expressions of both content and felt qualities of meaning (Johnson 2005; Mittelberg 2006, 2010a, 20 13; Mittel­ berg and Waugh 2009). Abstraction and metonymy are intimately linked to viewpoint, a focus of the analyses presented in this section: subjective (se­ lective) portrayals can be done from several different perspectives such as
+
+BALANCING ACTS / 33 1
+character or observer viewpoint (McNeill 1992). Speakers have been ob­ served to shift viewpoints on a given scene or to signal several of them with different articulators simultaneously (e.g. hands, eye-gaze, torso; Stec 2013; Sweetser 2012).4 According to the present view, the different modes and degrees of abstraction and iconicity in both gesture and visual art necessari­ ly draw on (parts of) image schemas and force gestalts. These internalized structures may serve as schematic blueprints and trigger visceral impulses and imaginative elaborations when we construe, verbalize and physically (re)enact essential qualities of experience.5
+For the present purpose, the focus will be on descriptive gestures, which may evoke not only concrete objects (such as pictures), but also mental im­ agery and conceptual structures. Importantly, the three Klee pictures were selected such as to allow a high degree of alignment between image and beholder: In all three pictures, human-like figures take center stage, trying to stay balanced in one way or another, while seemingly moving and/or being exposed to different kinds of physical forces. Likewise, the study par­ ticipants occupy the center of their personal gesture spaces and engage their full bodies when describing and elaborating their perceptual experience of the artworks.
+To closely study communicative performances involving natural, bodily media (e.g. spoken or signed discourse, gesture, head movements, body posture, dance, etc.) the use of technical media like audio and video record­ ings is a necessary prerequisite (see also MUller, this volume). In order to see to what extent co-speech gestures produced in mid-air are comparable to drawings captured on paper or canvas, the multimodal descriptions elicited for this study were not only filmed, but the speakers' hand motions were also tracked with a full-body optical motion capture system. Through visu­ alizing otherwise invisible movement traces, this technology allows us to not only create three-dimensional images of gestural excursions through space, but to also map how they evolve through time.
+Three American English native speakers (two females, one male) partic­ ipated in the study. For 60 seconds at a time, each painting was projected on a screen in front of them, without disclosing the title. Afterwards, the partic­ ipants were asked to describe each painting from memory to the interview­ er, first focusing on formal aspects (such as composition, colors, figures,
+4 For recent work on viewpoint in sign, gesture, speech and written texts, see Dancygier and Sweetser (2012). For a comparative study of abstraction, metonymy and viewpoint in gesture and Cubist paintings, see Mittelberg (2006, 2011). 5 In his account of a mental architecture for perception, Brandt (2006) proposes a neuro­ semantic economy of art perception combining aesthetic and pragmatic registers.
+
+332 / IRENE MITET LBERG
+objects, etc.), then on semantic, emotional and aesthetic qualities. Each of the subsections below is dedicated to one of the pictures and will proceed from a brief description of the image to an analysis of the principal underly­ ing image-schematic and force-schematic structures. Then, examples from the video and motion-capture data will highlight some of the most interest­ ing multimodal strategies employed by the participants. As stated earlier, comprehensive interpretations of the pictures cannot be provided here. For the moment, we will focus on iconic and structural aspects; deeper strata of meaning will have to await ensuing work.
+3.1 Angelus Novus (1920)
+Among Paul Klee's ( 1879-1940) numerous portrayals of angels, the Ange­ lus Novus (Figure 3) is probably the best known (Zentrum Paul Klee 2012). Also referred to as the Angel of history, the picture was in the possession of Walter Benjamin for several years. In the center of the pictorial space we see a figure combining features of a human being, a bird, an angel, and per­ haps other creatures. The background does not show any particular ele­ ments, except that the beige color behind the figure turns into shades of orange and brown closer to the edges of the image. The transparent looking creature, identified by the title as an angel, is holding up its upper forelimbs vertically on both sides of the body. Its wings, which resemble human arms and hands, seem to help him stay in place, as if to counteract wind or resist some other physical forces seemingly acting on it. Its wide-open, sideward looking eyes seem to be attending to something with worry. While its eye­ gaze appears to be directed to its left, neither the figure's head nor its body is turned that way. The feet do not seem to be set on the ground with equal stability: most of the body's weight is resting on the stronger looking left leg, while the right foot is placed slightly forward and outward.
+An image-schema and force-dynamic analysis reveals the following un­ derpinning structures. The figure situated in the CENTER of the image space is clearly the focus, with some shading applied in the PERIPHERY. By hold­ ing up both wings (RIGHT-LEFT), the body is kept in a state of BALANCE. Through holding its right foot steadily down on the ground and shifting most of its weight onto it (GRAVITY), the angel appears prepared to fend off something with its raised left wing (up; BLOCKAGE) which appears bigger, stronger and thus more salient than its right counterpart. Its entire posture signals readiness to block anything that might come towards it (BLOCKAGE; TOWARDS/AWAY FROM). This could also metaphorically signal some sort of inner REPULSION. Its focused eye-gaze directed to the left further could also express ATTRACTION towards something out there, thus creating a vector or a HORIZONTAL axis leading into the off (SOURCE-PATH-GOAL). If we as-
+
+B ALANCING ACTS / 333
+sumed that something was moving towards the angel, we could imagine a PATH, along which a moving person or entity was approaching the figure from a location outside the picture (SOURCE-PATH-GOAL). It could also be the case that the angel itself tries not to move along some other hidden axis or path. If the unevenly distributed darker shades represent smoke or flames, the immediate environment would make movement into any di­ rection impossible.
+
+FIGURE 3. P. Klee, Angelus Novus (1920)
+
+FIGURE 4. Full-body enactment
+
+One cannot help but wonder what the angel might be looking at. Ben­ jamin' s (1987) own reading of the image suggests that the angel is facing the past: the ruins of the First World War. This interpretation resonates with recent advances in cognitive science and gesture studies suggesting that in most Western cultures the past tends to be conceptualized as being located to the left of or behind the speaker (Calbris 1990).6
+Overall, the gestural descriptions of this picture show a strong tendency for full-body enactments (see also Muller, this volume). Assuming character viewpoint (McNeill 1992; Sweetser 2012), the participant shown in Figure 4 (who cannot see the picture while describing it) mirrors the angel in an astonishingly close fashion by mimicking its posture, arm position, leg placement, and eye-gaze. For a moment, the speaker becomes the angel. When verbalizing her impression that the figure seemed to be in mid-
+6 But see NUiiez and Sweetser's (2006) work on spatial metaphors for time in the Aymara culture; see also Kress and van Leeuwen (2006) for related observations regarding a spatial grammar of pictures.
+
+334 I IRENE MITTELBERG movement, she actually adds movement to the scene by rotating her arms. Figure 5 shows a motion-capture data plot of these repeated circular hand and arm motions representing the angel's imagined wing movements'?
+FIGURE 5. Motion-capture data plot of enacted wing movements (see Figures 3 and 4)
+To summarize, not only the posture of the angel, but also the sensed movement of its body and limbs are physically enacted by the speaker. This active portrayal thus supports Krois' (2011: 218) understanding of pictures as transmodal phenomena (see introduction). In light of the prototypical balance schema put forth by Johnson (1987: 86; Figure 2, Section 2.2), it seems safe to say that this schema can be detected as underpinning the im­ age of the angel, with a focus on the vertical axis running down through its upright head and body. Around this axis, weight and forces are quite equal­ ly distributed (e.g.,the stronger left wing is balanced out by the right wing plus the right leg). Emanating from the angel's relatively large head, its eye­ gaze maps onto the horizontally oriented vectors meeting at eye-level (Fig­ ure 2). At the same time, the upper and lower limbs as well as the lower body map onto the diagonal vectors shown in the same Figure. Arnheim's (1954) hidden skeleton of balance patterns (Figure 1) can also be made out in the image as so far as all lines and weights seem to coincide more or less with a feature of the structural skeleton. As a result,the angel's balancing act evokes in the viewer a sense of dynamic symmetry that can be readily
+7.Transcript of speech accompanying the gestural enactment shown in Figure 5: 'Oh, uh, it looks like it's kind of in mid-movement just cause it's... the one leg is a little... moved and the... feathers are sort of swept to one side... does it look like it's in the middle of... doing something.'
+
+B ALANCING ACTS / 335
+enacted. Through her corporeal posture and actions the perceptual experi­ ence becomes physical and real for the speaker.
+3.2 Tightrope Walker (1923)
+A tightrope walker's chief task is to stay balanced while gradually moving forward on a high wire suspended up in the air. While the Tightrope Walker (Figure 6) is not Klee's only work showing such acrobatic performances, it is one of the most intricate compositions of this nature.
+
+FIGURE 6. P. Klee, Tightrope Walker (1923)
+
+FIGURE 7. Video still: 'it looks stable'
+
+This image of the Tightrope Walker combines a number of compatible underlying structures and relations. In this prototypical instance of a bal­ ancing act, set against the backdrop of a luminous cross structure, the tight­ rope runs parallel to the lower edge of the horizontal structure of the cross (HORIZONTAL; STRAIGHT), but it seems to be only virtually supported by it. The rope, however, clearly supports the figurine (SUPPORT). As such, the high wire represents the borderline between above. and below (UP/DOWN). Almost at the center of the image (CENTER/PERIPHERY), the cross's vertical pole cuts the pictorial space into two panels (VERTICAL; SPLITTING), of which the right one is, especially in the image's lower regions, a little wider than the left one (RIGHT/LEFT). Holding on to a balancing pole with both hands held more than shoulder-width apart, the tightrope walker manages to BALANCE out the weight and physical forces pulling on his body and on the two ends of the pole (GRAVITY; SCALE). In the moment captured here, the
+
+336 / IRENE MITTELBERG
+figurine, traversing the image from left to right,has just passed the intersec­ tion of the cross-like structure. His walking PATH probably started at the small platform on the left-hand side (SOURCE) and is about to end only a few steps further down to the right (GOAL). From there, he would be able to leave the high wire by sliding down a rope leading towards the ground which is only hinted at by darker shades of brown. The platform on the left (SURFACE; SUPPORT), from which a rope ladder is hanging, also builds the entry/exit point of a network structure below the tightrope, consisting of vertical and diagonal lines and planes. Upon closer scrutiny, these lines and planes seem to be passing through a schematic head with a mouth, chin, nose and eyes. While these facial elements are slightly displaced, the head appears to contain (CONTAINMENT), despite its high degree of abstraction, (mental) SUBSTANCE and structures.
+
+FIGURE 8. Motion-capture data plot: cross
+
+FIGURE 9. Motion-capture data plot: balancing
+
+Regarding the descriptions of the Tightrope Walker, several multimodal portrayal strategies deserve particular attention. All three participants enact­ ed the figure's posture and actions with their gestures or entire bodies. They also performed viewpoint shifts (Stec 2013) several times during their per­ formances. We further see a tendency to describe the pictorial composition from an observer point of view, thus laying out the background as well as the distribution and relation of structures, elements, and colors. One partici­ pant adopted observer viewpoint when sketching the cross with thumb and index finger into the air and placing an imaginative figure on top of the rope, here functioning as a sort of virtual reference structure (Mittelberg 2008). Figure 8 above shows the movement traces of this gestural descrip­ tion (the figurine is the small loop-like shape on the left). In mid-sentence, the speaker shifts from observer to character viewpoint, from where she then imitates the figure's posture, leg position and the action of holding the balancing pole. Finally, her face serves as a projection surface when she
+
+BALANCING ACTS / 337
+imitates the figure's pointed face by seemingly extending her own nose.8 The insight we can draw from this is that the adopted viewpoint has an in­ fluence not only on the construal of a scene, but also on what kind of meto­ nymic modes are operationalized and what semiotic practices are chosen to deliver an effective multimodal performance (Mittelberg 2013).
+Another participant directly commented on issues of balance, saying that the structures and objects hanging down from the rope would probably serve to keep everything in balance. In the moment captured in Figure 7, he pretends to be the figure up on the tightrope (character viewpoint), moving his hands up and down as though he were testing the stability of the situa­ tion (Figure 9 shows captured movement traces of his hands). Although it seems rather unlikely, the figure on the rope looks quite stable to him.9 Through this mini-performance the original scenario is elaborated. By drawing on his own experience with (im)balance, the speaker instills movement and force dynamics into a static image. Hence, the image be­ comes alive.
+What is crucial here is that, given the overall distribution of weight and forces, both the image and the tightrope walker seem perfectly balanced. A look at the following two schemas provided by Johnson (1987: 86) backs up this impression. The twin-pan balance schema (Figure 10) represents the situation of the tightrope walker up on the rope, with the balancing pole he
+
+zs
+
+FIGURE 10. Twin-pan balance (Johnson 1987:86)
+
+FIGURE 11. Equilibrium (Johnson 1987:86)
+
+8 Transcript of the verbal description (Fig. 8): 'Uhm, in the... background of the picture there
+is like a white cross. . . uhm, which is very different from the rest of the picture which is also... uhm, like tan except for the bottom where it could (...). It almost looks like it could be green. Uhm, and then, on top of that, it looks like... uhm. . . like a man or some sort of figurine is standing on it, and he's holding something and he... is looking to the side, so it almost looks like he's going like this, cause one leg looks, uhm... more stretched out than the other... and... his uhm, head i s drawn and the face are like a teardrop, s o. . . it's very... pointed. . . uhm... '
+9 Transcript for Figs. 7 and 9: 'It was walking on maybe some triangles and some more square
+objects and uhm, odd shapes drawn together until it kind gave you the idea that it was bal­ ancing somehow to... to form a kinda like teeter-tottering the line on the... uhm, objects build­ ing it up with the... the little person. It looks stable but realistically ... uhm no, I doubt it.'
+
+338 / IRENE MITTELBERG
+is holding in his hands mapping onto the horizontal line. The equilibrium schema (Figure 11) can further be said to represent the entire scenario, in­ cluding the cross in the background, the high wire, and the structures hang­ ing down from it. These mappings are of course not exact, but allow us to understand variations on the theme BALANCE.
+3.3 Dance of a Mourning Child (1922)
+This last picture contrasts with the previous ones in several respects. As the title indicates, it features a child absorbed in a dance (Figure 12). What im­ mediately catches the viewer's eye is the oversized head tilted to the side. Contrary to the figures studied so far, this one is positioned off-center, i.e. to the left side (CENTER/PERIPHERY; LEFr-RIGHT) and does not hold its head up straight (STRAIGHT; VERTICAL; UP/DOWN). The girl does not try to stay in control of its upright posture, as the Angelus Novus and the Tightrope Walk­ er, but gives in to the head's tendency to draw sideward (GRAVITY). The CENTER of the image is left unoccupied except for a light color spot. At first sight, the distribution of weight might seem uneven in the overall pictorial composition as well as within the figure's body. The small body does not seem substantial enough to counterweigh the large head. However, with her fully extended arms pointing to her right side, and by holding some sort of line or balancing rope with both hands, the girl manages to create a BAL­ ANCED composure carried by the flow of the dance movement.
+
+FIGURE 12. P. Klee, Dance oja Mourning Child (1922)
+
+FIGURE 13. Enactment of child's posture
+
+Due to the flowing skirt and the different shades of light and dark red, one can feel the different forces and the bodily movement captured in the pic­ ture. Several sets of parallel VERTICAL and DIAGONAL lines further create a
+
+BALANCING ACTS / 339 sense of balanced geometry. The girl's head remains salient due to its size, lighter coloring, and clearly articulated lines, some of which are straight and parallel, the heart-shaped mouth, and the small umbrella hanging down from one eye. The heart functions as the anchor point of figure and image.
+In their multimodal descriptions from memory, the participants referred to many of these pictorial details. Again, they showed a strong tendency to mirror the figure's full-body posture as well as the particular distribution of weight along the vertical axis. For example, the participant shown in Figure 13 enacts the figure's tilted head and extended arms, as well as its position of the legs and the eye-gaze directed downward. Keeping character view­ point all through the sequence, she draws an icon of the heart-shaped mouth onto her own lips and two lines imitating the figure's eye slits onto her own eyes.1° She then evokes the flowing skirt around her hips and upper legs by repeated manual up-and down movements. The motion-capture data plot provided in Figure 14 visualizes the semiotic practices employed: we can detect the set of traces evoking the flowing skirt in the lower regions of ges­ ture space, the traces of outward going hands a little higher up in space, and the iconic forms depicting the mouth and eye slits in the upper segment. Crucially, each of these bimanually produced pairs of signs shows features of an internal symmetry; they are balanced in their own way.
+FIGURE 14. Motion-capture data plot: skirt, extended arms, mouth, eyes (see Fig. 12 and 13)
+10 Transcript of verbal description (Fig. 13): 'I thought it was a girl, because, uhm she looked like she was wearing some sort of short flowing skirt uhm, and... uh her head was turned to this side if! were mirroring what she was doing and her arms were like this. Uhm, and... uh.. her mouth was almost in the shape of a heart and... uhrn, I kept trying to see if her eyes were open or closed, and it looked like they were just slits.'
+
+340 / IRENE MITTELBERG
+When trying to match this picture with the various balance schemas proposed by Arnheim (1974) and Johnson (1987; see Sections 2.2, 3.1 and 3.2 above), it is not as obvious which one would be the most suitable. The balancing mechanisms at work here are not as straightforward as in the pre­ vious images, probably due to the imaginatively distorted proportions of the body parts. The axis balance schema (Figure 2) seems the most fitting, with the heart-shaped mouth at the intersection of the two straight lines. It is the movement of the body around its own axis that seems to contribute a deci­ sive dimension to this particular balancing act.
+This observation leads us to a core aspect of the recurrent patterns of the related experiences that make up the tissue of the BALANCE schema. Ac­ cording to Johnson (1987: 97), 'The balance schema (... ) has three im­ portant properties: symmetry, transitivity, and reflexivity.' The latter prop­ erty, reflexivity (A balances A), seems to be pertinent in connection to the pictures and corporeal enactments seen in this paper. Whereas Johnson (ibid.) points out that reflexivity is not experienced directly, since 'we are, after all, never in a position to balance something with itself', it seems justi­ fied to say that a body's equilibrium depends on a state of balance within itself, even if this internal structure consists of different body parts which can be said to build a bodily diagram with metonymic relations holding between the individual parts (Mittelberg 2008, 2013). Balancing oneself (e.g. when standing, walking, or dancing) seems an important facet of the experiential essence of human existence.
+4 Synthesis and Concluding Remarks
+Given the centrality of physical, emotional and aesthetic balance in people's lives, it perhaps does not come as a surprise that comparable patterns of experience could be detected in both Klee's pictures and their gestural de­ scriptions and enactments. In his observations on 'The Body as Expression, and Speech', Merleau-Ponty (1962) puts into relief the deep interconnection of bodily perception, gestural expression and human understanding. He rightly points out that gestures may actually create meaningful semiotic material, instead of simply referring to something other than themselves; in certain moments, they basically are the world:
+It is through my body that I understand other people , just as it is through my body that I perceive 'things'. The meaning of a gesture thus 'under­ stood' is not behind it, it is intermingled with the structure of the world outlined by the gesture.
+(Merle au-Ponty 1 962: 2 16)
+In this paper, the world to be perceived and understood presented itself in the form of artworks by Paul Klee. The iconic structures found in the
+
+BALANCING ACTS / 341
+pictures and their gestural descriptions have been assumed to be motivated, at least to some degree, by embodied image schemas, force dynamics, me­ tonymy (e.g. abstraction), and metaphor. More specifically, clusters of im­ age and force schemas played an important role regarding the images' com­ position, but also in how the participants portrayed the scenarios inside their gesture spaces. Besides sketching the compositional features and propor­ tions from an observer's point of view, the participants' preferred multi­ modal story-telling technique proved to be full-body enactments adopting character viewpoint. With a very fine sense of the distribution of weights and physical forces in the pictures, the participants repeatedly turned them­ selves into living image icons (Peirce 1960) of Klee's human-like figures and their actions. In the process, they virtually transposed themselves in the position of these figures to enact, and at times elaborate, the depicted scenes from image-internal vantage points.
+So when engaged in art perception, our bodily senses seem to be in touch with our creative and imaginative capacities, which allows us to see and feel balance in spaces and contexts we are not part of, but attentively observe. The focus of analysis was on gestures describing formal properties of the images and not (yet) on the metaphoric construal of mental states and emotions evoked in the viewers. Generally, our access and recall of pictorial compositions is assumed to rely on creative metaphorical elaboration:
+And it is by virtue of this metaphorically imposed structure that we can understand and reason about the relevant abstract entitie s . It is the proje c­ tion of such structure that I am identifying as the ' cre ative ' function of metaphor, for it is one of the chief ways we gene rate structure in our expe­ rience in a way that we can comprehend. The ke y to seeing how such crea­ tivity is possible is the recognition of a dimension of metaphorical projec­ tion based on image schemata, such as those of balance .
+(Johnson 1 987: 98)
+For creative expressions in visuo-spatial modalities, two metaphorical concepts seem to be fundamental: FORM IS MOTION and MOTION IS FORM (Lakoff and Turner 1989; Mittelberg 20 1 Ob). These metaphors, as well as the other embodied structures and forces laid out in this paper, seem to not only guide our experiences and comprehension of the world, but also ges­ tural instances of exbodiment of inner images and inclinations (Mittelberg 2013). The present observations confirm that embodied schemas and action patterns play a central role in art appreciation; they also bring to light some of the ways in which subjective dimensions factor into the alignment of images, seen as 'transmodal phenomena' (Krois 2011: 218), and the body/mind of the beholder (Bredekamp 2010; see Taylor et al. 2012 for experimental work supporting this claim). Future research shall explore in more depth the relation of formal and emotional/aesthetic dimensions of
+
+342 / IRENE MITTELBERG
+full-body art appreciation and description. For now, let us tum to Paul Klee, whose remarks resonate well with the views brought together here:
+In the past we represented things we had seen on earth , things we liked seeing or might have liked to see. Today we reveal the relativity of visible things; thus expressing the belief that the visible is merely an isolated as­ pect in relation to the universe as a whole, and that other, invisible truths are the overriding factors. There is a striving to express the essential char­ acter of the accidental .
+(Klee 1968: 1 85)
+It seems that embodied image schemas and action patterns help us see,feel and express 'the essential character of the accidental' in various connected ways. As the research strands discussed in this paper suggest, these patterns underpin both the creation and interpretation of expressions in different semiotic systems. For instance,tilting one's head over sidewards may evoke a sudden loss of balance. Such metonymic moments may profile a specific facet of the experiential gestalts that feed into how we understand a particu­ lar scenario through drawing on connected physical and semiotic experi­ ences that cut across several modes of perception and expression.
+Acknowledgments
+The author thanks Matthias Priesters for producing the motion-capture data plots and helpful comments on previous versions of this paper. Special thanks also to Kensy Cooperrider and Vito Evola for valuable feedback. This research was funded by the Excellence Initiative of the German Feder­ al and State Governments.
+References
+Arnheim, R. 1 969 . Visual Thinking. Berkeley: University of California Press. Arnheim, R . 1 974. Art and Visual Perception: A Psychology of the Creative Eye.
+Berkeley: University of California Press . Benjamin , W . 1 9 86. Theses on the Philosophy o f History . Critical Theory Since
+1 965, ed. H. Adams and L. Searle, 680-68 5 . Tallahassee, FL: Florida State Uni­ versity Press . Brandt, P. A. 2006. Form and Meaning in Art. The Artful Mind: Cognitive Science and the Riddle of Human Creativity, ed . M. Turner, 1 7 1 - 1 8 8 . OxfordlNew York: Oxford University Press. Bredekamp , H. 20 1 0 . Theorie des Bildakts . B erlin: S uhrkamp . Bundgaard, P . F. 2009. Toward a Cognitive Semiotics o f the Visual Artwork - Ele­ ments of a Grammar of Intuition. Cognitive Semiotics 5: 42-65 .
+
+BALANCING ACTS / 343
+Calbris, G. 1 990. The Semiotics of French Gestures . Bloomington: Indiana Universi­ ty Press.
+Calbris, G. 2003. From Cutting an Object to a Clear-cut Analysis: Gesture as the Representation of a Preconceptual Schema Linking Concrete Actions to Ab­ stract Notions. Gesture 3: 1 9-46.
+Cienki, A. 1 998a. Metaphoric Gestures and Some of Their Relations to Verbal Met­ aphoric Expressions. Discourse and Cognition: Bridging the Gap, ed. J.-P. Koenig, 1 89-204. Stanford: Center for the Study of Language and Information .
+Cienki, A . 1 998b. STRAIGHT: An Image Schema and its Metaphorical Extensions. Cognitive Linguistics, 9: 1 07- 1 49 .
+Cienki, A . 2005 . Image Schemas and Gesture . From Perception to Meaning: Image Schemas in Cognitive Linguistics, ed. B . Hampe, 421 -442 . BerlinlNew York: Mouton de Gruyter.
+Cienki , A. 20 1 0 . Gesture and (Cognitive) Linguistic Theory . Ways and Forms of Human Communication, eds. R . Cabellero Rodriguez and M . J . P . Sanz Cuenza, 45-5 6 . Ediciones de la Universidad de Castilla-La Mancha.
+Cienki , A. and C. Miiller, Eds . 200 8 . Metaphor and Gesture. Amsterdam! Philadel­ phia: John Benjamins.
+Cienki, A . and I . Mittelberg. 20 1 3 . Creativity in the Forms and Functions of Ges­ tures with Speech. Creativity and the Agile Mind: A Multi-Disciplinary Study of a Multi-Faceted Phenomenon, eds. T . Veale, K . Feyaerts , C . Forceville, 23 1 252. Berlin/New York: Mouton d e Gruyter.
+Conkey , M . and C. Hastorf. 1 990. The Uses of Style in Archaeology. Cambridge: Cambridge University Press.
+Danaher, D . S. 1 998 . Peirce' s Semiotic and Cognitive Metaphor Theory . Semiotica 1 19( 1 /2): 1 7 1 -207.
+Dancygier, B . and E. E . Sweetser, eds. 20 1 2 . Viewpoint in Language: A Multimodal Perspective. Cambridge, MA: Cambridge University Press .
+De Preester, H . , ed. 20 1 3 . Moving Imagination . AmsterdamlPhiladelphia: John Ben­ jamins.
+Evola, V. 20 1 0 . Multimodal Cognitive Semiotics of Spiritual Experiences: Beliefs and Metaphors in Words, Gestures, and Drawings. Form, Meaning, and Body , eds . F. Parrill, V . Tobin and M . Turner, 41-60 . Stanford: CSLI Publications.
+Fillmore , C . J . 1 9 8 2 . Frame Semantics. Linguistics in the Morning Calm. Selected Papersjrom SICOL 1 98 1 . L. S . o . Korea. Seoul, Hanshin: 1 1 7-1 3 7 .
+Foolen, A . , Liidtke , U . M . , Racine , T. P . and J . Zlatev, e d s . 20 1 2 . Moving Ourselves, Moving Others. Motion and Emotion in Intersubjectivity, Consciousness and Language. AmsterdamlPhiladelphia: John Benjamins .
+Forceville , C . and M . Jeulink. 20 1 1 . The Flesh and Blood of Embodied Understand­ ing: The Source-Path-Goal Schema in Animation Film. Pragmatics and Cogni­ tion 1 9 ( 1 ) : 37-5 9 .
+
+344 / IRENE MITTELBERG
+Friedberg, D . and V. Gallese . 2007. Motion, Emotion and Empathy in Esthetic Ex­ perience. Trends in Cognitive Sciences III5: 1 97-203 .
+Gallagher, S . 200 5 . How the Body Shapes the Mind. Oxford: Oxford University Pre s s .
+Gibbs, R.W. 2006. Embodiment and Cognitive Science . Cambridge: Cambridge University Press.
+Hampe, B . , ed. 2005 . From Perception to Meaning: Image Schemas in Cognitive Linguistics. Berlin/New York: Mouton de Gruyter.
+Jakobson, R. 1 9 5 6 . Two Aspects of Language and Two Types of Aphasic Disturb­ ances, On Language. eds. L. Waugh and M . Monville-Burston: 1 1 5-1 3 3 . Cam­ bridge, MAlLondon: Harvard University Press .
+Johnson, M. 1 98 7 . The Body in the Mind: The Bodily Basis oj Meaning, Imagina­ tion, and Reason. Chicago: University of Chicago Press.
+Johnson, M . 2005. The Philosophical Significance of Image Schemas. From Percep­ tion to Meaning: Image Schemas in Cognitive Linguistics, eds. B . Hampe, 1 5-
+3 3 . BerlinlNew York, .\'1outin de Gruyter.
+Johnson , M . 2007. The Meaning oj the Body: Aesthetics oj Human Understanding . Chicago: Chicago University Press.
+Klee, P . 1 9 8 6 . Pedagogical Sketchbook. London: Faber and Faber. Kress , G. R. and T. van Leeuwen . 2006. Reading Images: The Grammar oj Visual
+Design . 2nd edition. New York: Routledge. Krois, J. M . , Rosengren, M . , Steidele , A. and D. Westerkamp, eds. 2007. Embodi­
+ment in Cognition and Culture. AmsterdamlPhiladelphia: John Benjamins .
+Krois, J . M . 20 1 1 . KiJrperbilder und Bildschemata. AuJsatze zur VerkiJrperungstheo­ rie ikonischer Formen, ed. H. Bredekamp and M. Lauschke. Berlin: Akademie Verlag .
+Ladewig, S . 20 1 1 . Putting the Cyclic Gesture on a Cognitive Basis. CogniTextes 6 .
+Lakoff, G . 1 9 87 . Women, Fire, and Dangerous Things: What Categories Reveal About the Mind. Chicago: University of Chicago .
+Lakoff, G. 2006. The Neuroscience of Form in Art. The Artful Mind: Cognitive Sci­ ence and the Riddle oj Human Creativity, ed. M . Turner, 1 55-169. Oxford/New York: Oxford University Press.
+Lakoff, G . and M . Johnson. 1 999. Philosophy In The Flesh : the Embodied Mind and its Challenge to Western Thought. New York: Basic Books.
+Lakoff, G . and M. Turner. 1 9 8 9 . More than Cool Reason: A Field Guide to Poetic Metaphor. Chicago: Chicago University Press .
+McNeill, D . 1 992. Hand and Mind. What Gestures Reveal about Thought. Chicago: Chicago University Press.
+Merleau-Ponty, M. 1 962. Phenomenology oj Perception. New York: Humanities Press .
+
+BALANCING ACTS / 345
+Mittelberg, 1 . 2006. Metaphor and Metonymy in Language and Gesture: Discourse Evidence jor Multimodal Models oj Grammar. Ph.D. Dissertation , Cornell Uni­ versity. Ann Arbor, MI: UM1.
+Mittelberg , 1. 200 8 . Peircean Semiotics Meets Conceptual Metaphor: Iconic Modes in Gestural Representations of Grammar. Metaphor and Gesture, ed . A. Cienki , and C. MUller, 1 1 5- 1 54 . AmsterdamlPhiladelphia: John Benjamins.
+Mittelberg, 1. 20 1 Oa. Interne und externe Metonymie: Jakobsonsche Kontiguitats­ beziehungen in redebegleitenden Gesten. Sprache und Literatur 4 1 ( 1 ) : 1 1 2143 .
+Mittelberg, 1 . 20 1 0b . Geometric and Image-schematic Patterns i n Gesture Space. Language, Cognition, and Space: The State oj the Art and New Directions, eds. V. Evans and P. Chilton, 35 1 -385 . London: Equinox.
+Mittelberg, 1. 20 1 1 . Focus on Form: Reflections on the (Neuro)Aesthetics of Ab­ straction in Painting and Gesture . Neuroiisthetik. Perspektiven auf ein inter­ diszipliniires Forschungsgebiet, ed. K. Herrmann , 1 1 0-1 20 . Kassel: Kassel University Press.
+Mittelberg , 1. 20 1 3 . The Exbodied Mind: Cognitive-Semiotic Principles as Motivat­ ing Forces in Gesture. Body - Language - Communication: An International Handbook on Multimodality in Human Interaction. Volume 1 . , eds. C. MUller, A. Cienki , E. Fricke, S . Ladewig, D. McNeill, and S . Tessendorf, 750-779 . Ber­ linlNew York: Mouton de Gruyter.
+Mittelberg , 1. and L. R. Waugh . 2009. Metonymy First, Metaphor Second: A Cogni­ tive-semiotic Approach to Multimodal Figures of Thought in Co-speech Ges­ ture . Multimodal Metaphor, eds . C. Forceville and E. Urios-Aparisi , 329-356. Berlin/New York: Mouton de Gruyter.
+MUller, C. 1 99 8 . Redebegleitende Gesten . Kulturgeschichte - Theorie - Sprachver­ gleich . B erlin: Berlin Verlag.
+MUller, C. 200 8 . Metaphors Dead and Alive, Sleeping and Waking. A Dynamic View. Chicago: University of Chicago Press.
+MUller, C., this volume. Nunez, R. and E. Sweetser. 2006. With the Future Behind Them: Convergent Evi­
+dence from Aymara Language and Gesture in the Crosslinguistic Comparison of Spatial Construals of Time. Cognitive Science 30: 40 1-450 .
+Oakley, T. 2005 . Force-dynamic Dimensions of Rhetorical Effect. From Perception to Meaning: Image Schemas in Cognitive Linguistics, ed. B . Hampe, 443-473 . BerlinlNew York: Mouton de Gruyter.
+Parrill, F. and E. Sweetser. 2004. What We Mean by Meaning . Conceptual Integra­ tion in Gesture Analysis and Transcription . Gesture 4 (2): 1 97-2 1 9 .
+Peirce , C. S . 1 960 . Collected Papers oj Charles Sanders Peirce ( 1 931-1958). Vol. I.: Principles oj Philosophy, Vol. II: Elements oj Logic , eds. C . Hartshorne and P. Weiss. Cambridge: The Belknap Press of Harvard University Press .
+
+346 / IRENE MITTELBERG
+Popova, Y . 2005 . Image Schemas and Verbal S ynaesthesia. From Perception to Meaning: Image Schemas in Cognitive Linguistics, ed. B . Hampe, 397-4 1 9 . Berlin/New York: Mouton de Gruyter.
+Sonesson , G. 2007 . The Extensions of Man Revisited: From Primary to Tertiary Embodiment. Embodiment in Cognition and Culture , eds. J . M . Krois , M . Rosengren, A. Steidele and D . Westerkamp, 27-5 3 . AmsterdamlPhiladelphia: John Benjamins.
+Stebbing, P . D . and S. Heim. 201 1 . The Creative Quartet: Contrast , Rhythm, Bal­ ance and Proportion. Universal Principles of Organic and Aestehtic Creativity. Neuroiisthetik. Perspektiven auf ein interdiszipliniires Forschungsgebiet, ed. K . Herrmann, 1 4-3 1 . Kassel: Kassel University Press .
+Stec, K. 20 1 3 . Meaningful Shifts: A Review of Viewpoint Markers in Co-Speech Gesture and Sign Language. Gesture 12 (3): 327-360.
+Streeck, J. 2009 . Gesturecraft: The Manu-facture of Meaning . Amster­ dam/Philadelphia: John Benjamins.
+Sweetser, E. E. 1 99 8 . Regular Metaphoricity in Gesture: Bodily-based Models of Speech Interaction. Actes du 16e Congres International des Linguistes, Elsevier.
+Sweetser, E. E. 201 2 . Viewpoint and Perspective in Language and Gesture, From the Ground Down. Viewpoint in Language: A Multimodal Perspective, eds. B . Dancygier and E . E. Sweetser, 1-24. Cambridge: Cambridge University Press .
+Talmy , L. 1 9 8 8 . Force Dynamics in Language and Cognition. Cognitive Science 1 2 : 49- 100.
+Talmy, L . 2000 . Towards a Cognitive Semantics. Cambridge, MA: MIT Press. Taylor, E . T., Witt, J . K., and P . J. Grimaldi . 20 1 2 . Uncovering the connection be­
+tween artist and audience: Viewing painted brushstrokes evokes corresponding action representations in the observer. Cognition 1 25 ( 1 ) : 26-36. Turner, M . 2006. The Art of Compression. The Artful Mind: Cognitive Science and the Riddle ofHuman Creativity, ed. M . Turner, 93-1 1 3 . Oxford/New York: Ox­ ford University Press. Turner, M., ed. 2006. The Artful Mind: Cognitive Science and the Riddle of Human Creativity. OxfordlNew York: Oxford University Press. Varela, F., E . Thompson and E . Rosch. 1 992. The Embodied Mind: Human Cogni­ tion and Experience . Cambridge: MIT Press. Winawer, J . , Huk, A. C . and L. Boroditsky (2008). A Motion Aftereffect From Still Photographs Depicting Motion. Psychological Science 1 9 (3): 276-283 .
+Zentrum Paul Klee, ed. 20 1 2 . Paul Klee - Die Engel. Osfildern: Hatje Cantz Verlag. Zlatev, J. 2005 . What's in a Schema? Bodily Mimesis and the Grounding of Lan­
+guage. From Perception to Meaning: Images Schemas in Cognitive Linguistics , ed. B . Hampe, 3 1 3-342. BerlinlNew York: Mouton de Gruyter.
+
+20
+Where Do Cognitive Biases Fit Into Cognitive Linguistics? An Example from the ' Curse of Knowledge '
+VERA TOBIN
+1 Introduction
+It is a truth widely acknowledged (e.g. Piaget 193 2; Fillmore 1975; B aron­ Cohen 1995) that human beings have a remarkable ability to think about and adopt the perspectives of others. However, despite these spectacular performances of perspective taking, our abilities in this arena are both lim­ ited and riddled with biases. These biases are studied extensively in cogni­ tive psychology, social psychology, economics, and cognitive approaches to decision making. Cognitive linguistics , however, despite its longstanding interest in viewpoint and perspective, has given them much less direct or explicit attention. This paper suggests that some models of meaning con­ struction in cognitive linguistics are in fact very well suited to addressing the contributions of cognitive bias, and presents one illustrative integrated account.
+The 'curse of knowledge' is a pervasive cognitive bias that makes it very difficult for us to imagine, once we know something, what it is like not to know it (Camerer, Loewenstein, and Weber 1 989; Birch and Bloom 2003). Here, I will argue that the curse of knowledge is an artifact of a more general cognitive shortcut that is implicated in features of 'correct' sentence interpretation such as presupposition projection, as well as in the phe­ nomena that are traditionally described as curse-of-knowledge errors.
+Language and the Creative Mind.
+Mike Borkent, Barbara Dancygier , and Jennifer Hinnell (eds). Copyright © 2013, CSLI Publications.
+347
+

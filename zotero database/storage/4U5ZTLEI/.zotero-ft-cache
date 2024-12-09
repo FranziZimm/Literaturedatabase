@@ -1,0 +1,306 @@
+Downloaded from https://academic.oup.com/dsh/article-abstract/32/suppl_1/i33/2669802 by RWTH Aachen, Hochschulbibliothek user on 04 June 2020
+
+Modelling in digital humanities:
+
+Signs in context
+................................................................................................ ............................................................
+Arianna Ciula Department of Humanities, University of Roehampton, London, UK
+
+Øyvind Eide
+Historisch-Kulturwissenschaftliche Informationsverarbeitung, Universita¨t zu Ko¨ln, Germany
+................................................................................................ .......................................
+Abstract
+
+In this paper we focus on modelling as a creative process to gain new knowledge
+
+about material and immaterial objects by generating and manipulating external
+
+representations of them. We aim at enriching the current theoretical understand-
+
+ing by contextualising digital humanities practices within a semiotic conceptu-
+
+alisation of modelling. A semiotic approach enables us to contextualise modelling
+
+in a scholarly framework well suited to humanistic enquiries, forcing us to in-
+
+vestigate how models function as signs within specific contexts of production and
+
+use. Kralemann and Lattmann’s semiotic model of modelling complemented by
+
+Ellestro¨m’s theories on iconicity are some of the tools we use to inform this
+
+Correspondence:
+
+semiotic perspective on modelling. We contextualise Kralemann and
+
+Øyvind Eide, University of Cologne, HKI, Albertus-Magnus-Platz, 50931 Cologne, Germany. E-mail: oeide@uni-koeln.de
+
+Lattmann’s theory within modelling practices in digital humanities by using three examples of models representing components and structure of historical artefacts. We show how their model of models can be used to understand and contextualise the models we study and how their classification of model types clarify important aspects of digital humanities modelling practice.
+
+................................................................................................ .................................................................................
+
+1 Introduction
+In this article we focus on modelling as a creative process to gain new knowledge (meaning) about material and immaterial objects by generating and manipulating external representations of them. Modelling is widely understood and used as a heuristic strategy in the sciences (Mahr, 2009; Frigg and Hartmann, 2012) as well as in digital humanities (hereafter DH) research where it is considered a core practice (McCarty, 2005, pp. 20–72). In the past two decades there has been a significant development of theory that complements the practicebased tradition of the field (e.g. ibid, Buzzetti,
+
+2002; Beynon et al., 2006; Jannidis and Flanders, 2012; Flanders and Jannidis, 2015).
+We aim at enriching the current theoretical understanding by contextualizing DH practices within a semiotic conceptualization of modelling. A semiotic approach enables us to contextualize DH modelling in a scholarly framework well suited to humanistic enquiries, forcing us to investigate how models function as signs within specific contexts of production and use. Kralemann and Lattmann’s (2013) semiotic model of modelling complemented by Ellestro¨m’s (2013) theories on iconicity are some of the tools we use to inform this semiotic perspective on modelling.
+
+Digital Scholarship in the Humanities, Vol. 32, Supplement 1, 2017. ß The Author 2016. Published by Oxford University i33 Press on behalf of EADH. All rights reserved. For Permissions, please email: journals.permissions@oup.com doi:10.1093/llc/fqw045 Advance Access published on 28 September 2016
+
+A. Ciula and Ø. Eide
+
+Downloaded from https://academic.oup.com/dsh/article-abstract/32/suppl_1/i33/2669802 by RWTH Aachen, Hochschulbibliothek user on 04 June 2020
+
+We then go on to contextualize Kralemann and Lattmann’s theory within modelling practices in DH by using three examples of DH models representing components and structure of historical artefacts. We show how their model of models can be used to understand and contextualize the models we study and how their classification of model types clarifies important aspects of DH modelling practice.
+
+indeed to consider it as a strategy to make sense (signification) via practical thinking (creating and manipulating models). We use an interdisciplinary perspective on modelling to guide us both in understanding how models as signs are made (the construction of models) as well as in understanding how something new is discovered in the process of making and using models (the epistemic and heuristic value of models).
+
+2 What is Modelling?
+In this article we take a pragmatic definition of modelling as a starting point. Indeed, interdisciplinary theories around modelling are used mainly to inform our analysis of modelling practices. By modelling we intend a creative process of thinking and reasoning where meaning is made and negotiated through the creation and manipulation of external representations. We narrow this definition further by applying it to modelling as a research strategy: modelling is a process by which researchers make and manipulate external representations—what Godfrey-Smith (2009) calls ‘imaginary concreta’— to make sense of the conceptual objects and phenomena they study.
+Modelling in DH is often understood as ‘any act of formal structuring’ of data intended as ‘formal information’ (Flanders and Jannidis, 2015, p. 4). Our point of departure (see also Ciula and Eide, 2014; Ciula and Marras, 2016) is however wider to allow us to explore whether a more encompassing definition can overcome some limitations of a narrower take on modelling. Rather than prioritizing a conceptualization of modelling directed first and foremost at communicating with the computer, we rather attempt at seeing modelling as a means to create ‘tools for thinking’ (Bradley, 2015).1
+3 Semiotics and DH Modelling
+Rather than framing our reflection on modelling around human–machine communication or on implementative purposes in a strict sense, we propose to consider modelling as a process of signification and reasoning in action. Contextualizing modelling within a semiotic framework means
+
+3.1 Dynamic relation models/objects/ interpretations
+Kralemann and Lattmann (2013) claim that models should be understood as signs in the Peircean sense. In Peirce’s seminal theory of signs, the sign is a triadic relation between a ‘representamen’ (the sign from which the relation begins, sometimes also called in the literature the sign-vehicle), its object, and the interpreting thought. Often represented as a tripod where the three ‘composing elements’ (Olteanu, 2015, p. 127)—object, ‘representamen’, and ‘interpretant’—intersect, the sign for Peirce is hence, first and foremost, relational. The experience of interpreting signs or signification (semiosis) is therefore intrinsically dynamic. As a consequence, a semiotic approach which considers models as signs gives high prominence to a dynamic view on models reinstating in renewed terms the value of modelling as an open process2—in particular a process of signification.3
+Figure 1 shows in abstract and simplified terms (cf. Kralemann and Lattmann, 2013, Fig. 5) how the composing elements of the sign-relation (here translated into a model-relation) interact.
+3.2 Models as icons
+The semiotic theory of signs proposed by Peirce identifies three types of signs based on the relation between the object and the sign: symbols (e.g. conventional names used to denote objects), icons (e.g. onomatopoeic words such as ‘splash’), and indexes (signs used to point directly to their meaning, such as ‘there’). In this respect, Kralemann and Lattmann (2013, pp. 3399–400) claim that models are icons, because the dominant relation with the objects they represent is one of similarity, as shown in Fig. 2. In Peircean theory, such iconic relation of similarity is
+
+i34 Digital Scholarship in the Humanities, Vol. 32, Supplement 1, 2017
+
+Modelling in digital humanities
+
+Downloaded from https://academic.oup.com/dsh/article-abstract/32/suppl_1/i33/2669802 by RWTH Aachen, Hochschulbibliothek user on 04 June 2020
+
+further models (metaphors are metamodels; Kralemann and Lattmann, 2013, p. 3409).
+
+Fig. 1 The model relation includes the following components: a set of objects Oi ¼ 1, . . ., n (what Kralemann and Lattmann call the ‘extension’ of the model), a theory or language (what they call the ‘intention’ of the model), and an object Omod (its attributes define what Kralemann and Lattmann call the ‘syntax’ of the model). For the subject who chooses Oi and a theory or language, Omod becomes a model of the objects Oi on the basis of a representational relation between its syntax and the semantic attributes of Oi. This relation is determined by the context of a theory as well as by the purpose of the specific act of modelling
+what makes icons signify; icons act as signs based on how the relation of similarity is enacted: via simple qualities of their own in case of images, via analogous relations between parts and whole and among parts in the case of diagrams, and via parallelism of qualities with something else in the case of metaphors (Olteanu, 2015, pp. 77, 193). Different shades of iconic similarity between sign and object as theorized by Peirce correspond to three kinds of models in Kralemann and Lattmann:4
+ image-like models, for example, real-life sketches where single qualities such as forms and shapes enable them to act as signs of the original objects they represent in given circumstances;
+ relational or structural models, for example, diagrams such as the relation exhibited in the graph of a mathematical equation, where the ‘interdependence between the structure of the sign and the structure of the object’ (Kralemann and Lattmann, 2013, p. 3408) enables the modeller to make inferences about the original by manipulating its model;
+ metaphor-like models which represent attributes of the original by a non-standard kind of parallelism with something else which generates
+
+In Kralemann and Lattmann’s theory as well as in Peirce’s original theory, models do not act as signs in virtue of themselves. What establishes the model as a sign is the interpretative act of a subject, whether as creator or reader. The practical act of modelling connects the model to its interpretation, that is, to its specific semantic content in a given social and institutional context (Kralemann and Lattmann, 2013, pp. 3402–3). The modeller’s judgement depends on his or her presuppositions connected to ‘theory, language or cultural practice’ (Kralemann and Lattmann, 2013, p. 3417). Models are contingent.5 Kralemann and Lattmann also reiterate the concept of models as middle ground between theory and objects.6 The relationship of iconicity between the model and the object being modelled is partly externally determined (it relies on the similarity between the model and the object) and partly internally determined (it depends on theory, languages, conventions, scholarly tradition, etc.). Based on this duality, they stress, on the one hand, the subjectively determined dependency of models on prior knowledge and theory and, on the other, their independence from these in light of the specific conditions of the objects being modelled.
+3.3 Similarity, iconicity, and reasoning
+One consequence of seeing models as icons is that through an understanding of the process by which icons are made and used we can gain new insights on how models are built and used. This understanding highlights similarity as a key to link models to the modelled:
+Representation based on resemblance generally falls under the heading of ‘iconicity’. When something is understood to be a sign of something else because of shared, similar qualities, it is referred to as an iconic sign (Ellestro¨m, 2013, p. 95).
+The notion of iconicity is however not only about how models (as signs) appear with respect to similarity to their objects. It also encompasses the possibility of manipulating models and reasoning with them.7 This is another point of connection
+
+Digital Scholarship in the Humanities, Vol. 32, Supplement 1, 2017
+
+i35
+
+A. Ciula and Ø. Eide
+
+Downloaded from https://academic.oup.com/dsh/article-abstract/32/suppl_1/i33/2669802 by RWTH Aachen, Hochschulbibliothek user on 04 June 2020
+
+Fig. 2 The Peircean trichotomy of signs into icons, indexes, and symbols based on the relation with its object (of similarity in the case of the icons) and the subsequent classification of icons (or rather pure icons or hypoicons)19 into
+images, diagrams, and metaphors based on how the respective similarity relations signify. Highlighted in grey are the
+sign types associated with models by Kralemann and Lattmann (2013, Fig. 2)
+
+between models and icons, a point that goes to the core of DH practice.
+Modelling in DH has a hybrid nature which combines implementation-oriented work with methodological inquiries bearing implications beyond the specific implementation. This distinction has recently been verbalized as one between altruistic and egoistic modellers in Jannidis and Flanders (2013, p. 138) and as one between modelling for production and modelling for understanding in Eide (2015a). An altruistic modeller will create a model for others’ use, often as part of a production project, whereas an egoistic modeller will create a model to be used at the individual level or by a group to inquire into a specific area of interest.8 In the latter case, using models to reason with is considered to be a main goal of modelling, whereas in the former it rather forms part of a process with a mainly practical goal, for example, the publication of a collection of documents.
+This distinction can be useful in analytical terms, but is problematic in that it ignores that all models are used as external representations to facilitate reasoning. Any model used in DH will to some extent be used for reasoning, and especially shared reasoning or negotiation of meaning. A model gives us a common language to talk about the world. To take one example: The Text Encoding Initiative (TEI)9
+
+does not only give us a method for marking up texts, but also a language and formalism in which to think about textual phenomena such as manuscripts or poems. As stressed in Stachowiak (1973, p. 60), stringent and exact systems for making deductions are useful also when no generally agreed upon objective reality exists; they can even be more necessary when reality is elusive and negotiable.
+The use of models as external representations to reason with has important points of connection with Peirce’s thinking about icons and reasoning:
+Similarity, which is the root of iconicity, is not simply an absolute trait that is ready to be picked up in the external world; instead it is a perceived quality processed by subjective attention and selection, and a potent force in cognition. (Ellestro¨m, 2013, p. 97)
+According to Peirce, ‘it is by icons only that we really reason’ (Peirce, 1933, CP 4.127 [1893]). In more recent literature, cognitive sciences and the philosophy of scientific modelling have been brought together (Nersessian, 2008). In particular, within theorizations of distributed cognition (Hoffmann, 2011, p. 199), thinking processes are seen as being distributed in the world and shared among different people through external mediations. Historical accounts of scientific practices
+
+i36 Digital Scholarship in the Humanities, Vol. 32, Supplement 1, 2017
+
+Modelling in digital humanities
+
+Downloaded from https://academic.oup.com/dsh/article-abstract/32/suppl_1/i33/2669802 by RWTH Aachen, Hochschulbibliothek user on 04 June 2020
+
+establish model-based reasoning as a social problem-solving strategy comparable to practices in everyday life (Nersessian, 2008). When we share our scholarly ideas using models in reasoning and discussion, this is a type of process which is fundamentally icon based in Peirce’s sense. The role of graphical representations in ‘external cognition’ is described by Hoffmann (2011, p. 192) as ‘diagrammatic reasoning to solve problems, to cope with complexity, to learn something new, or to resolve conflicts’. Seen as icons such diagrams fall into a wide variety of model types,10 from toy cars used as scale models to mathematical formulae and semantic networks. Why do we make such external representations? To take one example: Wood (1993, p. 51) distinguishes between the process of mapping and the one of mapmaking, which consists of the difference between a gesture leaving no physical trace and making a permanent inscription. The choice is based on the needs in concrete communication situations: if the communication need is complex, a map is better than just an allusive gesture. This distinction is not sharp and it is connected to the ‘continuum’ between communication and reasoning, as pointed out by Hoffman:
+When I draw a map to explain a friend how to drive to a certain location, I would communicate by means of a diagram but I would not reason with it. Diagrammatic reasoning is about problem solving, decision making, knowledge development, and belief change by means of diagrams. However, I do not presuppose a clear cut distinction between diagrammatic communication and diagrammatic reasoning. There might be a continuity between both these possibilities. (Hoffmann, 2011, p. 193–4)
+Especially in project-based DH practice, where interdisciplinary groups work together to solve problems at practical as well as theoretical levels, reasoning and communication act as two sides of the same coin.
+3.4 Grades of iconicity
+As shown above, Peirce distinguished between three types of hypoicons: images, diagrams, and
+
+metaphors. Let us take the example of an apple. The image of an apple put up in the window of a grocery shop has a signification immediately perceived by a hungry tourist passing by. She will assume that the sign on paper, through its imagelike resemblance with a real apple, indicates that apples are sold in the shop. While this immediacy is not there to be seen for everyone and in every circumstance (it would not work for a person who does not know what an apple is or what it looks like, and it would not necessarily be experienced by somebody not interested in buying apples there and then), it is still general enough to be defined as an immediate image for apples within a given context.
+A botanical visualization of the reproduction system of the apple plant can be used to exemplify a diagrammatic icon of apples. The diagram exhibits the structural similarity between the form of the organs as represented in the diagram and the organs we find in actual apples.
+Finally, a metaphorical icon can be exemplified by a representation of an apple as a sign of sin. This can be expressed in various forms, such as an apple in a biblical painting or expressions such as ‘she gave me the apple’. The whole expression—reduced to ‘sin is an apple’—is the metaphor implying a relation between the apple and sin (the object of the model). This sign relation makes it possible for the object of the sign ‘apple’ to become an icon for the object of the sign ‘sin’ (cf. the example provided by Kralemann and Lattmann, 2013, pp. 3408–9), establishing a chain of signs. Hence the words of the poet Pablo Neruda ‘innocence is round like an unbitten apple’ (Ode to the Apple). The relationship between the metaphorical icon and what it refers to is one of complex cognitive leaps and is highly creative, as argued by Ellestro¨m and illustrated in Fig. 3:
+The representamen of an image is perceptually close to its object, which means that the object may be sensuously perceived in much the same way as the representamen (this is a conception that is close to Peirce’s own few remarks on the image). The representamen of a metaphor is at a greater distance from its object, which means that the interpretation
+
+Digital Scholarship in the Humanities, Vol. 32, Supplement 1, 2017
+
+i37
+
+A. Ciula and Ø. Eide
+
+Downloaded from https://academic.oup.com/dsh/article-abstract/32/suppl_1/i33/2669802 by RWTH Aachen, Hochschulbibliothek user on 04 June 2020
+
+Fig. 3 The argument thus far builds on the concept of grades of iconicity, whereby icons form a scale with varying degree of complexity at the conceptual level. Metaphors involve a greater distance from their objects compared to diagrams and images
+
+of a metaphor includes one or several cognitive leaps that make the similarity between representamen and object apparent. (Ellestro¨m, 2013, p. 104)11
+What we see clearly in the semiotic understanding of modelling is how the analytical dichotomy objects vs. models is useful, but also misleading. For analytical purposes the object is the apple and the models (icons) are the three different examples. But the object changes when the model changes; the meaning of the apple in the metaphorical example above is different from the apple in the diagrammatic example. The context of the interpretation changes the sign but the sign also changes the context of interpretation.
+3.5 Space and time
+In his model of media modalities, Ellestro¨m distinguishes between four, namely, the material, sensorial, spatiotemporal, and semiotic modalities (Ellestro¨m, 2010). This is not a claim for any linear development through the modalities; it is rather an analytical distinction to clarify various aspects of a media expression. Different configurations of the four modalities can be used to specify the characteristics of specific media.
+While the focus in this article is on the semiotic modalities of models as media expressions, our analysis, as we will see later with the examples, also considers the other three modalities. For our purpose it is especially important to understand how the spatiotemporal modality structures the experience of the material interface through which we encounter a media expression into conceptions of
+
+space and time. When we read a text and when we study a map we act in time. But the time operates differently. In most types of text the space of the printed or written page is turned into one or several sequences of characters and words, read in a predefined order. In studying a map we can let our eyes wander in any pattern while still getting to the meaning of the map.12
+4 Examples in DH
+In this article we take previous research (Ciula and Eide, 2014; Ciula and Marras, 2016) one step further by mapping Kralemann and Lattmann’s trichotomy of models as icons to examples of digital modelling in DH research dealing with historical artefacts. These prototypical cases were chosen to investigate how model types relate to the cultural objects they represent and how modellers reason with them.
+If we accept Kralemann and Lattmann’s argument, it follows that by modelling we link models to qualities and relationships already existing in the objects being modelled. Such linking is based on choices which are made for a certain end informing and motivating the act of modelling. Models are contingent, created in actual scholarly situations of production and use. A model is partially arbitrary in that the same inferences drawn by manipulating one model could have been reached in other ways, for instance using a different model.
+In this framework, models operate as sign-functions initiating a sign-relation (model-relation). To understand their epistemic role, we need to look at
+
+i38 Digital Scholarship in the Humanities, Vol. 32, Supplement 1, 2017
+
+Modelling in digital humanities
+
+Downloaded from https://academic.oup.com/dsh/article-abstract/32/suppl_1/i33/2669802 by RWTH Aachen, Hochschulbibliothek user on 04 June 2020
+
+both how they come to be and how the similarity relation with the object is realized. By analysing the association of syntactic attributes of the source object with the attributes of the model we focus on the latter; that is, the representational correspondence. To explain the semantics of the model, the analysis of the similarity relation needs to be complemented with an analysis of the overall signrelation in which production and use of models are enacted, as indicated in Fig. 1. Three examples will be used to analyse the three types of sign-functions and relations in a DH context.
+In general one could say that every DH model is a diagram in that it is a formalism of logical and mostly mathematical nature; in this respect, Flanders and Jannidis talk about ‘data structure’ as different from ‘data modelling’ (Flanders and Jannidis, 2015, p. 8). However, we believe we can in fact identify different grades of iconicity corresponding to the three model types mentioned above, namely image, diagram, and metaphor. The classic example that comes to mind to represent an image-like model is a 3D graphic model such as, for instance, the model of an historical monument. The digital model acts as a surrogate of or a substitute for the reconstruction of the real object. A diagrammatic version of the same model could be the mathematical equations used to create the graphical 3D model. Below we dwell on three examples in detail.
+4.1 Example 1: Image-like model
+We will use an example from digital palaeography research (Ciula, 2005, 2009), where the abstract model letter acts as an image-like model of the samples it was algorithmically generated from. What we can learn about the objects of analysis (the medieval handwritten letterforms) depends on the features being selected in the modelling process. What is relevant for the scope of this article is that the inferential power of the model is mainly based on a strong immediate similarity (what above was called resemblance) between model and object. We can unpack this further by stating that the similarity is first and foremost of spatial nature: the handwritten letter is a two-dimensional spatial object as its spatial model is. However, their temporalities are different. We encounter single instances of letters in
+
+the manuscript pages, while the morphing models shown in Fig. 4 incorporate variants that can be visualized in sequence.
+This specific palaeographical model is based on immediate similarity relevant for this context. The ‘a’ of the model looks very much alike the ‘a’ of the handwriting in the manuscript, they have the same spatiality. Its hermeneutical power relies, however, also on a different temporality between object and model. Anchoring the reasoning on the spatial similarity and going beyond it enable us to learn new things about the object. Indeed, new inferences are fostered by the availability of an ‘actual’ temporal element in the morphing of the model. While we have to look at all single instances in the manuscript, we get a model which incorporates all variants, and by sliding from left to right, we can ‘see’ those variants in real time. The object itself, however, is not temporal in this sense. So while the model is an abstraction—a fuzzy image which loses the precision of the instances out of which it was generated (representation is indeed asymmetrical) while keeping a basic (symmetrical) similarity to it—it gains an actual temporal mode that the single instance objects do not hold. If the modeller can make any inferences this is also due to her awareness of scribal variants and of what morphological traits are more revealing of different dating and location than others. So context and prior knowledge are important not only for the creation of models but also—not surprisingly— for their interpretation.13
+4.2 Example 2: Relational model
+As an example we will use models of landscapes described in historical sources, where textual information is modelled in the form of maps (Eide, 2015b). The inferential power of the model relies on the analogous relational structure between object and model. When the text says ‘A is north of B’ it makes a claim about a geometrical relationship between places denoted in the text. A map showing A north of B makes a claim expressing a similar geometrical structure. What new we can know about the object of analysis depends very much on the correspondence between the structuring of the textual expressions in the modelling process and the structure of the map model.
+
+Digital Scholarship in the Humanities, Vol. 32, Supplement 1, 2017
+
+i39
+
+A. Ciula and Ø. Eide
+
+Downloaded from https://academic.oup.com/dsh/article-abstract/32/suppl_1/i33/2669802 by RWTH Aachen, Hochschulbibliothek user on 04 June 2020
+
+Fig. 4 Image-like model. Morphological features of segmented letter forms are modelled into an average morphing letter. Inferences on the manuscript handwriting are based on the analysis of the morphing letter-models in virtue of an ‘immediate resemblance’ between the original letters and the model
+
+The model–object relationship here is not between an expression and a landscape but between two expressions in different media, as shown in Fig. 5. These media express structural relationships in fundamentally different ways. To see the structural similarity one needs to understand the written language being used in the text, the schemata used in topographical maps to convey meaning, and have experience of real landscapes. These elements define the context of the model.
+In this example ‘similarity’ is not immediate resemblance. The digital model—the map—looks completely different from the source object—the text, but there is a structural similarity between the two. This structural similarity possesses a strong hermeneutical potential. It can be used to reveal gaps; there are things expressed in the text that cannot be put on the map. Examples of things that cannot be expressed include open, borderless expressions such as ‘the area north of the river’ and ambiguous expressions such as
+
+‘Either A or B is on the border’.14 The analogy breaks at some point; the examples show how the signification of rich expressions in the text cannot be communicated via the structure of the map. Realizing this can lead to new knowledge, or rather to renegotiating what a text can mean, the meanings of a text. Based on the structural correspondence and non-correspondence between the virtual geographical space of the text and the geographical space of the map, the map makes the virtual space ‘visible’ and in so doing reveals a dissimilarity. It pinpoints the degree to which the text is underspecified spatially, how open the virtual space of the text is. This forces our understanding of the text to change.15
+4.3 Example 3: Metaphor-like model16
+Finally, we will use the example of network models used to capture information about references to persons in historical sources. These can be used to tie specific textual passages to real-world historical
+
+i40 Digital Scholarship in the Humanities, Vol. 32, Supplement 1, 2017
+
+Modelling in digital humanities
+
+Downloaded from https://academic.oup.com/dsh/article-abstract/32/suppl_1/i33/2669802 by RWTH Aachen, Hochschulbibliothek user on 04 June 2020
+
+Fig. 5 Relational model. Relational textual expressions are modelled into geometrical relations. Inferences on space as expressed in the text are drawn in virtue of the corresponding spatial structure in the map
+
+entities, but also to form parts of networks of coreferences (Eide, 2009). The association of things shaped as woven networks (e.g. leaf venation, a spider, or a fishing net) or of technical networks (e.g. in telecommunication) to describe relationships between people is metaphorical.17 The inferential power of the model leverages on a deep conceptual similarity between the model (the topography of a network) and the object (e.g. kinship of historical characters). It can generate unexpected connections between the objects it represents, which exist ‘only’ metaphorically in a network.
+In the example in Fig. 6 we see a historical picture of a man and a woman laying her hand on his. The literature over the reading of this 15th century paining by Jan van Eyck18 is vast. For example, one interpretation of this image sees it as a claim that the two depicted persons are married; another suggests more subtly that the joining of arms is rather an act of presentation by the man in the picture of the child to be borne in the woman’s womb to the destinatary in the mirror, hence exhibiting the fatherhood of the painter (Lancioni, 2012). Whatever the symbolic link between the figures, the physical link establishes a bond between them.
+
+This bond can be associated to, and hence expressed as, a link between two nodes in a network.
+There are also other types of links deduced from historical documents that can be expressed using a network model. One is co-reference, for instance in the case where two person references expressed by two different statements, such as names in texts or pictures of identifiable persons, refer to the same person. A source can for instance claim that B and C, the person on the image and a name in a text, refer to the same person. Such claims can also be expressed as links between nodes in a network.
+Both these types of links are metaphorical. There are no strings attaching occurrences of names referring to the same historical characters to each other, and there are no connections between historical persons that bear any structural similarity to the topography of a net. The social network in the model is a projection of a conceptual framework. Concepts from our understanding of social relations are combined with a sequential object, the text, and a two-dimensional painting, to form a spatial network model.
+But the development and use of such models change our view on history, we start seeing relationships as networks. The network gains hermeneutical
+
+Digital Scholarship in the Humanities, Vol. 32, Supplement 1, 2017
+
+i41
+
+A. Ciula and Ø. Eide
+
+Downloaded from https://academic.oup.com/dsh/article-abstract/32/suppl_1/i33/2669802 by RWTH Aachen, Hochschulbibliothek user on 04 June 2020
+
+Fig. 6 Metaphor-like model. Person names and their relationships as referred to by a document are modelled respectively into entities (nodes) and into properties connecting them (links). Assertions of co-reference are also modelled into properties connecting entities. Thus the net is used to model social relations as well as assertions about people
+
+power and makes visible as well as quantifiable aspects of a past family network or societal relations. However, different types of relationships (family vs. co-reference) easily lose their particularity and become ‘just’ links. The chain of signs become greedy and takes over another cognitive space or plane which in fact deals with relations with a different semantics, in our example moving from the plane of assertion of social relations to the plane of assertion of co-reference.
+One meaning can trigger others; for example, the links between entities not only connote a relation (e.g. kinship), but their length or thickness might also be interpreted as more or less distance between those entities (i.e. more or less related); in this sense the sign (model) takes a life of its own. A link in the net is just a link, and a documented co-reference relationship becomes like a supposed marriage. This feeds back to our view of the modelled objects; in other words: the context/prior knowledge influences the construction and interpretation of the model, but is also in turn influenced by it.
+Common for all three types of models is the inferential power operating at the interplay between their ‘intrinsic structure’ and their ‘extrinsic
+
+mapping’ (Kralemann and Lattmann, 2013, p. 3409). Indeed, the features being selected in the modelling process are influenced by contextual elements of different kinds, including hypothesis, scholarly methods and conventions, sample selection, and the technologies being used. However, the inferential and epistemic power of the model relies both on extrinsic and intrinsic aspects of the model relation. In the former case, examples show us how—sometimes with vivid immediacy—similarity of existing verifiable qualities between object and model enable DH modellers to manipulate models to make new sense of those objects. In the latter case, examples show us again how models are conductive to new meaning and further modelling through our exercising of a certain imaginative freedom in selecting salient qualities and associating concepts.
+5 Conclusions
+In the article, we focused on some aspects highlighted in Kralemann and Lattmann’s semiotic theory of models with respect to the role of ‘context’
+
+i42 Digital Scholarship in the Humanities, Vol. 32, Supplement 1, 2017
+
+Modelling in digital humanities
+
+Downloaded from https://academic.oup.com/dsh/article-abstract/32/suppl_1/i33/2669802 by RWTH Aachen, Hochschulbibliothek user on 04 June 2020
+
+in modelling acts and the nature of the ‘representational relation’ between objects and models through practical examples. We believe that these two foci are where modelling practices in DH meet with this semiotic framework in productive ways to explain both formal and open aspects of modelling practices.
+We contextualized this framework with specific examples of image-like, relational, and metaphorlike modelling in DH research. Prior knowledge is a sine qua non to create models in the first place and to use them as interpretative tools with respect to the objects they are signs of (Ciula and Eide, 2014). The relationships between modelling processes and interpretative outcomes are neither mechanical nor directly causal (Ciula and Marras, 2016); however, the type of similarity on which modelling relies shapes the interpretative affordances of those ‘anchor’ models. Modelling processes bring about investments and burdens with respect to our knowledge of the objects we model. In particular, models as signs relate to the interpretation of those objects in different ways, from the immediate similarity on the image end of the iconic ‘continuum’ to the imaginative ramifications of conceptual similarity on the metaphorical end. To understand the inferential, epistemic, and heuristic role of models as sign-relations, we need to look at both how they come to be (context; i.e. how we make our prior knowledge explicit and in most cases formalized) and how the similarity relation with the object is used to create meaning (new knowledge).
+In summary, studying the ‘single respects’ (Kralemann and Lattmann, 2013, p. 3401; in Peircian terms ‘the ground of the representantem’) by which a model becomes a sign for an object is useful to explain both the logic and syntax of DH models within specific contexts. It demonstrates how these models are built as well as how the relation with the object is realized, for example, in terms of spatio-temporal modalities. The selection of salient qualities or features to exhibit in the models plays a crucial role both in the creation and interpretation of these models. Such selection is however not necessarily human-driven only. We increasingly use computing algorithms to facilitate or even propose that selection, especially in complex
+
+environments where variables are many and interconnected (e.g. pattern recognition in image processing or textual similarity in stylometry).
+Our examples showed how the relationship of iconicity between the model and the object being modelled is partly extrinsically determined (it relies on the similarity between the model and the object) and partly guided by intrinsic choices (it depends on theory, conventions, imaginative associations, and prior knowledge). Indeed we showed how the inferential power operates at the interplay between their ‘intrinsic structure’ and their ‘extrinsic mapping’ (Kralemann and Lattmann, 2013, p. 3409). A future challenge would be to explore how the interplay between intrinsic structures of models (selection of salient qualities) and extrinsic mapping (their iconic ground) develops in the creation of scholarly arguments in the humanities.
+From this exploration of the semiotics of models we gained a different way to look at and analyse models: models as a type of signs mediating between the impressions of experience and freedom of association. In future research we aim to combine further studies of modelling practice in DH with interdisciplinary studies of modelling in the sciences and the long tradition of abstraction, representation, and modelling in the humanities to expand the model of models presented here. The main challenge remains to grasp the iterative and generative translation of informal models into formal ones and vice versa.
+References
+Beynon, W. M., Russ, S., and McCarty, W. (2006). Human computing: modelling with meaning. Literary and Linguistic Computing, 21: 141–57.
+Bradley, J. (2015). How About Tools for the Whole Range of Scholarly Activities? Sydney, Australia: Digital Humanities, June 29–July 3, 2015.
+Buzzetti, D. (2002). Digital representation and the text model. New Literary History, 33: 61–88.
+Ciula, A. (2005). Digital Palaeography: Using the Digital Representation of Medieval Script to Support Palaeographic Analysis. Digital Medievalist, 1.1, Lethbridge. http://www.digitalmedievalist.org/journal/ 1.1/ciula/ (accessed 3 November 2014).
+
+Digital Scholarship in the Humanities, Vol. 32, Supplement 1, 2017
+
+i43
+
+A. Ciula and Ø. Eide
+
+Downloaded from https://academic.oup.com/dsh/article-abstract/32/suppl_1/i33/2669802 by RWTH Aachen, Hochschulbibliothek user on 04 June 2020
+
+Ciula, A. (2009). The palaeographical method under the light of a digital approach. In Rehbein, M., Sahle, P. and Schaßan, T. (eds), Kodikologie und Pala¨ographie im digitalen Zeitalter/Codicology and Palaeography in the Digital Age. Norderstedt: BoD, pp. 219–35. http:// kups.ub.uni-koeln.de/volltexte/2009/2971/ (accessed 3 November 2014).
+Ciula, A. and Eide, Ø. (2014). Reflections on Cultural Heritage and Digital Humanities: Modelling in Practice and Theory. In First International Conference on Digital Access to Textual Cultural Heritage (DATeCH), Madrid, Spain, pp. 35–41. http://dl.acm. org/citation.cfm?id=2595207 (accessed 3 November 2014).
+Ciula, A. and Marras, C. (2016). Circling around texts and language: towards ‘‘pragmatic modelling’’ in Digital Humanities. Digital Humanities Quarterly, 10(3). http://www.digitalhumanities.org/dhq/vol/10/3/ 000258/000258.html (accessed 6 September 2016).
+Eide, Ø. (2009). Co-Reference: A New Method to Solve Old Problems. Maryland: Digital Humanities, University of Maryland, June 22–25, 2009, pp. 101–103.
+Eide, Ø. (2015a). Ontologies, data modeling, and TEI. Journal of the Text Encoding Initiative, 8. http://jtei. revues.org/1191 (accessed 5 September 2016).
+Eide, Ø. (2015b). Media Boundaries and Conceptual Modelling: Between Texts and Maps. Houndmills, Basingstoke, Hampshire: Palgrave Macmillan.
+Ellestro¨m, L. (2010). The modalities of media: a model for understanding intermedial relations. In Ellestro¨m, L. (ed.), Media Borders, Multimodality and Intermediality. Basingstoke: Palgrave McMillan, pp. 11–48.
+Ellestro¨m, L. (2013). Spatiotemporal aspects of iconicity. In Ellestro¨m, L., Fischer, O., and Ljungberg, C. (eds), Iconic Investigations. Amsterdam: John Benjamins Pub, pp. 95–117.
+Erickson, M. (2012) Network as metaphor. International Journal of Criminology and Sociological Theory, 5: 912–21.
+Flanders, J. and Jannidis, F. (2015). Knowledge Organization and Data Modeling in the Humanities. [White Paper]. https://opus.bibliothek.uni-wuerzburg. de/frontdoor/index/index/docId/11127.
+Frigg, R. and Hartmann, S. (2012). Models in science. In Zalta, E. N. (ed.), The Stanford Encyclopedia of Philosophy. Fall 2012 edn. Stanford, CA: Stanford University. http://plato.stanford.edu/entries/modelsscience/ (accessed 3 November 2014).
+
+Godfrey-Smith, P. (2009). Models and fictions in science. Philosophical Studies, 143(1): 101–16.
+Hoffmann, M. H. G. (2011). Cognitive conditions of diagrammatic reasoning. Semiotica, 2011: 189–212.
+Jannidis, F. and Flanders, J. (eds). (2012). Knowledge Organization and Data Modeling in the Humanities: An Ongoing Conversation. Workshop at Brown University, Providence, Rhode Island. http://datasymposium.wordpress.com (accessed 3 November 2014).
+Jannidis, F. and Flanders, J. (2013). A Concept of Data Modeling for the Humanities. Lincoln, NB: Digital Humanities, pp. 237–39.
+Kralemann, B. and Lattmann, C. (2013). Models as icons: modeling models in the semiotic framework of Peirce’s theory of signs. Synthese, 190: 3397–420.
+Lancioni, T. (2012). Il ‘‘Doppio ritratto’’ di Jan Van Eyck. In Uno sguardo impertinente. E/C. Rivista dell’Associazione Italiana di studi semiotici (AISS), Palermo. http://www.ec-aiss.it/archivio/tematico/arte/ arte.php (accessed 2 April 2016).
+MacEachren, A. M. (2004). How Maps Work: Representation, Visualization, and Design. New York: Guilford Press.
+Mahr, B. (2009). Information science and the logic of models. Software & Systems Modeling, 8: 365–83.
+McCarty, W. (2005). Humanities Computing. Basingstoke: Palgrave Macmillan.
+Morgan, M. S. (2012). The World in the Model: How Economists Work and Think. Cambridge: Cambridge University Press.
+Morrison, M. (2009). Models, measurement and computer simulation: the changing face of experimentation. Philosophical Studies, 143(1): 33–57.
+Nersessian, N. J. (2008). Creating Scientific Concepts. Cambridge, MA: MIT Press.
+Olteanu, A. (2015). Philosophy of education in the semiotics of Charles Peirce. In A Cosmology of Learning and Loving. Oxford, Bern, Berlin, Bruxelles, Frankfurt am Main, New York, Wien: Peter Lang.
+Peirce, C. S. (1933). Collected Papers of Charles Sanders Peirce [CP], Volume IV, The Simplest Mathematics. Hartshorne, C. and Weiss, P. (eds). Cambridge, MA: Harvard University Press.
+Stachowiak, H. (1973). Allgemeine Modelltheorie. Wien, NY: Springer-Verlag.
+Winsberg, E. (2003). Simulated experiments: methodology for a virtual world. Philosophy of Science, 70: 105–25.
+
+i44 Digital Scholarship in the Humanities, Vol. 32, Supplement 1, 2017
+
+Modelling in digital humanities
+
+Downloaded from https://academic.oup.com/dsh/article-abstract/32/suppl_1/i33/2669802 by RWTH Aachen, Hochschulbibliothek user on 04 June 2020
+
+Wood, D. (1993). The Fine Line between Mapping and Mapmaking. Cartographica: The International Journal for Geographic Information and Geovisualization 30(4): 50–60.
+Notes
+1 Our pragmatic understanding of modelling is comparable to what Beynon et al. call Empirical Modelling: ‘Model-building in EM [Empirical Modelling] evolves through an extended process of observation and experiment in which exploration and negotiation of meaning play a fundamental role’ (2006, p. 152). In our work we make specific reference to Peirce’s semiotic pragmatism rather than Jamesian pragmatism, since the latter implies a different understanding of experience and hence of the use of the term ‘pragmatism’. See Olteanu 2015 (81–104) for an informed and detailed explanation of this. What is particularly insightful in Peirce’s philosophy for us is his ‘understanding of life in term of phenomena of signification’ (idem: 83), which goes beyond and even against the epistemological account of (relativist) experience in James.
+2 This echoes of course McCarty’s approach to modelling as ‘orientation to questioning rather than to answers, and opening up rather than glossing over the inevitable discrepancies between representation and reality on which that questioning focuses’ (McCarty, 2005, p. 38).
+3 This work of contextualizing modelling within a semiotic approach builds on Kralemann and Lattmann (2013) as well as its recent applications to modelling in DH (Ciula and Marras, 2016; Ciula and Eide, 2014).
+4 The distinction between the three types of hypoicons is not meant to be clear-cut. We follow Ellestro¨m (2013) amongst others in seeing these types as grades of a ‘continuum’ or even of a development rather than separate categories.
+5 Beynon et al. defend such pragmatic or empirical approach to modelling (based on William James’ pluralist philosophy of ‘radical empiricism’) which emphasizes the role of informal semantics over the ‘formal semantics of computation’ (2006, p. 154). ‘[. . .] all kinds of conception of model are possible through assuming different kinds of context, observation, and agency’. (2006, p. 155) On the historical contingency of models especially within the context of economics see Morgan (2012, pp. 1–37).
+6 Extensive literature in philosophy of science especially focusing on the use of models in the empirical sciences recognizes models (including computational models) as mediators between theory and objects of analysis (e.g.
+
+Winsberg, 2003; Morrison, 2009). Within a semiotic context, this finds a parallel in the concept of sign-vehicles functioning as mediators between denotational and connotational qualities, between thing and meaning (MacEachren, 2004, p. 246). 7 Following Nersessian, we subscribe to an expanded understanding of reasoning as ‘creative reasoning’ beyond logic and spanning the ‘continuum’ between ordinary and scientific problem-solving. Model-based reasoning is not a simple recipe always leading to correct solutions, and reasoning cannot be equated with logic. Most scientific practice do not fit the traditional philosophical ‘gold standard’ of deductive reasoning. ‘The ‘‘hypothetico-deductive’’ method, which comprises hypothesis generation and the testing of deductive consequences of these, is a variation that focuses the fallibility of science with respect to the premises. This leaves out of the account the prior inferential work that generates the hypotheses. [. . .] In modelbased reasoning, inferences are made by means of creating models and manipulating, adapting, and evaluating them. [. . .] Analogical, visual, and simulative modeling are used widely in ordinary and in scientific problem solving, ranging from mundane to highly creative usage. On a cognitive-historical account, these uses are not different in kind, but lie on a continuum.’ (2008, pp. 11–12). We wish to thank Gabor Toth for pointing out the relevance of Nersessian’s work to our research. 8 As pointed out by Beynon et al., ‘it is now possible to make computer models with which we can deliberately dwell upon our personal understanding of something of interest for its own sake, and without any functional use yet in mind’ (2006, 146). 9 http://www.tei-c.org/ (checked 2015-03-19). 10 McCarty (2005, pp. 32–3) qualified extensively the relationship between diagramming and modelling. 11 Note that the term ‘sensuously’ (rather than e.g. ‘sensorial’) occurs here for specific reasons. While one of our current senses of ‘sensuous’ has hedonistic and even erotic connotations, this was not the case for philosophers in the 19th century. For continental philosophy in particular (e.g. Kant and Hegel), the term ‘sensuousness’ is used in connection to the immediacy of nature and in relation or opposition to conceptual understanding. Sensuous encounter is hence considered to be devoid of analytical consciousness and intention. Peirce uses the term to refer to the impression of experience in its (conscious) immediacy as well as individuality situated in space and time with no ontological or moral bearing. 12 On Ellestro¨m’s system for media modalities applied to modelling of spatial information in DH, see Eide (2015b).
+
+Digital Scholarship in the Humanities, Vol. 32, Supplement 1, 2017
+
+i45
+
+Downloaded from https://academic.oup.com/dsh/article-abstract/32/suppl_1/i33/2669802 by RWTH Aachen, Hochschulbibliothek user on 04 June 2020
+
+A. Ciula and Ø. Eide
+
+13 Note that interpretation involves multiple and intertwined processes of signification; iconic signs are indeed ‘mixed with indexical and symbolic ways of interpreting’ (cf. Ellestro¨m, 2013, p. 113).
+14 Various attempts have been made to put such things on maps. See Eide (2015b) for an extensive discussion.
+15 This is exactly what happened in the modelling experiments described in Eide (2015b), where differences between the structures expressed in the text and structures expressible as maps were found. The model could not express what the source object expressed.
+16 In Kralemann and Lattmann (2013) these models are claimed to be based on semiotic similarity, but this
+
+appears categorically misleading to us so we privilege the concept of metaphor taken from Peirce. 17 For a recent discussion on the benefits and pitfalls of the use of network as metaphor in social sciences, see Erickson (2012). 18 The National Gallery, London, image number NG186. 19 While it is outside the scope of this article to account for the nuanced and precise terminology adopted by Peirce, it should be noted that he defines a subclass of icons called ‘hypoicons’ which are in their turn divided into images, diagrams, and metaphors; for a recent detailed and comprehensive overview of Peirce’s categories and taxonomy of signs, see Olteanu (2015, 61–79).
+
+i46 Digital Scholarship in the Humanities, Vol. 32, Supplement 1, 2017
+

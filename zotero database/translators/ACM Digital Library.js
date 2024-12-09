@@ -9,7 +9,7 @@
 	"priority": 100,
 	"inRepository": true,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2023-03-16 04:45:00"
+	"lastUpdated": "2024-07-30 05:25:00"
 }
 
 /*
@@ -167,7 +167,7 @@ function scrape(doc) {
 			item.abstractNote = ZU.trimInternal(abstract);
 		}
 		
-		let pdfElement = doc.querySelector('a[title=PDF]');
+		let pdfElement = doc.querySelector('a[title="View PDF"]');
 		if (pdfElement) {
 			item.attachments.push({
 				url: pdfElement.href,

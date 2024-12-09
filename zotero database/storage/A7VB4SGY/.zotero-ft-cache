@@ -1,0 +1,132 @@
+COPYRIGHT
+Copyright © 2003 by authors, Utrecht University and Digital Games Research Association (DiGRA). All rights reserved. Except for the quotation of short passages for the purpose of criticism and review, no part of this publication may be reproduced or utilized in any forms or by any means, electronic or mechanical, including photocopying, filming, recording, or by any information storage and retrieval system, without permission in writing from the copyright holders.
+The editors, Utrecht University and DiGRA wish to make the following acknowledgement: Chapter 3. Espen Aarseth, Solveig Marie Smedstad & Lise Sunnanå, A multidimensional typology of games. Printed by permission of The European Commission. This paper is based upon work funded by the European Commission as part of contract number IST-2001-38846 and knowledge generated through that funding remains property of the European Communities. The views and opinions expressed in this paper are those of the authors and do not necessarily reflect those of the European Commission. The authors would like to thank the European Commission for permission to present this work and use project data.
+
+3.A MULTI-DIMENSIONAL TYPOLOGY OF GAMES
+
+Espen Aarseth Solveig Marie Smedstad Lise Sunnanå
+
+ABSTRACT This paper builds on a general typology of textual communication (Aarseth 1997) and tries to establish a model for classifying the genre of “games in virtual environments”— that is, games that take place in some kind of simulated world, as opposed to purely abstract games like poker or blackjack. The aim of the model is to identify the main differences between games in a rigorous, analytical way, in order to come up with genres that are more specific and less ad hoc than those used by the industry and the popular gaming press.
+The model consists of a number of basic “dimensions”, such as Space, Perspective, Time, Teleology, etc, each of which has several variate values, (e.g. Teleology: finite (Half-Life) or infinite (EverQuest. Ideally, the multivariate model can be used to predict games that do not yet exist, but could be invented by combining the existing elements in new ways.
+KEYWORDS Game Genres, Typology of games, games in virtual environments
+INTRODUCTION Games are the most culturally rich and varied genre of expression that ever existed. It is also one of the least studied, especially from a humanist, aesthetic perspective. Unlike literature, film, music, painting and architecture, the systematic study of game genres have been mostly neglected over the centuries. Perhaps the reason is that games are so diverse that it is very hard to see what they all have in common.
+Previous attempts to classify and typologize games often suffer from the apparent tendency to include too many, arbitrary, incompatible or overlapping categories. Another problem is the use of historically dated technology categories without pointing out this diachronic factor. In this paper we propose a multi-dimensional typology that can be used to classify all games based on spatial movement, including physical sports, board games, and computer games. The typology is biased towards spatial games, but can also be used to classify non-spatial games (e.g. card games) simply by excluding the spatial dimensions.
+The fifteen dimensions are grouped under five headings: Space, Time, Player-structure, Control, and Rules. These headings are simply for the reader’s
+
+q Computer Games What’s in a game? 49
+
+convenience and do not play any important role in the typology itself. It should also be pointed out that the typology is by no means the definite classification system for games; it is open in the sense that it can be improved and partially modified by anyone, simply by rejecting or changing some of the dimensions.
+It is vital to point out that we distinguish between game brands (or game platforms) (e.g. Return to Castle Wolfenstein) and actual games played on that platform, e.g. RTCW Multiplayer Stopwatch. Only the latter is a game in our sense, since it makes no sense to look at a single player game and a multiplayer game as the same game. As far as this typology goes, they are two different games, like poker and solitaire, which happen to use the same deck of cards.
+
+typology. What follows is a description of each of the dimensions and their variables.
+Space Space is a key meta-category of games. Almost all games utilize space and spatial representation in some way, and there are many possible spatial categories we could use, a typical one being the distinction between 2D and 3D games. However, this distinction seems to be mostly historical, since the early games were mostly 2D and the modern games are usually 3D. Also, it does not allow for a good representation of board games, which are two-dimensional in movement, but three-dimensional in representation. This problem holds for many computer games as well.
+
+Notes on terminology and method A game is a voluntary trial consisting of rules, and involves one or more players. A player is a human game-participant. An adversary is a strategic agent capable of winning or losing. It may be either human or mechanical/programmed. An intragame is a game within the game, e.g. the Pachinko machine in Duke Nukem 3D. Since computer games are based on simulator technology that could mix or include any other game in addition to the main game, the main game will be the only one classified.
+Methodologically, this paper builds on Aarseth (1997), and is inspired by Ziegfield (1989). The dimensional categories and their values are gathered by taking two similar games, say Morrowind and Diablo, and then try to describe the difference between them in a principal way. If this is possible, the principle is extracted and applied to other games. If there are games that do not fit either categorical value, a third value is introduced, or if this is not possible, the dimension is rejected as too arbitrary. The process is repeated until a suitable list of categories and values have been compiled. This list then becomes the
+
+1) Perspective: Onmi-present, Vagrant Games like Chess, football and Warcraft allow the player to examine the entire field or arena at will; their player-perspective is omni-present. In some games the view may be partially blocked (e.g. “Fog of War”), but the player is typically able to examine different parts of the field without some sort of strategic movement. In other games, such as Crowther and Woods’ Adventure, Id Software’s Doom, or Verant/ Sony’s EverQuest, the perspective follows a main player-token or avatar: the player-perspective is vagrant. An alternative categorization here is often based on visual perspective, typically the games are said to be, 1st person, 3rd person, or isomorphic.
+However, many newer games (e.g. Morrowind), allow the player to switch between 1st and third perspective, so this distinction cannot then be used to classify these games. Also, an “isomorphic” game could be either omni-present or vagrant, so this category lacks distinctive power, and is not used here.
+2) Topography: Geometrical, topological A game’s topography can be either geometrical, with
+
+A MULTI-DIMENSIONAL TYPOLOGY OF GAMES
+50
+
+continuous freedom of movement, or topological, giving the player only discrete, non-overlapping positions to move between. In Quake Arena, a geometrical game, the player’s movements are in all directions, with millions of alternative positions, and the player’s position in the game-world can be moved one minuscule increment at a time. In Chess, a topological game, the pieces can only be moved between 64 nonoverlapping positions. It could be argued that some games are in-between these two categories, with a limited but overlapping number of positions (e.g. Starcraft), thus deserving a third, separate category. However, since these games typically do not allow game elements to overlap, e.g. only one game token can occupy a given position at any time, we choose to include them in the topological category.
+
+3) Environment: Dynamic, Static Some game environments remain unchanged for the duration of the game, while others may be modified by the player. In (physical) football and chess, the game arenas remain unchanged, whereas in Heroes of Might And Magic III, or Lemmings, the environment is strategically manipulated by the player. In the case of certain games, e.g. adventure games where doors may be locked and unlocked, the object of manipulation is merely changed in status rather than functionally (e.g. building a factory in Warcraft or Age of Empires), so even if the environment is influentiable and controllable, it is still static.
+
+Geometrical Topological
+
+Perspective
+Omni present D Age of Empires S Pac Man/football D Heroes of M&M S Chess
+
+Vagrant D Wolfenstein MP S Baldur’s Gate D Botfighters S Gangster City
+
+Topography
+
+Fig. 1: A spatial classification using Perspective, Typography and Environment. D= Dynamic environment S= Static environment
+
+Time Time is a hard category to define and describe in relation to computer games. Since games are usually dominated by space, and structured spatially, the use of time varies from game to game, as well as within the same game. In GTA3, for instance, many of the sub-quests or missions are time-based in different ways, and time in these are therefore very different from time for the between-missions game, where the player-character can be left standing around for “days” without any consequences. In short, the functions of time in a game seem to be governed by the social structure of a game. Thus, single-player games can be saved, stored and retrieved, while large multiplayer games do not allow saving, since that would be impossible to coordinate among the players. Similarly, concepts like “bullet time” (Max Paine, Postal 2), would probably not make sense in a multi-player setting, since it would be blatantly unfair. Something similar to bullet time could be achieved, by slowing down the speed of all other players or adversaries, but that would probably weaken the balance (and therefore the perceived quality) of the game.
+Since most time-related game structures so often vary within the same game, they are almost useless for classifying games. Nevertheless, here we suggest three dimensions that are general enough to be distinctive.
+4) Pace: Realtime, Turnbased Some games allow the player(s) to be active all the time and independently of the adversaries (if any) in the game (e.g. Starcraft); others, such as Chess or EverQuest, lets each user or adversary act in turn. In games like EverQuest the players may make their moves independently of other players, except when interacting, e.g. in the form of battle, when the players and adversaries take turns beating each other. In the case of EverQuest, a subscribed service, the use of turns is out of fairness, since otherwise those players with good connections or connections close to the server would be much quicker than the rest.
+
+q Computer Games What’s in a game? 51
+
+The games that let players act independently and at their own speed, for instance Quake Arena, are paced in Realtime, while those where the incentive is controlled and interchanged evenly between players and adversaries, is termed Turnbased.
+
+5) Representation: Mimetic, Arbitrary Another dimension is that of the representation of time. In some games, like Tetris or Age of Empires, the representation is arbitrary, since the falling tetraminoes or the building of houses do not mimic the falling or building of real objects. In games like EverQuest or Morrowind, the representation is mimetic, since the time of the actions in the game mimics the time of corresponding actions in the real world.
+
+6) Teleology: finite, infinite Teleology relates to the final goal of the game. Some games never reach a clear winning state, and could in principle go on endlessly. These games have an infinite teleology, while the games with clearly defined successful outcomes for one or more players are teleologically finite.
+
+Mimetic Arbitrary
+
+Pace
+Realtime F Quake III Arena I <none> F Age of Empires I Tetris
+
+Turnbased F Golf I EverQuest F Chess, Heroes III I MUD1
+
+Representation
+
+Fig. 2: A temporal classification using Pace,
+
+Representation and Teleology
+
+F= fifnite (teleology)
+
+I=infinite (teleology)
+
+Player structure All games consist of players (actors). It is common to distinguish between singleplayer and multiplayer games, but we see this as an oversimplified categorization, which fails to describe the important social differences between multiplayer games like chess and EverQuest. Instead, we propose six major player structure categories:
+7) Playerstructure: Singleplayer, twoplayer, multiplayer, singleteam, twoteam, multiteam In addition, some games combine multiplayer modes. One example is the BBC TV quiz show The Weakest Link, where a team of nine players both cooperates and competes individually. After voting out one player per round, the final two players compete for the accumulated cash head-to-head. This game starts out as singleteam, becomes multiplayer in the voting sessions between the team rounds, and ends up as two-player. Other complex games, like Anarchy Online, allow players to compete in singleplayer (the spawned missions), multi-player or as multi-team, freely switching between all three. For classification purposes, we have chosen to use the most complex game structure, thus classifying Anarchy Online as a multi-team game, rather than as a multiplayer or singleplayer game. It could be argued that Anarchy Online is not a game but a multipurpose game platform, but instead of introducing new, conglomerate categories here, we regard AO as a multiteam game with singleplayer options, and the spawned missions as intragames.
+The dimension of player-structure could be said to consist of two other dimensions, adversary-structure (None, One, Multiple) and team structure (Individual,
+
+A MULTI-DIMENSIONAL TYPOLOGY OF GAMES
+52
+
+Teambased). However, since they combine unproblematically into one six-category dimension, we find it most rational to use the combination instead. Finally, note that a game with two players on the same
+
+Adversaries None
+One
+Multiple
+
+Individual Singleplayer (Tetris) Twoplayer (Chess) Multiplayer (Quake Arena)
+
+Team Singleteam Dungeons& Dragons Twoteam (Counter Strike) Multiteam (relay race, AO)
+
+Fig. 3: Team-dimension and Adversary-dimension combine to make up Playerstructure.
+
+team (E.g. the shotgun-based coin-op House of the Dead) is a singleteam game, not a twoplayer game.
+
+Control 8) Mutability: static, powerups, experience-leveling (XL) Games control player behavior with rewards of various types. In some games the rewards are simply points or merely the announcement that one has won. Other games reward the player by strengthening the player-character or player position. This influencing of the player’s position we call mutability. Games with no mutability are static. Games with temporary mutability (e.g. a magic sword that may be found and then destroyed) are characterized by powerups, and games where the (strengthening) change is permanent we classify as ExperienceLeveling (XL).
+
+9) Savability: non-saving, conditional, Un-limited While saving the game (storing and retrieving more than one game state for optimization of results) may be considered outside the game proper, the inclusion or omission of Savability has a huge impact on gameplay. A game that cannot be saved is played much more carefully than a game where the player risks nothing by getting the player-character eliminated. There are many types of Savability, but for categorizational reasons we limit the granularity of this dimension to three main types: A non-saving game is one where the player cannot retrieve an earlier stage of the game. This is typical of most, but not all, two- and multiplayer games. A game with conditional Savability, like GTA3, allows the player to store the game-state only at certain positions (between missions in the case of GTA3). This is typical of Console games, where the storage space (e.g. RAM cards) is limited. A game has unlimited Savability if the game can be saved at any stage and at will.
+10) Determinism: deterministic, non-deterministic Some games rely on a random function to introduce elements and situations. Thus, a non-deterministic game cannot be completely predictable, since the outcome of two identical situations may be dissimilar regardless of the player’s action at that point. This is true of all non-singleplayer games, where the human players may not control their opponents’ moves. A deterministic game is one that invariably produces the same result at a given position if the player input is identical each time.
+
+Savability
+
+Non Conditional Unlimited
+
+Multability
+Static D Tetris N Chess D Paperboy* N rugby* D Adventure
+
+N Twin Kingdom Valley
+
+q Computer Games What’s in a game? 53
+
+PowerUps D Pacman N CounterStrike D GTA3 N Halo D Wolfenstein Singleplayer N Diablo
+
+XL D ? N Anarchy Online D HotPursuit* N ? D Baldur’s gate N Heroes III
+
+Fig. 4: A temporal classification using Pace, Representation and Teleology D = deterministic N = non-deterministic
+
+Rules Rules are the most central element of game, yet are notoriously hard to categorize, since it would then be easy to make a new game that breaks the categorization. Instead, we limit our typology to three simple meta-rule dimensions: the presence or absence of topological, timebased and objective-based rules. The effect of these rules must be crucial to the game’s progress or outcome.
+11) Topologicalrules: yes, no A topological rule is a rule that is determined by a condition (say, the player-character’s presence) at a certain position in the gameworld. If all rules are universal, then the game has no topological rules.
+12) Timebasedrules: yes, no A game’s rules are timebased if the mere passing of time changes the games status in a significant way. Thus, GTA3 has timebased rules, since the passing of time in the missions often determines if the outcome is successful or not.
+
+Conclusion These dimensions and their values were attained by close comparative analysis of a number of games. The typology can be used to classify any game, and thus two similar games can be compared and their differences identified and described in detail. Also, new games can be predicted or even constructed simply by adding or changing features along one dimension, e.g. turning an omni-present, realtime multiplayer game (e.g. Starcraft), into an onni-present, realtime, two-team, experience-leveling game. Further research is needed to decide if these dimensions are good enough, but the model does not need to be accepted or rejected as a whole: Any dimension can be modified or replaced, and new dimensions can be added, without destroying the underlying principle.
+References 1. Aarseth, Espen 1997. Cybertext: Perspectives on
+Ergodic Literature. Baltimore and London: The Johns Hopkins University Press.
+
+13) Objectivebased rules: yes, no A game has objective-based rules if its progress or outcome depends on a specific condition being met. Such a rule is typically an addition to the general rules, where a specific game state is specified (attaining a city or killing a hero in Heroes III, or bringing the documents to the Radio room in RTCW: Beach invasion).
+
+2. Ziegfeld, Richard 1989. “Interactive Fiction: A New Literary Genre?” in New Literary History, Volume 20, Number 2, 341-372
+

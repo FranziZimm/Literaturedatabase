@@ -14,7 +14,7 @@
 	"displayOptions": {
 		"includeAppLinks": true
 	},
-	"lastUpdated": "2024-04-24 15:05:00"
+	"lastUpdated": "2024-07-11 09:05:00"
 }
 
 /*
@@ -1496,8 +1496,8 @@ function convert(doc) {
 		}
 	});
 	
-	// Insert a PDF link for highlight and image annotation nodes
-	doc.querySelectorAll('span[class="highlight"], img[data-annotation]').forEach(function (node) {
+	// Insert a PDF link for highlight, underline and image annotation nodes
+	doc.querySelectorAll('span[class="highlight"], span[class="underline"], img[data-annotation]').forEach(function (node) {
 		try {
 			var annotation = JSON.parse(decodeURIComponent(node.getAttribute('data-annotation')));
 		}

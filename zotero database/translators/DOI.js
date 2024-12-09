@@ -9,7 +9,7 @@
 	"priority": 400,
 	"inRepository": true,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2024-05-17 20:25:00"
+	"lastUpdated": "2024-08-21 22:15:00"
 }
 
 /*
@@ -214,7 +214,12 @@ async function retrieveDOIs(doiOrDOIs) {
 		// Don't throw on error
 		translate.setHandler("error", function () {});
 	
-		await translate.translate();
+		try {
+			await translate.translate();
+		}
+		catch (e) {
+			Zotero.debug(`Failed to resolve DOI '${doi}': ${e}`);
+		}
 	}
 }
 

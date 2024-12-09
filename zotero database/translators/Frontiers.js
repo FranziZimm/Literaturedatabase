@@ -9,7 +9,7 @@
 	"priority": 100,
 	"inRepository": true,
 	"browserSupport": "gcsibv",
-	"lastUpdated": "2024-03-05 20:20:00"
+	"lastUpdated": "2024-10-24 15:20:00"
 }
 
 /*
@@ -221,7 +221,7 @@ function finalizeItem(item, doi, supplements) {
 }
 
 function getDOI(url) {
-	let m = url.match(/https:\/\/[^/]+\.frontiersin\.org\/articles?\/(10\.\d{4,}\/[^/]+)/);
+	let m = url.match(/https:\/\/[^/]+\.frontiersin\.org\/(?:journals\/[^/]+\/)?articles?\/(10\.\d{4,}\/[^/]+)/);
 	return m && m[1];
 }
 

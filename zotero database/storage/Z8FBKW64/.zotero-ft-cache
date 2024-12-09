@@ -1,0 +1,428 @@
+70. A linguistic perspective on the notation of form features in gestures
+
+1079
+
+Ott, Edward Amherst 1902. How to Gesture. New York: Hinds and Noble. Park-Doob, Mischa Alan 2010. Gesturing through time: Holds and intermodal timing in the stream
+of speech. Ph.D. dissertation, Department of Linguistics, University of Berkeley. Parrill, Fey 2000. Hand to mouth: Linking spontaneous gesture and aspect. BA thesis, Department
+of Linguistics, University of Berkeley. Quek, Francis, David McNeill, Robert Bryll, Susan Duncan, Xin-Feng Ma, Cemil Kirbas, Karl E.
+McCullough and Rashid Ansari 2002. Multimodal human discourse: Gesture and speech. Association for Computing Machinery, Transactions on Computer-Human Interaction 9(3): 171–193. Seyfeddinipur, Mandana 2006. Disﬂuency: Interrupting Speech and Gesture. (Max Planck Institute Series in Psycholinguistics, 39.) Nijmegen: Max Planck Institute. Sowa, Timo 2006. Understanding Coverbal Iconic Gestures in Object Shape Descriptions. Berlin: Akademische Verlagsgesellschaft. Sparhawk, Carol 1978. Contrastive-Identiﬁcational features of Persian gesture. Semiotica 24(1/2): 49–86. Stokoe, William C. 1960. Sign Language Structure: An Outline of the Communicative Systems of the American Deaf. Studies in Linguistics, occasional paper, no. 8. Buffalo, NY: University of Buffalo Press. Trubetzkoy, Nikolaj S. 1958. Grundzu¨ ge der Phonologie. Go¨ ttingen: Vandenhoeck und Ruprecht. Webb, Rebecca 1996. Linguistic features of metaphoric gestures. Ph.D. dissertation, University of Rochester, Rochester, New York. Wilson, Andrew D., Aaron F. Bobick and Justine Cassell 1996. Recovering the temporal structure of natural gesture. In: Proceedings of the Second International Conference on Automatic Face and Gesture Recognition, 66–71. Wittenburg, Peter, Hennie Brugman, Albert Russel, Alex Klassmann and Han Sloetjes 2006. ELAN: A professional framework for multimodality research. In: Proceedings of LREC 2006, Fifth International Conference on Language Resources and Evaluation. Yasinnik, Yelena, Margaret Renwick and Stefanie Shattuck-Hufnagel 2004. The timing of speech accompanying gestures with respect to prosody. In: Proceedings From Sound to Sense, 97–102. http://velar.phonetics.cornell.edu/peggy/FA-Yasinnik-STS-MAC.pdf (29 November 2010).
+Silva H. Ladewig, Frankfurt (Oder) (Germany) Jana Bressem, Chemnitz (Germany)
+
+70. A linguistic perspective on the notation of form features in gestures
+
+1. Introduction 2. Theoretical and methodological framework: A linguistic (semiotic) perspective on gesture
+analysis 3. A form-based notation system for gestures 4. Applying the notation system: Some examples 5. Conclusion 6. References
+Abstract
+This chapter presents a notation system for gestures, which, by focusing solely on gestures’ physical appearance, directs the attention to the different facets of a gesture’s form and
+Mu¨ller, Cienki, Fricke, Ladewig, McNeill, Teßendorf (edsB.)e2r0e1it3g, eBosdteyl–lt Lvaonngu|agReW– TCoHmAmauncihcaetinonH(oHScKhs3c8h.1u),lbdeibGliroutyhteerk, 1079–1098 Angemeldet | mittelberg@humtec.rwth-aachen.de Heruntergeladen am | 10.01.14 13:43
+
+1080
+
+V. Methods
+
+focuses on its detailed characterization. The system is grounded in a linguistic-semiotic approach to gestures, assuming a heuristic separation of form, meaning, and function in the analytical process. Based on the four parameters of sign language (hand shape, orientation, movement, and position in gesture space), the notation system includes guidelines for the notation of gestures’ forms with regard to their physical appearance.
+
+1. Introduction
+Notation, coding or annotation systems for gestures have been proposed by a range of researchers (e.g., Birdwhistell 1970; Calbris 1990; Duncan n.d.; Gut et al. 2002; Kipp 2004; Lausberg and Sloetjes 2009; Martell 2005; McNeill 1992, 2005; Mittelberg 2006, 2010; Mu¨ ller 1998; Sager 2001; Sager and Bu¨ hrig 2005 inter alia; see also Bohle this volume). However, coming from various disciplines and theoretical backgrounds and with differing analytical perspectives in mind, a systematic linguistic method for the notation of gestures is still lacking. Systems differ greatly with respect to what is being described and in how much detail, as well as the applied terminology and methodology. Moreover, they often remain implicit with regard to their respective research question or analytic perspective (see Bressem this volume for an overview of existing notation and transcription system for gestures).
+Typically, speech is omnipresent during notation and is made the basis of comparison, which gestural descriptions have to meet. Aspects of gestures’ forms are thereby often selectively chosen subject to the accompanying utterance and the information contained therein. Although the necessity to focus on gestures’ form is gaining more and more ground in the respective research (e.g., Bergmann, Aksu, and Kopp 2011; Bressem 2012; Bressem and Ladewig 2011; Calbris 1990; Fricke 2007, 2012; Hassemer et al. 2011; Holler and Beattie 2002; Kendon 2004; Ladewig 2010, 2011, 2012; Ladewig and Bressem forthcoming; Lu¨ cking et al. 2010; Martell 2002; Mittelberg 2007; Mu¨ ller 2004, 2010, 2011; Sowa 2006; Teßendorf 2005; Webb 1996, 1998 inter alia), gestural forms alone have only rarely been the focus of notation or annotation systems (e.g., Birdwhistell 1970; Sager 2001; Sager and Bu¨ hrig 2005; Martell 2002). Against this background, it appears timely to propose a framework for the annotation of gestures from a linguistic point of view.
+The present chapter presents a notation system for gestures, which, by focusing solely on gestures’ physical appearance, directs the attention to the different facets of a gesture’s form, and focuses on its detailed characterization. The system is grounded in a linguisticsemiotic approach to gestures, assuming a heuristic separation of form, meaning, and function in the analytical process (see section 2 for further details). Accordingly, the present system differs from others existing systems in three essential aspects:
+(i) It concentrates solely on a form description of gestures. (ii) It proposes a form description independent of speech. (iii) It avoids gestural form descriptions including paraphrases of meaning.
+The notation system only includes guidelines for the notation of gestures’ forms with regard to their physical appearance. It addresses hand shapes, movement patterns, orientations of the hand, and positions in gesture space. It does not include guidelines for the segmentation and coding of gesture phases (see for example Bressem and Ladewig 2011), a meaning analysis of gestural forms (e.g., Kendon 2004; Ladewig
+
+Bereitgestellt von | RWTH Aachen Hochschulbibliothek Angemeldet | mittelberg@humtec.rwth-aachen.de Heruntergeladen am | 10.01.14 13:43
+
+70. A linguistic perspective on the notation of form features in gestures
+
+1081
+
+2010, 2011; Mu¨ ller 2004, 2010), a classiﬁcation of gestures (e.g., McNeill 1992; Mu¨ ller 1998), or other aspects of gestural coding and analysis. The notation system is considered as one module of a linguistic description and analysis of gestures, which can be freely combined with other annotation systems or with other aspects of a linguistic gesture analysis (for an overview of a linguistic method of gesture analysis see Mu¨ ller, Bressem, and Ladewig this volume; Mu¨ ller, Ladewig, and Bressem this volume).
+The notation system may be applied within a range of disciplines such as (cognitive) linguistics and semiotics, anthropology, ethnography, primatology, psychology, and cognitive science. It can be used for descriptive as well as experimental approaches to the analysis of gestures. Although it was developed within a linguistic context, it is not restricted to linguistic research questions. On the contrary, it is designed to be a widely applicable cross-disciplinary notation system for a description of gestures’ physical features.
+
+2. Theoretical and methodological framework: A linguistic (semiotic) perspective on gesture analysis
+The notation system is grounded in a linguistic-semiotic approach to gesture, in which speech and gesture are understood as inseparably connected and language is considered to be inherently multimodal (e.g. Bressem 2012; Bressem and Ladewig 2011; Fricke 2007, 2012; Ladewig 2012; Ladewig and Bressem forthcoming; Mu¨ ller 1998, 2009, 2010; see also Fricke this volume, Mu¨ ller this volume; Mu¨ ller, Bressem, and Ladewig this volume). “Starting with the assumption that speech and gesture are two distinct systems while sharing common properties, linguistic analyses of gestures aim at discovering commonalities and overlapping characteristics as well as differences and speciﬁcities of the two modalities.” (Bressem and Ladewig 2011: 86) This linguistic-semiotic approach addresses how gestures are structured and how they mean, thus providing an account of a “grammar” of gesture (e.g., Bressem 2012). Based on a close analysis of how speech and gesture are integrated, it is proposed that the grammar of language must actually be considered multimodal (e.g., Fricke 2012; Ladewig 2012). “Studies within this framework have shown that a) gestures can be segmented and classiﬁed, b) gestures show regularities and structures on the level of form, meaning and syntagmatics, c) gestures have the potential for combinatorics and hierarchical structures, and d) gestures show paradigmatic as well as syntagmatic relations.” (Bressem 2012: 12) (see also Fricke this volume; Mu¨ ller this volume; Mu¨ ller, Bressem, and Ladewig this volume)
+Studies that are conducted within the linguistic (and semiotic) framework of gesture analysis pursue a particular methodological procedure, which rests upon a separation of gesture and speech in parts of the analytic process. Gestures are ﬁrst and foremost investigated independently of speech. Only successively, gesture and speech are brought together, thus leading to an investigation of form, meaning, and function of gestures alone as well as in relation to speech (Ladewig and Bressem forthcoming). Mu¨ ller (submitted) for instance distinguishes four blocks in a linguistic (semiotic) analysis of gestures, i.e.,
+(i) form, (ii) sequential structure, (iii) context of use (local) and (iv) distribution by which gestural meaning construction and the interplay of speech
+and gesture are analyzed.
+
+Bereitgestellt von | RWTH Aachen Hochschulbibliothek Angemeldet | mittelberg@humtec.rwth-aachen.de Heruntergeladen am | 10.01.14 13:43
+
+1082
+
+V. Methods
+
+The analysis of gestures’ form thereby rests upon the “four feature scheme” (Becker 2004, 2008), which grounds the description of gestures on the four parameters of sign language (Battison 1974; Klima and Bellugi 1979; Stokoe 1960). Gestures are described in the four parameters “hand shape”, “orientation”, “movement”, and “position”. Similar to sign languages, for which each of the parameters can be distinctive in differentiating one sign from another, a linguistic-semiotic approach to gestures assumes a potential signiﬁcance of all four parameters for the creation of gestural meaning. Excluding one of the parameters from the description might result in missing a possibly meaningful realization. Here, the notation system presented in this chapter comes in. It presents a system based on the four form parameters, which has been developed during the course of an empirical study investigating recurrent gestural forms of German speakers in natural occurring conversations (Bressem 2007; Ladewig and Bressem forthcoming).
+
+3. A form-based notation system for gestures
+The notation system is characterized by the following basic attributes:
+(i) A phonetic perspective on the notation of gestural forms Contrary to other notation or coding systems, which aim at a representation of gestures’ forms including only the most common or meaningful gestural forms, the present system pursues a phonetic perspective, and aims at an articulatory representation of gestural forms. However, similar to a phonetic transcription of speech, which does not indicate all phonetic details, the notation system departs from a moderately narrow description, and leaves aside particular details of the articulation. In line with Ternes, we argue that “a phonetic transcription, which represents all phonetic particularities, is not possible because the number of possible phones is endless.” (Ternes 1999: 35, translation JB, emphasis in original) Accordingly, a phonetic perspective on the notation of gestural forms already assumes a particular degree of abstraction, yet the abstraction is not as much driven forward as to incorporate the function of gestural forms. The notational system was developed during an analysis, which aimed at a form-based description of gestures and particularly focused on the use, distribution, and co-occurrence of parameter realizations in German speakers (see section 4 for further details). Accordingly, the notation system is data driven and has been designed while working with and on the material. Later on it was adjusted to incorporate further phenomena, which emerged in other types of material.
+(ii) No anatomical notation of the arms or other body parts The system only provides notation guidelines for the hands, and leaves out articulatory as well as anatomical descriptions of arms, other body parts, and body postures (see for instance Martell 2002; Sager 2001; Sager and Bu¨ hrig 2005). We assume that solely the hands are of core importance for a notation of gestural forms and for a further analysis of gestural meaning. Furthermore, different conﬁgurations of arms, for instance, result inevitably form the notation of other parameters. When, for instance, a gesture of the ﬂat hand with a palm turned upwards (e.g., a Palm Up Open Hand gesture) is produced with a stretched arm, the fact that the arm is stretched, is captured by the parameter “position” in gesture space, if 3d based notation conventions are used as proposed by Fricke (2005) as these capture the
+
+Bereitgestellt von | RWTH Aachen Hochschulbibliothek Angemeldet | mittelberg@humtec.rwth-aachen.de Heruntergeladen am | 10.01.14 13:43
+
+70. A linguistic perspective on the notation of form features in gestures
+
+1083
+
+distance of the arm from the body. A separate notation of these features is thus not included in the present system. Furthermore, the system was not designed as a notation system allowing for a real life reproduction of gestures in artiﬁcial agents for instance (see for instance Martell 2002). Rather, it is designed to allow for a notation of gestures, which helps to uncover structures and patterns in gestures’ forms and functions, which provide a sound basis for gestural meaning analyses. (iii) A systematic characterization of gestural forms in all four parameters of sign language We suggest that it is essential to describe a given gesture with regard to all four parameters formulated in Sign Linguistics (Battison 1974; Klima and Bellugi 1979; Stokoe 1960): hand shape, orientation, movement, and position. Therefore, the notation system provides descriptive categories for the notation of hand shapes, orientations of the palm, movement patterns, and positions in gesture space. Note, that the presentation of the notation conventions for the four parameters follows a particular logic by arranging them according to their prominence. The system starts with the guidelines for the notation of hand shapes, as it assumes hand shapes to be the most prominent form features of gestures. Similar to its use in sign languages, it is assumed that the “perceptional identiﬁcation of a relatively stable hand shape in the ﬂow of movement of single signs is much easier than the identiﬁcation and nomination of a movement, place of articulation or an orientation of the hand.” (Wrobel 2007: 47, translation JB)
+Based on the fact that the orientation of the hand is strongly connected to the hand shape, the notation system places the parameter “orientation” on second position in the notational logic. Contrary to other proposals of gesture notation and coding, which argue for an inseparability of hand shape and orientation due to their close connection and thus do not include separate conventions for these two form aspects (e.g., Gut et al. 2002; Kendon 2004), the present system, based on McNeill (1992), provides for a separate notation of orientations of the hand. This assumption is grounded in a large body of research, showing that changes in the orientation of the hand may go along with changes in gestural meaning (e.g., Calbris 1990; Fricke 2012; Harrison 2009, 2010; Kendon 2004; Mittelberg 2006, 2010; Mu¨ ller 2004; Sowa 2006 inter alia).
+On third position, the system places the parameter “movement”, as it assumes movement to be the other most prominent form feature apart from hand shape. Sign language research for instance was able to show that the “perception of sign movement appears to be crucially different from that of the static parameters, such as hand shape and location (Poizner, Klima, and Bellugi 1987). Thus movement appears to be central to sign production and perception […]” (Schembri 2001: 27). Also, gesture research has shown that the parameter “movement” can be the core form feature in the establishment and differentiation of gestural meaning (e.g., Calbris 1990; Harrison 2009, 2010; Ladewig 2010, 2011; Mittelberg 2006, 2010; Mu¨ ller 2000, 2004; Teßendorf 2005 inter alia).
+The notation of the parameter “position” is the last step in notating gestures’ forms. Although it is clear that the position in gesture space may be a central factor in distinguishing meaning and function of gestures (see Ladewig 2010, 2011a) or that it can be exploited for the creation of larger gestural units (Bressem 2012; Mu¨ ller 1998, 2011), the parameter “position” appears to be a generally less central
+
+Bereitgestellt von | RWTH Aachen Hochschulbibliothek Angemeldet | mittelberg@humtec.rwth-aachen.de Heruntergeladen am | 10.01.14 13:43
+
+1084
+
+V. Methods
+
+factor regarding the perception of gestures. Only in exceptional cases, such as in extremely large gestures for instance, the position in gesture space is perceptually especially salient, or when position is used to indicate deictic information, such as where a given object was placed, or to set up spatial relations between objects. (iv) A characterization of gestural forms independently of speech Based on the assumption that a description of gestural form features should precede an analysis of their meaning(s) and function(s), the notation of gestures’ forms is separated from the accompanying verbal utterance. This is done in order to avoid ascriptions possibly derived from its dependence on speech and because it is methodologically sound, since an analysis of possible meaning of gestural forms, such as in a context-of use analysis of recurrent gestures for instance (Kendon 2004; Ladewig 2010, 2011; Mu¨ ller 2004), rests upon a close account of gestural form features. Accordingly, the system provides terms for the characterization, which facilitate a notation of gestural forms without sound. (v) Avoidance of gestural form notation including paraphrases of meaning and function Contrary to a large body of existing notation, coding and annotation systems, the present system avoids a notation of gestural form features, which include paraphrases of their possible meaning and functions. Labels, such as “cupped hand” or “tray” with respect to hand conﬁgurations for example are not used. Rather, the notation conventions address the gestures’ forms in the most “objective” way possible. The system presented here proposes a terminology, which captures the speciﬁc physiological and material quality of gestures without ascribing possible meanings and functions. In short, the system takes an articulatory stance towards gesture notation. (vi) Flexibility, expandability, practicability and learnability of the notation conventions As a result of its articulatory perspective, the conventions are designed to allow for their extension, especially with respect to the incorporation of new gestural forms. This characteristic of the notation system is especially prevalent for the parameter “hand shape”, as the characterization of hand shapes, consisting of a three-step procedure (see section 3.1), easily allows the incorporation of new types of conﬁgurations. Furthermore, and even more importantly, the system was designed in order to be practicable and learnable. The terms should thus be intuitive and easy to adopt by researchers from various disciplines. This means that no particular abbreviations, symbols or signs were assigned to the terms. The aim was rather to suggest terms, which preserve the various forms of gestures physical appearance as part of their naming.
+
+3.1. Notation of parameter “hand shape”
+For the description of the parameter “hand shape”, the notation system falls back on a differentiation made by the HamNoSys coding system for German sign languages (Prillwitz et al. 1989). Similar to HamNoSys, the notation system assigns the various hand shapes to four basic categories:
+
+(i) ﬁst, (ii) ﬂat hand, (iii) single ﬁngers, and (iv) combinations of ﬁngers (see Fig. 70.1).
+Bereitgestellt von | RWTH Aachen Hochschulbibliothek Angemeldet | mittelberg@humtec.rwth-aachen.de Heruntergeladen am | 10.01.14 13:43
+
+70. A linguistic perspective on the notation of form features in gestures
+
+1085
+
+This distinction is based on the idea that the four categories show different prominent areas, which determine the hand’s shape. With respect to the “ﬂat hand”, for example, the palm of the hand dominates the shape of the whole hand conﬁguration. For the category “combinations of ﬁngers”, however, single ﬁngers as well as combined ﬁngers in association with the palm determine the conﬁguration of the hand as a whole.
+
+1. “Fist”
+
+2. “Flat hand” 3. “Single fingers” 4. “Combination of fingers”
+
+Fig. 70.1: 4 basic categories of hand conﬁguration
+Accordingly, the description of the hand shape rests upon the evaluation of the most prominent form feature of the hand, and questions whether
+(i) the hand is formed to a ﬁst, (ii) the palm is the most prominent feature of the conﬁguration, (iii) single ﬁngers determine its conﬁguration or (iv) combinations of ﬁngers alone or in association with the palm dominate the shape
+of the hand.
+
+Deciding on the particular category is therefore the ﬁrst step in the depiction of the parameter “hand shape”.
+In addition, hand shapes involving both hands have to be distinguished. These are either separated based on a) the four categories, the number of digits involved, and the shape of the ﬁngers (see below) or b) named individually such as in “hands interlocked”.
+For the hand shapes assigned to the category “single ﬁngers”, “combinations of ﬁngers”, and “hand shapes involving both hands”, the hand conﬁguration is further speciﬁed by the involved number and shape of the digits. In order to differentiate the ﬁngers of the hand, they are numbered, starting from 1 (=thumb) to 5 (=little ﬁnger).
+After identifying and numbering the digits, their particular form has to be speciﬁed. Here, six different shapes are distinguished, i.e., the digit is
+
+(i) stretched, (ii) bent, (iii) crooked, (iv) ﬂapped down, (v) connected, or (vi) touching (see Fig. 70.2 below).
+
+stretched
+
+bent
+
+crooked
+
+flapped down connected
+
+touching
+
+Fig. 70.2: Overview of the six shapes of the digits
+Bereitgestellt von | RWTH Aachen Hochschulbibliothek Angemeldet | mittelberg@humtec.rwth-aachen.de Heruntergeladen am | 10.01.14 13:43
+
+1086
+
+V. Methods
+
+These shapes correspond to differences in ﬂexing the joints of the digits. Whereas in the shape “stretched” no joint is ﬂexed, the form “bent” shows a little ﬂexing of the joint at the ﬁngertip as well as the middle knuckle joint. If the digits are “crooked”, the joints at the ﬁnger tip, the middle knuckle joint as well as the joint at the rudiment of the digit are ﬂexed, whereas the middle knuckle joint is ﬂexed the most. If the digit is depicted as “ﬂapped down”, the digit shows only a ﬂexion of the joint at the rudiment and is almost at right angles to the palm.
+The shapes “connected” and “touching” specify shapes of the ﬁngers, in which 2 or more ﬁngers are in contact. The shape “connected” applies to conﬁgurations of the digits, in which the ﬁngers are “bent” and thus show a ﬂexion of all three knuckle joints, but are additionally connected at the very tip of the ﬁnger. For the shape “touching”, however, the digits are “ﬂapped down” and touch each other at the entire ﬁrst limb of the digit (see Fig. 70.3 for examples of hand shapes involving the combination of ﬁngers).
+Furthermore, the marker “spread” is assigned if, in cases of the category “combinations of ﬁngers”, the ﬁngers are separated from each other. In these cases, the ﬁngers are spread apart, i.e., the space between them is enlarged by upholding an extra amount of muscle tension in the whole conﬁguration of the hand.
+
+1+2 connected
+
+1+3 connected
+
+Combination of fingers
+
+1+2 crooked
+
+1+2 bent
+
+1–5 crooked
+
+1–5 bent
+
+1–5 spread bent
+
+2–5 flapped down
+
+2–5 flapped down 1 stretched
+
+2–5 bent
+
+1–5 touching 1+5 connected
+
+1+2 touching
+
+Fig. 70.3: Examples of hand shapes involving the combination of ﬁngers
+The notation of the parameter “hand shape” involves three steps:
+(i) Assigning the hand shape to one of the four categories or classifying it as a conﬁguration involving both hands;
+(ii) Numbering of each ﬁnger; (iii) Specifying the shape of the digit.
+3.2. Notation of parameter “orientation”
+The coding of the parameter “orientation” is based on the distinction made by McNeill (1992). Accordingly, the notation of a hand’s orientation depends on a) the orientation of the palm and b) the gesture space. Consequently, the description of the orientation involves a two-part procedure, in which ﬁrst the orientation of the palm and secondly the hand’s orientation with respect to the gesture space have to be distinguished.
+Bereitgestellt von | RWTH Aachen Hochschulbibliothek Angemeldet | mittelberg@humtec.rwth-aachen.de Heruntergeladen am | 10.01.14 13:43
+
+70. A linguistic perspective on the notation of form features in gestures
+
+1087
+
+For the characterization of the palm’s orientation, four different basic angles are distinguished:
+
+(i) palm up, (ii) palm down, (iii) palm lateral, and (iv) palm vertical (McNeill 1992: 380).
+
+In addition to these four, the marker “diagonal” (Bressem 2006) is used to further differentiate the four basic angles and to mark an intermediate orientation between them. While in the case of a “palm lateral”, the hand is parallel to the sagittal line of the body’s center, the marker “diagonal” indicates a 45 degrees angle to the body’s center line (see Figs. 70.4 and 70.5) or with regard to the body of the speaker.
+
+PLdiTC
+
+PLTC
+
+PLdiAC
+
+sagittal axis sagittal axis sagittal axis
+
+body of speaker
+
+body of speaker
+
+Fig. 70.4: Diagonal orientation PLdiTC, PLdiAC
+
+body of speaker
+
+PLdiAB
+
+PVAB
+
+PVdiTB
+
+body of speaker body of speaker body of speaker
+
+Fig. 70.5: Diagonal orientation PVdiAB, PVdiTB
+The orientations “palm lateral”, “palm vertical” and any orientation additionally tagged by the marker “diagonal”, is further differentiated with respect to the gesture space. Here, four types are distinguished:
+Bereitgestellt von | RWTH Aachen Hochschulbibliothek Angemeldet | mittelberg@humtec.rwth-aachen.de Heruntergeladen am | 10.01.14 13:43
+
+1088
+
+V. Methods
+
+(i) towards center, (ii) away center, (iii) towards body, and (iv) away body (McNeill 1992: 380).
+
+Additionally, if necessary, the orientation of the ﬁngers such as “ﬁngers down” will be noted. The characterization of a hand’s orientation is therefore always a combination of “orientation 1” and “orientation 2”, as in “palm vertical (1) away body (2)” for example.
+To sum up: the notation of the parameter “orientation” involves four steps:
+
+(i) Depict the basic orientation of the hand. (ii) If necessary, specify the orientation by the marker “diagonal”. (iii) Characterize the hands orientation in relation to the gesture space. (iv) And if necessary, specify the ﬁngers’ orientation.
+
+3.3. Parameter “movement”
+As the parameter “movement” is the most complex of all the parameters, three aspects of movement are considered separately: type of movement, direction of movement, and quality of movement.
+
+3.3.1. Type of movement
+The shape of motion patterns is accounted for in the type of movement. Here, basic movement types are distinguished into:
+
+(i) straight movement, (ii) arced movement, (iii) circle, (iv) spiral, (v) zigzag, and (vi) s-line (see Fig. 70.6).
+
+For movements executed by the wrist of the hand, the notation system distinguishes three possible types, i.e., “bending”, “raising”, and “rotation” (see for instance Prillwitz et al. 1989) (see Fig. 70.7).
+
+straight
+
+arced
+
+circle
+
+zigzag
+
+s-line
+
+spiral
+
+Fig. 70.6: Basic types of movements
+Bereitgestellt von | RWTH Aachen Hochschulbibliothek Angemeldet | mittelberg@humtec.rwth-aachen.de Heruntergeladen am | 10.01.14 13:43
+
+70. A linguistic perspective on the notation of form features in gestures
+
+bending to puls
+
+raising bending to 1
+
+bending to 5
+
+rotation
+
+1089
+
+Fig. 70.7: Types of movement for wrist (ﬁgure taken from Prillwitz et al. 1989)
+The third type of motion patterns, namely movements of single ﬁngers are depicted according to the basic movement types “straight”, “arced”, and “circle”. Additionally, for the depiction of movements executed by all ﬁngers of a hand, “beating of ﬁngers”, “ﬂapping down”, “grabbing movement”, and “closing of ﬁngers” is differentiated.
+3.3.2. Direction of movement
+After describing the type of movement, the motion patterns need to be further speciﬁed according to their direction. With respect to the movements of the arm and shoulder as well as single ﬁngers, three main directions are distinguished:
+(i) movements along the horizontal axis (right and left, regarded from the perspective of the gesturer),
+(ii) movements along the vertical axis (up and down), and (iii) movements along the sagittal axis (away from body and towards body).
+Additionally, these directions can be further differentiated by the supplement “diagonal”, for example “diagonal up right”. In these cases, the supplement “diagonal” breaks up the separation of the movement directions mentioned above and forms a separate class, i.e., movements along the diagonal axis (see Fig. 70.8 and 70.9).
+In addition to these three and possibly four movement directions, a further aspect of movement direction is considered, namely circular and spiral motions. These movements are distinguished based on whether the direction is a) clockwise or b) counter clockwise. Whereas circular motions are only characterized according to these two directions, spiral motions are further depicted regarding their direction on one of the four axes. Thus, the
+
+up
+
+left
+
+right
+
+down
+
+Fig. 70.8: Directions of movements along the vertical and horizontal axis
+Bereitgestellt von | RWTH Aachen Hochschulbibliothek Angemeldet | mittelberg@humtec.rwth-aachen.de Heruntergeladen am | 10.01.14 13:43
+
+1090
+
+V. Methods
+
+away body towards body
+
+body of speaker
+Fig. 70.9: Directions of movements along the sagittal axis
+characterization of a spiral motion can for example be “clockwise right”. The directions mentioned above are also used for the depiction of movements of single ﬁngers.
+For the characterization of the “bending” type of wrist movement, four directions are distinguished, i.e., “to pulse”, “to 1”, and “to 5”. The type “raising” needs no further speciﬁcation. The type “rotation” is depicted in the same fashion as circular as well as spiral motions, i.e., according to “clockwise” or “counter clockwise” direction.
+3.3.3. Quality of movement
+The aspect “quality of movement” captures further aspects of the movement patterns:
+(i) size (reduced or enlarged) (ii) speed (decelerated, accelerated), and (iii) ﬂow of movement (accentuated).
+The terms introduced for the depiction of the character of movement can and often need to be combined with one another. It is therefore possible to characterize a movement as “enlarged” and being “accentuated”.
+The aspect “quality of movement” speciﬁcally addresses the markedness of movements. A movement is marked, if it stands out in relation to other movements because of a particular saliency regarding one of these qualitative features. For instance, in an “accentuated” movement, the endpoint of the motion is stressed, because the movement is carried out with more force. This rise in force leads to an increase in the intensity at the end of the movement execution. Similarly to the accent in the spoken language, in which the accent is used to stress particular segments of speech such as syllables for instance (see for example Pompino-Marschall 1995), an accentuation in gestures may be used to stress a particular gestural segment of the motion pattern (Bressem and Ladewig 2011; see also Bressem 2012 for a more detailed account).
+The notation of the parameter “movement” involves four steps:
+(i) Depict the basic type of movement, i.e., whether it is executed by the arm or shoulder, the wrist or the ﬁngers.
+(ii) Characterize the shape of the movement accordingly.
+Bereitgestellt von | RWTH Aachen Hochschulbibliothek Angemeldet | mittelberg@humtec.rwth-aachen.de Heruntergeladen am | 10.01.14 13:43
+
+70. A linguistic perspective on the notation of form features in gestures
+
+1091
+
+(iii) Note the direction depending on the type of movement. (iv) Specify the movement according to its quality.
+
+3.3.4. Parameter “position”
+
+Regarding the parameter “position”, the notation system draws on the concept of the gesture space introduced by McNeill, which divides the gesture space “into sectors using a system of concentric squares” (McNeill 1992: 86). Consequently, 4 basic sectors are distinguished, i.e., “center center”, “center”, “periphery” and “extreme periphery” which are further differentiated according to the features “upper”, “lower” as well as “right” and “left” (see Fig. 70.10). A depiction of the hand’s position above the right shoulder, for example, would thus be coded as “periphery upper right” (right and left are assigned according to the speaker’s orientation).
+
+EXTREME PERIPHERY
+
+upper
+
+upper right
+
+upper left
+
+CENTER
+
+right
+
+CENTER-
+
+left
+
+CENTER
+
+lower right
+
+lower left
+
+lower
+Fig. 70.10: Gesture space by McNeill 1992: 89
+This depiction of the gesture space is sufﬁcient for a basic characterization of the hands position and can be used for a ﬁrst description in recording the gestural forms. However, if one is interested in a more detailed account of movements and positions in space, then a three-dimensional model of the gesture space offers an appropriate extension Fricke’s (2005, 2007). Starting from McNeill’s gesture space, Fricke assigns four dimensions to the gesture space, i.e.
+(i) 0 = speaker’s own body, (ii) 1 = close distance to the body, (iii) 2 = middle distance from the body, and (iv) 3 = far distance from the body.
+These dimensions can be assigned either to capture the forward or the backward distance from the speaker’s the body. (If the hand’s backward distance from the body
+Bereitgestellt von | RWTH Aachen Hochschulbibliothek Angemeldet | mittelberg@humtec.rwth-aachen.de Heruntergeladen am | 10.01.14 13:43
+
+1092
+
+V. Methods
+
+needs to be described, the numbers −1, −2 and −3 are used.) Fricke’s three dimensional model of gesture space may account for the hand’s distance from the speaker’s body but also for the use of interactive gesture space areas, and even for the reconstruction of movement trajectories in space.
+The notation of the parameter “position” involves two steps:
+(i) Depict the basic sector and deﬁne its further characteristics. (ii) If necessary, use Fricke’s three-dimensional model for further differentiation.
+See Fig. 70.11 for an example annotation using the notation scheme. A complete document containing graphical representations of all notation conventions can be found at www.janabressem.de/publications.
+
+Fig. 70.11: Example showing notation of gestures using the notation scheme (taken from Bressem 2012)
+4. Applying the notation system: Some examples
+The notation system sketched in this chapter has been developed during an analysis, which aimed at a form-based description of gestures and particularly focused on the use, distribution, and co-occurrence of parameter realizations in German speakers (Bressem 2006, 2007; Ladewig and Bressem forthcoming). It focused on a systematic account of the different types of hand shapes, orientations of the hand, movements, and positions in gesture space that are observable when watching people gesture. Possible meanings associated with these form features were not of interest. Based on a thorough and detailed analysis of gestural forms used by German speakers, the study tackled the question, whether the use of gestural forms is solely based on idiosyncratic preferences of individual speakers or whether it is possible to identify a repertoire of gestural forms,
+Bereitgestellt von | RWTH Aachen Hochschulbibliothek Angemeldet | mittelberg@humtec.rwth-aachen.de Heruntergeladen am | 10.01.14 13:43
+
+70. A linguistic perspective on the notation of form features in gestures
+
+1093
+
+which is used recurrently by different speakers. Starting from this research question, the study posed the following three aspects:
+(i) Which hand shapes, orientations, positions, and movements do German speakers use in naturally occurring conversations?
+(ii) How are the realizations of the four parameters distributed? (iii) Is it possible to detect frequent co-occurrences of parameter realizations?
+Based on the notation system introduced above, the study documented altogether 6 recurrent hand shapes out of which the “ﬂat hand” and the “lax ﬂat” hand were used most frequently. Moreover, it was shown that both hand shapes frequently occurred with particular orientations, movements, and positions in gesture space. The “ﬂat hand” and the “lax ﬂat hand” were documented to be used most often in a palm lateral orientation (PLTC), a straight movement downwards positioned in the center of the gestures space (cc), showing that clusters, i.e., the simultaneous occurrence of four form parameters frequently recur. Accordingly, the study was able to show that
+(i) German speakers dispose of standardized gestural forms, which they use recurrently,
+(ii) that the co-occurrence of hand shapes with other gestural forms such as orientation or movement is not random, and
+(iii) that speakers seem to dispose of clusters which depend on particular hand shapes and their co-occurrence with other speciﬁc gestural forms (for a more detailed account of the study see Bressem 2007; Ladewig and Bressem forthcoming).
+More recently, the notation system was applied in two studies examining simultaneous structures of gestures in human and non-human primates, which aimed at
+(i) the use of recurrent forms of gestures in non-human primates, (ii) a documentation of the forms and meanings of recurrent gestures in humans, and (iii) a comparison of the structural properties of gestures in nonhuman and human
+primates.
+Based on a linguistic form based method to systematically reconstruct the meaning of gestures consisting of four core building blocks, i.e., form, sequential structure, local context of use, and distribution over contexts (Mu¨ ller submitted; Bressem, Ladewig and Mu¨ ller this volume), the study investigating gestures in humans documented a repertoire of 16 recurrent gestures for German speakers. In particular, it examined two speciﬁc gestures families, i.e., groups of gestures “that have in common one or more kinesic or formational characteristics” (Kendon 2004: 227) in more detail. For one of the families, the family of the AWAY gestures consisting of 5 different recurrent gestures, it was shown that the gestures by operating on the effect of underlying everyday actions, such as an empty space around the body, the gestures have the capability of expressing gestural negation (Bressem and Mu¨ ller volume 2; see also Harrison 2009, 2010 for a further application of the notation system investigating negation in speech and gestures).
+The notation system has also been used in a study investigating the use of gestures in non-human primates (Bressem et al. in preparation). The study aimed at documenting
+
+Bereitgestellt von | RWTH Aachen Hochschulbibliothek Angemeldet | mittelberg@humtec.rwth-aachen.de Heruntergeladen am | 10.01.14 13:43
+
+1094
+
+V. Methods
+
+the simultaneous structures and speciﬁcally the degree of structural complexity present in the gestures of nonhuman primates. Starting from a group of already identiﬁed and analyzed visual and tactile gestures of Orang-Utans (Liebal, Pika, and Tomasello 2006), these two groups of gestures were reanalyzed based on the notation scheme presented in this paper (see Fig. 70.12). The study was able to document, that differences in form features correlate with changes in the contexts-of use (Kendon 2004; Ladewig 2012; Mu¨ ller 2004). Accordingly, the study not only revealed that apes modify their gestures depending on the goal they want to achieve, clearly replicating a structural pattern that we ﬁnd in the variation of gestures in human, but also that form variants of gestures may be grouped into gesture families, moreover showing striking similarities observed for gestures in humans.
+
+Fig. 70.12: Notation of tactile gestures “slap” using the notation scheme (taken from Bressem et al. in preparation)
+The application of the notation scheme in the different studies has thus shown that the form-based perspective of the notation is a suitable framework for the detection of forms, structures, and patterns in gestures. The systematicity in the description of gestures’ form along with the comparability of the terms allows for a (descriptive) statistical analysis. Combined with annotation software such as Elan (Wittenburg et al. 2006), the notation system is also suitable for further processing of the data, such as Excel or html.
+5. Conclusion
+The system presented in this paper sets the stage for a widely applicable notation system, which is usable in a range of disciplines. As the terms introduced in the system are based on form characteristics of gestures only, the notation system is open to all kinds of research foci from various approaches. Given its ﬂexibility and expandability, the system may be adjusted according to a broad range of speciﬁc research questions. Furthermore, the notation system may be used as one module in a transcription, coding or
+Bereitgestellt von | RWTH Aachen Hochschulbibliothek Angemeldet | mittelberg@humtec.rwth-aachen.de Heruntergeladen am | 10.01.14 13:43
+
+70. A linguistic perspective on the notation of form features in gestures
+
+1095
+
+annotation system for gestures (and speech) (see Bressem, Ladewig and Mu¨ ller this volume). Furthermore, it is applicable in annotation software but can also be used for analyses not using particular annotation software.
+Due to these characteristics, the notation system may be used in a range of disciplines interested in an analysis of gesture use. More importantly, however, it provides the ground for a sound description of gesture forms, which is central to any account of gesture irrespective of whether it focuses on the cognitive, semantic, interactive, or other aspects of gestures.
+
+6. References
+Battison, Robin 1974. Phonological deletion in American Sign Language. Sign Language Studies 5: 1–19.
+Becker, Karin 2004. Zur Morphologie redebegleitender Gesten. MA thesis, Department of Philosophy and Humanities, Free University Berlin.
+Becker, Karin 2008. Four-feature-scheme of gesture: Form as the basis of description. Unpublished manuscript.
+Bergmann, Kirsten, Volkan Aksu and Stefan Kopp 2011. The relation of speech and gestures: Temporal synchrony follows semantic synchrony. Proceedings of the 2nd Gesture and Speech in Interaction Conference (GeSpIn 2011). Bielefeld, Germany.
+Birdwhistell, Ray 1970. Kinesics and Context. Philadelphia: University of Pennsylvania Press. Bohle, Ulrike this volume. Approaching notation, coding, and analysis from a conversational ana-
+lysis point of view. In: Cornelia Mu¨ ller, Alan Cienki, Ellen Fricke, Silva H. Ladewig, David McNeill and Sedinha Teßendorf (eds.), Body – Language – Communication: An International Handbook on Multimodality in Human Interaction. (Handbooks of Linguistics and Communication Science 38.1.) Berlin/Boston: De Gruyter Mouton. Bressem, Jana 2006. Formen redebegleitender Gesten. Verteilung und Kombinatorik formbezogener Parameter. MA thesis, Department of Philosophy and Humanities, Free University Berlin. Bressem, Jana 2007. Recurrent form features in coverbal gestures. http://www.janabressem.de/ Downloads/Bressem-recurrent form features.pdf (accessed 11 August 2010). Bressem, Jana 2012. Repetitions in gesture: Structures, functions, and cognitive aspects. Ph.D. dissertation, Faculty of Social and Cultural Sciences, European University Viadrina, Frankfurt (Oder). Bressem, Jana this volume. Transcription systems for gestures, speech, prosody, postures, gaze. In: Cornelia Mu¨ ller, Alan Cienki, Ellen Fricke, Silva H. Ladewig, David McNeill and Sedinha Teßendorf (eds.), Body – Language – Communication: An International Handbook on Multimodality in Human Interaction. (Handbooks of Linguistics and Communication Science 38.1.) Berlin/Boston: De Gruyter Mouton. Bressem, Jana and Silva H. Ladewig 2011. Rethinking gesture phases. Semiotica 184(1/4): 53–91. Bressem, Jana, Silva H. Ladewig and Cornelia Mu¨ ller this volume. Linguistic Annotation System for Gestures. In: Cornelia Mu¨ ller, Alan Cienki, Ellen Fricke, Silva H. Ladewig, David McNeill, and Sedinha Teßendorf (eds.), Body – Language – Communication: An International Handbook on Multimodality in Human Interaction. (Handbooks of Linguistics and Communication Science 38.1.) Berlin/Boston: De Gruyter Mouton. Bressem, Jana and Cornelia Mu¨ ller volume 2. The family of AWAY gestures. In: Cornelia Mu¨ ller, Alan Cienki, Ellen Fricke, Silva H. Ladewig and David McNeill (eds.), Body – Language – Communication: An International Handbook on Multimodality in Human Interaction. (Handbooks of Linguistics and Communication Science 38.2.) Berlin/Boston: De Gruyter Mouton. Bressem, Jana, Katja Liebal, Cornelia Mu¨ ller and Nicole Stein in preparation. Recurrent forms and contexts: Families of gestures in non-human primates. Calbris, Genevie`ve 1990. The Semiotics of French Gestures. Bloomington: Indiana University Press.
+
+Bereitgestellt von | RWTH Aachen Hochschulbibliothek Angemeldet | mittelberg@humtec.rwth-aachen.de Heruntergeladen am | 10.01.14 13:43
+
+1096
+
+V. Methods
+
+Duncan, Susan D. n.d.. Coding “Manual” http://mcneilllab.uchicago.edu/pdfs/Coding_Manual.pdf (accessed 26 August 2012).
+Fricke, Ellen 2007. Origo, Geste und Raum: Lokaldeixis im Deutschen. Berlin: Walter de Gruyter. Fricke, Ellen 2012. Grammatik multimodal: Wie Sprache und Gesten zusammenwirken. Berlin: De
+Gruyter. Fricke, Ellen this volume. Towards a uniﬁed grammar of gesture and speech: A multimodal
+approach. In: Cornelia Mu¨ ller, Alan Cienki, Ellen Fricke, Silva H. Ladewig, David McNeill and Sedinha Teßendorf (eds.), Body – Language – Communication: An International Handbook on Multimodality in Human Interaction. (Handbooks of Linguistics and Communication Science 38.1.) Berlin/Boston: De Gruyter Mouton. Fricke, Ellen 2005. Geste und Raum – Probleme der Analyse und Notation. Talk held at the lecture series „Analyse und Notation von Ko¨ rperbewegungen“. Technical University Berlin. Gut, Ulrike, Karin Looks, Alexandra Thies and Dafydd Gibbon 2002. Cogest: Conversational gesture transcription system version 1.0. Fakulta¨ t fu¨ r Linguistik und Literaturwissenschaft, Universita¨t Bielefeld, ModeLex Tech. Rep 1. Harrison, Simon 2009. The expression of negation through grammar and gesture. In: Jordan Zlatev, Mats Andre´n, Marlene Johansson Falck and Carita Lundmark (eds.), Studies in Language and Cognition, 405–409. Cambridge: Cambridge Scholars Publishing. Harrison, Simon 2010. Evidence for node and scope of negation in coverbal gesture. Gesture 10(1): 29–51. Hassemer, Julius, Gina Joue, Klaus Willmes and Irene Mittelberg 2011. Dimensions and mechanisms of form constitution: Towards a formal description of gestures. Proceedings of the 2nd Gesture and Speech in Interaction Conference (GeSpIn 2011). Bielefeld, Germany. Holler, Judith and Geoffrey Beattie 2002. A micro-analytic investigation of how iconic gestures and speech represent core semantic features in talk. Semiotica 142: 31–69. Kendon, Adam 2004. Gesture: Visible Action as Utterance. Cambridge: Cambridge University Press. Kipp, Michael 2004. Gesture Generation by Imitation: From Human Behavior to Computer Character Animation. Boca Raton, FL: Dissertation.com. Klima, Edward and Ursula Bellugi 1979. The Signs of Language. Cambridge, MA: Harvard University Press. Ladewig, Silva H. 2010. Beschreiben, suchen und auffordern – Varianten einer rekurrenten Geste. In: Sprache und Literatur 41(105): 89–111. Ladewig, Silva H. 2011. Putting the cyclic gesture on a cognitive basis. CogniTextes 6. http:// cognitextes.revues.org/406 Ladewig, Silva H. 2012. Syntactic and semantic integration of gestures into speech: Structural, cognitive, and conceptual aspects. Ph.D. dissertation, Faculty of Social and Cultural Sciences, European University Viadrina, Frankfurt (Oder). Ladewig, Silva H. and Jana Bressem forthcoming. New insights into the medium ‘hand’: Discovering recurrent structures in gestures. Semiotica. Lausberg, Hedda and Han Sloetjes 2009. Coding gestural behavior with the NEUROGES – ELAN system. Behavioral Research Methods 41(3): 841–849. Liebal, Katja, Simone Pika and Michael Tomasello 2006. Gestural communication in orang-utans (Pongo pygmaeus). Gesture 6(1): 1–38. Lu¨ cking, Andy, Kirsten Bergmann, Florian Hahn, Stefan Kopp and Hannes Rieser 2010. The Bielefeld Speach and Gesture Alignment Corpus (SaGA). Paper presented at the 2010. Multimodal Corpora Workshop, hosted at the 7th Language Resources and Evaluation Conference LREC 2010. Malta. Martell, Craig 2002. Form: An extensible, kinematically-based gesture annotation scheme. Proceedings ICSLP-02: 353–356. Martell, Craig 2005. FORM: An experiment in the annotation of the kinematics of gesture. Ph.D. dissertation, Department of Computer and Information Sciences, University of Pennsylvania. McNeill, David 1992. Hand and Mind. What Gestures Reveal about Thought. Chicago: University of Chicago Press.
+Bereitgestellt von | RWTH Aachen Hochschulbibliothek Angemeldet | mittelberg@humtec.rwth-aachen.de Heruntergeladen am | 10.01.14 13:43
+
+70. A linguistic perspective on the notation of form features in gestures
+
+1097
+
+McNeill, David 2005. Gesture and Thought. Chicago: University of Chicago Press. Mittelberg, Irene 2006. Metaphor and metonymy in language and gesture: Discourse evidence for
+multimodal models of grammar. Ph.D. dissertation, Cornell University, Ithaca, NY. Ann Arbor, MI: Cornell University: UMI. Mittelberg, Irene 2007. Methodology for multimodality. One way of working with speech and gesture data. In: Monica Gonzalez-Marquez, Irene Mittelberg, Seana Coulson and Michael J. Spivey (eds), Methods in Cognitive Linguistics, 225–248. Amsterdam: John Benjamins. Mittelberg, Irene 2010. Geometric and image-schematic patterns in gesture space. In: Vyv Evans and Paul Chilton (eds.), Language, Cognition, and Space: The State of the Art and New Directions, 351–385. London: Equinox. Mu¨ ller, Cornelia 1998. Redebegleitende Gesten: Kulturgeschichte – Theorie – Sprachvergleich. Berlin: Arno Spitz. Mu¨ ller, Cornelia 2000. Zeit als Raum. Eine kognitiv-semantische Mikroanalyse des sprachlichen und gestischen Ausdrucks von Aktionsarten. In: Ernest W. B. Hess-Lu¨ ttich and H. Walter Schmitz (eds.), Botschaften verstehen. Kommunikationstheorie und Zeichenpraxis. Festschrift fu¨r Helmut Richter, 211–228. Frankfurt am Main: Peter Lang. Mu¨ ller, Cornelia 2004. Forms and uses of the Palm Up Open Hand. A case of a gesture family? In: Cornelia Mu¨ ller and Roland Posner (eds.), Semantics and Pragmatics of Everday Gestures, 233–256. Berlin: Weidler. Mu¨ ller, Cornelia 2009. Gesture and language. In: Kirsten Malmkjaer (ed.), The Routledge Linguistics Encyclopedia, 510–518. London: Routledge. Mu¨ ller, Cornelia 2010. Wie Gesten bedeuten. Eine kognitiv-linguistische und sequenzanalytische Perspektive. In: Sprache und Literatur 41(1): 37–68. Mu¨ ller, Cornelia 2011. Reaction paper. Are ‘deliberate’ metaphors really deliberate. A question of human consciousness and action. Metaphor in the Social World 1: 61–66. Mu¨ ller, Cornelia this volume. Gestures as a medium of expression: The linguistic potential of gestures. In: Cornelia Mu¨ ller, Alan Cienki, Ellen Fricke, Silva H. Ladewig, David McNeill and Sedinha Teßendorf (eds.), Body – Language – Communication: An International Handbook on Multimodality in Human Interaction. (Handbooks of Linguistics and Communication Science 38.1.) Berlin/Boston: De Gruyter Mouton. Mu¨ ller, Cornelia submitted. How gestures mean. The construal of meaning in gestures with speech. Mu¨ ller, Cornelia, Jana Bressem and Silva H. Ladewig this volume. Towards a grammar of gesture. A form-based view. In: Cornelia Mu¨ ller, Alan Cienki, Ellen Fricke, Silva H. Ladewig, David McNeill and Sedinha Teßendorf (eds.), Body – Language – Communication: An International Handbook on Multimodality in Human Interaction. (Handbooks of Linguistics and Communication Science 38.1.) Berlin: De Gruyter Mouton. Mu¨ ller, Cornelia, Silva H. Ladewig and Jana Bressem this volume. Gestures and speech from a linguistic point of view. In: Cornelia Mu¨ ller, Alan Cienki, Ellen Fricke, Silva H. Ladewig, David McNeill and Sedinha Teßendorf (eds.), Body – Language – Communication: An International Handbook on Multimodality in Human Interaction. (Handbooks of Linguistics and Communication Science 38.1.) Berlin/Boston: De Gruyter Mouton. Poizner, Howard, Edward S. Klima and Ursula Bellugi 1987. What the Hands Reveal about the Brain. Cambridge: Massachusetts Institute of Technology Press. Pompino-Marschall, Bernd 1995. Einfu¨ hrung in die Phonetik. Berlin: Walter de Gruyter. Prillwitz, Siegmund, Regina Leven, Heiko Zienert, Thomas Hanke and Jan Henning 1989. HamNoSys Version 2.0 Hamburger Notationssystem fu¨r Geba¨rdensprachen: Eine Einfu¨ hrung. Hamburg, Germany: Signum. Sager, Svend F. 2001. Probleme der Transkription nonverbalen Verhaltens. In: Klaus Brinker, Gerd Antos, Wolfgang Heinemann and Svend F. Sager (eds.), Text und Gespra¨chslinguistik. Ein Internationales Handbuch Zeitgeno¨ ssischer Forschung, 1069–1085. (Handbu¨ cher zur Sprach- und Kommunikationswissenschaft 16.2.) Berlin: De Gruyter.
+
+Bereitgestellt von | RWTH Aachen Hochschulbibliothek Angemeldet | mittelberg@humtec.rwth-aachen.de Heruntergeladen am | 10.01.14 13:43
+
+1098
+
+V. Methods
+
+Sager, Svend F. and Kristin Bu¨ hrig 2005. Nonverbale Kommunikation im Gespra¨ ch – Editorial. In: Kristin Bu¨ hrig and Svend F. Sager (eds.), Osnabru¨ cker Beitra¨ge zur Sprachtheorie 70: Nonverbale Kommunikation im Gespra¨ch, 5–17.
+Schembri, Adam 2001. Issues in the analysis of polycomponential verbs in Australian Sign Language (Auslan). Unpublished doctoral dissertation. University of Sydney.
+Sowa, Timo 2006. Understanding Coverbal Iconic Gestures in Shape Descriptions. Berlin: Akademische Verlagsgesellschaft.
+Stokoe, William C. 1960. Sign Language Structure: An Outline of the Visual Communication Systems of the American Deaf. Buffalo, NY: University of Buffalo Press.
+Ternes, Elmar 1999. Einfu¨hrung in die Phonologie. Darmstadt: Wissenschaftliche Buchgesellschaft. Teßendorf, Sedinha 2005. Pragmatische Funktionen spanischer Gesten am Beispiel des “Gestos de
+Barrer”. MA thesis, Department of Philosophy and Humanities, Free University Berlin. Teßendorf, Sedinha 2008. Pragmatic and metaphoric gestures – combining functional with cogni-
+tive approaches. Unpublished manuscript. Webb, Rebecca 1996. Linguistic features of metaphoric gestures. In: Lynn Messing (ed.), Pro-
+ceedings of WIGLS. The Workshop on the Integration of Gesture in Language and Speech. October 7–8, 1996, 79–95. Newark in Delaware: Applied Science and Engineering Laboratories Newark. Webb, Rebecca 1998. The lexicon and componentiality of American metaphoric gestures In: Christian Cave, Isabelle Guaitelle and Serge Santi (eds.), Oralite´ et Gestualite´: Communication Multimodale, Interaction, 387–391. Montreal: L’Harmattan Wittenburg, Peter, Hennie Brugman, Albert Russel, Alex Klassmann and Han Sloetjes 2006. ELAN: A professional framework for multimodality research. In: Proceedings of LREC 2006, Fifth International Conference on Language Resources and Evaluation. Wrobel, Ulrike 2007. Raum als kommunikative Ressource. Eine handlungstheoretische Analyse visueller Sprachen. Frankfurt am Main: Peter Lang.
+
+Jana Bressem, Chemnitz (Germany)
+
+71. Linguistic Annotation System for Gestures
+1. Introduction 2. Annotation of gestures 3. Annotation of speech 4. Describing gestures’ relation to aspects of speech 5. The role of speech in the annotation process 6. Practical implementation of the annotation system 7. Conclusion 8. References
+Abstract
+This chapter outlines an annotation system for gestures grounded in a cognitive linguistic approach to language use and provides guidelines for the annotation of gestures (gesture units and phases, form and motivation of form), the annotation of speech as well as the relation of gestures with speech on a range of levels of linguistic description (prosody, semantics, syntax, and pragmatics). It addresses necessary aspects for a description of
+Mu¨ller, Cienki, Fricke, Ladewig, McNeill, Teßendorf (Bedesr.)e2it0g1e3s, tBeoldltyv–oLnan|gRuaWgeT–HCoAmamcuhneicnatHioonc(HhSsKch3u8.l1b)i,bdleioGthrueykter, 1098–1124 Angemeldet | mittelberg@humtec.rwth-aachen.de Heruntergeladen am | 10.01.14 13:43
+

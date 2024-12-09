@@ -8,7 +8,7 @@
 	"maxVersion": null,
 	"priority": 100,
 	"inRepository": true,
-	"lastUpdated": "2024-05-17 20:25:00"
+	"lastUpdated": "2024-09-27 14:40:00"
 }
 
 /*
@@ -196,6 +196,7 @@ var testCases = [
 				"libraryCatalog": "DOI.org (Crossref)",
 				"pages": "69-78",
 				"publicationTitle": "Academicus International Scientific Journal",
+				"rights": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
 				"url": "https://www.medra.org/servlet/MREngine?hdl=10.7336/academicus.2014.09.05",
 				"volume": "9",
 				"attachments": [],
@@ -275,6 +276,7 @@ var testCases = [
 				"libraryCatalog": "DOI.org (Crossref)",
 				"pages": "394-410",
 				"publicationTitle": "IEEE Transactions on Plasma Science",
+				"rights": "https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html",
 				"url": "http://ieeexplore.ieee.org/document/4316723/",
 				"volume": "15",
 				"attachments": [],
